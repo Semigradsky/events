@@ -1,0 +1,25 @@
+name: MinskCSS 5
+date: 2018-12-13
+facebook: https://www.facebook.com/events/318613948869852
+videos: https://www.youtube.com/playlist?list=PL3uk4LxG9Zzmcubii5ejpZmbqTSNoQVnP
+talks:
+  -
+    name: "Стилизация форм через боль"
+    speaker: Глафира Жур
+    video: https://www.youtube.com/watch?v=jW0TKZAUAUU
+    presentation: https://glafirazhur.github.io/formsthroughthepain/
+  -
+    name: "Как внедрить стандарты разработки, чтобы никто не пострадал"
+    speaker: Александра Шинкевич
+    video: https://www.youtube.com/watch?v=2DnL7EeHmUk
+    presentation: https://neesoglasnaja.github.io/MinskCSS-5/
+  -
+    name: "Визуальная доступность в дизайне"
+    speaker: Анна Лёгкая
+    video: https://www.youtube.com/watch?v=yyCc_2dOuTM
+    presentation: https://drive.google.com/file/d/1zBMMExRLz2cn6-xEaDB-7f7lq1dY69s2/view
+  -
+    name: "This is fine"
+    speaker: Анна Селезнёва
+    video: https://www.youtube.com/watch?v=rbJuveCPwdg
+    presentation: http://askd.rocks/pres/minskcss-burnout/

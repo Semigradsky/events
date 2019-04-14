@@ -1,0 +1,10 @@
+# {{year}}
+
+{{#events}}
+## {{name}} - {{dateString}} {{#videos}}[:movie_camera:]({{videos}}){{/videos}}
+| | | |
+| --- | :---: | --- |
+{{#talks}}
+| [{{name}}]({{video}}) | {{speaker}} | {{#presentation}}[:notebook:]({{presentation}}){{/presentation}} |
+{{/talks}}
+{{/events}}

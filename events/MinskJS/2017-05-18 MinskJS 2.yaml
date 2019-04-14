@@ -1,0 +1,25 @@
+name: MinskJS 2
+date: 2017-05-18
+facebook: https://www.facebook.com/events/279382935821748/
+videos: https://www.youtube.com/playlist?list=PL-whh3wS8xsKLNp3J7Jg9LkWBbbx5T1Q6
+talks:
+  -
+    name: "Make Async Great Again"
+    speaker: Сергей Каранкевич
+    video: https://www.youtube.com/watch?v=PwYWNMbgOz4
+    presentation: https://www.slideshare.net/karankevich/make-async-great-again
+  -
+    name: "Валидация веб-форм. Часть II. JS"
+    speaker: Павел Ловцевич
+    video: https://www.youtube.com/watch?v=nxtd_idTddo
+    presentation: https://drive.google.com/file/d/1GDIb4ETB24yUsjBPHMocKRRs5YRoioH8/view
+  -
+    name: "SSR: DIY"
+    speaker: Джеймс Аквух
+    video: https://www.youtube.com/watch?v=H4GTPbf0D40
+    presentation: https://github.com/jakwuh/ssr-demo/tree/master/slides
+  -
+    name: "Kotlin for Frontend Development"
+    speaker: Руслан Ибрагимов
+    video: https://www.youtube.com/watch?v=t2Shbjrz-Sg
+    presentation: https://docs.google.com/presentation/d/1gRe2LuDCcErBWaeVt57xWIl6dZcLVBNsRg1WikVJI-A/edit

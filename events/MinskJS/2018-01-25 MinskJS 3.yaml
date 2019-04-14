@@ -1,0 +1,22 @@
+name: MinskJS 3
+date: 2018-01-25
+facebook: https://www.facebook.com/events/376143919465636/
+videos: https://www.youtube.com/playlist?list=PL-whh3wS8xsIYbyxR513W3NXU-VJIxxFq
+talks:
+  -
+    name: "JS Decorators — приоденьте свой код"
+    speaker: Никита Дубко
+    video: https://www.youtube.com/watch?v=VfF7GyNItps
+    presentation: https://mefody.github.io/talks/js-decorators/
+  -
+    name: "Сага о редаксе: redux-saga"
+    speaker: Данила Дедков
+    video: https://www.youtube.com/watch?v=R_DPcxk4ml8
+    presentation: https://drive.google.com/file/d/1OWakTpJh6V9GkYOtJmI4VleInZqXS39V/view
+  -
+    name: "Полный Spectre уязвимостей"
+    speaker: "?"
+    video: https://www.youtube.com/watch?v=hGzy17Nnc38
+    presentation:
+      - https://mefody.github.io/talks/spectre-panel-discussion/
+      - https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view
