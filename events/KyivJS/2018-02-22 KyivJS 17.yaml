@@ -1,0 +1,39 @@
+name: "KyivJS 17"
+link: 'http://kyivjs.org/'
+date: 2018-02-22
+talks:
+  - name: "Sensing Your World With Espruino"
+    speaker: Eduard Tretyakov
+    video: https://youtu.be/sGK3FhAnAZk
+    presentation: https://drive.google.com/file/d/17W_xc1JI2pVJgaXZVag0UeM9HFUO7gQa/view
+    lang: ru
+    tags:
+      - frontend
+  - name: "Metarhia Will Come - Order Will Bring"
+    speaker: 'Timur Shemsedinov, Oleksiy Orlenko'
+    video: https://youtu.be/pFULDKyyqp8
+    presentation: https://www.slideshare.net/tshemsedinov/metarhia-kievjs-22feb2018
+    lang: ru
+    tags:
+      - frontend
+  - name: "Try catch me if you can"
+    speaker: Mark Orel
+    video: https://youtu.be/GC-E8qIYchE
+    presentation: http://slides.com/markorel/try-catch#/
+    lang: uk
+    tags:
+      - frontend
+  - name: "Set/WeakSet"
+    speaker: Kyrylo Yakovenko
+    video: https://youtu.be/Wfg-_ljqaTA
+    presentation: https://drive.google.com/file/d/1DY4-P1p2fh-uLcfeGsHNmzlA48Ap-nmf/view
+    lang: ru
+    tags:
+      - frontend
+  - name: "Frontend Digest"
+    speaker: Gregory Shehet
+    video: https://youtu.be/1DsYgEPTUrA
+    presentation: https://drive.google.com/file/d/1AwvzL4mLHycn9zYaFNRTJ98UY79L3cAM/view
+    lang: ru
+    tags:
+      - frontend

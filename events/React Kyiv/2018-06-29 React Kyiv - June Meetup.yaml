@@ -1,0 +1,22 @@
+name: "React Kyiv - June Meetup"
+link: 'https://www.meetup.com/Kyiv-ReactJS-Meetup/events/249699313/'
+date: 2018-06-29
+talks:
+  - name: "State Management in React Apps with Apollo Client"
+    speaker: Sara Vieira
+    video: https://youtu.be/7u-6RR_YfdE
+    lang: ru
+    tags:
+      - frontend
+  - name: "Cypress. Final testing tool"
+    speaker: Alexey Bondarenko
+    video: https://youtu.be/tTUA4vXaIGU
+    lang: ru
+    tags:
+      - frontend
+  - name: "Better Async with Redux Saga"
+    speaker: Tim Reznichenko
+    video: https://youtu.be/k2sAc1el8xk
+    lang: ru
+    tags:
+      - frontend

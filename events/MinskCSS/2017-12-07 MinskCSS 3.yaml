@@ -1,4 +1,4 @@
-name: MinskCSS 3
+name: "MinskCSS 3"
 date: 2017-12-07
 facebook: https://www.facebook.com/events/373854736369599
 videos: https://www.youtube.com/playlist?list=PL3uk4LxG9ZzmpcwNhNSpxgexUpyLstooi
@@ -8,13 +8,22 @@ talks:
     speaker: Никита Дубко
     video: https://www.youtube.com/watch?v=tygiat10a3A
     presentation: https://mefody.github.io/talks/print-with-css/
+    lang: ru
+    tags:
+      - 'frontend'
   -
     name: "Оценка фронтенда: перестаем тыкать пальцем в небо"
     speaker: Александра Шинкевич
     video: https://www.youtube.com/watch?v=oBa5Xz8hzeA
     presentation: https://neesoglasnaja.github.io/MinskCSS-3/
+    lang: ru
+    tags:
+      - 'soft'
   -
     name: "Солидный фронтенд"
     speaker: Павел Богатырёв
     video: https://www.youtube.com/watch?v=ERUK3t66XjA
     presentation: https://drive.google.com/file/d/1Iw_JLJEkkdMgCN6tyPP-a8RR0UYh1Vnu/view
+    lang: ru
+    tags:
+      - 'frontend'

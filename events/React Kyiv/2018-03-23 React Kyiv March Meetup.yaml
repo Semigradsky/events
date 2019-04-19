@@ -1,0 +1,31 @@
+name: "React Kyiv March Meetup"
+link: 'https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247310850/'
+date: 2018-03-23
+videos: 'https://www.youtube.com/playlist?list=PL4x5O16mMH3YC2QWSt4223qS5wq1mafs8'
+talks:
+  - name: "Facebook product Infrastructure"
+    speaker: Alex Kotliarskyi
+    video: https://youtu.be/UNdJFEmKkJU
+    lang: ru
+    tags:
+      - frontend
+  - name: "Brief Intro to Styled Components"
+    speaker: Dmitry Barabash
+    video: https://youtu.be/BYxf3lRD0Q4
+    lang: ru
+    tags:
+      - frontend
+  - name: "Dirty animations in the stateful world"
+    speaker: Alexey Taktarov
+    video: https://youtu.be/bn3je3u-UIo
+    presentation: http://molefrog.com/stateful-animations/
+    code: 'https://github.com/molefrog/stateful-animations'
+    lang: ru
+    tags:
+      - frontend
+  - name: "Q&A Panel – React Kyiv March"
+    speaker: ''
+    video: https://youtu.be/Vokq8ndgd5c
+    lang: ru
+    tags:
+      - frontend

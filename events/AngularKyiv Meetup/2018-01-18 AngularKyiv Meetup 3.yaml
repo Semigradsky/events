@@ -1,0 +1,28 @@
+name: "AngularKyiv Meetup 3"
+date: 2018-01-18
+videos: https://www.youtube.com/watch?v=YN1ZRorvd00
+talks:
+  - name: "Angular. Deploying app"
+    speaker: Олег Дихтярук
+    video: https://www.youtube.com/watch?v=YN1ZRorvd00
+    presentation:
+    lang: uk
+    tags:
+      - frontend
+      - Angular
+  - name: "Angular + RxJS = BFF"
+    speaker: Сергей Кошман
+    video: https://www.youtube.com/watch?v=YN1ZRorvd00
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - Angular
+  - name: "Реализация адаптивного дизайна с помощью @angular/cdk"
+    speaker: Роман Кисенко
+    video: https://www.youtube.com/watch?v=YN1ZRorvd00
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - Angular

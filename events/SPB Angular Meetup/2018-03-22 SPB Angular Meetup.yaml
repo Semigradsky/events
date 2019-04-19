@@ -1,0 +1,19 @@
+name: "SPB Angular Meetup"
+link: 'https://meetup.tinkoff.ru/events/spb-angular-meetup'
+date: 2018-03-22
+talks:
+  - name: "Стратегия обнаружения изменений в Angular"
+    speaker: Максим Иванов
+    video: https://youtu.be/2cV4i-g6Oxc
+    presentation: https://docs.google.com/presentation/d/1QrnHoBEgHtj_a48QdHLme8Di-OHjtajmOxVC2WlNOvY/edit#slide=id.g26d86d3325_0_0
+    code: 'https://github.com/splincode/meetups/blob/master/2018/march/README.md'
+    lang: ru
+    tags:
+      - frontend
+  - name: "Метапрограммирование"
+    speaker: Иван Ботанов
+    video: https://youtu.be/JOO_Trs3X5M
+    code: 'https://github.com/StressoID/custom-angular-decorators'
+    lang: ru
+    tags:
+      - frontend

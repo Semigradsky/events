@@ -1,0 +1,34 @@
+name: "JSNN 9"
+link: 'https://www.it52.info/events/2018-03-03-jsnn-9'
+date: 2018-03-03
+talks:
+  - name: "Поиск новых форм"
+    speaker: Никита Глазов
+    video: https://youtu.be/o2WooiJ1A3w
+    lang: ru
+    tags:
+      - frontend
+  - name: "'Сетевое взаимодействие в WEB: аудит производительности'"
+    speaker: Борис Стрельников
+    video: https://youtu.be/albWwa93c4E
+    lang: ru
+    tags:
+      - frontend
+  - name: "Жизнь после Angular CLI"
+    speaker: Алексей Охрименко
+    video: https://youtu.be/PnhzXnaRmiw
+    lang: ru
+    tags:
+      - frontend
+  - name: "Магически исчезающий JS фреймворк"
+    speaker: Павел Малышев
+    video: https://youtu.be/laK43QpHYdg
+    lang: ru
+    tags:
+      - frontend
+  - name: "Куда катится веб"
+    speaker: 'Сергей Рубанов, Андрей Яманов'
+    video: https://youtu.be/ZtJZ2qDjee4
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,32 @@
+name: "RND.JS 6"
+link: 'https://it61.info/events/2018-05-26-rnd-js-6-286'
+date: 2018-05-26
+talks:
+  - name: "Оптимизация React Redux приложений при помощи Reselect"
+    speaker: Алексей Герасимов
+    video: https://youtu.be/elCwlVuEgqs
+    presentation: https://docs.google.com/presentation/d/1phwOWESw--Ndxt1K5AuFjf0O5fHVxQZFXOaDgsrupEE/edit#slide=id.p
+    lang: ru
+    tags:
+      - frontend
+  - name: "Реактивен ли React"
+    speaker: Александр Храмов
+    video: https://youtu.be/Pmp5JVd0Eok
+    presentation: https://vk.com/doc475435776_467217490?hash=b32946dccb31f29a40&dl=69fb419d2a2c1ef2f9
+    lang: ru
+    tags:
+      - frontend
+  - name: "RxJS по косточкам"
+    speaker: Андрей Алексеев
+    video: https://youtu.be/2otvaKKUXto
+    presentation: https://aalexeev239.github.io/rxjs-intro/
+    lang: ru
+    tags:
+      - frontend
+  - name: "'Практикум ES7, React, Mobx'"
+    speaker: Сергей Алехин
+    video: https://youtu.be/u1qogKC8VL4
+    code: 'https://bitbucket.org/sa18/finrostdemo'
+    lang: ru
+    tags:
+      - frontend

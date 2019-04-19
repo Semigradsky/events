@@ -1,0 +1,28 @@
+name: "Front-end MeetUp в Райффайзенбанк"
+link: 'https://habr.com/company/raiffeisenbank/blog/351926/'
+date: 2018-03-28
+talks:
+  - name: "Higher Order Components with Functional Patterns Using Recompose"
+    speaker: Григоров Дмитрий
+    video: https://youtu.be/5zPbydsnLoE?t=2m3s
+    lang: ru
+    tags:
+      - frontend
+  - name: "От jQuery до React"
+    speaker: Попков Алексей
+    video: https://youtu.be/5zPbydsnLoE?t=29m56s
+    lang: ru
+    tags:
+      - frontend
+  - name: "'React, Mobx и ES7'"
+    speaker: Алехин Сергей
+    video: https://youtu.be/5zPbydsnLoE?t=1h18m16s
+    lang: ru
+    tags:
+      - frontend
+  - name: "Cборка Docker+Nginx+CRA+Koajs+MongoDB за 10 мин"
+    speaker: Сычев Илья
+    video: https://youtu.be/5zPbydsnLoE?t=1h54m1s
+    lang: ru
+    tags:
+      - frontend

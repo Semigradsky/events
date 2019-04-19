@@ -1,0 +1,25 @@
+name: "OdessaFrontend Meetup 5"
+link: 'http://odessafrontend.com/05/'
+date: 2018-01-31
+talks:
+  - name: "Webpack для самых маленьких"
+    speaker: Никита Ротарь
+    video: https://youtu.be/YgmupTGXkR4
+    presentation: https://www.slideshare.net/odessafrontend/webpack-odessafrontend-meetup-5
+    lang: ru
+    tags:
+      - frontend
+  - name: "Freelance. Как все успеть и заработать денег?"
+    speaker: Иван Карабаджак
+    video: https://youtu.be/T9qbhZgAToo
+    presentation: https://www.slideshare.net/odessafrontend/freelance-odessafrontend-meetup-5
+    lang: ru
+    tags:
+      - frontend
+  - name: "'CSS Grid: когда уже можно?'"
+    speaker: Сергей Полющенков
+    video: https://youtu.be/4rctIgzM1mQ
+    presentation: https://odessafrontend.github.io/grid/#
+    lang: ru
+    tags:
+      - frontend

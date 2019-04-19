@@ -1,4 +1,4 @@
-name: MinskCSS 1
+name: "MinskCSS 1"
 date: 2016-12-15
 facebook: https://www.facebook.com/events/1424883897556955/
 videos: https://www.youtube.com/playlist?list=PL3uk4LxG9Zzl8MRXT1IpGxuZormysIbjg
@@ -8,13 +8,22 @@ talks:
     speaker: Анна Селезнёва
     video: https://www.youtube.com/watch?v=hwseJaIsoBw
     presentation: http://askd.rocks/pres/css/
+    lang: ru
+    tags:
+      - 'frontend'
   -
     name: "Лапша в CSS"
     speaker: Наталия Короткова
     video: https://www.youtube.com/watch?v=iTEYz90Sjmk
     presentation: http://slides.com/nataliyakaratkova/noodles-in-css/#/
+    lang: ru
+    tags:
+      - 'frontend'
   -
     name: "Стили на пользу пользователю"
     speaker: Василий Ванчук
     video: https://www.youtube.com/watch?v=1MrQqtZYkM8
     presentation: https://www.slideshare.net/VasilVanchuck/minskcss-1-15
+    lang: ru
+    tags:
+      - 'frontend'

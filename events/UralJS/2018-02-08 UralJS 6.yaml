@@ -1,0 +1,25 @@
+name: "UralJS 6"
+link: 'https://habrahabr.ru/company/skbkontur/blog/349042/'
+date: 2018-02-08
+talks:
+  - name: "This is зло"
+    speaker: Николай Карев
+    video: https://youtu.be/tQJ8YafbtUU
+    presentation: https://goo.gl/Vc7c37
+    lang: ru
+    tags:
+      - frontend
+  - name: "Безжалостная типизация"
+    speaker: Михаил Шатихин
+    video: https://youtu.be/_00hPGacr18
+    presentation: https://goo.gl/E4fmL1
+    lang: ru
+    tags:
+      - frontend
+  - name: "'React и данные: Эффективные способы хранения и изменения стейта'"
+    speaker: Алексей Иванов
+    video: https://youtu.be/W0vZQaWqopw
+    presentation: https://goo.gl/TXDCYL
+    lang: ru
+    tags:
+      - frontend

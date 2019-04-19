@@ -1,4 +1,4 @@
-name: MinskJS 1
+name: "MinskJS 1"
 date: 2017-03-01
 facebook: https://www.facebook.com/events/648975141952649/
 videos: https://www.youtube.com/playlist?list=PL-whh3wS8xsKFQUJwBgWOOm8bAO4JmFiU
@@ -8,13 +8,24 @@ talks:
     speaker: Иван Акулов
     video: https://www.youtube.com/watch?v=8op8ZtKsrSA
     presentation: https://iamakulov.com/pages/webpack/slides.pdf
+    lang: ru
+    tags:
+      - 'frontend'
+      - 'bundling'
   -
     name: "Создание универсальных (изоморфных) библиотек на Javascript"
     speaker: Евгений Миротин
     video: https://www.youtube.com/watch?v=vTSapALmvKY
     presentation: https://docs.google.com/presentation/d/1uFxB3eb_9b7IqWkl_RFWtjKkD58J8nB4jUCjYjeQPqI/pub?start=false&loop=false&delayms=5000&slide=id.p
+    lang: ru
+    tags:
+      - 'frontend'
   -
     name: "ClojureScript для скептиков"
     speaker: Юрий Соловьёв
     video: https://www.youtube.com/watch?v=zJjaOeNoIhY
     presentation: https://docs.google.com/presentation/d/1itFQuBnKihJcENgIKzNbP2dRWDfIhjXUhqkhpsgeJDg/edit
+    lang: ru
+    tags:
+      - 'frontend'
+      - 'ClojureScript'

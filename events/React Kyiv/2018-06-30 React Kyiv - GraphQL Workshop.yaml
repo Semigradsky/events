@@ -1,0 +1,40 @@
+name: "React Kyiv - GraphQL Workshop"
+link: 'https://www.meetup.com/Kyiv-ReactJS-Meetup/events/252002282/'
+date: 2018-06-30
+videos: 'https://www.youtube.com/playlist?list=PL4x5O16mMH3ZGkPTGkBBVFFfSr75Vxgu_'
+talks:
+  - name: "GraphQL Workshop – Part I"
+    speaker: Sara Vieira
+    video: https://youtu.be/Ql_iiJH0whM
+    code: 'https://github.com/SaraVieira/graphql-workshop'
+    lang: en
+    tags:
+      - frontend
+  - name: "GraphQL Workshop – Part II"
+    speaker: Sara Vieira
+    video: https://youtu.be/2DT6esPbO_U
+    code: 'https://github.com/SaraVieira/graphql-workshop'
+    lang: en
+    tags:
+      - frontend
+  - name: "GraphQL Workshop – Part III"
+    speaker: Sara Vieira
+    video: https://youtu.be/yO-mqTln-co
+    code: 'https://github.com/SaraVieira/graphql-workshop'
+    lang: en
+    tags:
+      - frontend
+  - name: "GraphQL Workshop – Part IV"
+    speaker: Sara Vieira
+    video: https://youtu.be/fIfRfbjiBUI
+    code: 'https://github.com/SaraVieira/graphql-workshop'
+    lang: en
+    tags:
+      - frontend
+  - name: "GraphQL Workshop – Part V"
+    speaker: Sara Vieira
+    video: https://youtu.be/9bz2xKqDkek
+    code: 'https://github.com/SaraVieira/graphql-workshop'
+    lang: en
+    tags:
+      - frontend

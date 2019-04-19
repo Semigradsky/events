@@ -1,0 +1,22 @@
+name: "Frontend Meetup 1"
+link: 'https://www.meetup.com/DEVNSK/events/246962197/'
+date: 2018-02-03
+talks:
+  - name: "Библиотека компонентов для дизайнера и разработчика"
+    speaker: Максим Соснов
+    video: https://youtu.be/HPDmUqFgG0E
+    lang: ru
+    tags:
+      - frontend
+  - name: "Реактивное программирование с помощью RxJS"
+    speaker: Илья Зайцев
+    video: https://youtu.be/GmnHkHb86a4
+    lang: ru
+    tags:
+      - frontend
+  - name: "Flow в легаси коде - легко!"
+    speaker: Глеб Фокин
+    video: https://youtu.be/QkZhPpRhxSk
+    lang: ru
+    tags:
+      - frontend

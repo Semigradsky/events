@@ -1,0 +1,35 @@
+name: "The Rolling Scopes 46. Mogilev"
+link: 'https://mogilev.rollingscopes.com/'
+date: 2018-04-21
+videos: 'https://www.youtube.com/playlist?list=PLe--kalBDwjgGdRHU_aWBTpQHoqWzjQPF'
+talks:
+  - name: "MONADS - CODING FUNCTIONALLY"
+    speaker: Aliaksandr Famchankou
+    video: https://youtu.be/7gAPuReBBYY
+    lang: ru
+    tags:
+      - frontend
+  - name: "НОРМАЛЬНО ДЕЛАЙ — НОРМАЛЬНО БУДЕТ"
+    speaker: Pavel Birukou
+    video: https://youtu.be/p-XM8DeMnu4
+    lang: ru
+    tags:
+      - frontend
+  - name: "GROWING AS A DEVELOPER"
+    speaker: Paul Yuhnovich
+    video: https://youtu.be/9m1PnI6w2Lo
+    lang: ru
+    tags:
+      - frontend
+  - name: "NODE.JS WORLD"
+    speaker: Artsiom Marozau
+    video: https://youtu.be/ZYaLC1j23Cc
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS GRID LAYOUT - PRACTICE TRICKS"
+    speaker: Yauhen Kavalchuk
+    video: https://youtu.be/1Vo048uwiBY
+    lang: ru
+    tags:
+      - frontend

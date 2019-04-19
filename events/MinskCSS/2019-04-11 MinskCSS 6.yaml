@@ -1,4 +1,4 @@
-name: MinskCSS 6
+name: "MinskCSS 6"
 date: 2019-04-11
 facebook: https://www.facebook.com/events/521531511705650
 videos: https://www.youtube.com/playlist?list=PL3uk4LxG9Zzl9LTp0yLfaXhIu7-xoUHQN
@@ -8,13 +8,22 @@ talks:
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=Gq1pXTFO3-M
     presentation: https://drive.google.com/file/d/1gaN_TW8iwo9bUxGuZG4kkjb1z9LAArlR/view
+    lang: ru
+    tags:
+      - 'frontend'
   -
     name: "CSS ещё не торт"
     speaker: Вероника Новикова
     video: https://www.youtube.com/watch?v=g20pCKeSgUU
     presentation: https://drive.google.com/file/d/1p1WG9dWIVgvb4vXI7TzBPs1wU2uLLvJS/view
+    lang: ru
+    tags:
+      - 'frontend'
   -
     name: "The state of CSS"
     speaker: Серёжа Попов
     video: https://www.youtube.com/watch?v=gw9x2zhyxL0
     presentation: https://drive.google.com/file/d/1b890dFOQ25ae5eXc_2X8pKcW8a1IVlEC/view
+    lang: ru
+    tags:
+      - 'frontend'

@@ -1,0 +1,26 @@
+name: "OdessaFrontend Meetup 6"
+link: 'https://odessafrontend.com/06/'
+date: 2018-03-27
+videos: 'https://www.youtube.com/playlist?list=PLa-3wmdVKs0vRzS1kBalIJnlSVtPvO3VZ'
+talks:
+  - name: "JS + $100 = Smart Home"
+    speaker: Олег Сокур
+    video: https://youtu.be/DXU_Rx3oMkA
+    presentation: https://www.slideshare.net/odessafrontend/js-100-smart-home-odessafrontend-meetup-6
+    lang: ru
+    tags:
+      - frontend
+  - name: "Server-side Rendering with JavaScript Frameworks"
+    speaker: Андрей Михайлов
+    video: https://youtu.be/Q4q8fQWVrpc
+    presentation: https://www.slideshare.net/odessafrontend/serverside-rendering-with-javascript-frameworks-odessafrontend-meetup-6
+    lang: ru
+    tags:
+      - frontend
+  - name: "Организация CSS-кода и еще одна методология"
+    speaker: Анатолий Притульский
+    video: https://youtu.be/Sp-BDy1aASM
+    presentation: https://odessafrontend.github.io/upcss/index.html#/
+    lang: ru
+    tags:
+      - frontend

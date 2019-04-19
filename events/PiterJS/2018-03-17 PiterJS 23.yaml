@@ -1,0 +1,31 @@
+name: "PiterJS 23"
+link: 'https://medium.com/piterjs/piterjs23-daedfe70625e'
+date: 2018-03-17
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxhRxoM3NmiGXfEqgfmN0hWq'
+talks:
+  - name: "Web Components для практичных людей"
+    speaker: Артём Пендюрин
+    video: https://youtu.be/OVQCN_bUkZM
+    presentation: https://piterjs.org/events/23/web-components.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Зависимости в приложении"
+    speaker: Евгений Щепотьев
+    video: https://youtu.be/xtcwpACFtKc
+    presentation: https://piterjs.org/events/23/deps.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "'PiterJS #23 - Дебаты 1 часть'"
+    speaker: ''
+    video: https://youtu.be/vJ-4TUKmMr8
+    lang: ru
+    tags:
+      - frontend
+  - name: "'PiterJS #23 - Дебаты 2 часть'"
+    speaker: ''
+    video: https://youtu.be/mTHMKWxjo8E
+    lang: ru
+    tags:
+      - frontend

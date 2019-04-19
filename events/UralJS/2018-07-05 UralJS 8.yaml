@@ -1,0 +1,19 @@
+name: "UralJS 8"
+link: 'https://habr.com/company/skbkontur/blog/417427/'
+date: 2018-07-05
+videos: 'https://www.youtube.com/playlist?list=PLVxsRDo37_ZfAl0mDHxcMtlPTA4CRn5nh'
+talks:
+  - name: "Не разводите сырость"
+    speaker: Александр Сушко
+    video: https://youtu.be/tDceuplb3sI
+    presentation: https://slides.com/sashasushko/blob#/
+    lang: ru
+    tags:
+      - frontend
+  - name: "'Алиса, что ты умеешь?'"
+    speaker: Роман Парадеев
+    video: https://youtu.be/EhZKksgvJeM
+    presentation: https://docviewer.yandex.ru/view/0/?*=Y9Lw8t98e9V9LLj3CqlgyQp%2F4x97InVybCI6InlhLWRpc2stcHVibGljOi8vNWExUXpQa2hOK0tZRzRJVjA3RzhIVTRaQ25DYUljWmFzVGU4MzBuUXZKTT0iLCJ0aXRsZSI6InVyYWxqcy1hbGljZS13aGF0LWNhbi15b3UtZG8ucGRmIiwidWlkIjoiMCIsInl1IjoiNzI2MDkwNzAxMTUzMzExMDE0OCIsIm5vaWZyYW1lIjpmYWxzZSwidHMiOjE1MzMxMTIzMzQ5MTB9
+    lang: ru
+    tags:
+      - frontend

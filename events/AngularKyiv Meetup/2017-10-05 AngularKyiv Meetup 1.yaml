@@ -1,0 +1,21 @@
+name: "AngularKyiv Meetup 1"
+date: 2017-10-05
+link: https://www.meetup.com/ru-RU/Angular-Kyiv/events/243745194/
+videos: https://www.youtube.com/watch?v=0XXFLMfHKkY
+talks:
+  - name: "Renderer2 or How to survive without jQuery"
+    speaker: Kysenko Roman
+    video: https://www.youtube.com/watch?v=0XXFLMfHKkY
+    presentation: ''
+    lang: ru
+    tags:
+      - frontend
+      - Angular
+  - name: "UniversalNo"
+    speaker: Sergey Frolov
+    video: https://www.youtube.com/watch?v=0XXFLMfHKkY
+    presentation: ''
+    lang: ru
+    tags:
+      - frontend
+      - Angular

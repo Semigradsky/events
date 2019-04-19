@@ -7,6 +7,12 @@ const path = require('path')
 const readFile = pify(fs.readFile)
 
 function toDateString(date) {
+    if (Array.isArray(date)) {
+        const [dayName1, month1, day1] = date[0].toString().split(' ')
+        const [dayName2, month2, day2] = date[1].toString().split(' ')
+        return `${month1} ${day1}-${day2}`
+    }
+
     const [dayName, month, day] = date.toString().split(' ')
     return `${month} ${day}`
 }
@@ -16,7 +22,7 @@ async function generateMd(events) {
 
     const groupedByYears = new Map()
     for (const event of events) {
-        const year = event.date.getFullYear()
+        const year = (Array.isArray(event.date) ? event.date[0] : event.date).getFullYear()
         const groupedEvents = groupedByYears.get(year) || []
 
         groupedByYears.set(year, [...groupedEvents, {

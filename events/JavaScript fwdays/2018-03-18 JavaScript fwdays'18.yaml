@@ -1,0 +1,151 @@
+name: "JavaScript fwdays'18"
+link: 'https://fwdays.com/event/js-fwdays-2018'
+date: 2018-03-18
+videos: 'https://www.youtube.com/playlist?list=PLPcgQFk9n9y8_G0Gyh0yqDuiZqy15RLDo'
+talks:
+  - name: "'JavaScript: День 4001-й'"
+    speaker: Illya Klymov
+    video: https://youtu.be/jzaZlEOSwoA
+    presentation: https://www.slideshare.net/fwdays/javascript-4001
+    lang: ru
+    tags:
+      - frontend
+  - name: "Front-end Microservices Architecture"
+    speaker: Mykhailo Churilov
+    video: https://youtu.be/2r9KqASOSeM
+    presentation: http://slides.com/mykhailochurilov/deck-14#/
+    lang: ru
+    tags:
+      - frontend
+  - name: "'React: дорога к просветлению'"
+    speaker: Ekaterina Lizogubova
+    video: https://youtu.be/STz1tr65ykE
+    presentation: https://www.slideshare.net/fwdays/react-91307920
+    lang: ru
+    tags:
+      - frontend
+  - name: "Creating virtual worlds in the browser"
+    speaker: Martin Splitt
+    video: https://youtu.be/0y2jXEUHvuk
+    presentation: https://www.slideshare.net/fwdays/martin-splitt-creating-virtual-worlds-in-the-browser
+    lang: en
+    tags:
+      - frontend
+  - name: "Растим детей. Или как Иван Васильевич запускал эксперименты?"
+    speaker: Gregory Shehet
+    video: https://youtu.be/7cnBuA0LAGg
+    presentation: https://www.slideshare.net/fwdays/ss-91307851
+    lang: ru
+    tags:
+      - frontend
+  - name: "The Most Annoying Website"
+    speaker: Feross Aboukhadijeh
+    video: https://youtu.be/EkpS1eWb2BA
+    presentation: https://www.slideshare.net/fwdays/feross-aboukhadijeh-the-most-annoying-website-aka-the-power-of-the-web-platform-91926338
+    lang: en
+    tags:
+      - frontend
+  - name: "JavaScript all the things"
+    speaker: Jan Jongboom
+    video: https://youtu.be/tTPk0OdMCqM
+    presentation: https://www.slideshare.net/fwdays/jan-jongboom-javascript-all-the-things
+    lang: en
+    tags:
+      - frontend
+  - name: "Як ангулярити на 5+"
+    speaker: Sergiy Babich
+    video: https://youtu.be/dfJyrbk7PME
+    presentation: https://babichss.github.io/angular-for-a-plus/#/
+    lang: uk
+    tags:
+      - frontend
+  - name: "'Time, Numbers, Text'"
+    speaker: Andrey Listochkin
+    video: https://youtu.be/TFBCcNFEmDE
+    presentation: https://speakerdeck.com/listochkin/time-numbers-text
+    lang: ru
+    tags:
+      - frontend
+  - name: "Кодстайл и насилие"
+    speaker: Anton Nemtsev
+    video: https://youtu.be/qHIhWxHSi_0
+    presentation: https://silentimp.github.io/codeStyleAndViolenceRu/index.html#slide-1
+    lang: ru
+    tags:
+      - frontend
+  - name: "GraphQL - новый взгляд на API"
+    speaker: Vladimir Zaets
+    video: https://youtu.be/zXUP4bNDxWo
+    presentation: https://www.slideshare.net/fwdays/graphql-api
+    lang: ru
+    tags:
+      - frontend
+  - name: "'Frontend testing for Wix viewer: case study'"
+    speaker: Noam Rosenthal
+    video: https://youtu.be/IYunRopn6fg
+    presentation: https://www.slideshare.net/fwdays/noam-rosenthal-frontend-testing-for-wix-viewer-case-study
+    lang: en
+    tags:
+      - frontend
+  - name: "Жизнь вне JavaScript"
+    speaker: Helen Zhukova
+    video: https://youtu.be/gMWNlv6muNY
+    presentation: https://www.slideshare.net/fwdays/javascript-91459939
+    lang: ru
+    tags:
+      - frontend
+  - name: "99 ways to take away your ugly polyfills"
+    speaker: Artem Yavorsky
+    video: https://youtu.be/pMMQYHiFX3w
+    presentation: https://www.slideshare.net/fwdays/artem-yavorsky-99-ways-to-take-away-your-ugly-polyfills
+    lang: ru
+    tags:
+      - frontend
+  - name: "How to run WebAssembly in your React web application"
+    speaker: Oleksandr Skachkov
+    video: https://youtu.be/oicuETKQBkw
+    presentation: https://www.slideshare.net/fwdays/oleksandr-skachkov-event-is-over-how-to-run-webassembly-in-your-react-web-application
+    lang: ru
+    tags:
+      - frontend
+  - name: "'Vue: webcomponents'"
+    speaker: Vitalii Ratushnyi
+    video: https://youtu.be/Q3MOPhHR2Mk
+    presentation: https://www.slideshare.net/fwdays/vue-webcomponents
+    lang: ru
+    tags:
+      - frontend
+  - name: "International Speakers' Corner"
+    speaker: 'Jan Jongboom, Martin Splitt, Feross Aboukhadijeh, Noam Rosenthal'
+    video: https://youtu.be/0WMLFRz6veY
+    lang: en
+    tags:
+      - frontend
+  - name: "'Best practices and troubleshooting guide for node applications [Workshop]'"
+    speaker: Nikita Galkin
+    video: https://youtu.be/8HQ0IYanqFs
+    presentation: https://www.slideshare.net/fwdays/nikita-galkin-best-practices-and-troubleshooting-guide-for-node-applications
+    lang: ru
+    tags:
+      - frontend
+  - name: "600 секунд об async_hooks"
+    speaker: Andrii Kanunnikov
+    video: https://youtu.be/8ut7bRzj-vU
+    presentation: https://www.slideshare.net/fwdays/600-asynchooks
+    lang: ru
+    tags:
+      - frontend
+  - name: "Use-case оператора replyWhen из Rx.JS"
+    speaker: Oleksandr Poshtaruk
+    video: https://youtu.be/d7zO9fzXbfM
+    presentation: https://www.slideshare.net/fwdays/usecase-replywhen-rxjs-iframe
+    lang: ru
+    tags:
+      - frontend
+  - name: "Web Workers - добавьте производительности своим Web приложениям"
+    speaker: Sergey Melashych
+    video: https://youtu.be/ctKmHO2yARY
+    presentation: http://slides.com/sergeymell/fwdays-2018/fullscreen#/
+    lang: ru
+    tags:
+      - frontend

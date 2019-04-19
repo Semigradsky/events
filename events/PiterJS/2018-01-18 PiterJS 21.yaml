@@ -1,0 +1,26 @@
+name: "PiterJS 21"
+link: 'https://medium.com/piterjs/piterjs21-86a59b21a200'
+date: 2018-01-18
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxh7YjSaB7N15P3zbhhLEJkH'
+talks:
+  - name: "React Native & Native Widgets"
+    speaker: Максим Ерехинский
+    video: https://youtu.be/wzB6mOblE1I
+    presentation: https://github.com/piterjs/piterjs.org/blob/gh-pages/events/21/Native%20Widgets%20with%20React%20Native.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "AsyncDom"
+    speaker: Александр Канунников
+    video: https://youtu.be/qZaby7iOVts
+    presentation: https://docs.google.com/presentation/d/12eFghswDeHfQWhZjh2B3vOsYc2DrBAcJLQr_6bGMfK8/edit#slide=id.p
+    lang: ru
+    tags:
+      - frontend
+  - name: "Рефакторинг платежного процесса Яндекс.Денег"
+    speaker: Илья Кашлаков
+    video: https://youtu.be/-wM-JmF1-VM
+    presentation: https://github.com/piterjs/piterjs.org/blob/gh-pages/events/21/yamoney-refactoring.pdf
+    lang: ru
+    tags:
+      - frontend

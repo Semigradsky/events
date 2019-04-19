@@ -1,0 +1,25 @@
+name: "SamaraJS 4"
+link: 'https://vk.com/wall-162418457_9'
+date: 2018-03-02
+talks:
+  - name: "Web Accessibility"
+    speaker: Ирина Шилина
+    video: https://youtu.be/mXLqpKnbaLs
+    presentation: https://vk.com/doc3150028_460615461?hash=4b73130f71dfd39e05&dl=eeb58c2f4be12bc7be
+    lang: ru
+    tags:
+      - frontend
+  - name: "Cerebral - декларативное управление состоянием приложения"
+    speaker: Алексей Гурьянов
+    video: https://youtu.be/BGF3waLMt_w
+    presentation: https://vk.com/doc3150028_460615458?hash=f3d69495debfe95fa4&dl=fab3aacb21fc354b03
+    lang: ru
+    tags:
+      - frontend
+  - name: "Современные Big Data и Machine Learning для чайников."
+    speaker: Владимир Малик
+    video: https://youtu.be/DKc2lhbXzZg
+    presentation: https://vk.com/doc3150028_460615454?hash=ae2cc2c06905583121&dl=b90cabf4b35409b412), [:notebook:](https://vk.com/doc3150028_460615427?hash=942bc1f31c99063fb3&dl=edfbdcc459995103f0
+    lang: ru
+    tags:
+      - frontend

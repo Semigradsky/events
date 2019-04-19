@@ -1,0 +1,28 @@
+name: "AngularKyiv Meetup 6"
+date: 2018-06-07
+videos: https://www.youtube.com/watch?v=gIuzvwUZMMw
+talks:
+  - name: "NgRx for beginners and type safety with TypeScript 2.8 for state management libraries"
+    speaker: Dimitriy Vityuk
+    video: https://www.youtube.com/watch?v=gIuzvwUZMMw
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - Angular
+  - name: "Canvas in angular world"
+    speaker: Sergey Koshman
+    video: https://www.youtube.com/watch?v=gIuzvwUZMMw
+    presentation:
+    lang: uk
+    tags:
+      - frontend
+      - Angular
+  - name: "Angular. Chrome plugin"
+    speaker: Oleg Dikhtyaruk
+    video: https://www.youtube.com/watch?v=gIuzvwUZMMw
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - Angular

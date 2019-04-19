@@ -1,0 +1,26 @@
+name: "UralJS 7"
+link: 'https://habr.com/company/skbkontur/blog/353548/'
+date: 2018-04-19
+videos: 'https://www.youtube.com/playlist?list=PLVxsRDo37_ZeCL-_0pv-EXkPZ8c0m_FZQ'
+talks:
+  - name: "Давайте уже разберемся с DateTime"
+    speaker: Евгений Тихонов
+    video: https://youtu.be/Yc623xx6b3M
+    presentation: https://yadi.sk/i/QIBlOgc13UZLf8
+    lang: ru
+    tags:
+      - frontend
+  - name: "Dive into React Native"
+    speaker: Иннокентий Шушпанов
+    video: https://youtu.be/v00ue4vZV30
+    presentation: https://yadi.sk/d/E6gs4yZz3ZDq6T
+    lang: ru
+    tags:
+      - frontend
+  - name: "Улучшение навигации в SPA"
+    speaker: Вячеслав Бухарин
+    video: https://youtu.be/Ip1C4rcfdi0
+    presentation: https://slides.com/viacheslavbukharin/deck-2#/
+    lang: ru
+    tags:
+      - frontend

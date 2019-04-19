@@ -7,9 +7,18 @@ const path = require('path')
 const readDir = pify(fs.readdir)
 const readFile = pify(fs.readFile)
 
-function parseEvent(content) {
-    const data = yaml.safeLoad(content)
-    return data
+function parseEvent(content, uid) {
+    try {
+        const data = yaml.safeLoad(content)
+
+        if (typeof data.date !== 'object') {
+            console.error(`Wrong date on ${uid}.yaml`)
+        }
+
+        return data
+    } catch (err) {
+        console.error(`Failed to read ${uid}.yaml`)
+    }
 }
 
 async function readEvent(fullPath) {
@@ -20,7 +29,7 @@ async function readEvent(fullPath) {
     const uid = path.basename(fullPath, '.yaml')
 
     const file = await readFile(fullPath, 'utf-8')
-    const parsedData = parseEvent(file)
+    const parsedData = parseEvent(file, uid)
     return {
         ...parsedData,
         uid,

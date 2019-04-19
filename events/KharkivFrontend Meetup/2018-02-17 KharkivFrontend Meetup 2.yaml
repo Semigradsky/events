@@ -1,0 +1,32 @@
+name: "KharkivFrontend Meetup 2"
+link: 'https://www.facebook.com/events/558956724480783/'
+date: 2018-02-17
+talks:
+  - name: "Контекст наложения - кто ты?"
+    speaker: Влад Антипенко
+    video: https://youtu.be/0-FR5nkHlYU
+    presentation: https://drive.google.com/drive/folders/1lSJXwKT7JuzuTHr1hm7JFuzTr1sIkWpu
+    lang: ru
+    tags:
+      - frontend
+  - name: "'Grafana и Frontend, кастомная визуализация серверной инфраструктуры'"
+    speaker: Лиманская Дарья
+    video: https://youtu.be/ZyUHzLylcGA
+    presentation: https://drive.google.com/drive/folders/1qGsqMzZlNzL1-8QJWyj-4AOY9kAXiKYN
+    lang: ru
+    tags:
+      - frontend
+  - name: "It's a test!"
+    speaker: Максим Нечесонов
+    video: https://youtu.be/ArItIDpVL58
+    presentation: https://drive.google.com/drive/folders/1nOocjNRVZT6XV6RIh_REX6-OfEkA25gL
+    lang: ru
+    tags:
+      - frontend
+  - name: "Безопасность веб-приложений"
+    speaker: Елена Шаровар
+    video: https://youtu.be/0BwpXOTj_P0
+    presentation: https://drive.google.com/drive/folders/1vsufgRXSOgG5QN8uk0urU8nQAkMF1G_k
+    lang: ru
+    tags:
+      - frontend

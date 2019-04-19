@@ -1,4 +1,4 @@
-name: MinskCSS 4
+name: "MinskCSS 4"
 date: 2018-03-22
 facebook: https://www.facebook.com/events/159025461484995
 videos: https://www.youtube.com/playlist?list=PL3uk4LxG9ZzlgHUiRTgUV4ZabsuAIhqSP
@@ -8,18 +8,30 @@ talks:
     speaker: Сергей Попов
     video: https://www.youtube.com/watch?v=s3a3Wm0JpdU
     presentation: https://drive.google.com/open?id=1jqnEk6OYuiYVr8r6VfBhu5gQVadKxSao
+    lang: ru
+    tags:
+      - 'frontend'
   -
     name: "Как оптимизировать фронтенд"
     speaker: Мария Кабаш
     video: https://www.youtube.com/watch?v=jcTD-zpY5RM
     presentation: https://drive.google.com/file/d/1QEzT6dpOZiKwC92H3pEVGELUY-8L1I6a/view
+    lang: ru
+    tags:
+      - 'frontend'
   -
     name: "Магия CSS вне Хогвартса"
     speaker: Никита Дубко
     video: https://www.youtube.com/watch?v=Dhd6FSYZoiQ
     presentation: https://mefody.github.io/talks/css-magic/
+    lang: ru
+    tags:
+      - 'frontend'
   -
     name: "И вот я — верстальщик. Что дальше?"
     speaker: Александра Шинкевич
     video: https://www.youtube.com/watch?v=zn_3-ZpdDZc
     presentation: https://neesoglasnaja.github.io/MinskCSS-4/
+    lang: ru
+    tags:
+      - 'soft'
