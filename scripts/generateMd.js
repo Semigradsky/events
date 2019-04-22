@@ -31,9 +31,12 @@ async function generateMd(events) {
         }])
     }
 
+    const allYears = [...groupedByYears.keys()].sort().reverse()
+
     for (const [year, groupedEvents] of groupedByYears) {
         const content = Mustache.render(pattern.toString(), {
             year,
+            yearsLinks: allYears.map(y => ({ year: y, link: y !== year ? `/${y}.md` : undefined })),
             events: groupedEvents,
         })
 

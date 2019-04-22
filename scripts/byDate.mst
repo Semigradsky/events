@@ -1,4 +1,4 @@
-# {{year}}
+# Events {{#yearsLinks}}/ {{#link}}[{{year}}]({{link}}){{/link}}{{^link}}{{year}}{{/link}} {{/yearsLinks}}
 
 {{#events}}
 ## {{name}} - {{dateString}} {{#videos}}[:movie_camera:]({{videos}}){{/videos}}

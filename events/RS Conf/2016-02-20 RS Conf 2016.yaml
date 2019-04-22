@@ -1,0 +1,98 @@
+name: RS Conf 2016.yaml
+date:
+  - 2016-02-20
+  - 2016-02-21
+talks:
+  - name: "JavaScript parsing, transformations, transpilation."
+    speaker: Ingvar Stepanyan
+    video: https://www.youtube.com/watch?v=dnsW3JtQXrk
+    lang: en
+    tags:
+      - frontend
+  - name: "Использование File API в Конструкторе Яндекс.Карт."
+    speaker: Всеволод Шмыров
+    video: https://www.youtube.com/watch?v=VeaRqoJGnWY
+    lang: ru
+    tags:
+      - frontend
+  - name: "WebRTC from Zero to Hero"
+    speaker: Gabriel Mičko
+    video: https://www.youtube.com/watch?v=DOg3XPAgZwE
+    lang: en
+    tags:
+      - frontend
+  - name: "TauCharts and data visualization"
+    speaker: Vladimir Petriko
+    video: https://www.youtube.com/watch?v=TrEXCxOuLXY
+    lang: ru
+    tags:
+      - frontend
+  - name: "WebRTC in Action!"
+    speaker: Nastassia Kiseleva,Konstantin Leyer
+    video: https://www.youtube.com/watch?v=V3pBE-wVciU
+    lang: en
+    tags:
+      - frontend
+  - name: "Modern Acceptance Testing with CodeceptJS"
+    speaker: Michael Bodnarchuk
+    video: https://www.youtube.com/watch?v=b_fylKvkjgc
+    lang: ru
+    tags:
+      - frontend
+  - name: "ES2015 in the browser: beyond the polyfillable"
+    speaker: Seth Thompson
+    video: https://www.youtube.com/watch?v=g3UeAsiW88U
+    lang: en
+    tags:
+      - frontend
+  - name: "Typography: from metal to pixels"
+    speaker: Roman Prudnikov
+    video: https://www.youtube.com/watch?v=EuXrh_T2aLg
+    lang: ru
+    tags:
+      - frontend
+  - name: "Life of a pixel: Computer Graphics for JavaScript Developers"
+    speaker: Martin Naumann
+    video: https://www.youtube.com/watch?v=ocjCbVe89Kw
+    lang: en
+    tags:
+      - frontend
+  - name: "Forms are boring"
+    speaker: Kseniya Koltun
+    video: https://www.youtube.com/watch?v=vXha84Pk8PE
+    lang: ru
+    tags:
+      - frontend
+  - name: "Качество. Как делать свою работу хорошо"
+    speaker: Andrey Listochkin
+    video: https://www.youtube.com/watch?v=Mx22NaWmFhk
+    lang: ru
+    tags:
+      - frontend
+  - name: "Dirty Little Tricks From The Dark Corners of eCommerce"
+    speaker: Vitaly Friedman
+    video: https://www.youtube.com/watch?v=R-n_E0U1zC4
+    presentation: https://www.youtube.com/watch?v=VVnvFAOXZvo
+    lang: ru
+    tags:
+      - frontend
+  - name: "Music of React Native"
+    speaker: Ilja Satchok
+    video: https://www.youtube.com/watch?v=Ovq-cNzv5H8
+    lang: ru
+    tags:
+      - frontend
+      - mobile
+  - name: "Shaders - unlocking the GPU with JavaScript"
+    speaker: Martin Naumann
+    video: https://www.youtube.com/watch?v=dugISU2d4SM&t=2598s
+    lang: en
+    tags:
+      - frontend
+  - name: "Проектирование в тестировании"
+    speaker: Andrey Listochkin
+    video: https://www.youtube.com/watch?v=lS8EFtdKCUY&t=1076s
+    lang: ru
+    tags:
+      - frontend
+      - testing

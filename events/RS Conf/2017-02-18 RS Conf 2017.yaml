@@ -1,0 +1,126 @@
+name: RS Conf 2017
+date:
+  - 2017-02-18
+  - 2017-02-19
+talks:
+  - name: "WARPSPEED: High performance tricks: Web Workers, GPU computing and Web Assembly"
+    speaker: Martin Splitt
+    video: https://www.youtube.com/watch?v=1_lX28QWCdg
+    lang: en
+    tags:
+      - frontend
+  - name: "Front-end As I See It"
+    speaker: Anna Selezniova
+    video: https://www.youtube.com/watch?v=B9SXHMei58c
+    lang: ru
+    tags:
+      - frontend
+  - name: "Dynamic Analysis with Babel"
+    speaker: Matt Zeunert
+    video: https://www.youtube.com/watch?v=2wxr5t3ftis
+    lang: en
+    tags:
+      - frontend
+  - name: "Machine learning and neural nets in JavaScript [WORKSHOP]"
+    speaker: Vsevolod Rodionov
+    lang: ru
+    tags:
+      - frontend
+  - name: "Service Worker Crash Course"
+    speaker: Rafael Teixeira Fernandes
+    video: https://www.youtube.com/watch?v=043HeY_V-QQ
+    lang: en
+    tags:
+      - frontend
+  - name: "Why (Mobile) Web Compatibility is (so) important?"
+    speaker: Stefania Ioana Chiorean
+    video: https://www.youtube.com/watch?v=m3Tf-0_Xnu4
+    lang: en
+    tags:
+      - frontend
+  - name: "\"I can’t work on my phone\" - desktop all the things"
+    speaker: Stefan Judis
+    video: https://www.youtube.com/watch?v=eQ9mSH4je0U
+    lang: en
+    tags:
+      - frontend
+  - name: "GraphQL beyond the limit"
+    speaker: Gabriel Mičko
+    video: https://www.youtube.com/watch?v=wyfSYJk_m9Q
+    lang: en
+    tags:
+      - frontend
+  - name: "Automate it! Or how to set up dev tools in WebStorm [WORKSHOP]"
+    speaker: Ekaterina Prigara
+    video: https://www.youtube.com/watch?v=gs8JDHeeGXw
+    lang: ru
+    tags:
+      - frontend
+  - name: "Unleashing The Power Of Patterns with Angular 2"
+    speaker: Dmitriy Schekhovtsov
+    video: https://www.youtube.com/watch?v=oKPRek9vq88
+    lang: ru
+    tags:
+      - frontend
+      - 'Angular'
+  - name: "A rapid flight through PatternFly"
+    speaker: Charlie Wood
+    video: https://www.youtube.com/watch?v=LSiUTm6kCes
+    lang: en
+    tags:
+      - frontend
+  - name: "How We Moved To HTTP/2 To Improve Performance... And Failed"
+    speaker: Vitaly Friedman
+    video: https://www.youtube.com/watch?v=whFhyHysYYg
+    lang: ru
+    tags:
+      - frontend
+  - name: "ECMAScript 2017 and beyond"
+    speaker: Dr. Axel Rauschmayer
+    video: https://www.youtube.com/watch?v=5Kw4XVSb4P4
+    lang: en
+    tags:
+      - frontend
+  - name: "Service Design: Case study"
+    speaker: Vital Varanovich
+    video: https://www.youtube.com/watch?v=jPoizpg9MDE
+    lang: ru
+    tags:
+      - frontend
+  - name: "Making PWAs with Polymer [WORKSHOP]"
+    speaker: Martin Splitt
+    video: https://www.youtube.com/watch?v=PPnmdIaP4jA
+    lang: en
+    tags:
+      - frontend
+  - name: "My Vanilla CSS"
+    speaker: Vadim Makeev
+    video: https://www.youtube.com/watch?v=jAAVN7SWqdk
+    lang: ru
+    tags:
+      - frontend
+  - name: "Миграция с Angular 1 на Angular 2+"
+    speaker: Andrei Palchys
+    video: https://www.youtube.com/watch?v=fI7VSmWqP3A
+    lang: ru
+    tags:
+      - frontend
+      - 'Angular'
+  - name: "Service Workers, the gotchas in your path to production"
+    speaker: Antoni Huguet Vives
+    video: https://www.youtube.com/watch?v=9L8YhkA0co4
+    lang: en
+    tags:
+      - frontend
+  - name: "Designing for Composability"
+    speaker: Andrey Listochkin
+    video: https://www.youtube.com/watch?v=BxoJ7WCbQFE
+    lang: ru
+    tags:
+      - frontend
+  - name: "Shells written in JavaScript"
+    speaker: Denys Dovhan
+    video: https://www.youtube.com/watch?v=CGfnGczxKAI
+    lang: ru
+    tags:
+      - frontend

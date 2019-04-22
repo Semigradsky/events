@@ -1,0 +1,57 @@
+name: RS Conf 2015
+date: 2015-02-01
+talks:
+  - name: "Why CSS was invented"
+    speaker: Hakon Wium Lie
+    video: https://www.youtube.com/watch?v=Lgs38ih7Evk
+    lang: en
+    tags:
+      - frontend
+  - name: "Using ECMAScript 6 today. Part I"
+    speaker: Dr. Axel Rauschmayer
+    video: https://www.youtube.com/watch?v=Fg3bEZIcnUw
+    lang: en
+    tags:
+      - frontend
+  - name: "Using ECMAScript 6 today. Part II"
+    speaker: Dr. Axel Rauschmayer
+    video: https://www.youtube.com/watch?v=Vhhq1WpzsnM
+    lang: en
+    tags:
+      - frontend
+  - name: "The visual web of today and tomorrow - WebGL and WebVR"
+    speaker: Martin Naumann
+    video: https://www.youtube.com/watch?v=9bhPyGVp3iA
+    lang: en
+    tags:
+      - frontend
+  - name: "Aperiodic tiling"
+    speaker: Kiryl Dziamura
+    video: https://www.youtube.com/watch?v=n1hJikvfOuk
+    lang: ru
+    tags:
+      - frontend
+  - name: "FRP with Bacon.js"
+    speaker: Juha Paananen
+    video: https://www.youtube.com/watch?v=3HS3i8LW8dQ
+    lang: en
+    tags:
+      - frontend
+  - name: "Ember = Angular = React"
+    speaker: Andrei Listochkin
+    video: https://www.youtube.com/watch?v=RgJMIbAB5Yg
+    lang: ru
+    tags:
+      - frontend
+  - name: "JavaScript at the speed of light"
+    speaker: Dmitry Lomov
+    video: https://www.youtube.com/watch?v=xAEY4Xmaep0
+    lang: ru
+    tags:
+      - frontend
+  - name: "Discovering fractals with CSS"
+    speaker: Gregor Adams
+    video: https://www.youtube.com/watch?v=fjcOe4sYErk
+    lang: en
+    tags:
+      - frontend
