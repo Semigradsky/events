@@ -1,0 +1,37 @@
+name: "The Rolling Scopes 2"
+date: 2013-06-27
+talks:
+  - name: "JavaScript framework для highload-сайтов и трудности при его проектировании"
+    speaker: Никита Манько
+    presentation: http://rolling-scopes.github.io/slides/rs2/Developing-of-a-high-load-JavaScript-framework.pptx
+    lang: ru
+    tags:
+      - frontend
+  - name: "WebComponents in action"
+    speaker: Алексей Шиткин
+    lang: ru
+    tags:
+      - frontend
+  - name: "Front-end project assets management"
+    speaker: 'Alexander Gerasimov,Андрей Глухманчук'
+    presentation: http://rolling-scopes.github.io/slides/rs2/front-end-project-assets-management
+    lang: ru
+    tags:
+      - frontend
+  - name: "<Video>Хроника"
+    speaker: Александр Карлович
+    presentation: http://rolling-scopes.github.io/slides/rs2/video%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0.pptx
+    lang: ru
+    tags:
+      - frontend
+  - name: "HTML-coder never dies"
+    speaker: Сергей Михайлов
+    lang: ru
+    tags:
+      - frontend
+  - name: "Quiz"
+    speaker: Alexander Gerasimov
+    presentation: http://rolling-scopes.github.io/slides/rs2/quiz
+    lang: ru
+    tags:
+      - frontend

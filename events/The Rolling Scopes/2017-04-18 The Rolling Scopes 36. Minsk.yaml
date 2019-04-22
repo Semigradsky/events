@@ -1,0 +1,21 @@
+name: "The Rolling Scopes 36. Minsk"
+date: 2017-04-18
+talks:
+  - name: "Как сделать чат бота за выходные"
+    speaker: Игорь Колупаев
+    video: https://www.youtube.com/watch?v=8L-C8HOlpic
+    lang: ru
+    tags:
+      - frontend
+  - name: "OpenGL rendering with Node and Rust"
+    speaker: Andrei Lesnitsky
+    video: https://www.youtube.com/watch?v=s3BrF79pvL4
+    lang: ru
+    tags:
+      - frontend
+  - name: "Модель разработки ядра Linux"
+    speaker: Кирилл Шутемов
+    video: https://www.youtube.com/watch?v=OxxRw02C_Ys
+    lang: ru
+    tags:
+      - frontend

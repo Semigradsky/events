@@ -1,0 +1,17 @@
+name: "The Rolling Scopes & MobilePeople"
+date: 2019-02-19
+videos: https://www.youtube.com/watch?v=uwROYy4LPf4
+talks:
+  - name: "Sunrise of iOS"
+    speaker: Aliaksei Strokin
+    video: https://www.youtube.com/watch?v=uwROYy4LPf4
+    lang: ru
+    tags:
+      - mobile
+  - name: "Обзор фреймворков для кроссплатформенной мобильной разработки"
+    speaker: Andrei Lesnitsky
+    video: https://www.youtube.com/watch?v=uwROYy4LPf4
+    lang: ru
+    tags:
+      - frontend
+      - mobile

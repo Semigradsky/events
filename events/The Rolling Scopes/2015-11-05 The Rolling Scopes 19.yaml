@@ -1,0 +1,17 @@
+name: "The Rolling Scopes 19"
+date: 2015-11-05
+talks:
+  - name: "Improve performance of <strike>your app</strike> developer"
+    speaker: Andrei Lesnitsky
+    video: https://www.youtube.com/watch?v=wPtPazwndKg
+    presentation: http://rolling-scopes.github.io/slides/rs19/dev-perf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Нам больше не нужны тестеры или protractor.js"
+    speaker: 'Андрей Пальчис,Евгений Ковалев'
+    video: https://www.youtube.com/watch?v=ape9O7qcOXg
+    presentation: http://rolling-scopes.github.io/slides/rs19/automation.pptx
+    lang: ru
+    tags:
+      - frontend

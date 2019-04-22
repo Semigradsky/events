@@ -1,0 +1,20 @@
+name: "The Rolling Scopes 8"
+date: 2014-02-27
+talks:
+  - name: "Slylish Stylus"
+    speaker: Александр Карлович
+    presentation: http://rolling-scopes.github.io/slides/rs8/stylish-stylus/slides
+    lang: ru
+    tags:
+      - frontend
+  - name: "Keep Calm & Attend Events: LondonJs"
+    speaker: Alexander Gerasimov
+    presentation: http://rolling-scopes.github.io/slides/rs8/londonjs-talk
+    lang: ru
+    tags:
+      - frontend
+  - name: "Some fresh ideas from better-dom"
+    speaker: Максим Чемерисюк
+    lang: ru
+    tags:
+      - frontend

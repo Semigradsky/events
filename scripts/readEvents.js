@@ -18,6 +18,7 @@ function parseEvent(content, uid) {
         return data
     } catch (err) {
         console.error(`Failed to read ${uid}.yaml`)
+        console.error(err)
     }
 }
 

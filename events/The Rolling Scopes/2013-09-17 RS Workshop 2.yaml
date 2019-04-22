@@ -1,0 +1,8 @@
+name: "RS Workshop 2"
+date: 2013-09-17
+talks:
+  - name: "WebSocket Challenge"
+    speaker: Павел Насович
+    lang: ru
+    tags:
+      - frontend

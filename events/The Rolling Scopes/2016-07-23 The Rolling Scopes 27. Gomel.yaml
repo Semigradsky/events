@@ -1,0 +1,61 @@
+name: "The Rolling Scopes 27. Gomel"
+date: 2016-07-23
+talks:
+  - name: "Angular-Material in Practice"
+    speaker: Ales Tsvil
+    lang: ru
+    tags:
+      - frontend
+      - 'Angular'
+  - name: "TypeScript: application-scale JavaScript."
+    speaker: Aliaksei Kharchykau
+    lang: ru
+    tags:
+      - frontend
+      - TypeScript
+  - name: "Как подружить JAVA сервер-сайд разработчика с JASMINE"
+    speaker: Aliaksei Rabchanka
+    lang: ru
+    tags:
+      - frontend
+  - name: "Как стать фронт-енд разработчиком с нуля"
+    speaker: Vadim Kulaga
+    lang: ru
+    tags:
+      - frontend
+  - name: "Некоторые алгоритмы и структуры для обработки строковых данных"
+    speaker: Ruslan Panasiuk
+    lang: ru
+    tags:
+      - frontend
+  - name: "Electron и JavaScript приложения для desktop."
+    speaker: Иван Селицкий
+    lang: ru
+    tags:
+      - frontend
+  - name: "Статическая типизация с Flow and Typescript"
+    speaker: Uladzislau Harbachou
+    lang: ru
+    tags:
+      - frontend
+      - TypeScript
+  - name: "Creating VR web"
+    speaker: Paul Yuhnovich
+    lang: ru
+    tags:
+      - frontend
+  - name: "Азбука HTML и CSS, или как научить толпу людей верстать"
+    speaker: Maria Putyrskaya
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS QuickDraw Gomel"
+    speaker: 'Aliaksei Rabchanka,Mikhail Hatsilau'
+    lang: ru
+    tags:
+      - frontend
+  - name: "Самые распространеные лайфхаки фронтенд разработчика или как делать свою работу быстрее и проще"
+    speaker: Zhanna Lud
+    lang: ru
+    tags:
+      - frontend

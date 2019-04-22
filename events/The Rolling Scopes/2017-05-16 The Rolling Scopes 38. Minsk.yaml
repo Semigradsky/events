@@ -1,0 +1,10 @@
+name: "The Rolling Scopes 38. Minsk"
+date: 2017-05-16
+videos: https://www.youtube.com/watch?v=pgyoeqaNIzQ
+talks:
+  - name: "Панельная дискуссия: Образование в ИТ"
+    speaker: 'Денис Шеко,Dzmitry Varabei,Константин Яцкевич,Станислав Зубович,Andrei Lesnitsky,Елена Круковская,Андрей Силков,Алексей Потемкин,Павел Бакунович,Вадим Зеленков,Владимир Галушко'
+    video: https://www.youtube.com/watch?v=pgyoeqaNIzQ
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,35 @@
+name: "The Rolling Scopes 1"
+date: 2013-05-21
+talks:
+  - name: "Web Components"
+    speaker: Алексей Шиткин
+    lang: ru
+    tags:
+      - frontend
+  - name: "Introduction to Angular.js"
+    speaker: Денис Шамгин
+    presentation: http://rolling-scopes.github.io/slides/rs1/angular
+    lang: ru
+    tags:
+      - frontend
+      - 'Angular'
+  - name: "Chrome DevTools"
+    speaker: Dzmitry Varabei
+    presentation: http://rolling-scopes.github.io/slides/rs1/chromeDevTools/chromeDevTools.html
+    lang: ru
+    tags:
+      - frontend
+  - name: "Introduction to Ember"
+    speaker: Андрей Фан
+    lang: ru
+    tags:
+      - frontend
+      - 'Ember'
+  - name: "Fast Websites"
+    speaker: Евгений Лейченок
+    presentation: http://rolling-scopes.github.io/slides/rs1/fast-websites/
+    lang: ru
+    tags:
+      - frontend
+      - 'frontend'
+      - t

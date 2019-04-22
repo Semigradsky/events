@@ -1,0 +1,10 @@
+name: "The Rolling Scopes 32. Minsk"
+date: 2016-12-23
+videos: https://www.youtube.com/watch?v=qLxO9Pgx05M
+talks:
+  - name: "панельная дискуссия"
+    speaker: 'Андрей Пальчис,Константин Кривленя,Кирилл Верховин,Денис Шеко,Paul Yuhnovich,Евгений Заря,Dzmitry Varabei,Кирилл Куховец,Andrei Yemelyanchik'
+    video: https://www.youtube.com/watch?v=qLxO9Pgx05M
+    lang: ru
+    tags:
+      - frontend

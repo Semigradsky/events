@@ -1,0 +1,16 @@
+name: "The Rolling Scopes 21"
+date: 2015-12-15
+talks:
+  - name: "Полгода жизни с хомяком"
+    speaker: Василий Ванчук
+    video: https://www.youtube.com/watch?v=FWw6iUFxaE8
+    lang: ru
+    tags:
+      - frontend
+      - 'Ember'
+  - name: "Какой к черту Angular2, с цензурой и без хомяков"
+    speaker: 'Александр Михалченко,Егор Малкевич'
+    video: https://www.youtube.com/watch?v=GljR41hjXv4
+    lang: ru
+    tags:
+      - frontend

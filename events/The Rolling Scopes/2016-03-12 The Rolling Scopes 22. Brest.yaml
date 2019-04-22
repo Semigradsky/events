@@ -1,0 +1,40 @@
+name: "The Rolling Scopes 22. Brest"
+date: 2016-03-12
+talks:
+  - name: "Под капотом у Reactjs"
+    speaker: Виталий Фокин
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: "Synthetic events в Reactjs"
+    speaker: Владимир Дёмин
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: "Социальный проект Brest Fortress Hidden History"
+    speaker: Дмитрий Рыбалко
+    lang: ru
+    tags:
+      - frontend
+  - name: "Progressive Web Apps"
+    speaker: Александр Оргиш
+    lang: ru
+    tags:
+      - frontend
+  - name: "Asyncable ES для тех, кто еще не в теме"
+    speaker: Денис Влассенко
+    lang: ru
+    tags:
+      - frontend
+  - name: "TV in browsers: live cases"
+    speaker: Александр Карлович
+    lang: ru
+    tags:
+      - frontend
+  - name: "Intro to usability heuristics"
+    speaker: Ксения Колтун
+    lang: ru
+    tags:
+      - frontend

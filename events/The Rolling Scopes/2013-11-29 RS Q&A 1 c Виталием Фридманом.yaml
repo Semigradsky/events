@@ -1,0 +1,8 @@
+name: "RS Q&A 1 c Виталием Фридманом"
+date: 2013-11-29
+talks:
+  - name: "Responsive Web Design"
+    speaker: Виталий Фридман
+    lang: ru
+    tags:
+      - frontend

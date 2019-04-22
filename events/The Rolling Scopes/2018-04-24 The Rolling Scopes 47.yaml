@@ -1,0 +1,16 @@
+name: "The Rolling Scopes 47"
+date: 2018-04-24
+videos: https://www.youtube.com/watch?v=Y6gEOO2rUfA
+talks:
+  - name: "GraphQL essentials: what you should know"
+    speaker: Alex Alexeev
+    video: https://www.youtube.com/watch?v=Y6gEOO2rUfA
+    lang: ru
+    tags:
+      - frontend
+  - name: "oAuth2 под микроскопом"
+    speaker: Sergey Korotkin
+    video: https://www.youtube.com/watch?v=Y6gEOO2rUfA
+    lang: ru
+    tags:
+      - frontend

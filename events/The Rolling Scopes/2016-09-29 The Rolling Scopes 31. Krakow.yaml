@@ -1,0 +1,23 @@
+name: "The Rolling Scopes 31. Krakow"
+date: 2016-09-29
+talks:
+  - name: "Ethereum virtual machines in JS: cryptocurrency revolution"
+    speaker: Oleksandr Pastukhov
+    lang: ru
+    tags:
+      - frontend
+  - name: "Modular JavaScript: put things on the right place"
+    speaker: Andrei Yemelyanchik
+    lang: ru
+    tags:
+      - frontend
+  - name: "Serverless architecture: Functions as a Service"
+    speaker: 'Dzmitry Varabei,Siarhei Melnik'
+    lang: ru
+    tags:
+      - frontend
+  - name: "Designers at the lab"
+    speaker: Dafna Sharabi
+    lang: ru
+    tags:
+      - frontend

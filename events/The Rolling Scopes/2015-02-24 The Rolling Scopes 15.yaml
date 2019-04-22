@@ -1,0 +1,15 @@
+name: "The Rolling Scopes 15"
+date: 2015-02-24
+talks:
+  - name: "Анимации в вебе"
+    speaker: Кирилл Демура
+    video: https://www.youtube.com/watch?v=WM3BdSLOTVo
+    presentation: http://rolling-scopes.github.io/slides/rs15/animations-in-front-end
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS Quickdraw"
+    speaker: Alexander Gerasimov
+    lang: ru
+    tags:
+      - frontend

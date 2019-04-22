@@ -1,35 +1,36 @@
 name: "The Rolling Scopes 46. Mogilev"
-link: 'https://mogilev.rollingscopes.com/'
 date: 2018-04-21
-videos: 'https://www.youtube.com/playlist?list=PLe--kalBDwjgGdRHU_aWBTpQHoqWzjQPF'
+videos: https://www.youtube.com/playlist?list=PLe--kalBDwjgGdRHU_aWBTpQHoqWzjQPF
 talks:
-  - name: "MONADS - CODING FUNCTIONALLY"
+  - name: "Monads - coding functionally"
     speaker: Aliaksandr Famchankou
-    video: https://youtu.be/7gAPuReBBYY
+    video: https://www.youtube.com/watch?v=7gAPuReBBYY
     lang: ru
     tags:
       - frontend
-  - name: "НОРМАЛЬНО ДЕЛАЙ — НОРМАЛЬНО БУДЕТ"
+  - name: "Нормально делай — нормально будет"
     speaker: Pavel Birukou
-    video: https://youtu.be/p-XM8DeMnu4
+    video: https://www.youtube.com/watch?v=p-XM8DeMnu4
     lang: ru
     tags:
       - frontend
-  - name: "GROWING AS A DEVELOPER"
+  - name: "Growing as a developer"
     speaker: Paul Yuhnovich
-    video: https://youtu.be/9m1PnI6w2Lo
+    video: https://www.youtube.com/watch?v=9m1PnI6w2Lo
     lang: ru
     tags:
       - frontend
-  - name: "NODE.JS WORLD"
+      - soft
+  - name: "Node.JS World"
     speaker: Artsiom Marozau
-    video: https://youtu.be/ZYaLC1j23Cc
+    video: https://www.youtube.com/watch?v=ZYaLC1j23Cc
     lang: ru
     tags:
       - frontend
-  - name: "CSS GRID LAYOUT - PRACTICE TRICKS"
+      - 'Node.js'
+  - name: "CSS Grid layout - practice tricks"
     speaker: Yauhen Kavalchuk
-    video: https://youtu.be/1Vo048uwiBY
+    video: https://www.youtube.com/watch?v=1Vo048uwiBY
     lang: ru
     tags:
       - frontend

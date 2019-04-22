@@ -1,0 +1,29 @@
+name: "The Rolling Scopes 50. Mogilev"
+date: 2018-09-30
+talks:
+  - name: "Registration"
+    speaker: RS Crew
+    lang: ru
+    tags:
+      - frontend
+  - name: "Reflect and decorators in action"
+    speaker: Vitali Haradkou
+    lang: ru
+    tags:
+      - frontend
+  - name: "JS Machine and Community app"
+    speaker: 'Dzianis Pasiukou,Artsiom Marozau'
+    lang: ru
+    tags:
+      - frontend
+  - name: "Electron - desktop development"
+    speaker: Aliaksandr Famchankou
+    lang: ru
+    tags:
+      - frontend
+      - 'desktop'
+  - name: "kostil.js"
+    speaker: Maxim Shastel
+    lang: ru
+    tags:
+      - frontend

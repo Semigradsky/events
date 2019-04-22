@@ -1,0 +1,21 @@
+name: "The Rolling Scopes 29. Minsk"
+date: 2016-09-20
+talks:
+  - name: "New Opportunities for Augmented Reality"
+    speaker: 'Iryna Dastanka,Dzmitry Basenka'
+    video: https://www.youtube.com/watch?v=kMIhPlg4hw4
+    lang: ru
+    tags:
+      - frontend
+  - name: "Serverless architecture: Functions as a Service"
+    speaker: 'Siarhei Melnik,Dzmitry Varabei'
+    video: https://www.youtube.com/watch?v=w8tRcAJdqGk
+    lang: ru
+    tags:
+      - frontend
+  - name: "QCon New York technology trends highlights"
+    speaker: Vitali Shcharbin
+    video: https://www.youtube.com/watch?v=yLh-JajDfmI
+    lang: ru
+    tags:
+      - frontend

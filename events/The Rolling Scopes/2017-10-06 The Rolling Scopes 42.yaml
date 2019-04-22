@@ -1,0 +1,10 @@
+name: "The Rolling Scopes 42"
+date: 2017-10-06
+videos: https://www.youtube.com/watch?v=UPuWeBeMnTU&t=7635s
+talks:
+  - name: "Митап о #microsoft #react #redux #berlin"
+    speaker: Alex Migutsky
+    video: https://www.youtube.com/watch?v=UPuWeBeMnTU&t=7635s
+    lang: ru
+    tags:
+      - frontend

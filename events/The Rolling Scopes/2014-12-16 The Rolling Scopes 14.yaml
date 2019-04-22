@@ -1,0 +1,17 @@
+name: "The Rolling Scopes 14"
+date: 2014-12-16
+talks:
+  - name: "Learn the rules of Agile estimates to break them properly"
+    speaker: Анна Паничева
+    video: https://www.youtube.com/watch?v=gmwqP0uxxQA
+    presentation: http://rolling-scopes.github.io/slides/rs14/Agile-Estimations
+    lang: ru
+    tags:
+      - frontend
+  - name: "Enhance your browser: Chrome Extensions"
+    speaker: Николай Овсянников
+    video: https://www.youtube.com/watch?v=2HuKwwhpsgE
+    presentation: http://rolling-scopes.github.io/slides/rs14/ChromeExtensions
+    lang: ru
+    tags:
+      - frontend

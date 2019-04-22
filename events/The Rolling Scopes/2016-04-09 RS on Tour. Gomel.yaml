@@ -1,0 +1,34 @@
+name: "RS on Tour. Gomel"
+date: 2016-04-09
+talks:
+  - name: "NightwatchJS. Легенды ночных стражей"
+    speaker: Василий Ванчук
+    lang: ru
+    tags:
+      - frontend
+  - name: "Asyncable ES для тех, кто еще не в теме"
+    speaker: Денис Влассенко
+    lang: ru
+    tags:
+      - frontend
+  - name: "Welcome to V/A/M R."
+    speaker: Paul Yuhnovich
+    lang: ru
+    tags:
+      - frontend
+  - name: "Google Closure Library + Compiler - Что в этом особенного и как это работает"
+    speaker: Иван Селицкий
+    lang: ru
+    tags:
+      - frontend
+  - name: "TV in browsers: live cases"
+    speaker: Александр Карлович
+    lang: ru
+    tags:
+      - frontend
+  - name: "Web Accessibility"
+    speaker: Станислав Зубович
+    lang: ru
+    tags:
+      - frontend
+      - 'accessibility'

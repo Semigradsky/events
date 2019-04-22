@@ -1,0 +1,29 @@
+name: "The Rolling Scopes 16"
+date: 2015-04-07
+videos: https://www.youtube.com/watch?v=et6Aj9O5p6Y
+talks:
+  - name: "Flux для твоей бабушки"
+    speaker: Siarhei Melnik
+    video: https://www.youtube.com/watch?v=4ZRrRt3xwyA&t=458s
+    lang: ru
+    tags:
+      - frontend
+  - name: "Как мы готовим React"
+    speaker: Алексей Петроченков
+    presentation: http://rolling-scopes.github.io/slides/rs16/cook-reack.pptx
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: "Immutable.js: борьба с изменяемым состоянием в JS"
+    speaker: Виктор Гринчик
+    video: https://www.youtube.com/watch?v=c40Af00xV1k
+    lang: ru
+    tags:
+      - frontend
+  - name: "Isomorphic JavaScript"
+    speaker: Андрей Янович
+    video: https://www.youtube.com/watch?v=tGEyBHQnjLg&t=1198s
+    lang: ru
+    tags:
+      - frontend

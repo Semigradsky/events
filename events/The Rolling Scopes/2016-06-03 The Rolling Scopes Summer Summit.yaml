@@ -1,0 +1,95 @@
+name: "The Rolling Scopes Summer Summit"
+date:
+  - 2016-06-03
+  - 2016-06-04
+talks:
+  - name: "Кто-то читает тексты в мобильной игре? Опыт World of Tanks Blitz и при чём здесь UX."
+    speaker: Анна Ширяева
+    lang: ru
+    tags:
+      - frontend
+  - name: "Best UI Design Practices. UI Patterns"
+    speaker: Анастасия Шпакова
+    lang: ru
+    tags:
+      - frontend
+  - name: "Контекст! Контекст! Контекст!"
+    speaker: Ксения Колтун
+    lang: ru
+    tags:
+      - frontend
+  - name: "\"Не иди за мной, я сам потерялся\" или что такое UX исследования, и зачем они нужны"
+    speaker: Виктория Рылькова
+    lang: ru
+    tags:
+      - frontend
+  - name: "Постигаем CSS Grid Layout"
+    speaker: Наталия Короткова
+    lang: ru
+    tags:
+      - frontend
+  - name: "Выжимаем максимум из React.js"
+    speaker: Виталий Фокин
+    lang: ru
+    tags:
+      - frontend
+  - name: "How to FAIL Web Accessibility"
+    speaker: Станислав Зубович
+    lang: ru
+    tags:
+      - frontend
+  - name: "Living the GNU/Linux Dream"
+    speaker: Петар Додев
+    lang: ru
+    tags:
+      - frontend
+  - name: "Безусловное программирование"
+    speaker: Александр Оргиш
+    lang: ru
+    tags:
+      - frontend
+  - name: "Гонки дронов: спорт для гиков."
+    speaker: Андрей Ворошков
+    lang: ru
+    tags:
+      - frontend
+  - name: "Внедрение новых технологий в 10 летнем проекте"
+    speaker: Константин Кривленя
+    lang: ru
+    tags:
+      - frontend
+  - name: "Будь первым"
+    speaker: Константин Кривленя
+    lang: ru
+    tags:
+      - frontend
+  - name: "TV in browsers: live cases"
+    speaker: Александр Карлович
+    lang: ru
+    tags:
+      - frontend
+  - name: "API Панорам"
+    speaker: Всеволод Шмыров
+    lang: ru
+    tags:
+      - frontend
+  - name: "Welcome to V/A/M R."
+    speaker: Paul Yuhnovich
+    lang: ru
+    tags:
+      - frontend
+  - name: "Code review"
+    speaker: Виктор Хомяков
+    lang: ru
+    tags:
+      - frontend
+  - name: "Blend4Web: нативные врата в мир WebGL"
+    speaker: Денис Шеко
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS Quickdraw 2.0"
+    speaker: Andrei Lesnitsky
+    lang: ru
+    tags:
+      - frontend

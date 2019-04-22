@@ -1,0 +1,48 @@
+name: "The Rolling Scopes 37. Gomel"
+date: 2017-06-17
+talks:
+  - name: "Registration"
+    speaker: RS Crew
+    lang: ru
+    tags:
+      - frontend
+  - name: "Introduction to Elm (EN)"
+    speaker: Gabriel Leske
+    lang: ru
+    tags:
+      - frontend
+  - name: "Why client-side web technologies are wrong and what technologies are right (RU)"
+    speaker: Alexey Shrub
+    lang: ru
+    tags:
+      - frontend
+  - name: "Application state management: flux, redux, mobx (RU)"
+    speaker: Mikhail Hatsilau
+    lang: ru
+    tags:
+      - frontend
+  - name: "Introduction to WebGL (RU)"
+    speaker: Sergey Ezhov
+    lang: ru
+    tags:
+      - frontend
+  - name: "Reliable web apps with Elixir and Phoenix (RU)"
+    speaker: Ales Tsvil
+    lang: ru
+    tags:
+      - frontend
+  - name: "How to get into IT / Как войти в АйТи (RU)"
+    speaker: Aliaksei Rabchanka
+    lang: ru
+    tags:
+      - frontend
+  - name: "JS Marathon (RU)"
+    speaker: RS Crew
+    lang: ru
+    tags:
+      - frontend
+  - name: "Awards ceremony (RU)"
+    speaker: RS Crew
+    lang: ru
+    tags:
+      - frontend

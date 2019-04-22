@@ -1,0 +1,9 @@
+name: "RS Workshop 3"
+date: 2014-07-29
+talks:
+  - name: "Обработка и визуализация данных с помощью библиотеки D3.js на примере создания интерактивной карты Беларуси."
+    speaker: Кирилл Верховин
+    presentation: http://rolling-scopes.github.io/slides/rsw-3-d3/d3-demo.zip
+    lang: ru
+    tags:
+      - frontend

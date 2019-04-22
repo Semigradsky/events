@@ -1,0 +1,34 @@
+name: "The Rolling Scopes 30. Gdansk"
+date: 2016-09-28
+talks:
+  - name: "Introduction of The Rolling Scopes"
+    speaker: 'Alexander Gerasimov,Dzmitry Varabei,Vadzim Yakushau'
+    lang: ru
+    tags:
+      - frontend
+  - name: "TypeScript and what's the hack Javascript"
+    speaker: Vadzim Yakushau
+    lang: ru
+    tags:
+      - frontend
+      - TypeScript
+  - name: "Yes, you can use Web components in production"
+    speaker: David Ferreira
+    lang: ru
+    tags:
+      - frontend
+  - name: "Serverless architecture: Functions as a Service"
+    speaker: 'Dzmitry Varabei,Siarhei Melnik'
+    lang: ru
+    tags:
+      - frontend
+  - name: "Designers at the lab"
+    speaker: Dafna Sharabi
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS QuickDraw"
+    speaker: Alexander Gerasimov
+    lang: ru
+    tags:
+      - frontend

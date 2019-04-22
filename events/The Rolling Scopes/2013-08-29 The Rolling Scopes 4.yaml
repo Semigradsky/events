@@ -1,0 +1,36 @@
+name: "The Rolling Scopes 4"
+date: 2013-08-29
+talks:
+  - name: "Knock-knock Flexbox"
+    speaker: Станислав Зубович
+    video: https://www.youtube.com/watch?v=yRrWlgiAxcE
+    presentation: http://rolling-scopes.github.io/slides/rs4/Flexbox
+    lang: ru
+    tags:
+      - frontend
+  - name: "Testing JavaScript Applications"
+    speaker: 'Дмитрий Герасимов,Alexander Gerasimov'
+    video: https://www.youtube.com/watch?v=R2MD7U8VXlQ
+    presentation: http://rolling-scopes.github.io/slides/rs4/jstesting-talk
+    lang: ru
+    tags:
+      - frontend
+      - testing
+  - name: "JavaScript Must Die!"
+    speaker: Константин Кривленя
+    video: https://www.youtube.com/watch?v=t0pJiaXUlD0
+    presentation: http://rolling-scopes.github.io/slides/rs4/javascript_must_die
+    lang: ru
+    tags:
+      - frontend
+  - name: "JavaScript: Non-classical inheritance"
+    speaker: Евгений Заря
+    lang: ru
+    tags:
+      - frontend
+  - name: "Popups - breaking the habits"
+    speaker: Сергей Михайлов
+    presentation: http://rolling-scopes.github.io/slides/rs4/Popups-breaking-the-habits
+    lang: ru
+    tags:
+      - frontend
