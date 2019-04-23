@@ -1,0 +1,45 @@
+name: "WSD 2011 - Москва"
+date: 2011-12-13
+talks:
+  - name: "Быстрая разработка. Краткий обзор средств для работы с\_кодом из\_консоли."
+    speaker: Максим Червонный
+    presentation: https://wsd.events/2011/12/13/pres/quick-console/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Обустраиваем лабораторию для бесчеловечных экспериментов над CSS"
+    speaker: Роман Комаров
+    presentation: https://wsd.events/2011/12/13/pres/css-experiments/
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS3 Media Queries: легкость превращений"
+    speaker: Артемий Ломов
+    presentation: https://wsd.events/2011/12/13/pres/media-queries/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Всё, что вы\_делаете в\_Vim неправильно"
+    speaker: Вячеслав Олиянчук
+    presentation: https://wsd.events/2011/12/13/pres/doing-vim-right/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Пре-фиксы: зачем и\_как правильно"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2011/12/13/pres/pre-fixes/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Редактирование HTML\_в браузере. Как должно быть, как есть, и\_зачем это вообще нужно"
+    speaker: Антон Немцев
+    presentation: https://wsd.events/2011/12/13/pres/contenteditable/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Причеши свой код. Правила хорошего тона в\_CSS"
+    speaker: Вячеслав Олиянчук
+    presentation: https://wsd.events/2011/12/13/pres/css-manners/
+    lang: ru
+    tags:
+      - frontend

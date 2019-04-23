@@ -1,0 +1,43 @@
+name: "WSD 2010 - Киев"
+date: 2010-09-18
+talks:
+  - name: "Веб-стандарты в\_большом проекте: что помогает, а\_что мешает"
+    speaker: Андрей Сумин
+    presentation: https://wsd.events/2010/09/18/pres/big-projects-standards.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Про проектирование интерфейсов и\_немного про Adobe Fireworks"
+    speaker: Вадим Пацев
+    video: 'https://vimeo.com/17248656'
+    presentation: https://wsd.events/2010/09/18/pres/ui-in-fireworks.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Веб в\_кривых. Второе рождение SVG"
+    speaker: Вадим Макеев
+    video: 'https://vimeo.com/17252610'
+    presentation: https://wsd.events/2010/09/18/pres/web-in-curves/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Введение в\_Web Performance: W3C, Webkit, IE9 и\_будущее"
+    speaker: Николай Мациевский
+    presentation: https://wsd.events/2010/09/18/pres/web-performance.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Разработка веб-приложений. Обзорная экскурсия по\_актуальным решениям, библиотекам и\_техникам разработки на\_HTML и\_JavaScript"
+    speaker: Виталий Рыбалка
+    video: 'https://vimeo.com/17249995'
+    presentation: https://wsd.events/2010/09/18/#vitaly-rybalka
+    lang: ru
+    tags:
+      - frontend
+  - name: "Обзор новых API JavaScript. HTML5 и\_самостоятельные черновики W3C"
+    speaker: Антон Немцев
+    video: 'https://vimeo.com/17246164'
+    presentation: https://wsd.events/2010/09/18/pres/new-js-api/
+    lang: ru
+    tags:
+      - frontend

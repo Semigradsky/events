@@ -1,0 +1,51 @@
+name: "WSD 2018 - Киев"
+date: 2018-10-27
+talks:
+  - name: "Mirror users session in 30 minutes only!"
+    speaker: Shilo Mangam
+    presentation: https://wsd.events/2018/10/27/pres/mirror-users.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "SVG: трудности перевода"
+    speaker: Вальдемар Костенко
+    presentation: https://wsd.events/2018/10/27/pres/lost-in-svg.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Энтропия в вёрстке и способы её уменьшить"
+    speaker: Карина Охрименко
+    presentation: https://wsd.events/2018/10/27/pres/css-entropy.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Уменьшаем CSS лениво"
+    speaker: Денис Завгородний
+    presentation: https://wsd.events/2018/10/27/pres/lazy-cleanup/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Семантика для циников"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2018/10/27/pres/semantics/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Математика в\_вебе"
+    speaker: Маша Просвирнина
+    presentation: https://wsd.events/2018/10/27/pres/math-on-web/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Разработка в\_условиях неопределённости"
+    speaker: Андрей Саломатин
+    presentation: https://wsd.events/2018/10/27/pres/uncertainty.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Идеальный доклад. Голая правда"
+    speaker: Никита Дубко и Александра Шинкевич
+    presentation: https://wsd.events/2018/10/27/pres/perfect-talk/
+    lang: ru
+    tags:
+      - frontend

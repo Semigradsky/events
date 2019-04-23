@@ -23,7 +23,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'Практикум ES7, React, Mobx'"
+  - name: "Практикум ES7, React, Mobx"
     speaker: Сергей Алехин
     video: https://youtu.be/u1qogKC8VL4
     code: 'https://bitbucket.org/sa18/finrostdemo'

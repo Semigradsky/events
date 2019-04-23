@@ -1,0 +1,57 @@
+name: "WSD 2017 - Москва"
+date: 2017-01-28
+talks:
+  - name: "Поговорим о\_наших младших товарищах"
+    speaker: Сергей Попов
+    presentation: https://wsd.events/2017/01/28/pres/young-fellas.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Играем в браузере"
+    speaker: Всеволод Шмыров
+    presentation: https://wsd.events/2017/01/28/pres/browser-games/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Здесь водятся драконы"
+    speaker: Лев Солнцев
+    presentation: https://wsd.events/2017/01/28/pres/here-be-dragons/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Мой ванильный CSS"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2017/01/28/pres/vanilla-css/
+    lang: ru
+    tags:
+      - frontend
+  - name: "JSX? Пфф!"
+    speaker: Владимир Гриненко
+    presentation: https://wsd.events/2017/01/28/pres/jsx-pff.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Сбертехнологии фронтенда"
+    speaker: Александра Воробьёва
+    presentation: https://wsd.events/2017/01/28/pres/sber-tech/
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS-in-JS. Назад в будущее!"
+    speaker: Никита Мостовой
+    presentation: https://wsd.events/2017/01/28/pres/css-in-js.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Веб-компоненты: светлое настоящее"
+    speaker: Вадим Черненко
+    presentation: https://wsd.events/2017/01/28/pres/web-components.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Brunch — последний сборщик, который вам будет нужен"
+    speaker: Алексей Швайка
+    presentation: https://wsd.events/2017/01/28/pres/brunch.pdf
+    lang: ru
+    tags:
+      - frontend

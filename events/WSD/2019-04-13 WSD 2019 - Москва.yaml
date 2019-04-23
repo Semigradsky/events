@@ -1,0 +1,51 @@
+name: "WSD 2019 - Москва"
+date: 2019-04-13
+talks:
+  - name: "Пару календарей назад я\_был совсем другим"
+    speaker: Алексей Охрименко
+    presentation: https://wsd.events/2019/04/13/pres/calendars-ago.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Адвокат Flash"
+    speaker: Всеволод Шмыров
+    presentation: https://wsd.events/2019/04/13/pres/flash-advocate.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Найди 10 отличий"
+    speaker: Людмила Мжачих
+    presentation: https://wsd.events/2019/04/13/pres/diff-testing.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Экономим нервы и время. Современная отладка"
+    speaker: Александр Ковтун
+    presentation: https://wsd.events/2019/04/13/pres/devtools-features/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Тёмная сторона веба"
+    speaker: Никита Дубко
+    presentation: https://wsd.events/2019/04/13/pres/web-dark-side/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Семь будущих чудес CSS"
+    speaker: Сэм Булатов
+    presentation: https://wsd.events/2019/04/13/pres/future-css/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Шрифты в вебе: от ASCII до эмоджи и немного дальше"
+    speaker: Юлия Бухвалова
+    presentation: https://wsd.events/2019/04/13/pres/ascii-emoji/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Лучшее – враг хорошего, или Почему не надо становиться руководителем"
+    speaker: Андрей Смирнов
+    presentation: https://wsd.events/2019/04/13/pres/dont-team-lead/
+    lang: ru
+    tags:
+      - frontend

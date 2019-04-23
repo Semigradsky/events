@@ -1,0 +1,51 @@
+name: "WSD 2013 - Минск"
+date: 2013-10-19
+talks:
+  - name: "Отдел вёрстки с\_нуля"
+    speaker: Роберт Харитонов
+    presentation: http://corp.mail.ru/communications/odnoklassniki
+    lang: ru
+    tags:
+      - frontend
+  - name: "Как знать jQuery и\_не\_облажаться"
+    speaker: Вадим Пацев
+    presentation: https://wsd.events/2013/10/19/pres/jquery/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Как построить DOM"
+    speaker: Роман Дворнов
+    presentation: https://wsd.events/2013/10/19/pres/dom.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Потрясающие возможности Web Audio API"
+    speaker: Дмитрий Дудин
+    presentation: https://wsd.events/2013/10/19/pres/web-audio/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Rest in\_PSD: воркфлоу современного веб-дизайнера"
+    speaker: Илья Пухальский
+    presentation: https://wsd.events/2013/10/19/pres/rest-in-ps.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Автопрефиксер: мир без CSS-префиксов"
+    speaker: Андрей Ситник
+    presentation: https://wsd.events/2013/10/19/pres/autoprefixer.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Возвращение ножа и\_паровоза. Работа с\_графикой для веба"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2013/10/19/pres/knife-train.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Распечатай Яндекс.Карты"
+    speaker: Вадим Макишвили
+    presentation: https://wsd.events/2013/10/19/pres/ya-maps.pdf
+    lang: ru
+    tags:
+      - frontend

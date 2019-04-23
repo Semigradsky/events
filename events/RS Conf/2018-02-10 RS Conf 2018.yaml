@@ -84,7 +84,7 @@ talks:
     lang: en
     tags:
       - frontend
-  - name: "'Stream API, through Redux-Observable in Electron-based app'"
+  - name: "Stream API, through Redux-Observable in Electron-based app"
     speaker: Ales Tsvil
     video: https://youtu.be/57m27q_xE68
     lang: ru
@@ -110,7 +110,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'All-You-Can-Eat-Types: Monad Buffet'"
+  - name: "All-You-Can-Eat-Types: Monad Buffet"
     speaker: Alexander Gerasimov
     video: https://youtu.be/gpd_vwQmonM
     lang: ru
@@ -136,13 +136,13 @@ talks:
     lang: en
     tags:
       - frontend
-  - name: "'Когда продуктов много, а дизайнеров чуть-чуть'"
+  - name: "Когда продуктов много, а дизайнеров чуть-чуть"
     speaker: Vitali Novikau
     video: https://youtu.be/_qBJvY_kbyU
     lang: ru
     tags:
       - frontend
-  - name: "'DI: DIY'"
+  - name: "DI: DIY"
     speaker: James Akwuh
     video: https://youtu.be/qQnzVTOqzio
     lang: ru
@@ -154,7 +154,7 @@ talks:
     lang: en
     tags:
       - frontend
-  - name: "'Ресерчили-ресерчили, да не выресерчавали'"
+  - name: "Ресерчили-ресерчили, да не выресерчавали"
     speaker: Dzmitry Vanitski
     video: https://youtu.be/hMNys-hRrmI
     presentation: https://www.dropbox.com/s/a4rh08n5mjwyrsm/RS_Gap_presentation.pdf?dl=0
@@ -210,7 +210,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'Workshop: Думай, как дизайнер'"
+  - name: "Workshop: Думай, как дизайнер"
     speaker: 'Kate Bosakova, Krystsina Svirydzenka, Hanna Kolesava, Svetlana Jeltok'
     video: https://youtu.be/x1vAevI5kIg
     presentation: https://drive.google.com/file/d/1md-vjkyticXMiuZ5H5WyxBUc21eSY40U/view

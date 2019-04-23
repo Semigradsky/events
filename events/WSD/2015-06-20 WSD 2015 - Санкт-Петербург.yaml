@@ -1,0 +1,69 @@
+name: "WSD 2015 - Санкт-Петербург"
+date: 2015-06-20
+talks:
+  - name: "Браузеры наши меньшие, или Нам нужно серьёзно поговорить"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2015/06/20/pres/little-browsers/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Компонентный веб. Проникновение в\_дизайн"
+    speaker: Антон Виноградов
+    presentation: https://wsd.events/2015/06/20/pres/components-web.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Сначала стайлгайд\_— подход к\_разработке UI-компонентов"
+    speaker: Варя Степанова
+    presentation: https://wsd.events/2015/06/20/pres/style-guides.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Жизнь в\_изоляции"
+    speaker: Роман Дворнов
+    presentation: https://wsd.events/2015/06/20/pres/style-isolation.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Почему Blink\_— это не\_новый IE6"
+    speaker: Брюс Лоусон
+    presentation: https://wsd.events/2015/06/20/pres/blink-ie6/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Service Workers как предчувствие"
+    speaker: Вячеслав Шебанов
+    presentation: https://wsd.events/2015/06/20/pres/service-workers/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Отладка кода в\_браузере"
+    speaker: Антон Шувалов
+    presentation: https://wsd.events/2015/06/20/pres/code-debug.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Интерактивная 3D-графика на\_WebGL"
+    speaker: Василика Климова
+    presentation: https://wsd.events/2015/06/20/pres/webgl/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Книги в\_браузере"
+    speaker: Олег Мохов
+    presentation: https://wsd.events/2015/06/20/pres/books.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Кнопка"
+    speaker: Роман Комаров
+    presentation: https://wsd.events/2015/06/20/pres/button/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Оживляем текст"
+    speaker: Юлия Бухвалова
+    presentation: https://wsd.events/2015/06/20/pres/text-alive/
+    lang: ru
+    tags:
+      - frontend

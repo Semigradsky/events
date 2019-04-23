@@ -1,0 +1,57 @@
+name: "WSD 2018 - Минск"
+date: 2018-12-01
+talks:
+  - name: "Язык жестов"
+    speaker: Анна Селезнёва
+    presentation: https://wsd.events/2018/12/01/pres/gesture-lang/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Встречайте бабушку"
+    speaker: Виталий Харисов
+    presentation: https://wsd.events/2018/12/01/pres/meet-babushka.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Лечим непроизводительные анимации"
+    speaker: Николай Шабалин
+    presentation: https://wsd.events/2018/12/01/pres/animation-perf/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Отладка CSS в\_боевых условиях"
+    speaker: Никита Дубко
+    presentation: https://wsd.events/2018/12/01/pres/css-debug/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Про сервис-воркеры. Снова!"
+    speaker: Кирилл Чугаинов
+    presentation: https://wsd.events/2018/12/01/pres/sw-again/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Как разложить код по папкам"
+    speaker: Александр Бальцевич
+    presentation: https://wsd.events/2018/12/01/pres/organize-code.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "TypeScript: the good parts"
+    speaker: Михаил Башуров
+    presentation: https://wsd.events/2018/12/01/pres/ts-good-parts/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Семантика для циников"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2018/12/01/pres/semantics/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Война текстовых редакторов: редактор кода vs\_IDE"
+    speaker: Александра Шинкевич
+    presentation: https://wsd.events/2018/12/01/pres/code-editors/
+    lang: ru
+    tags:
+      - frontend

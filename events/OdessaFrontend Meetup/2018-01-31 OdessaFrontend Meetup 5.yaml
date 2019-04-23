@@ -16,7 +16,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'CSS Grid: когда уже можно?'"
+  - name: "CSS Grid: когда уже можно?"
     speaker: Сергей Полющенков
     video: https://youtu.be/4rctIgzM1mQ
     presentation: https://odessafrontend.github.io/grid/#

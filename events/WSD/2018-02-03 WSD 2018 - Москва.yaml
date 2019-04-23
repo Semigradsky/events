@@ -1,0 +1,57 @@
+name: "WSD 2018 - Москва"
+date: 2018-02-03
+talks:
+  - name: "За кулисами W3C"
+    speaker: Алекс Могилевский
+    presentation: https://wsd.events/2018/02/03/pres/w3c-backstage.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Насколько важно следовать стандартам?"
+    speaker: Вячеслав Абрамов
+    presentation: https://wsd.events/2018/02/03/pres/follow-standards.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS глазами машин"
+    speaker: Роман Дворнов
+    presentation: https://wsd.events/2018/02/03/pres/css-for-machines.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Распечатай мне курсач. На CSS"
+    speaker: Никита Дубко
+    presentation: https://wsd.events/2018/02/03/pres/printing-css/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Давайте добавим правила! или Погружение в мир типизации"
+    speaker: Григорий Шехет
+    presentation: https://wsd.events/2018/02/03/pres/type-dive.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Через каскадные таблицы стилей в\_облака"
+    speaker: Владимир Гриненко
+    presentation: https://wsd.events/2018/02/03/pres/css-to-docker.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Прототипирование на\_продакшен-технологиях"
+    speaker: Михаил Колосков
+    presentation: https://wsd.events/2018/02/03/pres/bem-design.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Фронтенд-ликбез"
+    speaker: Людмила Мжачих
+    presentation: https://wsd.events/2018/02/03/pres/frontend-101.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Продакшен на базе образовательного проекта. Зачем и как"
+    speaker: Сергей Попов
+    presentation: https://wsd.events/2018/02/03/pres/production.pdf
+    lang: ru
+    tags:
+      - frontend

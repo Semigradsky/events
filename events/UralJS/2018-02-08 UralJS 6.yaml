@@ -16,7 +16,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'React и данные: Эффективные способы хранения и изменения стейта'"
+  - name: "React и данные: Эффективные способы хранения и изменения стейта"
     speaker: Алексей Иванов
     video: https://youtu.be/W0vZQaWqopw
     presentation: https://goo.gl/TXDCYL

@@ -1,0 +1,45 @@
+name: "WSD 2014 - Новосибирск"
+date: 2014-04-12
+talks:
+  - name: "Верстальщик должен быть ленивый"
+    speaker: Тим Чаптыков
+    presentation: https://wsd.events/2014/04/12/pres/lazy-coder/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Как защитить свой код"
+    speaker: Дмитрий Кузнецов
+    presentation: https://wsd.events/2014/04/12/pres/protect-code/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Быстро о\_быстром"
+    speaker: Роман Дворнов
+    presentation: https://wsd.events/2014/04/12/pres/speed.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Разработка приложений для Smart TV"
+    speaker: Андрей Мотошин
+    presentation: https://wsd.events/2014/04/12/pres/smart-tv/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Не\_бойся, это всего лишь данные... просто их\_много"
+    speaker: Роман Дворнов
+    presentation: https://wsd.events/2014/04/12/pres/data.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Семантичный код как основа HTML-документа"
+    speaker: Анатолий Матов
+    presentation: https://wsd.events/2014/04/12/pres/semantics-basis/
+    lang: ru
+    tags:
+      - frontend
+  - name: "БЭМ\_— норм"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2014/04/12/pres/bem-ok/
+    lang: ru
+    tags:
+      - frontend

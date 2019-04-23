@@ -9,7 +9,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'Grafana и Frontend, кастомная визуализация серверной инфраструктуры'"
+  - name: "Grafana и Frontend, кастомная визуализация серверной инфраструктуры"
     speaker: Лиманская Дарья
     video: https://youtu.be/ZyUHzLylcGA
     presentation: https://drive.google.com/drive/folders/1qGsqMzZlNzL1-8QJWyj-4AOY9kAXiKYN

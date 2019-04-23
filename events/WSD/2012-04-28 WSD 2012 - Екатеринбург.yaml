@@ -1,0 +1,32 @@
+name: "WSD 2012 - Екатеринбург"
+date: 2012-04-28
+talks:
+  - name: "Как сделать текстовый онлайн-редактор и\_испортить себе жизнь"
+    speaker: Василий Аксёнов
+    presentation: https://wsd.events/2012/04/28/pres/online-editor.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Быстрый удар точно в\_цель"
+    speaker: Артемий Ломов
+    presentation: https://wsd.events/2012/04/28/pres/css-selectors/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Dart\_— светлая сторона силы?"
+    speaker: Михаил Давыдов
+    presentation: https://wsd.events/2012/04/28/pres/dart.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Пре-фиксы. Зачем и\_как правильно"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2012/04/28/pres/pre-fixes/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Как должно быть и\_как на\_самом деле?"
+    speaker: Олег Мохов
+    lang: ru
+    tags:
+      - frontend

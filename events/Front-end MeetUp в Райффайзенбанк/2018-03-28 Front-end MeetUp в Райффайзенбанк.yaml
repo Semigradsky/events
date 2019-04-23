@@ -14,7 +14,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'React, Mobx и ES7'"
+  - name: "React, Mobx и ES7"
     speaker: Алехин Сергей
     video: https://youtu.be/5zPbydsnLoE?t=1h18m16s
     lang: ru

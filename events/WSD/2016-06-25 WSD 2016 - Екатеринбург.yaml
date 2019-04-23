@@ -1,0 +1,53 @@
+name: "WSD 2016 - Екатеринбург"
+date: 2016-06-25
+talks:
+  - name: "Как я перестал верить технологиям"
+    presentation: https://wsd.events/2016/06/25/#alexey-simonenko
+    lang: ru
+    tags:
+      - frontend
+  - name: "Готовим бизнес-лапшу на\_React и\_Redux"
+    speaker: Евгений Тихонов
+    lang: ru
+    tags:
+      - frontend
+  - name: "МРТ для данных"
+    speaker: Анастасия Горячева
+    lang: ru
+    tags:
+      - frontend
+  - name: "Меняем JavaScript с\_помощью JavaScript"
+    speaker: Павел Волокитин
+    lang: ru
+    tags:
+      - frontend
+  - name: "Жми сюда!"
+    speaker: Вадим Макеев
+    lang: ru
+    tags:
+      - frontend
+  - name: "Дружим с\_контентом пользователя"
+    speaker: Владимир Кузнецов
+    lang: ru
+    tags:
+      - frontend
+  - name: "npm\_— найдётся подходящий модуль"
+    speaker: Всеволод Струкчинский
+    lang: ru
+    tags:
+      - frontend
+  - name: "Жизнь HTML\_в 2ГИС под iOS"
+    speaker: Роман Янке
+    lang: ru
+    tags:
+      - frontend
+  - name: "Осторожно, закэшировано!"
+    speaker: Сергей Жигалов
+    lang: ru
+    tags:
+      - frontend
+  - name: "Как отвечать за\_продакшен"
+    speaker: Андрей Сумин
+    lang: ru
+    tags:
+      - frontend

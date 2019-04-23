@@ -8,7 +8,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'Современный JS – итераторы, генераторы, async/await'"
+  - name: "Современный JS – итераторы, генераторы, async/await"
     speaker: Дмитрий Злыгин
     video: https://yadi.sk/i/3pPACQBR3T2r9V
     lang: ru

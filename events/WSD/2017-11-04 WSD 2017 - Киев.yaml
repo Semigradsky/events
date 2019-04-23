@@ -1,0 +1,63 @@
+name: "WSD 2017 - Киев"
+date: 2017-11-04
+talks:
+  - name: "CSS in a Components World"
+    speaker: Bruce Lawson
+    presentation: https://wsd.events/2017/11/04/pres/css-components.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Светлое будущее Custom Elements"
+    speaker: Елена Жукова
+    presentation: https://wsd.events/2017/11/04/pres/custom-elements.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Людоедский интерфейс"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2017/11/04/pres/inhuman-ui/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Индуктивная доступность"
+    speaker: Антон Есауленко
+    presentation: https://wsd.events/2017/11/04/pres/inductive-a11y/
+    lang: ru
+    tags:
+      - frontend
+  - name: "WTF is AMP и почему шмель летает?"
+    speaker: Андрей Абрамов
+    presentation: https://wsd.events/2017/11/04/pres/wtf-amp/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Оптимизируй это"
+    speaker: Денис Завгородний
+    presentation: https://wsd.events/2017/11/04/pres/optimize-it/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Жизнь и смерть точек на экране"
+    speaker: Юрий Артюх
+    presentation: https://wsd.events/2017/11/04/pres/screen-dots.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Атомарный CSS"
+    speaker: Дмитрий Цысарь
+    presentation: https://wsd.events/2017/11/04/pres/atomic-css/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Что делать, если ты молодой фронтендер?"
+    speaker: Влад Антипенко
+    presentation: https://wsd.events/2017/11/04/pres/youth-front/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Изобретаем велосипед для фриланса"
+    speaker: Павел Никитюк
+    presentation: https://wsd.events/2017/11/04/pres/freelancycle.pdf
+    lang: ru
+    tags:
+      - frontend

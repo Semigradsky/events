@@ -1,0 +1,63 @@
+name: "WSD 2015 - Москва"
+date: 2015-12-13
+talks:
+  - name: "Microsoft Edge, побег из прошлого"
+    speaker: "Доклад на\_английском языке."
+    presentation: https://wsd.events/2015/12/13/pres/microsoft-edge.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Ещё лучше, чем настоящие!"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2015/12/13/pres/web-apps/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Фронтенд в Avito"
+    speaker: Александр Лобашёв
+    presentation: https://wsd.events/2015/12/13/pres/avito-frontend.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "WCAG 2.0, или Боль доступного веба"
+    speaker: Станислав Зубович
+    presentation: https://wsd.events/2015/12/13/pres/wcag-pain/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Отладка подключённых устройств на Vorlon.js"
+    speaker: Дэвид Руссе
+    presentation: https://wsd.events/2015/12/13/pres/vorlon-js.pdf
+    lang: en
+    tags:
+      - frontend
+  - name: "Создание редактора изображений в\_браузере"
+    speaker: Всеволод Шмыров
+    presentation: https://wsd.events/2015/12/13/pres/image-editor.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Тёмная сторона SVG"
+    speaker: Ирина Руденко
+    presentation: https://wsd.events/2015/12/13/pres/svg-dark-side.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSSO\_— минимизируем CSS"
+    speaker: Роман Дворнов
+    presentation: https://wsd.events/2015/12/13/pres/csso.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Всем стоять и\_не\_двигаться!"
+    speaker: Алексей Охрименко
+    presentation: https://wsd.events/2015/12/13/pres/dont-move/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Shower 2.0"
+    speaker: Денис Хананеин
+    presentation: https://wsd.events/2015/12/13/pres/shower-2/
+    lang: ru
+    tags:
+      - frontend

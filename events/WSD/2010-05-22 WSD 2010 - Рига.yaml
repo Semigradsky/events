@@ -1,0 +1,45 @@
+name: "WSD 2010 - Рига"
+date: 2010-05-22
+videos: 'https://www.youtube.com/playlist?list=PLMBnwIwFEFHdaraq29A9Hv3Ncllm8f88z'
+talks:
+  - name: "Веб-вёрстка в\_Латвии: Вчера. Сегодня! Завтра?"
+    speaker: Никита Селецкий
+    presentation: https://wsd.events/2010/05/22/pres/intro-latvia.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Особенности создания веб—сайтов для мобильных устройств"
+    speaker: Дмитрий Дулепов
+    presentation: https://wsd.events/2010/05/22/pres/mobile-webdev.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "HTML5 и\_CSS3. Эволюция веб-стандартов"
+    speaker: Антон Немцев
+    presentation: https://wsd.events/2010/05/22/pres/html5/
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS-менеджмент. Три года спустя"
+    speaker: Вадим Макеев
+    video: 'https://www.youtube.com/watch?v=F_n_aSF1Y50'
+    presentation: https://wsd.events/2010/05/22/pres/css-management/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Средства для разработчиков\_— какое вкуснее?"
+    speaker: Михаил Баранов
+    presentation: https://wsd.events/2010/05/22/pres/extensions.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Lean Startup. От\_идеи до\_миллиона"
+    speaker: Максим Берёза
+    presentation: https://wsd.events/2010/05/22/pres/lean-startup.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Круглый стол «Веб-стандарты vs. Rich Internet Applications»"
+    lang: ru
+    tags:
+      - frontend

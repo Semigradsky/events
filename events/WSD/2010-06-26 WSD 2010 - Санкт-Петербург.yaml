@@ -1,0 +1,34 @@
+name: "WSD 2010 - Санкт-Петербург"
+date: 2010-06-26
+videos: 'https://www.youtube.com/playlist?list=PLMBnwIwFEFHewAvmkdJZJibHgNqXFEO1g'
+talks:
+  - name: "Доставка данных в\_реальном времени. Node.js + WebSocket (Flash Socket) + Redis + Pub/Sub"
+    speaker: Александр Бешкенадзе
+    presentation: https://wsd.events/2010/06/26/pres/realtime-data.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS3: будущее механизмов раскладки. Обзор и\_анализ черновиков Grid, Flexbox и\_Template Layout"
+    speaker: Вячеслав Олиянчук
+    presentation: https://wsd.events/2010/06/26/pres/css3-layout/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Правила хорошего тона в\_вебе. Выбираем: стандарты разметки, уровень поддержки CSS, форматы графики, JS-библиотеку и\_средства анимации"
+    speaker: Николай Мациевский
+    presentation: https://wsd.events/2010/06/26/pres/good-manners.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Слесарю слесарево. Новый подход к\_обратной совместимости вёрстки"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2010/06/26/pres/caesars/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Обзор отладчиков для веб-разработки. Сравнение Firebug, IE\_Developer Toolbar, Opera Dragonfly и\_WebKit Web Inspector"
+    speaker: Михаил Баранов
+    presentation: https://wsd.events/2010/06/26/pres/debuggers.pdf
+    lang: ru
+    tags:
+      - frontend

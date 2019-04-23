@@ -3,7 +3,7 @@ link: 'https://fwdays.com/event/js-fwdays-2018'
 date: 2018-03-18
 videos: 'https://www.youtube.com/playlist?list=PLPcgQFk9n9y8_G0Gyh0yqDuiZqy15RLDo'
 talks:
-  - name: "'JavaScript: День 4001-й'"
+  - name: "JavaScript: День 4001-й"
     speaker: Illya Klymov
     video: https://youtu.be/jzaZlEOSwoA
     presentation: https://www.slideshare.net/fwdays/javascript-4001
@@ -17,7 +17,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'React: дорога к просветлению'"
+  - name: "React: дорога к просветлению"
     speaker: Ekaterina Lizogubova
     video: https://youtu.be/STz1tr65ykE
     presentation: https://www.slideshare.net/fwdays/react-91307920
@@ -59,7 +59,7 @@ talks:
     lang: uk
     tags:
       - frontend
-  - name: "'Time, Numbers, Text'"
+  - name: "Time, Numbers, Text"
     speaker: Andrey Listochkin
     video: https://youtu.be/TFBCcNFEmDE
     presentation: https://speakerdeck.com/listochkin/time-numbers-text
@@ -80,7 +80,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'Frontend testing for Wix viewer: case study'"
+  - name: "Frontend testing for Wix viewer: case study"
     speaker: Noam Rosenthal
     video: https://youtu.be/IYunRopn6fg
     presentation: https://www.slideshare.net/fwdays/noam-rosenthal-frontend-testing-for-wix-viewer-case-study
@@ -108,7 +108,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'Vue: webcomponents'"
+  - name: "Vue: webcomponents"
     speaker: Vitalii Ratushnyi
     video: https://youtu.be/Q3MOPhHR2Mk
     presentation: https://www.slideshare.net/fwdays/vue-webcomponents
@@ -121,7 +121,7 @@ talks:
     lang: en
     tags:
       - frontend
-  - name: "'Best practices and troubleshooting guide for node applications [Workshop]'"
+  - name: "Best practices and troubleshooting guide for node applications [Workshop]"
     speaker: Nikita Galkin
     video: https://youtu.be/8HQ0IYanqFs
     presentation: https://www.slideshare.net/fwdays/nikita-galkin-best-practices-and-troubleshooting-guide-for-node-applications

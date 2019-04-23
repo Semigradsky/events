@@ -9,7 +9,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'Functional programming: Give it a chance!'"
+  - name: "Functional programming: Give it a chance!"
     speaker: Dmytro Tereshchenko
     video: https://youtu.be/M-rRkTAj5wg
     lang: ru

@@ -1,0 +1,63 @@
+name: "WSD 2017 - Минск"
+date: 2017-10-21
+talks:
+  - name: "Нодскул в Минске: как и зачем"
+    speaker: Тим Маринин
+    presentation: https://wsd.events/2017/10/21/pres/nodeschool/
+    lang: ru
+    tags:
+      - frontend
+  - name: "SSR: DIY"
+    speaker: Джеймс Аквух
+    presentation: https://wsd.events/2017/10/21/pres/ssr-diy.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Знакомьтесь, модальное окно"
+    speaker: Анна Селезнёва
+    presentation: https://wsd.events/2017/10/21/pres/meet-modal/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Людоедский интерфейс"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2017/10/21/pres/inhuman-ui/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Duck Hunters TV"
+    speaker: Алексей Трусов
+    presentation: https://wsd.events/2017/10/21/pres/duck-hunters.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Рендер HTML\_в PNG на\_клиенте"
+    speaker: Андрей Роенко
+    presentation: https://wsd.events/2017/10/21/pres/html-to-png/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Что не так с Emoji"
+    speaker: Алексей Авдеев
+    presentation: https://wsd.events/2017/10/21/pres/whats-emoji/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Ответ на\_главный вопрос в\_CSS"
+    speaker: Михаил Иванкив
+    presentation: https://wsd.events/2017/10/21/pres/css-question/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Houdini\_— великий разоблачитель"
+    speaker: Никита Дубко
+    presentation: https://wsd.events/2017/10/21/pres/houdini-magic/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Верстальщик. Наследие"
+    speaker: Сергей Попов
+    presentation: https://wsd.events/2017/10/21/pres/coder-legacy.pdf
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,63 @@
+name: "WSD 2013 - Москва"
+date: 2013-12-07
+talks:
+  - name: "Что интересного готовит нам W3C"
+    speaker: Сергей Константинов
+    presentation: https://wsd.events/2013/12/07/pres/whats-new-w3c.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Мастер-класс: Пробуем Web Components уже сегодня"
+    speaker: Вадим Пацев
+    presentation: https://wsd.events/2013/12/07/pres/web-components.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Прототип сайта: разработка и\_развёртывание"
+    speaker: Владимир Кузнецов
+    presentation: https://wsd.events/2013/12/07/pres/prototype.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Возвращение ножа и\_паровоза"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2013/12/07/pres/knife-train.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Потрясающие возможности Web Audio API"
+    speaker: Дмитрий Дудин
+    presentation: https://wsd.events/2013/12/07/pres/web-audio/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Отдел вёрстки с\_нуля"
+    speaker: Роберт Харитонов
+    presentation: https://wsd.events/2013/12/07/pres/coding-dept.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Семантический винегрет"
+    speaker: Сергей Мезенцев
+    presentation: https://wsd.events/2013/12/07/pres/semantic-salad.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Грани опенсорса"
+    speaker: Роман Комаров
+    presentation: https://wsd.events/2013/12/07/pres/opensource.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Семантика или смерть"
+    speaker: Наташа Арефьева
+    presentation: https://wsd.events/2013/12/07/pres/semantic-or-death.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Распечатай Яндекс.Карты"
+    speaker: Вадим Макишвили
+    presentation: https://wsd.events/2013/12/07/pres/print-maps.pdf
+    lang: ru
+    tags:
+      - frontend

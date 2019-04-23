@@ -1,5 +1,16 @@
-# Events / 2019 / [2018](&#x2F;2018.md) / [2017](&#x2F;2017.md) / [2016](&#x2F;2016.md) / [2015](&#x2F;2015.md) / [2014](&#x2F;2014.md) / [2013](&#x2F;2013.md) 
+# Events / 2019 / [2018](&#x2F;2018.md) / [2017](&#x2F;2017.md) / [2016](&#x2F;2016.md) / [2015](&#x2F;2015.md) / [2014](&#x2F;2014.md) / [2013](&#x2F;2013.md) / [2012](&#x2F;2012.md) / [2011](&#x2F;2011.md) / [2010](&#x2F;2010.md) / [2009](&#x2F;2009.md) 
 
+## WSD 2019 - Москва - Apr 13 
+| | | |
+| --- | :---: | --- |
+| Пару календарей назад я был совсем другим | Алексей Охрименко | [:notebook:](https:&#x2F;&#x2F;wsd.events&#x2F;2019&#x2F;04&#x2F;13&#x2F;pres&#x2F;calendars-ago.pdf)  |
+| Адвокат Flash | Всеволод Шмыров | [:notebook:](https:&#x2F;&#x2F;wsd.events&#x2F;2019&#x2F;04&#x2F;13&#x2F;pres&#x2F;flash-advocate.pdf)  |
+| Найди 10 отличий | Людмила Мжачих | [:notebook:](https:&#x2F;&#x2F;wsd.events&#x2F;2019&#x2F;04&#x2F;13&#x2F;pres&#x2F;diff-testing.pdf)  |
+| Экономим нервы и время. Современная отладка | Александр Ковтун | [:notebook:](https:&#x2F;&#x2F;wsd.events&#x2F;2019&#x2F;04&#x2F;13&#x2F;pres&#x2F;devtools-features&#x2F;)  |
+| Тёмная сторона веба | Никита Дубко | [:notebook:](https:&#x2F;&#x2F;wsd.events&#x2F;2019&#x2F;04&#x2F;13&#x2F;pres&#x2F;web-dark-side&#x2F;)  |
+| Семь будущих чудес CSS | Сэм Булатов | [:notebook:](https:&#x2F;&#x2F;wsd.events&#x2F;2019&#x2F;04&#x2F;13&#x2F;pres&#x2F;future-css&#x2F;)  |
+| Шрифты в вебе: от ASCII до эмоджи и немного дальше | Юлия Бухвалова | [:notebook:](https:&#x2F;&#x2F;wsd.events&#x2F;2019&#x2F;04&#x2F;13&#x2F;pres&#x2F;ascii-emoji&#x2F;)  |
+| Лучшее – враг хорошего, или Почему не надо становиться руководителем | Андрей Смирнов | [:notebook:](https:&#x2F;&#x2F;wsd.events&#x2F;2019&#x2F;04&#x2F;13&#x2F;pres&#x2F;dont-team-lead&#x2F;)  |
 ## MinskCSS 6 - Apr 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL3uk4LxG9Zzl9LTp0yLfaXhIu7-xoUHQN)
 | | | |
 | --- | :---: | --- |

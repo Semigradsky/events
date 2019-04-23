@@ -2,7 +2,7 @@ name: "SPA Meetup 4"
 link: 'https://moscow-spa.timepad.ru/event/692653/'
 date: 2018-04-07
 talks:
-  - name: "'Архитектура фронтенда крупного проекта, как она есть'"
+  - name: "Архитектура фронтенда крупного проекта, как она есть"
     speaker: Константин Лебедев
     video: https://youtu.be/J08UOAJdjWc
     presentation: https://rubaxa.github.io/octavius/2017/avito.html#

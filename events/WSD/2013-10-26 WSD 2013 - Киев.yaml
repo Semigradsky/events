@@ -1,0 +1,69 @@
+name: "WSD 2013 - Киев"
+date: 2013-10-26
+talks:
+  - name: "Отдел вёрстки с\_нуля"
+    speaker: Роберт Харитонов
+    presentation: https://wsd.events/2013/10/26/pres/department.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Найм джуниоров, как это происходит на\_самом деле"
+    speaker: Игорь Зенич
+    presentation: https://wsd.events/2013/10/26/pres/juniors.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Rest in\_PSD: воркфлоу современного веб-дизайнера"
+    speaker: Илья Пухальский
+    presentation: http://webstandardsdays.ru/2013/10/26/pres/rest-in-ps.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Возвращение ножа и\_паровоза. Работа с\_графикой для веба"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2013/10/26/pres/knife-train.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Генератор блоков bem-node. Самый простой способ писать на\_BEM"
+    speaker: Владимир Билоненко
+    presentation: https://wsd.events/2013/10/26/pres/bem-node.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Пишем свой jQuery за\_20\_минут"
+    speaker: Кир Белевич
+    presentation: https://wsd.events/2013/10/26/pres/jq-twenty.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Как построить DOM"
+    speaker: Роман Дворнов
+    presentation: https://wsd.events/2013/10/26/pres/dom.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Автопрефиксер: мир без CSS-префиксов"
+    speaker: Андрей Ситник
+    presentation: https://wsd.events/2013/10/26/pres/autoprefixer.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Разработка веб-приложений для iOS"
+    speaker: Алексей Распопов
+    presentation: https://wsd.events/2013/10/26/pres/ios-webapps.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Основы сеонизма, или как перестать ненавидеть SEO и\_начать делать хорошие сайты"
+    speaker: Анна Селезнёва
+    presentation: https://wsd.events/2013/10/26/pres/seonism.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Потерянные спецификации"
+    speaker: Антон Немцев
+    presentation: https://wsd.events/2013/10/26/pres/lost-specs/
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,39 @@
+name: "WSD 2012 - Киев"
+date: 2012-10-13
+talks:
+  - name: "Скоростная верстка в\_8\_рук или как не\_стать осьминогом"
+    speaker: Мурад Рогожников
+    presentation: https://wsd.events/2012/10/13/pres/speed-coding.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Многослойный CSS"
+    speaker: Роберт Харитонов
+    presentation: https://wsd.events/2012/10/13/pres/mcss/
+    lang: ru
+    tags:
+      - frontend
+  - name: "С\_реактивными костылями в\_будущее. MeteorJS"
+    speaker: Евгений Чечурин
+    presentation: https://wsd.events/2012/10/13/pres/meteor.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Жми сюда!"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2012/10/13/pres/push-it/
+    lang: ru
+    tags:
+      - frontend
+  - name: "На\_грани возможного"
+    speaker: Антон Немцев
+    presentation: https://wsd.events/2012/10/13/pres/3d-css/
+    lang: ru
+    tags:
+      - frontend
+  - name: "HTML5-приложения для Windows 8"
+    speaker: Юрий Артюх
+    presentation: https://wsd.events/2012/10/13/pres/html5-win8.pdf
+    lang: ru
+    tags:
+      - frontend

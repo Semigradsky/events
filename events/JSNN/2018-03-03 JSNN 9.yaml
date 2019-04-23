@@ -8,7 +8,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "'Сетевое взаимодействие в WEB: аудит производительности'"
+  - name: "Сетевое взаимодействие в WEB: аудит производительности"
     speaker: Борис Стрельников
     video: https://youtu.be/albWwa93c4E
     lang: ru

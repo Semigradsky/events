@@ -1,0 +1,45 @@
+name: "WSD 2012 - Санкт-Петербург"
+date: 2012-06-23
+talks:
+  - name: "Джедаями не\_рождаются"
+    speaker: Михаил Баранов
+    presentation: https://wsd.events/2012/06/23/pres/jedi/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Селекторы CSS в\_разрезе производительности"
+    speaker: Артемий Ломов
+    presentation: https://wsd.events/2012/06/23/pres/css-selectors/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Жми сюда!"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2012/06/23/pres/push-it/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Schema.org. Современный семантический веб"
+    speaker: Сергей Мезенцев
+    presentation: https://wsd.events/2012/06/23/pres/schema-org.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Трудности производительности"
+    speaker: Дмитрий Махнёв
+    presentation: https://wsd.events/2012/06/23/pres/js-perf.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "На\_грани возможного"
+    speaker: Антон Немцев
+    presentation: https://wsd.events/2012/06/23/pres/3d-css/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Спасаем мир вместе"
+    speaker: Роман Комаров
+    presentation: https://wsd.events/2012/06/23/pres/saving-the-world/
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,50 @@
+name: "WSD 2011 - Киев"
+date: 2011-10-22
+talks:
+  - name: "Прокрустовы окна. Как вписаться в\_устройства с\_минимальными потерями"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2011/10/22/pres/procrustes/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Sass и\_Compass"
+    speaker: Сергей Дыниовский
+    presentation: https://wsd.events/2011/10/22/pres/sass-compass.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Когда <video> убьёт Flash?"
+    presentation: https://wsd.events/2011/10/22/#nikolay-matsievsky
+    lang: ru
+    tags:
+      - frontend
+  - name: "Редактирование HTML\_в браузере. Как должно быть, как есть, и\_зачем это вообще нужно"
+    speaker: Антон Немцев
+    presentation: https://wsd.events/2011/10/22/pres/contenteditable/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Чек-лист вёрстки. Что можно отдавать клиенту, а\_что надо переделывать"
+    speaker: Игорь Зенич
+    presentation: https://wsd.events/2011/10/22/pres/coding-checklist.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "CSS3 Media Queries: лёгкость превращений"
+    speaker: Артемий Ломов
+    presentation: https://wsd.events/2011/10/22/pres/media-queries/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Настоящий JavaScript"
+    speaker: Антон Котенко
+    presentation: https://wsd.events/2011/10/22/pres/true-javascript/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Adobe Edge. Веб-анимация по\_стандартам"
+    speaker: Андрей Головнев
+    presentation: https://wsd.events/2011/10/22/pres/adobe-edge/
+    lang: ru
+    tags:
+      - frontend

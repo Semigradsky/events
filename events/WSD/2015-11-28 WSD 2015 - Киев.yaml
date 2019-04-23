@@ -1,0 +1,63 @@
+name: "WSD 2015 - Киев"
+date: 2015-11-28
+talks:
+  - name: "CSS is still awesome"
+    speaker: Юра Ткаченко
+    presentation: https://wsd.events/2015/11/28/pres/css-awesome/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Сontenteditable"
+    speaker: Игорь Кононученко
+    presentation: https://wsd.events/2015/11/28/pres/contenteditable.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "React и/или БЭМ"
+    speaker: Сергей Сыркин
+    presentation: https://wsd.events/2015/11/28/pres/react-bem.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "БЭМ в дикой природе"
+    speaker: Игорь Зенич
+    presentation: https://wsd.events/2015/11/28/pres/bem-in-the-wild/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Ещё лучше, чем настоящие!"
+    speaker: Вадим Макеев
+    presentation: https://wsd.events/2015/11/28/pres/web-apps/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Автономность прежде всего"
+    speaker: Антон Немцев
+    presentation: https://wsd.events/2015/11/28/pres/autonomous/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Типографика: от\_верстальщика к\_фронтендеру"
+    speaker: Роман Прудников
+    presentation: https://wsd.events/2015/11/28/pres/typography/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Sketch и\_фронтенд-разработка"
+    speaker: "Артём Прохацкий и\_Артём Свительский"
+    presentation: https://wsd.events/2015/11/28/pres/sketch-front-end.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Асинхронное мышление, или Психоанализ для веб-разработчика"
+    speaker: Михаил Боднарчук
+    presentation: https://wsd.events/2015/11/28/pres/async-mind.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "JavaScript в\_Украине"
+    speaker: Андрей Листочкин
+    presentation: https://wsd.events/2015/11/28/pres/js-ua.pdf
+    lang: ru
+    tags:
+      - frontend
