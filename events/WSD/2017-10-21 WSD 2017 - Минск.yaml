@@ -1,62 +1,73 @@
 name: "WSD 2017 - Минск"
 date: 2017-10-21
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHcH08btMm9QFbdOCvHqHz8G
 talks:
   - name: "Нодскул в Минске: как и зачем"
     speaker: Тим Маринин
+    video: https://www.youtube.com/watch?v=vygTkVibcsk
     presentation: https://wsd.events/2017/10/21/pres/nodeschool/
     lang: ru
     tags:
       - frontend
   - name: "SSR: DIY"
     speaker: Джеймс Аквух
+    video: https://www.youtube.com/watch?v=O_IEzdYi634
     presentation: https://wsd.events/2017/10/21/pres/ssr-diy.pdf
     lang: ru
     tags:
       - frontend
   - name: "Знакомьтесь, модальное окно"
     speaker: Анна Селезнёва
+    video: https://www.youtube.com/watch?v=s6PI8pKQxgo
     presentation: https://wsd.events/2017/10/21/pres/meet-modal/
     lang: ru
     tags:
       - frontend
   - name: "Людоедский интерфейс"
     speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=ssJsjGZE2sc
     presentation: https://wsd.events/2017/10/21/pres/inhuman-ui/
     lang: ru
     tags:
       - frontend
   - name: "Duck Hunters TV"
     speaker: Алексей Трусов
+    video: https://www.youtube.com/watch?v=ouVyhtFFnyU
     presentation: https://wsd.events/2017/10/21/pres/duck-hunters.pdf
     lang: ru
     tags:
       - frontend
   - name: "Рендер HTML\_в PNG на\_клиенте"
     speaker: Андрей Роенко
+    video: https://www.youtube.com/watch?v=K51466UUUFY
     presentation: https://wsd.events/2017/10/21/pres/html-to-png/
     lang: ru
     tags:
       - frontend
   - name: "Что не так с Emoji"
     speaker: Алексей Авдеев
+    video: https://www.youtube.com/watch?v=DUwZpLBSuiI
     presentation: https://wsd.events/2017/10/21/pres/whats-emoji/
     lang: ru
     tags:
       - frontend
   - name: "Ответ на\_главный вопрос в\_CSS"
     speaker: Михаил Иванкив
+    video: https://www.youtube.com/watch?v=cO2-zYzjyD0
     presentation: https://wsd.events/2017/10/21/pres/css-question/
     lang: ru
     tags:
       - frontend
   - name: "Houdini\_— великий разоблачитель"
     speaker: Никита Дубко
+    video: https://www.youtube.com/watch?v=4kr5K-nWG3Y
     presentation: https://wsd.events/2017/10/21/pres/houdini-magic/
     lang: ru
     tags:
       - frontend
   - name: "Верстальщик. Наследие"
     speaker: Сергей Попов
+    video: https://www.youtube.com/watch?v=Z9of2cj28hY
     presentation: https://wsd.events/2017/10/21/pres/coder-legacy.pdf
     lang: ru
     tags:

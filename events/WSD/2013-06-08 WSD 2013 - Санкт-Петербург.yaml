@@ -1,5 +1,6 @@
 name: "WSD 2013 - Санкт-Петербург"
 date: 2013-06-08
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHd0zgXYhsup_KROpE5S15Zm
 talks:
   - name: "Зачем Опере Вебкит, или Опиум для народа"
     speaker: Вадим Макеев
@@ -33,6 +34,7 @@ talks:
       - frontend
   - name: "Basis.js. Почему я\_не\_бросил разрабатывать свой фреймворк"
     speaker: Роман Дворнов
+    video: https://www.youtube.com/watch?v=cVbbkwkhNQg
     presentation: https://wsd.events/2013/06/08/pres/basis-js.pdf
     lang: ru
     tags:

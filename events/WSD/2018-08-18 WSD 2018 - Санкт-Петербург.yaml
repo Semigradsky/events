@@ -1,57 +1,70 @@
 name: "WSD 2018 - Санкт-Петербург"
 date: 2018-08-18
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHfbZbPWkfsY31wKbqnj548z
 talks:
   - name: "Перфоманс-дривен-девелопмент"
     speaker: Артём Денисов
+    video: https://www.youtube.com/watch?v=47Sc_vpOwyM
     presentation: https://wsd.events/2018/08/18/pres/perf-driven.pdf
     lang: ru
     tags:
       - frontend
   - name: "Распространенные ошибки при написании юнит-тестов"
     speaker: Катерина Павленко
+    video: https://www.youtube.com/watch?v=g5VETJqI6uc
     presentation: https://wsd.events/2018/08/18/pres/unit-testing.pdf
     lang: ru
     tags:
       - frontend
+      - 'testing'
   - name: "Закэшируй это!"
     speaker: Всеволод Шмыров
+    video: https://www.youtube.com/watch?v=JQrweUtfI80
     presentation: https://wsd.events/2018/08/18/pres/cache-it.pdf
     lang: ru
     tags:
       - frontend
   - name: "Redux в Angular: NGRX, NGXS, Akita"
     speaker: "Максим Иванов и\_Кирилл Юсупов"
+    video: https://www.youtube.com/watch?v=sxN5hmb2hdU
     presentation: https://wsd.events/2018/08/18/pres/redux-angular.pdf
     lang: ru
     tags:
       - frontend
+      - 'Angular'
   - name: "Магия CSS вне Хогвартса"
     speaker: Никита Дубко
+    video: https://www.youtube.com/watch?v=7FuUrWVJGNc
     presentation: https://wsd.events/2018/08/18/pres/css-magic/
     lang: ru
     tags:
       - frontend
   - name: "Собираем микромодули"
     speaker: Дмитрий Кузнецов
+    video: https://www.youtube.com/watch?v=odjkSGMIJ1I
     presentation: https://wsd.events/2018/08/18/pres/micro-modules.pdf
     lang: ru
     tags:
       - frontend
   - name: "Мне нечего тебе сказать!"
     speaker: Алексей Охрименко
+    video: https://www.youtube.com/watch?v=laZ1CFJnUyk
     presentation: https://wsd.events/2018/08/18/pres/site-talking.pdf
     lang: ru
     tags:
       - frontend
   - name: "WebAssembly сегодня"
     speaker: Тим Маринин
+    video: https://www.youtube.com/watch?v=DkdcB80g5Do
     presentation: https://wsd.events/2018/08/18/pres/webassembly/
     lang: ru
     tags:
       - frontend
   - name: "Идеальный доклад. Голая правда"
     speaker: Никита Дубко и Александра Шинкевич
+    video: https://www.youtube.com/watch?v=mpHeJYYqA90
     presentation: https://wsd.events/2018/08/18/pres/perfect-talk/
     lang: ru
     tags:
       - frontend
+      - soft

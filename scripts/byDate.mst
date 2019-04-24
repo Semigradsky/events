@@ -5,6 +5,6 @@
 | | | |
 | --- | :---: | --- |
 {{#talks}}
-| {{#video}}[{{name}}]({{video}}){{/video}}{{^video}}{{name}}{{/video}} | {{speaker}} | {{#presentation}}[:notebook:]({{presentation}}){{/presentation}} {{#code}}[:octocat:]({{code}}){{/code}} |
+| {{#video}}[{{name}}]({{video}}){{/video}}{{^video}}{{name}}{{/video}} {{#lang}}[{{lang}}]{{/lang}} | {{speaker}} | {{#presentation}}[:notebook:]({{presentation}}){{/presentation}} {{#code}}[:octocat:]({{code}}){{/code}} |
 {{/talks}}
 {{/events}}

@@ -17,6 +17,13 @@ function toDateString(date) {
     return `${month} ${day}`
 }
 
+function formatTalk(talk) {
+    return {
+        ...talk,
+        lang: talk.lang === 'ru' ? undefined : talk.lang,
+    }
+}
+
 async function generateMd(events) {
     const pattern = await readFile(path.resolve(__dirname, 'byDate.mst'), 'utf-8')
 
@@ -27,6 +34,7 @@ async function generateMd(events) {
 
         groupedByYears.set(year, [...groupedEvents, {
             ...event,
+            talks: event.talks.map(formatTalk),
             dateString: toDateString(event.date),
         }])
     }

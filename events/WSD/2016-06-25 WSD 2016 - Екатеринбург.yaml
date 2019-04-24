@@ -1,53 +1,66 @@
 name: "WSD 2016 - Екатеринбург"
 date: 2016-06-25
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHfoMd22-BuOExGfOzKjOt3E
 talks:
   - name: "Как я перестал верить технологиям"
+    speaker: Алексей Симоненко
+    video: https://www.youtube.com/watch?v=p5g4giWmcvE
     presentation: https://wsd.events/2016/06/25/#alexey-simonenko
     lang: ru
     tags:
       - frontend
   - name: "Готовим бизнес-лапшу на\_React и\_Redux"
     speaker: Евгений Тихонов
+    video: https://www.youtube.com/watch?v=OXsxo4gkqtQ
     lang: ru
     tags:
       - frontend
+      - 'React'
   - name: "МРТ для данных"
     speaker: Анастасия Горячева
+    video: https://www.youtube.com/watch?v=46YeR1vlh7E
     lang: ru
     tags:
       - frontend
   - name: "Меняем JavaScript с\_помощью JavaScript"
     speaker: Павел Волокитин
+    video: https://www.youtube.com/watch?v=zoq95j3V43g
     lang: ru
     tags:
       - frontend
   - name: "Жми сюда!"
     speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=MWJKwn_gKR4
     lang: ru
     tags:
       - frontend
   - name: "Дружим с\_контентом пользователя"
     speaker: Владимир Кузнецов
+    video: https://www.youtube.com/watch?v=lI78qONdO0c
     lang: ru
     tags:
       - frontend
   - name: "npm\_— найдётся подходящий модуль"
     speaker: Всеволод Струкчинский
+    video: https://www.youtube.com/watch?v=-moRyiijffU
     lang: ru
     tags:
       - frontend
   - name: "Жизнь HTML\_в 2ГИС под iOS"
     speaker: Роман Янке
+    video: https://www.youtube.com/watch?v=IcH0vhZhSYU
     lang: ru
     tags:
       - frontend
   - name: "Осторожно, закэшировано!"
     speaker: Сергей Жигалов
+    video: https://www.youtube.com/watch?v=LAnjcuGtcGA
     lang: ru
     tags:
       - frontend
   - name: "Как отвечать за\_продакшен"
     speaker: Андрей Сумин
+    video: https://www.youtube.com/watch?v=brQhxP_xqEk
     lang: ru
     tags:
       - frontend

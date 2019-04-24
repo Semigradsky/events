@@ -1,56 +1,66 @@
 name: "WSD 2017 - Москва"
 date: 2017-01-28
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHdF7aJTIHQ_wJ5tkpyG7CNI
 talks:
   - name: "Поговорим о\_наших младших товарищах"
     speaker: Сергей Попов
+    video: https://www.youtube.com/watch?v=pN8sDT_hP2k
     presentation: https://wsd.events/2017/01/28/pres/young-fellas.pdf
     lang: ru
     tags:
       - frontend
   - name: "Играем в браузере"
     speaker: Всеволод Шмыров
+    video: https://www.youtube.com/watch?v=Cq1nXEgMiRI
     presentation: https://wsd.events/2017/01/28/pres/browser-games/
     lang: ru
     tags:
       - frontend
   - name: "Здесь водятся драконы"
     speaker: Лев Солнцев
+    video: https://www.youtube.com/watch?v=--Ex2-8MWFo
     presentation: https://wsd.events/2017/01/28/pres/here-be-dragons/
     lang: ru
     tags:
       - frontend
   - name: "Мой ванильный CSS"
     speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=CaDnbOjXjRg
     presentation: https://wsd.events/2017/01/28/pres/vanilla-css/
     lang: ru
     tags:
       - frontend
   - name: "JSX? Пфф!"
     speaker: Владимир Гриненко
+    video: https://www.youtube.com/watch?v=sn-H4r6x-Cw
     presentation: https://wsd.events/2017/01/28/pres/jsx-pff.pdf
     lang: ru
     tags:
       - frontend
   - name: "Сбертехнологии фронтенда"
     speaker: Александра Воробьёва
+    video: https://www.youtube.com/watch?v=zi_PB0CMykY
     presentation: https://wsd.events/2017/01/28/pres/sber-tech/
     lang: ru
     tags:
       - frontend
   - name: "CSS-in-JS. Назад в будущее!"
     speaker: Никита Мостовой
+    video: https://www.youtube.com/watch?v=HTC4k0fvAuw
     presentation: https://wsd.events/2017/01/28/pres/css-in-js.pdf
     lang: ru
     tags:
       - frontend
   - name: "Веб-компоненты: светлое настоящее"
     speaker: Вадим Черненко
+    video: https://www.youtube.com/watch?v=KjPsp_PVPuU
     presentation: https://wsd.events/2017/01/28/pres/web-components.pdf
     lang: ru
     tags:
       - frontend
   - name: "Brunch — последний сборщик, который вам будет нужен"
     speaker: Алексей Швайка
+    video: https://www.youtube.com/watch?v=u902_BROjbI
     presentation: https://wsd.events/2017/01/28/pres/brunch.pdf
     lang: ru
     tags:

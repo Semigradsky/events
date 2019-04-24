@@ -1,38 +1,45 @@
 name: "WSD 2018 - Минск"
 date: 2018-12-01
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHeD-j52BjuO2HMMw63fnBav
 talks:
   - name: "Язык жестов"
     speaker: Анна Селезнёва
+    video: https://www.youtube.com/watch?v=w_QfEX4Ndf4
     presentation: https://wsd.events/2018/12/01/pres/gesture-lang/
     lang: ru
     tags:
       - frontend
   - name: "Встречайте бабушку"
     speaker: Виталий Харисов
+    video: https://www.youtube.com/watch?v=_muWJOUe420
     presentation: https://wsd.events/2018/12/01/pres/meet-babushka.pdf
     lang: ru
     tags:
       - frontend
   - name: "Лечим непроизводительные анимации"
     speaker: Николай Шабалин
+    video: https://www.youtube.com/watch?v=hsKh-AuFBDI
     presentation: https://wsd.events/2018/12/01/pres/animation-perf/
     lang: ru
     tags:
       - frontend
   - name: "Отладка CSS в\_боевых условиях"
     speaker: Никита Дубко
+    video: https://www.youtube.com/watch?v=bHv9pWEzKiU
     presentation: https://wsd.events/2018/12/01/pres/css-debug/
     lang: ru
     tags:
       - frontend
   - name: "Про сервис-воркеры. Снова!"
     speaker: Кирилл Чугаинов
+    video: https://www.youtube.com/watch?v=E5x9v3LFO5Q
     presentation: https://wsd.events/2018/12/01/pres/sw-again/
     lang: ru
     tags:
       - frontend
   - name: "Как разложить код по папкам"
     speaker: Александр Бальцевич
+    video: https://www.youtube.com/watch?v=Gj0Bi1fDSAY
     presentation: https://wsd.events/2018/12/01/pres/organize-code.pdf
     lang: ru
     tags:
@@ -43,14 +50,17 @@ talks:
     lang: ru
     tags:
       - frontend
+      - TypeScript
   - name: "Семантика для циников"
     speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=W5DgVWtitjQ
     presentation: https://wsd.events/2018/12/01/pres/semantics/
     lang: ru
     tags:
       - frontend
   - name: "Война текстовых редакторов: редактор кода vs\_IDE"
     speaker: Александра Шинкевич
+    video: https://www.youtube.com/watch?v=OhLIhyCrNGE
     presentation: https://wsd.events/2018/12/01/pres/code-editors/
     lang: ru
     tags:

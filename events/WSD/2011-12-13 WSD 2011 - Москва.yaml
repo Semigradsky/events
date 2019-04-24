@@ -1,5 +1,6 @@
 name: "WSD 2011 - Москва"
 date: 2011-12-13
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHdGpVnzHVsyoV6N56YNZ8e_
 talks:
   - name: "Быстрая разработка. Краткий обзор средств для работы с\_кодом из\_консоли."
     speaker: Максим Червонный
@@ -9,6 +10,7 @@ talks:
       - frontend
   - name: "Обустраиваем лабораторию для бесчеловечных экспериментов над CSS"
     speaker: Роман Комаров
+    video: https://www.youtube.com/watch?v=fas7NHBe3BQ
     presentation: https://wsd.events/2011/12/13/pres/css-experiments/
     lang: ru
     tags:
@@ -21,6 +23,7 @@ talks:
       - frontend
   - name: "Всё, что вы\_делаете в\_Vim неправильно"
     speaker: Вячеслав Олиянчук
+    video: https://www.youtube.com/watch?v=Lgv_jThBvso
     presentation: https://wsd.events/2011/12/13/pres/doing-vim-right/
     lang: ru
     tags:
@@ -39,6 +42,7 @@ talks:
       - frontend
   - name: "Причеши свой код. Правила хорошего тона в\_CSS"
     speaker: Вячеслав Олиянчук
+    video: https://www.youtube.com/watch?v=dwdP11bOwq8
     presentation: https://wsd.events/2011/12/13/pres/css-manners/
     lang: ru
     tags:

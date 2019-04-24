@@ -1,5 +1,6 @@
 name: "WSD 2012 - Киев"
 date: 2012-10-13
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHf6Bp1dPl3yEB6obdE3-PT0
 talks:
   - name: "Скоростная верстка в\_8\_рук или как не\_стать осьминогом"
     speaker: Мурад Рогожников
@@ -9,6 +10,7 @@ talks:
       - frontend
   - name: "Многослойный CSS"
     speaker: Роберт Харитонов
+    video: https://www.youtube.com/watch?v=-oUZYm4sl94
     presentation: https://wsd.events/2012/10/13/pres/mcss/
     lang: ru
     tags:

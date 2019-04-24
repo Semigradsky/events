@@ -1,5 +1,6 @@
 name: "WSD 2011 - Киев"
 date: 2011-10-22
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHd2bbjsCbYzFCraYQXLFaJT
 talks:
   - name: "Прокрустовы окна. Как вписаться в\_устройства с\_минимальными потерями"
     speaker: Вадим Макеев
@@ -9,11 +10,13 @@ talks:
       - frontend
   - name: "Sass и\_Compass"
     speaker: Сергей Дыниовский
+    video: https://www.youtube.com/watch?v=mzpJYu14vPM
     presentation: https://wsd.events/2011/10/22/pres/sass-compass.pdf
     lang: ru
     tags:
       - frontend
   - name: "Когда <video> убьёт Flash?"
+    video: https://www.youtube.com/watch?v=RDZziTTT-U8
     presentation: https://wsd.events/2011/10/22/#nikolay-matsievsky
     lang: ru
     tags:
@@ -26,6 +29,7 @@ talks:
       - frontend
   - name: "Чек-лист вёрстки. Что можно отдавать клиенту, а\_что надо переделывать"
     speaker: Игорь Зенич
+    video: https://www.youtube.com/watch?v=0dWcdpr3fxM
     presentation: https://wsd.events/2011/10/22/pres/coding-checklist.pdf
     lang: ru
     tags:
@@ -38,6 +42,7 @@ talks:
       - frontend
   - name: "Настоящий JavaScript"
     speaker: Антон Котенко
+    video: https://www.youtube.com/watch?v=hjUTJcCh-ug
     presentation: https://wsd.events/2011/10/22/pres/true-javascript/
     lang: ru
     tags:

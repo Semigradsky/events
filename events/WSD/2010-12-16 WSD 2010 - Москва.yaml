@@ -1,43 +1,51 @@
 name: "WSD 2010 - Москва"
 date: 2010-12-16
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHdXL7tR9LdQuNv3UQHsAO9U
 talks:
   - name: "Практика использования Drupal в\_компании RU-CENTER"
     speaker: Даниил Малых
+    video: https://www.youtube.com/watch?v=LrMn8N5iWdQ
     presentation: https://wsd.events/2010/12/16/pres/drupal-practice.pdf
     lang: ru
     tags:
       - frontend
   - name: "Типичные ошибки веб-разработчиков с\_точки зрения юзабилити"
     speaker: Алексей Копылов
+    video: https://www.youtube.com/watch?v=jgfHMzmVaOQ
     lang: ru
     tags:
       - frontend
   - name: "Сервер-агрегатор на\_Python. Xscript/FEST"
     speaker: Андрей Сумин
+    video: https://www.youtube.com/watch?v=IPmyFLJJUJw
     presentation: https://wsd.events/2010/12/16/pres/frontik-python.pdf
     lang: ru
     tags:
       - frontend
   - name: "Веб-стандарты как критерий личной успешности"
     speaker: Николай Мациевский
+    video: https://www.youtube.com/watch?v=EQYd9L3zFuA
     presentation: https://wsd.events/2010/12/16/pres/web-standards-success.pdf
     lang: ru
     tags:
       - frontend
   - name: "Мечты и\_реальность. Прощай CSS3, здравствуй, IE6"
     speaker: Ольга Алексашенко
+    video: https://www.youtube.com/watch?v=-iW-W-9lj-I
     presentation: https://wsd.events/2010/12/16/pres/goodbye-css3.pdf
     lang: ru
     tags:
       - frontend
   - name: "BEM! БЭМ! Принципы вёрстки проектов Яндекса"
     speaker: Вадим Пацев
+    video: https://www.youtube.com/watch?v=UKpDX7YRMjk
     presentation: https://wsd.events/2010/12/16/pres/bem-principles.pdf
     lang: ru
     tags:
       - frontend
   - name: "Доктайп. Точка"
     speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=UFrVTpjU02M
     presentation: https://wsd.events/2010/12/16/pres/doctype/
     lang: ru
     tags:

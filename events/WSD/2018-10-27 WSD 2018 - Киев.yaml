@@ -1,50 +1,59 @@
 name: "WSD 2018 - Киев"
 date: 2018-10-27
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHe5IRtm6aKN0VBUBnuog_wp
 talks:
   - name: "Mirror users session in 30 minutes only!"
     speaker: Shilo Mangam
+    video: https://www.youtube.com/watch?v=7FTzK-mhHhY
     presentation: https://wsd.events/2018/10/27/pres/mirror-users.pdf
-    lang: ru
+    lang: en
     tags:
       - frontend
   - name: "SVG: трудности перевода"
     speaker: Вальдемар Костенко
+    video: https://www.youtube.com/watch?v=F7BzxmCAqQw
     presentation: https://wsd.events/2018/10/27/pres/lost-in-svg.pdf
     lang: ru
     tags:
       - frontend
   - name: "Энтропия в вёрстке и способы её уменьшить"
     speaker: Карина Охрименко
+    video: https://www.youtube.com/watch?v=33E7G3e9gZ4
     presentation: https://wsd.events/2018/10/27/pres/css-entropy.pdf
     lang: ru
     tags:
       - frontend
   - name: "Уменьшаем CSS лениво"
     speaker: Денис Завгородний
+    video: https://www.youtube.com/watch?v=7drmKk4EBGc
     presentation: https://wsd.events/2018/10/27/pres/lazy-cleanup/
     lang: ru
     tags:
       - frontend
   - name: "Семантика для циников"
     speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=bDYEnNzprzE
     presentation: https://wsd.events/2018/10/27/pres/semantics/
     lang: ru
     tags:
       - frontend
   - name: "Математика в\_вебе"
     speaker: Маша Просвирнина
+    video: https://www.youtube.com/watch?v=wGVVoJH_oKY
     presentation: https://wsd.events/2018/10/27/pres/math-on-web/
     lang: ru
     tags:
       - frontend
   - name: "Разработка в\_условиях неопределённости"
     speaker: Андрей Саломатин
+    video: https://www.youtube.com/watch?v=UEDBNwZqs4Y
     presentation: https://wsd.events/2018/10/27/pres/uncertainty.pdf
     lang: ru
     tags:
       - frontend
   - name: "Идеальный доклад. Голая правда"
     speaker: Никита Дубко и Александра Шинкевич
+    video: https://www.youtube.com/watch?v=_VSb2SqW9WE
     presentation: https://wsd.events/2018/10/27/pres/perfect-talk/
     lang: ru
     tags:

@@ -1,51 +1,61 @@
 name: "WSD 2019 - Москва"
 date: 2019-04-13
+videos: https://www.youtube.com/watch?v=r4txCvuHFPc
 talks:
   - name: "Пару календарей назад я\_был совсем другим"
     speaker: Алексей Охрименко
+    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=620s
     presentation: https://wsd.events/2019/04/13/pres/calendars-ago.pdf
     lang: ru
     tags:
       - frontend
   - name: "Адвокат Flash"
     speaker: Всеволод Шмыров
+    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=3010s
     presentation: https://wsd.events/2019/04/13/pres/flash-advocate.pdf
     lang: ru
     tags:
       - frontend
   - name: "Найди 10 отличий"
     speaker: Людмила Мжачих
+    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=6737s
     presentation: https://wsd.events/2019/04/13/pres/diff-testing.pdf
     lang: ru
     tags:
       - frontend
   - name: "Экономим нервы и время. Современная отладка"
     speaker: Александр Ковтун
+    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=9052s
     presentation: https://wsd.events/2019/04/13/pres/devtools-features/
     lang: ru
     tags:
       - frontend
   - name: "Тёмная сторона веба"
     speaker: Никита Дубко
+    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=16874s
     presentation: https://wsd.events/2019/04/13/pres/web-dark-side/
     lang: ru
     tags:
       - frontend
   - name: "Семь будущих чудес CSS"
     speaker: Сэм Булатов
+    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=19328s
     presentation: https://wsd.events/2019/04/13/pres/future-css/
     lang: ru
     tags:
       - frontend
   - name: "Шрифты в вебе: от ASCII до эмоджи и немного дальше"
     speaker: Юлия Бухвалова
+    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=22793s
     presentation: https://wsd.events/2019/04/13/pres/ascii-emoji/
     lang: ru
     tags:
       - frontend
   - name: "Лучшее – враг хорошего, или Почему не надо становиться руководителем"
     speaker: Андрей Смирнов
+    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=25646s
     presentation: https://wsd.events/2019/04/13/pres/dont-team-lead/
     lang: ru
     tags:
       - frontend
+      - soft

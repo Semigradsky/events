@@ -1,5 +1,6 @@
 name: "WSD 2014 - Минск"
 date: 2014-10-26
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHeMPe--SHAmeGsxZYk3_xTp
 talks:
   - name: "Все те\_же 300\_мс, или как мелочи могут стать большой занозой в\_браузере"
     speaker: Илья Пухальский
