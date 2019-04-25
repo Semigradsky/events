@@ -24,6 +24,29 @@
 | Стейт менеджмент для ленивых  | Aliaksandr Famchankou |   |
 | Оптимизации в web  | Mikhail Dziarkach |   |
 | JS Machine Talk  | Yury Tatarynovich,Katsiaryna Sivakova |   |
+## JavaScript fwdays&#39;19 - Mar 16 
+| | | |
+| --- | :---: | --- |
+| [Technical SEO for JavaScript developers](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;technical-seo-for-javascript-developers) [en] | Martin Splitt |   |
+| [The State of Modern JavaScript and Web in 2020 - Real use cases](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;the-state-of-modern-js-and-web-in-2020)  | Alexey Kupriyanenko |   |
+| [Why are Angular and React so fast?](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;why-are-angular-and-react-so-fast)  | Max Koretskyi |   |
+| [A short history of the web](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;a-short-history-of-the-web) [en] | Martin Splitt |   |
+| [HTTP headers for the responsible developer](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;http-headers-for-the-responsible-developer) [en] | Stefan Judis |   |
+| [How we have been developing an Offline First application using Persistent Storage](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;how-we-have-been-developing-an-offline-first-application)  | Timofey Lavrenyuk |   |
+| [How to train your Vue CLI plugin](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;how-to-train-your-vue-cli-plugin) [en] | Natalia Tepluhina |   |
+| [One simple animation explained](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;one-simple-animation-explained)  | Yurii Artyukh |   |
+| [Server-side rendering with Angular—be faster and more SEO, CDN and user-friendly!](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;server-side-rendering-with-angular) [en] | Maciej Treder |   |
+| [Shrink an elephant into a fly](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;shrink-an-elephant-into-a-fly)  | Vadim Makeev |   |
+| [JS on Server: To be or not to be?](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;js-on-server-to-be-or-not-to-be)  | Illya Klymov |   |
+| [Web Performance in modern JavaScript world](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;web-performance-in-modern-javascript-world) [en] | Filip Rakowski |   |
+| [Lost in Space: Web Apps and A11Y](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;lost-in-space)  | Vitalii Bobrov |   |
+| [Looking for the right tech stack for GraphQL application](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;looking-for-the-right-tech-stack-for-graphql)  | Nikita Galkin |   |
+| [The Almighty Rabbit Hole](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;the-almighty-rabbit-hole)  | Christopher Gannon |   |
+| [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;beyond-the-limitations-of-frontend)  | Ilona Demidenko |   |
+| [REPL, do you speak it](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;repl)  | Alexander Solovyov |   |
+| [Reactive Powered: RxJS with Angular Forms](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;angular-forms) [en] | Shmuela Jacobs |   |
+| [Solving behavioral complexity with FRP](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;solving-behavioral-complexity-with-frp)  | Oleksii Levzhynskyi |   |
+| [Hinting at a better web](https:&#x2F;&#x2F;fwdays.com&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;hinting-at-a-better-web) [en] | Christian Heilmann |   |
 ## MinskJS 5 - Feb 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsKJHySf_D3Kfpbhx8FVNKLp)
 | | | |
 | --- | :---: | --- |
