@@ -1,0 +1,31 @@
+name: Angular & React Frameworks Day 2015
+date: 2015-10-04
+talks:
+  - name: Введение в React Native
+    speaker: Алексей Волков
+    lang: ru
+    url: 'https://frameworksdays.com/event/angular-react-fwday-2015/review/react-native'
+  - name: 'AngularJS: Good parts'
+    speaker: Евгений Жарков
+    lang: ru
+    url: 'https://frameworksdays.com/event/angular-react-fwday-2015/review/angular-js-good-parts'
+  - name: 'React for Universal Apps, або наступний після Node крок по захопленню серверної розробки'
+    speaker: Роман Якобчук
+    lang: ru
+    url: 'https://frameworksdays.com/event/angular-react-fwday-2015/review/react-for-universal-apps'
+  - name: Protractor Tips & Tricks
+    speaker: Сергей Больщиков
+    lang: ru
+    url: 'https://frameworksdays.com/event/angular-react-fwday-2015/review/protractor-tips-tricks'
+  - name: Preparing your Angular 1 code for Angular 2
+    speaker: Сергей Жолудев
+    lang: ru
+    url: 'https://frameworksdays.com/event/angular-react-fwday-2015/review/preparing-your-angular'
+  - name: Как modnaKasta трансформировалась
+    speaker: Александр Соловьев
+    lang: ru
+    url: 'https://frameworksdays.com/event/angular-react-fwday-2015/review/kak-modnakasta-transformirovalas'
+  - name: Следим за Ember
+    speaker: Андрей Листочкин
+    lang: ru
+    url: 'https://frameworksdays.com/event/angular-react-fwday-2015/review/ember-vs-angular-react'

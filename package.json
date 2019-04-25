@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "husky": {
+    "hooks": {
+      "pre-push": "node scripts/index.js && git add *.md && git commit -m 'Autogenerate md'"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Semigradsky/events.git"
@@ -18,6 +23,7 @@
   },
   "homepage": "https://github.com/Semigradsky/events#readme",
   "devDependencies": {
+    "husky": "^2.1.0",
     "js-yaml": "^3.13.1",
     "mustache": "^3.0.1",
     "pify": "^4.0.1"

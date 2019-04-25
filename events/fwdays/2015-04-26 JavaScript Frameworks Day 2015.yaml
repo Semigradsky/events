@@ -1,0 +1,55 @@
+name: JavaScript Frameworks Day 2015
+date: 2015-04-26
+talks:
+  - name: Fun with JavaScript and sensors
+    speaker: Jan Jongboom
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2015/review/fun-with-javascript-and-sensors'
+  - name: Немного о функциональном программирование в JavaScript
+    speaker: Алексей Коваленко
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2015/review/functional-programming-in-javascript'
+  - name: Frameworks in 2015
+    speaker: Андрей Листочкин
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2015/review/frameworks-in-2015'
+  - name: Unit testing in AngularJS
+    speaker: Виктор Зозуляк
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2015/review/unit-testing-in-angularjs'
+  - name: 'Angular 2: Всех переиграл'
+    speaker: Евгений Жарков
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2015/review/angular-2'
+  - name: Фриланс - выход за рамки. Перспектива для IT-талантов
+    speaker: Екатерина Божкова
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2015/review/freelance'
+  - name: Изоморфная разработка на javascript с помощью react.js
+    speaker: Максим Климишин
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2015/review/react-js'
+  - name: Использование компонентной архитектуры в веб-приложениях
+    speaker: Юлия Пучнина
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2015/review/komponentnaia-arkhitektura-v-web-prilozheniiakn'
+  - name: Inside The AngularJS Directive Compiler
+    speaker: Tero Parviainen
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2015/review/inside-the-angularjs-directive-compiler'
+  - name: How to deploy to production 10 times a day
+    speaker: Андрей Шумада
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2015/review/how-to-deploy-to-production-10-times-a-day'
+  - name: 'The Grail: React based Isomorph apps framework'
+    speaker: Эльдар Джафаров
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2015/review/the-grail'
+  - name: Backbone React Flux
+    speaker: Артем Тритяк
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2015/review/backbone-react-flux'
+  - name: Как работают современные интерактивные карты на WebGL
+    speaker: Владимир Агафонкин
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2015/review/webgl'

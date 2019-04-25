@@ -1,0 +1,67 @@
+name: JavaScript fwdays '17
+date: 2017-04-22
+talks:
+  - name: Progressive web apps with Polymer
+    speaker: Martin Splitt
+    lang: en
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/progressive-web-apps-with-polymer'
+  - name: Create Architecture and not Frameworks
+    speaker: Сергей Больщиков
+    lang: en
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/create-architecture-and-not-frameworks'
+  - name: ' Testing in Node.js World'
+    speaker: Никита Галкин
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/testing-in-node-js-world'
+  - name: You Don't Know npm
+    speaker: Ashley Williams
+    lang: en
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/you-dont-know-npm'
+  - name: How to improve Angular 2 performance?
+    speaker: ' Александр Трищенко'
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/how-to-improve-angular-2-performance'
+  - name: 'Trojan War: SinonJS'
+    speaker: Александра Калинина
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/trojan-war-sinon-js'
+  - name: Compile like it's 2017
+    speaker: 'Артем Яворский '
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/compile-like-its-2017'
+  - name: Password Hashing
+    speaker: Emil Bayes
+    lang: en
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/password-hashing'
+  - name: Vue.js или как наконец отказаться от React
+    speaker: Андрей Грачёв
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/vue-js'
+  - name: Internet of Peers
+    speaker: Mathias Buus
+    lang: en
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/internet-of-peers'
+  - name: Настройка SEO для одностраничных web-приложений на Angular
+    speaker: Сергей Мелашич
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/seo-settings-for-one-page-web-app'
+  - name: 'React + Redux: performance & scalability'
+    speaker: Виталий Редько
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/react-redux-performance-and-scalability'
+  - name: Introduction in Reactive Programming with React
+    speaker: Григорий Шехет
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/introduction-in-reactive-programming'
+  - name: Improve your web application using Progressive Web Metrics
+    speaker: Артем Денисов
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/improve-your-web-app-using-progressive-web-metrics'
+  - name: CSS 5DX
+    speaker: Александр Павлыщ
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/css-5dx'
+  - name: '2017: Автостопом по галактике JavaScript'
+    speaker: Илья Климов
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/javascript-galactic-avtostop'

@@ -1,0 +1,47 @@
+name: JavaScript Frameworks Day 2014
+date: 2014-04-26
+talks:
+  - name: 'Ember.js - ответ на почти все вопросы '
+    speaker: Андрей Листочкин
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2014/review/Ember-js-otvet-na-pochti-voprosy'
+  - name: Жирная анимация с Pixi.js
+    speaker: Юлия Пучнина
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2014/review/jirnaia-animatsyia-s-Pixi-js'
+  - name: Как бежать быстрее с react.js
+    speaker: Максим Климишин
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2014/review/kak-bezhat-bystree-s-react-js'
+  - name: Примеры быстрой разработки API на масштабируемом сервера приложений Impress для Node.js
+    speaker: Тимур Шемсединов
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2014/review/impress-dlia-node-js'
+  - name: 7 чудес Angular'a (Мастер-класс)
+    speaker: Евгений Жарков
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2014/review/7-chudes-Angulara'
+  - name: Creating own language made easy
+    speaker: Ингвар Степанян
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2014/review/creating-own-language-made-easy'
+  - name: Ember.js (Мастер-класс)
+    speaker: Андрей Листочкин
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2014/review/Ember-js-master-class'
+  - name: 'В поисках качества JavaScript кода: модульное тестирование'
+    speaker: Анна Хабибуллина
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2014/review/unit-testing-in-javascript'
+  - name: React.js (Мастер-класс)
+    speaker: Максим Климишин
+    lang: ru
+    url: 'http://frameworksdays.com/event/js-frameworks-day-2014/review/React-js-master-class'
+  - name: 'Как писать UI без боли: React + ClojureScript'
+    speaker: Александр Соловьев
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2014/review/kak-pisat-UI-bez-boli-React-ClojureScript'
+  - name: Making games using JavaScript and Cocos2d
+    speaker: Тарас Товченко
+    lang: ru
+    url: 'https://frameworksdays.com/event/js-frameworks-day-2014/review/making-games-using-JavaScript-and-cocos2d'

@@ -1,0 +1,75 @@
+name: Most JS Frameworks Day 2016
+date: 2016-12-04
+talks:
+  - name: О драконах ни слова
+    speaker: Илья Климов
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/no-words-about-dragons'
+  - name: "Разработка realtime SPA с\_использованием VueJS и\_RethinkDB"
+    speaker: Сергей Морковкин
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/realtime-spa-app-development'
+  - name: Web Apps Performance & JavaScript Compilers
+    speaker: Роман Лютиков
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/web-apps-performance'
+  - name: Let's Build a Web Application (and Talk About Ways to Improve Bad Parts)
+    speaker: Игорь Фесенко
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/lets-build-a-web-application'
+  - name: 'Riot.JS, или как приготовить современные Web Components'
+    speaker: Анджей Гужовский
+    lang: ru
+    url: 'http://frameworksdays.com/event/most-js-fwdays-2016/review/riotjs'
+  - name: Еще несколько слов об архитектуре
+    speaker: Алексей Волков
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/more-words-about-architecture'
+  - name: Hyperops
+    speaker: Mathias Buus
+    lang: en
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/hyperops'
+  - name: Architecting React Native app
+    speaker: Филипп Шурпик
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/architecting-react-native-app'
+  - name: The Road to Native Web Components
+    speaker: Michael North
+    lang: en
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/the-road-to-native-web-components'
+  - name: Критерии выбора JS-фреймворков
+    speaker: Юрий Лучанинов
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/criteria-of-js-frameworks'
+  - name: React Native vs. React+WebView
+    speaker: Алексей Косинский
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/react-native-vs-react-webview'
+  - name: Reactive Music Apps in Angular and RxJS
+    speaker: Tero Parviainen
+    lang: en
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/reactive-music-apps-in-angular-rxjs'
+  - name: Treasure hunt in the land of Reactive frameworks
+    speaker: Григорий Шехет
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/reactive-frameworks'
+  - name: Міграція даних в Node.js REST API і MongoDB
+    speaker: Андрей Шумада
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/data-migration-in-nodejs'
+  - name: Как подняться на open source
+    speaker: Paul Miller
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/how-does-open-source-help-us'
+  - name: 'PhaserJS for advertisement: игры внутри баннеров'
+    speaker: Юлия Пучнина
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/phaser-js-for-advertisment'
+  - name: Isomorphic React apps in production
+    speaker: Борис Могила
+    lang: ru
+    url: 'http://frameworksdays.com/event/most-js-fwdays-2016/review/isomorphic-react-apps-in-production'
+  - name: Как быть хорошим фронтенд-разработчиком
+    speaker: Евгений Жарков
+    lang: ru
+    url: 'https://frameworksdays.com/event/most-js-fwdays-2016/review/how-to-be-a-good-frontend-dev'

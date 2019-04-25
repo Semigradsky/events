@@ -1,0 +1,70 @@
+name: Frontend fwdays'17
+date: 2017-11-26
+talks:
+  - name: Un-dux Your Front-end
+    speaker: Nate Abele
+    lang: en
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/un-dux'
+  - name: Testing in Frontend World
+    speaker: Никита Галкин
+    lang: ru
+  - name: '"@babel/core": "7.x"'
+    speaker: Артем Яворский
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/babel-core-7x'
+  - name: Неуниверсальный дизайн
+    speaker: Дмитрий Попов
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/not-universal-design'
+  - name: 'Vue: Animations, Validations, DataMine Blockchain'
+    speaker: Виталий Ратушный/Роман Стремедловский
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/vue-animations-validations'
+  - name: False simplicity of front-end applications
+    speaker: 'Алексей Ященко, Ярослав Волощук'
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/false-simplicity'
+  - name: Node.js for desktop development (based on Electron library)
+    speaker: Владимир Дубенко
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/Nodejs-for-desktop-development'
+  - name: Google apps script
+    speaker: Андрей Шульга
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/google-apps-script'
+  - name: 'React Native: Hurdle Race'
+    speaker: Евгений Жарков
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/react-native-hurdle-race'
+  - name: Do not mess with trees while living in the forest
+    speaker: Сергій Бабіч
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/do-not-mess-with-trees'
+  - name: New features in Node.js 8.x
+    speaker: Никита Галкин
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/new-features-in-Nodejs8x'
+  - name: UVP of CSSinJS and the future
+    speaker: Олег Слободской
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/uvp-of-cssinjs'
+  - name: JavaScript metaprogramming with ES2015 Proxy
+    speaker: Олександр Скачков
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/js-metaprogramming-with-es2015'
+  - name: New features in Node.js 8.x
+    speaker: Никита Галкин
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/new-features-in-Nodejs8x'
+  - name: Daedalus
+    speaker: Martin Kleppe
+    lang: en
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/daedalus'
+  - name: Understanding Recompose through examples
+    speaker: Олена Совин
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/understanding-recompose-through-examples'
+  - name: JavaScript Riddles For Fun And Profit
+    speaker: Dan Shappir
+    lang: ru
+    url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/javascript-riddles'

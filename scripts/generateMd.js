@@ -20,6 +20,7 @@ function toDateString(date) {
 function formatTalk(talk) {
     return {
         ...talk,
+        url: talk.video || talk.url,
         lang: talk.lang === 'ru' ? undefined : talk.lang,
     }
 }
