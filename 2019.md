@@ -17,6 +17,13 @@
 | [Делайте из слона муху](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Gq1pXTFO3-M)  | Вадим Макеев | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1gaN_TW8iwo9bUxGuZG4kkjb1z9LAArlR&#x2F;view)  |
 | [CSS ещё не торт](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;g20pCKeSgUU)  | Вероника Новикова | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1p1WG9dWIVgvb4vXI7TzBPs1wU2uLLvJS&#x2F;view)  |
 | [The state of CSS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;gw9x2zhyxL0)  | Серёжа Попов | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1b890dFOQ25ae5eXc_2X8pKcW8a1IVlEC&#x2F;view)  |
+## MoscowJS Geo Meetup - Apr 10 
+| | | |
+| --- | :---: | --- |
+| [deck.gl и как его готовить](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;u8okeglO_9U)  | Артём Боюр | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;nK8J&#x2F;57UFuK2zQ)  |
+| [Декларативные карты с React и Mapbox GL JS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;02Mtao-GTW4)  | Степан Кузьмин | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;A3xc&#x2F;h3dY7T6x8)  |
+| [Как мы рендерим векторные Яндекс.Карты на вебе](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ymKJn-XBvtw)  | Марина Перескокова | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;2sFQ&#x2F;4auP81ZD9)  |
+| [Опыт использования картографических технологий при разработке веб-платформы планирования и управления транспортными потоками RITM](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;92WdqhmqSnQ)  | Игорь Яицкий | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;3XUX&#x2F;2A25Z2gsb)  |
 ## The Rolling Scopes + JS Machine Meet Up. Mogilev - Mar 30 
 | | | |
 | --- | :---: | --- |
@@ -53,6 +60,12 @@
 | [The Art of NodeJS, или Как сделать что-то крутое, используя публичные данные](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;A0WqkePkw0c)  | Илья Запруцкий | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1m1KuxiOHufQmhkIR7Q6sCdWvIZVObQdd&#x2F;view)  |
 | [Профилирование JS: увидеть самое важное и не утонуть в море чисел](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rKtWxCYBFP4)  | Виктор Хомяков | [:notebook:](https:&#x2F;&#x2F;victor-homyakov.github.io&#x2F;profile-visualization&#x2F;)  |
 | [Зачем мы переписывали приложение на Elm и кто за это ответит](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;D-4D1f5gyXw)  | Виктор Русакович | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1FJabwf0jalNJMZEX6LiLn2RplkzAIb342VFTU5STogg&#x2F;edit)  |
+## MoscowJS 44 - Feb 21 
+| | | |
+| --- | :---: | --- |
+| [Обзор форматов сжатия протокольного уровня в http.](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;1749)  | Михаил Бусырев | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1bw0ypsrdyC2l35Z-h65D09ABQDSZ_Ecfp02-zE6Fmqc&#x2F;edit#slide&#x3D;id.p)  |
+| [Бойлерплейтинг в Авито](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;211)  | Денис Колесников | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;MK5g&#x2F;nL6KGV88Q)  |
+| [Acceptance testing и BDD с помощью Cucumber](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;4548)  | Андрей Михайлов | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;andreymikhaylov-lolmaus&#x2F;bdd-cucumber-moscowjs&#x2F;#&#x2F;)  |
 ## The Rolling Scopes &amp; MobilePeople - Feb 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)
 | | | |
 | --- | :---: | --- |
