@@ -1,0 +1,31 @@
+name: MoscowJS 43 DomClick
+date: 2018-11-22
+talks:
+  - name: WebAssembly и внешний мир
+    speaker: Сергей Рубанов
+    video: 'https://youtu.be/vhHrHdtv7Po?t=6449'
+    presentation: 'https://cloud.mail.ru/public/5QdE/AXb9H6Bot'
+    lang: ru
+    tags:
+      - frontend
+  - name: Let it flow
+    speaker: Екатерина Анишкина
+    video: 'https://youtu.be/vhHrHdtv7Po?t=5052'
+    presentation: 'https://cloud.mail.ru/public/7vYC/UPtYZ8s4W'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как не нужно создавать компоненты в большом приложении
+    speaker: Дарья Пушкарская
+    video: 'https://youtu.be/vhHrHdtv7Po?t=2162'
+    presentation: 'https://cloud.mail.ru/public/JzW6/2uwWPHurY'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Упаковка npm-модулей, которую мы заслужили'
+    speaker: Денис Красновский
+    video: 'https://youtu.be/vhHrHdtv7Po?t=746'
+    presentation: 'https://cloud.mail.ru/public/8LrE/S8jznv3ZE'
+    lang: ru
+    tags:
+      - frontend

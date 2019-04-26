@@ -1,0 +1,24 @@
+name: MoscowJS WebGL Meetup x Tinkoff
+date: 2018-01-31
+talks:
+  - name: 'Web-графика: сегодня, завтра и послезавтра'
+    speaker: Кирилл Дмитренко
+    video: 'https://youtu.be/O0vBlgjm6P8'
+    presentation: 'https://cloud.mail.ru/public/B3VV/k3uWUnB5L'
+    lang: ru
+    tags:
+      - frontend
+  - name: Рендерим 3D по-взрослому
+    speaker: Артём Кунец
+    video: 'https://youtu.be/YyzM0XyVQS8'
+    presentation: 'https://cloud.mail.ru/public/GN5D/wNEaCSi5Y'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'WebGL и 2D: простой как Web'
+    speaker: Александр Коротаев
+    video: 'https://youtu.be/jfRusB5E1n8'
+    presentation: 'http://lekzd.ru/presentations/webgl_simple_moscow/'
+    lang: ru
+    tags:
+      - frontend

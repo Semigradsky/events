@@ -1,0 +1,38 @@
+name: MoscowJS 39
+date: 2017-11-23
+talks:
+  - name: Как не тестировать React библиотеку и крепко спать
+    speaker: Артур Удалов
+    video: 'https://www.youtube.com/watch?v=y9ov9s6rDCc'
+    presentation: 'https://darkartur.github.io/moscowjs39/'
+    lang: ru
+    tags:
+      - frontend
+  - name: componentDidMount не нужен
+    speaker: Тимофей Ткаченко
+    video: 'https://www.youtube.com/watch?v=HEqgw16l64Q'
+    presentation: 'https://cloud.mail.ru/public/LwMw/dgBuH6stK'
+    lang: ru
+    tags:
+      - frontend
+  - name: WebRTC-шная тема
+    speaker: Дмитрий Пацура
+    video: 'https://www.youtube.com/watch?v=nqigzFbAYM0'
+    presentation: 'https://cloud.mail.ru/public/8Cts/eLoH5k7i7'
+    lang: ru
+    tags:
+      - frontend
+  - name: Погружение в SSR
+    speaker: Дмитрий Зачесов
+    video: 'https://www.youtube.com/watch?v=uB7Yz4nH8nc'
+    presentation: 'https://cloud.mail.ru/public/LH9C/cAgdAzQp5'
+    lang: ru
+    tags:
+      - frontend
+  - name: Немного о worker'аx
+    speaker: Полина Гуртовая
+    video: 'https://www.youtube.com/watch?v=-9NavsFidOA'
+    presentation: 'https://docs.google.com/presentation/d/1raeAATCefDfrcvPUXUnzjNcVJYcNYJVr3U6QxpFgu88/edit#slide=id.g296f635916_0_99'
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,24 @@
+name: MoscowJS 44
+date: 2019-02-21
+talks:
+  - name: Обзор форматов сжатия протокольного уровня в http.
+    speaker: Михаил Бусырев
+    video: 'https://youtu.be/ro6RlJnCWE0?t=1749'
+    presentation: 'https://docs.google.com/presentation/d/1bw0ypsrdyC2l35Z-h65D09ABQDSZ_Ecfp02-zE6Fmqc/edit#slide=id.p'
+    lang: ru
+    tags:
+      - frontend
+  - name: Бойлерплейтинг в Авито
+    speaker: Денис Колесников
+    video: 'https://youtu.be/ro6RlJnCWE0?t=211'
+    presentation: 'https://cloud.mail.ru/public/MK5g/nL6KGV88Q'
+    lang: ru
+    tags:
+      - frontend
+  - name: Acceptance testing и BDD с помощью Cucumber
+    speaker: Андрей Михайлов
+    video: 'https://youtu.be/ro6RlJnCWE0?t=4548'
+    presentation: 'https://slides.com/andreymikhaylov-lolmaus/bdd-cucumber-moscowjs/#/'
+    lang: ru
+    tags:
+      - frontend

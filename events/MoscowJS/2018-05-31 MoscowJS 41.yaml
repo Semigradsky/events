@@ -1,0 +1,31 @@
+name: MoscowJS 41
+date: 2018-05-31
+talks:
+  - name: Как я перестал бояться и полюбил DOM API
+    speaker: Ярослав Сергиевский
+    video: 'https://youtu.be/9S8OeCkcUSM'
+    presentation: 'https://cloud.mail.ru/public/GDdx/LoJmFeZto'
+    lang: ru
+    tags:
+      - frontend
+  - name: GraphQL и Relay Modern на практике
+    speaker: Алексей Карасев
+    video: 'https://youtu.be/f6JyNlEoWFs'
+    presentation: 'https://cloud.mail.ru/public/GVb7/XoF9UQv9w'
+    lang: ru
+    tags:
+      - frontend
+  - name: Опыт использования WebRTC
+    speaker: Григорий Кузнецов
+    video: 'https://youtu.be/gQlQwG4vn28'
+    presentation: 'https://cloud.mail.ru/public/DnhD/CQDKmvN9c'
+    lang: ru
+    tags:
+      - frontend
+  - name: Enterprise-ready шаблон для Vue
+    speaker: Никита Соболев
+    video: 'https://youtu.be/SXFrXbhWsVY'
+    presentation: 'https://cloud.mail.ru/public/Thzo/rtfRN2MYo'
+    lang: ru
+    tags:
+      - frontend
