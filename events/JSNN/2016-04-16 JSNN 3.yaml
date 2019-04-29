@@ -1,0 +1,39 @@
+name: JSNN 3
+date: 2016-04-16
+link: 'https://www.it52.info/events/2016-04-16-go-js-1'
+talks:
+  - name: Про Middleman и простое создание статических сайтов
+    speaker: Алексей Авдеев
+    presentation: http://www.slideshare.net/AlexeyAvdeev1/middleman-61006895
+    lang: ru
+    tags:
+      - frontend
+  - name: GSAP SVG Animations
+    speaker: Дмитрий Шлюгаев
+    presentation: http://www.slideshare.net/DmitryShlyugaev/gsap-svg
+    lang: ru
+    tags:
+      - frontend
+  - name: NPM scripts
+    speaker: Андрей Макаров
+    presentation: http://r3nya.ru/npm/
+    lang: ru
+    tags:
+      - frontend
+  - name: Про сахар для Ionic и автосборку под все платформы
+    speaker: Николай Кугаевский
+    lang: ru
+    tags:
+      - frontend
+  - name: Как не потеряться в экосистеме React?
+    speaker: Сергей Смышляев
+    presentation: http://slides.com/sergeysmyshlyaev/deck-3#/
+    lang: ru
+    tags:
+      - frontend
+  - name: Разработка микровиджетов с использованием реактивных микро-фреймворков на примере Mithril
+    speaker: Антон Шрамко
+    presentation: http://slides.com/friktor/deck#/
+    lang: ru
+    tags:
+      - frontend

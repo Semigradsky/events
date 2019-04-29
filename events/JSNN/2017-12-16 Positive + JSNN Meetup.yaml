@@ -1,0 +1,48 @@
+name: Positive + JSNN Meetup
+date: 2017-12-16
+videos: 'https://www.youtube.com/playlist?list=PLY-gw0IiDtxrsn31qwnLxVXjpCBikWqPw'
+link: 'https://www.it52.info/events/2017-12-16-positive-jsnn-meetup'
+talks:
+  - name: Краткий экскурс в технологию WebRTC
+    speaker: Леонид Вайцехович
+    video: https://www.youtube.com/watch?v=3j0bZg3ZvAQ
+    lang: ru
+    tags:
+      - frontend
+  - name: Анимация в браузере
+    speaker: Антон Кастрицкий
+    video: https://www.youtube.com/watch?v=w0FiCUP9tD8
+    lang: ru
+    tags:
+      - frontend
+  - name: "Angular Hybrid Application: что это, зачем, а главное как"
+    speaker: Динара Крылова
+    video: https://www.youtube.com/watch?v=cbMZA9vo-T0
+    lang: ru
+    tags:
+      - frontend
+      - 'Angular'
+  - name: Делаем правильно изоморфные приложения
+    speaker: Павел Малышев
+    video: https://www.youtube.com/watch?v=1V4BCFSs2LE
+    lang: ru
+    tags:
+      - frontend
+  - name: Героический AngularJS, или для чего добавлять Redux-Observable
+    speaker: Иван Николаев
+    video: https://www.youtube.com/watch?v=CoVQAM4-qqk
+    lang: ru
+    tags:
+      - frontend
+  - name: "Localization process: о важности локализации и взаимодействии между командами"
+    speaker: Олег Пименов
+    video: https://www.youtube.com/watch?v=Q1MZnzd1JUI
+    lang: ru
+    tags:
+      - frontend
+  - name: Загрузка изображений в браузер
+    speaker: Александр Тихонов
+    video: https://www.youtube.com/watch?v=ztltc_CbjtA
+    lang: ru
+    tags:
+      - frontend

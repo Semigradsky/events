@@ -1,0 +1,53 @@
+name: JSNN 5
+date: 2017-03-04
+videos: https://www.youtube.com/playlist?list=PLY-gw0IiDtxpy5AZsnLyHT2uKVLOCzxO_
+link: 'https://www.it52.info/events/2017-03-04-js-nn-5'
+talks:
+  - name: Обзор Riot.js
+    speaker: Михаил Ангелов
+    presentation: https://mikhail-angelov.github.io/presentation-riot/#/
+    lang: ru
+    tags:
+      - frontend
+  - name: Анализ производительности в React.js
+    speaker: Сергей Смышляев
+    video: https://www.youtube.com/watch?v=N4cO4Y1EHhs
+    presentation: https://github.com/sesm/JSNN5_react_apps_performance
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: LoopBack.io
+    speaker: Дмитрий Родичев
+    presentation: https://noroot.github.io/slides/loopback.io/
+    lang: ru
+    tags:
+      - frontend
+  - name: Использование RxJs для связывания компонентов приложения
+    speaker: Максим Голованёв
+    video: https://www.youtube.com/watch?v=UcULWX_vleI
+    presentation: https://amayun.github.io/rxjs/
+    lang: ru
+    tags:
+      - frontend
+  - name: Вивисекция Ангуляра
+    speaker: Николай Кугаевский
+    video: https://www.youtube.com/watch?v=6JbKHQw9iDQ
+    presentation: http://slides.kugaevsky.ru/vivisection.html#/
+    lang: ru
+    tags:
+      - frontend
+  - name: Новые фичи в CSS
+    speaker: Андрей Макаров
+    video: https://www.youtube.com/watch?v=cE72lYNGPyQ
+    presentation: https://r3nya.github.io/new-css-features/
+    lang: ru
+    tags:
+      - frontend
+  - name: Transpiler-free Python for your browser
+    speaker: Артем Малышев
+    video: https://www.youtube.com/watch?v=UBpxnh6pht0
+    presentation: http://proofit404.github.io/talks/transpiler-free-python-for-your-browser/#/
+    lang: ru
+    tags:
+      - frontend

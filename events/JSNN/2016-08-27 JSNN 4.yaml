@@ -1,0 +1,37 @@
+name: JSNN 4
+date: 2016-08-27
+link: 'https://www.it52.info/events/2016-08-27-js-nn-4'
+talks:
+  - name: Stylelint — как и зачем линтить CSS
+    speaker: Андрей Ситник
+    presentation: http://slides.com/ai/stylelint-ru
+    lang: ru
+    tags:
+      - frontend
+  - name: Привет, CSS Grid Layout
+    speaker: Макаров Андрей
+    presentation: https://r3nya.github.io/css-grid/
+    lang: ru
+    tags:
+      - frontend
+  - name: Автоматическое тестирование front-end приложения
+    speaker: Ангелов Михаил
+    presentation: https://mikhail-angelov.github.io/presentation-test-front-end/
+    lang: ru
+    tags:
+      - frontend
+      - 'testing'
+  - name: Что осталось от MeteorJS
+    speaker: Павел Шалаев
+    presentation: http://slides.com/lawrentiy/historyofmeteorjs#/
+    lang: ru
+    tags:
+      - frontend
+  - name: Работа с анимациями в React Native
+    speaker: Шрамко Антон
+    presentation: http://slides.com/friktor/react-native-animations#/
+    code: https://github.com/friktor/react-animations-example-it52-jsnn-4
+    lang: ru
+    tags:
+      - frontend
+      - mobile
