@@ -1,6 +1,7 @@
 name: "KharkivFrontend Meetup 2"
-link: 'https://www.facebook.com/events/558956724480783/'
 date: 2018-02-17
+videos: https://www.youtube.com/playlist?list=PLDddScyTGZAu1b12lrG2YzSMZJ3g2VyFP
+link: 'https://kharkivfrontend.org/meetup-2.html'
 talks:
   - name: "Контекст наложения - кто ты?"
     speaker: Влад Антипенко

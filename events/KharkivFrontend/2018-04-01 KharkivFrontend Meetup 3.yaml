@@ -1,0 +1,36 @@
+name: KharkivFrontend Meetup 3
+date: 2018-04-01
+videos: 'https://www.youtube.com/playlist?list=PLDddScyTGZAs2UcWBLPodHk5UWtMVDuPN'
+link: 'https://kharkivfrontend.org/meetup-3.html'
+talks:
+  - name: Расставим сети. CSS Grid Layout module.
+    speaker: Стрельников Алексей
+    video: https://www.youtube.com/watch?v=TPz5MSS0Gy4
+    lang: ru
+    tags:
+      - frontend
+  - name: Functional Programming in JS
+    speaker: Максим Корабельский
+    video: https://www.youtube.com/watch?v=NEVTBVFRk6Y
+    lang: ru
+    tags:
+      - frontend
+  - name: Не доверяй входящим данным. Или что такое XSS
+    speaker: Богдан Резанов
+    video: https://www.youtube.com/watch?v=A5qriMIS9O0
+    lang: ru
+    tags:
+      - frontend
+  - name: О чем молчат тесты?
+    speaker: Чуб Вячеслав
+    video: https://www.youtube.com/watch?v=tphlt_UVS5E
+    lang: ru
+    tags:
+      - frontend
+      - 'testing'
+  - name: Под капотом React Native
+    speaker: Антон Кулик
+    lang: ru
+    tags:
+      - frontend
+      - mobile
