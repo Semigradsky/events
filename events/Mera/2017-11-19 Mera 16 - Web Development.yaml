@@ -1,0 +1,16 @@
+name: Mera 16 - Web Development
+link: 'https://www.mera.ru/career/calendar/javascript'
+date: 2017-11-19
+talks:
+  - name: "Automation testing::Selenium"
+    speaker: Волкова Наталья
+    presentation: https://drive.google.com/open?id=1rFgJWPwbcEW5MjGibmePTof1ZStJ4sFB
+    lang: ru
+    tags:
+      - frontend
+  - name: "Javascript::JS essential"
+    speaker: Oleg Finka
+    presentation: https://drive.google.com/open?id=1rFgJWPwbcEW5MjGibmePTof1ZStJ4sFB
+    lang: ru
+    tags:
+      - frontend

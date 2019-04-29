@@ -1,0 +1,25 @@
+name: Mera 29 - GraphQL
+date: 2019-02-16
+link: 'https://www.mera.ru/career/calendar/graphql'
+talks:
+  - name: The better REST для разработки сложных Веб-приложений
+    speaker: Яссин Зарир
+    video: https://www.youtube.com/watch?v=54iOZH6Fxig
+    presentation: https://www.mera.ru/media/attachments/2019/02/18/graphql-the-better-rest_yBfz9kB.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Подходы построения GraphQL-сервера в NodeJS
+    speaker: Павел Черторогов
+    video: https://www.youtube.com/watch?v=bZ4Rwz7Dsgk
+    presentation: https://nodkz.github.io/conf-talks/talks/2019.02.16-mera-nizhniy-novgorod/index.html#/5
+    lang: ru
+    tags:
+      - frontend
+  - name: GraphQL — новый Redux
+    speaker: Алексей Золотых
+    video: https://youtu.be/lDIb5DIPcGg
+    presentation: https://zolotyh.github.io/graphql-meetup/#/
+    lang: ru
+    tags:
+      - frontend

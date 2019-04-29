@@ -1,0 +1,16 @@
+name: Mera 26 - Progressive Web Apps & Web components
+date: 2018-11-15
+link: 'https://www.mera.ru/career/calendar/progressive-web-apps-web-components'
+talks:
+  - name: Progressive Web Apps
+    speaker: Артурас Лапинскас
+    presentation: http://www.mera.ru/media/attachments/2018/11/16/pwa.pptx
+    lang: ru
+    tags:
+      - frontend
+  - name: Web-компоненты и внедрение зависимостей
+    speaker: Александр Волков
+    presentation: http://www.mera.ru%20/media/attachments/2018/11/16/dom-di.pptx
+    lang: ru
+    tags:
+      - frontend

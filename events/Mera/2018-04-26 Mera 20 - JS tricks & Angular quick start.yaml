@@ -1,0 +1,18 @@
+name: Mera 20 - JS tricks & Angular quick start
+date: 2018-04-26
+link: 'https://www.mera.ru/career/calendar/js-tricks-angular-quick-start'
+talks:
+  - name: "JS essentials (part2)"
+    speaker: Oleg Finka
+    presentation: https://www.mera.ru/media/attachments/2018/06/04/js-essentials-p2-slides.pptx
+    lang: ru
+    tags:
+      - frontend
+  - name: "Angular и Typescript. Основы. Примеры."
+    speaker: '?'
+    presentation: https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx
+    lang: ru
+    tags:
+      - frontend
+      - TypeScript
+      - 'Angular'
