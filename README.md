@@ -59,18 +59,18 @@
 | --- | :---: | --- |
 | Мутационное тестирование  | ? | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;mutation-testing.pdf)  |
 | Внедрение зависимостей в веб-компонентах  | Александр Волков | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;dependency-injection-via-dom_yjApk29.pdf)  |
-## MinskJS 5 - Feb 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsKJHySf_D3Kfpbhx8FVNKLp)
-| | | |
-| --- | :---: | --- |
-| [The Art of NodeJS, или Как сделать что-то крутое, используя публичные данные](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;A0WqkePkw0c)  | Илья Запруцкий | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1m1KuxiOHufQmhkIR7Q6sCdWvIZVObQdd&#x2F;view)  |
-| [Профилирование JS: увидеть самое важное и не утонуть в море чисел](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rKtWxCYBFP4)  | Виктор Хомяков | [:notebook:](https:&#x2F;&#x2F;victor-homyakov.github.io&#x2F;profile-visualization&#x2F;)  |
-| [Зачем мы переписывали приложение на Elm и кто за это ответит](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;D-4D1f5gyXw)  | Виктор Русакович | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1FJabwf0jalNJMZEX6LiLn2RplkzAIb342VFTU5STogg&#x2F;edit)  |
 ## MoscowJS 44 - Feb 21 
 | | | |
 | --- | :---: | --- |
 | [Обзор форматов сжатия протокольного уровня в http.](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;1749)  | Михаил Бусырев | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1bw0ypsrdyC2l35Z-h65D09ABQDSZ_Ecfp02-zE6Fmqc&#x2F;edit#slide&#x3D;id.p)  |
 | [Бойлерплейтинг в Авито](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;211)  | Денис Колесников | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;MK5g&#x2F;nL6KGV88Q)  |
 | [Acceptance testing и BDD с помощью Cucumber](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;4548)  | Андрей Михайлов | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;andreymikhaylov-lolmaus&#x2F;bdd-cucumber-moscowjs&#x2F;#&#x2F;)  |
+## MinskJS 5 - Feb 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsKJHySf_D3Kfpbhx8FVNKLp)
+| | | |
+| --- | :---: | --- |
+| [The Art of NodeJS, или Как сделать что-то крутое, используя публичные данные](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;A0WqkePkw0c)  | Илья Запруцкий | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1m1KuxiOHufQmhkIR7Q6sCdWvIZVObQdd&#x2F;view)  |
+| [Профилирование JS: увидеть самое важное и не утонуть в море чисел](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rKtWxCYBFP4)  | Виктор Хомяков | [:notebook:](https:&#x2F;&#x2F;victor-homyakov.github.io&#x2F;profile-visualization&#x2F;)  |
+| [Зачем мы переписывали приложение на Elm и кто за это ответит](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;D-4D1f5gyXw)  | Виктор Русакович | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1FJabwf0jalNJMZEX6LiLn2RplkzAIb342VFTU5STogg&#x2F;edit)  |
 ## The Rolling Scopes &amp; MobilePeople - Feb 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)
 | | | |
 | --- | :---: | --- |
