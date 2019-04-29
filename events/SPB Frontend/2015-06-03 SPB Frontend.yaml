@@ -1,0 +1,10 @@
+name: SPB Frontend
+date: 2015-06-03
+link: 'https://spb-frontend.ru/meetups/2015-06-03'
+talks:
+  - name: Оптимизация Рендеринга сайта в Chrome DevTools
+    speaker: Андрей Косяков
+    presentation: 'https://docs.google.com/presentation/d/1R1RtMk5b16m3mA3SEsJ7Upktc6a7skphuyUsiLoAsiE/edit#slide=id.p'
+    lang: ru
+    tags:
+      - frontend

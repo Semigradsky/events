@@ -1,0 +1,25 @@
+name: SPB Frontend
+date: 2015-10-24
+link: 'https://spb-frontend.ru/meetups/2015-10-24'
+talks:
+  - name: Что такое React и как его готовить?
+    speaker: Сергей Лапин
+    presentation: 'http://slides.com/sergeylapin/deck/fullscreen?token=YhozYvuX#/'
+    video: 'https://www.youtube.com/watch?v=vsnvmJ8fnCk&t=228s'
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS in JS
+    speaker: Андрей Попп
+    presentation: 'https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fsf-251015-ap'
+    video: 'https://www.youtube.com/watch?v=vsnvmJ8fnCk&t=2350s'
+    lang: ru
+    tags:
+      - frontend
+  - name: Redux
+    speaker: Даня Абрамов
+    presentation: 'https://gist.githubusercontent.com/gaearon/f8bd724cacbce05f5c19/raw/46d2a32dd411ff3804c6bc7589f6ff2d0e641a0f/redux.md'
+    video: 'https://www.youtube.com/watch?v=vsnvmJ8fnCk&t=5113s'
+    lang: ru
+    tags:
+      - frontend

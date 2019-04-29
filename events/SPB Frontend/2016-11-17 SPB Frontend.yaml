@@ -1,0 +1,22 @@
+name: SPB Frontend
+date: 2016-11-17
+link: 'https://spb-frontend.ru/meetups/2016-11-17'
+talks:
+  - name: Vue.js
+    speaker: Антон Федянин
+    presentation: 'http://spbfrontend-vuejs.surge.sh/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Angular 2
+    speaker: Алексей Золотых
+    presentation: 'https://zolotyh.github.io/frontendpres/'
+    lang: ru
+    tags:
+      - frontend
+  - name: EmderJS
+    speaker: Артём Сущев
+    presentation: 'https://vk.com/doc-133044904_439159465?dl=7cc2dbe0e00..'
+    lang: ru
+    tags:
+      - frontend

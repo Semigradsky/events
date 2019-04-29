@@ -1,0 +1,16 @@
+name: SPB Frontend
+date: 2016-12-25
+link: 'https://spb-frontend.ru/meetups/2016-12-25'
+talks:
+  - name: Мобильный веб или как дальше жить
+    speaker: Сергей Густун
+    presentation: 'https://vk.com/doc2330518_440227956?hash=67f963adbe0ae5eec3&dl=27f8b222f53919547c'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как всё обновить и не умереть
+    speaker: Валентин Семирульник
+    presentation: 'http://7rulnik-how-to-upgrade-talk.surge.sh/assets/player/KeynoteDHTMLPlayer.html#0'
+    lang: ru
+    tags:
+      - frontend

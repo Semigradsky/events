@@ -1,0 +1,16 @@
+name: SPB Frontend
+date: 2014-10-22
+link: 'https://spb-frontend.ru/meetups/2014-10-22'
+talks:
+  - name: Responsive Design и Workspace в Google Chrome Developer tools.
+    speaker: Андрей Лушников
+    video: 'https://youtu.be/C2x8f8xPKFY?t=6s'
+    lang: ru
+    tags:
+      - frontend
+  - name: Dependency Injection в браузере.
+    speaker: Вячеслав Шебанов
+    video: 'https://www.youtube.com/watch?v=OeaNkx6Rlwc&index=5&list=PLI6q7lZ9ClB2CUXSYvYuT9S_EkDCfwdE3&t=0s'
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,22 @@
+name: SPB Frontend
+date: 2016-09-25
+link: 'https://spb-frontend.ru/meetups/2016-09-25'
+talks:
+  - name: Как правильно вести себя на новой работе. 10 вредных советов
+    speaker: Алёна Батицкая
+    presentation: 'https://solarrust.github.io/spbfrontend0916/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Дизайн для разработчиков
+    speaker: Екатерина Булатова
+    presentation: 'https://speakerdeck.com/kathiekiwi/design-for-developers'
+    lang: ru
+    tags:
+      - frontend
+  - name: Публикуем npm пакеты
+    speaker: Зарема Халилова
+    presentation: 'http://bit.ly/zarema-npm'
+    lang: ru
+    tags:
+      - frontend

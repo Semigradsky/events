@@ -1,0 +1,20 @@
+name: SPB Frontend
+date: 2017-01-30
+link: 'https://spb-frontend.ru/meetups/2017-01-30'
+talks:
+  - name: 'Electron: от мотивации до публикации'
+    speaker: Виктор Пасынок
+    lang: ru
+    tags:
+      - frontend
+  - name: Инструменты статического анализа JavaScript
+    speaker: Андрей Попп
+    presentation: 'http://amp.gs/1uef'
+    lang: ru
+    tags:
+      - frontend
+  - name: Чанки-чанки-чанки
+    speaker: Валентин Семирульник
+    lang: ru
+    tags:
+      - frontend

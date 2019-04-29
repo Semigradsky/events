@@ -1,0 +1,22 @@
+name: SPB Frontend
+date: 2015-04-08
+link: 'https://spb-frontend.ru/meetups/2015-04-08'
+talks:
+  - name: 'Прощай, jQuery!'
+    speaker: Зарема Халилова
+    presentation: 'http://slides.com/zmoki/jquery/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Архитектура систем локализации на клиенте
+    speaker: Алексей Бахирев
+    presentation: 'https://drive.google.com/file/d/0B50pcIvk3cAHcFU1Wl81TEFpbjA/view'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как выбраться со дна бассейна в наручниках?
+    speaker: Вадим Макеев
+    presentation: 'http://sokr.me/hud'
+    lang: ru
+    tags:
+      - frontend

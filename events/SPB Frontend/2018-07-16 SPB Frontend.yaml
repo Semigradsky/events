@@ -1,0 +1,38 @@
+name: SPB Frontend
+date: 2018-07-16
+link: 'https://spb-frontend.ru/meetups/2018-07-16'
+talks:
+  - name: Нейросети в JavaScript
+    speaker: Яна Клементьева
+    presentation: 'https://goo.gl/CKb51t'
+    video: 'https://youtu.be/HHuRlxVX77o?t=45s'
+    lang: ru
+    tags:
+      - frontend
+  - name: Обзор экосистемы JavaScript
+    speaker: Сергей Лапин
+    presentation: 'https://goo.gl/YYvWYR'
+    video: 'https://youtu.be/HHuRlxVX77o?t=26m59s'
+    lang: ru
+    tags:
+      - frontend
+  - name: Молоток и гвозди
+    speaker: Вадим Макеев
+    video: 'https://youtu.be/HHuRlxVX77o?t=49m2s'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Фронтенд: Другая война'
+    speaker: Мария Просвирнина
+    presentation: 'http://amp.gs/79Ts'
+    video: 'https://youtu.be/HHuRlxVX77o?t=41m6s'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Работа с блокчейном, смарт-контрактами и криптотокенами в Ethereum из браузера и node.js'
+    speaker: Всеволод Родионов
+    presentation: 'https://goo.gl/ZZvXUP'
+    video: 'https://youtu.be/HHuRlxVX77o?t=57m14s'
+    lang: ru
+    tags:
+      - frontend

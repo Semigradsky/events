@@ -1,0 +1,9 @@
+name: SPB Frontend
+date: 2015-09-20
+link: 'https://spb-frontend.ru/meetups/2015-09-20'
+talks:
+  - name: JSFuck
+    speaker: Martin Kleppe
+    lang: ru
+    tags:
+      - frontend

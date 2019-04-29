@@ -1,0 +1,21 @@
+name: SPB Frontend
+date: 2014-09-01
+link: 'https://spb-frontend.ru/meetups/2014-09-01'
+talks:
+  - name: Webpack
+    speaker: Максим Рыжиков
+    presentation: 'https://github.com/Saunalol/spb-frontend-webpack'
+    lang: ru
+    tags:
+      - frontend
+  - name: PostCSS
+    speaker: Андрей Ситник
+    presentation: 'http://ai.github.io/about-postcss/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Famo.us
+    speaker: Артём Сущев
+    lang: ru
+    tags:
+      - frontend

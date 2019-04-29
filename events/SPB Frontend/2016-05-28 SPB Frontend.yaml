@@ -1,0 +1,34 @@
+name: SPB Frontend
+date: 2016-05-28
+link: 'https://spb-frontend.ru/meetups/2016-05-28'
+talks:
+  - name: Сложно ли написать приложение на React Native?
+    speaker: Дмитрий Локтев
+    lang: ru
+    tags:
+      - frontend
+  - name: Где лучше работать в стартапе или в большой компании?
+    speaker: Евгений Кот
+    lang: ru
+    tags:
+      - frontend
+  - name: Как писать unit-тесты для Rx.js?
+    speaker: Кирилл Сухомлин
+    lang: ru
+    tags:
+      - frontend
+  - name: Про REPL Driven Development и Clojure (Script).
+    speaker: Николай Рыжиков
+    lang: ru
+    tags:
+      - frontend
+  - name: Как упаковать node.js приложение в Docker?
+    speaker: Станислав Гуменюк
+    lang: ru
+    tags:
+      - frontend
+  - name: Короткое введение в WebAssembly.
+    speaker: Вячеслав Лапин
+    lang: ru
+    tags:
+      - frontend
