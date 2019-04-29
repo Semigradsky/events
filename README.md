@@ -54,6 +54,11 @@
 | [Reactive Powered: RxJS with Angular Forms](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;angular-forms) [en] | Shmuela Jacobs |   |
 | [Solving behavioral complexity with FRP](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;solving-behavioral-complexity-with-frp)  | Oleksii Levzhynskyi |   |
 | [Hinting at a better web](https:&#x2F;&#x2F;fwdays.com&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;hinting-at-a-better-web) [en] | Christian Heilmann |   |
+## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - Mar 02 
+| | | |
+| --- | :---: | --- |
+| Мутационное тестирование  | ? | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;mutation-testing.pdf)  |
+| Внедрение зависимостей в веб-компонентах  | Александр Волков | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;dependency-injection-via-dom_yjApk29.pdf)  |
 ## MinskJS 5 - Feb 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsKJHySf_D3Kfpbhx8FVNKLp)
 | | | |
 | --- | :---: | --- |
@@ -71,6 +76,12 @@
 | --- | :---: | --- |
 | [Sunrise of iOS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)  | Aliaksei Strokin |   |
 | [Обзор фреймворков для кроссплатформенной мобильной разработки](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)  | Andrei Lesnitsky |   |
+## Mera 29 - GraphQL - Feb 16 
+| | | |
+| --- | :---: | --- |
+| [The better REST для разработки сложных Веб-приложений](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;54iOZH6Fxig)  | Яссин Зарир | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;02&#x2F;18&#x2F;graphql-the-better-rest_yBfz9kB.pdf)  |
+| [Подходы построения GraphQL-сервера в NodeJS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;bZ4Rwz7Dsgk)  | Павел Черторогов | [:notebook:](https:&#x2F;&#x2F;nodkz.github.io&#x2F;conf-talks&#x2F;talks&#x2F;2019.02.16-mera-nizhniy-novgorod&#x2F;index.html#&#x2F;5)  |
+| [GraphQL — новый Redux](https:&#x2F;&#x2F;youtu.be&#x2F;lDIb5DIPcGg)  | Алексей Золотых | [:notebook:](https:&#x2F;&#x2F;zolotyh.github.io&#x2F;graphql-meetup&#x2F;#&#x2F;)  |
 ## The Rolling Scopes &amp; {Minsk} JSON - Feb 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;gdpMFxWDwJg)
 | | | |
 | --- | :---: | --- |
