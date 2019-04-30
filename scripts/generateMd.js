@@ -30,6 +30,10 @@ async function generateMd(events) {
 
     const groupedByYears = new Map()
     for (const event of events) {
+        if (!event.talks || !event.talks.some(t => t.video || t.link || t.presentation || t.code)) {
+            continue;
+        }
+
         const year = (Array.isArray(event.date) ? event.date[0] : event.date).getFullYear()
         const groupedEvents = groupedByYears.get(year) || []
 
