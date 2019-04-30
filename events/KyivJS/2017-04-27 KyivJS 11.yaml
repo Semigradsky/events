@@ -1,0 +1,46 @@
+name: KyivJS 11
+date: 2017-04-27
+videos: 2017-04-27 KyivJS
+talks:
+  - name: Essential Glimmer
+    speaker: Roman Senin
+    video: https://www.youtube.com/watch?v=4wnbCtDZINQ
+    presentation: https://drive.google.com/file/d/0B5aBzJ0JSZSgS182Y0NyOGpleHM/view
+    lang: ru
+    tags:
+      - frontend
+  - name: Offline First
+    speaker: Evgen Filatov
+    video: https://www.youtube.com/watch?v=1_q9zVRTx8U
+    presentation: https://drive.google.com/file/d/0B4xFRFS363tpNHllNG1zS0U2Rjg/view
+    lang: ru
+    tags:
+      - frontend
+  - name: PWA. Service-Worker. Application
+    speaker: Sergey Frolov
+    video: https://www.youtube.com/watch?v=i2OOIyzEqvE
+    presentation: https://drive.google.com/file/d/0B4xFRFS363tpMGJ4OUIxam1zWEk/view
+    lang: ru
+    tags:
+      - frontend
+  - name: Your own npm package
+    speaker: Ivan Zusko
+    video: https://www.youtube.com/watch?v=sjG-1c9s86I
+    presentation: https://docs.google.com/presentation/d/1uZdNTGAv_eMSw1tDztb6p0owcDggv8zf3suwl9YdVvQ/edit
+    lang: uk
+    tags:
+      - frontend
+  - name: Modern Regexp
+    speaker: Aleksey Shvayka
+    video: https://www.youtube.com/watch?v=5yq8quaYMak
+    presentation: https://drive.google.com/file/d/0B4xFRFS363tpY1Bkcno0YkpDbU0/view
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS in JS Benchmarks
+    speaker: Gregory Shehet
+    video: https://www.youtube.com/watch?v=m9k2Kkg82do
+    presentation: https://drive.google.com/file/d/0B4xFRFS363tpeGNpYUhaVjRfNzQ/view
+    lang: ru
+    tags:
+      - frontend

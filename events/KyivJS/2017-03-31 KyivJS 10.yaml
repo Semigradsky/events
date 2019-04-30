@@ -1,0 +1,45 @@
+name: KyivJS 10
+date: 2017-03-31
+talks:
+  - name: A Word on Regular Expressions
+    speaker: Aleksey Shvayka
+    presentation: https://goo.gl/MXd52q
+    lang: en
+    tags:
+      - frontend
+  - name: javascript localization with good old getModerntext
+    speaker: Mostovenko Alexander
+    presentation: https://goo.gl/TNrYMw
+    lang: en
+    tags:
+      - frontend
+  - name: Reading for lazy people
+    speaker: Mark Orel
+    presentation: http://slides.com/markorel/deck
+    lang: en
+    tags:
+      - frontend
+  - name: The missing piece of modern front end architecture
+    speaker: Roman Liutikov
+    presentation: https://goo.gl/9m96pz
+    lang: ru
+    tags:
+      - frontend
+  - name: Fun with bitwise noise
+    speaker: Evgeny Kozhura
+    presentation: https://goo.gl/sD2wGz
+    lang: en
+    tags:
+      - frontend
+  - name: Babel 2k17
+    speaker: Artem Yavorsky
+    presentation: https://goo.gl/Ort2kw
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS in JS
+    speaker: Shehet Gregory
+    presentation: https://goo.gl/zsLCM6
+    lang: en
+    tags:
+      - frontend

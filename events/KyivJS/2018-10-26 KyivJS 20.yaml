@@ -1,0 +1,25 @@
+name: KyivJS 20
+date: 2018-10-26
+videos: https://www.youtube.com/playlist?list=PLxw9RJPDS60pAakpyewUFg7fV46A0bUAf
+talks:
+  - name: API дизайн уроки известных проектов
+    speaker: Andrey Salomatin
+    video: https://www.youtube.com/watch?v=xrpZZBphcPA
+    presentation: https://www.slideshare.net/flpvsk/api-kievjs
+    lang: ru
+    tags:
+      - frontend
+  - name: Server Driven Rendering
+    speaker: Viktor Havrylin
+    video: https://www.youtube.com/watch?v=my5xiCC-L8g
+    presentation: https://drive.google.com/file/d/1FAwRWfzFoR5qsYXwCaXcetck5ZdW3hkh/view
+    lang: ru
+    tags:
+      - frontend
+  - name: Изобретать велосипед
+    speaker: Max Bezugly
+    video: https://www.youtube.com/watch?v=IMbK2CiYtxo
+    presentation: https://docs.google.com/presentation/d/1-QccDwhZhHi-i-TPkgxGltM906Hx63-0vVTBWBP-_Iw/edit
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,53 @@
+name: KyivJS 6
+date: 2015-12-05
+videos: https://www.youtube.com/playlist?list=PLxw9RJPDS60qUL9tiH3Hh-xB8rY5xV2Cr
+talks:
+  - name: Interactive path search in Javascript
+    speaker: Andrii Muzalevskyi
+    video: https://www.youtube.com/watch?v=cbN09nPT9hQ
+    lang: en
+    tags:
+      - frontend
+  - name: Data Access with OrbitJS
+    speaker: Ivan Lavriv
+    video: https://www.youtube.com/watch?v=uNqejKSsD3k
+    presentation: http://slides.com/ivanlavriv/deck/fullscreen#/
+    lang: en
+    tags:
+      - frontend
+  - name: Artem Suchov
+    speaker: Learning how to learn
+    video: https://www.youtube.com/watch?v=ODAufmZ06TA
+    presentation: http://artemsychov.com/kievjs2015/
+    lang: en
+    tags:
+      - frontend
+  - name: Async Await
+    speaker: Alexey Raspopov
+    video: https://www.youtube.com/watch?v=nL6DaBJd9Qk
+    presentation: http://alexeyraspopov.github.io/async-await/
+    lang: en
+    tags:
+      - frontend
+  - name: ClojureScript for JavaScript developers
+    speaker: Roman Liutikov
+    video: https://www.youtube.com/watch?v=cOejm16mCUU
+    presentation: http://roman01la.github.io/cljs-for-js-devs/
+    lang: en
+    tags:
+      - frontend
+      - 'ClojureScript'
+  - name: "Let's play Tank.ly"
+    speaker: Andrii Shumada
+    video: https://www.youtube.com/watch?v=y8EDS_EzAXk
+    presentation: https://docs.google.com/presentation/d/1MGe9fHox6rVpXVl934cGtKb5eJeAayVvcWDuhdu-l50/edit
+    lang: en
+    tags:
+      - frontend
+  - name: "Why can't I…?"
+    speaker: Borys Romanchuk
+    video: https://www.youtube.com/watch?v=E0oIKEpOs58
+    presentation: https://docs.google.com/presentation/d/1U8r--zX0asyRKv0aH51L0354hQD2wt2xMAfCSH0X7KA/edit
+    lang: ru
+    tags:
+      - frontend

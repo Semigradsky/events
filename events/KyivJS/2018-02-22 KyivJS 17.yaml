@@ -1,5 +1,5 @@
 name: "KyivJS 17"
-link: 'http://kyivjs.org/'
+videos: https://www.youtube.com/playlist?list=PLxw9RJPDS60piISpypsYP2dl8J8Ft9CUJ
 date: 2018-02-22
 talks:
   - name: "Sensing Your World With Espruino"

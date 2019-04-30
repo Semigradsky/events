@@ -1,0 +1,43 @@
+name: KyivJS 15
+date: 2017-10-12
+videos: https://www.youtube.com/watch?v=rv-5FtJxNic
+talks:
+  - name: Holywars in a typings world
+    speaker: Григорий Шехет
+    video: https://www.youtube.com/watch?v=rv-5FtJxNic
+    presentation: https://drive.google.com/file/d/0B4xFRFS363tpZXJRX2V4Z25WaTQ/view
+    lang: ru
+    tags:
+      - frontend
+  - name: Why do we make our video player?
+    speaker: Алексей Макодзеба
+    video: https://www.youtube.com/watch?v=rv-5FtJxNic
+    presentation: https://docs.google.com/presentation/d/1FN0T2hFYmPh-A1OEpM6S8P4pIOSL8lClkxYMfx1jqXw/edit#slide=id.g26f9308039_0_24
+    lang: ru
+    tags:
+      - frontend
+  - name: Cache Already Done
+    speaker: Anton Verinov
+    video: https://www.youtube.com/watch?v=rv-5FtJxNic
+    presentation: http://anton.codes/talks/cache/
+    lang: ru
+    tags:
+      - frontend
+  - name: Create your site with Gatsby
+    speaker: Dmitry Barabash
+    video: https://www.youtube.com/watch?v=rv-5FtJxNic
+    lang: ru
+    tags:
+      - frontend
+  - name: Cheap & Efficient Data Models for Your Frontend
+    speaker: Алексей Распопов
+    video: https://www.youtube.com/watch?v=rv-5FtJxNic
+    lang: ru
+    tags:
+      - frontend
+  - name: Нетворкинг для чайников
+    speaker: Andrew Kryshtal
+    video: https://www.youtube.com/watch?v=rv-5FtJxNic
+    lang: ru
+    tags:
+      - frontend
