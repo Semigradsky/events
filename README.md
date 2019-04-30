@@ -24,13 +24,6 @@
 | [Декларативные карты с React и Mapbox GL JS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;02Mtao-GTW4)  | Степан Кузьмин | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;A3xc&#x2F;h3dY7T6x8)  |
 | [Как мы рендерим векторные Яндекс.Карты на вебе](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ymKJn-XBvtw)  | Марина Перескокова | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;2sFQ&#x2F;4auP81ZD9)  |
 | [Опыт использования картографических технологий при разработке веб-платформы планирования и управления транспортными потоками RITM](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;92WdqhmqSnQ)  | Игорь Яицкий | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;3XUX&#x2F;2A25Z2gsb)  |
-## The Rolling Scopes + JS Machine Meet Up. Mogilev - Mar 30 
-| | | |
-| --- | :---: | --- |
-| PWA using Angular Service Worker  | Viktoryia Verasava |   |
-| Стейт менеджмент для ленивых  | Aliaksandr Famchankou |   |
-| Оптимизации в web  | Mikhail Dziarkach |   |
-| JS Machine Talk  | Yury Tatarynovich,Katsiaryna Sivakova |   |
 ## KyivJS 22 - Mar 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn)
 | | | |
 | --- | :---: | --- |
@@ -39,34 +32,12 @@
 | [Animation in the Air](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Wqn_kmMpCGc&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;3) [uk] | Христина Ландвитович | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;cristinalandvytovych&#x2F;animation&#x2F;#&#x2F;)  |
 | [Code Ownership](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ICZsVKgbMe8&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;4)  | Станислав Слесарев | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL&#x2F;view)  |
 | [Using WebStorm like a pro](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dxSQQufii3s&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;5)  | Максим Донченко |   |
-## JavaScript fwdays&#39;19 - Mar 16 
+## ReactRussia 1 - Mar 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP)
 | | | |
 | --- | :---: | --- |
-| [Technical SEO for JavaScript developers](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;technical-seo-for-javascript-developers) [en] | Martin Splitt |   |
-| [The State of Modern JavaScript and Web in 2020 - Real use cases](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;the-state-of-modern-js-and-web-in-2020)  | Alexey Kupriyanenko |   |
-| [Why are Angular and React so fast?](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;why-are-angular-and-react-so-fast)  | Max Koretskyi |   |
-| [A short history of the web](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;a-short-history-of-the-web) [en] | Martin Splitt |   |
-| [HTTP headers for the responsible developer](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;http-headers-for-the-responsible-developer) [en] | Stefan Judis |   |
-| [How we have been developing an Offline First application using Persistent Storage](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;how-we-have-been-developing-an-offline-first-application)  | Timofey Lavrenyuk |   |
-| [How to train your Vue CLI plugin](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;how-to-train-your-vue-cli-plugin) [en] | Natalia Tepluhina |   |
-| [One simple animation explained](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;one-simple-animation-explained)  | Yurii Artyukh |   |
-| [Server-side rendering with Angular—be faster and more SEO, CDN and user-friendly!](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;server-side-rendering-with-angular) [en] | Maciej Treder |   |
-| [Shrink an elephant into a fly](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;shrink-an-elephant-into-a-fly)  | Vadim Makeev |   |
-| [JS on Server: To be or not to be?](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;js-on-server-to-be-or-not-to-be)  | Illya Klymov |   |
-| [Web Performance in modern JavaScript world](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;web-performance-in-modern-javascript-world) [en] | Filip Rakowski |   |
-| [Lost in Space: Web Apps and A11Y](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;lost-in-space)  | Vitalii Bobrov |   |
-| [Looking for the right tech stack for GraphQL application](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;looking-for-the-right-tech-stack-for-graphql)  | Nikita Galkin |   |
-| [The Almighty Rabbit Hole](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;the-almighty-rabbit-hole)  | Christopher Gannon |   |
-| [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;beyond-the-limitations-of-frontend)  | Ilona Demidenko |   |
-| [REPL, do you speak it](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;repl)  | Alexander Solovyov |   |
-| [Reactive Powered: RxJS with Angular Forms](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;angular-forms) [en] | Shmuela Jacobs |   |
-| [Solving behavioral complexity with FRP](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;solving-behavioral-complexity-with-frp)  | Oleksii Levzhynskyi |   |
-| [Hinting at a better web](https:&#x2F;&#x2F;fwdays.com&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;hinting-at-a-better-web) [en] | Christian Heilmann |   |
-## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - Mar 02 
-| | | |
-| --- | :---: | --- |
-| Мутационное тестирование  | ? | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;mutation-testing.pdf)  |
-| Внедрение зависимостей в веб-компонентах  | Александр Волков | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;dependency-injection-via-dom_yjApk29.pdf)  |
+| [Путь фронтенда одноклассников от истоков до наших дней](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;hcboJotsTsA&amp;list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&amp;index&#x3D;2&amp;t&#x3D;0s)  | Олег Коровин | [:notebook:](https:&#x2F;&#x2F;djmadcow.github.io&#x2F;react-russia-meetup-1&#x2F;assets&#x2F;player&#x2F;KeynoteDHTMLPlayer.html)  |
+| [Под капотом React Hooks](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;3Ku62Nh1mhk&amp;list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&amp;index&#x3D;2)  | Дмитрий Злыгин | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;secret&#x2F;o7TqRRUdbdezGa)  |
+| [Компоненты для компонентов](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;9fEBZfhoJd8&amp;list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&amp;index&#x3D;3)  | Елена Рашкован | [:notebook:](https:&#x2F;&#x2F;github.com&#x2F;alatielle&#x2F;react-russia-meetup-talk)  |
 ## JSNN 12 - Mar 02 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLY-gw0IiDtxpNTfxGt2Wn-8vQDzHTf4l1)
 | | | |
 | --- | :---: | --- |
@@ -75,18 +46,23 @@
 | [Что даёт нам Webpack: устройство бандла](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;9qPtwaq73c8)  | Андрей Синицын |   |
 | [Как делать крутые компоненты на Angular](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;7MFW2A-3HG0)  | Александр Инкин |   |
 | [Sagas vs thunks](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ykohtx7t2yQ)  | Олег Хлевнов |   |
-## MoscowJS 44 - Feb 21 
+## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - Mar 02 
 | | | |
 | --- | :---: | --- |
-| [Обзор форматов сжатия протокольного уровня в http.](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;1749)  | Михаил Бусырев | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1bw0ypsrdyC2l35Z-h65D09ABQDSZ_Ecfp02-zE6Fmqc&#x2F;edit#slide&#x3D;id.p)  |
-| [Бойлерплейтинг в Авито](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;211)  | Денис Колесников | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;MK5g&#x2F;nL6KGV88Q)  |
-| [Acceptance testing и BDD с помощью Cucumber](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;4548)  | Андрей Михайлов | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;andreymikhaylov-lolmaus&#x2F;bdd-cucumber-moscowjs&#x2F;#&#x2F;)  |
+| Мутационное тестирование  | ? | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;mutation-testing.pdf)  |
+| Внедрение зависимостей в веб-компонентах  | Александр Волков | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;dependency-injection-via-dom_yjApk29.pdf)  |
 ## MinskJS 5 - Feb 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsKJHySf_D3Kfpbhx8FVNKLp)
 | | | |
 | --- | :---: | --- |
 | [The Art of NodeJS, или Как сделать что-то крутое, используя публичные данные](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;A0WqkePkw0c)  | Илья Запруцкий | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1m1KuxiOHufQmhkIR7Q6sCdWvIZVObQdd&#x2F;view)  |
 | [Профилирование JS: увидеть самое важное и не утонуть в море чисел](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rKtWxCYBFP4)  | Виктор Хомяков | [:notebook:](https:&#x2F;&#x2F;victor-homyakov.github.io&#x2F;profile-visualization&#x2F;)  |
 | [Зачем мы переписывали приложение на Elm и кто за это ответит](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;D-4D1f5gyXw)  | Виктор Русакович | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1FJabwf0jalNJMZEX6LiLn2RplkzAIb342VFTU5STogg&#x2F;edit)  |
+## MoscowJS 44 - Feb 21 
+| | | |
+| --- | :---: | --- |
+| [Обзор форматов сжатия протокольного уровня в http.](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;1749)  | Михаил Бусырев | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1bw0ypsrdyC2l35Z-h65D09ABQDSZ_Ecfp02-zE6Fmqc&#x2F;edit#slide&#x3D;id.p)  |
+| [Бойлерплейтинг в Авито](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;211)  | Денис Колесников | [:notebook:](https:&#x2F;&#x2F;cloud.mail.ru&#x2F;public&#x2F;MK5g&#x2F;nL6KGV88Q)  |
+| [Acceptance testing и BDD с помощью Cucumber](https:&#x2F;&#x2F;youtu.be&#x2F;ro6RlJnCWE0?t&#x3D;4548)  | Андрей Михайлов | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;andreymikhaylov-lolmaus&#x2F;bdd-cucumber-moscowjs&#x2F;#&#x2F;)  |
 ## The Rolling Scopes &amp; MobilePeople - Feb 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)
 | | | |
 | --- | :---: | --- |
