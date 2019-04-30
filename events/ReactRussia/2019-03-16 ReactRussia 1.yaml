@@ -1,0 +1,26 @@
+name: ReactRussia 1
+date: 2019-03-16
+videos: https://www.youtube.com/playlist?list=PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP
+talks:
+  - name: Путь фронтенда одноклассников от истоков до наших дней
+    speaker: Олег Коровин
+    video: https://www.youtube.com/watch?v=hcboJotsTsA&list=PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&index=2&t=0s
+    presentation: https://djmadcow.github.io/react-russia-meetup-1/assets/player/KeynoteDHTMLPlayer.html
+    lang: ru
+    tags:
+      - frontend
+  - name: Под капотом React Hooks
+    speaker: Дмитрий Злыгин
+    video: https://www.youtube.com/watch?v=3Ku62Nh1mhk&list=PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&index=2
+    presentation: https://www.slideshare.net/secret/o7TqRRUdbdezGa
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: Компоненты для компонентов
+    speaker: Елена Рашкован
+    video: https://www.youtube.com/watch?v=9fEBZfhoJd8&list=PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&index=3
+    presentation: https://github.com/alatielle/react-russia-meetup-talk
+    lang: ru
+    tags:
+      - frontend
