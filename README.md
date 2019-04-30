@@ -54,6 +54,11 @@
 | [Reactive Powered: RxJS with Angular Forms](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;angular-forms) [en] | Shmuela Jacobs |   |
 | [Solving behavioral complexity with FRP](https:&#x2F;&#x2F;fwdays.com&#x2F;en&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;solving-behavioral-complexity-with-frp)  | Oleksii Levzhynskyi |   |
 | [Hinting at a better web](https:&#x2F;&#x2F;fwdays.com&#x2F;event&#x2F;js-fwdays-2019&#x2F;review&#x2F;hinting-at-a-better-web) [en] | Christian Heilmann |   |
+## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - Mar 02 
+| | | |
+| --- | :---: | --- |
+| Мутационное тестирование  | ? | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;mutation-testing.pdf)  |
+| Внедрение зависимостей в веб-компонентах  | Александр Волков | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;dependency-injection-via-dom_yjApk29.pdf)  |
 ## JSNN 12 - Mar 02 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLY-gw0IiDtxpNTfxGt2Wn-8vQDzHTf4l1)
 | | | |
 | --- | :---: | --- |
@@ -62,11 +67,6 @@
 | [Что даёт нам Webpack: устройство бандла](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;9qPtwaq73c8)  | Андрей Синицын |   |
 | [Как делать крутые компоненты на Angular](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;7MFW2A-3HG0)  | Александр Инкин |   |
 | [Sagas vs thunks](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ykohtx7t2yQ)  | Олег Хлевнов |   |
-## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - Mar 02 
-| | | |
-| --- | :---: | --- |
-| Мутационное тестирование  | ? | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;mutation-testing.pdf)  |
-| Внедрение зависимостей в веб-компонентах  | Александр Волков | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;03&#x2F;04&#x2F;dependency-injection-via-dom_yjApk29.pdf)  |
 ## MoscowJS 44 - Feb 21 
 | | | |
 | --- | :---: | --- |
