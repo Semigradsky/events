@@ -1,7 +1,7 @@
 name: "Krasnodar Frontend: Meetup 3"
+videos: https://www.youtube.com/playlist?list=PL1irPRp3Ng9Z3WZpvK7lBZtYEzUvMAyLy
 link: 'https://krddevdays.timepad.ru/event/717194/'
 date: 2018-06-02
-videos: 'https://www.youtube.com/playlist?list=PL1irPRp3Ng9Z3WZpvK7lBZtYEzUvMAyLy'
 talks:
   - name: "Превозмогая Трудности"
     speaker: Андрей Морозов
@@ -10,22 +10,22 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "Алексей Родионов - Почему PWA и Web Components — будущее веба?"
-    speaker: ''
+  - name: "Почему PWA и Web Components — будущее веба?"
+    speaker: 'Алексей Родионов'
     video: https://youtu.be/Z0JkVGDVQ2k
     presentation: https://docs.google.com/presentation/d/1VY1z-y1YlHf_1LitS38oar57eboDbbbU1K1EqypkfNg/edit#slide=id.p
     lang: ru
     tags:
       - frontend
-  - name: "Владимир Федоренко - Не Redux-ом единым. Пробуем TypeR"
-    speaker: ''
+  - name: "Не Redux-ом единым. Пробуем TypeR"
+    speaker: 'Владимир Федоренко'
     video: https://youtu.be/pCNYbcLui-U
     presentation: https://docviewer.yandex.ru/view/0/?*=94u6sH%2F%2BwAVY9xkOaNKNRXG2Mz57InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkNXNYbnNMbmZMaW0vWk95L3FoOEpiUVVOUFArL0ZKdmF2WkJubGJRWVNaVXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiMy4g0JLQu9Cw0LTQuNC80LjRgCDQpNC10LTQvtGA0LXQvdC60L4gLSDQndC1IFJlZHV4LdC%2B0Lwg0LXQtNC40L3Ri9C8LiDQn9GA0L7QsdGD0LXQvCBUeXBlUi5wZGYiLCJ1aWQiOiIwIiwieXUiOiI0NDcyMDU0MzgxNTMxMjE1NjU0Iiwibm9pZnJhbWUiOmZhbHNlLCJ0cyI6MTUzMTIxNTkxMDk5Nn0%3D
     lang: ru
     tags:
       - frontend
-  - name: "Евгений Симоненко - Elm, как язык разработки веб-интерфейсов"
-    speaker: ''
+  - name: "Elm, как язык разработки веб-интерфейсов"
+    speaker: 'Евгений Симоненко'
     video: https://youtu.be/pOZlQbuRZ18
     presentation: https://docviewer.yandex.ru/view/0/?*=GHJshKpOV%2FCvFXRBhmki7wEr7hl7InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkNWRIaWF6Zm5CVjVhQWdNM0szdzdyQVNRalI3U0szOC9uY21NRXAydU1XNnEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiNC4g0JXQstCz0LXQvdC40Lkg0KHQuNC80L7QvdC10L3QutC%2BIC0gRWxtLCDQutCw0Log0Y%2FQt9GL0Log0YDQsNC30YDQsNCx0L7RgtC60Lgg0LLQtdCxLdC40L3RgtC10YDRhNC10LnRgdC%2B0LIucGRmIiwidWlkIjoiMCIsInl1IjoiNDQ3MjA1NDM4MTUzMTIxNTY1NCIsIm5vaWZyYW1lIjpmYWxzZSwidHMiOjE1MzEyMTU5NjE2NjR9
     lang: ru

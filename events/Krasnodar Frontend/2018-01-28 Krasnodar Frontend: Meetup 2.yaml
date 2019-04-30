@@ -1,4 +1,5 @@
 name: "Krasnodar Frontend: Meetup 2"
+videos: https://www.youtube.com/playlist?list=PL1irPRp3Ng9bQei9ohczfBOis6yFgyKT_
 link: 'https://krddevdays.timepad.ru/event/634499/'
 date: 2018-01-28
 talks:
@@ -8,6 +9,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'testing'
   - name: "Великий Gatsby"
     speaker: Даниил Колесник
     video: https://youtu.be/SYdY5ITp9UM
@@ -22,6 +24,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - mobile
   - name: "Курс на веб-компоненты"
     speaker: Антон Старикович
     video: https://youtu.be/mk4SPLLYGlM
