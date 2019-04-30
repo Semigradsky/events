@@ -1,0 +1,23 @@
+name: WebAssembly Moscow 1
+date: 2019-05-16
+talks:
+  - name: WebAssembly введение
+    speaker: Илья Черторыльский
+    lang: ru
+    tags:
+      - frontend
+  - name: Обзор бандлеров в JS
+    speaker: Алексей Краснобаев
+    lang: ru
+    tags:
+      - frontend
+  - name: Rust и WebAssembly
+    speaker: Алексей Краснобаев, Илья Барышников
+    lang: ru
+    tags:
+      - frontend
+  - name: Быстрые, детерминированные и верифицируемые вычисления на WebAssembly
+    speaker: Михаил Воронов
+    lang: ru
+    tags:
+      - frontend
