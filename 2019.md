@@ -31,6 +31,14 @@
 | Стейт менеджмент для ленивых  | Aliaksandr Famchankou |   |
 | Оптимизации в web  | Mikhail Dziarkach |   |
 | JS Machine Talk  | Yury Tatarynovich,Katsiaryna Sivakova |   |
+## KyivJS 22 - Mar 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn)
+| | | |
+| --- | :---: | --- |
+| [Mrr: Make React Reactive](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;9Mv83tUvbxk&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;2&amp;t&#x3D;0s) [uk] | Микола Олексієнко | [:notebook:](http:&#x2F;&#x2F;bit.ly&#x2F;2WzMzbH)  |
+| [Трогательный интерфейс](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;9fg7yfUf9Kc&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;2)  | Алексей Распопов | [:notebook:](https:&#x2F;&#x2F;alexeyraspopov.github.io&#x2F;touchy-things&#x2F;)  |
+| [Animation in the Air](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Wqn_kmMpCGc&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;3) [uk] | Христина Ландвитович | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;cristinalandvytovych&#x2F;animation&#x2F;#&#x2F;)  |
+| [Code Ownership](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ICZsVKgbMe8&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;4)  | Станислав Слесарев | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL&#x2F;view)  |
+| [Using WebStorm like a pro](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dxSQQufii3s&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;5)  | Максим Донченко |   |
 ## JavaScript fwdays&#39;19 - Mar 16 
 | | | |
 | --- | :---: | --- |
@@ -90,6 +98,14 @@
 | [The better REST для разработки сложных Веб-приложений](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;54iOZH6Fxig)  | Яссин Зарир | [:notebook:](https:&#x2F;&#x2F;www.mera.ru&#x2F;media&#x2F;attachments&#x2F;2019&#x2F;02&#x2F;18&#x2F;graphql-the-better-rest_yBfz9kB.pdf)  |
 | [Подходы построения GraphQL-сервера в NodeJS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;bZ4Rwz7Dsgk)  | Павел Черторогов | [:notebook:](https:&#x2F;&#x2F;nodkz.github.io&#x2F;conf-talks&#x2F;talks&#x2F;2019.02.16-mera-nizhniy-novgorod&#x2F;index.html#&#x2F;5)  |
 | [GraphQL — новый Redux](https:&#x2F;&#x2F;youtu.be&#x2F;lDIb5DIPcGg)  | Алексей Золотых | [:notebook:](https:&#x2F;&#x2F;zolotyh.github.io&#x2F;graphql-meetup&#x2F;#&#x2F;)  |
+## KyivJS 21 - Feb 07 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60riQwoR-WpcUuSqRVeGeSny)
+| | | |
+| --- | :---: | --- |
+| [Making Vue app reactive with RxJS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Ny1_s9OHg1M)  | Natalia Tepluhina | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;superdiana&#x2F;making-your-vue-app-reactive-with-rxjs#&#x2F;)  |
+| [Yet another JSON RPC library?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;84Y5n32tX5E)  | Viktor Turskyi | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1bvlsG5nBEVwMGm7rBh4zmfrGDLUIjpv_t4rxFS2_uMw&#x2F;edit)  |
+| [Building quick apps in 2019](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;kNpBcA5GrcU)  | Ivan Akulov | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U&#x2F;edit)  |
+| [npm explore npm](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;RRAQXLaBCEk)  | Anton Verinov | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk&#x2F;view)  |
+| [Эстимирование](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;xu7cBk-STx4)  | Gregory Shehet | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1F-5hei901Z8m26F53gigWlkbjTdgejP7&#x2F;view)  |
 ## The Rolling Scopes &amp; {Minsk} JSON - Feb 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;gdpMFxWDwJg)
 | | | |
 | --- | :---: | --- |
