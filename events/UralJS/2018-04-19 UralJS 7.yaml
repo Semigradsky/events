@@ -17,6 +17,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - mobile
   - name: "Улучшение навигации в SPA"
     speaker: Вячеслав Бухарин
     video: https://youtu.be/Ip1C4rcfdi0

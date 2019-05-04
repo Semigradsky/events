@@ -1,0 +1,25 @@
+name: UralJS 4
+date: 2017-07-02
+videos: https://www.youtube.com/playlist?list=PLVxsRDo37_ZfbNk4jDu5eXJINyLCWiXmE
+talks:
+  - name: HTTP/2
+    speaker: Яна Клементьева
+    video: https://www.youtube.com/watch?v=wGcS9GokCXA
+    presentation: https://docs.google.com/presentation/d/1D-rCIKVMApaP3j27p6B4KIvsCDKpsVsIHX_T7dhWm1k/edit
+    lang: ru
+    tags:
+      - frontend
+  - name: Three.js
+    speaker: Роман Бебнев
+    video: https://www.youtube.com/watch?v=NuMPWmS9P6Y
+    presentation: http://slides.com/romanbebnev/deck/fullscreen#/
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS in JS
+    speaker: Владимир Толстиков
+    video: https://www.youtube.com/watch?v=5HI7g3k0Ues
+    presentation: https://original001.github.io/reveal.js/
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,27 @@
+name: UralJS 1
+date: 2016-12-14
+videos: https://www.youtube.com/playlist?list=PLVxsRDo37_Zc42OJkyeKzqxR6gda70B0C
+talks:
+  - name: Firebase. Back-end не нужен!
+    speaker: Павел Егоров
+    video: https://www.youtube.com/watch?v=tVO_kdKMufo
+    code: https://github.com/xoposhiy/firebase-course
+    lang: ru
+    tags:
+      - frontend
+  - name: Observable в JavaScript?
+    speaker: Теймураз Хазамов
+    video: https://www.youtube.com/watch?v=-Nx7EdE6qaI
+    presentation: http://slides.com/t1mmaas/observable/
+    lang: ru
+    tags:
+      - frontend
+  - name: Тестирование реакт-компонент с enzyme
+    speaker: Евгений Тихонов
+    video: https://www.youtube.com/watch?v=w1AGie9yHsg&list=PLVxsRDo37_Zc42OJkyeKzqxR6gda70B0C&index=3
+    presentation: https://yadi.sk/d/NaFX7Fg8342VT9
+    lang: ru
+    tags:
+      - frontend
+      - 'testing'
+      - 'React'

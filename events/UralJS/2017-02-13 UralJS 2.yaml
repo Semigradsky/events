@@ -1,0 +1,25 @@
+name: UralJS 2
+date: 2017-02-13
+videos: https://www.youtube.com/playlist?list=PLVxsRDo37_ZfqxewKTTSYwpeUarJMmIql
+talks:
+  - name: Иван Соснин
+    speaker: Управление армией сайд-эффектов
+    video: https://www.youtube.com/watch?v=UFr7eA7Hx0Y&index=1
+    presentation: http://slides.com/vansosnin/saga/
+    lang: ru
+    tags:
+      - frontend
+  - name: ouchDB
+    speaker: Василий Михайловский
+    video: https://www.youtube.com/watch?v=NoGq1V1DYc4&index=2
+    presentation: https://pouchdb.ru/2017-02/
+    lang: ru
+    tags:
+      - frontend
+  - name: Валерий Кузьмин
+    speaker: Обойдемся без бэкэнда
+    video: https://www.youtube.com/watch?v=JrLv1UY2NLE&index=3
+    presentation: http://slides.com/malcoriel/sls-at-uraljs/
+    lang: ru
+    tags:
+      - frontend

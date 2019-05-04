@@ -17,3 +17,28 @@ talks:
     lang: ru
     tags:
       - frontend
+  - name: Генерация PDF на клиенте
+    speaker: Виктория Уварова
+    video: https://www.youtube.com/watch?v=IXqtFa8atE4
+    lang: ru
+    tags:
+      - frontend
+  - name: React + Формы
+    speaker: Евгений Тихонов
+    video: https://www.youtube.com/watch?v=IXqtFa8atE4
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: Микросервисный фронтенд
+    speaker: Владимир Санников
+    video: https://www.youtube.com/watch?v=IXqtFa8atE4
+    lang: ru
+    tags:
+      - frontend
+  - name: Не залипайте в единственной технологии!
+    speaker: Дмитрий Поляков
+    video: https://www.youtube.com/watch?v=IXqtFa8atE4
+    lang: ru
+    tags:
+      - frontend

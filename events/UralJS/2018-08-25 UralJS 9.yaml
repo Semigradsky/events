@@ -1,0 +1,17 @@
+name: UralJS 9
+date: 2018-08-25
+videos: https://www.youtube.com/playlist?list=PLVxsRDo37_ZfCErKzKrSk3TBc_YSDlhEA
+talks:
+  - name: Click the button. The hard way
+    speaker: Дима Лазарев
+    video: https://www.youtube.com/watch?v=q0jW1ljHjXM
+    lang: ru
+    tags:
+      - frontend
+      - 'testing'
+  - name: Логирование ошибок на фронтенде
+    speaker: Антон Конев
+    video: https://www.youtube.com/watch?v=z8Ywk-KLGHA
+    lang: ru
+    tags:
+      - frontend
