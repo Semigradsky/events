@@ -1,0 +1,53 @@
+name: DUMP2017
+date: 2017-04-14
+videos: 'https://www.youtube.com/playlist?list=PLRdS-n5seLRqoENxUsxmPbUxrFpk5JBmc'
+talks:
+  - name: Документация REST API
+    speaker: Кузвесов Артём
+    video: https://www.youtube.com/watch?v=zXipJqeetHM
+    lang: ru
+    tags:
+      - frontend
+  - name: Как мы в Точке переезжаем...
+    speaker: Ярослав Лызлов
+    video: https://www.youtube.com/watch?v=FQAiyoge6zQ
+    presentation: 'https://www.slideshare.net/it-people/ss-75226582'
+    lang: ru
+    tags:
+      - frontend
+  - name: Vue.js как реакт с человеческим лицом
+    speaker: Вольдэмар Дулецкий
+    video: https://www.youtube.com/watch?v=tH9RiU01Jso
+    lang: ru
+    tags:
+      - frontend
+  - name: Клиенту и серверу нужно поговорить
+    speaker: Никита Прокопов
+    video: https://www.youtube.com/watch?v=m-siXL-mbbE
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Кошелёк или деньги: сложный выбор между памятью и процессором'
+    speaker: Игорь Алексеенко
+    video: https://www.youtube.com/watch?v=9BAPAF85UPI
+    lang: ru
+    tags:
+      - frontend
+  - name: Жизнь без интернета
+    speaker: Артём Кувалдин
+    video: https://www.youtube.com/watch?v=nT5zlWnVOI4
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Зависимости в компонентном вебе, приготовленные правильно'
+    speaker: Владимир Гриненко
+    video: https://www.youtube.com/watch?v=uXZfcfVlRso
+    lang: ru
+    tags:
+      - frontend
+  - name: Портирование Web SDK c JS на TS
+    speaker: Григорий Петров
+    video: https://www.youtube.com/watch?v=p2SRPi0sqxA
+    lang: ru
+    tags:
+      - frontend
