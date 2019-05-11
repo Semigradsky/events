@@ -1,0 +1,46 @@
+name: SPA Meetup 3
+date: 2017-04-08
+link: https://habr.com/ru/company/avito/blog/326524/z
+videos: https://www.youtube.com/playlist?list=PLknJ4Vr6efQHl50Q_aHQ9RCRdRf5a3NrP
+talks:
+  - name: Дизайн платформа в Avito
+    speaker: Александр Лобашев
+    video: https://www.youtube.com/watch?v=7vY3_vPipW8
+    presentation: https://www.slideshare.net/AvitoTech/avito-avito-74806390
+    lang: ru
+    tags:
+      - frontend
+  - name: Работаем с API по-взрослому
+    speaker: Максим Кислов
+    video: https://www.youtube.com/watch?v=ErhWb-iTRmc
+    presentation: https://www.slideshare.net/AvitoTech/api-badoo
+    lang: ru
+    tags:
+      - frontend
+  - name: Rempl — крутая платформа для крутых инструментов
+    speaker: Роман Дворнов
+    video: https://www.youtube.com/watch?v=n0u0u_jkBeI
+    presentation: https://www.slideshare.net/AvitoTech/rempl-74801074
+    lang: ru
+    tags:
+      - frontend
+  - name: Стабы для фронтенда
+    speaker: Никита Мостовой
+    video: https://www.youtube.com/watch?v=hqAqckBOSs0
+    presentation: https://www.slideshare.net/AvitoTech/headhunter-74807337
+    lang: ru
+    tags:
+      - frontend
+  - name: Серверная валидация сложных форм и ее синхронизация с фронтендом на примере Ajv
+    speaker: Александр Сафт
+    video: https://www.youtube.com/watch?v=Wg9jFQ8F7go
+    presentation: https://www.slideshare.net/AvitoTech/ajv-zeeng
+    lang: ru
+    tags:
+      - frontend
+  - name: Дискуссия - Организация системы компонент
+    speaker: Роман Дворнов, Александр Лобашев, Константин Лебедев, Денис Иогансен, Алексей Охрименко, Анастасия Горячева, Александр Майоров
+    video: https://www.youtube.com/watch?v=h23HbKaUbaU
+    lang: ru
+    tags:
+      - frontend

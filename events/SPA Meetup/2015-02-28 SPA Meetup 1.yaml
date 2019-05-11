@@ -1,0 +1,32 @@
+name: SPA Meetup 1
+date: 2015-02-28
+videos: https://www.youtube.com/playlist?list=PLf0s9ihTnfHyqwRK5nIv5FUsp5jbur0F-
+talks:
+  - name: Стоимость SPA-процедур
+    speaker: Алексей Андросов
+    video: http://www.youtube.com/watch?v=ZunqN5oR_-w
+    presentation: http://doochik.github.io/talk-moscow-spa-280215/
+    lang: ru
+    tags:
+      - frontend
+  - name: SPAсем мобильный веб!
+    speaker: Иван Чашкин
+    video: http://www.youtube.com/watch?v=09gkGSYk304
+    presentation: http://chashkin.com/meetups/moscowspa/
+    lang: ru
+    tags:
+      - frontend
+  - name: SPA инструменты
+    speaker: Роман Дворнов
+    video: http://www.youtube.com/watch?v=IUtbbN9aevU
+    presentation: http://www.slideshare.net/basisjs/spa-45289195
+    lang: ru
+    tags:
+      - frontend
+  - name: Как не проSPAть миграцию данных?
+    speaker: Михаил Башкиров
+    video: http://www.youtube.com/watch?v=gJyuSivqNxo
+    presentation: http://bashmish.com/pres/spa-migrations/
+    lang: ru
+    tags:
+      - frontend

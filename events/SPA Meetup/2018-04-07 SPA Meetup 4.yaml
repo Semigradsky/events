@@ -1,6 +1,7 @@
 name: "SPA Meetup 4"
-link: 'https://moscow-spa.timepad.ru/event/692653/'
 date: 2018-04-07
+link: https://habr.com/ru/company/avito/blog/354192/
+videos: https://www.youtube.com/playlist?list=PLknJ4Vr6efQFtZmsXmGG64Rz_PHrcXCBL
 talks:
   - name: "Архитектура фронтенда крупного проекта, как она есть"
     speaker: Константин Лебедев

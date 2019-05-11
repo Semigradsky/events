@@ -1,0 +1,39 @@
+name: SPA Meetup 2
+date: 2016-04-23
+videos: https://www.youtube.com/playlist?list=PLknJ4Vr6efQF_GMmm2Hl_EBW3sDkXvJ0m
+talks:
+  - name: Упрощаем «жизнь» в большом проекте
+    speaker: Константин Лебедев
+    video: https://youtu.be/bUf7d3z9da4
+    presentation: https://github.com/lahmatiy/moscow-spa-meetup-2/raw/master/pdf/make-life-easy.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: МРТ для данных
+    speaker: Анастасия Горячева
+    video: https://youtu.be/1QtPtvi72SI
+    presentation: https://github.com/lahmatiy/moscow-spa-meetup-2/raw/master/pdf/mri-for-data.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Чему можно научиться у Dart: переносим подходы из Dart и Angular2 в SPA на JavaScript"
+    speaker: Алексей Золотых
+    video: https://youtu.be/_hVeT_zFXXU
+    presentation: http://zolotyh.github.io/spa-pres/
+    lang: ru
+    tags:
+      - frontend
+  - name: Изоморфность без прикрас, или серверный рендеринг без Node.js
+    speaker: Александр Зубов
+    video: https://youtu.be/7Py5PKXsacU
+    presentation: https://github.com/lahmatiy/moscow-spa-meetup-2/raw/master/pdf/server-side-rendering.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: CSSO — сжимаем CSS
+    speaker: Роман Дворнов
+    video: https://youtu.be/WcuwRJhB9C4
+    presentation: https://github.com/lahmatiy/moscow-spa-meetup-2/raw/master/pdf/csso2.pdf
+    lang: ru
+    tags:
+      - frontend
