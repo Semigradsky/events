@@ -1,5 +1,4 @@
-name: "SamaraJS 4"
-link: 'https://vk.com/wall-162418457_9'
+name: SamaraJS 4
 date: 2018-03-02
 talks:
   - name: "Web Accessibility"
@@ -9,6 +8,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'accessibility'
   - name: "Cerebral - декларативное управление состоянием приложения"
     speaker: Алексей Гурьянов
     video: https://youtu.be/BGF3waLMt_w
@@ -19,7 +19,9 @@ talks:
   - name: "Современные Big Data и Machine Learning для чайников."
     speaker: Владимир Малик
     video: https://youtu.be/DKc2lhbXzZg
-    presentation: https://vk.com/doc3150028_460615454?hash=ae2cc2c06905583121&dl=b90cabf4b35409b412), [:notebook:](https://vk.com/doc3150028_460615427?hash=942bc1f31c99063fb3&dl=edfbdcc459995103f0
+    presentation:
+      - https://vk.com/doc3150028_460615454?hash=ae2cc2c06905583121&dl=b90cabf4b35409b412
+      - https://vk.com/doc3150028_460615427?hash=942bc1f31c99063fb3&dl=edfbdcc459995103f0
     lang: ru
     tags:
       - frontend

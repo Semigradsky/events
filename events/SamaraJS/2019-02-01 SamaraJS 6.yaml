@@ -1,0 +1,31 @@
+name: SamaraJS 6
+date: 2019-02-01
+videos: https://www.youtube.com/playlist?list=PL2Zizi6hGuLk9b7GMujGinU2eWoP-zwGP
+talks:
+  - name: Оптимизация потребления памяти - node.js на диете
+    speaker: Антон Усков
+    video: https://www.youtube.com/watch?v=aciQ5zhxJiU
+    lang: ru
+    tags:
+      - frontend
+      - 'Node.js'
+  - name: Автоматизация отдела разработки
+    speaker: Александр Субботин
+    video: https://www.youtube.com/watch?v=-2VQoEv9zt4
+    lang: ru
+    tags:
+      - frontend
+  - name: Современные стартер-киты для React
+    speaker: Александр Горкунов
+    video: https://www.youtube.com/watch?v=BFzuYPNUkCA
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: Loopback 3 и 4
+    speaker: Николай Сладкий
+    video: https://www.youtube.com/watch?v=cAz_VeqJy78
+    lang: ru
+    tags:
+      - frontend
+      - 'Node.js'

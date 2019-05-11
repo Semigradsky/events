@@ -1,0 +1,22 @@
+name: SamaraJS 2
+date: 2015-08-21
+videos: https://www.youtube.com/playlist?list=PL2Zizi6hGuLn69YILHAZ_F6n2PjsqIxap
+talks:
+  - name: Современный фронтенд за 30 минут - webpack, react, jspm, gulp grunt blabla пыщ пыщ и все-все-все
+    speaker: Владимир Малик
+    video: https://www.youtube.com/watch?v=F6-6SjPJRZs
+    lang: ru
+    tags:
+      - frontend
+  - name: React + Redux или «редуцируй это»
+    speaker: Филипп Андрейчев
+    video: https://www.youtube.com/watch?v=X4OEFOaP46g
+    lang: ru
+    tags:
+      - frontend
+  - name: N простых способов  улучшить взаимодействие с пользователем
+    speaker: Александр Субботин
+    video: https://www.youtube.com/watch?v=IDgr3jJII3Q
+    lang: ru
+    tags:
+      - frontend

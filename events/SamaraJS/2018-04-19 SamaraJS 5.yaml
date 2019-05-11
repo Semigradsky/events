@@ -1,0 +1,18 @@
+name: SamaraJS 5
+date: 2018-04-19
+videos: https://www.youtube.com/playlist?list=PL2Zizi6hGuLkUueKdKcAyR1QBzCMcwyK5
+talks:
+  - name: Рациональный React Native
+    speaker: Дмитрий Комалов
+    video: https://www.youtube.com/watch?v=HZJxgf-30-E
+    lang: ru
+    tags:
+      - frontend
+      - mobile
+  - name: Обзор серверных фреймворков на Node.js
+    speaker: Антон Усков
+    video: https://www.youtube.com/watch?v=YzYuQMo89fQ
+    lang: ru
+    tags:
+      - frontend
+      - 'Node.js'
