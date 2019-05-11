@@ -1,0 +1,24 @@
+name: RND.JS 2
+date: 2017-01-06
+videos: https://youtu.be/fLX4-Ys9avw
+talks:
+  - name: Ложка дёгтя в бандле вебпака
+    speaker: Антон Хлыновский
+    video: https://youtu.be/fLX4-Ys9avw?t=1393
+    presentation: https://speakerdeck.com/subzey/lozhka-dioghtia-v-bandlie-viebpaka
+    lang: ru
+    tags:
+      - frontend
+  - name: Грязные анимации в мире состояний
+    speaker: Алексей Тактаров
+    video: https://youtu.be/fLX4-Ys9avw?t=2764
+    presentation: https://molefrog.github.io/stateful-animations/
+    lang: ru
+    tags:
+      - frontend
+  - name: "Старые брюки, новые пятна: каким будет фронтенд в 2017"
+    speaker: Виктор Суздалев
+    video: https://youtu.be/fLX4-Ys9avw?t=4161
+    lang: ru
+    tags:
+      - frontend

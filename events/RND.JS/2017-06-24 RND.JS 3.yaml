@@ -1,0 +1,36 @@
+name: RND.JS 3
+date: 2017-06-24
+talks:
+  - name: Управляемые каскады в React-компонентах
+    speaker: Кирилл Агалаков
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: TDD with React/Redux
+    speaker: Максим Куличенко
+    presentation: https://vk.com/doc5938234_447502185?hash=e125e818d6315db385&dl=aa671f06897095a41a
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+      - 'testing'
+  - name: Styled-components в react. Стили, css modules, css-in-js и styled-components
+    speaker: Тигран Тумасов
+    presentation: https://vk.com/doc5938234_457315157?hash=f80f35b1b0c5112ab4&dl=3733fe2c985c3563f2
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: Определение устройства и его производительности в мобильном вебе
+    speaker: Денис Ильин
+    presentation: https://vk.com/doc5938234_447529846?hash=5dd823286936cb4ac9&dl=86d4ff4ce07df699e3
+    lang: ru
+    tags:
+      - frontend
+  - name: А у вас в фреймворке веб апи убежало
+    speaker: Виктор Суздалев
+    presentation: https://vk.com/doc5938234_447529815?hash=12eef949a79ddf1f55&dl=b09ecde868994d3b1f
+    lang: ru
+    tags:
+      - frontend
