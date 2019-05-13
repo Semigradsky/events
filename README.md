@@ -1,5 +1,18 @@
 # Events / 2019 / [2018](&#x2F;2018.md) / [2017](&#x2F;2017.md) / [2016](&#x2F;2016.md) / [2015](&#x2F;2015.md) / [2014](&#x2F;2014.md) / [2013](&#x2F;2013.md) / [2012](&#x2F;2012.md) / [2011](&#x2F;2011.md) / [2010](&#x2F;2010.md) / [2009](&#x2F;2009.md) 
 
+## PiterJS Tour 1 - Apr 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y)
+| | | |
+| --- | :---: | --- |
+| [Серверный рендеринг React](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y&amp;t&#x3D;1160s)  | Николай Говоров |   |
+| [Компонентный WebGL](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y&amp;t&#x3D;1210s)  | Евгений Кувшинов |   |
+| [Формальная и интуитивная семантика языка программирования на примерах JS и JSX](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y&amp;t&#x3D;1260s)  | Артём Арутюнян |   |
+## PiterJS 36 - Apr 18 [:movie_camera:](https:&#x2F;&#x2F;vk.com&#x2F;video-92250781_456239080?list&#x3D;4985960f459d92200a)
+| | | |
+| --- | :---: | --- |
+| Разработка плеера с помощью WebAudio  | Сергей Нестеров | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;36&#x2F;nesterov.pdf)  |
+| Фронтенд-фреймворки в legacy  | Александр Аваков | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;36&#x2F;avakov.pdf)  |
+| Интернационализация веб-приложений. Краткий путеводитель по граблям  | Алексей Остапенко | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;36&#x2F;ostapenko.pdf)  |
+| Как мы повышали производительность Angular приложения  | Виктор Талецкий | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;36&#x2F;taletskii.pdf)  |
 ## WSD 2019 - Москва - Apr 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;r4txCvuHFPc)
 | | | |
 | --- | :---: | --- |
@@ -39,6 +52,12 @@
 | [Animation in the Air](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Wqn_kmMpCGc&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;3) [uk] | Христина Ландвитович | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;cristinalandvytovych&#x2F;animation&#x2F;#&#x2F;)  |
 | [Code Ownership](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ICZsVKgbMe8&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;4)  | Станислав Слесарев | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL&#x2F;view)  |
 | [Using WebStorm like a pro](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dxSQQufii3s&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;5)  | Максим Донченко |   |
+## PiterJS 35 - Mar 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLcXJ90eZ2bxjhlxyVblc2OI7V9resbLf-)
+| | | |
+| --- | :---: | --- |
+| [Выгорание волонтеров: что это такое, почему происходит и как с этим работать](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;jX91TiPihv0)  | Любовь Гулько | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;35&#x2F;gulko.pdf)  |
+| [Психология для айтишников: про выгорание и заботу о себе](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;qXX1iw74jfE)  | Дима Семьюшкин | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;35&#x2F;semyushkin.pdf)  |
+| [Будете гореть — горите](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Jnm_BJVxz7E)  | Евгений Кот | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;35&#x2F;kot.pdf)  |
 ## ReactRussia 1 - Mar 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP)
 | | | |
 | --- | :---: | --- |
@@ -70,6 +89,13 @@
 | [The Art of NodeJS, или Как сделать что-то крутое, используя публичные данные](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;A0WqkePkw0c)  | Илья Запруцкий | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1m1KuxiOHufQmhkIR7Q6sCdWvIZVObQdd&#x2F;view)  |
 | [Профилирование JS: увидеть самое важное и не утонуть в море чисел](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rKtWxCYBFP4)  | Виктор Хомяков | [:notebook:](https:&#x2F;&#x2F;victor-homyakov.github.io&#x2F;profile-visualization&#x2F;)  |
 | [Зачем мы переписывали приложение на Elm и кто за это ответит](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;D-4D1f5gyXw)  | Виктор Русакович | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1FJabwf0jalNJMZEX6LiLn2RplkzAIb342VFTU5STogg&#x2F;edit)  |
+## PiterJS 34 - Feb 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLcXJ90eZ2bxjvV7aroPWHwwULFVD_EiXb)
+| | | |
+| --- | :---: | --- |
+| [Стабильно работающий код](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;sy3PfCEwbT4)  | Светлана Авдей | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;34&#x2F;avdey.pdf)  |
+| [Скажи ревьюеру “Нет!”](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;FV5xeLwYLNM)  | Павел Герасимов | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;34&#x2F;gerasimov.pdf)  |
+| [Гатсби — больше чем генератор сайтов](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;BkliE5w5wnw)  | Михаил Новиков | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;34&#x2F;novikov.pdf)  |
+| [Пиратское радио на NodeJS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ubMGsDHDshI)  | Григорий Горшков | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;34&#x2F;gorshkov.pdf)  |
 ## The Rolling Scopes &amp; MobilePeople - Feb 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)
 | | | |
 | --- | :---: | --- |
@@ -102,3 +128,8 @@
 | [Автоматизация отдела разработки](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;-2VQoEv9zt4)  | Александр Субботин |   |
 | [Современные стартер-киты для React](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;BFzuYPNUkCA)  | Александр Горкунов |   |
 | [Loopback 3 и 4](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;cAz_VeqJy78)  | Николай Сладкий |   |
+## PiterJS 33 - Jan 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLcXJ90eZ2bxi02k9te0ycVyRqNvySzJxh)
+| | | |
+| --- | :---: | --- |
+| [Анализ уязвимостей форм для аутентификации](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Zfdy5VHfGZk)  | Вадим Горбачев | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;33&#x2F;gorbachev.pdf)  |
+| Разработка компилятора на LLVM#2 — StaticScript  | Дмитрий Пацура | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;33&#x2F;patsura.pdf)  |
