@@ -29,6 +29,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: Тестируем пользовательские сценарии вместе с Гермионой
     speaker: Николай Ильченко
     video: https://www.youtube.com/watch?v=WRwP1BBRNNM

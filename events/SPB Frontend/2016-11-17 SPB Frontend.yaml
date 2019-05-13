@@ -8,15 +8,18 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: Angular 2
     speaker: Алексей Золотых
     presentation: 'https://zolotyh.github.io/frontendpres/'
     lang: ru
     tags:
       - frontend
+      - 'Angular'
   - name: EmderJS
     speaker: Артём Сущев
     presentation: 'https://vk.com/doc-133044904_439159465?dl=7cc2dbe0e00..'
     lang: ru
     tags:
       - frontend
+      -'Ember'

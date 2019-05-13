@@ -9,6 +9,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: Yet another JSON RPC library?
     speaker: Viktor Turskyi
     video: https://www.youtube.com/watch?v=84Y5n32tX5E

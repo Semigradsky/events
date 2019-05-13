@@ -9,6 +9,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: "Внедряем Vue.js в готовый проект, безболезненное избавление от jQuery."
     speaker: Alexander Mayorov
     video: https://youtu.be/h9NQs0SEVoA?t=40m11s
@@ -16,6 +17,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: "Простое и понятное управление состоянием во vue.js"
     speaker: Александр Сафт
     video: https://youtu.be/h9NQs0SEVoA?t=1h34m7s
@@ -23,6 +25,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: "Опыт использования Nuxt.js"
     speaker: Григорий Петров
     video: https://youtu.be/h9NQs0SEVoA?t=1h57m3s
@@ -30,3 +33,4 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'

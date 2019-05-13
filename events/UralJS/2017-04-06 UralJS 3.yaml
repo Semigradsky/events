@@ -23,6 +23,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: Открытый микрофон
     speaker: '?'
     video: https://www.youtube.com/watch?v=0JOsoNzi6KY&list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1&index=4

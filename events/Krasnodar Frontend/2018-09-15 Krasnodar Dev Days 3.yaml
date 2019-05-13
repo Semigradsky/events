@@ -62,6 +62,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: "Мониторинг: IT-инфраструктура на кончиках пальцев"
     speaker: Данил Герун
     video: https://www.youtube.com/watch?v=2HWMyDPrpVw

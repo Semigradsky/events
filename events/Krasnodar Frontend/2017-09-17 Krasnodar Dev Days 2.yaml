@@ -8,6 +8,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: Построение высокопроизводительного отказоустойчивого хранилища для Big Data и Stateful сервисов
     speaker: Евгений Хашин
     video: https://www.youtube.com/watch?v=E97l7qUy35M

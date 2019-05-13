@@ -21,6 +21,7 @@ talks:
     lang: ru
     tags:
       - frontend
+      - 'Vue.js'
   - name: Клиенту и серверу нужно поговорить
     speaker: Никита Прокопов
     video: https://www.youtube.com/watch?v=m-siXL-mbbE
