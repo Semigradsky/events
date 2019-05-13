@@ -1,0 +1,28 @@
+name: PiterJS 9
+date: 2016-09-22
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxiapdvD308XJmKyRXdo-U0t'
+talks:
+  - name: 'External Processes, Approaches & Hacks'
+    speaker: Алексей Соболев
+    video: 'https://www.youtube.com/watch?v=EXswvVd3nQY'
+    lang: ru
+    tags:
+      - frontend
+  - name: Безопасность FrontEnd
+    speaker: Вадим Горбачев
+    video: 'https://www.youtube.com/watch?v=kKoZIjdjd7o'
+    lang: ru
+    tags:
+      - frontend
+  - name: Принципы работы с билдами
+    speaker: Максим Гребенщиков
+    video: 'https://www.youtube.com/watch?v=B3f_nwf7okE'
+    lang: ru
+    tags:
+      - frontend
+  - name: Книжка про ES6
+    speaker: Михаил Баранов
+    video: 'https://www.youtube.com/watch?v=WiEKgvbkm1Q'
+    lang: ru
+    tags:
+      - frontend

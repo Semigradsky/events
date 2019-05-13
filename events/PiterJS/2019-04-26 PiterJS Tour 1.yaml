@@ -1,0 +1,22 @@
+name: PiterJS Tour 1
+date: 2019-04-26
+videos: 'https://www.youtube.com/watch?v=MueYSY2ZO4Y'
+talks:
+  - name: Серверный рендеринг React
+    speaker: Николай Говоров
+    video: 'https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1160s'
+    lang: ru
+    tags:
+      - frontend
+  - name: Компонентный WebGL
+    speaker: Евгений Кувшинов
+    video: 'https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1210s'
+    lang: ru
+    tags:
+      - frontend
+  - name: Формальная и интуитивная семантика языка программирования на примерах JS и JSX
+    speaker: Артём Арутюнян
+    video: 'https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1260s'
+    lang: ru
+    tags:
+      - frontend

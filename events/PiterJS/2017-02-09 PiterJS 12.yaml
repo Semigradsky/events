@@ -1,0 +1,18 @@
+name: PiterJS 12
+date: 2017-02-09
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxivzOLgC98hYjyCYDFghxzU'
+talks:
+  - name: 'Один код для сборки под web, iOS и Android'
+    speaker: Артем Марченко
+    video: 'https://www.youtube.com/watch?v=i6AhrTVQbkc'
+    lang: ru
+    tags:
+      - frontend
+      - mobile
+  - name: В релиз с React Native
+    speaker: Андрей Складчиков
+    video: 'https://www.youtube.com/watch?v=gJo75CDCGNk'
+    lang: ru
+    tags:
+      - frontend
+      - mobile

@@ -1,0 +1,22 @@
+name: PiterJS 7 (IT Global Meetup 7)
+date: 2016-04-02
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjzjHpANVCkZCKTJlMP54zN'
+talks:
+  - name: Из прототипа в production
+    speaker: Борисов Алексей
+    video: 'https://www.youtube.com/watch?v=nFOdadRRqZs'
+    lang: ru
+    tags:
+      - frontend
+  - name: Реактивное функциональное программирование
+    speaker: Кирилл Сухомлин
+    video: 'https://www.youtube.com/watch?v=ie6pVGSgInw'
+    lang: ru
+    tags:
+      - frontend
+  - name: WebGL на практике
+    speaker: Лис Games
+    video: 'https://www.youtube.com/watch?v=WyJXSd3q4w0'
+    lang: ru
+    tags:
+      - frontend

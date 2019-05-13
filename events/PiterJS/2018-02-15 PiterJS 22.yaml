@@ -16,3 +16,9 @@ talks:
     lang: ru
     tags:
       - frontend
+  - name: "ES2018?"
+    speaker: Mikhail Poluboyarinov
+    video: https://www.youtube.com/watch?v=R5_TkQWzTpc
+    lang: ru
+    tags:
+      - frontend

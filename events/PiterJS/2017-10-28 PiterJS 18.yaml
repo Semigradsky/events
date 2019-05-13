@@ -1,0 +1,25 @@
+name: PiterJS 18
+date: 2017-10-28
+videos: ''
+talks:
+  - name: Что посеешь, то и пожмешь или как уменьшить ваш javascript bundle
+    speaker: Алексей Золотых
+    video:
+    presentation: https://zolotyh.github.io/treeshaking
+    lang: ru
+    tags:
+      - frontend
+  - name: "$mol: мал да удал"
+    speaker: Дмитрий Карловский
+    video:
+    presentation: https://github.com/piterjs/piterjs.org/blob/master/events/18/%24mol.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: "Comedy: акторы для гибкого масштабирования NodeJS"
+    speaker: Виктор Исаев
+    video:
+    presentation: https://github.com/piterjs/piterjs.org/blob/master/events/18/comedy.pdf
+    lang: ru
+    tags:
+      - frontend

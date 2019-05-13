@@ -1,0 +1,25 @@
+name: PiterJS 17
+date: 2017-09-21
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjSUmyJXU1903fpDlKJStxW'
+talks:
+  - name: D3.js как инструмент визуализации данных
+    speaker: Никита Ульшин
+    video: 'https://www.youtube.com/watch?v=Sc3xvc7KhXY'
+    presentation: https://github.com/piterjs/piterjs.org/blob/master/events/17/Nikita_Ulshin.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Как создать браузерное расширение
+    speaker: Максим Ерехинский
+    video: 'https://www.youtube.com/watch?v=hkB2olVa6pE'
+    presentation: https://github.com/piterjs/piterjs.org/blob/master/events/17/Maxim_Erekhinskiy.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Практика использования Docker
+    speaker: Александр Чистяков
+    video: 'https://www.youtube.com/watch?v=QG6uUxfY2mE'
+    presentation: https://github.com/piterjs/piterjs.org/blob/master/events/17/Docker_for_JS_people.pdf
+    lang: ru
+    tags:
+      - frontend

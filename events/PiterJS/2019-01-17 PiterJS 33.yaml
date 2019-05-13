@@ -1,0 +1,18 @@
+name: PiterJS 33
+date: 2019-01-17
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxi02k9te0ycVyRqNvySzJxh'
+talks:
+  - name: Анализ уязвимостей форм для аутентификации
+    speaker: Вадим Горбачев
+    video: 'https://www.youtube.com/watch?v=Zfdy5VHfGZk'
+    presentation: https://fs.piterjs.org/events/33/gorbachev.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Разработка компилятора на LLVM#2 — StaticScript
+    speaker: Дмитрий Пацура
+    video:
+    presentation: https://fs.piterjs.org/events/33/patsura.pdf
+    lang: ru
+    tags:
+      - frontend

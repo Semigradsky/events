@@ -1,0 +1,25 @@
+name: PiterJS 14
+date: 2017-04-27
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxggKRhomjNwJ8Zftq8yR7nS'
+talks:
+  - name: Лайфхаки фронтэнд разработчика
+    speaker: Алексей Золотых
+    video: 'https://www.youtube.com/watch?v=thVZI3mUXUM'
+    presentation: https://zolotyh.github.io/27042017
+    lang: ru
+    tags:
+      - frontend
+  - name: JavaScript. Сложный путь изучения
+    speaker: Александр Баумгертнер
+    video: 'https://www.youtube.com/watch?v=2uWh7V70_d8'
+    presentation: https://easy-deep-learning.github.io/boost-your-javascript-knowledge-level/
+    lang: ru
+    tags:
+      - frontend
+  - name: V8 под капотом
+    speaker: Мелихов Андрей
+    video: 'https://www.youtube.com/watch?v=ol2BB1CLziI'
+    presentation: https://www.icloud.com/keynote/0mTVHs5cQdL3KOyaHbhWPygFg
+    lang: ru
+    tags:
+      - frontend

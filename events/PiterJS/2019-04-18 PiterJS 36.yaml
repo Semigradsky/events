@@ -1,0 +1,32 @@
+name: PiterJS 36
+date: 2019-04-18
+videos: 'https://vk.com/video-92250781_456239080?list=4985960f459d92200a'
+talks:
+  - name: Разработка плеера с помощью WebAudio
+    speaker: Сергей Нестеров
+    video:
+    presentation: https://fs.piterjs.org/events/36/nesterov.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Фронтенд-фреймворки в legacy
+    speaker: Александр Аваков
+    video:
+    presentation: https://fs.piterjs.org/events/36/avakov.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Интернационализация веб-приложений. Краткий путеводитель по граблям
+    speaker: Алексей Остапенко
+    video:
+    presentation: https://fs.piterjs.org/events/36/ostapenko.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Как мы повышали производительность Angular приложения
+    speaker: Виктор Талецкий
+    video:
+    presentation: https://fs.piterjs.org/events/36/taletskii.pdf
+    lang: ru
+    tags:
+      - frontend

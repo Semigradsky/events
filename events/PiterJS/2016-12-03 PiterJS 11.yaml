@@ -1,0 +1,23 @@
+name: PiterJS 11
+date: 2016-12-03
+videos: ''
+talks:
+  - name: 'React vs Angular 2: сравнение фреймворков без холивара'
+    speaker: Maxim Grebenshikov
+    presentation: http://amp.gs/zOvY
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+      - 'Angular'
+  - name: 'Просто о WebRTC: как сделать видеочат'
+    speaker: Arseny Vasilev
+    presentation: 'https://docs.google.com/presentation/d/1WkUjySEost61dtFwXEc8vRz_n8r1sfZ9wgWSWk3KuHk/edit#slide=id.gf976b20d0_1_20'
+    lang: ru
+    tags:
+      - frontend
+  - name: Обещание JavaScript = Promise HELL
+    speaker: Mikhail Poluboyarinov
+    lang: ru
+    tags:
+      - frontend

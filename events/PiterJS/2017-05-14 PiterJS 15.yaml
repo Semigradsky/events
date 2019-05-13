@@ -1,0 +1,28 @@
+name: PiterJS 15
+date: 2017-05-14
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxi4YKdy2Qy2tHGV1wungCXu'
+talks:
+  - name: WebRTC медиа сервер
+    speaker: Владислав Ватрушкин
+    video: 'https://www.youtube.com/watch?v=vlPH7UmbONM'
+    lang: ru
+    tags:
+      - frontend
+  - name: Практический опыт использования React Native + Redux
+    speaker: 'Станислав Краснояров '
+    video: 'https://www.youtube.com/watch?v=xvt87NAWcEw'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Node.js — прошлое, настоящее и будущее'
+    speaker: Мелихов Андрей
+    video: 'https://www.youtube.com/watch?v=m0Z7J4tUUvk'
+    lang: ru
+    tags:
+      - frontend
+  - name: Структура и интерпретация языка JavaScript
+    speaker: Александр Баумгертнер
+    video: 'https://www.youtube.com/watch?v=kqmW8PtObPo'
+    lang: ru
+    tags:
+      - frontend

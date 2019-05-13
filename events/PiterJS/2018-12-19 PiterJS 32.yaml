@@ -1,0 +1,18 @@
+name: PiterJS 32
+date: 2018-12-19
+videos: ''
+talks:
+  - name: "React Hooks: Bump or Sage"
+    speaker: Алексей Балканский
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Cache it right
+    speaker: Семен Целищев
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend

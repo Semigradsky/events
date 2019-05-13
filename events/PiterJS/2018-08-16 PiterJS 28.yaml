@@ -1,0 +1,25 @@
+name: PiterJS 28
+date: 2018-08-16
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxiQfgZfB-4Z135KJpX5vpFT'
+talks:
+  - name: Puppeteer SSR как способ отказаться от React и двигаться дальше
+    speaker: Антон Плешивцев
+    video: https://www.youtube.com/watch?v=bcNDItJjnmk
+    presentation: https://fs.piterjs.org/events/28/pleshivtsev.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Введение в доступность
+    speaker: Михаил Андриевский
+    video: 'https://www.youtube.com/watch?v=jzHW4zdirsY'
+    presentation: https://fs.piterjs.org/events/28/andrievskiy.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Применение Logux
+    speaker: Николай Говоров
+    video: 'https://www.youtube.com/watch?v=xbuxaQGRnpg'
+    presentation: https://fs.piterjs.org/events/28/govorov.pdf
+    lang: ru
+    tags:
+      - frontend

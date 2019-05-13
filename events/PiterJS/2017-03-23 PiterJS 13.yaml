@@ -1,0 +1,22 @@
+name: PiterJS 13
+date: 2017-03-23
+videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjjcTWmYP9xbpWaK1uiDQcw'
+talks:
+  - name: Нужен ли мне TypeScript?
+    speaker: Александр Баумгертнер
+    video: 'https://www.youtube.com/watch?v=0lu3WYLW4ps'
+    presentation: https://easy-deep-learning.github.io/types-sugar-in-javascript/
+    lang: ru
+    tags:
+      - frontend
+      - TypeScript
+  - name: Re-imagining webpack
+    speaker: Andrey Gurylev Juho Vepsäläinen
+    lang: '?'
+    tags:
+      - frontend
+  - name: Документация кода в JS
+    speaker: Вадим Горбачев
+    lang: ru
+    tags:
+      - frontend
