@@ -17,12 +17,20 @@ function toDateString(date) {
     return `${month} ${day}`
 }
 
+function getFirstDay(date) {
+    return Array.isArray(date) ? date[0]: date;
+}
+
 function formatTalk(talk) {
     return {
         ...talk,
         url: talk.video || talk.url,
         lang: talk.lang === 'ru' ? undefined : talk.lang,
     }
+}
+
+function sortEvents(events) {
+    return events.sort((a, b) => `${a.firstDay} ${a.name}` < `${b.firstDay} ${b.name}` ? 1 : -1)
 }
 
 async function generateMd(events) {
@@ -40,6 +48,7 @@ async function generateMd(events) {
         groupedByYears.set(year, [...groupedEvents, {
             ...event,
             talks: event.talks.map(formatTalk),
+            firstDay: getFirstDay(event.date).toISOString(),
             dateString: toDateString(event.date),
         }])
     }
@@ -50,7 +59,7 @@ async function generateMd(events) {
         const content = Mustache.render(pattern.toString(), {
             year,
             yearsLinks: allYears.map(y => ({ year: y, link: y !== year ? `/${y}.md` : undefined })),
-            events: groupedEvents,
+            events: sortEvents(groupedEvents),
         })
 
         groupedByYears.set(year, content)

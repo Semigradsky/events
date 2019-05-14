@@ -3,49 +3,49 @@ date: 2016-04-08
 videos: 'https://www.youtube.com/playlist?list=PLRdS-n5seLRoWZm8I5onZqU9m8HB_hg1S'
 talks:
   - name: БЭМ без bem-tools
-    speaker: Василий Айтипиплов
+    speaker: Владимир Гриненко
     video: https://www.youtube.com/watch?v=crw46fuxz38
     lang: ru
     tags:
       - frontend
   - name: Можно вообще всё. Раскладка по гриду
-    speaker: Василий Айтипиплов
+    speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=JoRVUILXLxU
     lang: ru
     tags:
       - frontend
   - name: Отладка кода в браузере
-    speaker: Василий Айтипиплов
+    speaker: Антон Шувалов
     video: https://www.youtube.com/watch?v=nPYmp586EE0
     lang: ru
     tags:
       - frontend
   - name: CSSO — сжимаем CSS
-    speaker: Василий Айтипиплов
+    speaker: Роман Дворнов
     video: https://www.youtube.com/watch?v=RQbvWRwreaQ
     lang: ru
     tags:
       - frontend
   - name: 'React-Native: одного JS мало'
-    speaker: Василий Айтипиплов
+    speaker: Алексей Андросов
     video: https://www.youtube.com/watch?v=0E9tFi3ekyc
     lang: ru
     tags:
       - frontend
   - name: 'Если у вас нету тестов, то...'
-    speaker: Василий Айтипиплов
+    speaker: Сергей Жигалов
     video: https://www.youtube.com/watch?v=L7FzfkVJJJc
     lang: ru
     tags:
       - frontend
   - name: 'Пишем код, тягаем штангу'
-    speaker: Василий Айтипиплов
+    speaker: Александр Завьялов
     video: https://www.youtube.com/watch?v=YiPN0A-y3xQ
     lang: ru
     tags:
       - frontend
   - name: 'Баги в браузерах: кто виноват и что делать?'
-    speaker: Василий Айтипиплов
+    speaker: Виталий Зюзин
     video: https://www.youtube.com/watch?v=K4cQH85bntQ
     lang: ru
     tags:

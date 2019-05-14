@@ -3,49 +3,49 @@ date: 2014-03-14
 videos: 'https://www.youtube.com/playlist?list=PLRdS-n5seLRo9D03Zoaxbj8oXlaDEFTtj'
 talks:
   - name: Зимние игры 2014 в Яндексе
-    speaker: Василий Айтипиплов
+    speaker: Пономарев Максим
     video: https://www.youtube.com/watch?v=Ny8iMI40CoY
     lang: ru
     tags:
       - frontend
   - name: Веб интерфейсы на touch устройствах
-    speaker: Василий Айтипиплов
+    speaker: Чашкин Иван
     video: https://www.youtube.com/watch?v=qvcQUoLAWM4
     lang: ru
     tags:
       - frontend
   - name: 'Зачем нужен EmberJS, если мне хватает jQuery'
-    speaker: Василий Айтипиплов
+    speaker: Болельщиков Сергей
     video: https://www.youtube.com/watch?v=3-tiWo4QQhc
     lang: ru
     tags:
       - frontend
   - name: 'Не бойся, это всего лишь данные... просто их много'
-    speaker: Василий Айтипиплов
+    speaker: Дворнов Роман
     video: https://www.youtube.com/watch?v=baPaSBaRKbk
     lang: ru
     tags:
       - frontend
   - name: Components now
-    speaker: Василий Айтипиплов
+    speaker: Михаил Давыдов
     video: https://www.youtube.com/watch?v=HYjvz7D-VUU
     lang: ru
     tags:
       - frontend
   - name: 'Автопрефиксер: Мир без CSS префиксов'
-    speaker: Василий Айтипиплов
+    speaker: Ситник Андрей
     video: https://www.youtube.com/watch?v=N9o3BqEj5Y0
     lang: ru
     tags:
       - frontend
   - name: l20n как система локализации
-    speaker: Василий Айтипиплов
+    speaker: Немцев Антон
     video: https://www.youtube.com/watch?v=wYQUohGGFFE
     lang: ru
     tags:
       - frontend
   - name: По-настоящему отзывчивые интерфейсы
-    speaker: Василий Айтипиплов
+    speaker: Поликарпов Артем
     video: https://www.youtube.com/watch?v=2t_C-vm6YTE
     lang: ru
     tags:

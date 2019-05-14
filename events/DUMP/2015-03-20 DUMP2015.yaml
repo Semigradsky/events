@@ -3,49 +3,49 @@ date: 2015-03-20
 videos: 'https://www.youtube.com/playlist?list=PLRdS-n5seLRrvvG0yU3uoYPKQDXvVW2nn'
 talks:
   - name: Упрощаем себе жизнь вместе с SASS
-    speaker: Василий Айтипиплов
+    speaker: Виталий Леконцев
     video: https://www.youtube.com/watch?v=M0ju61JCW4Y
     lang: ru
     tags:
       - frontend
   - name: "TARS: сделай уровень frontend-рутины 0%"
-    speaker: Василий Айтипиплов
+    speaker: Артём Малко
     video: https://www.youtube.com/watch?v=JZ3thYdmQ3E
     lang: ru
     tags:
       - frontend
   - name: Профилирование Node.JS или как мы разогнались с 400RPS до 1100RPS
-    speaker: Василий Айтипиплов
+    speaker: Денис Чистяков
     video: https://www.youtube.com/watch?v=HRO9Fe-rmAM
     lang: ru
     tags:
       - frontend
   - name: Двухуровневая шаблонизация
-    speaker: Василий Айтипиплов
+    speaker: Алексей Иванов
     video: https://www.youtube.com/watch?v=7Zj-Ihc8okc
     lang: ru
     tags:
       - frontend
   - name: Unit тестирование в крупных JS проектах
-    speaker: Василий Айтипиплов
+    speaker: Александр Зинчук
     video: https://www.youtube.com/watch?v=9t_1AOCdMXU
     lang: ru
     tags:
       - frontend
   - name: Оптимизация скорости загрузки и изначальной отрисовки веб-страниц
-    speaker: Василий Айтипиплов
+    speaker: Дмитрий Дудин
     video: https://www.youtube.com/watch?v=_WNn5Aq4rqc
     lang: ru
     tags:
       - frontend
   - name: 'Редизайн, ни одного пользователя не пострадало'
-    speaker: Василий Айтипиплов
+    speaker: Андрей Сумин
     video: https://www.youtube.com/watch?v=EGzhO9WRDmg
     lang: ru
     tags:
       - frontend
   - name: 'Фронтенд без багов. Путь фичи: от идеи через разработку к продакшену'
-    speaker: Василий Айтипиплов
+    speaker: Денис Паясь, Роман Хатипов
     video: https://www.youtube.com/watch?v=7W5ZzrACCkA
     lang: ru
     tags:
