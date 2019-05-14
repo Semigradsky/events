@@ -1,0 +1,89 @@
+name: Frontend Dev Conf 2016
+date: 2016-04-16
+videos: ''
+talks:
+  - name: Пиринговый веб на JavaScript
+    speaker: Денис Глазков
+    video: https://www.youtube.com/watch?v=ilCmkgto_0U
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "JavaScript: прошлое, настоящее и будущее"
+    speaker: Владимир Дашукевич
+    video: https://www.youtube.com/watch?v=_OcnHy64xM0
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+
+  - name: "Dart: питание и сила для вашего проекта"
+    speaker: Евгений Гусев
+    video: https://www.youtube.com/watch?v=wE7VMBnQ7jY
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "Service Worker: Let Your Web App Feel Like a Native"
+    speaker: Viktor Zozuliak
+    video: https://www.youtube.com/watch?v=s8zJeoRQ1AM
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Redux. From twitter hype to production
+    speaker: Вячеслав Пытель, Евгений Терпиль
+    video: https://www.youtube.com/watch?v=3SJkW6IZTRY
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Анализ производительности web-приложений в 2016 году
+    speaker: Илья Климов
+    video: https://www.youtube.com/watch?v=JIkWFrHL0xo
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Migrate your React.js application from (m)Observable to Redux
+    speaker: Владимир Барсуков
+    video: https://www.youtube.com/watch?v=aXRv5rvsp0U
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Будь первым
+    speaker: Константин Кривленя
+    video: https://www.youtube.com/watch?v=HHrHQxGGFzw
+    presentation: https://mavrin.github.io/pres-be-first/
+    lang: ru
+    tags:
+      - frontend
+  - name: CSSO - сжимаем CSS
+    speaker: Роман Дворнов
+    video: https://www.youtube.com/watch?v=MyUGy66tFDg
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: В погоне за производительностью
+    speaker: Денис Мишунов
+    video: https://www.youtube.com/watch?v=egiLQun-FxI
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Scalable Angular 2 Application Architecture
+    speaker: Minko Gechev
+    video: https://www.youtube.com/watch?v=r9D5JeVClBs
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Если у вас нету тестов…
+    speaker: Сергей Жигалов
+    video: https://www.youtube.com/watch?v=Or9AFLFYUuA&t=2s
+    presentation:
+    lang: ru
+    tags:
+      - frontend

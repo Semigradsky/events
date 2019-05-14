@@ -1,0 +1,123 @@
+name: Frontend Dev Conf’14
+date: 2014-04-19
+videos: ''
+talks:
+  - name: Testing web APIs
+    speaker: Jakob Mattsson
+    video: https://www.youtube.com/watch?v=mlnUK_6K7Qs
+    presentation:
+    lang: en
+    tags:
+      - frontend
+  - name: Web Typography in Use
+    speaker: Александр Герасимов
+    video: https://www.youtube.com/watch?v=ojOgFC3r0jE
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: WebGl и быстрый геймдев
+    speaker: Антон Немцев
+    video: https://www.youtube.com/watch?v=ROiVmJ1DPL4
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: React, или как начать жить проще
+    speaker: Александр Соловьев
+    video: https://www.youtube.com/watch?v=YJNUK0EA_Jo
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Offline of web applications
+    speaker: Jan Jongboom
+    video: https://www.youtube.com/watch?v=AbixY3W8ayo
+    presentation:
+    lang: en
+    tags:
+      - frontend
+  - name: Использование API Яндекс Карт
+    speaker: Всеволод Шмыров
+    video: https://www.youtube.com/watch?v=J1ngKr6V8eA
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Как верстать сайты быстрее, чем их рисуют
+    speaker: Юрий Артюх
+    video: https://www.youtube.com/watch?v=tdRuZfZW99A
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Delightful UX
+    speaker: Виталий Фридман
+    video: https://www.youtube.com/watch?v=By3qHQbh8Qs
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Particles system with the DOM
+    speaker: Teddy Kishi
+    video: https://www.youtube.com/watch?v=Qfub8dQ9NLo
+    presentation:
+    lang: en
+    tags:
+      - frontend
+  - name: Классы и фабрики
+    speaker: Алексей Бахирев
+    video: https://www.youtube.com/watch?v=kj5VGQrusXI
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Продвинутая отладка JavaScript с помощью Сhrome Dev Tools
+    speaker: Игорь Залуцкий
+    video: https://www.youtube.com/watch?v=Zu3SVmYnFFw
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Визуальное мышление в разработке
+    speaker: Наталья Ядренцева
+    video: https://www.youtube.com/watch?v=ekOivWLquCY
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Как красиво программировать в AngularJS то, что обычно программируют в 1С
+    speaker: Константин Якушев
+    video: https://www.youtube.com/watch?v=3JA0MQB0t4g
+    presentation: https://www.slideshare.net/kyakushev/angularjs-1-35530573
+    lang: ru
+    tags:
+      - frontend
+  - name: Визуализируем данные в JavaScript с помощью D3.js
+    speaker: Александр Кузнецов
+    video: https://www.youtube.com/watch?v=-sfdtR6Arpw
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Автоматизация фронтенда — сегодня и завтра
+    speaker: Роберт Харитонов
+    video: https://www.youtube.com/watch?v=Fe5fW-WtQSI
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: API first approach for frontend developers
+    speaker: Роман Бугаев
+    video: https://www.youtube.com/watch?v=ZR3lQ5bb5lY
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: ember.js - инструмент нового поколения
+    speaker: Артем Сущев
+    video: https://www.youtube.com/watch?v=Qx8dbHcur-c
+    presentation:
+    lang: ru
+    tags:
+      - frontend
