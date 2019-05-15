@@ -1,0 +1,25 @@
+name: Simferopol Frontend 3
+date: 2019-05-25
+videos: ''
+talks:
+  - name: Монорепозитории и где они обитают
+    speaker: Михаил Трошев
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Houdini — полная власть над браузером
+    speaker: Илья Гриненко
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Поиск глазами браузера
+    speaker: Руслан Муфтиев
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend

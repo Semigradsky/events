@@ -1,0 +1,39 @@
+name: Simferopol Frontend 1
+date: 2019-01-26
+videos: ''
+talks:
+  - name: Свидетель scrum
+    speaker: Константин Гладких
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: JSON:API — общаемся по стандарту
+    speaker: Никита Юстовский
+    video:
+    presentation: https://yustnip.github.io/json-api-slides/index.html
+    lang: ru
+    tags:
+      - frontend
+  - name: Быстрый поиск
+    speaker: Руслан Муфтиев
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Введение в интеграционное тестирование интерфейсов в реальных браузерах
+    speaker: Евгений Гаврюшин
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Как пройти собеседование на разработчика в большую продуктовую IT-компанию
+    speaker: Владимир Гриненко
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
