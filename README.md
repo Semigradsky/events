@@ -52,6 +52,15 @@
 | [Animation in the Air](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Wqn_kmMpCGc&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;3) [uk] | Христина Ландвитович | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;cristinalandvytovych&#x2F;animation&#x2F;#&#x2F;)   |
 | [Code Ownership](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ICZsVKgbMe8&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;4)  | Станислав Слесарев | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL&#x2F;view)   |
 | [Using WebStorm like a pro](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dxSQQufii3s&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;5)  | Максим Донченко |    |
+## Simferopol Frontend 2 - Mar 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)
+| | | |
+| --- | :---: | --- |
+| [remark-woofmd](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Айсель Шерфединова |    |
+| [Опыт использования Apollo и преимущества GraphQL перед REST API](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Илья Гриненко |    |
+| [Разработка интерфейсов на React по методологии БЭМ](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Василий Логиневский |    |
+| [Как держать баланс между фичами и качеством кода](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Евгений Масленков |    |
+| [Ясли — школу для начинающих разработчиков интерфейсов на базе симферопольского офиса Яндекса](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Александр Шлейко |    |
+| [Секция вопросов-ответов](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Виталий Харисов |    |
 ## PiterJS 35 - Mar 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLcXJ90eZ2bxjhlxyVblc2OI7V9resbLf-)
 | | | |
 | --- | :---: | --- |
@@ -64,6 +73,13 @@
 | [Путь фронтенда одноклассников от истоков до наших дней](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;hcboJotsTsA&amp;list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&amp;index&#x3D;2&amp;t&#x3D;0s)  | Олег Коровин | [:notebook:](https:&#x2F;&#x2F;djmadcow.github.io&#x2F;react-russia-meetup-1&#x2F;assets&#x2F;player&#x2F;KeynoteDHTMLPlayer.html)   |
 | [Под капотом React Hooks](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;3Ku62Nh1mhk&amp;list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&amp;index&#x3D;2)  | Дмитрий Злыгин | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;secret&#x2F;o7TqRRUdbdezGa)   |
 | [Компоненты для компонентов](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;9fEBZfhoJd8&amp;list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&amp;index&#x3D;3)  | Елена Рашкован | [:notebook:](https:&#x2F;&#x2F;github.com&#x2F;alatielle&#x2F;react-russia-meetup-talk)   |
+## Krasnodar Frontend: Meetup 5 - Mar 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL1irPRp3Ng9a5dRaUeNivRZqOnN9chZ5K)
+| | | |
+| --- | :---: | --- |
+| [Redux в Angular: Битва Давида и Голиафа](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;XmOnUbziGPg)  | Александр Урденко | [:notebook:](https:&#x2F;&#x2F;yadi.sk&#x2F;i&#x2F;V9MLBuiB-RPNeQ)   |
+| [Рендеринг PDF: история одного продукта и его ключевой функции](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;_CFK9NIvg-k)  | Сергей Авдяков | [:notebook:](https:&#x2F;&#x2F;yadi.sk&#x2F;i&#x2F;TwvCfauAkR1P8A)   |
+| [Как (не)удовлетворить Google PageSpeed](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;cl8VhCmpDPo)  | Даниил Крохмаль | [:notebook:](https:&#x2F;&#x2F;yadi.sk&#x2F;i&#x2F;kyKsnQlqy_ReWg)   |
+| [Вебпак, вид сквозь монокль](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;6Q3DmKH-ehY)  | Антон Кастрицкий | [:notebook:](https:&#x2F;&#x2F;yadi.sk&#x2F;i&#x2F;S2BUWNht_6zPPA)   |
 ## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - Mar 02 
 | | | |
 | --- | :---: | --- |
@@ -128,6 +144,14 @@
 | [Автоматизация отдела разработки](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;-2VQoEv9zt4)  | Александр Субботин |    |
 | [Современные стартер-киты для React](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;BFzuYPNUkCA)  | Александр Горкунов |    |
 | [Loopback 3 и 4](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;cAz_VeqJy78)  | Николай Сладкий |    |
+## Simferopol Frontend 1 - Jan 26 
+| | | |
+| --- | :---: | --- |
+| Свидетель scrum  | Константин Гладких |    |
+| JSON:API — общаемся по стандарту  | Никита Юстовский | [:notebook:](https:&#x2F;&#x2F;yustnip.github.io&#x2F;json-api-slides&#x2F;index.html)   |
+| Быстрый поиск  | Руслан Муфтиев |    |
+| Введение в интеграционное тестирование интерфейсов в реальных браузерах  | Евгений Гаврюшин |    |
+| Как пройти собеседование на разработчика в большую продуктовую IT-компанию  | Владимир Гриненко |    |
 ## PiterJS 33 - Jan 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLcXJ90eZ2bxi02k9te0ycVyRqNvySzJxh)
 | | | |
 | --- | :---: | --- |
