@@ -1,0 +1,32 @@
+name: "Krasnodar Frontend: Meetup 5"
+date: 2019-03-16
+videos: https://www.youtube.com/playlist?list=PL1irPRp3Ng9a5dRaUeNivRZqOnN9chZ5K
+talks:
+  - name: "Redux в Angular: Битва Давида и Голиафа"
+    speaker: Александр Урденко
+    video: https://www.youtube.com/watch?v=XmOnUbziGPg
+    presentation: https://yadi.sk/i/V9MLBuiB-RPNeQ
+    lang: ru
+    tags:
+      - frontend
+  - name: "Рендеринг PDF: история одного продукта и его ключевой функции"
+    speaker: Сергей Авдяков
+    video: https://www.youtube.com/watch?v=_CFK9NIvg-k
+    presentation: https://yadi.sk/i/TwvCfauAkR1P8A
+    lang: ru
+    tags:
+      - frontend
+  - name: Как (не)удовлетворить Google PageSpeed
+    speaker: Даниил Крохмаль
+    video: https://www.youtube.com/watch?v=cl8VhCmpDPo
+    presentation: https://yadi.sk/i/kyKsnQlqy_ReWg
+    lang: ru
+    tags:
+      - frontend
+  - name: Вебпак, вид сквозь монокль
+    speaker: Антон Кастрицкий
+    video: https://www.youtube.com/watch?v=6Q3DmKH-ehY
+    presentation: https://yadi.sk/i/S2BUWNht_6zPPA
+    lang: ru
+    tags:
+      - frontend
