@@ -9,14 +9,14 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "Понижаем порог вхождения в performance" ч.1
+  - name: "Понижаем порог вхождения в performance ч.1"
     speaker: Смолянинов Александр
     video: https://www.youtube.com/watch?v=nq4FVxvoO70&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=3
     presentation:
     lang: ru
     tags:
       - frontend
-  - name: "Понижаем порог вхождения в performance" ч.2
+  - name: "Понижаем порог вхождения в performance ч.2"
     speaker: Смолянинов Александр
     video: https://www.youtube.com/watch?v=8F3IOX7N1ec&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=4
     presentation:

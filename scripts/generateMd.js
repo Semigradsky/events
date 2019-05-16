@@ -33,7 +33,7 @@ function sortEvents(events) {
     return events.sort((a, b) => `${a.firstDay} ${a.name}` < `${b.firstDay} ${b.name}` ? 1 : -1)
 }
 
-async function generateMd(events) {
+async function generateByYears(events) {
     const pattern = await readFile(path.resolve(__dirname, 'byDate.mst'), 'utf-8')
 
     const groupedByYears = new Map()
@@ -66,6 +66,45 @@ async function generateMd(events) {
     }
 
     return groupedByYears
+}
+
+async function generateByOrganizers(events) {
+    const pattern = await readFile(path.resolve(__dirname, 'byOrganizer.mst'), 'utf-8')
+
+    const groupedByOrganizers = new Map()
+    for (const event of events) {
+        if (!event.talks || !event.talks.some(t => t.video || t.link || t.presentation || t.code)) {
+            continue;
+        }
+
+        const organizer = event.organizer
+        const groupedEvents = groupedByOrganizers.get(organizer) || []
+
+        groupedByOrganizers.set(organizer, [...groupedEvents, {
+            ...event,
+            talks: event.talks.map(formatTalk),
+            firstDay: getFirstDay(event.date).toISOString(),
+            dateString: toDateString(event.date),
+        }])
+    }
+
+    for (const [organizer, groupedEvents] of groupedByOrganizers) {
+        const content = Mustache.render(pattern.toString(), {
+            organizer,
+            events: sortEvents(groupedEvents),
+        })
+
+        groupedByOrganizers.set(organizer, content)
+    }
+
+    return groupedByOrganizers
+}
+
+async function generateMd(events) {
+    return Promise.all([
+        generateByYears(events),
+        generateByOrganizers(events),
+    ])
 }
 
 module.exports = generateMd

@@ -22,7 +22,7 @@ function parseEvent(content, uid) {
     }
 }
 
-async function readEvent(fullPath) {
+async function readEvent(fullPath, folder) {
     if (!fullPath.includes('.yaml')) {
         return;
     }
@@ -34,6 +34,7 @@ async function readEvent(fullPath) {
     return {
         ...parsedData,
         uid,
+        organizer: folder,
     }
 }
 
@@ -43,7 +44,7 @@ async function readEvents(srcPath) {
     const events = await Promise.all(folders.map(async folder => {
         const files = await readDir(path.resolve(srcPath, folder))
         return Promise.all(
-            files.map(file => readEvent(path.resolve(srcPath, folder, file)))
+            files.map(file => readEvent(path.resolve(srcPath, folder, file), folder))
         )
     }))
 

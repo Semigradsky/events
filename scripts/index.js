@@ -7,7 +7,7 @@ const writeFiles = require('./writeFiles')
 const PATH_EVENTS = path.resolve(__dirname, '../events')
 
 ;(async () => {
-    const events =  await readEvents(PATH_EVENTS)
-    const markdowns = await generateMd(events.filter(Boolean))
-    await writeFiles(markdowns)
+    const events =  (await readEvents(PATH_EVENTS)).filter(Boolean)
+    const [byYears, byOrganizers] = await generateMd(events)
+    await writeFiles(byYears, byOrganizers)
 })()
