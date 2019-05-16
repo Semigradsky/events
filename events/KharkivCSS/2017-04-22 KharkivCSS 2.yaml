@@ -1,0 +1,75 @@
+name: KharkivCSS 2
+date: 2017-04-22
+videos: https://www.youtube.com/playlist?list=PLJ5NW5T60Uphxafs2etSYrVYshi_V5T1-
+talks:
+  - name: Что нам стоит дом построить?
+    speaker: Антон Немцев
+    video: https://www.youtube.com/watch?v=okFs-XoZoxY
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS Selectors
+    speaker: Евгений Исаков
+    video: https://www.youtube.com/watch?v=o6cNYFIMOZc
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Построение сложных анимационных интерфейсов
+    speaker: Андрей Бойко
+    video: https://www.youtube.com/watch?v=GSZUNeE2rkw
+    presentation: http://kharkivcss.glivera.com/#/
+    lang: ru
+    tags:
+      - frontend
+  - name: Bootstrap 4 уже скоро! Что там?
+    speaker: Игорь Зенич
+    video: https://www.youtube.com/watch?v=sYwWmAF7ciQ
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS Grid Layout. Быстрый старт
+    speaker: Виталий Рыбка
+    video: https://www.youtube.com/watch?v=VEFwmIwbAzA
+    presentation: http://var-bin.com/KharkivCSS2017/shower/
+    lang: ru
+    tags:
+      - frontend
+  - name: Будущее за SVG
+    speaker: Телышев Аркадий
+    video: https://www.youtube.com/watch?v=sDGZHEQ12QY
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS-переменные
+    speaker: Елена Жукова
+    video: https://www.youtube.com/watch?v=D2o-k0eEDHs
+    presentation: https://github.com/webcamp-ua/kharkiv-css/blob/master/CSS%20Variables.pdf
+    code: https://github.com/webcamp-ua/kharkiv-css
+    lang: ru
+    tags:
+      - frontend
+  - name: Velosipedium structuris
+    speaker: Олександр Шпак
+    video: https://www.youtube.com/watch?v=6gNg8pTwBFQ
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Функциональные анимации в вебе
+    speaker: Денис Яровой
+    video: https://www.youtube.com/watch?v=mw_UVQAEW7w
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Мой ванильный CSS
+    speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=7R4VS86S00U
+    presentation:
+    lang: ru
+    tags:
+      - frontend

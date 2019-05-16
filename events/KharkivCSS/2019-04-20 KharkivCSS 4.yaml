@@ -1,0 +1,53 @@
+name: KharkivCSS 4
+date: 2019-04-20
+videos: ''
+talks:
+  - name: "The Web Design Cheat Code: Using SVG to bridge CSS’ gaps"
+    speaker: Lea Verou
+    video:
+    presentation:
+    lang: en
+    tags:
+      - frontend
+  - name: "WCAG: вивчаємо основи веб-доступності на практиці"
+    speaker: Дмитро Попов
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "Логування продуктивності відповідно до стандартів"
+    speaker: Антон Немцев
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "Houdini — CSS, который JavaScript"
+    speaker: Микита Дубко
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "Framer X. Ще один крок до порозуміння між дизайнерами і програмістами"
+    speaker: Валерій Сорокобатько
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "UX як основа усвідомленої верстки"
+    speaker: Олена Шпілевська
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "WebFonts in 2019: Everything Changes"
+    speaker: Chris Lilley
+    video:
+    presentation:
+    lang: en
+    tags:
+      - frontend
