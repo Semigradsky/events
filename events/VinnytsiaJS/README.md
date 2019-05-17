@@ -23,16 +23,16 @@
 | --- | :---: | --- |
 | [The portrait of professional developer 3.0](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Z48yWbWuU78)  | Mikalai Alimenkou |    |
 | [Decorating JavaScript](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;I9O25eXZGh4)  | Denis Vlassenko |    |
-| [AMP](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;GDN2j3vHtJI)  | Accelerated Mobile Pages. Making the Web Fast and Compelling |    |
+| [AMP - Accelerated Mobile Pages. Making the Web Fast and Compelling](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;GDN2j3vHtJI)  | Denis Vlassenko |    |
 | [Docker for Node.js Developer](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Es0uBQOiEw4)  | Nikita Galkin |    |
 | [Perf again? Let&#39;s play fonts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;0e0QrcHslAA)  | Artem Denysov |    |
 | [Strict JavaScript](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;XJiRqW2Gf6o)  | Helen Zhukova |    |
 | [Custom CLI tools in the project.](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;K1HEd0uUEXo)  | Denis Kuzin |    |
-| [PWA](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Teix6SA1FbU)  | native apps power in web |    |
+| [PWA - native apps power in web](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Teix6SA1FbU)  | Borys Mohyla |    |
 | [NestJS. When patterns matters](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Z9KkMRd8Blc)  | Ostap Chervak |    |
 | [Project experience in Angular2+](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4TwvQIIOCH8)  | Kostiantyn Hryshyn |    |
 | [Serverless applications with cross-cloud experience](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;yfJcrEvQnJg)  | Andriy Deren |    |
-| [React Next](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SbWFMoZDxdA)  | Fiber and Some other neat things |    |
+| [React Next - Fiber and Some other neat things](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SbWFMoZDxdA)  | Yevhen Shemet |    |
 | [Machines Must Suffer!](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4WLuNX2lPx0)  | Oleksandr Pavlyshch |    |
 ## VinnytsiaJS 2016 - Jul 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL7GMpyIlGWSV3M0bAmCS9TdRNWtayhmxc)
 | | | |
@@ -41,12 +41,12 @@
 | [Hidden capabilities of well-known things](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;mG10Hnrryhc)  | Alexey Volkov |    |
 | [React, Redux and immutable state](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;HWTqxAUCBsI)  | Yevhen Shemet |    |
 | [Node.js – running JavaScript on-earth and in-cloud](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;_cdKDhoAYvk)  | Andriy Deren |    |
-| [Smart Office](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;qWHMK_uHT4I)  | the practical application of IoT in JS development |    |
+| [Smart Office - the practical application of IoT in JS development](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;qWHMK_uHT4I)  | Dmytro Golysh, Yuriy Tkachenko |    |
 | [Asyncable ESMAScript](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ocaV1zZZcAs)  | Denis Vlassenko |    |
 | [Types vs Types in Javascript](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;x7fnpMN7z3U)  | Ivan Lavriv |    |
-| [Realtime HTML5 Canvas Drawing](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;_LMIEPoGxNU)  | Evhenii Pinkal |    |
+| [Realtime HTML5 Canvas Drawing](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;_LMIEPoGxNU) [uk] | Evhenii Pinkal |    |
 | [Frontend Performance Metrics. Measure First. Measure Often](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;mUG0iVj3Bb0)  | Artem Zakharchenko, |    |
-| [WTF](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;C79DDrEIpys)  | WebGL The Fundamentals |    |
+| [WTF - WebGL The Fundamentals](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;C79DDrEIpys) [en] | Martin Splitt |    |
 | [Do you have to play coding games if you are a professional coder?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;aMWg4FgmfYI)  | Alexander Lyabah |    |
 | [Better API wrappers with Proxies](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;hxQW7tcPQ2s)  | Aleksey Shvayka |    |
 | [React Native: Are we there yet](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;o2_qDphpjlQ)  | Roman Liutikov |    |
