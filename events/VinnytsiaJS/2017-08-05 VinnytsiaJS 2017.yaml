@@ -14,8 +14,8 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: AMP
-    speaker: Accelerated Mobile Pages. Making the Web Fast and Compelling
+  - name: AMP - Accelerated Mobile Pages. Making the Web Fast and Compelling
+    speaker: Denis Vlassenko
     video: 'https://www.youtube.com/watch?v=GDN2j3vHtJI'
     lang: ru
     tags:
@@ -44,8 +44,8 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: PWA
-    speaker: native apps power in web
+  - name: PWA - native apps power in web
+    speaker: Borys Mohyla
     video: 'https://www.youtube.com/watch?v=Teix6SA1FbU'
     lang: ru
     tags:
@@ -68,8 +68,8 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: React Next
-    speaker: Fiber and Some other neat things
+  - name: React Next - Fiber and Some other neat things
+    speaker: Yevhen Shemet
     video: 'https://www.youtube.com/watch?v=SbWFMoZDxdA'
     lang: ru
     tags:

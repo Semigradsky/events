@@ -8,7 +8,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "node scripts/index.js && git add **/*.md && git commit -m 'Autogenerate md'"
+      "pre-push": "node scripts/index.js && git add *.md **/*.md && git commit -m 'Autogenerate md'"
     }
   },
   "repository": {

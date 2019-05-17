@@ -26,8 +26,8 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: Smart Office
-    speaker: the practical application of IoT in JS development
+  - name: Smart Office - the practical application of IoT in JS development
+    speaker:  Dmytro Golysh, Yuriy Tkachenko
     video: 'https://www.youtube.com/watch?v=qWHMK_uHT4I'
     lang: ru
     tags:
@@ -47,7 +47,7 @@ talks:
   - name: Realtime HTML5 Canvas Drawing
     speaker: Evhenii Pinkal
     video: 'https://www.youtube.com/watch?v=_LMIEPoGxNU'
-    lang: ru
+    lang: uk
     tags:
       - frontend
   - name: Frontend Performance Metrics. Measure First. Measure Often
@@ -56,10 +56,10 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: WTF
-    speaker: WebGL The Fundamentals
+  - name: WTF - WebGL The Fundamentals
+    speaker: Martin Splitt
     video: 'https://www.youtube.com/watch?v=C79DDrEIpys'
-    lang: ru
+    lang: en
     tags:
       - frontend
   - name: Do you have to play coding games if you are a professional coder?
