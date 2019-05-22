@@ -1,0 +1,25 @@
+name: Tver.io Poetry Meetup
+date: 2019-03-21
+videos: https://www.youtube.com/playlist?list=PLiOxDlmyqigz0iyx67pf5WwTL6rFSvV0S
+talks:
+  - name: Будет ли существовать профессия веб-разработчик в будущем?
+    speaker: Дарья Пушкарская
+    video: https://youtu.be/1xerBSAwMEI
+    presentation: http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-pushkarskaya.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Как сделать быстрый сайт и полюбить SEO
+    speaker: Самат Галимов
+    video: https://youtu.be/MRAM5ooFfQo
+    presentation: http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-galimov.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Experimenting with an Unikernel
+    speaker: Павел Аргентов
+    video: https://youtu.be/apPFkwxs1Ig
+    presentation: http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-argentov.pdf
+    lang: ru
+    tags:
+      - frontend

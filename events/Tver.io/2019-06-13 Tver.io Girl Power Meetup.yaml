@@ -1,0 +1,25 @@
+name: Tver.io Girl Power Meetup
+date: 2019-06-13
+videos: ''
+talks:
+  - name: CSS наносит ответный удар
+    speaker: Людмила Мжачих
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Что скрывает код?
+    speaker: Юлия Егорова
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Как перестать выбирать фреймворки и начать жить
+    speaker: Александра Шинкевич
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend

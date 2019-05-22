@@ -1,0 +1,25 @@
+name: Tver.io Radio Meetup
+date: 2019-04-18
+videos: https://www.youtube.com/playlist?list=PLiOxDlmyqigw-yetl9zWckO3mGPxbZ8hX
+talks:
+  - name: Dive into Babel
+    speaker: Илья Лесик
+    video: https://www.youtube.com/watch?v=0EJTApFVB7Y
+    presentation: http://ilyalesik.github.io/dive-into-babel/
+    lang: ru
+    tags:
+      - frontend
+  - name: Elixir GenStage
+    speaker: Максим Барулин
+    video: https://www.youtube.com/watch?v=WZ7C-qYk_Wc
+    presentation: http://tver.io/meetup/2019/04-radio/slides/2019-tverio-radio-barulin.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Understanding indexes
+    speaker: Марина Пилипонис
+    video: https://www.youtube.com/watch?v=bTfEyYkqPfw
+    presentation: http://tver.io/meetup/2019/04-radio/slides/2019-tverio-radio-piliponis.pdf
+    lang: ru
+    tags:
+      - frontend

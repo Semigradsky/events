@@ -1,0 +1,18 @@
+name: Tver.io Anniversary Meetup
+date: 2018-12-13
+videos: https://www.youtube.com/playlist?list=PLiOxDlmyqigzFu0aICHjPJyaO4JRaffH-
+talks:
+  - name: Семантика для циников
+    speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=z91F33YJvPE
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Типографика в вебе
+    speaker: Антон Кастрицкий
+    video: https://www.youtube.com/watch?v=qlAV7OrdJtc
+    presentation:
+    lang: ru
+    tags:
+      - frontend
