@@ -1,0 +1,32 @@
+name: 4front 4
+date: 2014-11-21
+videos: https://www.youtube.com/playlist?list=PLnZ0ef3Uu2pv9ApU-R6Kt1Y1gK8nBht21
+talks:
+  - name: Презентация в браузере за 10 минут - миф или реальность
+    speaker: Козяков Андрей
+    video: https://youtu.be/Tje4GQcKlX4
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Управляемая анимация
+    speaker: Басюк Илья
+    video: https://youtu.be/abQ7mo1VHko
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Постоянная сборка фронтенда — автоматизация конвейера
+    speaker: Сергеев Сергей
+    video: https://youtu.be/2-8oXbkoErg
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Ускоряем загрузку Web-приложения на 40% за 5 минут
+    speaker: Дашукевич Владимир
+    video: https://youtu.be/iZI-Pt6ntu0
+    presentation:
+    lang: ru
+    tags:
+      - frontend

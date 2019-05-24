@@ -1,0 +1,47 @@
+name: 4front 3
+date: 2014-09-11
+videos: https://www.youtube.com/playlist?list=PLnZ0ef3Uu2pt8LWsBTQv9HLn1pYvwz-o0
+talks:
+  - name: Flexbox - верстка без float’ов
+    speaker: Дмитрий Радыно
+    video: https://youtu.be/2ujfOyJE7zk?list=PLnZ0ef3Uu2pt8LWsBTQv9HLn1pYvwz-o0
+    presentation: https://www.slideshare.net/radyno/flexbox-39134410?ref=http://xbsoftware.ru/blog/4front-meetup-3-flexbox-typescript-javascript-grunt/
+    lang: ru
+    tags:
+      - frontend
+  - name: TypeScript - эволюция клиентского кода
+    speaker: Максим Кожух
+    video: https://youtu.be/r-sxo2CyE3k?list=PLnZ0ef3Uu2pt8LWsBTQv9HLn1pYvwz-o0
+    presentation: http://slides.com/mkozhukh/typescript#/
+    lang: ru
+    tags:
+      - frontend
+      - TypeScript
+  - name: Build Ready Javascript Apps With Grunt
+    speaker: Shai Reznik
+    video:
+    presentation:
+    lang: en
+    tags:
+      - frontend
+  - name: Браузерные события и их последствия в JavaScript
+    speaker: Владимир Дашукевич
+    video: https://youtu.be/-y2EI-bmZ6g?list=PLnZ0ef3Uu2pt8LWsBTQv9HLn1pYvwz-o0
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+
+
+
+
+
+
+
+
+
+
+
+
+
+

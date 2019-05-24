@@ -1,0 +1,33 @@
+name: 4front 13
+date: 2016-10-19
+videos: https://www.youtube.com/playlist?list=PLnZ0ef3Uu2psF6PccijaOTMMgUk5rbqU4
+link: https://xbsoftware.ru/blog/digest-4front-meetup-13-pravoslavnyj-workflow-qwerty-dvorak-drugie-techniki/
+talks:
+  - name: Православный Workflow, или как я блуждал во тьме язычества
+    speaker: Сергей Куницкий
+    video: https://www.youtube.com/watch?v=bxJLprk9G6I
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Поговорим о сложностях разработки в уходящем году
+    speaker: Егор Малькевич
+    video: https://www.youtube.com/watch?v=snuwruoHEPg
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: QWERTY vs “Dvorak” or “WTF with your keyboard, Dude?”
+    speaker: Артем Николаев
+    video: https://www.youtube.com/watch?v=pwlkntAe-A8
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Компонентный подход в построении WEB-приложений
+    speaker: Владимир Дашукевич
+    video: https://www.youtube.com/watch?v=sH04-Ypak_s
+    presentation:
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,32 @@
+name: 4front 5 Новогодний
+date: 2014-12-23
+videos: https://www.youtube.com/playlist?list=PLnZ0ef3Uu2pvCdpQPfNBpuGw4PKN2N_Wf
+talks:
+  - name: Жесточайшая оптимизация загрузки веб-страниц.
+    speaker: Дима Дудин
+    video: https://youtu.be/KItf0Zrx87c
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Охота на баги в реалиях Фронтенда
+    speaker: Максим Кожух
+    video: https://youtu.be/_4GYqRiHlIE
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Работа с документами в JavaScript
+    speaker: Дима Радыно
+    video: https://youtu.be/Ey5mpOHKIUI
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "Делаем инструменты под себя: Chrome Extensions под рабочие проекты"
+    speaker: Паша Клименков
+    video: https://youtu.be/GSQNQ-ELmUU
+    presentation:
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,32 @@
+name: 4front 14 Новогодний
+date: 2016-12-21
+videos: https://www.youtube.com/playlist?list=PLnZ0ef3Uu2pv1eMPWfguCLY2luAPg6o-V
+talks:
+  - name: AngularJS2 vs VueJS
+    speaker: Борис Мосунов
+    video: https://www.youtube.com/watch?v=N0eKHWhTNXw
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: MathML. Что это?.. Зачем это?
+    speaker: Даниил Цыркунов
+    video: https://www.youtube.com/watch?v=aiJYA3Auavk
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Генетический алгоритм
+    speaker: Александр Поташко
+    video: https://www.youtube.com/watch?v=IVlXGla4WBc
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Доклад 21+. Что нужно знать front-end разработчику о Rust
+    speaker: Владимир Дашукевич
+    video: https://www.youtube.com/watch?v=2gIivSjhYOc
+    presentation:
+    lang: ru
+    tags:
+      - frontend
