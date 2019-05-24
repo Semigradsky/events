@@ -8,23 +8,23 @@ const readFile = pify(fs.readFile)
 
 function toDateString(date) {
     if (Array.isArray(date)) {
-        const [year1, month1, day1] = date[0].toString().split(' ')
-        const [year2, month2, day2] = date[1].toString().split(' ')
+        const [dayName1, month1, day1] = date[0].toString().split(' ')
+        const [dayName2, month2, day2] = date[1].toString().split(' ')
         return `${month1} ${day1}-${day2}`
     }
 
-    const [year, month, day] = date.toString().split(' ')
+    const [dayName, month, day] = date.toString().split(' ')
     return `${month} ${day}`
 }
 
 function toFullDateString(date) {
     if (Array.isArray(date)) {
-        const [year1, month1, day1] = date[0].toString().split(' ')
-        const [year2, month2, day2] = date[1].toString().split(' ')
+        const [dayName1, month1, day1, year1] = date[0].toString().split(' ')
+        const [dayName2, month2, day2, year2] = date[1].toString().split(' ')
         return `${year1} ${month1} ${day1}-${day2}`
     }
 
-    const [year, month, day] = date.toString().split(' ')
+    const [dayName, month, day, year] = date.toString().split(' ')
     return `${year} ${month} ${day}`
 }
 
