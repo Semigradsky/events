@@ -1,6 +1,6 @@
 # Simferopol Frontend
 
-## Simferopol Frontend 2 - Fri Mar 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)
+## Simferopol Frontend 2 - 2019 Mar 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)
 | | | |
 | --- | :---: | --- |
 | [remark-woofmd](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Айсель Шерфединова |    |
@@ -9,7 +9,7 @@
 | [Как держать баланс между фичами и качеством кода](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Евгений Масленков |    |
 | [Ясли — школу для начинающих разработчиков интерфейсов на базе симферопольского офиса Яндекса](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Александр Шлейко |    |
 | [Секция вопросов-ответов](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)  | Виталий Харисов |    |
-## Simferopol Frontend 1 - Sat Jan 26 
+## Simferopol Frontend 1 - 2019 Jan 26 
 | | | |
 | --- | :---: | --- |
 | Свидетель scrum  | Константин Гладких |    |

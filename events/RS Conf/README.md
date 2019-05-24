@@ -1,6 +1,6 @@
 # RS Conf
 
-## RS Conf 2018 - Sat Feb 10-11 
+## RS Conf 2018 - 2018 Feb 10-11 
 | | | |
 | --- | :---: | --- |
 | [Developing and maintaining a coding community](https:&#x2F;&#x2F;youtu.be&#x2F;YNAtuKUx9Og) [en] | Kristi Progri | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1B8Y8SUTFublaR5jovGYHOzdJqeNLSIWR&#x2F;view)   |
@@ -35,7 +35,7 @@
 | [Front-end для блокчейн проекта децентрализованной исследовательской платформы](https:&#x2F;&#x2F;youtu.be&#x2F;oyjsUbv97yw)  | Alex Shkorh |    |
 | [Разработка редактора документов](https:&#x2F;&#x2F;youtu.be&#x2F;LKBC2Gr5Wgw)  | Dmitry Volokh | [:notebook:](https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1zFw-FwmHuyEizBoee5ZCYio0yKvZLT426pt3lQoLImI&#x2F;edit#slide&#x3D;id.p4)   |
 | [Workshop: Думай, как дизайнер](https:&#x2F;&#x2F;youtu.be&#x2F;x1vAevI5kIg)  | Kate Bosakova, Krystsina Svirydzenka, Hanna Kolesava, Svetlana Jeltok | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1md-vjkyticXMiuZ5H5WyxBUc21eSY40U&#x2F;view)   |
-## RS Conf 2017 - Sat Feb 18-19 
+## RS Conf 2017 - 2017 Feb 18-19 
 | | | |
 | --- | :---: | --- |
 | [WARPSPEED: High performance tricks: Web Workers, GPU computing and Web Assembly](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;1_lX28QWCdg) [en] | Martin Splitt |    |
@@ -58,7 +58,7 @@
 | [Service Workers, the gotchas in your path to production](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;9L8YhkA0co4) [en] | Antoni Huguet Vives |    |
 | [Designing for Composability](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;BxoJ7WCbQFE)  | Andrey Listochkin |    |
 | [Shells written in JavaScript](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;CGfnGczxKAI)  | Denys Dovhan |    |
-## RS Conf 2016 - Sat Feb 20-21 
+## RS Conf 2016 - 2016 Feb 20-21 
 | | | |
 | --- | :---: | --- |
 | [JavaScript parsing, transformations, transpilation.](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dnsW3JtQXrk) [en] | Ingvar Stepanyan |    |
@@ -76,7 +76,7 @@
 | [Music of React Native](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Ovq-cNzv5H8)  | Ilja Satchok |    |
 | [Shaders - unlocking the GPU with JavaScript](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dugISU2d4SM&amp;t&#x3D;2598s) [en] | Martin Naumann |    |
 | [Проектирование в тестировании](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;lS8EFtdKCUY&amp;t&#x3D;1076s)  | Andrey Listochkin |    |
-## RS Conf 2015 - Sun Feb 01 
+## RS Conf 2015 - 2015 Feb 01 
 | | | |
 | --- | :---: | --- |
 | [Why CSS was invented](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Lgs38ih7Evk) [en] | Hakon Wium Lie |    |

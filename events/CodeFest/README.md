@@ -1,6 +1,6 @@
 # CodeFest
 
-## FrontFest Moscow 2017 - Sat Nov 18 
+## FrontFest Moscow 2017 - 2017 Nov 18 
 | | | |
 | --- | :---: | --- |
 | [My password doesn&#39;t work! [Keynote]](https:&#x2F;&#x2F;youtu.be&#x2F;w_earklcNAY) [en] | Blaine Cook |    |

@@ -1,6 +1,6 @@
 # DUMP
 
-## DUMP2018 - Fri Apr 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRoyY8tjEUDzvxr19JtTLFUf)
+## DUMP2018 - 2018 Apr 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRoyY8tjEUDzvxr19JtTLFUf)
 | | | |
 | --- | :---: | --- |
 | [Rock&amp;Scroll](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MPDSBWAg0Do)  | Анна Селезнёва |    |
@@ -11,7 +11,7 @@
 | [Как Microsoft To-Do использует React](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ZdrnIUgeDAs)  | Алексей Мигутский |    |
 | [Игра «Герои Меча и Магии» в браузере: долго, сложно и невыносимо интересно](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;eauzFBCJDb0)  | Александр Коротаев |    |
 | [Знай свой JIT: ближе к машине](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ZEwFVEXK1xI)  | Андрей Мелихов |    |
-## DUMP2017 - Fri Apr 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRqoENxUsxmPbUxrFpk5JBmc)
+## DUMP2017 - 2017 Apr 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRqoENxUsxmPbUxrFpk5JBmc)
 | | | |
 | --- | :---: | --- |
 | [Документация REST API](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;zXipJqeetHM)  | Кузвесов Артём |    |
@@ -22,7 +22,7 @@
 | [Жизнь без интернета](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;nT5zlWnVOI4)  | Артём Кувалдин |    |
 | [Зависимости в компонентном вебе, приготовленные правильно](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uXZfcfVlRso)  | Владимир Гриненко |    |
 | [Портирование Web SDK c JS на TS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;p2SRPi0sqxA)  | Григорий Петров |    |
-## DUMP2016 - Fri Apr 08 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRoWZm8I5onZqU9m8HB_hg1S)
+## DUMP2016 - 2016 Apr 08 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRoWZm8I5onZqU9m8HB_hg1S)
 | | | |
 | --- | :---: | --- |
 | [БЭМ без bem-tools](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;crw46fuxz38)  | Владимир Гриненко |    |
@@ -33,7 +33,7 @@
 | [Если у вас нету тестов, то...](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;L7FzfkVJJJc)  | Сергей Жигалов |    |
 | [Пишем код, тягаем штангу](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;YiPN0A-y3xQ)  | Александр Завьялов |    |
 | [Баги в браузерах: кто виноват и что делать?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;K4cQH85bntQ)  | Виталий Зюзин |    |
-## DUMP2015 - Fri Mar 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRrvvG0yU3uoYPKQDXvVW2nn)
+## DUMP2015 - 2015 Mar 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRrvvG0yU3uoYPKQDXvVW2nn)
 | | | |
 | --- | :---: | --- |
 | [Упрощаем себе жизнь вместе с SASS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;M0ju61JCW4Y)  | Виталий Леконцев |    |
@@ -44,7 +44,7 @@
 | [Оптимизация скорости загрузки и изначальной отрисовки веб-страниц](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;_WNn5Aq4rqc)  | Дмитрий Дудин |    |
 | [Редизайн, ни одного пользователя не пострадало](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;EGzhO9WRDmg)  | Андрей Сумин |    |
 | [Фронтенд без багов. Путь фичи: от идеи через разработку к продакшену](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;7W5ZzrACCkA)  | Денис Паясь, Роман Хатипов |    |
-## DUMP2014 - Fri Mar 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRo9D03Zoaxbj8oXlaDEFTtj)
+## DUMP2014 - 2014 Mar 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRo9D03Zoaxbj8oXlaDEFTtj)
 | | | |
 | --- | :---: | --- |
 | [Зимние игры 2014 в Яндексе](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Ny8iMI40CoY)  | Пономарев Максим |    |

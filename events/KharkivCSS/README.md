@@ -1,6 +1,6 @@
 # KharkivCSS
 
-## KharkivCSS 3 - Sat Apr 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi)
+## KharkivCSS 3 - 2018 Apr 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi)
 | | | |
 | --- | :---: | --- |
 | [Как анимировать что угодно](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Jhx_29mVDO4&amp;list&#x3D;PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&amp;index&#x3D;3&amp;t&#x3D;1s)  | Юрий Артюх |    |
@@ -16,7 +16,7 @@
 | [HTML5 Elements and their styling](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;A92UKmIdvBw&amp;list&#x3D;PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&amp;index&#x3D;12)  | Евгений Исаков |    |
 | [Автостопом по CSS Style Guide Галактике](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dNcb3QtkmnU&amp;list&#x3D;PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&amp;index&#x3D;13)  | Виталий Рыбка |    |
 | [Styled Components: CSS без .css](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;YBk6FPlgVjk&amp;list&#x3D;PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&amp;index&#x3D;14)  | Тимофей Лавренюк |    |
-## KharkivCSS 2 - Sat Apr 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ5NW5T60Uphxafs2etSYrVYshi_V5T1-)
+## KharkivCSS 2 - 2017 Apr 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ5NW5T60Uphxafs2etSYrVYshi_V5T1-)
 | | | |
 | --- | :---: | --- |
 | [Что нам стоит дом построить?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;okFs-XoZoxY)  | Антон Немцев |    |
@@ -29,7 +29,7 @@
 | [Velosipedium structuris](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;6gNg8pTwBFQ)  | Олександр Шпак |    |
 | [Функциональные анимации в вебе](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;mw_UVQAEW7w)  | Денис Яровой |    |
 | [Мой ванильный CSS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;7R4VS86S00U)  | Вадим Макеев |    |
-## KharkivCSS 1 - Sat Sep 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ5NW5T60UphOVDsbAC97JQ2KEprVgh2r)
+## KharkivCSS 1 - 2016 Sep 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ5NW5T60UphOVDsbAC97JQ2KEprVgh2r)
 | | | |
 | --- | :---: | --- |
 | [Flexible Box Layout](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;cr-cFGWsHM8)  | Владимир Макуха |    |

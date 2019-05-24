@@ -1,6 +1,6 @@
 # Frontend Dev Conf - Минск
 
-## Frontend Dev Conf 2016 - Sat Apr 16 
+## Frontend Dev Conf 2016 - 2016 Apr 16 
 | | | |
 | --- | :---: | --- |
 | [Пиринговый веб на JavaScript](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ilCmkgto_0U)  | Денис Глазков |    |
@@ -15,7 +15,7 @@
 | [В погоне за производительностью](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;egiLQun-FxI)  | Денис Мишунов |    |
 | [Scalable Angular 2 Application Architecture](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;r9D5JeVClBs)  | Minko Gechev |    |
 | [Если у вас нету тестов…](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Or9AFLFYUuA&amp;t&#x3D;2s)  | Сергей Жигалов |    |
-## Frontend Dev Conf 2015 - Sat Apr 18 
+## Frontend Dev Conf 2015 - 2015 Apr 18 
 | | | |
 | --- | :---: | --- |
 | [I knew there had to be a better way to build mobile app](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;87SHfeyrWcY) [en] | Alius Petraška |    |
@@ -31,7 +31,7 @@
 | [Continuous Integration — A to Z или Непрерывная интеграция — кто всё сломал?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Rrv0-I3HIAw)  | Виктор Русакович |    |
 | [Разрушаем Вавилонскую Башню WWW с помощью веб-компонент](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;abc6pAeLbpw)  | Денис Радин |    |
 | [Удаленная разработка фронтенда в командной строке](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Rzsmv0aWFM8)  | Илья Довбан |    |
-## Frontend Dev Conf’14 - Sat Apr 19 
+## Frontend Dev Conf’14 - 2014 Apr 19 
 | | | |
 | --- | :---: | --- |
 | [Testing web APIs](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;mlnUK_6K7Qs) [en] | Jakob Mattsson |    |
@@ -51,7 +51,7 @@
 | [Автоматизация фронтенда — сегодня и завтра](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Fe5fW-WtQSI)  | Роберт Харитонов |    |
 | [API first approach for frontend developers](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ZR3lQ5bb5lY)  | Роман Бугаев |    |
 | [ember.js - инструмент нового поколения](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Qx8dbHcur-c)  | Артем Сущев |    |
-## Frontend DEV Conf&#39;13 - Sat Apr 20 
+## Frontend DEV Conf&#39;13 - 2013 Apr 20 
 | | | |
 | --- | :---: | --- |
 | [ECMAScript Harmony: Будущее JavaScript, или почему я верю в JS?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;zUJ2JuyWv7E)  | Илья Пухальский |    |

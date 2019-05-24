@@ -1,6 +1,6 @@
 # VinnytsiaJS
 
-## VinnytsiaJS 2018 - Sat Jul 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL7GMpyIlGWSXPe93ZHYMnn9FHwNlwC1yO)
+## VinnytsiaJS 2018 - 2018 Jul 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL7GMpyIlGWSXPe93ZHYMnn9FHwNlwC1yO)
 | | | |
 | --- | :---: | --- |
 | [Programming rich UIs without JavaScript? Easy-peasy](https:&#x2F;&#x2F;youtu.be&#x2F;5IQVSJQvlEE)  | Roman Liutikov |    |
@@ -18,7 +18,7 @@
 | [Copy&#x2F;Paste detector for source code on JavaScript](https:&#x2F;&#x2F;youtu.be&#x2F;oRO6i2JKmDY)  | Andrii Kucherenko |  [:octocat:](https:&#x2F;&#x2F;github.com&#x2F;kucherenko&#x2F;jscpd)  |
 | [Make the Web Brighter with the CSS Paint API](https:&#x2F;&#x2F;youtu.be&#x2F;Gfq5Ut3r6Bw)  | Vitalii Bobrov | [:notebook:](https:&#x2F;&#x2F;speakerdeck.com&#x2F;bobrov1989&#x2F;make-the-web-brighter-with-the-css-paint-api)   |
 | [Real server-side rendering with Vue](https:&#x2F;&#x2F;youtu.be&#x2F;xSKSH27Zczo)  | Vitalii Savchuk | [:notebook:](https:&#x2F;&#x2F;esvit.github.io&#x2F;presentation-nuxt&#x2F;#)   |
-## VinnytsiaJS 2017 - Sat Aug 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL7GMpyIlGWSU-daVXdg16AgKi_ED7n1Td)
+## VinnytsiaJS 2017 - 2017 Aug 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL7GMpyIlGWSU-daVXdg16AgKi_ED7n1Td)
 | | | |
 | --- | :---: | --- |
 | [The portrait of professional developer 3.0](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Z48yWbWuU78)  | Mikalai Alimenkou |    |
@@ -34,7 +34,7 @@
 | [Serverless applications with cross-cloud experience](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;yfJcrEvQnJg)  | Andriy Deren |    |
 | [React Next - Fiber and Some other neat things](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SbWFMoZDxdA)  | Yevhen Shemet |    |
 | [Machines Must Suffer!](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4WLuNX2lPx0)  | Oleksandr Pavlyshch |    |
-## VinnytsiaJS 2016 - Sat Jul 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL7GMpyIlGWSV3M0bAmCS9TdRNWtayhmxc)
+## VinnytsiaJS 2016 - 2016 Jul 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL7GMpyIlGWSV3M0bAmCS9TdRNWtayhmxc)
 | | | |
 | --- | :---: | --- |
 | [JavaScript: The awesome parts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;wQuG094IdEw)  | Martin Splitt |    |

@@ -1,6 +1,6 @@
 # ChernivtsiJS
 
-## ChernivtsiJS - Sat Jun 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLt-pAIa9BS41XDcHK49CwzkOjEDB6eJ7q)
+## ChernivtsiJS - 2018 Jun 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLt-pAIa9BS41XDcHK49CwzkOjEDB6eJ7q)
 | | | |
 | --- | :---: | --- |
 | [How to adopt a project with stack which you don&#39;t know](https:&#x2F;&#x2F;youtu.be&#x2F;N7Jcnd9n8m8)  | Anton Yatseniuk | [:notebook:](https:&#x2F;&#x2F;chernivtsi.js.org&#x2F;how-to-adopt-project&#x2F;)   |

@@ -1,6 +1,6 @@
 # Vue.js Moscow Meetup
 
-## Vue.js Moscow Meetup 1 - Thu Mar 22 
+## Vue.js Moscow Meetup 1 - 2018 Mar 22 
 | | | |
 | --- | :---: | --- |
 | [Практика и методы работы со сложными формами во Vue.js](https:&#x2F;&#x2F;youtu.be&#x2F;h9NQs0SEVoA?t&#x3D;10m41s)  | Александр Башкирцев | [:notebook:](https:&#x2F;&#x2F;speakerdeck.com&#x2F;vuejsmoscow&#x2F;modieli-dannykh-dlia-form-riedaktirovaniia-alieksandr-bashkirtsiev-vue-dot-js-moscow-meetup)   |

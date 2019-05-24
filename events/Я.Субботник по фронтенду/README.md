@@ -1,6 +1,6 @@
 # Я.Субботник по фронтенду
 
-## Я.Субботник по фронтенду - Sat Jan 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_STEvOoLl_XLVZIX8Mek1L1Z)
+## Я.Субботник по фронтенду - 2018 Jan 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_STEvOoLl_XLVZIX8Mek1L1Z)
 | | | |
 | --- | :---: | --- |
 | [Долой рутину — автоматизируй это!](https:&#x2F;&#x2F;youtu.be&#x2F;_bzxuQe7k_s)  | Денис Чистяков | [:notebook:](https:&#x2F;&#x2F;yadi.sk&#x2F;i&#x2F;gWwvrvSO3Rckwx)   |
