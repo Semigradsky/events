@@ -1,6 +1,6 @@
 # Front-end MeetUp в Райффайзенбанк
 
-## Front-end MeetUp в Райффайзенбанк - Mar 28 
+## Front-end MeetUp в Райффайзенбанк - Wed Mar 28 
 | | | |
 | --- | :---: | --- |
 | [Higher Order Components with Functional Patterns Using Recompose](https:&#x2F;&#x2F;youtu.be&#x2F;5zPbydsnLoE?t&#x3D;2m3s)  | Григоров Дмитрий |    |

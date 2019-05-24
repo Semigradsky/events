@@ -1,6 +1,6 @@
 # fwdays
 
-## JavaScript fwdays&#39;18 - Mar 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLPcgQFk9n9y8_G0Gyh0yqDuiZqy15RLDo)
+## JavaScript fwdays&#39;18 - Sun Mar 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLPcgQFk9n9y8_G0Gyh0yqDuiZqy15RLDo)
 | | | |
 | --- | :---: | --- |
 | [JavaScript: День 4001-й](https:&#x2F;&#x2F;youtu.be&#x2F;jzaZlEOSwoA)  | Illya Klymov | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;fwdays&#x2F;javascript-4001)   |

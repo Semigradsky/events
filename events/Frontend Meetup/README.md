@@ -1,6 +1,6 @@
 # Frontend Meetup
 
-## Frontend Meetup 1 - Feb 03 
+## Frontend Meetup 1 - Sat Feb 03 
 | | | |
 | --- | :---: | --- |
 | [Библиотека компонентов для дизайнера и разработчика](https:&#x2F;&#x2F;youtu.be&#x2F;HPDmUqFgG0E)  | Максим Соснов |    |
