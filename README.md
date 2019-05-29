@@ -1,5 +1,12 @@
 # Events / 2019 / [2018](&#x2F;2018.md) / [2017](&#x2F;2017.md) / [2016](&#x2F;2016.md) / [2015](&#x2F;2015.md) / [2014](&#x2F;2014.md) / [2013](&#x2F;2013.md) / [2012](&#x2F;2012.md) / [2011](&#x2F;2011.md) / [2010](&#x2F;2010.md) / [2009](&#x2F;2009.md) 
 
+## WebAssembly Moscow 1 - May 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0)
+| | | |
+| --- | :---: | --- |
+| [WebAssembly введение](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0&amp;t&#x3D;0s)  | Илья Черторыльский |    |
+| [Обзор бандлеров в JS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0&amp;t&#x3D;1653s)  | Алексей Краснобаев |    |
+| [Практические аспекты применения Rust и взаимодествие с миром JS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0&amp;t&#x3D;3261s)  | Алексей Краснобаев, Илья Барышников |    |
+| [Быстрые, детерминированные и верифицируемые вычисления на WebAssembly](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0&amp;t&#x3D;4836s)  | Михаил Воронов |    |
 ## Tver.io Open-Source Meetup - May 10 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLiOxDlmyqigwsET23hypu15X7vTgxt00L)
 | | | |
 | --- | :---: | --- |
