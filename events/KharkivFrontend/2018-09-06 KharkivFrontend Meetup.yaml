@@ -1,0 +1,11 @@
+name: KharkivFrontend Meetup
+date: 2018-09-06
+videos: ''
+talks:
+  - name: Drawing Sound
+    speaker: Юрій Чайковський
+    video:
+    presentation:
+    lang: uk
+    tags:
+      - frontend

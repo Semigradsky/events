@@ -1,0 +1,18 @@
+name: KharkivFrontend Meetup \#PubEdition
+date: 2019-05-30
+videos: ''
+talks:
+  - name: Как сделать популярный опенсорс
+    speaker: Андрей Ситник
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name:
+    speaker: Ihor Zenich
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
