@@ -1,0 +1,18 @@
+name: DINS - JavaScript EVENING
+date: 2019-05-29
+videos: ''
+talks:
+  - name: Будущее React
+    speaker: Дмитрий Злыгин
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Баги, которые вы никогда не встретите
+    speaker: Тим Чаптыков
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
