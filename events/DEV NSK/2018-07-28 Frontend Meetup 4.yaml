@@ -1,0 +1,27 @@
+name: DEV NSK - Frontend Meetup 4
+date: 2018-07-28
+videos: ''
+talks:
+  - name: Знакомство с Vue
+    speaker: Маргарита Лукина
+    video: https://www.youtube.com/watch?v=JXIUVG41ebs
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - 'Vue.js'
+  - name: Универсальные приложения на Vue.js с использованием Nuxt.js
+    speaker: Виталий Мосин
+    video: https://www.youtube.com/watch?v=LgwZVU_NTYw
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - 'Vue.js'
+  - name: "Разработка под WebAssembly: реальные грабли и примеры"
+    speaker: Андрей Нагих
+    video: https://www.youtube.com/watch?v=XXiJ1yrbXcs
+    presentation:
+    lang: ru
+    tags:
+      - frontend

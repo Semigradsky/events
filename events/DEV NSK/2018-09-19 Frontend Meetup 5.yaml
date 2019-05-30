@@ -1,0 +1,18 @@
+name: DEV NSK - Frontend Meetup 5
+date: 2018-09-19
+videos: ''
+talks:
+  - name: Статическая типизация в JS
+    speaker: Максим Савичев
+    video: https://www.youtube.com/watch?v=L3cpfxgseFo
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Отслеживание ошибок в web-приложениях
+    speaker: Антон Калинин
+    video: https://www.youtube.com/watch?v=Yn8Oc4j7bLc&t=6s
+    presentation:
+    lang: ru
+    tags:
+      - frontend

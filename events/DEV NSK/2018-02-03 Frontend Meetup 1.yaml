@@ -1,5 +1,4 @@
-name: "Frontend Meetup 1"
-link: 'https://www.meetup.com/DEVNSK/events/246962197/'
+name: "DEV NSK - Frontend Meetup 1"
 date: 2018-02-03
 talks:
   - name: "Библиотека компонентов для дизайнера и разработчика"
@@ -17,6 +16,7 @@ talks:
   - name: "Flow в легаси коде - легко!"
     speaker: Глеб Фокин
     video: https://youtu.be/QkZhPpRhxSk
+    presentation: https://docs.google.com/presentation/d/1vy_XNiHAKaieEeVcoLmd82Eg4GAH8fV24_j2HaBGmzg/edit
     lang: ru
     tags:
       - frontend

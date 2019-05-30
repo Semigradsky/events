@@ -1,0 +1,26 @@
+name: DEV NSK - Frontend Meetup 2
+date: 2018-04-14
+videos: ''
+talks:
+  - name: PWA в мобильных приложениях!
+    speaker: Евгений Закурдаев
+    video: https://www.youtube.com/watch?v=PPhkR-wyWwc
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - mobile
+  - name: Управление состоянием при помощи mobx
+    speaker: Николай Ермаков
+    video: https://www.youtube.com/watch?v=fQMWwUWdLdo
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "Angular: обзор инженерного инструментария"
+    speaker: Олег Пименов
+    video: https://www.youtube.com/watch?v=P9lLw8mf8mA
+    presentation:
+    lang: ru
+    tags:
+      - frontend
