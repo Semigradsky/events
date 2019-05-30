@@ -1,0 +1,26 @@
+name: MinskJS 6
+date: 2019-05-23
+videos: https://www.youtube.com/playlist?list=PL-whh3wS8xsJMCmQclZUUGSAyTvSjuoOx
+talks:
+  - name: API браузеров, о которых вы могли не слышать
+    speaker: Антон Власик
+    video: https://www.youtube.com/watch?v=0N6mjg7ON1Q
+    presentation: https://drive.google.com/file/d/1Ufm9cJgrfy__GFPsyKEDHall1Qciqrzv/view
+    code: https://browser-api.netlify.com/
+    lang: ru
+    tags:
+      - frontend
+  - name: Как построить дом, если ты — веб-воркер?
+    speaker: Кирилл Чугаинов
+    video: https://www.youtube.com/watch?v=v3NtYdNcRNs
+    presentation: https://chugainov.github.io/web-worker/
+    lang: ru
+    tags:
+      - frontend
+  - name: Тяжёлое бремя времени
+    speaker: Виктор Хомяков
+    video: https://www.youtube.com/watch?v=Dylf_bfg6qg
+    presentation: https://victor-homyakov.github.io/burden-of-time/
+    lang: ru
+    tags:
+      - frontend
