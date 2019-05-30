@@ -1,0 +1,25 @@
+name: OdessaFrontend Meetup 8
+date: 2018-10-18
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0thXe7oZUh_Imwd2oBCE1eu
+talks:
+  - name: Пользовательское мышление и как с этим работать?
+    speaker: Александр Шатов
+    video: https://youtu.be/n7Qa2xbi0rE
+    presentation: https://www.slideshare.net/odessafrontend/odessafrontend-meetup-8
+    lang: ru
+    tags:
+      - frontend
+  - name: Make javascript great again
+    speaker: Алексей Шулев
+    video: https://youtu.be/z5C-fxx--sk
+    presentation: https://www.slideshare.net/odessafrontend/make-javascript-great-again-odessafrontend-meetup-8
+    lang: ru
+    tags:
+      - frontend
+  - name: Семантика для циников
+    speaker: Вадим Макеев
+    video: https://youtu.be/B5pomLr059U
+    presentation: https://odessafrontend.github.io/markup/
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,26 @@
+name: OdessaFrontend Meetup 9
+date: 2018-12-12
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0uG9YA46Ybk7tY0iT1DgPGB
+talks:
+  - name: "ThemeForest: Как пробиться и стоит ли игра свеч?"
+    speaker: Роман Пшеничный
+    video: https://youtu.be/2hXgLQ2MloA
+    presentation: https://www.slideshare.net/odessafrontend/themeforest-odessafrontend-meetup-9
+    lang: ru
+    tags:
+      - frontend
+  - name: Да что такого в этом Vue.js?
+    speaker:
+    video: https://youtu.be/_UUDoSbbuT0
+    presentation: https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9
+    lang: ru
+    tags:
+      - frontend
+      - 'Vue.js'
+  - name: Back to Basics — Как подружить верстку с логикой?
+    speaker: Константин Кулаксыз
+    video: https://youtu.be/m1TUU-OYK2s
+    presentation: https://www.slideshare.net/odessafrontend/back-to-basics-odessafrontend-meetup-9
+    lang: ru
+    tags:
+      - frontend

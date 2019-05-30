@@ -1,0 +1,26 @@
+name: OdessaFrontend Meetup 2
+date: 2017-10-31
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0uzUcZ72oQ3wDtbQpmOUcsM
+talks:
+  - name: "A11Y: Доступность динамических веб компонентов"
+    speaker: Алексей Кобылинский
+    video: https://youtu.be/MbtrzoTmWLo
+    presentation: https://www.slideshare.net/odessafrontend/a11y-odessafrontend-meetup-2
+    lang: ru
+    tags:
+      - frontend
+      - 'accessibility'
+  - name: Как перестать бояться бэкендa
+    speaker: Юрий Чихрай
+    video: https://youtu.be/GIA249p70fY
+    presentation: https://odessafrontend.github.io/backend/
+    lang: ru
+    tags:
+      - frontend
+  - name: Особенности верстки для продвижения сайта
+    speaker: Олег Сороченк
+    video: https://youtu.be/GsfDuW8jxJ0
+    presentation: https://www.slideshare.net/odessafrontend/odessafrontend-meetup-2
+    lang: ru
+    tags:
+      - frontend

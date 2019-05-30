@@ -1,0 +1,27 @@
+name: OdessaFrontend Meetup 3
+date: 2017-11-30
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0tZgxajbawMy-lbdvebjbME
+talks:
+  - name: Digital transformation. Change or die
+    speaker: Вадим Кириленко
+    video: https://youtu.be/kFEIC59Kjyk
+    presentation: https://www.slideshare.net/odessafrontend/digital-transformation-change-or-die-odessafrontend-meetup-3
+    lang: ru
+    tags:
+      - frontend
+  - name: IMG и BG
+    speaker: Дмитрий Крулькевич
+    video: https://youtu.be/OPzMWFZkj1Y
+    presentation: https://odessafrontend.github.io/IMGvsBG/
+    lang: ru
+    tags:
+      - frontend
+  - name: Использование Typescript в React
+    speaker: Валерий Доника
+    video: https://youtu.be/Ob2dB447P4I
+    code: https://github.com/DonikaV/ciklum-ts
+    lang: ru
+    tags:
+      - frontend
+      - TypeScript
+      - 'React'

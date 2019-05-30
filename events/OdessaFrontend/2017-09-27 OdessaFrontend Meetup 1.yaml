@@ -1,0 +1,25 @@
+name: OdessaFrontend Meetup 1
+date: 2017-09-27
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0vd-FIwlbtql1wdzU7cbZlz
+talks:
+  - name: Коротко о WebVR
+    speaker: Николай Романюк
+    video: https://youtu.be/UsqGv2o1ZI8
+    presentation: https://odessafrontend.github.io/webvr/
+    lang: ru
+    tags:
+      - frontend
+  - name: Восприятие типографики в веб-интерфейсах
+    speaker: Александр Шатов
+    video: https://youtu.be/2a_I_UuKiEs
+    presentation: https://www.slideshare.net/odessafrontend/web-odessafrontend-meetup-1
+    lang: ru
+    tags:
+      - frontend
+  - name: Эволюция раскладки
+    speaker: Николай Птущук
+    video: https://youtu.be/JPs5bEHWclA
+    presentation: https://odessafrontend.github.io/evolution/
+    lang: ru
+    tags:
+      - frontend

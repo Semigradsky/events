@@ -1,6 +1,6 @@
 name: "OdessaFrontend Meetup 5"
-link: 'http://odessafrontend.com/05/'
 date: 2018-01-31
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0tfxFpWvPvMTBCvTqNKzcM0
 talks:
   - name: "Webpack для самых маленьких"
     speaker: Никита Ротарь

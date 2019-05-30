@@ -1,6 +1,6 @@
 name: "OdessaFrontend Code challenge"
-link: 'http://odessafrontend.com/code/'
 date: 2018-03-13
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0tN3gU-qbndAPADpDrR3ODk
 talks:
   - name: "Построение простого REST сервера на Node.js"
     speaker: Дмитрий Миндра

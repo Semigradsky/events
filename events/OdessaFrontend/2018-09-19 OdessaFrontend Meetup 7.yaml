@@ -1,0 +1,25 @@
+name: OdessaFrontend Meetup 7
+date: 2018-09-19
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0t6XtuoHt6sp1tTxQ78UNlV
+talks:
+  - name: Atomic CSS — полёт нормальный
+    speaker: Дмитрий Цысарь
+    video: https://youtu.be/jTsS5meLsJs
+    presentation: https://odessafrontend.github.io/AtomicCSS/#/
+    lang: ru
+    tags:
+      - frontend
+  - name: 3 способа стать полезнее команде
+    speaker: Алексей Брошков
+    video: https://youtu.be/N2KEdH2Psak
+    presentation: https://www.slideshare.net/odessafrontend/3-odessafrontend-meetup-7/odessafrontend/3-odessafrontend-meetup-7
+    lang: ru
+    tags:
+      - frontend
+  - name: Оптимизация react+redux приложений
+    speaker: Валентин Череватый
+    video: https://youtu.be/TDDkaYSKR9c
+    presentation: https://www.slideshare.net/odessafrontend/reactredux-odessafrontend-meetup-7
+    lang: ru
+    tags:
+      - frontend

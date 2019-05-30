@@ -1,0 +1,26 @@
+name: OdessaFrontend Meetup 4
+date: 2017-12-21
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0tuA4GrNvqhbssG0FMgSFMC
+talks:
+  - name: Front-End оптимизация круче, чем у гугла
+    speaker: Максим Мазурок
+    video: https://youtu.be/BWJQedqiwiw
+    presentation: https://www.slideshare.net/odessafrontend/frontend-odessafronted-meetup-4
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS Modules в React
+    speaker: Сергей Котерняк
+    video: https://youtu.be/Gk0FOGJiO40
+    presentation: https://www.slideshare.net/odessafrontend/css-modules-react-odessafrontend-meetup-4
+    lang: ru
+    tags:
+      - frontend
+      - 'React'
+  - name: Как пройти собеседование по js? И зачем?
+    speaker: Юрий Федоренко
+    video: https://youtu.be/uYJyIE3id-M
+    presentation: https://www.slideshare.net/odessafrontend/js-odessafrontend-meetup-4
+    lang: ru
+    tags:
+      - frontend
