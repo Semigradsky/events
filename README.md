@@ -84,6 +84,12 @@
 | [Animation in the Air](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Wqn_kmMpCGc&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;3) [uk] | Христина Ландвитович | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;cristinalandvytovych&#x2F;animation&#x2F;#&#x2F;)   |
 | [Code Ownership](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ICZsVKgbMe8&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;4)  | Станислав Слесарев | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL&#x2F;view)   |
 | [Using WebStorm like a pro](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dxSQQufii3s&amp;list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&amp;index&#x3D;5)  | Максим Донченко |    |
+## OdessaFrontend Meetup 11 - Mar 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0upGuy49QySeU-eMjfuzh2P)
+| | | |
+| --- | :---: | --- |
+| [We do n̶o̶t̶ sow or Ivy is coming](https:&#x2F;&#x2F;youtu.be&#x2F;9EOOHaj5LBM)  | Никита Малик | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;exiliot&#x2F;ivy-is-coming#&#x2F;)   |
+| [1000 и 1 блюдо из джаваскрипта](https:&#x2F;&#x2F;youtu.be&#x2F;hlip_L5RWrk)  | Владислав Балабаш | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;odessafrontend&#x2F;1000-1-odessafrontend-meetup-10&#x2F;)   |
+| [Highway to FPS or true animations in Angular](https:&#x2F;&#x2F;youtu.be&#x2F;ywBEtfKunu4)  | Денис Бурячковски | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;odessafrontend&#x2F;highway-to-fps-or-true-animations-in-angular-odessafrontend-meetup-11)   |
 ## Simferopol Frontend 2 - Mar 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)
 | | | |
 | --- | :---: | --- |
@@ -156,6 +162,12 @@
 | [Скажи ревьюеру “Нет!”](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;FV5xeLwYLNM)  | Павел Герасимов | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;34&#x2F;gerasimov.pdf)   |
 | [Гатсби — больше чем генератор сайтов](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;BkliE5w5wnw)  | Михаил Новиков | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;34&#x2F;novikov.pdf)   |
 | [Пиратское радио на NodeJS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ubMGsDHDshI)  | Григорий Горшков | [:notebook:](https:&#x2F;&#x2F;fs.piterjs.org&#x2F;events&#x2F;34&#x2F;gorshkov.pdf)   |
+## OdessaFrontend Meetup 10 - Feb 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0utPw7VAG4CnKRcAz2WEQhu)
+| | | |
+| --- | :---: | --- |
+| [Оптимизация скорости сайта без использования AMP](https:&#x2F;&#x2F;youtu.be&#x2F;vW2Rmo8TBbM)  | Дмитрий Шевченко | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;odessafrontend&#x2F;amp-odessafrontend-meetup-10)   |
+| [All you need is Vue, Nuxt is all you need](https:&#x2F;&#x2F;youtu.be&#x2F;NxWXr0S9jSk)  | Андрей Стягайло | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;odessafrontend&#x2F;all-you-need-is-vue-nuxt-is-all-you-need-odessafrontend-meetup-10)   |
+| [Перепись приложения. Нативного. На JS. Done.](https:&#x2F;&#x2F;youtu.be&#x2F;4DN3ctq7RDM)  | Тимофей Лавренюк | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;odessafrontend&#x2F;js-done-odessafrontend-meetup-10)   |
 ## The Rolling Scopes &amp; MobilePeople - Feb 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)
 | | | |
 | --- | :---: | --- |
