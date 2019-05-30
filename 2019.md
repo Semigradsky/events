@@ -1,5 +1,11 @@
 # Events / 2019 / [2018](&#x2F;2018.md) / [2017](&#x2F;2017.md) / [2016](&#x2F;2016.md) / [2015](&#x2F;2015.md) / [2014](&#x2F;2014.md) / [2013](&#x2F;2013.md) / [2012](&#x2F;2012.md) / [2011](&#x2F;2011.md) / [2010](&#x2F;2010.md) / [2009](&#x2F;2009.md) 
 
+## MinskJS 6 - May 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsJMCmQclZUUGSAyTvSjuoOx)
+| | | |
+| --- | :---: | --- |
+| [API браузеров, о которых вы могли не слышать](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;0N6mjg7ON1Q)  | Антон Власик | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Ufm9cJgrfy__GFPsyKEDHall1Qciqrzv&#x2F;view) [:octocat:](https:&#x2F;&#x2F;browser-api.netlify.com&#x2F;)  |
+| [Как построить дом, если ты — веб-воркер?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;v3NtYdNcRNs)  | Кирилл Чугаинов | [:notebook:](https:&#x2F;&#x2F;chugainov.github.io&#x2F;web-worker&#x2F;)   |
+| [Тяжёлое бремя времени](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Dylf_bfg6qg)  | Виктор Хомяков | [:notebook:](https:&#x2F;&#x2F;victor-homyakov.github.io&#x2F;burden-of-time&#x2F;)   |
 ## WebAssembly Moscow 1 - May 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0)
 | | | |
 | --- | :---: | --- |

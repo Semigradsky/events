@@ -1,5 +1,11 @@
 # MinskJS
 
+## MinskJS 6 - 2019 May 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsJMCmQclZUUGSAyTvSjuoOx)
+| | | |
+| --- | :---: | --- |
+| [API браузеров, о которых вы могли не слышать](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;0N6mjg7ON1Q)  | Антон Власик | [:notebook:](https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Ufm9cJgrfy__GFPsyKEDHall1Qciqrzv&#x2F;view) [:octocat:](https:&#x2F;&#x2F;browser-api.netlify.com&#x2F;)  |
+| [Как построить дом, если ты — веб-воркер?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;v3NtYdNcRNs)  | Кирилл Чугаинов | [:notebook:](https:&#x2F;&#x2F;chugainov.github.io&#x2F;web-worker&#x2F;)   |
+| [Тяжёлое бремя времени](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Dylf_bfg6qg)  | Виктор Хомяков | [:notebook:](https:&#x2F;&#x2F;victor-homyakov.github.io&#x2F;burden-of-time&#x2F;)   |
 ## MinskJS 5 - 2019 Feb 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsKJHySf_D3Kfpbhx8FVNKLp)
 | | | |
 | --- | :---: | --- |
