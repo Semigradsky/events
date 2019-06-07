@@ -13,6 +13,12 @@
 | [Обзор бандлеров в JS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0&amp;t&#x3D;1653s)  | Алексей Краснобаев |    |
 | [Практические аспекты применения Rust и взаимодествие с миром JS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0&amp;t&#x3D;3261s)  | Алексей Краснобаев, Илья Барышников |    |
 | [Быстрые, детерминированные и верифицируемые вычисления на WebAssembly](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0&amp;t&#x3D;4836s)  | Михаил Воронов |    |
+## moscowcss 12 - May 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;LHOJybXuMdc)
+| | | |
+| --- | :---: | --- |
+| [Великие художники воруют](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;LHOJybXuMdc)  | Алексей Охрименко | [:notebook:](https:&#x2F;&#x2F;vk.com&#x2F;doc426295704_503700807)   |
+| [Рабочая эффективность: как я пытался обуздать свой день](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;LHOJybXuMdc)  | Игорь Лесневский | [:notebook:](https:&#x2F;&#x2F;vk.com&#x2F;doc426295704_503700535)   |
+| [Про SVG простым и понятным языком](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;LHOJybXuMdc)  | Никита Борисов | [:notebook:](https:&#x2F;&#x2F;vk.com&#x2F;doc426295704_503700593)   |
 ## Tver.io Open-Source Meetup - May 10 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLiOxDlmyqigwsET23hypu15X7vTgxt00L)
 | | | |
 | --- | :---: | --- |
@@ -90,6 +96,13 @@
 | [We do n̶o̶t̶ sow or Ivy is coming](https:&#x2F;&#x2F;youtu.be&#x2F;9EOOHaj5LBM)  | Никита Малик | [:notebook:](https:&#x2F;&#x2F;slides.com&#x2F;exiliot&#x2F;ivy-is-coming#&#x2F;)   |
 | [1000 и 1 блюдо из джаваскрипта](https:&#x2F;&#x2F;youtu.be&#x2F;hlip_L5RWrk)  | Владислав Балабаш | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;odessafrontend&#x2F;1000-1-odessafrontend-meetup-10&#x2F;)   |
 | [Highway to FPS or true animations in Angular](https:&#x2F;&#x2F;youtu.be&#x2F;ywBEtfKunu4)  | Денис Бурячковски | [:notebook:](https:&#x2F;&#x2F;www.slideshare.net&#x2F;odessafrontend&#x2F;highway-to-fps-or-true-animations-in-angular-odessafrontend-meetup-11)   |
+## moscowcss 11 - Mar 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ijZTu7aVJtg)
+| | | |
+| --- | :---: | --- |
+| [Как приручить токены](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ijZTu7aVJtg)  | Виктория Дубровская, Георгий Бузин |    |
+| [Давайте не будем ждать?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ijZTu7aVJtg)  | Алексей Попков |    |
+| [Тестирование фронтенда для разработчиков​](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ijZTu7aVJtg)  | Александра Шинкевич |    |
+| [MacOS Driven Development](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ijZTu7aVJtg)  | Никита Дубко |    |
 ## Simferopol Frontend 2 - Mar 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)
 | | | |
 | --- | :---: | --- |
