@@ -1,0 +1,18 @@
+name: Panda Meetup 19 Frontend
+date: 2019-06-26
+videos: ''
+talks:
+  - name: CSS-in-JS ожидания и реальность
+    speaker: Александр Шамшурин
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Data-driven Apps with Relay Modern
+    speaker: Александр Руденко
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend

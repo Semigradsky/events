@@ -1,0 +1,34 @@
+name: Panda Meetup 9 Frontend
+date: 2018-11-24
+videos: ''
+talks:
+  - name: Базис «React'ивного» интерфейса
+    speaker: Артём Белов
+    video: https://www.youtube.com/watch?v=gbmjVxb3qqo
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Нагружаем Angular-гибрид горячими клавишами
+    speaker: Сергей Левин
+    video: https://www.youtube.com/watch?v=K5RJOH93VFA
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - 'Angular'
+  - name: Интерактив на грани перфоманса. С телефонией и Dialogflow
+    speaker: Василий Корянов
+    video: https://www.youtube.com/watch?v=35Sq0xkc3O0
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Преимущества следования styleguide'ам при разработке Angular-приложений
+    speaker: Евгений Холмов
+    video: https://www.youtube.com/watch?v=0WHW37Wif54
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - 'Angular'
