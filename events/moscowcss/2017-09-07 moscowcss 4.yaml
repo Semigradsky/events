@@ -1,0 +1,25 @@
+name: moscowcss 4
+date: 2017-09-07
+videos: https://www.youtube.com/playlist?list=PLAf_MJ7SOshFvLMjSNtcEyl0J9gL6Q7Yz
+talks:
+  - name: Обратная сторона UI Kit
+    speaker: Максим Панов
+    video: https://www.youtube.com/watch?v=Z1v9IWKh7aU
+    presentation: http://css.moscow/4/ui-kit.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS и HTML — это язык программирования
+    speaker: Алексей Охрименко
+    video: https://www.youtube.com/watch?v=KmMWxnqVYYM
+    presentation: http://css.moscow/4/css-html-programming.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Пишем игры без JS
+    speaker: Леонид Лебедев
+    video: https://www.youtube.com/watch?v=Lj68Ite2DOc
+    presentation: https://leonidlebedev.github.io/presentations/2017-09-07_MoscowCSS/
+    lang: ru
+    tags:
+      - frontend

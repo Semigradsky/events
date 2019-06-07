@@ -1,0 +1,25 @@
+name: moscowcss 2
+date: 2017-04-06
+videos: https://www.youtube.com/playlist?list=PLAf_MJ7SOshHyefkXgmb8YBb6PoVbxyb6
+talks:
+  - name: Недокументированные приемы CSS
+    speaker: Дмитрий Григоров
+    video: https://www.youtube.com/watch?v=fIAokeTWgGU
+    presentation: http://css.moscow/2/undocument-css.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Пора начинать фыркать – Grid Layout уже здесь
+    speaker: Сергей Попов
+    video: https://www.youtube.com/watch?v=GdG6Mv-HDLs
+    presentation: http://css.moscow/2/grid-layout.pdf
+    lang: ru
+    tags:
+      - frontend
+  - name: Следим за CSS
+    speaker: Дарья Пушкарская
+    video: https://www.youtube.com/watch?v=67ZnhTpsH-Y
+    presentation: http://slides.com/d_pushkarskaya/css#/
+    lang: ru
+    tags:
+      - frontend

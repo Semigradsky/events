@@ -1,0 +1,25 @@
+name: moscowcss 7
+date: 2018-03-06
+videos: https://www.facebook.com/afishamansarda/videos/1901332616557448/
+talks:
+  - name: Рендеринг шрифтов в веб
+    speaker: Андрей Яманов
+    video: https://www.facebook.com/afishamansarda/videos/1901332616557448/
+    presentation: https://vk.com/doc4174564_461141806
+    lang: ru
+    tags:
+      - frontend
+  - name: Производительность верстки
+    speaker: Алексей Охрименко
+    video: https://www.facebook.com/afishamansarda/videos/1901332616557448/
+    presentation: https://vk.com/doc4174564_461141785
+    lang: ru
+    tags:
+      - frontend
+  - name: В мире компонентов. СSSinJS
+    speaker: Александр Шаталов
+    video: https://www.facebook.com/afishamansarda/videos/1901332616557448/
+    presentation: https://vk.com/doc4174564_461141847
+    lang: ru
+    tags:
+      - frontend

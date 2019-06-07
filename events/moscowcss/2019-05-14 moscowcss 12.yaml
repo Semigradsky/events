@@ -1,0 +1,25 @@
+name: moscowcss 12
+date: 2019-05-14
+videos: https://www.youtube.com/watch?v=LHOJybXuMdc
+talks:
+  - name: Великие художники воруют
+    speaker: Алексей Охрименко
+    video: https://www.youtube.com/watch?v=LHOJybXuMdc
+    presentation: https://vk.com/doc426295704_503700807
+    lang: ru
+    tags:
+      - frontend
+  - name: "Рабочая эффективность: как я пытался обуздать свой день"
+    speaker: Игорь Лесневский
+    video: https://www.youtube.com/watch?v=LHOJybXuMdc
+    presentation: https://vk.com/doc426295704_503700535
+    lang: ru
+    tags:
+      - frontend
+  - name: Про SVG простым и понятным языком
+    speaker: Никита Борисов
+    video: https://www.youtube.com/watch?v=LHOJybXuMdc
+    presentation: https://vk.com/doc426295704_503700593
+    lang: ru
+    tags:
+      - frontend

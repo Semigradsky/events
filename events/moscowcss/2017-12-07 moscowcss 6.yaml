@@ -1,0 +1,25 @@
+name: moscowcss 6
+date: 2017-12-07
+videos: ''
+talks:
+  - name: "Трудности перевода: процессы дизайн-разработка"
+    speaker: Саша Ермоленко
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: 10 простых правил дизайна для фронтенда
+    speaker: Миша Розов
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Яндекс.Красота – дизайн для миллионов
+    speaker: Антон Виноградов
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
