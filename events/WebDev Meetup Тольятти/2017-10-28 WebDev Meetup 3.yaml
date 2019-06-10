@@ -1,0 +1,27 @@
+name: WebDev Meetup 3
+date: 2017-10-28
+videos: https://www.youtube.com/playlist?list=PLbtisIOPwVkXHQVAUTnJ77h9xvo9QjVda
+talks:
+  - name: Кто такой FrontEnd разработчик в современном мире?
+    speaker: Андрей Гребнев
+    video: https://www.youtube.com/watch?v=Dw2VKT04pJw
+    presentation: http://slides.com/radyushin/frontender#/
+    lang: ru
+    tags:
+      - frontend
+  - name: Основы юнит тестирования на примере реакт компонентов
+    speaker: Иван Мельников
+    video: https://www.youtube.com/watch?v=mweUWKmQz0E
+    presentation: http://slides.com/oldgraff/deck#/
+    lang: ru
+    tags:
+      - frontend
+      - 'testing'
+      - 'React'
+  - name: Как держать код в чистоте
+    speaker: Алексей Ульянов
+    video: https://www.youtube.com/watch?v=V3T1DW-TpwI
+    presentation: http://slides.com/donrai/clean-code#/
+    lang: ru
+    tags:
+      - frontend

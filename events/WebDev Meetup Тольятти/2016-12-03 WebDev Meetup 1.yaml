@@ -1,0 +1,26 @@
+name: WebDev Meetup 1
+date: 2016-12-03
+videos: ''
+talks:
+  - name: Vue.js – Progressive JavaScript Framework
+    speaker: Владислав Смирнов
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - 'Vue.js'
+  - name: Yarn! Замена NPM?
+    speaker: Алексей Ульянов
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: 60FPS – Ускоряем Веб
+    speaker: Евгений Джумак
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
