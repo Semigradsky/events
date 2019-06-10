@@ -32,7 +32,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: 'Если у вас нету тестов, то...'
+  - name: 'Если у вас нету тестов…'
     speaker: Сергей Жигалов
     video: https://www.youtube.com/watch?v=L7FzfkVJJJc
     lang: ru

@@ -65,7 +65,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "Верстальщик. Наследие"
+  - name: "Верстальщик: Наследие"
     speaker: Сергей Попов
     video: https://www.youtube.com/watch?v=Z9of2cj28hY
     presentation: https://wsd.events/2017/10/21/pres/coder-legacy.pdf

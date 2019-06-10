@@ -1,9 +1,14 @@
 # Speakers
+
+1. [All speakers](#all-speakers)
+2. [By the count of talks (more than one)](#by-the-count-of-talks-more-than-one)
+
+## All speakers
 {{#speakers}}
 - [{{speaker}}]({{speakerLink}}) ({{countTalks}})
 {{/speakers}}
 
-# By the count of talks (more than one)
+## By the count of talks (more than one)
 {{#speakersByCount}}
 - [{{speaker}}]({{speakerLink}}) ({{countTalks}})
 {{/speakersByCount}}

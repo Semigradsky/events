@@ -33,7 +33,7 @@ talks:
     speaker: Михаил Боднарчук
     lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2016/review/acceptance-testing-in-nodejs'
-  - name: 'Workshop: Shaders - unlocking the GPU with JavaScript'
+  - name: 'Shaders - unlocking the GPU with JavaScript'
     speaker: Martin Naumann
     lang: en
     url: 'https://frameworksdays.com/event/js-frameworks-day-2016/review/shaders-unlocking-gpu-with-js'
@@ -49,10 +49,6 @@ talks:
     speaker: Елена Жукова
     lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2016/review/native-js-on-mobile'
-  - name: 'Workshop: Shaders - unlocking the GPU with JavaScript'
-    speaker: Martin Naumann
-    lang: en
-    url: 'https://frameworksdays.com/event/js-frameworks-day-2016/review/shaders-unlocking-gpu-with-js'
   - name: Будущее асинхронного программирования в ECMAScript
     speaker: Алексей Распопов
     lang: ru

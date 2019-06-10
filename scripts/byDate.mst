@@ -5,6 +5,6 @@
 | | | |
 | --- | :---: | --- |
 {{#talks}}
-| {{#url}}[{{name}}]({{url}}){{/url}}{{^url}}{{name}}{{/url}} {{#lang}}[{{lang}}]{{/lang}} | {{speaker}} | {{#presentation}}[:notebook:]({{presentation}}){{/presentation}} {{#code}}[:octocat:]({{code}}){{/code}} {{#text}}[:spiral_notepad:]({{text}}){{/text}} |
+| {{#url}}[{{name}}]({{& url}}){{/url}}{{^url}}{{name}}{{/url}} {{#lang}}[{{lang}}]{{/lang}} | {{speaker}} | {{#presentation}}[:notebook:]({{& presentation}}){{/presentation}} {{#code}}[:octocat:]({{& code}}){{/code}} {{#text}}[:spiral_notepad:]({{& text}}){{/text}} |
 {{/talks}}
 {{/events}}

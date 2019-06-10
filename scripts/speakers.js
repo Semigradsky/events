@@ -51,16 +51,26 @@ async function writeAllSpeakers(groupedDataBySpeakers) {
     return Mustache.render(allSpeakersPattern.toString(), { speakers, speakersByCount })
 }
 
+function formatTalkName(talkName) {
+    return talkName.replace(/\s/g, ' ').replace(/ - /g, ' — ')
+}
+
 function getGroupedDataBySpeakers(speakers, speakersData) {
     const groupedBySpeakers = new Map()
 
     for (const speaker of speakers) {
         const talksData = speakersData.filter(speakerData => speakerData.speaker === speaker).reduce((acc, speakerData) => {
-            const foundTalkIndex = acc.findIndex(x => x.talk === speakerData.talk.name)
+            if (!speakerData.talk.name) {
+                console.log(speakerData.talk)
+            }
+
+            const talkName = formatTalkName(speakerData.talk.name)
+
+            const foundTalkIndex = acc.findIndex(x => x.talk === talkName)
 
             if (foundTalkIndex === -1) {
                 acc.push({
-                    talk: speakerData.talk.name,
+                    talk: talkName,
                     events: [{
                         ...speakerData.event,
                         url: speakerData.talk.video || speakerData.talk.url,
