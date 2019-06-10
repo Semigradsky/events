@@ -1,0 +1,18 @@
+name: WebDev Meetup 6
+date: 2018-01-18
+videos: ''
+talks:
+  - name: Web accessibility
+    speaker: Evangelina Ferreira
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: React, Redux, Websockets and all the creepy folks
+    speaker: Dmitry Mikryukov
+    video: https://www.youtube.com/watch?v=kMzB3tCSyls
+    presentation:
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,18 @@
+name: WebDev Meetup 3
+date: 2017-08-19
+videos: ''
+talks:
+  - name: How to use redux in Polymer apps?
+    speaker: Victor Lukashov
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Web Performance 101
+    speaker: Evgeny Chekan
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
