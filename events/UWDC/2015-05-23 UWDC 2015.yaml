@@ -1,0 +1,32 @@
+name: UWDC 2015
+date: 2015-05-23
+videos: https://www.youtube.com/playlist?list=PLVoeNl1W-7DckFCr8T1XIA5LsBTdWudr3
+talks:
+  - name: SmartTV на веб-технологиях
+    speaker: Михаил Лабанов
+    video: https://www.youtube.com/watch?v=3Gg3x_wjXoU
+    presentation: https://www.slideshare.net/moscowjs/smarttv-39523900
+    lang: ru
+    tags:
+      - frontend
+  - name: Битрикс24 - новейшие технологии для управления и коммуникаций
+    speaker: Александр Сербул
+    video: https://www.youtube.com/watch?v=R-pxQa8RoRw
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Обучение разработчиков?! Я думал они как-нибудь сами…
+    speaker: Павел Егоров
+    video: https://www.youtube.com/watch?v=BwT_ne808PY
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: От простого к сложному
+    speaker: Владимир Кузнецов
+    video: https://www.youtube.com/watch?v=SnSrZVMtOpI
+    presentation:
+    lang: ru
+    tags:
+      - frontend
