@@ -1,5 +1,15 @@
 # Events / 2019 / [2018](&#x2F;2018.md) / [2017](&#x2F;2017.md) / [2016](&#x2F;2016.md) / [2015](&#x2F;2015.md) / [2014](&#x2F;2014.md) / [2013](&#x2F;2013.md) / [2012](&#x2F;2012.md) / [2011](&#x2F;2011.md) / [2010](&#x2F;2010.md) / [2009](&#x2F;2009.md) 
 
+## UWDC 2019 - Jun 01 
+| | | |
+| --- | :---: | --- |
+| [React. Возможны побочные эффекты](https://youtu.be/o99D6zgi31g)  | Владимир Кузнецов |    |
+| [Tips and tricks from school](https://youtu.be/0Ol1XHk3vsA)  | Владимир Куликов |    |
+| [Figma to React: система эффективной доставки изменений дизайна в код](https://youtu.be/0Ol1XHk3vsA)  | Александр Каменяр |    |
+| [Будет ли существовать профессия веб-разработчика в будущем?](https://youtu.be/0Ol1XHk3vsA)  | Дарья Пушкарская |    |
+| [Сложная работа со сложными данными — SQL(подробные) запросы для JSON](https://youtu.be/o99D6zgi31g)  | Алексей Охрименко |    |
+| [От компонентов к архитектуре](https://youtu.be/o99D6zgi31g)  | Иван Никишкин |    |
+| [From bloody to sweety enterprise](https://youtu.be/o99D6zgi31g)  | Зар Захаров |    |
 ## MinskJS 6 - May 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsJMCmQclZUUGSAyTvSjuoOx)
 | | | |
 | --- | :---: | --- |
