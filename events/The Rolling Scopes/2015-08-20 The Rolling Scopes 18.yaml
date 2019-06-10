@@ -3,7 +3,7 @@ date: 2015-08-20
 videos: https://www.youtube.com/watch?v=THO4I65quo4
 talks:
   - name: "Taucharts: что скрывают эти данные, сhart побери!"
-    speaker: 'Владимир Петрико,Константин Кривленя'
+    speaker: 'Владимир Петрико, Константин Кривленя'
     video: https://www.youtube.com/watch?v=R3koYlR6aao
     lang: ru
     tags:
@@ -16,7 +16,7 @@ talks:
       - frontend
       - mobile
   - name: "Git, Commmit and Code Review"
-    speaker: Dzmitry Varabei
+    speaker: Дмитрий Воробей
     video: https://www.youtube.com/watch?v=LKVK_uCZ4Cg
     lang: ru
     tags:

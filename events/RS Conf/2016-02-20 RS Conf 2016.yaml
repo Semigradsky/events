@@ -28,7 +28,7 @@ talks:
     tags:
       - frontend
   - name: "WebRTC in Action!"
-    speaker: Nastassia Kiseleva,Konstantin Leyer
+    speaker: Nastassia Kiseleva, Konstantin Leyer
     video: https://www.youtube.com/watch?v=V3pBE-wVciU
     lang: en
     tags:
@@ -46,7 +46,7 @@ talks:
     tags:
       - frontend
   - name: "Typography: from metal to pixels"
-    speaker: Roman Prudnikov
+    speaker: Роман Прудников
     video: https://www.youtube.com/watch?v=EuXrh_T2aLg
     lang: ru
     tags:
@@ -64,13 +64,13 @@ talks:
     tags:
       - frontend
   - name: "Качество. Как делать свою работу хорошо"
-    speaker: Andrey Listochkin
+    speaker: Андрей Листочкин
     video: https://www.youtube.com/watch?v=Mx22NaWmFhk
     lang: ru
     tags:
       - frontend
   - name: "Dirty Little Tricks From The Dark Corners of eCommerce"
-    speaker: Vitaly Friedman
+    speaker: Виталий Фридман
     video: https://www.youtube.com/watch?v=R-n_E0U1zC4
     presentation: https://www.youtube.com/watch?v=VVnvFAOXZvo
     lang: ru
@@ -90,7 +90,7 @@ talks:
     tags:
       - frontend
   - name: "Проектирование в тестировании"
-    speaker: Andrey Listochkin
+    speaker: Андрей Листочкин
     video: https://www.youtube.com/watch?v=lS8EFtdKCUY&t=1076s
     lang: ru
     tags:

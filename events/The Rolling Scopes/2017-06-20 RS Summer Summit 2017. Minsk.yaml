@@ -12,13 +12,13 @@ talks:
       - frontend
       - testing
   - name: "React Native shared components. Write once, use everywhere (well, almost everywhere)"
-    speaker: Andrei Lesnitsky
+    speaker: Андрей Лесницкий
     lang: ru
     tags:
       - frontend
       - mobile
   - name: "React Native & ClosureScript"
-    speaker: Siarhei Melnik
+    speaker: Сергей Мельник
     lang: ru
     tags:
       - frontend

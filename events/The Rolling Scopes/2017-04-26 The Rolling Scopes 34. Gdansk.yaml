@@ -2,17 +2,12 @@ name: "The Rolling Scopes 34. Gdansk"
 date: 2017-04-26
 talks:
   - name: "Accessibility Driven Development: why would you even care?"
-    speaker: Vadzim Yakushau
+    speaker: Вадим Якушев
     lang: ru
     tags:
       - frontend
   - name: "Start Using Custom Elements"
     speaker: Ricardo Casares
-    lang: ru
-    tags:
-      - frontend
-  - name: "Lodash QuickDraw!"
-    speaker: Alexander Gerasimov
     lang: ru
     tags:
       - frontend

@@ -9,14 +9,14 @@ talks:
     tags:
       - frontend
   - name: "SpainJS"
-    speaker: 'Андрей Глухманчук,Alexander Gerasimov,Dzmitry Varabei,Александр Карлович'
+    speaker: 'Андрей Глухманчук, Александр Герасимов, Дмитрий Воробей, Александр Карлович'
     video: https://www.youtube.com/watch?v=Z6zuVuF2QGI
     presentation: https://speakerdeck.com/alexkarlovich/uploaded-favorites-of-spainjs-the-rollingscopes-number-3
     lang: ru
     tags:
       - frontend
   - name: "Browser internals"
-    speaker: Dzmitry Varabei
+    speaker: Дмитрий Воробей
     lang: ru
     tags:
       - frontend

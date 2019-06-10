@@ -13,7 +13,7 @@ talks:
     tags:
       - frontend
   - name: "Front-end project assets management"
-    speaker: 'Alexander Gerasimov,Андрей Глухманчук'
+    speaker: 'Александр Герасимов, Андрей Глухманчук'
     presentation: http://rolling-scopes.github.io/slides/rs2/front-end-project-assets-management
     lang: ru
     tags:
@@ -30,7 +30,7 @@ talks:
     tags:
       - frontend
   - name: "Quiz"
-    speaker: Alexander Gerasimov
+    speaker: Александр Герасимов
     presentation: http://rolling-scopes.github.io/slides/rs2/quiz
     lang: ru
     tags:

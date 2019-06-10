@@ -3,7 +3,7 @@ date: 2018-07-21
 videos: 'https://www.youtube.com/playlist?list=PL7GMpyIlGWSXPe93ZHYMnn9FHwNlwC1yO'
 talks:
   - name: "Programming rich UIs without JavaScript? Easy-peasy"
-    speaker: Roman Liutikov
+    speaker: Роман Лютиков
     video: https://youtu.be/5IQVSJQvlEE
     lang: ru
     tags:
@@ -35,7 +35,7 @@ talks:
     tags:
       - frontend
   - name: "Clojure - Modern Lisp"
-    speaker: Roman Liutikov
+    speaker: Роман Лютиков
     video: https://youtu.be/eb3hDv_CuD8
     lang: ru
     tags:

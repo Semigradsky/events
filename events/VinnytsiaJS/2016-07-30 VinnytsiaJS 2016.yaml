@@ -5,7 +5,7 @@ talks:
   - name: 'JavaScript: The awesome parts'
     speaker: Martin Splitt
     video: 'https://www.youtube.com/watch?v=wQuG094IdEw'
-    lang: ru
+    lang: en
     tags:
       - frontend
   - name: Hidden capabilities of well-known things
@@ -27,7 +27,7 @@ talks:
     tags:
       - frontend
   - name: Smart Office - the practical application of IoT in JS development
-    speaker:  Dmytro Golysh, Yuriy Tkachenko
+    speaker:  Dmytro Golysh, Юрий Ткаченко
     video: 'https://www.youtube.com/watch?v=qWHMK_uHT4I'
     lang: ru
     tags:
@@ -51,7 +51,7 @@ talks:
     tags:
       - frontend
   - name: Frontend Performance Metrics. Measure First. Measure Often
-    speaker: 'Artem Zakharchenko,'
+    speaker: 'Artem Zakharchenko'
     video: 'https://www.youtube.com/watch?v=mUG0iVj3Bb0'
     lang: ru
     tags:
@@ -75,7 +75,7 @@ talks:
     tags:
       - frontend
   - name: 'React Native: Are we there yet'
-    speaker: Roman Liutikov
+    speaker: Роман Лютиков
     video: 'https://www.youtube.com/watch?v=o2_qDphpjlQ'
     lang: ru
     tags:

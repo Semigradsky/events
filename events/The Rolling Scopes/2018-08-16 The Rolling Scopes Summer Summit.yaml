@@ -2,7 +2,7 @@ name: "The Rolling Scopes Summer Summit"
 date: 2018-08-16
 talks:
   - name: "WebGL Воркшоп"
-    speaker: Andrei Lesnitsky
+    speaker: Андрей Лесницкий
     lang: ru
     tags:
       - frontend
@@ -17,7 +17,7 @@ talks:
     tags:
       - frontend
   - name: "По следам волшебного Друзя"
-    speaker: 'Dzmitry Vanitski,Светлана Желток,Никита Зенченко'
+    speaker: 'Dzmitry Vanitski, Светлана Желток, Никита Зенченко'
     lang: ru
     tags:
       - frontend
@@ -47,7 +47,7 @@ talks:
     tags:
       - frontend
   - name: "Как правильно расти разработчику"
-    speaker: Paul Yuhnovich
+    speaker: Павел Юхнович
     lang: ru
     tags:
       - frontend
@@ -67,7 +67,7 @@ talks:
     tags:
       - frontend
   - name: "kostil.js"
-    speaker: 'Владимир Галушко,Maxim Shastel'
+    speaker: 'Владимир Галушко, Maxim Shastel'
     lang: ru
     tags:
       - frontend

@@ -2,12 +2,12 @@ name: "The Rolling Scopes 39. Grodno"
 date: 2017-06-10
 talks:
   - name: "OpenGL rendering with Node and Rust"
-    speaker: Andrei Lesnitsky
+    speaker: Андрей Лесницкий
     lang: ru
     tags:
       - frontend
   - name: "Serverless architecture: Functions as a Service"
-    speaker: Dzmitry Varabei
+    speaker: Дмитрий Воробей
     lang: ru
     tags:
       - frontend
@@ -17,7 +17,7 @@ talks:
     tags:
       - frontend
   - name: "React Native & ClosureScript"
-    speaker: Siarhei Melnik
+    speaker: Сергей Мельник
     lang: ru
     tags:
       - frontend

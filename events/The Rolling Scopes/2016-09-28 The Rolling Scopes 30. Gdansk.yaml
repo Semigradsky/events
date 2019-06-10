@@ -1,13 +1,8 @@
 name: "The Rolling Scopes 30. Gdansk"
 date: 2016-09-28
 talks:
-  - name: "Introduction of The Rolling Scopes"
-    speaker: 'Alexander Gerasimov,Dzmitry Varabei,Vadzim Yakushau'
-    lang: ru
-    tags:
-      - frontend
   - name: "TypeScript and what's the hack Javascript"
-    speaker: Vadzim Yakushau
+    speaker: Вадим Якушев
     lang: ru
     tags:
       - frontend
@@ -18,17 +13,12 @@ talks:
     tags:
       - frontend
   - name: "Serverless architecture: Functions as a Service"
-    speaker: 'Dzmitry Varabei,Siarhei Melnik'
+    speaker: 'Дмитрий Воробей, Сергей Мельник'
     lang: ru
     tags:
       - frontend
   - name: "Designers at the lab"
     speaker: Dafna Sharabi
-    lang: ru
-    tags:
-      - frontend
-  - name: "CSS QuickDraw"
-    speaker: Alexander Gerasimov
     lang: ru
     tags:
       - frontend

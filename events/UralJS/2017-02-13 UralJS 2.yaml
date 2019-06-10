@@ -2,8 +2,8 @@ name: UralJS 2
 date: 2017-02-13
 videos: https://www.youtube.com/playlist?list=PLVxsRDo37_ZfqxewKTTSYwpeUarJMmIql
 talks:
-  - name: Иван Соснин
-    speaker: Управление армией сайд-эффектов
+  - name: Управление армией сайд-эффектов
+    speaker: Иван Соснин
     video: https://www.youtube.com/watch?v=UFr7eA7Hx0Y&index=1
     presentation: http://slides.com/vansosnin/saga/
     lang: ru
@@ -16,8 +16,8 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: Валерий Кузьмин
-    speaker: Обойдемся без бэкэнда
+  - name: Обойдемся без бэкэнда
+    speaker: Валерий Кузьмин
     video: https://www.youtube.com/watch?v=JrLv1UY2NLE&index=3
     presentation: http://slides.com/malcoriel/sls-at-uraljs/
     lang: ru

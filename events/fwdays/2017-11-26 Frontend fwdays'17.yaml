@@ -17,7 +17,7 @@ talks:
     lang: ru
     url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/not-universal-design'
   - name: 'Vue: Animations, Validations, DataMine Blockchain'
-    speaker: Виталий Ратушный/Роман Стремедловский
+    speaker: Виталий Ратушный, Роман Стремедловский
     lang: ru
     url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/vue-animations-validations'
   - name: False simplicity of front-end applications

@@ -10,7 +10,7 @@ talks:
     tags:
       - frontend
   - name: "Front-end As I See It"
-    speaker: Anna Selezniova
+    speaker: Анна Селезнёва
     video: https://www.youtube.com/watch?v=B9SXHMei58c
     lang: ru
     tags:
@@ -70,7 +70,7 @@ talks:
     tags:
       - frontend
   - name: "How We Moved To HTTP/2 To Improve Performance... And Failed"
-    speaker: Vitaly Friedman
+    speaker: Виталий Фридман
     video: https://www.youtube.com/watch?v=whFhyHysYYg
     lang: ru
     tags:
@@ -82,7 +82,7 @@ talks:
     tags:
       - frontend
   - name: "Service Design: Case study"
-    speaker: Vital Varanovich
+    speaker: Виталий Воронович
     video: https://www.youtube.com/watch?v=jPoizpg9MDE
     lang: ru
     tags:
@@ -94,7 +94,7 @@ talks:
     tags:
       - frontend
   - name: "My Vanilla CSS"
-    speaker: Vadim Makeev
+    speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=jAAVN7SWqdk
     lang: ru
     tags:
@@ -113,7 +113,7 @@ talks:
     tags:
       - frontend
   - name: "Designing for Composability"
-    speaker: Andrey Listochkin
+    speaker: Андрей Листочкин
     video: https://www.youtube.com/watch?v=BxoJ7WCbQFE
     lang: ru
     tags:

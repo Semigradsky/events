@@ -10,7 +10,7 @@ talks:
     tags:
       - frontend
   - name: "How to not program on AngularJS"
-    speaker: Andrei Yemelyanchik
+    speaker: Андрей Емельянчик
     video: https://www.youtube.com/watch?v=IDvb3QI98Uc
     presentation: http://goo.gl/yCbfQz
     lang: ru
@@ -26,7 +26,7 @@ talks:
       - frontend
       - 'Angular'
   - name: "WebKit JavaScript Core optimizations layers"
-    speaker: Kirill Knysh
+    speaker: Кирилл Кныш
     video: https://www.youtube.com/watch?v=xALTXSE8GQA
     presentation: http://goo.gl/guASWu
     lang: ru

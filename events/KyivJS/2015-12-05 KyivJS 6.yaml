@@ -30,7 +30,7 @@ talks:
     tags:
       - frontend
   - name: ClojureScript for JavaScript developers
-    speaker: Roman Liutikov
+    speaker: Роман Лютиков
     video: https://www.youtube.com/watch?v=cOejm16mCUU
     presentation: http://roman01la.github.io/cljs-for-js-devs/
     lang: en

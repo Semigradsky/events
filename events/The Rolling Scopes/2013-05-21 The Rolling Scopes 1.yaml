@@ -14,7 +14,7 @@ talks:
       - frontend
       - 'Angular'
   - name: "Chrome DevTools"
-    speaker: Dzmitry Varabei
+    speaker: Дмитрий Воробей
     presentation: http://rolling-scopes.github.io/slides/rs1/chromeDevTools/chromeDevTools.html
     lang: ru
     tags:

@@ -19,7 +19,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "Возвращение ножа и\_паровоза"
+  - name: "Возвращение ножа и\_паровоза. Работа с\_графикой для веба"
     speaker: Вадим Макеев
     presentation: https://wsd.events/2013/12/07/pres/knife-train.pdf
     lang: ru

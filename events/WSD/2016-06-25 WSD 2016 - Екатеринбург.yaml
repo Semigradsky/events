@@ -12,6 +12,7 @@ talks:
   - name: "Готовим бизнес-лапшу на\_React и\_Redux"
     speaker: Евгений Тихонов
     video: https://www.youtube.com/watch?v=OXsxo4gkqtQ
+    presentation: https://wsd.events/2016/06/25/pres/react-noodle/
     lang: ru
     tags:
       - frontend
@@ -19,48 +20,56 @@ talks:
   - name: "МРТ для данных"
     speaker: Анастасия Горячева
     video: https://www.youtube.com/watch?v=46YeR1vlh7E
+    presentation: https://wsd.events/2016/06/25/pres/data-mri.pdf
     lang: ru
     tags:
       - frontend
   - name: "Меняем JavaScript с\_помощью JavaScript"
     speaker: Павел Волокитин
     video: https://www.youtube.com/watch?v=zoq95j3V43g
+    presentation: https://wsd.events/2016/06/25/pres/changing-js.pdf
     lang: ru
     tags:
       - frontend
   - name: "Жми сюда!"
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=MWJKwn_gKR4
+    presentation: https://wsd.events/2016/06/25/pres/push-it/
     lang: ru
     tags:
       - frontend
   - name: "Дружим с\_контентом пользователя"
     speaker: Владимир Кузнецов
     video: https://www.youtube.com/watch?v=lI78qONdO0c
+    presentation: https://wsd.events/2016/06/25/pres/content-transform/
     lang: ru
     tags:
       - frontend
   - name: "npm\_— найдётся подходящий модуль"
     speaker: Всеволод Струкчинский
     video: https://www.youtube.com/watch?v=-moRyiijffU
+    presentation: https://wsd.events/2016/06/25/pres/npm-guide.pdf
     lang: ru
     tags:
       - frontend
   - name: "Жизнь HTML\_в 2ГИС под iOS"
     speaker: Роман Янке
     video: https://www.youtube.com/watch?v=IcH0vhZhSYU
+    presentation: https://wsd.events/2016/06/25/pres/html-ios.pdf
     lang: ru
     tags:
       - frontend
   - name: "Осторожно, закэшировано!"
     speaker: Сергей Жигалов
     video: https://www.youtube.com/watch?v=LAnjcuGtcGA
+    presentation: https://wsd.events/2016/06/25/pres/beware-cached/
     lang: ru
     tags:
       - frontend
   - name: "Как отвечать за\_продакшен"
     speaker: Андрей Сумин
     video: https://www.youtube.com/watch?v=brQhxP_xqEk
+    presentation: https://wsd.events/2016/06/25/pres/production.pdf
     lang: ru
     tags:
       - frontend

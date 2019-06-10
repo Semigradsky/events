@@ -2,13 +2,13 @@ name: "The Rolling Scopes 29. Minsk"
 date: 2016-09-20
 talks:
   - name: "New Opportunities for Augmented Reality"
-    speaker: 'Iryna Dastanka,Dzmitry Basenka'
+    speaker: 'Iryna Dastanka, Dzmitry Basenka'
     video: https://www.youtube.com/watch?v=kMIhPlg4hw4
     lang: ru
     tags:
       - frontend
   - name: "Serverless architecture: Functions as a Service"
-    speaker: 'Siarhei Melnik,Dzmitry Varabei'
+    speaker: 'Сергей Мельник, Дмитрий Воробей'
     video: https://www.youtube.com/watch?v=w8tRcAJdqGk
     lang: ru
     tags:

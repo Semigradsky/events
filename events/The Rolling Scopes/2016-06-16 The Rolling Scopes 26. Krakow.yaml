@@ -1,29 +1,19 @@
 name: "The Rolling Scopes 26. Krakow"
 date: 2016-06-16
 talks:
-  - name: "Introduction of The Rolling Scopes"
-    speaker: 'Alexander Gerasimov,Dzmitry Varabei'
-    lang: ru
-    tags:
-      - frontend
   - name: "TypeScript and what's the hack Javascript"
-    speaker: Vadzim Yakushau
+    speaker: Вадим Якушев
     lang: ru
     tags:
       - frontend
       - TypeScript
   - name: "Virtual Augmented Mixed Reality: Day 0"
-    speaker: Paul Yuhnovich
+    speaker: Павел Юхнович
     lang: ru
     tags:
       - frontend
   - name: "3D visualization of datasets in browsers"
-    speaker: Oleksandr Pastukhov
-    lang: ru
-    tags:
-      - frontend
-  - name: "CSS QuickDraw"
-    speaker: Alexander Gerasimov
+    speaker: Александр Пастухов
     lang: ru
     tags:
       - frontend

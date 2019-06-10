@@ -25,7 +25,7 @@ talks:
     tags:
       - frontend
   - name: "Service Worker: Let Your Web App Feel Like a Native"
-    speaker: Viktor Zozuliak
+    speaker: Виктор Зозуляк
     video: https://www.youtube.com/watch?v=s8zJeoRQ1AM
     presentation:
     lang: ru
@@ -59,7 +59,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: CSSO - сжимаем CSS
+  - name: CSSO — сжимаем CSS
     speaker: Роман Дворнов
     video: https://www.youtube.com/watch?v=MyUGy66tFDg
     presentation:

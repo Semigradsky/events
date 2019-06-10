@@ -11,7 +11,7 @@ talks:
       - frontend
       - 'Vue.js'
   - name: "Внедряем Vue.js в готовый проект, безболезненное избавление от jQuery."
-    speaker: Alexander Mayorov
+    speaker: Александр Майоров
     video: https://youtu.be/h9NQs0SEVoA?t=40m11s
     presentation: https://speakerdeck.com/vuejsmoscow/vniedriaiem-vue-dot-js-v-ghotovyi-proiekt-biezboliezniennoie-izbavlieniie-ot-jquery-alieksandr-maiorov-vue-dot-js-moscow-meetup
     lang: ru

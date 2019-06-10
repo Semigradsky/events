@@ -9,7 +9,7 @@ talks:
     tags:
       - frontend
   - name: "Testing JavaScript Applications"
-    speaker: 'Дмитрий Герасимов,Alexander Gerasimov'
+    speaker: 'Дмитрий Герасимов, Александр Герасимов'
     video: https://www.youtube.com/watch?v=R2MD7U8VXlQ
     presentation: http://rolling-scopes.github.io/slides/rs4/jstesting-talk
     lang: ru

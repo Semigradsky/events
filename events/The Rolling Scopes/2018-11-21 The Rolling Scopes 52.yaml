@@ -2,7 +2,7 @@ name: "The Rolling Scopes 52"
 date: 2018-11-21
 talks:
   - name: "Flutter vs React Native"
-    speaker: Andrei Lesnitsky
+    speaker: Андрей Лесницкий
     lang: ru
     tags:
       - frontend

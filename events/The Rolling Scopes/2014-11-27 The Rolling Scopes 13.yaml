@@ -3,14 +3,14 @@ date: 2014-11-27
 videos: https://www.youtube.com/watch?v=pvFz9ob-mik
 talks:
   - name: "Увидеть Париж и угореть!"
-    speaker: Dzmitry Varabei
+    speaker: Дмитрий Воробей
     video: https://www.youtube.com/watch?v=QaX3yJpG6co
     presentation: http://rolling-scopes.github.io/slides/rs13/dotJS-overview
     lang: ru
     tags:
       - frontend
   - name: "Увидеть Париж и угореть!"
-    speaker: 'Alexander Gerasimov,Юрий Татенко'
+    speaker: 'Александр Герасимов, Юрий Татенко'
     video: https://www.youtube.com/watch?v=QaX3yJpG6co
     presentation: http://rolling-scopes.github.io/slides/rs13/dotJS-overview/yt/dotCSS.pptx
     lang: ru

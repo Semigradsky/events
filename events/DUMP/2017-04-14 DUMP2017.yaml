@@ -3,7 +3,7 @@ date: 2017-04-14
 videos: 'https://www.youtube.com/playlist?list=PLRdS-n5seLRqoENxUsxmPbUxrFpk5JBmc'
 talks:
   - name: Документация REST API
-    speaker: Кузвесов Артём
+    speaker: Артём Кузвесов
     video: https://www.youtube.com/watch?v=zXipJqeetHM
     lang: ru
     tags:

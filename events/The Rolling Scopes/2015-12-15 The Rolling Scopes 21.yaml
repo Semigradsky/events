@@ -9,7 +9,7 @@ talks:
       - frontend
       - 'Ember'
   - name: "Какой к черту Angular2, с цензурой и без хомяков"
-    speaker: 'Александр Михалченко,Егор Малкевич'
+    speaker: 'Александр Михалченко, Егор Малкевич'
     video: https://www.youtube.com/watch?v=GljR41hjXv4
     lang: ru
     tags:

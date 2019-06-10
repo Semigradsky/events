@@ -39,7 +39,7 @@ talks:
       - frontend
       - 'React'
   - name: WAMP
-    speaker: Yuri Tkachenko
+    speaker: Юрий Ткаченко
     video: https://www.youtube.com/watch?v=4-U2sEMPMR0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=5
     presentation: https://github.com/tyv/wamp-lightning-talk
     lang: ru

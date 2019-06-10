@@ -46,7 +46,7 @@ talks:
     tags:
       - frontend
   - name: "Просто о WebAssembly"
-    speaker: Sergey Rubanov
+    speaker: Сергей Рубанов
     video: https://youtu.be/anVHSZtJhfc
     presentation: https://chernivtsi.js.org/webassembly-simplified/
     lang: ru
@@ -59,7 +59,7 @@ talks:
     tags:
       - frontend
   - name: "Make checkout great again"
-    speaker: Anton Nemtsev
+    speaker: Антон Немцев
     video: https://youtu.be/EZofZgflsDk
     presentation: https://chernivtsi.js.org/payment-request-api/
     lang: ru

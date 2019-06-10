@@ -2,12 +2,12 @@ name: "The Rolling Scopes 51. Krakow"
 date: 2018-10-17
 talks:
   - name: "How to build your own database"
-    speaker: Kirill Knysh
+    speaker: Кирилл Кныш
     lang: ru
     tags:
       - frontend
   - name: "Migrating AngularJS to Angular. Pitfalls you didn't expect!"
-    speaker: Timofei Iatsenko
+    speaker: Тимофей Яценко
     lang: ru
     tags:
       - frontend

@@ -3,13 +3,13 @@ date: 2018-01-31
 videos:
 talks:
   - name: "(R)Evolution of set-top boxes"
-    speaker: Kirill Knysh
+    speaker: Кирилл Кныш
     video: https://www.youtube.com/watch?v=cyfg-S-yCUk
     lang: ru
     tags:
       - frontend
   - name: "Tricky JS and WebGL practices to achieve the best performance on mobile"
-    speaker: Andrei Lesnitsky
+    speaker: Андрей Лесницкий
     lang: ru
     tags:
       - frontend
@@ -19,12 +19,7 @@ talks:
     tags:
       - frontend
   - name: "Mogensen-Scott encoding"
-    speaker: Alexander Gerasimov
-    lang: ru
-    tags:
-      - frontend
-  - name: "CSS QuickDraw"
-    speaker: Alexander Gerasimov
+    speaker: Александр Герасимов
     lang: ru
     tags:
       - frontend

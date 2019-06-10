@@ -31,7 +31,7 @@ talks:
     tags:
       - frontend
   - name: "Пробуем Flow в бою"
-    speaker: Alexander Shushunov
+    speaker: Александр Шушунов
     video: https://youtu.be/xSHPFcdVj2A
     presentation: https://drive.google.com/file/d/1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP/view
     lang: ru
@@ -45,7 +45,7 @@ talks:
     tags:
       - frontend
   - name: "Что не так с мобильным вебом"
-    speaker: Denis Ilin
+    speaker: Денис Ильин
     video: https://youtu.be/5aNhBdyv9-4
     presentation: https://www.dropbox.com/s/ea1d464ozfwazik/%D0%94%D0%B5%D0%BD%D0%B8%D1%81%20%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%20-%20%D0%A7%D1%82%D0%BE%20%D0%BD%D0%B5%20%D1%82%D0%B0%D0%BA%20%D1%81%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D0%B2%D0%B5%D0%B1%D0%BE%D0%BC%20RSConf.pdf?dl=0
     lang: ru
@@ -59,13 +59,13 @@ talks:
     tags:
       - frontend
   - name: "How to make mobile web apps better with Web APIs"
-    speaker: Timofey Lavrenyuk
+    speaker: Тимофей Лавренюк
     video: https://youtu.be/AlRCcx5g3L4
     lang: ru
     tags:
       - frontend
   - name: "Rock’n’scroll"
-    speaker: Anna Selezniova
+    speaker: Анна Селезнёва
     video: https://youtu.be/oBkcozjgtuA
     presentation: http://askd.rocks/pres/scroll/
     lang: ru
@@ -85,7 +85,7 @@ talks:
     tags:
       - frontend
   - name: "Stream API, through Redux-Observable in Electron-based app"
-    speaker: Ales Tsvil
+    speaker: Алесь Цвиль
     video: https://youtu.be/57m27q_xE68
     lang: ru
     tags:
@@ -111,7 +111,7 @@ talks:
     tags:
       - frontend
   - name: "All-You-Can-Eat-Types: Monad Buffet"
-    speaker: Alexander Gerasimov
+    speaker: Александр Герасимов
     video: https://youtu.be/gpd_vwQmonM
     lang: ru
     tags:
@@ -175,7 +175,7 @@ talks:
     tags:
       - frontend
   - name: "Codemods и трансформация JavaScript кода"
-    speaker: Mikhail Hatsilau
+    speaker: Михаил Гатилов
     video: https://youtu.be/p8F-UIzuJtA
     presentation:
       - 'https://drive.google.com/file/d/1Q6lGvwp8EXmrRXZ55IdVW3U39fo2J9ED/view'

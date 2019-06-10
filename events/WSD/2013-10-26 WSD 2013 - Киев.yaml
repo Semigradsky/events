@@ -43,7 +43,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "Автопрефиксер: мир без CSS-префиксов"
+  - name: "Автопрефиксер: Мир без CSS префиксов"
     speaker: Андрей Ситник
     presentation: https://wsd.events/2013/10/26/pres/autoprefixer.pdf
     lang: ru

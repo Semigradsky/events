@@ -2,7 +2,7 @@ name: "The Rolling Scopes 10"
 date: 2014-05-28
 talks:
   - name: "News Digest"
-    speaker: Siarhei Melnik
+    speaker: Сергей Мельник
     lang: ru
     tags:
       - frontend

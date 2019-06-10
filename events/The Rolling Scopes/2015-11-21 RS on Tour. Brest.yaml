@@ -2,7 +2,7 @@ name: "RS on Tour. Brest"
 date: 2015-11-21
 talks:
   - name: "Доклад-обсуждение: Тренды front-end разработки 2015: Процессы, Фреймворки, Библиотеки, Инструменты."
-    speaker: Dzmitry Varabei
+    speaker: Дмитрий Воробей
     presentation: http://rolling-scopes.github.io/slides/rs20/trends/
     lang: ru
     tags:

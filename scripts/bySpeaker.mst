@@ -1,0 +1,8 @@
+# {{speaker}}
+
+{{#talks}}
+## {{talk}}
+{{#events}}
+- {{date}} -- {{#url}}[{{name}}]({{& url}}){{/url}}{{^url}}{{name}}{{/url}} {{#lang}}[{{lang}}]{{/lang}} {{#presentation}}| [:notebook:]({{& presentation}}){{/presentation}} {{#code}}| [:octocat:]({{& code}}){{/code}} {{#text}}| [:spiral_notepad:]({{& text}}){{/text}}
+{{/events}}
+{{/talks}}

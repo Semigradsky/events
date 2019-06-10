@@ -4,6 +4,8 @@ const pify = require('pify')
 const fs = require('fs')
 const path = require('path')
 
+const speakers = require('./speakers')
+
 const readFile = pify(fs.readFile)
 
 function toDateString(date) {
@@ -115,6 +117,7 @@ async function generateMd(events) {
     return Promise.all([
         generateByYears(events),
         generateByOrganizers(events),
+        ...await speakers.generateMd(events),
     ])
 }
 

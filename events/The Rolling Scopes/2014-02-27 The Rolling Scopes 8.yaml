@@ -8,7 +8,7 @@ talks:
     tags:
       - frontend
   - name: "Keep Calm & Attend Events: LondonJs"
-    speaker: Alexander Gerasimov
+    speaker: Александр Герасимов
     presentation: http://rolling-scopes.github.io/slides/rs8/londonjs-talk
     lang: ru
     tags:

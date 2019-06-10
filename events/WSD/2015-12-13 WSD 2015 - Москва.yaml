@@ -52,7 +52,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "CSSO\_— минимизируем CSS"
+  - name: "CSSO — сжимаем CSS"
     speaker: Роман Дворнов
     video: https://www.youtube.com/watch?v=KgF0gGW_Bk0
     presentation: https://wsd.events/2015/12/13/pres/csso.pdf

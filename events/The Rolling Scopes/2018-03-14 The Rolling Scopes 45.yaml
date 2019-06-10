@@ -4,13 +4,13 @@ talks:
   - name: "How to upgrade your visual skills as a Front-End developer"
     speaker: Tomasz Jonasz Kujawski
     video: https://www.youtube.com/watch?v=frIhazdzYbE
-    lang: ru
+    lang: en
     tags:
       - frontend
   - name: "One year without REST"
     speaker: Marcos Bérgamo
     video: https://www.youtube.com/watch?v=NLxawF_5sQU
-    lang: ru
+    lang: en
     tags:
       - frontend
   - name: "Our way to 12-factor apps"

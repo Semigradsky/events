@@ -38,7 +38,8 @@ async function readEvent(fullPath, folder) {
     }
 }
 
-async function readEvents(srcPath) {
+async function readEvents() {
+    const srcPath = path.resolve(__dirname, '../events')
     const folders = await readDir(srcPath)
 
     const events = await Promise.all(folders.map(async folder => {

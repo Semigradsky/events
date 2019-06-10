@@ -8,7 +8,7 @@ talks:
     tags:
       - frontend
   - name: "OpenGL rendering with Node and Rust"
-    speaker: Andrei Lesnitsky
+    speaker: Андрей Лесницкий
     video: https://www.youtube.com/watch?v=s3BrF79pvL4
     lang: ru
     tags:
