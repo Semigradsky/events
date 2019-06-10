@@ -3,12 +3,12 @@
 ## ChernivtsiJS - 2018 Jun 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLt-pAIa9BS41XDcHK49CwzkOjEDB6eJ7q)
 | | | |
 | --- | :---: | --- |
-| [How to adopt a project with stack which you don&#39;t know](https:&#x2F;&#x2F;youtu.be&#x2F;N7Jcnd9n8m8)  | Anton Yatseniuk | [:notebook:](https:&#x2F;&#x2F;chernivtsi.js.org&#x2F;how-to-adopt-project&#x2F;)   |
-| [Serverless for frontend developers](https:&#x2F;&#x2F;youtu.be&#x2F;4xLis-ca4QY)  | Aleksandar Simovic | [:notebook:](https:&#x2F;&#x2F;chernivtsi.js.org&#x2F;serverless-for-frontend-developers&#x2F;)   |
-| [This terrible word Deadline](https:&#x2F;&#x2F;youtu.be&#x2F;LLGUAyWZhjc)  | Vasilika Klimova | [:notebook:](https:&#x2F;&#x2F;chernivtsi.js.org&#x2F;this-terrible-word-deadline&#x2F;)   |
-| [Как React-Native перевернул наше представление о нативных приложениях](https:&#x2F;&#x2F;youtu.be&#x2F;99Z9Q6jHfhg)  | Ilya Ivanov | [:notebook:](https:&#x2F;&#x2F;chernivtsi.js.org&#x2F;react-native-and-native-apps&#x2F;)   |
-| [Angular applications with Redux](https:&#x2F;&#x2F;youtu.be&#x2F;mMdHbr5aw0o)  | Anastasiia Nedbailo | [:notebook:](https:&#x2F;&#x2F;chernivtsi.js.org&#x2F;angular-apps-with-redux&#x2F;)   |
-| [Life with Expo.io](https:&#x2F;&#x2F;youtu.be&#x2F;mn6bDJ4w9mI)  | Terry Sahaidak | [:notebook:](https:&#x2F;&#x2F;chernivtsi.js.org&#x2F;life-with-expo&#x2F;)   |
-| [Просто о WebAssembly](https:&#x2F;&#x2F;youtu.be&#x2F;anVHSZtJhfc)  | Sergey Rubanov | [:notebook:](https:&#x2F;&#x2F;chernivtsi.js.org&#x2F;webassembly-simplified&#x2F;)   |
-| [О дивный новый JS–мир](https:&#x2F;&#x2F;youtu.be&#x2F;uNKuJANi4RU)  | Helen Zhukova |    |
-| [Make checkout great again](https:&#x2F;&#x2F;youtu.be&#x2F;EZofZgflsDk)  | Anton Nemtsev | [:notebook:](https:&#x2F;&#x2F;chernivtsi.js.org&#x2F;payment-request-api&#x2F;)   |
+| [How to adopt a project with stack which you don&#39;t know](https://youtu.be/N7Jcnd9n8m8)  | Anton Yatseniuk | [:notebook:](https://chernivtsi.js.org/how-to-adopt-project/)   |
+| [Serverless for frontend developers](https://youtu.be/4xLis-ca4QY)  | Aleksandar Simovic | [:notebook:](https://chernivtsi.js.org/serverless-for-frontend-developers/)   |
+| [This terrible word Deadline](https://youtu.be/LLGUAyWZhjc)  | Vasilika Klimova | [:notebook:](https://chernivtsi.js.org/this-terrible-word-deadline/)   |
+| [Как React-Native перевернул наше представление о нативных приложениях](https://youtu.be/99Z9Q6jHfhg)  | Ilya Ivanov | [:notebook:](https://chernivtsi.js.org/react-native-and-native-apps/)   |
+| [Angular applications with Redux](https://youtu.be/mMdHbr5aw0o)  | Anastasiia Nedbailo | [:notebook:](https://chernivtsi.js.org/angular-apps-with-redux/)   |
+| [Life with Expo.io](https://youtu.be/mn6bDJ4w9mI)  | Terry Sahaidak | [:notebook:](https://chernivtsi.js.org/life-with-expo/)   |
+| [Просто о WebAssembly](https://youtu.be/anVHSZtJhfc)  | Сергей Рубанов | [:notebook:](https://chernivtsi.js.org/webassembly-simplified/)   |
+| [О дивный новый JS–мир](https://youtu.be/uNKuJANi4RU)  | Helen Zhukova |    |
+| [Make checkout great again](https://youtu.be/EZofZgflsDk)  | Антон Немцев | [:notebook:](https://chernivtsi.js.org/payment-request-api/)   |
