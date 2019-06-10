@@ -1,0 +1,28 @@
+name: MSK VUE.JS 1
+date: 2019-07-18
+videos: ''
+talks:
+  - name: Vue.js 3 — все что ждет нас в будущем
+    speaker: Игорь Шеко
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - 'Vue.js'
+  - name: Опыт использования Vue.js в «Едадиле»
+    speaker: Кобец Андрей
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - 'Vue.js'
+  - name: Прогрессивные приложения на прогрессивном фреймворке
+    speaker: Ольга Лесникова
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+      - 'Vue.js'
