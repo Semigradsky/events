@@ -1,0 +1,4 @@
+# Artem Paliy
+
+## Migration Web (Angular) to Mobile Development (React Native)
+- 2018 Jul 21 -- [VinnytsiaJS 2018](https://youtu.be/jcBnC8LZHoU)    

@@ -185,7 +185,7 @@
 | | | |
 | --- | :---: | --- |
 | [Sunrise of iOS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)  | Aliaksei Strokin |    |
-| [Обзор фреймворков для кроссплатформенной мобильной разработки](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)  | Andrei Lesnitsky |    |
+| [Обзор фреймворков для кроссплатформенной мобильной разработки](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uwROYy4LPf4)  | Андрей Лесницкий |    |
 ## Mera 29 - GraphQL - Feb 16 
 | | | |
 | --- | :---: | --- |
