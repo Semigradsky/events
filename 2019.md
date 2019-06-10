@@ -103,6 +103,11 @@
 | [Давайте не будем ждать?](https://www.youtube.com/watch?v=ijZTu7aVJtg)  | Алексей Попков |    |
 | [Тестирование фронтенда для разработчиков​](https://www.youtube.com/watch?v=ijZTu7aVJtg)  | Александра Шинкевич |    |
 | [MacOS Driven Development](https://www.youtube.com/watch?v=ijZTu7aVJtg)  | Никита Дубко |    |
+## WebDev Meetup 9 - Mar 23 
+| | | |
+| --- | :---: | --- |
+| Это Кэш.  | Андрей Нагих |    |
+| [Типовые уязвимости в веб-приложениях](https://www.youtube.com/watch?v=ETvzfy30xEM)  | Александр Рудковский | [:notebook:](https://drive.google.com/file/d/19qRcT4R9KuTsDuga99vE5QXc3hlC3jt9/view)   |
 ## Simferopol Frontend 2 - Mar 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H7Ad1d2-UyA)
 | | | |
 | --- | :---: | --- |
