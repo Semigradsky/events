@@ -12,7 +12,7 @@
 - 2017 Apr 22 -- [JavaScript fwdays &#39;17](https://frameworksdays.com/event/js-frameworks-day-2017/review/progressive-web-apps-with-polymer) [en]   
 ## JavaScript: The awesome parts
 - 2016 Jul 30 -- [VinnytsiaJS 2016](https://www.youtube.com/watch?v=wQuG094IdEw) [en]   
-## WTF - WebGL The Fundamentals
+## WTF — WebGL The Fundamentals
 - 2016 Jul 30 -- [VinnytsiaJS 2016](https://www.youtube.com/watch?v=C79DDrEIpys) [en]   
 ## WARPSPEED: High performance tricks: Web Workers, GPU computing and Web Assembly
 - 2017 Feb 18-19 -- [RS Conf 2017](https://www.youtube.com/watch?v=1_lX28QWCdg) [en]   
