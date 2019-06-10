@@ -5,10 +5,10 @@
 
 ## All speakers
 {{#speakers}}
-- [{{speaker}}]({{speakerLink}}) ({{countTalks}})
+- [{{speaker}}](speakers/{{speakerLink}}) ({{countTalks}})
 {{/speakers}}
 
 ## By the count of talks (more than one)
 {{#speakersByCount}}
-- [{{speaker}}]({{speakerLink}}) ({{countTalks}})
+- [{{speaker}}](speakers/{{speakerLink}}) ({{countTalks}})
 {{/speakersByCount}}

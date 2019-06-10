@@ -23,8 +23,7 @@ async function writeOrganizerFile(organizer, content) {
 }
 
 async function writeAllSpeakersFile(content) {
-    const fullPath = path.resolve(PATH_SPEAKERS, 'README.md')
-    return writeFile(fullPath, content)
+    return writeFile('speakers.md', content)
 }
 
 async function writeSpeakerFile(speaker, content) {
