@@ -154,7 +154,7 @@
 | [Microsoft Edge, побег из прошлого](https://www.youtube.com/watch?v=rpVlnhPMN0I) [en] | Дэвид Руссе | [:notebook:](https://wsd.events/2015/12/13/pres/microsoft-edge.pdf)   |
 | [Ещё лучше, чем настоящие!](https://www.youtube.com/watch?v=Bhd5HQ1I2LM)  | Вадим Макеев | [:notebook:](https://wsd.events/2015/12/13/pres/web-apps/)   |
 | [Фронтенд в Avito](https://www.youtube.com/watch?v=OFKbwNc8AIw)  | Александр Лобашёв | [:notebook:](https://wsd.events/2015/12/13/pres/avito-frontend.pdf)   |
-| [WCAG 2.0, или Боль доступного веба](https://www.youtube.com/watch?v=ETw8uUr6Q7g)  | Станислав Зубович | [:notebook:](https://wsd.events/2015/12/13/pres/wcag-pain/)   |
+| [WCAG 2.0 или боль доступного веба](https://www.youtube.com/watch?v=ETw8uUr6Q7g)  | Станислав Зубович | [:notebook:](https://wsd.events/2015/12/13/pres/wcag-pain/)   |
 | [Отладка подключённых устройств на Vorlon.js](https://www.youtube.com/watch?v=n5zSgnEW2yE) [en] | Дэвид Руссе | [:notebook:](https://wsd.events/2015/12/13/pres/vorlon-js.pdf)   |
 | [Создание редактора изображений в браузере](https://www.youtube.com/watch?v=xT6eBk_Wr7c)  | Всеволод Шмыров | [:notebook:](https://wsd.events/2015/12/13/pres/image-editor.pdf)   |
 | [Тёмная сторона SVG](https://www.youtube.com/watch?v=pnWy3c3F-t8)  | Ирина Руденко | [:notebook:](https://wsd.events/2015/12/13/pres/svg-dark-side.pdf)   |
@@ -216,7 +216,7 @@
 | [Правила хорошего тона в HTML и CSS](https://www.youtube.com/watch?v=t8Td3Oq47yE)  | Евгений Исаков | [:notebook:](https://wsd.events/2014/12/06/pres/good-manners/)   |
 | [Пишем БЭМ правильно](https://www.youtube.com/watch?v=t8Td3Oq47yE)  | Игорь Зенич | [:notebook:](https://wsd.events/2014/12/06/pres/bem-right/)   |
 | [Доступный веб для всех](https://www.youtube.com/watch?v=t8Td3Oq47yE)  | Роман Лютиков | [:notebook:](https://wsd.events/2014/12/06/pres/web-a11y/)   |
-| [PostCSS — что такое постпроцессоры CSS](https://www.youtube.com/watch?v=t8Td3Oq47yE)  | Андрей Ситник | [:notebook:](https://wsd.events/2014/12/06/pres/postcss/)   |
+| [PostCSS: будущее после Sass и Less](https://www.youtube.com/watch?v=t8Td3Oq47yE)  | Андрей Ситник | [:notebook:](https://wsd.events/2014/12/06/pres/postcss/)   |
 | [Зачем нам функциональное программирование](https://www.youtube.com/watch?v=t8Td3Oq47yE)  | Алексей Распопов | [:notebook:](https://wsd.events/2014/12/06/pres/why-functional/)   |
 | [Swarm.js: реактивная синхронизация данных](https://www.youtube.com/watch?v=t8Td3Oq47yE)  | Виктор Грищенко | [:notebook:](https://wsd.events/2014/12/06/pres/swarmjs.pdf)   |
 | [Режимы наложения в CSS](https://www.youtube.com/watch?v=t8Td3Oq47yE)  | Юлия Бухвалова | [:notebook:](https://wsd.events/2014/12/06/pres/css-blending/)   |
@@ -378,7 +378,7 @@
 | --- | :---: | --- |
 | Быстрая разработка. Краткий обзор средств для работы с кодом из консоли.  | Максим Червонный | [:notebook:](https://wsd.events/2011/12/13/pres/quick-console/)   |
 | [Обустраиваем лабораторию для бесчеловечных экспериментов над CSS](https://www.youtube.com/watch?v=fas7NHBe3BQ)  | Роман Комаров | [:notebook:](https://wsd.events/2011/12/13/pres/css-experiments/)   |
-| CSS3 Media Queries: легкость превращений  | Артемий Ломов | [:notebook:](https://wsd.events/2011/12/13/pres/media-queries/)   |
+| CSS3 Media Queries: лёгкость превращений  | Артемий Ломов | [:notebook:](https://wsd.events/2011/12/13/pres/media-queries/)   |
 | [Всё, что вы делаете в Vim неправильно](https://www.youtube.com/watch?v=Lgv_jThBvso)  | Вячеслав Олиянчук | [:notebook:](https://wsd.events/2011/12/13/pres/doing-vim-right/)   |
 | Пре-фиксы. Зачем и как правильно  | Вадим Макеев | [:notebook:](https://wsd.events/2011/12/13/pres/pre-fixes/)   |
 | Редактирование HTML в браузере. Как должно быть, как есть, и зачем это вообще нужно  | Антон Немцев | [:notebook:](https://wsd.events/2011/12/13/pres/contenteditable/)   |
@@ -389,7 +389,7 @@
 | [Adobe Edge. Веб-анимация по стандартам](https://www.youtube.com/watch?v=yQwMBlptTmQ)  | Андрей Головнев | [:notebook:](https://wsd.events/2011/10/29/pres/adobe-edge/)   |
 | [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://www.youtube.com/watch?v=0dWcdpr3fxM)  | Игорь Зенич | [:notebook:](https://wsd.events/2011/10/29/pres/coding-checklist.pdf)   |
 | [Мухи отдельно, котлеты отдельно: Conditional Comments, Conditional CSS, Modernizr, CSS Conditional Rules](https://www.youtube.com/watch?v=meqYvmct33k)  | Павел Ловцевич | [:notebook:](https://wsd.events/2011/10/29/pres/conditional-css/)   |
-| [CSS3 Media Queries: легкость превращений](https://www.youtube.com/watch?v=cp4zK2wJPyg)  | Артемий Ломов | [:notebook:](https://wsd.events/2011/10/29/pres/media-queries/)   |
+| [CSS3 Media Queries: лёгкость превращений](https://www.youtube.com/watch?v=cp4zK2wJPyg)  | Артемий Ломов | [:notebook:](https://wsd.events/2011/10/29/pres/media-queries/)   |
 | [Прокрустовы окна. Как вписаться в устройство с минимальными потерями](https://www.youtube.com/watch?v=u71Kh7Ouhjk)  | Вадим Макеев | [:notebook:](https://wsd.events/2011/10/29/pres/procrustes/)   |
 | [Редактирование HTML в браузере. Как должно быть, как есть, и зачем это вообще нужно](https://www.youtube.com/watch?v=rdKBM6d0Npg)  | Антон Немцев | [:notebook:](https://wsd.events/2011/10/29/pres/contenteditable/)   |
 | [БЭМ. Реальный опыт двух компаний Mail.Ru и HH.ru](https://www.youtube.com/watch?v=Ms_tObxPRrM)  | Андрей Сумин | [:notebook:](https://wsd.events/2011/10/29/pres/bem-real-life.pdf)   |

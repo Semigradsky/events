@@ -98,7 +98,7 @@
 | | | |
 | --- | :---: | --- |
 | Webpack  | Максим Рыжиков | [:notebook:](https://github.com/Saunalol/spb-frontend-webpack)   |
-| PostCSS  | Андрей Ситник | [:notebook:](http://ai.github.io/about-postcss/)   |
+| PostCSS: будущее после Sass и Less  | Андрей Ситник | [:notebook:](http://ai.github.io/about-postcss/)   |
 | Famo.us  | Артём Сущев |    |
 ## SPB Frontend - 2014 Aug 24 
 | | | |

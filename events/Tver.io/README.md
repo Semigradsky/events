@@ -15,7 +15,7 @@
 ## Tver.io Poetry Meetup - 2019 Mar 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLiOxDlmyqigz0iyx67pf5WwTL6rFSvV0S)
 | | | |
 | --- | :---: | --- |
-| [Будет ли существовать профессия веб-разработчик в будущем?](https://youtu.be/1xerBSAwMEI)  | Дарья Пушкарская | [:notebook:](http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-pushkarskaya.pdf)   |
+| [Будет ли существовать профессия веб-разработчика в будущем?](https://youtu.be/1xerBSAwMEI)  | Дарья Пушкарская | [:notebook:](http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-pushkarskaya.pdf)   |
 | [Как сделать быстрый сайт и полюбить SEO](https://youtu.be/MRAM5ooFfQo)  | Самат Галимов | [:notebook:](http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-galimov.pdf)   |
 | [Experimenting with an Unikernel](https://youtu.be/apPFkwxs1Ig)  | Павел Аргентов | [:notebook:](http://tver.io/meetup/2019/03-poetry/slides/2019-tver-io-poetry-argentov.pdf)   |
 ## Tver.io Polyglot Meetup - 2019 Feb 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLiOxDlmyqigypZ4P3zZI5D4dTI7SJkW3f)
