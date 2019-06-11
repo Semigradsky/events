@@ -10,6 +10,8 @@
 - 2018 Mar 18 -- [JavaScript fwdays&#39;18](https://youtu.be/0WMLFRz6veY) [en]   
 ## Progressive web apps with Polymer
 - 2017 Apr 22 -- [JavaScript fwdays &#39;17](https://frameworksdays.com/event/js-frameworks-day-2017/review/progressive-web-apps-with-polymer) [en]   
+## Rendering performance inside out
+- 2017 Sep 16-17 -- FrontTalks    
 ## WARPSPEED: High performance tricks: Web Workers, GPU computing and Web Assembly
 - 2017 Feb 18-19 -- [RS Conf 2017](https://www.youtube.com/watch?v=1_lX28QWCdg) [en]   
 ## Making PWAs with Polymer [WORKSHOP]
