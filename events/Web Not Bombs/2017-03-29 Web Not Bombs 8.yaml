@@ -1,0 +1,25 @@
+name: Web Not Bombs 8
+date: 2017-03-29
+videos: https://www.youtube.com/playlist?list=PLrOBnk7g6QXqcws9poHa6LKVyOsVjvA5Z
+talks:
+  - name: Паттерны в примерах, картинках и шутках
+    speaker: Елизавета Селиванова, Ирина Левина
+    video: https://www.youtube.com/watch?v=wW9oOAktRhk
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Простой способ не писать ajax запросы
+    speaker: Василий Ванчук
+    video: https://www.youtube.com/watch?v=EbUWzUiOpx0
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: О коде тонущем в воде
+    speaker: Максим Юзва
+    video: https://www.youtube.com/watch?v=S1dPWBt5IFc
+    presentation:
+    lang: ru
+    tags:
+      - frontend

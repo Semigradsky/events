@@ -1,0 +1,18 @@
+name: Girls Not Bombs 6
+date: 2016-03-10
+videos: https://www.youtube.com/playlist?list=PLrOBnk7g6QXpgGYmw7C76NWkHbuQWIeka
+talks:
+  - name: CSS Grid Layout. Готовность номер один
+    speaker: Наталия Короткова
+    video: https://www.youtube.com/watch?v=Mff-bwBDxWM
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Через тернии к Webpack
+    speaker: Анна Селезнёва
+    video: https://www.youtube.com/watch?v=K2E2IVTgkrI
+    presentation:
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,25 @@
+name: Web Not Bombs 6
+date: 2016-02-11
+videos: https://www.youtube.com/playlist?list=PLrOBnk7g6QXoIl1LEMkbWk7btGbUrNpxf
+talks:
+  - name: React или Angular2, а может Webix?
+    speaker: Анатолий Аринович
+    video: https://www.youtube.com/watch?v=QmnJ2J4BaDE
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Как начать программировать под зомбоящик без крови и боли
+    speaker: Егор Малькевич
+    video: https://www.youtube.com/watch?v=tUd8R4BRG7o
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Учимся взаимодейстовать с сайтом без API
+    speaker: Александр Михальченко
+    video: https://www.youtube.com/watch?v=62gnJYouPl4
+    presentation:
+    lang: ru
+    tags:
+      - frontend

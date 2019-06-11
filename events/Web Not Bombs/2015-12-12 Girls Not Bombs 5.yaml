@@ -1,0 +1,25 @@
+name: Girls Not Bombs 5
+date: 2015-12-12
+videos: https://www.youtube.com/watch?v=gG-_blRwApQ
+talks:
+  - name: "Yeoman: пишем свой собственный генератор"
+    speaker: Настя Рыбик
+    video: https://www.youtube.com/watch?v=FfF5e7ytmDw
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: "Learn with friends: how to organize meetups around projects & code"
+    speaker: Machiko Yasuda
+    video: https://www.youtube.com/watch?v=gG-_blRwApQ
+    presentation:
+    lang: en
+    tags:
+      - frontend
+  - name: "SVG: Such vector goodness"
+    speaker: Jacob Lowe
+    video: https://www.youtube.com/watch?v=gG-_blRwApQ
+    presentation:
+    lang: en
+    tags:
+      - frontend
