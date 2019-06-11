@@ -3,7 +3,7 @@
 ## DUMP2018 - 2018 Apr 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRoyY8tjEUDzvxr19JtTLFUf)
 | | | |
 | --- | :---: | --- |
-| [Rock&amp;Scroll](https://www.youtube.com/watch?v=MPDSBWAg0Do)  | Анна Селезнёва |    |
+| [Rock’n’scroll](https://www.youtube.com/watch?v=MPDSBWAg0Do)  | Анна Селезнёва |    |
 | [CSS vs Preprocessors — назад в будущее!](https://www.youtube.com/watch?v=PgeyKRHlqnM)  | Сергей Попов |    |
 | [Как переписать legacy-фронт приложения, когда ты джун](https://www.youtube.com/watch?v=323raX_fW6A)  | Александр Сушко |    |
 | [Как мы отделили фронтенд от монолитного бэкенда](https://www.youtube.com/watch?v=Ms7vPiMFhsI)  | Зарема Халилова |    |
