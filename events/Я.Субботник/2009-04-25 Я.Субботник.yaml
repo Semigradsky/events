@@ -2,7 +2,7 @@ name: Я.Субботник
 date: 2009-04-25
 link: 'https://events.yandex.ru/events/yasubbotnik/kiev-apr-2009/'
 talks:
-  - name: 'Вёрстка в IntelliJ IDEA '
+  - name: Вёрстка в IntelliJ IDEA
     speaker: Вадим Макишвили
     url: 'https://events.yandex.ru/lib/talks/727/'
     lang: ru

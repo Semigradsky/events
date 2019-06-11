@@ -2,7 +2,7 @@ name: Я.Субботник по разработке интерфейсов
 date: 2018-11-10
 link: 'https://events.yandex.ru/events/yasubbotnik/10-11-2018/'
 talks:
-  - name: React в Яндекс.Поиске. Новая архитектура фронтенда СЕРПа.
+  - name: React в Яндекс.Поиске. Новая архитектура фронтенда СЕРПа
     speaker: Антон Виноградов
     url: 'https://events.yandex.ru/lib/talks/6678/'
     lang: ru

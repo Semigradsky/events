@@ -8,7 +8,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: PostCSS
+  - name: "PostCSS: будущее после Sass и Less"
     speaker: Андрей Ситник
     presentation: 'http://ai.github.io/about-postcss/'
     lang: ru

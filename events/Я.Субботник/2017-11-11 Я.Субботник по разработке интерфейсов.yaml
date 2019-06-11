@@ -2,13 +2,13 @@ name: Я.Субботник по разработке интерфейсов
 date: 2017-11-11
 link: 'https://events.yandex.ru/events/yasubbotnik/11-November-2017/'
 talks:
-  - name: Яндекс.Красота — дизайн для миллионов
+  - name: Яндекс.Красота – дизайн для миллионов
     speaker: Антон Виноградов
     url: 'https://events.yandex.ru/lib/talks/5205/'
     lang: ru
     tags:
       - frontend
-  - name: C — Consistency или переиспользование в особо крупных размерах
+  - name: C — consistency или переиспользование кода в особо крупных размерах
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/5206/'
     lang: ru

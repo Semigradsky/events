@@ -52,7 +52,7 @@ async function writeAllSpeakers(groupedDataBySpeakers) {
 }
 
 function formatTalkName(talkName) {
-    return talkName.replace(/\s/g, ' ').replace(/ - /g, ' — ')
+    return talkName.replace(/\s/g, ' ').replace(/ - /g, ' — ').trim()
 }
 
 function getGroupedDataBySpeakers(speakers, speakersData) {

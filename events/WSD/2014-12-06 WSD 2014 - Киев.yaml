@@ -30,7 +30,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "PostCSS\_— что такое постпроцессоры CSS"
+  - name: "PostCSS: будущее после Sass и Less"
     speaker: Андрей Ситник
     video: https://www.youtube.com/watch?v=t8Td3Oq47yE
     presentation: https://wsd.events/2014/12/06/pres/postcss/

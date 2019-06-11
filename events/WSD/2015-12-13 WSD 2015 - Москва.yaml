@@ -23,7 +23,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "WCAG 2.0, или Боль доступного веба"
+  - name: "WCAG 2.0 или боль доступного веба"
     speaker: Станислав Зубович
     video: https://www.youtube.com/watch?v=ETw8uUr6Q7g
     presentation: https://wsd.events/2015/12/13/pres/wcag-pain/

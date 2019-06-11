@@ -23,7 +23,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: "CSS3 Media Queries: легкость превращений"
+  - name: "CSS3 Media Queries: лёгкость превращений"
     speaker: Артемий Ломов
     video: https://www.youtube.com/watch?v=cp4zK2wJPyg
     presentation: https://wsd.events/2011/10/29/pres/media-queries/

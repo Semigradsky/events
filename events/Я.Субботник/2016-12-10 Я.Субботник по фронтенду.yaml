@@ -14,7 +14,7 @@ talks:
     lang: ru
     tags:
       - frontend
-  - name: Iframe v Script
+  - name: "<iframe> или <script>?"
     speaker: Всеволод Шмыров
     url: 'https://events.yandex.ru/lib/talks/4258/'
     lang: ru
