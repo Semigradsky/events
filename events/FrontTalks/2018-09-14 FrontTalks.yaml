@@ -1,0 +1,102 @@
+name: FrontTalks
+date:
+  - 2018-09-14
+  - 2018-09-15
+link: 'https://events.yandex.ru/events/YaTalks/2018/'
+talks:
+  - name: 'Этот безумный, безумный, безумный инпут. Часть 1'
+    speaker: Роман Прудников
+    link: 'https://events.yandex.ru/lib/talks/6242/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Wallaby.js & Quokka.js. Быстро. Красиво. Качественно
+    speaker: Дмитрий Махнёв
+    link: 'https://events.yandex.ru/lib/talks/6243/'
+    lang: ru
+    tags:
+      - frontend
+  - name: WebGL-ветер в Яндекс.Погоде
+    speaker: Дмитрий Васильев
+    link: 'https://events.yandex.ru/lib/talks/6245/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Прототипируем кодом
+    speaker: Андрей Саломатин
+    link: 'https://events.yandex.ru/lib/talks/6246/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Иван Тулуп. Асинхронщина в JS под капотом
+    speaker: Михаил Башуров
+    link: 'https://events.yandex.ru/lib/talks/6393/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Let's kill lifecycle
+    speaker: Александр Шушунов
+    link: 'https://events.yandex.ru/lib/talks/6358/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Про HTML
+    speaker: Сергей Попов
+    link: 'https://events.yandex.ru/lib/talks/6248/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Houdini — CSS, который JavaScript'
+    speaker: Никита Дубко
+    link: 'https://events.yandex.ru/lib/talks/6244/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Типографика в вебе
+    speaker: Антон Кастрицкий
+    link: 'https://events.yandex.ru/lib/talks/6359/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Безграничные возможности транспиляции
+    speaker: Андрей Роенко
+    link: 'https://events.yandex.ru/lib/talks/6356/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Авторизация — новый чёрный
+    speaker: Александр Зубов
+    link: 'https://events.yandex.ru/lib/talks/6357/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Два плагина к PostCSS для управления цветом
+    speaker: Владимир Кузнецов
+    link: 'https://events.yandex.ru/lib/talks/6249/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Скорость на всех сервисах
+    speaker: Иван Карев
+    link: 'https://events.yandex.ru/lib/talks/6392/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Структуры данных для фронтендеров
+    speaker: Игорь Алексеенко
+    link: 'https://events.yandex.ru/lib/talks/6247/'
+    lang: ru
+    tags:
+      - frontend
+  - name: «Реактивный» интерфейс
+    speaker: Артём Белов
+    link: 'https://events.yandex.ru/lib/talks/6241/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Десять принципов Артёма Горбунова
+    speaker: Артём Горбунов
+    link: 'https://events.yandex.ru/lib/talks/6401/'
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,102 @@
+name: FrontTalks
+date:
+  - 2016-09-17
+  - 2016-09-18
+link: 'https://events.yandex.ru/events/YaTalks/17-18-september-2016/'
+talks:
+  - name: Особенности веб-интерфейса при работе со screen reader
+    speaker: Алексей Любимов
+    link: 'https://events.yandex.ru/lib/talks/3928/'
+    lang: ru
+    tags:
+      - frontend
+  - name: API Панорам
+    speaker: Кирилл Дмитренко
+    link: 'https://events.yandex.ru/lib/talks/3923/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Типографика: восток'
+    speaker: Роман Прудников
+    link: 'https://events.yandex.ru/lib/talks/3920/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Перевод документации opensource-проекта силами многих переводчиков
+    speaker: Владимир Гриненко
+    link: 'https://events.yandex.ru/lib/talks/3919/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Веб-приложения: дробим монолит'
+    speaker: Виктор Грищенко
+    link: 'https://events.yandex.ru/lib/talks/3922/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Пользовательские свойства как основа архитектуры CSS
+    speaker: Павел Ловцевич
+    link: 'https://events.yandex.ru/lib/talks/3926/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Парсим CSS
+    speaker: Роман Дворнов
+    link: 'https://events.yandex.ru/lib/talks/3925/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Интерфейсные анимации
+    speaker: Илья Бирман
+    link: 'https://events.yandex.ru/lib/talks/3929/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Тестирование веба без тестировщиков — успех или провал?
+    speaker: 'Татьяна Рыженкова, Сергей Звягин'
+    link: 'https://events.yandex.ru/lib/talks/3931/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как не надо тестировать
+    speaker: Иван Стрелков
+    link: 'https://events.yandex.ru/lib/talks/3932/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Фронтенд и аналитика
+    speaker: Иван Карев
+    link: 'https://events.yandex.ru/lib/talks/3934/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'React, Relay и GraphQL — вполне себе нормальный компонентный подход'
+    speaker: Павел Черторогов
+    link: 'https://events.yandex.ru/lib/talks/3935/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как перестать писать код с ошибками
+    speaker: Владимир Дашукевич
+    link: 'https://events.yandex.ru/lib/talks/3937/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Классические приёмы программирования во фронтенде
+    speaker: Игорь Алексеенко
+    link: 'https://events.yandex.ru/lib/talks/3938/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Я и ИоТ
+    speaker: Вадим Макеев
+    link: 'https://events.yandex.ru/lib/talks/3940/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Можно ли программировать без интернета
+    speaker: Григорий Бакунов
+    link: 'https://events.yandex.ru/lib/talks/3941/'
+    lang: ru
+    tags:
+      - frontend
