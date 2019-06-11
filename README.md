@@ -35,6 +35,16 @@
 | [Продвижение опенсорс-проектов](https://youtu.be/DU0LiH61PnQ?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)  | Андрей Ситник | [:notebook:](https://slides.com/ai/promote#/)   |
 | [Вебпак, вид сквозь монокль](https://youtu.be/qcj2bX4sB9E?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)  | Антон Кастрицкий |    |
 | [В поисках Стилевого Грааля](https://youtu.be/b7vBKp8D0vs?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)  | Артур Кенжаев | [:notebook:](http://tver.io/meetup/2019/05-open-source/kenzhaev/assets/player/KeynoteDHTMLPlayer.html)   |
+## Я.Субботник по разработке интерфейсов - Apr 27 
+| | | |
+| --- | :---: | --- |
+| [ШРИ — что внутри?](https://events.yandex.ru/lib/talks/7249/)  | Дмитрий Андриянов |    |
+| [Общие компоненты силами разных команд](https://events.yandex.ru/lib/talks/7251/)  | Владимир Гриненко |    |
+| [Стилизация и Dependency Injection](https://events.yandex.ru/lib/talks/7252/)  | Артур Кенжаев |    |
+| [Автоматический рефакторинг кода с помощью codemodes](https://events.yandex.ru/lib/talks/7254/)  | Александр Мышов |    |
+| [Жизнь до Runtime](https://events.yandex.ru/lib/talks/7255/)  | Никита Сидоров |    |
+| [Приключения в отдельном потоке](https://events.yandex.ru/lib/talks/7257/)  | Павел Смирнов |    |
+| [Полный цикл тестирования React-приложений](https://events.yandex.ru/lib/talks/7258/)  | Наталья Стусь, Алексей Андросов |    |
 ## PiterJS Tour 1 - Apr 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y)
 | | | |
 | --- | :---: | --- |
@@ -113,6 +123,16 @@
 | [Давайте не будем ждать?](https://www.youtube.com/watch?v=ijZTu7aVJtg)  | Алексей Попков |    |
 | [Тестирование фронтенда для разработчиков​](https://www.youtube.com/watch?v=ijZTu7aVJtg)  | Александра Шинкевич |    |
 | [MacOS Driven Development](https://www.youtube.com/watch?v=ijZTu7aVJtg)  | Никита Дубко |    |
+## Я.Субботник по разработке интерфейсов - Mar 23 
+| | | |
+| --- | :---: | --- |
+| [Технологии во фронтенде Яндекса](https://events.yandex.ru/lib/talks/7108/)  | ? |    |
+| [ШРИ — что внутри?](https://events.yandex.ru/lib/talks/7109/)  | ? |    |
+| [Гарантия качества](https://events.yandex.ru/lib/talks/7112/)  | ? |    |
+| [Модульный фронтенд](https://events.yandex.ru/lib/talks/7113/)  | ? |    |
+| [Как не писать код самому: делегируем наши проблемы AST](https://events.yandex.ru/lib/talks/7105/)  | ? |    |
+| [Вебпак: вид через монокль](https://events.yandex.ru/lib/talks/7106/)  | ? |    |
+| [Про React-хуки](https://events.yandex.ru/lib/talks/7110/)  | ? |    |
 ## WebDev Meetup 9 - Mar 23 
 | | | |
 | --- | :---: | --- |
@@ -152,6 +172,29 @@
 | [Рендеринг PDF: история одного продукта и его ключевой функции](https://www.youtube.com/watch?v=_CFK9NIvg-k)  | Сергей Авдяков | [:notebook:](https://yadi.sk/i/TwvCfauAkR1P8A)   |
 | [Как (не)удовлетворить Google PageSpeed](https://www.youtube.com/watch?v=cl8VhCmpDPo)  | Даниил Крохмаль | [:notebook:](https://yadi.sk/i/kyKsnQlqy_ReWg)   |
 | [Вебпак, вид сквозь монокль](https://www.youtube.com/watch?v=6Q3DmKH-ehY)  | Антон Кастрицкий | [:notebook:](https://yadi.sk/i/S2BUWNht_6zPPA)   |
+## JavaScript fwdays&#39;19 - Mar 16 
+| | | |
+| --- | :---: | --- |
+| [Technical SEO for JavaScript developers](https://fwdays.com/en/event/js-fwdays-2019/review/technical-seo-for-javascript-developers) [en] | Martin Splitt |    |
+| [The State of Modern JavaScript and Web in 2020 - Real use cases](https://fwdays.com/en/event/js-fwdays-2019/review/the-state-of-modern-js-and-web-in-2020)  | Alexey Kupriyanenko |    |
+| [Why are Angular and React so fast?](https://fwdays.com/en/event/js-fwdays-2019/review/why-are-angular-and-react-so-fast)  | Max Koretskyi |    |
+| [A short history of the web](https://fwdays.com/en/event/js-fwdays-2019/review/a-short-history-of-the-web) [en] | Martin Splitt |    |
+| [HTTP headers for the responsible developer](https://fwdays.com/en/event/js-fwdays-2019/review/http-headers-for-the-responsible-developer) [en] | Stefan Judis |    |
+| [How we have been developing an Offline First application using Persistent Storage](https://fwdays.com/en/event/js-fwdays-2019/review/how-we-have-been-developing-an-offline-first-application)  | Тимофей Лавренюк |    |
+| [How to train your Vue CLI plugin](https://fwdays.com/en/event/js-fwdays-2019/review/how-to-train-your-vue-cli-plugin) [en] | Natalia Tepluhina |    |
+| [One simple animation explained](https://fwdays.com/en/event/js-fwdays-2019/review/one-simple-animation-explained)  | Юрий Артюх |    |
+| [Server-side rendering with Angular—be faster and more SEO, CDN and user-friendly!](https://fwdays.com/en/event/js-fwdays-2019/review/server-side-rendering-with-angular) [en] | Maciej Treder |    |
+| [Делайте из слона муху](https://fwdays.com/en/event/js-fwdays-2019/review/shrink-an-elephant-into-a-fly)  | Вадим Макеев |    |
+| [JS on Server: To be or not to be?](https://fwdays.com/en/event/js-fwdays-2019/review/js-on-server-to-be-or-not-to-be)  | Illya Klymov |    |
+| [Web Performance in modern JavaScript world](https://fwdays.com/en/event/js-fwdays-2019/review/web-performance-in-modern-javascript-world) [en] | Filip Rakowski |    |
+| [Lost in Space: Web Apps and A11Y](https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space)  | Vitalii Bobrov |    |
+| [Looking for the right tech stack for GraphQL application](https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql)  | Nikita Galkin |    |
+| [The Almighty Rabbit Hole](https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole)  | Christopher Gannon |    |
+| [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https://fwdays.com/en/event/js-fwdays-2019/review/beyond-the-limitations-of-frontend)  | Ilona Demidenko |    |
+| [REPL, do you speak it](https://fwdays.com/en/event/js-fwdays-2019/review/repl)  | Александр Соловьев |    |
+| [Reactive Powered: RxJS with Angular Forms](https://fwdays.com/en/event/js-fwdays-2019/review/angular-forms) [en] | Shmuela Jacobs |    |
+| [Solving behavioral complexity with FRP](https://fwdays.com/en/event/js-fwdays-2019/review/solving-behavioral-complexity-with-frp)  | Oleksii Levzhynskyi |    |
+| [Hinting at a better web](https://fwdays.com/event/js-fwdays-2019/review/hinting-at-a-better-web) [en] | Christian Heilmann |    |
 ## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - Mar 02 
 | | | |
 | --- | :---: | --- |
