@@ -51,7 +51,7 @@ async function generateByYears(events) {
 
     const groupedByYears = new Map()
     for (const event of events) {
-        if (!event.talks || !event.talks.some(t => t.video || t.link || t.presentation || t.code)) {
+        if (!event.talks || !event.talks.some(t => t.video || t.link || t.presentation || t.code || t.url)) {
             continue;
         }
 
@@ -86,7 +86,7 @@ async function generateByOrganizers(events) {
 
     const groupedByOrganizers = new Map()
     for (const event of events) {
-        if (!event.talks || !event.talks.some(t => t.video || t.link || t.presentation || t.code)) {
+        if (!event.talks || !event.talks.some(t => t.video || t.link || t.presentation || t.code || t.url)) {
             continue;
         }
 
