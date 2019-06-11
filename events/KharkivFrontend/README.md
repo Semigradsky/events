@@ -3,33 +3,33 @@
 ## KharkivFrontend Summer Conference - 2018 Jul 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLDddScyTGZAuXMbFfcq6KqRVSQ-TrW5pL)
 | | | |
 | --- | :---: | --- |
-| [NodeJS. What is the secret](https://www.youtube.com/watch?v=g5WPzwIB1RI)  | Максим Корабельский |    |
-| [Короткое замыкание в JavaScript](https://www.youtube.com/watch?v=IrBxWPFnmMQ)  | Олег Момот |    |
-| [Может пора отказаться от тестов?](https://www.youtube.com/watch?v=_nSUQXGW-hk)  | Калинина Александра |    |
-| [Event loop. Что это и с чем его едят](https://www.youtube.com/watch?v=G2Y9sdoZebQ)  | Торосян Артур |    |
-| [Потоки данных в node.js](https://www.youtube.com/watch?v=UYZUE1vQ0js)  | Киктёв Виталий |    |
-| [State management with a shape of Vue](https://www.youtube.com/watch?v=4GE14lOpRCo)  | Виталий Ратушный |    |
+| [NodeJS. What is the secret](https://www.youtube.com/watch?v=g5WPzwIB1RI)  |  [Максим Корабельский](speakers&#x2F;Максим%20Корабельский.md)  |    |
+| [Короткое замыкание в JavaScript](https://www.youtube.com/watch?v=IrBxWPFnmMQ)  |  [Олег Момот](speakers&#x2F;Олег%20Момот.md)  |    |
+| [Может пора отказаться от тестов?](https://www.youtube.com/watch?v=_nSUQXGW-hk)  |  [Калинина Александра](speakers&#x2F;Калинина%20Александра.md)  |    |
+| [Event loop. Что это и с чем его едят](https://www.youtube.com/watch?v=G2Y9sdoZebQ)  |  [Торосян Артур](speakers&#x2F;Торосян%20Артур.md)  |    |
+| [Потоки данных в node.js](https://www.youtube.com/watch?v=UYZUE1vQ0js)  |  [Киктёв Виталий](speakers&#x2F;Киктёв%20Виталий.md)  |    |
+| [State management with a shape of Vue](https://www.youtube.com/watch?v=4GE14lOpRCo)  |  [Виталий Ратушный](speakers&#x2F;Виталий%20Ратушный.md)  |    |
 ## KharkivFrontend Meetup 3 - 2018 Apr 01 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLDddScyTGZAs2UcWBLPodHk5UWtMVDuPN)
 | | | |
 | --- | :---: | --- |
-| [Расставим сети. CSS Grid Layout module.](https://www.youtube.com/watch?v=TPz5MSS0Gy4)  | Стрельников Алексей |    |
-| [Functional Programming in JS](https://www.youtube.com/watch?v=NEVTBVFRk6Y)  | Максим Корабельский |    |
-| [Не доверяй входящим данным. Или что такое XSS](https://www.youtube.com/watch?v=A5qriMIS9O0)  | Богдан Резанов |    |
-| [О чем молчат тесты?](https://www.youtube.com/watch?v=tphlt_UVS5E)  | Чуб Вячеслав |    |
-| Под капотом React Native  | Антон Кулик |    |
+| [Расставим сети. CSS Grid Layout module.](https://www.youtube.com/watch?v=TPz5MSS0Gy4)  |  [Стрельников Алексей](speakers&#x2F;Стрельников%20Алексей.md)  |    |
+| [Functional Programming in JS](https://www.youtube.com/watch?v=NEVTBVFRk6Y)  |  [Максим Корабельский](speakers&#x2F;Максим%20Корабельский.md)  |    |
+| [Не доверяй входящим данным. Или что такое XSS](https://www.youtube.com/watch?v=A5qriMIS9O0)  |  [Богдан Резанов](speakers&#x2F;Богдан%20Резанов.md)  |    |
+| [О чем молчат тесты?](https://www.youtube.com/watch?v=tphlt_UVS5E)  |  [Чуб Вячеслав](speakers&#x2F;Чуб%20Вячеслав.md)  |    |
+| Под капотом React Native  |  [Антон Кулик](speakers&#x2F;Антон%20Кулик.md)  |    |
 ## KharkivFrontend Meetup 2 - 2018 Feb 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLDddScyTGZAu1b12lrG2YzSMZJ3g2VyFP)
 | | | |
 | --- | :---: | --- |
-| [Контекст наложения - кто ты?](https://youtu.be/0-FR5nkHlYU)  | Влад Антипенко | [:notebook:](https://drive.google.com/drive/folders/1lSJXwKT7JuzuTHr1hm7JFuzTr1sIkWpu)   |
-| [Grafana и Frontend, кастомная визуализация серверной инфраструктуры](https://youtu.be/ZyUHzLylcGA)  | Лиманская Дарья | [:notebook:](https://drive.google.com/drive/folders/1qGsqMzZlNzL1-8QJWyj-4AOY9kAXiKYN)   |
-| [It&#39;s a test!](https://youtu.be/ArItIDpVL58)  | Максим Нечесонов | [:notebook:](https://drive.google.com/drive/folders/1nOocjNRVZT6XV6RIh_REX6-OfEkA25gL)   |
-| [Безопасность веб-приложений](https://youtu.be/0BwpXOTj_P0)  | Елена Шаровар | [:notebook:](https://drive.google.com/drive/folders/1vsufgRXSOgG5QN8uk0urU8nQAkMF1G_k)   |
+| [Контекст наложения - кто ты?](https://youtu.be/0-FR5nkHlYU)  |  [Влад Антипенко](speakers&#x2F;Влад%20Антипенко.md)  | [:notebook:](https://drive.google.com/drive/folders/1lSJXwKT7JuzuTHr1hm7JFuzTr1sIkWpu)   |
+| [Grafana и Frontend, кастомная визуализация серверной инфраструктуры](https://youtu.be/ZyUHzLylcGA)  |  [Лиманская Дарья](speakers&#x2F;Лиманская%20Дарья.md)  | [:notebook:](https://drive.google.com/drive/folders/1qGsqMzZlNzL1-8QJWyj-4AOY9kAXiKYN)   |
+| [It&#39;s a test!](https://youtu.be/ArItIDpVL58)  |  [Максим Нечесонов](speakers&#x2F;Максим%20Нечесонов.md)  | [:notebook:](https://drive.google.com/drive/folders/1nOocjNRVZT6XV6RIh_REX6-OfEkA25gL)   |
+| [Безопасность веб-приложений](https://youtu.be/0BwpXOTj_P0)  |  [Елена Шаровар](speakers&#x2F;Елена%20Шаровар.md)  | [:notebook:](https://drive.google.com/drive/folders/1vsufgRXSOgG5QN8uk0urU8nQAkMF1G_k)   |
 ## KharkivFrontend Meetup 1 - 2017 Dec 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLDddScyTGZAvMNlREfTpW2MYnmC2aj1uf)
 | | | |
 | --- | :---: | --- |
-| [HTMLBoilerplate своими руками. Без регистрации и SMS.](https://www.youtube.com/watch?v=MiCzHtgQIqs)  | Виталий Петренко |    |
-| [GraphQL. Еще одна JavaScript библиотека? Зачем?](https://www.youtube.com/watch?v=9cClYOn8pq8)  | Олег Момот |    |
-| [D3.js - инструмент для работы с данными](https://www.youtube.com/watch?v=y0PE63mYGiw)  | Дарья Лиманская |    |
-| [Service Worker на проде](https://www.youtube.com/watch?v=QWt3HSrqXw4)  | Александра Калинина |    |
-| [Как заработать на accessibility?](https://www.youtube.com/watch?v=XI6Y7HHURpo)  | Александр Смолянинов |    |
-| [Свежий взгляд на KISS](https://www.youtube.com/watch?v=BweUe7V-xLQ)  | Вячеслав Чуб |    |
+| [HTMLBoilerplate своими руками. Без регистрации и SMS.](https://www.youtube.com/watch?v=MiCzHtgQIqs)  |  [Виталий Петренко](speakers&#x2F;Виталий%20Петренко.md)  |    |
+| [GraphQL. Еще одна JavaScript библиотека? Зачем?](https://www.youtube.com/watch?v=9cClYOn8pq8)  |  [Олег Момот](speakers&#x2F;Олег%20Момот.md)  |    |
+| [D3.js - инструмент для работы с данными](https://www.youtube.com/watch?v=y0PE63mYGiw)  |  [Дарья Лиманская](speakers&#x2F;Дарья%20Лиманская.md)  |    |
+| [Service Worker на проде](https://www.youtube.com/watch?v=QWt3HSrqXw4)  |  [Александра Калинина](speakers&#x2F;Александра%20Калинина.md)  |    |
+| [Как заработать на accessibility?](https://www.youtube.com/watch?v=XI6Y7HHURpo)  |  [Александр Смолянинов](speakers&#x2F;Александр%20Смолянинов.md)  |    |
+| [Свежий взгляд на KISS](https://www.youtube.com/watch?v=BweUe7V-xLQ)  |  [Вячеслав Чуб](speakers&#x2F;Вячеслав%20Чуб.md)  |    |
