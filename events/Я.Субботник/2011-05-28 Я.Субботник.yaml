@@ -1,0 +1,70 @@
+name: Я.Субботник
+date: 2011-05-28
+link: 'https://events.yandex.ru/events/yasubbotnik/kiev-may-2011/'
+talks:
+  - name: Операция CSS3
+    speaker: Олег Мохов
+    link: 'https://events.yandex.ru/lib/talks/231/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Скорость рендеринга страниц: исследования, замеры, автоматизация'
+    speaker: Михаил Корепанов
+    link: 'https://events.yandex.ru/lib/talks/232/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'SVARX: фреймворк для семантической валидации форм'
+    speaker: Максим Ширшин
+    link: 'https://events.yandex.ru/lib/talks/234/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Внедрение идей БЭМ на не-Яндекс проект
+    speaker: Денис Бугарчев
+    link: 'https://events.yandex.ru/lib/talks/235/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Privoxy – арсенал супергероя?!
+    speaker: Иван Широков
+    link: 'https://events.yandex.ru/lib/talks/236/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Верстка кастомными тегами для API Яндекс.Карт
+    speaker: Елена Глухова
+    link: 'https://events.yandex.ru/lib/talks/238/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'HTML5 в Я.Почте (WebSocket, localStorage, Cross-site XHR) '
+    speaker: Алексей Андросов
+    link: 'https://events.yandex.ru/lib/talks/239/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Верстка для touch-устройств (webkit) '
+    speaker: Владимир Гриненко
+    link: 'https://events.yandex.ru/lib/talks/240/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Что такое дизайнерская компания
+    speaker: Константин Горский
+    link: 'https://events.yandex.ru/lib/talks/242/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Мобильные тренды (на основе приложений iOS)
+    speaker: Евгений Селезнев
+    link: 'https://events.yandex.ru/lib/talks/243/'
+    lang: ru
+    tags:
+      - frontend
+  - name: CSS3 в руках дизайнера
+    speaker: Вадим Пацев
+    link: 'https://events.yandex.ru/lib/talks/244/'
+    lang: ru
+    tags:
+      - frontend

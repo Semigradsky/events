@@ -1,0 +1,46 @@
+name: Я.Субботник по фронтенду
+date: 2017-04-22
+link: 'https://events.yandex.ru/events/yasubbotnik/22-april-2017/'
+talks:
+  - name: Опыт внедрения Flow
+    speaker: Алексей Верхоланцев
+    link: 'https://events.yandex.ru/lib/talks/4564/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 10k
+    speaker: Виталий Харисов
+    link: 'https://events.yandex.ru/lib/talks/4565/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Сomposition over inheritance
+    speaker: Владимир Гриненко
+    link: 'https://events.yandex.ru/lib/talks/4567/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Собираем Kinect из смартфона и Smart TV
+    speaker: 'Виталий Потапов, Александр Олейников'
+    link: 'https://events.yandex.ru/lib/talks/4568/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Карта для Олимпиады
+    speaker: Иван Карев
+    link: 'https://events.yandex.ru/lib/talks/4570/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Сага о redux
+    speaker: Максим Васильев
+    link: 'https://events.yandex.ru/lib/talks/4571/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Жизнь без интернета
+    speaker: Артем Кувалдин
+    link: 'https://events.yandex.ru/lib/talks/4572/'
+    lang: ru
+    tags:
+      - frontend

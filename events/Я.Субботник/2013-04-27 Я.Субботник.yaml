@@ -1,0 +1,52 @@
+name: Я.Субботник
+date: 2013-04-27
+link: 'https://events.yandex.ru/events/yasubbotnik/kiev-apr-2013/'
+talks:
+  - name: Яндекс.Диск. Полет нормальный
+    speaker: Владимир Русинов
+    link: 'https://events.yandex.ru/lib/talks/834/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Яндекс.Диск. Эксплуатация и разработка быстрорастущих облаков
+    speaker: 'Михаил Белов, Олег Лексунин'
+    link: 'https://events.yandex.ru/lib/talks/835/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Криокамера для статики
+    speaker: Алексей Андросов
+    link: 'https://events.yandex.ru/lib/talks/837/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Инкрементальные обновления на клиенте
+    speaker: Михаил Корепанов
+    link: 'https://events.yandex.ru/lib/talks/836/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Одностраничные приложения на БЭМ и Node.js
+    speaker: Евгений Филатов
+    link: 'https://events.yandex.ru/lib/talks/840/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Яндекс.Поиск. Разработка интерфейсов в распределенной команде
+    speaker: Сергей Пузанков
+    link: 'https://events.yandex.ru/lib/talks/842/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Менеджмент кода, или Почему SCM'
+    speaker: Сергей Сергеев
+    link: 'https://events.yandex.ru/lib/talks/844/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Вопросы и ответы
+    speaker: '?'
+    link: 'https://events.yandex.ru/lib/talks/845/'
+    lang: ru
+    tags:
+      - frontend

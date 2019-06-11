@@ -1,0 +1,64 @@
+name: Я.Субботник
+date: 2017-09-09
+link: 'https://events.yandex.ru/events/yasubbotnik/09-september-2017/'
+talks:
+  - name: 'Слушай, Яндекс, как устроен phrase-spotting'
+    speaker: Алексей Колесов
+    link: 'https://events.yandex.ru/lib/talks/4924/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Mobile Ads SDK. Садимся на диету
+    speaker: Дмитрий Фисько
+    link: 'https://events.yandex.ru/lib/talks/4962/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как мы делаем продукты в Яндекс.Почте
+    speaker: Илья Воробьев
+    link: 'https://events.yandex.ru/lib/talks/4963/'
+    lang: ru
+    tags:
+      - frontend
+  - name: AppMetrica. Автоматизация работы с Logs API
+    speaker: Николай Волосатов
+    link: 'https://events.yandex.ru/lib/talks/4926/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Яндекс.Браузер и Chromium — как долго и счастливо жить в браке по расчету
+    speaker: Дмитрий Лукашевич
+    link: 'https://events.yandex.ru/lib/talks/4964/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Алгоритмы построения пути для беспилотного автомобиля
+    speaker: Роман Удовиченко
+    link: 'https://events.yandex.ru/lib/talks/4927/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Пару слов об А/Б-тестировании в Яндексе
+    speaker: 'Сергей Мыц, Данил Валгушев'
+    link: 'https://events.yandex.ru/lib/talks/4965/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Что такое веб-компоненты и зачем они вам могут понадобиться
+    speaker: Дмитрий Выкочко
+    link: 'https://events.yandex.ru/lib/talks/4967/'
+    lang: ru
+    tags:
+      - frontend
+  - name: История одной кнопки
+    speaker: Руслан Муфтиев
+    link: 'https://events.yandex.ru/lib/talks/4918/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Инверсия зависимостей в мире фронтенда
+    speaker: Евгений Шпилевский
+    link: 'https://events.yandex.ru/lib/talks/4928/'
+    lang: ru
+    tags:
+      - frontend

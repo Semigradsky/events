@@ -1,0 +1,52 @@
+name: Я.Субботник по фронтенду
+date: 2016-12-10
+link: 'https://events.yandex.ru/events/yasubbotnik/10-dec-2016/'
+talks:
+  - name: Как я попала в Яндекс и чему научилась — советы начинающим разработчикам и не только
+    speaker: Анна Тютюнник
+    link: 'https://events.yandex.ru/lib/talks/4255/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Наш взгляд на progressive web apps
+    speaker: Антон Кричевский
+    link: 'https://events.yandex.ru/lib/talks/4256/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Iframe v Script
+    speaker: Всеволод Шмыров
+    link: 'https://events.yandex.ru/lib/talks/4258/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как функциональное программирование может сделать жизнь проще
+    speaker: Сергей Ткаченко
+    link: 'https://events.yandex.ru/lib/talks/4259/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Пишем Selenium-тесты прямо в браузере
+    speaker: Виталий Потапов
+    link: 'https://events.yandex.ru/lib/talks/4261/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Gemini: различные способы использования'
+    speaker: Антон Усманский
+    link: 'https://events.yandex.ru/lib/talks/4262/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Living the GNU/Linux dream
+    speaker: Петър Додев
+    link: 'https://events.yandex.ru/lib/talks/4264/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Гибкая настройка внешнего вида выдачи, или зачем нам понадобилось переопределять константы'
+    speaker: Руслан Муфтиев
+    link: 'https://events.yandex.ru/lib/talks/4265/'
+    lang: ru
+    tags:
+      - frontend

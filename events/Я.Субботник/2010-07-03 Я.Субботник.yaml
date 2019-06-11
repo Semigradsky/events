@@ -1,0 +1,52 @@
+name: Я.Субботник
+date: 2010-07-03
+link: 'https://events.yandex.ru/events/yasubbotnik/msk-jul-2010/'
+talks:
+  - name: Оптимизация времени загрузки на примере Яндекс.Карт
+    speaker: Азат Разетдинов
+    link: 'https://events.yandex.ru/lib/talks/914/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Яндекс.Панель: осваиваем 250px'
+    speaker: Максим Ширшин
+    link: 'https://events.yandex.ru/lib/talks/915/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Последняя миля разработки интерфейсов
+    speaker: Сергей Сергеев
+    link: 'https://events.yandex.ru/lib/talks/917/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Adobe Fireworks как инструмент для проектирования интерфейсов
+    speaker: Вадим Пацев
+    link: 'https://events.yandex.ru/lib/talks/918/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Семантическая разметка '
+    speaker: Ольга Остренкова
+    link: 'https://events.yandex.ru/lib/talks/920/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Сложная вёрстка в примерах
+    speaker: Роман Комаров
+    link: 'https://events.yandex.ru/lib/talks/921/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Роль HTML-вёрстки в проектировании интерфейсов Яндекс.Почты
+    speaker: Николай Яремко
+    link: 'https://events.yandex.ru/lib/talks/923/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Шаблонизация на клиенте
+    speaker: Степан Резников
+    link: 'https://events.yandex.ru/lib/talks/924/'
+    lang: ru
+    tags:
+      - frontend

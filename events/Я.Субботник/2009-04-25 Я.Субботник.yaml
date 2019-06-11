@@ -1,0 +1,34 @@
+name: Я.Субботник
+date: 2009-04-25
+link: 'https://events.yandex.ru/events/yasubbotnik/kiev-apr-2009/'
+talks:
+  - name: 'Вёрстка в IntelliJ IDEA '
+    speaker: Вадим Макишвили
+    link: 'https://events.yandex.ru/lib/talks/727/'
+    lang: ru
+    tags:
+      - frontend
+  - name: С ножом против паровоза. Оптимизация и нарезка графики для профессиональной вёрстки
+    speaker: Вадим Макеев
+    link: 'https://events.yandex.ru/lib/talks/729/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Вёрстка элементов страниц в общем виде
+    speaker: Виталий Харисов
+    link: 'https://events.yandex.ru/lib/talks/731/'
+    lang: ru
+    tags:
+      - frontend
+  - name: API Яндекс.Карт
+    speaker: Александр Тармолов
+    link: 'https://events.yandex.ru/lib/talks/733/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Отображение групп разнородных объектов на Яндекс.Картах
+    speaker: Александр Тармолов
+    link: 'https://events.yandex.ru/lib/talks/735/'
+    lang: ru
+    tags:
+      - frontend

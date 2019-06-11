@@ -1,0 +1,82 @@
+name: Я.Субботник
+date: 2011-07-02
+link: 'https://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/'
+talks:
+  - name: Как мы оцениваем качество поиска
+    speaker: Яна Филиппова
+    link: 'https://events.yandex.ru/lib/talks/213/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Что такое хорошие сниппеты?
+    speaker: Михаил Лебедев
+    link: 'https://events.yandex.ru/lib/talks/214/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как работают хорошие сниппеты
+    speaker: Александр Лившиц
+    link: 'https://events.yandex.ru/lib/talks/215/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Про БЭМ, или Как разрабатывать веб-проекты'
+    speaker: 'Сергей Бережной, Виталий Харисов'
+    link: 'https://events.yandex.ru/lib/talks/217/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Куда идём мы с Пятачком, или О том, куда движется вёрстка и верстальщики Яндекса'
+    speaker: Олег Мохов
+    link: 'https://events.yandex.ru/lib/talks/218/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Масштабируемые JavaScript-приложения
+    speaker: Михаил Давыдов
+    link: 'https://events.yandex.ru/lib/talks/219/'
+    lang: ru
+    tags:
+      - frontend
+  - name: HTML5 в Я.Почте
+    speaker: Алексей Андросов
+    link: 'https://events.yandex.ru/lib/talks/220/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Нагрузки в спорте высоких достижений
+    speaker: Иван Бибилов
+    link: 'https://events.yandex.ru/lib/talks/222/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как Python стал делать погоду в Яндексе
+    speaker: Руслан Гроховецкий
+    link: 'https://events.yandex.ru/lib/talks/223/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Python в инфраструктуре поиска
+    speaker: Леонид Васильев
+    link: 'https://events.yandex.ru/lib/talks/224/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Кластеризация дубликатов в Яндекс.Картинках
+    speaker: Александр Крайнов
+    link: 'https://events.yandex.ru/lib/talks/226/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Офлайн-поиск на основе MapReduce
+    speaker: Александр Сибиряков
+    link: 'https://events.yandex.ru/lib/talks/227/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Роботы и люди в Twitter-е
+    speaker: Дмитрий Кузнецов
+    link: 'https://events.yandex.ru/lib/talks/228/'
+    lang: ru
+    tags:
+      - frontend

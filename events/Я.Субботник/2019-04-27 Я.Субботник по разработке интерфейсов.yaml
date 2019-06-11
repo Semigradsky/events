@@ -1,0 +1,46 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2019-04-27
+link: 'https://events.yandex.ru/events/yasubbotnik/27-april-2019/'
+talks:
+  - name: ШРИ — что внутри?
+    speaker: Дмитрий Андриянов
+    link: 'https://events.yandex.ru/lib/talks/7249/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Общие компоненты силами разных команд
+    speaker: Владимир Гриненко
+    link: 'https://events.yandex.ru/lib/talks/7251/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Стилизация и Dependency Injection
+    speaker: Артур Кенжаев
+    link: 'https://events.yandex.ru/lib/talks/7252/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Автоматический рефакторинг кода с помощью codemodes
+    speaker: Александр Мышов
+    link: 'https://events.yandex.ru/lib/talks/7254/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Жизнь до Runtime
+    speaker: Никита Сидоров
+    link: 'https://events.yandex.ru/lib/talks/7255/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Приключения в отдельном потоке
+    speaker: Павел Смирнов
+    link: 'https://events.yandex.ru/lib/talks/7257/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Полный цикл тестирования React-приложений
+    speaker: 'Наталья Стусь, Алексей Андросов'
+    link: 'https://events.yandex.ru/lib/talks/7258/'
+    lang: ru
+    tags:
+      - frontend

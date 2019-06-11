@@ -1,0 +1,52 @@
+name: Я.Субботник
+date: 2016-07-09
+link: 'https://events.yandex.ru/events/yasubbotnik/09-july-2016/'
+talks:
+  - name: Любовь и ненависть к pull-requests
+    speaker: Сергей Сергеев
+    link: 'https://events.yandex.ru/lib/talks/3676/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Автоматизация Code Review
+    speaker: Станислав Сысоев
+    link: 'https://events.yandex.ru/lib/talks/3677/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Измеряем эффективность инфраструктуры разработки интерфейсов
+    speaker: Алексей Калмаков
+    link: 'https://events.yandex.ru/lib/talks/3680/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'MQ: merge-queue'
+    speaker: Евгений Гаврюшин
+    link: 'https://events.yandex.ru/lib/talks/3704/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'ymb и yms: асинхронные модули в JavaScript-проектах'
+    speaker: Александр Зинчук
+    link: 'https://events.yandex.ru/lib/talks/3682/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Что нового в bem-core@v4
+    speaker: Сергей Бережной
+    link: 'https://events.yandex.ru/lib/talks/3685/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Автоматическая генерация актуальной документации для модульного фронтенда
+    speaker: Владимир Гриненко
+    link: 'https://events.yandex.ru/lib/talks/3686/'
+    lang: ru
+    tags:
+      - frontend
+  - name: БЭМ в Virtual DOM
+    speaker: Антон Виноградов
+    link: 'https://events.yandex.ru/lib/talks/3687/'
+    lang: ru
+    tags:
+      - frontend

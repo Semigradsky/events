@@ -1,0 +1,64 @@
+name: Я.Субботник
+date: 2013-06-15
+link: 'https://events.yandex.ru/events/yasubbotnik/spb-jun-2013/'
+talks:
+  - name: Разработка фронтенда для гиков
+    speaker: Юрий Ткаченко
+    link: 'https://events.yandex.ru/lib/talks/930/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Новая выдача Поиска для сайта - кастомные теги, CSS3 и JavaScript'
+    speaker: Игорь Шевченко
+    link: 'https://events.yandex.ru/lib/talks/931/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Облачная платформа Cocaine —  облако своими руками
+    speaker: Антон Тюрин
+    link: 'https://events.yandex.ru/lib/talks/933/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Разработка приложения под  Cocaine — быстро, просто, удобно'
+    speaker: Александр Пономарев
+    link: 'https://events.yandex.ru/lib/talks/934/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Яндекс.Авто 2.0 на Node.js
+    speaker: Вячеслав Олиянчук
+    link: 'https://events.yandex.ru/lib/talks/936/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Путь в npm
+    speaker: Филипп Ковалев
+    link: 'https://events.yandex.ru/lib/talks/937/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Яндекс.Поиск: когда команда распределена по «островам»'
+    speaker: Артём Семенов
+    link: 'https://events.yandex.ru/lib/talks/939/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Острова — интерактивные ответы в поиске Яндекса
+    speaker: Олег Левчук
+    link: 'https://events.yandex.ru/lib/talks/940/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Технология активных областей в API Яндекс.Карт
+    speaker: Алексей Емелин
+    link: 'https://events.yandex.ru/lib/talks/942/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Maintainer кода в большом проекте
+    speaker: Сергей Сергеев
+    link: 'https://events.yandex.ru/lib/talks/943/'
+    lang: ru
+    tags:
+      - frontend

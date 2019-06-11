@@ -1,0 +1,46 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2017-10-21
+link: 'https://events.yandex.ru/events/yasubbotnik/21-october-2017/'
+talks:
+  - name: Поговорите с пользователем
+    speaker: Роман Парадеев
+    link: 'https://events.yandex.ru/lib/talks/5129/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как мы тестируем интерфейсы Поиска
+    speaker: Сергей Бережной
+    link: 'https://events.yandex.ru/lib/talks/5112/'
+    lang: ru
+    tags:
+      - frontend
+  - name: C — consistency или переиспользование кода в особо крупных размерах
+    speaker: Владимир Гриненко
+    link: 'https://events.yandex.ru/lib/talks/5130/'
+    lang: ru
+    tags:
+      - frontend
+  - name: БЭМ ❤️ webpack
+    speaker: Василий Логиневский
+    link: 'https://events.yandex.ru/lib/talks/5131/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Чаты с найденными организациями прямо на yandex.ru
+    speaker: Александр Сивашёв
+    link: 'https://events.yandex.ru/lib/talks/5114/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'mobx-state-tree: как подружить mobx и redux'
+    speaker: Азат Разетдинов
+    link: 'https://events.yandex.ru/lib/talks/5110/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Еще раз про сенсорные события
+    speaker: Всеволод Шмыров
+    link: 'https://events.yandex.ru/lib/talks/5111/'
+    lang: ru
+    tags:
+      - frontend

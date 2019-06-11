@@ -1,0 +1,52 @@
+name: Я.Субботник по фронтенду
+date: 2014-11-22
+link: 'https://events.yandex.ru/events/yasubbotnik/kiev_nov_2014/'
+talks:
+  - name: «Бабуля» — поиск Яндекса для старых браузеров
+    speaker: Андрей Черепаха
+    link: 'https://events.yandex.ru/lib/talks/2584/'
+    lang: ru
+    tags:
+      - frontend
+  - name: ES6 — уровень реализации и возможности использования
+    speaker: Денис Тужик
+    link: 'https://events.yandex.ru/lib/talks/2585/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'CSP: как защитить своих пользователей'
+    speaker: Алексей Андросов
+    link: 'https://events.yandex.ru/lib/talks/2587/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Работа с Git в команде Яндекс.Браузера
+    speaker: Алёна Царёва
+    link: 'https://events.yandex.ru/lib/talks/2588/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Разработка небольшого проекта c BEM и node.js
+    speaker: Сергей Пузанков
+    link: 'https://events.yandex.ru/lib/talks/2590/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'JSCS — архитектура, история и будущее'
+    speaker: Олег Гайдаренко
+    link: 'https://events.yandex.ru/lib/talks/2591/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Асинхронная модульность в API Яндекс.Карт
+    speaker: Александр Зинчук
+    link: 'https://events.yandex.ru/lib/talks/2593/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Тестирование CSS-регрессий с Gemini
+    speaker: Сергей Татаринцев
+    link: 'https://events.yandex.ru/lib/talks/2594/'
+    lang: ru
+    tags:
+      - frontend

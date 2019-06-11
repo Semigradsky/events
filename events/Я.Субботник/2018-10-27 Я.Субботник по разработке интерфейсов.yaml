@@ -1,0 +1,40 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2018-10-27
+link: 'https://events.yandex.ru/events/yasubbotnik/27-oct-2018/'
+talks:
+  - name: A Dollar Config
+    speaker: Азат Разетдинов
+    link: 'https://events.yandex.ru/lib/talks/6442/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Бэкенд слишком важен, чтобы доверять его бэкендерам'
+    speaker: Назим Гафаров
+    link: 'https://events.yandex.ru/lib/talks/6443/'
+    lang: ru
+    tags:
+      - frontend
+  - name: React в Яндекс.Поиске. Новая архитектура фронтенда СЕРПа
+    speaker: Антон Виноградов
+    link: 'https://events.yandex.ru/lib/talks/6445/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Кросс-платформенная разработка на javascript.
+    speaker: Николай Ильченко
+    link: 'https://events.yandex.ru/lib/talks/6446/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Веб-компоненты: от Angular к React'
+    speaker: Дмитрий Лямкин
+    link: 'https://events.yandex.ru/lib/talks/6448/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Мутационное тестирование
+    speaker: Евгений Сорокин
+    link: 'https://events.yandex.ru/lib/talks/6449/'
+    lang: ru
+    tags:
+      - frontend

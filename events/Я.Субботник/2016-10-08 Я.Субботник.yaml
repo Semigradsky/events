@@ -1,0 +1,40 @@
+name: Я.Субботник
+date: 2016-10-08
+link: 'https://events.yandex.ru/events/yasubbotnik/08-oct-2016/'
+talks:
+  - name: Особенности работы распределенной команды
+    speaker: Михаил Трошев
+    link: 'https://events.yandex.ru/lib/talks/4088/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Любовь и ненависть к pull-requests
+    speaker: Сергей Сергеев
+    link: 'https://events.yandex.ru/lib/talks/4086/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Learn You an AST for Great Good
+    speaker: Станислав Сысоев
+    link: 'https://events.yandex.ru/lib/talks/4087/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Измеряем эффективность инфраструктуры разработки интерфейсов
+    speaker: Алексей Калмаков
+    link: 'https://events.yandex.ru/lib/talks/4090/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'MQ: merge-queue'
+    speaker: Евгений Гаврюшин
+    link: 'https://events.yandex.ru/lib/talks/4091/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Гибридные мобильные приложения
+    speaker: Александр Сулима
+    link: 'https://events.yandex.ru/lib/talks/4116/'
+    lang: ru
+    tags:
+      - frontend

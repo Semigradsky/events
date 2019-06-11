@@ -1,0 +1,70 @@
+name: Я.Субботник
+date: 2012-06-02
+link: 'https://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/'
+talks:
+  - name: Про офис разработки Яндекса в Беларуси
+    speaker: Алексей Сикорский
+    link: 'https://events.yandex.ru/lib/talks/91/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Методы классификации документов в поиске
+    speaker: Юрий Богомолов
+    link: 'https://events.yandex.ru/lib/talks/92/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Поиск для сайта: зачем он нужен, как с ним работать, как и зачем его улучшать'
+    speaker: Дмитрий Вульбрун
+    link: 'https://events.yandex.ru/lib/talks/93/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'История создания БЭМ. Кратко, сбивчиво и неполно'
+    speaker: Виталий Харисов
+    link: 'https://events.yandex.ru/lib/talks/95/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Использование кастомных шрифтов
+    speaker: Ангелина Константинова
+    link: 'https://events.yandex.ru/lib/talks/96/'
+    lang: ru
+    tags:
+      - frontend
+  - name: AJAX в поиске по вебу
+    speaker: Михаил Трошев
+    link: 'https://events.yandex.ru/lib/talks/97/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как мы делаем code review
+    speaker: Владимир Билоненко
+    link: 'https://events.yandex.ru/lib/talks/99/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'JS API Яндекс.Карт 2.0: что нового и как это работает'
+    speaker: Сергей Перескоков
+    link: 'https://events.yandex.ru/lib/talks/100/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Архитектура сервиса Яндекс.Диск. Замыслы и реальность
+    speaker: Владимир Русинов
+    link: 'https://events.yandex.ru/lib/talks/101/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Hello WP7: начинаем разработку'
+    speaker: Константин Заикин
+    link: 'https://events.yandex.ru/lib/talks/103/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Локализация приложений для iOS: как не прострелить себе ногу'
+    speaker: Андрей Субботин
+    link: 'https://events.yandex.ru/lib/talks/104/'
+    lang: ru
+    tags:
+      - frontend

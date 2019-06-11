@@ -1,0 +1,40 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2018-11-10
+link: 'https://events.yandex.ru/events/yasubbotnik/10-11-2018/'
+talks:
+  - name: React в Яндекс.Поиске. Новая архитектура фронтенда СЕРПа.
+    speaker: Антон Виноградов
+    link: 'https://events.yandex.ru/lib/talks/6678/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Цена типизации
+    speaker: Назим Гафаров
+    link: 'https://events.yandex.ru/lib/talks/6679/'
+    lang: ru
+    tags:
+      - frontend
+  - name: A Dollar Config
+    speaker: Азат Разетдинов
+    link: 'https://events.yandex.ru/lib/talks/6680/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Типографика в вебе
+    speaker: Антон Кастрицкий
+    link: 'https://events.yandex.ru/lib/talks/6682/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Мутационное тестирование
+    speaker: Евгений Сорокин
+    link: 'https://events.yandex.ru/lib/talks/6683/'
+    lang: ru
+    tags:
+      - frontend
+  - name: О настоящем и будущем браузера
+    speaker: Константин Крамлих
+    link: 'https://events.yandex.ru/lib/talks/6684/'
+    lang: ru
+    tags:
+      - frontend

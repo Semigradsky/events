@@ -1,0 +1,40 @@
+name: Я.Субботник
+date: 2009-10-03
+link: 'https://events.yandex.ru/events/yasubbotnik/kiev-oct-2009/'
+talks:
+  - name: Виджеты для главной страницы Яндекса. Кто у кого «отнимает» аудиторию?
+    speaker: Александр Ларьяновский
+    link: 'https://events.yandex.ru/lib/talks/754/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Виджеты для главной страницы Яндекса '
+    speaker: 'Вера Лейзерович, Влад Мокеев'
+    link: 'https://events.yandex.ru/lib/talks/753/'
+    lang: ru
+    tags:
+      - frontend
+  - name: XXI век — эпоха великих географических открытий. Для чего нужен API Яндекс.Карт
+    speaker: Леонид Шныр
+    link: 'https://events.yandex.ru/lib/talks/755/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Компас, секстант и другие инструменты современного картографа. Инструкция к применению API Яндекс.Карт'
+    speaker: Фёдор Голубев
+    link: 'https://events.yandex.ru/lib/talks/757/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Передача дополнительной информации о сайте через Яндекс.Вебмастер
+    speaker: Михаил Сенин
+    link: 'https://events.yandex.ru/lib/talks/758/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Анализ эффективности сайтов: Яндекс.Метрика '
+    speaker: Антон Попов
+    link: 'https://events.yandex.ru/lib/talks/760/'
+    lang: ru
+    tags:
+      - frontend

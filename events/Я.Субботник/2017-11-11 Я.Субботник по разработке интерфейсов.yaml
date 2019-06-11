@@ -1,0 +1,40 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2017-11-11
+link: 'https://events.yandex.ru/events/yasubbotnik/11-November-2017/'
+talks:
+  - name: Яндекс.Красота — дизайн для миллионов
+    speaker: Антон Виноградов
+    link: 'https://events.yandex.ru/lib/talks/5205/'
+    lang: ru
+    tags:
+      - frontend
+  - name: C — Consistency или переиспользование в особо крупных размерах
+    speaker: Владимир Гриненко
+    link: 'https://events.yandex.ru/lib/talks/5206/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как мы тестируем интерфейсы Поиска
+    speaker: Сергей Бережной
+    link: 'https://events.yandex.ru/lib/talks/5208/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Инфраструктура автосборки и тестирования поисковых интерфейсов
+    speaker: Сергей Белов
+    link: 'https://events.yandex.ru/lib/talks/5209/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Как мы работаем над скоростью Поиска
+    speaker: Прокопюк Андрей
+    link: 'https://events.yandex.ru/lib/talks/5211/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Еще раз про сенсорные события
+    speaker: Всеволод Шмыров
+    link: 'https://events.yandex.ru/lib/talks/5212/'
+    lang: ru
+    tags:
+      - frontend

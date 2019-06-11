@@ -1,0 +1,64 @@
+name: Я.Субботник
+date: 2011-12-03
+link: 'https://events.yandex.ru/events/yasubbotnik/spb-dec-2011/'
+talks:
+  - name: 'Touch it: универсальные тач-события и слайдер'
+    speaker: Кир Белевич
+    link: 'https://events.yandex.ru/lib/talks/165/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Дизайнер в поиске
+    speaker: Настя Ларкина
+    link: 'https://events.yandex.ru/lib/talks/166/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Офлайн-поиск на основе MapReduce '
+    speaker: Александр Сибиряков
+    link: 'https://events.yandex.ru/lib/talks/168/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Python в инфраструктуре поиска
+    speaker: Леонид Васильев
+    link: 'https://events.yandex.ru/lib/talks/169/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Несколько интересных фактов об экспертной оценке
+    speaker: Ольга Мегорская
+    link: 'https://events.yandex.ru/lib/talks/170/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Методы автоматического сбора данных
+    speaker: Владимир Батыгин
+    link: 'https://events.yandex.ru/lib/talks/172/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Подходы к кешированию на UGC-сервисе
+    speaker: Сергей Чистович
+    link: 'https://events.yandex.ru/lib/talks/173/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Основные проблемы и грабли при разработке видеохостингов
+    speaker: Алексей Ефимов
+    link: 'https://events.yandex.ru/lib/talks/174/'
+    lang: ru
+    tags:
+      - frontend
+  - name: Горизонтальное масштабирование MySQL
+    speaker: Екатерина Войденко
+    link: 'https://events.yandex.ru/lib/talks/176/'
+    lang: ru
+    tags:
+      - frontend
+  - name: 'Хроники серверного Жаваскрипта '
+    speaker: Марат Абдуллин
+    link: 'https://events.yandex.ru/lib/talks/177/'
+    lang: ru
+    tags:
+      - frontend
