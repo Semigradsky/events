@@ -4,49 +4,49 @@ link: 'https://events.yandex.ru/events/YaTalks/fronttalks-ekb-jul-2013/'
 talks:
   - name: 'File API: обработка файлов на клиенте и их загрузка на сервер'
     speaker: Константин Лебедев
-    link: 'https://events.yandex.ru/lib/talks/976/'
+    url: 'https://events.yandex.ru/lib/talks/976/'
     lang: ru
     tags:
       - frontend
   - name: Promise – это не больно
     speaker: Михаил Давыдов
-    link: 'https://events.yandex.ru/lib/talks/981/'
+    url: 'https://events.yandex.ru/lib/talks/981/'
     lang: ru
     tags:
       - frontend
   - name: Веб-приложения будущего
     speaker: Илья Пухальский
-    link: 'https://events.yandex.ru/lib/talks/1012/'
+    url: 'https://events.yandex.ru/lib/talks/1012/'
     lang: ru
     tags:
       - frontend
   - name: 'Basis.js. Почему я не бросил разрабатывать свой фреймворк'
     speaker: Роман Дворнов
-    link: 'https://events.yandex.ru/lib/talks/980/'
+    url: 'https://events.yandex.ru/lib/talks/980/'
     lang: ru
     tags:
       - frontend
   - name: 'Ошибки, которые мы любим'
     speaker: Алексей Андросов
-    link: 'https://events.yandex.ru/lib/talks/978/'
+    url: 'https://events.yandex.ru/lib/talks/978/'
     lang: ru
     tags:
       - frontend
   - name: 'Зачем Опере Вебкит, или Опиум для народа'
     speaker: Вадим Макеев
-    link: 'https://events.yandex.ru/lib/talks/1011/'
+    url: 'https://events.yandex.ru/lib/talks/1011/'
     lang: ru
     tags:
       - frontend
   - name: Произвольная смена дизайна системного скроллбара
     speaker: Дмитрий Кузнецов
-    link: 'https://events.yandex.ru/lib/talks/983/'
+    url: 'https://events.yandex.ru/lib/talks/983/'
     lang: ru
     tags:
       - frontend
   - name: Распечатай Яндекс.Карты
     speaker: Вадим Макишвили
-    link: 'https://events.yandex.ru/lib/talks/984/'
+    url: 'https://events.yandex.ru/lib/talks/984/'
     lang: ru
     tags:
       - frontend

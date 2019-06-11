@@ -4,61 +4,61 @@ link: 'https://events.yandex.ru/events/YaTalks/19-september-2015/'
 talks:
   - name: Introduction to accessibility mechanics
     speaker: Леони Уотсон
-    link: 'https://events.yandex.ru/lib/talks/3049/'
+    url: 'https://events.yandex.ru/lib/talks/3049/'
     lang: ru
     tags:
       - frontend
   - name: Веб-анимации на JS и CSS
     speaker: Александр Завьялов
-    link: 'https://events.yandex.ru/lib/talks/3050/'
+    url: 'https://events.yandex.ru/lib/talks/3050/'
     lang: ru
     tags:
       - frontend
   - name: Вызов принят
     speaker: Анна Селезнёва
-    link: 'https://events.yandex.ru/lib/talks/3051/'
+    url: 'https://events.yandex.ru/lib/talks/3051/'
     lang: ru
     tags:
       - frontend
   - name: Different Characters
     speaker: Мартин Клеппе
-    link: 'https://events.yandex.ru/lib/talks/3053/'
+    url: 'https://events.yandex.ru/lib/talks/3053/'
     lang: ru
     tags:
       - frontend
   - name: Глубокое погружение в webpack
     speaker: Владимир Кузнецов
-    link: 'https://events.yandex.ru/lib/talks/3054/'
+    url: 'https://events.yandex.ru/lib/talks/3054/'
     lang: ru
     tags:
       - frontend
   - name: 'ymb и yms: асинхронные модули в JavaScript-проектах'
     speaker: Александр Зинчук
-    link: 'https://events.yandex.ru/lib/talks/3055/'
+    url: 'https://events.yandex.ru/lib/talks/3055/'
     lang: ru
     tags:
       - frontend
   - name: Инструментируй это
     speaker: Роман Дворнов
-    link: 'https://events.yandex.ru/lib/talks/3057/'
+    url: 'https://events.yandex.ru/lib/talks/3057/'
     lang: ru
     tags:
       - frontend
   - name: Мейкап и контроль качества верстки
     speaker: Тимофей Чаптыков
-    link: 'https://events.yandex.ru/lib/talks/3058/'
+    url: 'https://events.yandex.ru/lib/talks/3058/'
     lang: ru
     tags:
       - frontend
   - name: Используем PostCSS правильно
     speaker: Андрей Ситник
-    link: 'https://events.yandex.ru/lib/talks/3060/'
+    url: 'https://events.yandex.ru/lib/talks/3060/'
     lang: ru
     tags:
       - frontend
   - name: Книги в браузере
     speaker: Олег Мохов
-    link: 'https://events.yandex.ru/lib/talks/3061/'
+    url: 'https://events.yandex.ru/lib/talks/3061/'
     lang: ru
     tags:
       - frontend

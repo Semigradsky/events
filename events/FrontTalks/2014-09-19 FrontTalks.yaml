@@ -4,55 +4,55 @@ link: 'https://events.yandex.ru/events/YaTalks/fronttalks-ekb-sep-2014/'
 talks:
   - name: Суперсилы Chrome DevTools
     speaker: Роман Сальников
-    link: 'https://events.yandex.ru/lib/talks/2227/'
+    url: 'https://events.yandex.ru/lib/talks/2227/'
     lang: ru
     tags:
       - frontend
   - name: Зачем нужны постпроцессоры при живых препроцессорах
     speaker: Алексей Иванов
-    link: 'https://events.yandex.ru/lib/talks/2229/'
+    url: 'https://events.yandex.ru/lib/talks/2229/'
     lang: ru
     tags:
       - frontend
   - name: Wap. Встройка. Мобильная разработка
     speaker: Алексей Бахирев
-    link: 'https://events.yandex.ru/lib/talks/2232/'
+    url: 'https://events.yandex.ru/lib/talks/2232/'
     lang: ru
     tags:
       - frontend
   - name: Баба-Яга против!
     speaker: Роман Дворнов
-    link: 'https://events.yandex.ru/lib/talks/2236/'
+    url: 'https://events.yandex.ru/lib/talks/2236/'
     lang: ru
     tags:
       - frontend
   - name: Гибкие коробки на практике
     speaker: Арсений Форштретер
-    link: 'https://events.yandex.ru/lib/talks/2231/'
+    url: 'https://events.yandex.ru/lib/talks/2231/'
     lang: ru
     tags:
       - frontend
   - name: Я ♥ SVG
     speaker: Владимир Кузнецов
-    link: 'https://events.yandex.ru/lib/talks/2234/'
+    url: 'https://events.yandex.ru/lib/talks/2234/'
     lang: ru
     tags:
       - frontend
   - name: Как сделать Инстаграм в браузере
     speaker: Дмитрий Дудин
-    link: 'https://events.yandex.ru/lib/talks/2228/'
+    url: 'https://events.yandex.ru/lib/talks/2228/'
     lang: ru
     tags:
       - frontend
   - name: 'Сколько нужно верстальщиков, чтобы вставить <picture>?'
     speaker: Вадим Макеев
-    link: 'https://events.yandex.ru/lib/talks/2237/'
+    url: 'https://events.yandex.ru/lib/talks/2237/'
     lang: ru
     tags:
       - frontend
   - name: '36'
     speaker: Вадим Макишвили
-    link: 'https://events.yandex.ru/lib/talks/2235/'
+    url: 'https://events.yandex.ru/lib/talks/2235/'
     lang: ru
     tags:
       - frontend
