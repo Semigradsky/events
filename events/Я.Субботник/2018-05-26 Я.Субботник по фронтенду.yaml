@@ -4,31 +4,31 @@ link: 'https://events.yandex.ru/events/yasubbotnik/26-may-2018/'
 talks:
   - name: 'Анимация в браузере, или как добиться 60 кадров в секунду на слабых устройствах'
     speaker: Антон Кастрицкий
-    link: 'https://events.yandex.ru/lib/talks/5952/'
+    url: 'https://events.yandex.ru/lib/talks/5952/'
     lang: ru
     tags:
       - frontend
   - name: Модуль «Регионы» из API Яндекс.Карт
     speaker: Евгений Кузнецов
-    link: 'https://events.yandex.ru/lib/talks/5949/'
+    url: 'https://events.yandex.ru/lib/talks/5949/'
     lang: ru
     tags:
       - frontend
   - name: Опыт использования WebRTC
     speaker: Григорий Кузнецов
-    link: 'https://events.yandex.ru/lib/talks/5956/'
+    url: 'https://events.yandex.ru/lib/talks/5956/'
     lang: ru
     tags:
       - frontend
   - name: Переход V8 с Crankshaft на Turbofan+Ignition
     speaker: 'Юлия Маллаева, Денис Былинин'
-    link: 'https://events.yandex.ru/lib/talks/5950/'
+    url: 'https://events.yandex.ru/lib/talks/5950/'
     lang: ru
     tags:
       - frontend
   - name: 'Бэкенд слишком важен, чтобы доверять его бэкендерам'
     speaker: Назим Гафаров
-    link: 'https://events.yandex.ru/lib/talks/5953/'
+    url: 'https://events.yandex.ru/lib/talks/5953/'
     lang: ru
     tags:
       - frontend

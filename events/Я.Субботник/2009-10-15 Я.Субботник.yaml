@@ -4,49 +4,49 @@ link: 'https://events.yandex.ru/events/yasubbotnik/almaty-oct-2009/'
 talks:
   - name: 'Вступительное слово: Что такое Яндекс для Казахстана? '
     speaker: Илья Сегалович
-    link: 'https://events.yandex.ru/lib/talks/763/'
+    url: 'https://events.yandex.ru/lib/talks/763/'
     lang: ru
     tags:
       - frontend
   - name: Поиск Яндекса в регионах. Яндекс.Вебмастер и организация поиска по сайту
     speaker: Александр Садовский
-    link: 'https://events.yandex.ru/lib/talks/764/'
+    url: 'https://events.yandex.ru/lib/talks/764/'
     lang: ru
     tags:
       - frontend
   - name: Яндекс.Почта
     speaker: Антон Забанных
-    link: 'https://events.yandex.ru/lib/talks/765/'
+    url: 'https://events.yandex.ru/lib/talks/765/'
     lang: ru
     tags:
       - frontend
   - name: Виджеты для главной страницы Яндекса. Кто у кого «отнимает» аудиторию?
     speaker: Александр Ларьяновский
-    link: 'https://events.yandex.ru/lib/talks/767/'
+    url: 'https://events.yandex.ru/lib/talks/767/'
     lang: ru
     tags:
       - frontend
   - name: Виджеты для главной страницы Яндекса
     speaker: Вера Лейзерович
-    link: 'https://events.yandex.ru/lib/talks/768/'
+    url: 'https://events.yandex.ru/lib/talks/768/'
     lang: ru
     tags:
       - frontend
   - name: 'Новости: как и зачем'
     speaker: Татьяна Исаева
-    link: 'https://events.yandex.ru/lib/talks/769/'
+    url: 'https://events.yandex.ru/lib/talks/769/'
     lang: ru
     tags:
       - frontend
   - name: 'Яндекс.Карты: между пользователем и разработчиком'
     speaker: 'Фёдор Голубев, Леонид Шныр'
-    link: 'https://events.yandex.ru/lib/talks/771/'
+    url: 'https://events.yandex.ru/lib/talks/771/'
     lang: ru
     tags:
       - frontend
   - name: 'Анализ эффективности сайтов: Яндекс.Метрика '
     speaker: Антон Попов
-    link: 'https://events.yandex.ru/lib/talks/772/'
+    url: 'https://events.yandex.ru/lib/talks/772/'
     lang: ru
     tags:
       - frontend

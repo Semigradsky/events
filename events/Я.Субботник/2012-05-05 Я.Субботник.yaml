@@ -4,73 +4,73 @@ link: 'https://events.yandex.ru/events/yasubbotnik/kiev-may-2012/'
 talks:
   - name: Вступительное слово на Я.Субботнике в Киеве
     speaker: Григорий Бакунов
-    link: 'https://events.yandex.ru/lib/talks/107/'
+    url: 'https://events.yandex.ru/lib/talks/107/'
     lang: ru
     tags:
       - frontend
   - name: 'Асессоры Яндекса: откуда взялись, зачем нужны, как работают'
     speaker: Ольга Онойко
-    link: 'https://events.yandex.ru/lib/talks/108/'
+    url: 'https://events.yandex.ru/lib/talks/108/'
     lang: ru
     tags:
       - frontend
   - name: Дизайнер в поиске
     speaker: Настя Ларкина
-    link: 'https://events.yandex.ru/lib/talks/109/'
+    url: 'https://events.yandex.ru/lib/talks/109/'
     lang: ru
     tags:
       - frontend
   - name: 'API 2.0: Новые интерфейсы Яндекс.Карт – теперь и на украинском'
     speaker: Александр Зинчук
-    link: 'https://events.yandex.ru/lib/talks/110/'
+    url: 'https://events.yandex.ru/lib/talks/110/'
     lang: ru
     tags:
       - frontend
   - name: Используем git без проблем
     speaker: Сергей Сергеев
-    link: 'https://events.yandex.ru/lib/talks/112/'
+    url: 'https://events.yandex.ru/lib/talks/112/'
     lang: ru
     tags:
       - frontend
   - name: Зачем и как мы используем jsLint
     speaker: Дмитрий Щадей
-    link: 'https://events.yandex.ru/lib/talks/113/'
+    url: 'https://events.yandex.ru/lib/talks/113/'
     lang: ru
     tags:
       - frontend
   - name: Современный «станок» верстальщика
     speaker: 'Евгений Батовский, Николай Птущук'
-    link: 'https://events.yandex.ru/lib/talks/114/'
+    url: 'https://events.yandex.ru/lib/talks/114/'
     lang: ru
     tags:
       - frontend
   - name: Настоящее и будущее разработки на Украине
     speaker: Виталий Харисов
-    link: 'https://events.yandex.ru/lib/talks/116/'
+    url: 'https://events.yandex.ru/lib/talks/116/'
     lang: ru
     tags:
       - frontend
   - name: Приложения для соцсетей. Универсальные приложения на БЭМ
     speaker: Александр Титула-Бойченко
-    link: 'https://events.yandex.ru/lib/talks/117/'
+    url: 'https://events.yandex.ru/lib/talks/117/'
     lang: ru
     tags:
       - frontend
   - name: 'bem server: система сборки фронтенда'
     speaker: Сергей Белов
-    link: 'https://events.yandex.ru/lib/talks/118/'
+    url: 'https://events.yandex.ru/lib/talks/118/'
     lang: ru
     tags:
       - frontend
   - name: 'i-bem.js: JavaScript в БЭМ-терминах'
     speaker: Владимир Гриненко
-    link: 'https://events.yandex.ru/lib/talks/120/'
+    url: 'https://events.yandex.ru/lib/talks/120/'
     lang: ru
     tags:
       - frontend
   - name: Используем БЭМ для создания сайтов под iOS/Android
     speaker: Кир Белевич
-    link: 'https://events.yandex.ru/lib/talks/121/'
+    url: 'https://events.yandex.ru/lib/talks/121/'
     lang: ru
     tags:
       - frontend

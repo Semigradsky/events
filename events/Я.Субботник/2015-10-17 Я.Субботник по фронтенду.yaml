@@ -4,49 +4,49 @@ link: 'https://events.yandex.ru/events/yasubbotnik/17-october-2015/'
 talks:
   - name: Роль разработчика интерфейсов в продукте
     speaker: Сергей Сергеев
-    link: 'https://events.yandex.ru/lib/talks/3204/'
+    url: 'https://events.yandex.ru/lib/talks/3204/'
     lang: ru
     tags:
       - frontend
   - name: 'bem-components — как Bootstrap, только лучше'
     speaker: Владимир Гриненко
-    link: 'https://events.yandex.ru/lib/talks/3205/'
+    url: 'https://events.yandex.ru/lib/talks/3205/'
     lang: ru
     tags:
       - frontend
   - name: Мгновенная Морда
     speaker: Иван Карев
-    link: 'https://events.yandex.ru/lib/talks/3207/'
+    url: 'https://events.yandex.ru/lib/talks/3207/'
     lang: ru
     tags:
       - frontend
   - name: Эксперимент как инструмент для принятия решений
     speaker: Виктор Карпов
-    link: 'https://events.yandex.ru/lib/talks/3208/'
+    url: 'https://events.yandex.ru/lib/talks/3208/'
     lang: ru
     tags:
       - frontend
   - name: Приручаем SVG
     speaker: Лев Солнцев
-    link: 'https://events.yandex.ru/lib/talks/3210/'
+    url: 'https://events.yandex.ru/lib/talks/3210/'
     lang: ru
     tags:
       - frontend
   - name: Производительность WebGL приложений
     speaker: Кирилл Дмитренко
-    link: 'https://events.yandex.ru/lib/talks/3211/'
+    url: 'https://events.yandex.ru/lib/talks/3211/'
     lang: ru
     tags:
       - frontend
   - name: Создание модулей для API Яндекс.Карт
     speaker: Всеволод Шмыров
-    link: 'https://events.yandex.ru/lib/talks/3213/'
+    url: 'https://events.yandex.ru/lib/talks/3213/'
     lang: ru
     tags:
       - frontend
   - name: API как древнеримский акведук
     speaker: Сергей Константинов
-    link: 'https://events.yandex.ru/lib/talks/3214/'
+    url: 'https://events.yandex.ru/lib/talks/3214/'
     lang: ru
     tags:
       - frontend

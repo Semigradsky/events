@@ -4,61 +4,61 @@ link: 'https://events.yandex.ru/events/yasubbotnik/ekb-jul-2013/'
 talks:
   - name: Открытие
     speaker: Андрей Жаринов
-    link: 'https://events.yandex.ru/lib/talks/961/'
+    url: 'https://events.yandex.ru/lib/talks/961/'
     lang: ru
     tags:
       - frontend
   - name: Интерактивные ответы в поиске Яндекса. Case study
     speaker: Булат Каримов
-    link: 'https://events.yandex.ru/lib/talks/968/'
+    url: 'https://events.yandex.ru/lib/talks/968/'
     lang: ru
     tags:
       - frontend
   - name: Твиттер в поиске Яндекса
     speaker: Иван Комаров
-    link: 'https://events.yandex.ru/lib/talks/969/'
+    url: 'https://events.yandex.ru/lib/talks/969/'
     lang: ru
     tags:
       - frontend
   - name: Разработка C++ API для реализации алгоритмов на больших графах
     speaker: Павел Артёмкин
-    link: 'https://events.yandex.ru/lib/talks/962/'
+    url: 'https://events.yandex.ru/lib/talks/962/'
     lang: ru
     tags:
       - frontend
   - name: Новая выдача Поиска для сайта
     speaker: Дмитрий Вульбрун
-    link: 'https://events.yandex.ru/lib/talks/1014/'
+    url: 'https://events.yandex.ru/lib/talks/1014/'
     lang: ru
     tags:
       - frontend
   - name: JavaScript на фронте и в тылу
     speaker: Денис Чистяков
-    link: 'https://events.yandex.ru/lib/talks/970/'
+    url: 'https://events.yandex.ru/lib/talks/970/'
     lang: ru
     tags:
       - frontend
   - name: Простая обработка групп геообъектов на карте
     speaker: Сергей Константинов
-    link: 'https://events.yandex.ru/lib/talks/965/'
+    url: 'https://events.yandex.ru/lib/talks/965/'
     lang: ru
     tags:
       - frontend
   - name: Python и вычисления
     speaker: Руслан Гроховецкий
-    link: 'https://events.yandex.ru/lib/talks/963/'
+    url: 'https://events.yandex.ru/lib/talks/963/'
     lang: ru
     tags:
       - frontend
   - name: Сортировка списков в Perl и Python
     speaker: Олег Алистратов
-    link: 'https://events.yandex.ru/lib/talks/971/'
+    url: 'https://events.yandex.ru/lib/talks/971/'
     lang: ru
     tags:
       - frontend
   - name: Как хранить логи сервиса в базе данных и не погубить продакшен
     speaker: Алексей Кирпичников
-    link: 'https://events.yandex.ru/lib/talks/966/'
+    url: 'https://events.yandex.ru/lib/talks/966/'
     lang: ru
     tags:
       - frontend

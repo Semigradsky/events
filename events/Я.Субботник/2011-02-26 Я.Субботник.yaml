@@ -4,37 +4,37 @@ link: 'https://events.yandex.ru/events/yasubbotnik/spb-feb-2011/'
 talks:
   - name: Поиск багов в поиске
     speaker: 'Артем Ерошенко, Станислав Селиверстов'
-    link: 'https://events.yandex.ru/lib/talks/248/'
+    url: 'https://events.yandex.ru/lib/talks/248/'
     lang: ru
     tags:
       - frontend
   - name: Оценка качества поиска
     speaker: Роман Поборчий
-    link: 'https://events.yandex.ru/lib/talks/249/'
+    url: 'https://events.yandex.ru/lib/talks/249/'
     lang: ru
     tags:
       - frontend
   - name: Оценка черной магии
     speaker: Александр Коваленко
-    link: 'https://events.yandex.ru/lib/talks/251/'
+    url: 'https://events.yandex.ru/lib/talks/251/'
     lang: ru
     tags:
       - frontend
   - name: Поток вертикальных сервиcов
     speaker: Дмитрий Качмар
-    link: 'https://events.yandex.ru/lib/talks/252/'
+    url: 'https://events.yandex.ru/lib/talks/252/'
     lang: ru
     tags:
       - frontend
   - name: 'Баннерокрутилка: разбираем на куски'
     speaker: Сергей Скроботов
-    link: 'https://events.yandex.ru/lib/talks/254/'
+    url: 'https://events.yandex.ru/lib/talks/254/'
     lang: ru
     tags:
       - frontend
   - name: Автоматический сбор данных по примерам
     speaker: Владимир Батыгин
-    link: 'https://events.yandex.ru/lib/talks/255/'
+    url: 'https://events.yandex.ru/lib/talks/255/'
     lang: ru
     tags:
       - frontend

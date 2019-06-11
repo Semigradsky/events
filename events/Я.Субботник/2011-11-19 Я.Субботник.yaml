@@ -4,61 +4,61 @@ link: 'https://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/'
 talks:
   - name: Автоматизация тестирования веб-форм
     speaker: Илья Кацев
-    link: 'https://events.yandex.ru/lib/talks/181/'
+    url: 'https://events.yandex.ru/lib/talks/181/'
     lang: ru
     tags:
       - frontend
   - name: 'SVARX, или Борьба с большими формами'
     speaker: Максим Ширшин
-    link: 'https://events.yandex.ru/lib/talks/182/'
+    url: 'https://events.yandex.ru/lib/talks/182/'
     lang: ru
     tags:
       - frontend
   - name: CSS3 фарш
     speaker: Олег Мохов
-    link: 'https://events.yandex.ru/lib/talks/184/'
+    url: 'https://events.yandex.ru/lib/talks/184/'
     lang: ru
     tags:
       - frontend
   - name: Веб для незрячих
     speaker: Сергей Горобцов
-    link: 'https://events.yandex.ru/lib/talks/185/'
+    url: 'https://events.yandex.ru/lib/talks/185/'
     lang: ru
     tags:
       - frontend
   - name: Архитектура фронтенда Яндекс.Почты
     speaker: Алексей Андросов
-    link: 'https://events.yandex.ru/lib/talks/186/'
+    url: 'https://events.yandex.ru/lib/talks/186/'
     lang: ru
     tags:
       - frontend
   - name: Приручая сайты
     speaker: Николай Сиварев
-    link: 'https://events.yandex.ru/lib/talks/188/'
+    url: 'https://events.yandex.ru/lib/talks/188/'
     lang: ru
     tags:
       - frontend
   - name: Yandex Map Kit для iOS в примерах
     speaker: Роман Бусыгин
-    link: 'https://events.yandex.ru/lib/talks/189/'
+    url: 'https://events.yandex.ru/lib/talks/189/'
     lang: ru
     tags:
       - frontend
   - name: Разработка Яндекс.Карт для Windows Phone 7
     speaker: Константин Заикин
-    link: 'https://events.yandex.ru/lib/talks/190/'
+    url: 'https://events.yandex.ru/lib/talks/190/'
     lang: ru
     tags:
       - frontend
   - name: 'Земля в коробочке: хранят и показывают Яндекс.Карты'
     speaker: Илья Шаров
-    link: 'https://events.yandex.ru/lib/talks/192/'
+    url: 'https://events.yandex.ru/lib/talks/192/'
     lang: ru
     tags:
       - frontend
   - name: Как мы делаем Панорамы
     speaker: Максим Хохлов
-    link: 'https://events.yandex.ru/lib/talks/193/'
+    url: 'https://events.yandex.ru/lib/talks/193/'
     lang: ru
     tags:
       - frontend

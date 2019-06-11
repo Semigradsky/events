@@ -4,61 +4,61 @@ link: 'https://events.yandex.ru/events/yasubbotnik/spb-dec-2012/'
 talks:
   - name: Ваше собственное облако — война за независимость
     speaker: Андрей Сибирев
-    link: 'https://events.yandex.ru/lib/talks/482/'
+    url: 'https://events.yandex.ru/lib/talks/482/'
     lang: ru
     tags:
       - frontend
   - name: Эффективная маршрутизация в вычислительном облаке
     speaker: Рим Зайдуллин
-    link: 'https://events.yandex.ru/lib/talks/483/'
+    url: 'https://events.yandex.ru/lib/talks/483/'
     lang: ru
     tags:
       - frontend
   - name: Как управлять облаками
     speaker: Денис Зайцев
-    link: 'https://events.yandex.ru/lib/talks/484/'
+    url: 'https://events.yandex.ru/lib/talks/484/'
     lang: ru
     tags:
       - frontend
   - name: Распределённая система near-realtime агрегации больших объёмов данных на основе cocaine
     speaker: Антон Тюрин
-    link: 'https://events.yandex.ru/lib/talks/472/'
+    url: 'https://events.yandex.ru/lib/talks/472/'
     lang: ru
     tags:
       - frontend
   - name: Elliptics в Яндексе
     speaker: Антон Кортунов
-    link: 'https://events.yandex.ru/lib/talks/473/'
+    url: 'https://events.yandex.ru/lib/talks/473/'
     lang: ru
     tags:
       - frontend
   - name: Архитектура загрузчика Яндекс.Диска
     speaker: Александр Киракозов
-    link: 'https://events.yandex.ru/lib/talks/475/'
+    url: 'https://events.yandex.ru/lib/talks/475/'
     lang: ru
     tags:
       - frontend
   - name: 'Яндекс.Работа: Работа не волк'
     speaker: 'Александр Савин, Михаил Коровкин'
-    link: 'https://events.yandex.ru/lib/talks/476/'
+    url: 'https://events.yandex.ru/lib/talks/476/'
     lang: ru
     tags:
       - frontend
   - name: Как мы заставили API Яндекс.Карт работать быстрее
     speaker: Марина Степанова
-    link: 'https://events.yandex.ru/lib/talks/477/'
+    url: 'https://events.yandex.ru/lib/talks/477/'
     lang: ru
     tags:
       - frontend
   - name: Производительность клиентсайда через тестирование скорости отрисовки страниц
     speaker: Марина Широчкина
-    link: 'https://events.yandex.ru/lib/talks/479/'
+    url: 'https://events.yandex.ru/lib/talks/479/'
     lang: ru
     tags:
       - frontend
   - name: Чего не хватает в PageObject?
     speaker: Артем Кошелев
-    link: 'https://events.yandex.ru/lib/talks/480/'
+    url: 'https://events.yandex.ru/lib/talks/480/'
     lang: ru
     tags:
       - frontend

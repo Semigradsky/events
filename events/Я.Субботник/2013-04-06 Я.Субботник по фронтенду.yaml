@@ -4,67 +4,67 @@ link: 'https://events.yandex.ru/events/yasubbotnik/riga-apr-2013/'
 talks:
   - name: Яндекс.Events?!
     speaker: Елена Джетпыспаева
-    link: 'https://events.yandex.ru/lib/talks/685/'
+    url: 'https://events.yandex.ru/lib/talks/685/'
     lang: ru
     tags:
       - frontend
   - name: 'БЭМ: от методологии до платформы'
     speaker: Виталий Харисов
-    link: 'https://events.yandex.ru/lib/talks/686/'
+    url: 'https://events.yandex.ru/lib/talks/686/'
     lang: ru
     tags:
       - frontend
   - name: Инструменты фронтенд-разработчика
     speaker: Владимир Гриненко
-    link: 'https://events.yandex.ru/lib/talks/895/'
+    url: 'https://events.yandex.ru/lib/talks/895/'
     lang: ru
     tags:
       - frontend
   - name: 'MIX: зачем смешивать блоки'
     speaker: Сергей Бережной
-    link: 'https://events.yandex.ru/lib/talks/856/'
+    url: 'https://events.yandex.ru/lib/talks/856/'
     lang: ru
     tags:
       - frontend
   - name: 'Клиентский JavaScript в БЭМ-терминах: от блока до библиотеки'
     speaker: Сергей Бережной
-    link: 'https://events.yandex.ru/lib/talks/689/'
+    url: 'https://events.yandex.ru/lib/talks/689/'
     lang: ru
     tags:
       - frontend
   - name: 'Экзотическая шаблонизация, или как писать HTML для блоков'
     speaker: Сергей Бережной
-    link: 'https://events.yandex.ru/lib/talks/690/'
+    url: 'https://events.yandex.ru/lib/talks/690/'
     lang: ru
     tags:
       - frontend
   - name: Тотальная заморозка = быстрая загрузка
     speaker: Алексей Андросов
-    link: 'https://events.yandex.ru/lib/talks/692/'
+    url: 'https://events.yandex.ru/lib/talks/692/'
     lang: ru
     tags:
       - frontend
   - name: Инкрементальные обновления на клиенте. Ловкость рук и никакой магии
     speaker: Алексей Андросов
-    link: 'https://events.yandex.ru/lib/talks/774/'
+    url: 'https://events.yandex.ru/lib/talks/774/'
     lang: ru
     tags:
       - frontend
   - name: Что помогает нам писать качественный JavaScript-код?
     speaker: Дмитрий Щадей
-    link: 'https://events.yandex.ru/lib/talks/695/'
+    url: 'https://events.yandex.ru/lib/talks/695/'
     lang: ru
     tags:
       - frontend
   - name: 'Тестирование фронтенда с HtmlElements: разработка быстрее, поддержка – проще'
     speaker: Артем Кошелев
-    link: 'https://events.yandex.ru/lib/talks/696/'
+    url: 'https://events.yandex.ru/lib/talks/696/'
     lang: ru
     tags:
       - frontend
   - name: Вопросы и ответы
     speaker: '?'
-    link: 'https://events.yandex.ru/lib/talks/697/'
+    url: 'https://events.yandex.ru/lib/talks/697/'
     lang: ru
     tags:
       - frontend

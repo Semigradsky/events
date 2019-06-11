@@ -4,43 +4,43 @@ link: 'https://events.yandex.ru/events/yasubbotnik/10-october-2015/'
 talks:
   - name: 'IMAP: как реализовать стандарт и не сойти с ума'
     speaker: Егор Прохоренко
-    link: 'https://events.yandex.ru/lib/talks/3187/'
+    url: 'https://events.yandex.ru/lib/talks/3187/'
     lang: ru
     tags:
       - frontend
   - name: Как мы делали новые сборщики писем в Яндекс.Почте
     speaker: Роман Горнак
-    link: 'https://events.yandex.ru/lib/talks/3188/'
+    url: 'https://events.yandex.ru/lib/talks/3188/'
     lang: ru
     tags:
       - frontend
   - name: Как побеждать копипасту в огромных проектах
     speaker: Илья Довбан
-    link: 'https://events.yandex.ru/lib/talks/3189/'
+    url: 'https://events.yandex.ru/lib/talks/3189/'
     lang: ru
     tags:
       - frontend
   - name: 'Быстро и гибко: тестируем сами и помогаем тестировщику'
     speaker: 'Михаил Пешехонов, Анна Барабанова'
-    link: 'https://events.yandex.ru/lib/talks/3191/'
+    url: 'https://events.yandex.ru/lib/talks/3191/'
     lang: ru
     tags:
       - frontend
   - name: Практика использования RxJava в Яндекс.Музыке и Яндекс.Радио
     speaker: 'Евгений Макар, Дмитрий Стабровский'
-    link: 'https://events.yandex.ru/lib/talks/3192/'
+    url: 'https://events.yandex.ru/lib/talks/3192/'
     lang: ru
     tags:
       - frontend
   - name: Нативный плагин в Unity на примере AppMetrica
     speaker: Николай Волосатов
-    link: 'https://events.yandex.ru/lib/talks/3194/'
+    url: 'https://events.yandex.ru/lib/talks/3194/'
     lang: ru
     tags:
       - frontend
   - name: SSL Pinning для мобильных приложений Яндекса
     speaker: Ростислав Алиферович
-    link: 'https://events.yandex.ru/lib/talks/3195/'
+    url: 'https://events.yandex.ru/lib/talks/3195/'
     lang: ru
     tags:
       - frontend

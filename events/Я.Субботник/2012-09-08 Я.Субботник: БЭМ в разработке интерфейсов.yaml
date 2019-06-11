@@ -4,49 +4,49 @@ link: 'https://events.yandex.ru/events/yasubbotnik/msk-sep-2012/'
 talks:
   - name: Настоящее и будущее БЭМ
     speaker: Виталий Харисов
-    link: 'https://events.yandex.ru/lib/talks/320/'
+    url: 'https://events.yandex.ru/lib/talks/320/'
     lang: ru
     tags:
       - frontend
   - name: Новые возможности bem-tools для автоматической сборки проекта
     speaker: 'Сергей Белов, Владимир Алаев'
-    link: 'https://events.yandex.ru/lib/talks/321/'
+    url: 'https://events.yandex.ru/lib/talks/321/'
     lang: ru
     tags:
       - frontend
   - name: 'БЭМ и JavaScript: Зачем мы написали JS-фреймворк?'
     speaker: Владимир Варанкин
-    link: 'https://events.yandex.ru/lib/talks/323/'
+    url: 'https://events.yandex.ru/lib/talks/323/'
     lang: ru
     tags:
       - frontend
   - name: 'БЭМ и JavaScript: Сборник рецептов'
     speaker: Варвара Степанова
-    link: 'https://events.yandex.ru/lib/talks/324/'
+    url: 'https://events.yandex.ru/lib/talks/324/'
     lang: ru
     tags:
       - frontend
   - name: 'БЭМ и JavaScript: Тестирование'
     speaker: Александр Тармолов
-    link: 'https://events.yandex.ru/lib/talks/326/'
+    url: 'https://events.yandex.ru/lib/talks/326/'
     lang: ru
     tags:
       - frontend
   - name: Миксы во вселенной БЭМ
     speaker: Кир Белевич
-    link: 'https://events.yandex.ru/lib/talks/327/'
+    url: 'https://events.yandex.ru/lib/talks/327/'
     lang: ru
     tags:
       - frontend
   - name: Про шаблонизаторы вообще и BEMHTML в частности
     speaker: Сергей Бережной
-    link: 'https://events.yandex.ru/lib/talks/329/'
+    url: 'https://events.yandex.ru/lib/talks/329/'
     lang: ru
     tags:
       - frontend
   - name: Внедрение БЭМ в существующие системы
     speaker: Сергей Бережной
-    link: 'https://events.yandex.ru/lib/talks/330/'
+    url: 'https://events.yandex.ru/lib/talks/330/'
     lang: ru
     tags:
       - frontend

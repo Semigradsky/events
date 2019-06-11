@@ -4,37 +4,37 @@ link: 'https://events.yandex.ru/events/yasubbotnik/28-jul-2018/'
 talks:
   - name: А и Б сидели на трубе
     speaker: Сергей Сергеев
-    link: 'https://events.yandex.ru/lib/talks/5919/'
+    url: 'https://events.yandex.ru/lib/talks/5919/'
     lang: ru
     tags:
       - frontend
   - name: Безграничные возможности транспиляции
     speaker: Андрей Роенко
-    link: 'https://events.yandex.ru/lib/talks/5920/'
+    url: 'https://events.yandex.ru/lib/talks/5920/'
     lang: ru
     tags:
       - frontend
   - name: 'Производительность JS: чтобы улучшить, надо измерить'
     speaker: Виктор Хомяков
-    link: 'https://events.yandex.ru/lib/talks/6212/'
+    url: 'https://events.yandex.ru/lib/talks/6212/'
     lang: ru
     tags:
       - frontend
   - name: 'Ревью: Как устроена система оценки производительности сотрудников в Яндексе'
     speaker: Сергей Бережной
-    link: 'https://events.yandex.ru/lib/talks/5923/'
+    url: 'https://events.yandex.ru/lib/talks/5923/'
     lang: ru
     tags:
       - frontend
   - name: 'Анимация в браузере, или как добиться 60 кадров в секунду на слабых устройствах'
     speaker: Антон Кастрицкий
-    link: 'https://events.yandex.ru/lib/talks/5925/'
+    url: 'https://events.yandex.ru/lib/talks/5925/'
     lang: ru
     tags:
       - frontend
   - name: 'Бэкенд слишком важен, чтобы доверять его бэкендерам'
     speaker: Назим Гафаров
-    link: 'https://events.yandex.ru/lib/talks/5926/'
+    url: 'https://events.yandex.ru/lib/talks/5926/'
     lang: ru
     tags:
       - frontend

@@ -4,37 +4,37 @@ link: 'https://events.yandex.ru/events/yasubbotnik/11-aug-2018/'
 talks:
   - name: 'Ревью: как устроена система оценки сотрудников в Яндексе'
     speaker: Сергей Бережной
-    link: 'https://events.yandex.ru/lib/talks/6176/'
+    url: 'https://events.yandex.ru/lib/talks/6176/'
     lang: ru
     tags:
       - frontend
   - name: Мутационное тестирование
     speaker: Евгений Сорокин
-    link: 'https://events.yandex.ru/lib/talks/6175/'
+    url: 'https://events.yandex.ru/lib/talks/6175/'
     lang: ru
     tags:
       - frontend
   - name: A Dollar Config
     speaker: Азат Разетдинов
-    link: 'https://events.yandex.ru/lib/talks/6172/'
+    url: 'https://events.yandex.ru/lib/talks/6172/'
     lang: ru
     tags:
       - frontend
   - name: Создание модулей для API Яндекс.Карт на примере визуализации данных
     speaker: Руслан Хуснетдинов
-    link: 'https://events.yandex.ru/lib/talks/6178/'
+    url: 'https://events.yandex.ru/lib/talks/6178/'
     lang: ru
     tags:
       - frontend
   - name: 'Веб-компоненты: от Angular к React'
     speaker: Дмитрий Лямкин
-    link: 'https://events.yandex.ru/lib/talks/6179/'
+    url: 'https://events.yandex.ru/lib/talks/6179/'
     lang: ru
     tags:
       - frontend
   - name: 'Бэкенд слишком важен, чтобы доверять его бэкендерам'
     speaker: Назим Гафаров
-    link: 'https://events.yandex.ru/lib/talks/6173/'
+    url: 'https://events.yandex.ru/lib/talks/6173/'
     lang: ru
     tags:
       - frontend

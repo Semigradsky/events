@@ -4,43 +4,43 @@ link: 'https://events.yandex.ru/events/yasubbotnik/23-03-2019/'
 talks:
   - name: Технологии во фронтенде Яндекса
     speaker: '?'
-    link: 'https://events.yandex.ru/lib/talks/7108/'
+    url: 'https://events.yandex.ru/lib/talks/7108/'
     lang: ru
     tags:
       - frontend
   - name: ШРИ — что внутри?
     speaker: '?'
-    link: 'https://events.yandex.ru/lib/talks/7109/'
+    url: 'https://events.yandex.ru/lib/talks/7109/'
     lang: ru
     tags:
       - frontend
   - name: Гарантия качества
     speaker: '?'
-    link: 'https://events.yandex.ru/lib/talks/7112/'
+    url: 'https://events.yandex.ru/lib/talks/7112/'
     lang: ru
     tags:
       - frontend
   - name: Модульный фронтенд
     speaker: '?'
-    link: 'https://events.yandex.ru/lib/talks/7113/'
+    url: 'https://events.yandex.ru/lib/talks/7113/'
     lang: ru
     tags:
       - frontend
   - name: 'Как не писать код самому: делегируем наши проблемы AST'
     speaker: '?'
-    link: 'https://events.yandex.ru/lib/talks/7105/'
+    url: 'https://events.yandex.ru/lib/talks/7105/'
     lang: ru
     tags:
       - frontend
   - name: 'Вебпак: вид через монокль'
     speaker: '?'
-    link: 'https://events.yandex.ru/lib/talks/7106/'
+    url: 'https://events.yandex.ru/lib/talks/7106/'
     lang: ru
     tags:
       - frontend
   - name: Про React-хуки
     speaker: '?'
-    link: 'https://events.yandex.ru/lib/talks/7110/'
+    url: 'https://events.yandex.ru/lib/talks/7110/'
     lang: ru
     tags:
       - frontend

@@ -4,73 +4,73 @@ link: 'https://events.yandex.ru/events/yasubbotnik/almati-oct-2011/'
 talks:
   - name: 'Яндекс в Казахстане '
     speaker: Жанат Абылкасым
-    link: 'https://events.yandex.ru/lib/talks/196/'
+    url: 'https://events.yandex.ru/lib/talks/196/'
     lang: ru
     tags:
       - frontend
   - name: 'Качество поиска: экспертные оценки и исследование пользовательского поведения'
     speaker: Ольга Мегорская
-    link: 'https://events.yandex.ru/lib/talks/197/'
+    url: 'https://events.yandex.ru/lib/talks/197/'
     lang: ru
     tags:
       - frontend
   - name: Веб-виджеты Яндекса и с чем их едят
     speaker: Евгений Бордунов
-    link: 'https://events.yandex.ru/lib/talks/198/'
+    url: 'https://events.yandex.ru/lib/talks/198/'
     lang: ru
     tags:
       - frontend
   - name: Архитектура фронтенда Яндекс.Почты
     speaker: Алексей Андросов
-    link: 'https://events.yandex.ru/lib/talks/200/'
+    url: 'https://events.yandex.ru/lib/talks/200/'
     lang: ru
     tags:
       - frontend
   - name: Куда движется верстка и верстальщики Яндекса
     speaker: Олег Мохов
-    link: 'https://events.yandex.ru/lib/talks/201/'
+    url: 'https://events.yandex.ru/lib/talks/201/'
     lang: ru
     tags:
       - frontend
   - name: 'Touch it: новое мобильное направление веб-разработки'
     speaker: 'Сергей Горобцов, Кир Белевич'
-    link: 'https://events.yandex.ru/lib/talks/202/'
+    url: 'https://events.yandex.ru/lib/talks/202/'
     lang: ru
     tags:
       - frontend
   - name: 'От Ванкувера до Азиады: как мы делаем спортивные проекты'
     speaker: Иван Бибилов
-    link: 'https://events.yandex.ru/lib/talks/204/'
+    url: 'https://events.yandex.ru/lib/talks/204/'
     lang: ru
     tags:
       - frontend
   - name: Зачем и когда мы проводим нагрузочное тестирование
     speaker: Нурлан Нугуманов
-    link: 'https://events.yandex.ru/lib/talks/205/'
+    url: 'https://events.yandex.ru/lib/talks/205/'
     lang: ru
     tags:
       - frontend
   - name: 'Лунапарк: теория и практика'
     speaker: Ерлан Аманбаев
-    link: 'https://events.yandex.ru/lib/talks/206/'
+    url: 'https://events.yandex.ru/lib/talks/206/'
     lang: ru
     tags:
       - frontend
   - name: Основные проблемы и грабли в разработке видеохостингов
     speaker: Алексей Ефимов
-    link: 'https://events.yandex.ru/lib/talks/208/'
+    url: 'https://events.yandex.ru/lib/talks/208/'
     lang: ru
     tags:
       - frontend
   - name: Yandex MapKit для Android OS в примерах
     speaker: Максим Хромцов
-    link: 'https://events.yandex.ru/lib/talks/209/'
+    url: 'https://events.yandex.ru/lib/talks/209/'
     lang: ru
     tags:
       - frontend
   - name: Как мы делаем панорамы улиц
     speaker: Максим Хохлов
-    link: 'https://events.yandex.ru/lib/talks/210/'
+    url: 'https://events.yandex.ru/lib/talks/210/'
     lang: ru
     tags:
       - frontend

@@ -4,49 +4,49 @@ link: 'https://events.yandex.ru/events/yasubbotnik/27-feb-2016/'
 talks:
   - name: Зачем верстальщику Selenium
     speaker: Борис Сердюк
-    link: 'https://events.yandex.ru/lib/talks/3341/'
+    url: 'https://events.yandex.ru/lib/talks/3341/'
     lang: ru
     tags:
       - frontend
   - name: Автоматическое тестирование в Поиске
     speaker: Сергей Белов
-    link: 'https://events.yandex.ru/lib/talks/3342/'
+    url: 'https://events.yandex.ru/lib/talks/3342/'
     lang: ru
     tags:
       - frontend
   - name: '"Hello, World!"'
     speaker: Антон Корзунов
-    link: 'https://events.yandex.ru/lib/talks/3344/'
+    url: 'https://events.yandex.ru/lib/talks/3344/'
     lang: ru
     tags:
       - frontend
   - name: Секретный доклад API Яндекс.Карт
     speaker: Кирилл Дмитренко
-    link: 'https://events.yandex.ru/lib/talks/3345/'
+    url: 'https://events.yandex.ru/lib/talks/3345/'
     lang: ru
     tags:
       - frontend
   - name: 'FrontTalks: путь бобра'
     speaker: Олег Мохов
-    link: 'https://events.yandex.ru/lib/talks/3347/'
+    url: 'https://events.yandex.ru/lib/talks/3347/'
     lang: ru
     tags:
       - frontend
   - name: Не гзипом единым
     speaker: Георгий Мостоловица
-    link: 'https://events.yandex.ru/lib/talks/3351/'
+    url: 'https://events.yandex.ru/lib/talks/3351/'
     lang: ru
     tags:
       - frontend
   - name: Про шаблонизатор BEM-XJST
     speaker: Вячеслав Олиянчук
-    link: 'https://events.yandex.ru/lib/talks/3350/'
+    url: 'https://events.yandex.ru/lib/talks/3350/'
     lang: ru
     tags:
       - frontend
   - name: Новости из мира БЭМ
     speaker: Владимир Гриненко
-    link: 'https://events.yandex.ru/lib/talks/3352/'
+    url: 'https://events.yandex.ru/lib/talks/3352/'
     lang: ru
     tags:
       - frontend

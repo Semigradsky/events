@@ -4,37 +4,37 @@ link: 'https://events.yandex.ru/events/yasubbotnik/21-Apr-2018/'
 talks:
   - name: 'Привет, Алиса!'
     speaker: Владимир Гриненко
-    link: 'https://events.yandex.ru/lib/talks/5737/'
+    url: 'https://events.yandex.ru/lib/talks/5737/'
     lang: ru
     tags:
       - frontend
   - name: Анимация в браузере
     speaker: Антон Кастрицкий
-    link: 'https://events.yandex.ru/lib/talks/5738/'
+    url: 'https://events.yandex.ru/lib/talks/5738/'
     lang: ru
     tags:
       - frontend
   - name: Расчёт метрик скорости в Яндексе
     speaker: Прокопюк Андрей
-    link: 'https://events.yandex.ru/lib/talks/5740/'
+    url: 'https://events.yandex.ru/lib/talks/5740/'
     lang: ru
     tags:
       - frontend
   - name: Использование CSS Grid Layout в продакшене с поддержкой IE11
     speaker: Евгений Петухов
-    link: 'https://events.yandex.ru/lib/talks/5741/'
+    url: 'https://events.yandex.ru/lib/talks/5741/'
     lang: ru
     tags:
       - frontend
   - name: Вам (возможно) не нужен сервер
     speaker: Андрей Роенко
-    link: 'https://events.yandex.ru/lib/talks/5743/'
+    url: 'https://events.yandex.ru/lib/talks/5743/'
     lang: ru
     tags:
       - frontend
   - name: Защита сервиса при помощи CSP
     speaker: Всеволод Шмыров
-    link: 'https://events.yandex.ru/lib/talks/5744/'
+    url: 'https://events.yandex.ru/lib/talks/5744/'
     lang: ru
     tags:
       - frontend

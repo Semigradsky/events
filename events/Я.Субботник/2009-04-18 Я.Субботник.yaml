@@ -4,31 +4,31 @@ link: 'https://events.yandex.ru/events/yasubbotnik/msk-apr-2009/'
 talks:
   - name: Способы организации поиска по сайту
     speaker: Богдан Гаркушин
-    link: 'https://events.yandex.ru/lib/talks/716/'
+    url: 'https://events.yandex.ru/lib/talks/716/'
     lang: ru
     tags:
       - frontend
   - name: Проверка правописания в веб-приложениях
     speaker: 'Алексей Осипенко, Алексей Байтин'
-    link: 'https://events.yandex.ru/lib/talks/718/'
+    url: 'https://events.yandex.ru/lib/talks/718/'
     lang: ru
     tags:
       - frontend
   - name: Специализированный поиск по сайту
     speaker: Артём Ворожцов
-    link: 'https://events.yandex.ru/lib/talks/720/'
+    url: 'https://events.yandex.ru/lib/talks/720/'
     lang: ru
     tags:
       - frontend
   - name: 'Поиск фраз в документах РСЯ '
     speaker: Дмитрий Агафонов
-    link: 'https://events.yandex.ru/lib/talks/722/'
+    url: 'https://events.yandex.ru/lib/talks/722/'
     lang: ru
     tags:
       - frontend
   - name: Как устроен поиск по блогам
     speaker: 'Антон Волнухин, Роман Иванов'
-    link: 'https://events.yandex.ru/lib/talks/724/'
+    url: 'https://events.yandex.ru/lib/talks/724/'
     lang: ru
     tags:
       - frontend

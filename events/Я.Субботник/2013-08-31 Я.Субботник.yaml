@@ -4,73 +4,73 @@ link: 'https://events.yandex.ru/events/yasubbotnik/minsk-aug-2013/'
 talks:
   - name: Путь к Rich Content API. Контент «по-богатому»
     speaker: Александр Гусак
-    link: 'https://events.yandex.ru/lib/talks/1045/'
+    url: 'https://events.yandex.ru/lib/talks/1045/'
     lang: ru
     tags:
       - frontend
   - name: Острова. Фронтенд по кусочкам
     speaker: Ангелина Константинова
-    link: 'https://events.yandex.ru/lib/talks/1046/'
+    url: 'https://events.yandex.ru/lib/talks/1046/'
     lang: ru
     tags:
       - frontend
   - name: 'Cocaine — приватное облако, где все включено'
     speaker: Антон Тюрин
-    link: 'https://events.yandex.ru/lib/talks/1271/'
+    url: 'https://events.yandex.ru/lib/talks/1271/'
     lang: ru
     tags:
       - frontend
   - name: Свое веб-приложение в облаке – просто и удобно
     speaker: Владимир Гриненко
-    link: 'https://events.yandex.ru/lib/talks/1049/'
+    url: 'https://events.yandex.ru/lib/talks/1049/'
     lang: ru
     tags:
       - frontend
   - name: Сервис пуш-сообщений Яндекса
     speaker: Юрий Василевский
-    link: 'https://events.yandex.ru/lib/talks/1055/'
+    url: 'https://events.yandex.ru/lib/talks/1055/'
     lang: ru
     tags:
       - frontend
   - name: Синхронизация данных на клиенте
     speaker: Алексей Витенко
-    link: 'https://events.yandex.ru/lib/talks/1056/'
+    url: 'https://events.yandex.ru/lib/talks/1056/'
     lang: ru
     tags:
       - frontend
   - name: Качество кода автотестов
     speaker: Артем Кошелев
-    link: 'https://events.yandex.ru/lib/talks/1060/'
+    url: 'https://events.yandex.ru/lib/talks/1060/'
     lang: ru
     tags:
       - frontend
   - name: 'Матчеры: польза использования и легкость применения в ваших автотестах'
     speaker: Кирилл Меркушев
-    link: 'https://events.yandex.ru/lib/talks/1059/'
+    url: 'https://events.yandex.ru/lib/talks/1059/'
     lang: ru
     tags:
       - frontend
   - name: Хранение и индексирование большого объема данных
     speaker: Кирилл Смородинников
-    link: 'https://events.yandex.ru/lib/talks/1058/'
+    url: 'https://events.yandex.ru/lib/talks/1058/'
     lang: ru
     tags:
       - frontend
   - name: 'Факторы ранжирования: основы'
     speaker: Юрий Картынник
-    link: 'https://events.yandex.ru/lib/talks/1063/'
+    url: 'https://events.yandex.ru/lib/talks/1063/'
     lang: ru
     tags:
       - frontend
   - name: Как создаются Яндекс.Карты
     speaker: Алексей Лобанов
-    link: 'https://events.yandex.ru/lib/talks/1052/'
+    url: 'https://events.yandex.ru/lib/talks/1052/'
     lang: ru
     tags:
       - frontend
   - name: Как мы делали «короткий» прогноз пробок на Яндекс.Картах
     speaker: Роман Удовиченко
-    link: 'https://events.yandex.ru/lib/talks/1053/'
+    url: 'https://events.yandex.ru/lib/talks/1053/'
     lang: ru
     tags:
       - frontend
