@@ -43,7 +43,7 @@ async function writeAllSpeakers(groupedDataBySpeakers) {
         })
     }
 
-    const speakersByCount = speakers.filter(({ countTalks }) => countTalks > 1)
+    const speakersByCount = speakers.filter(({ countTalks, speaker }) => countTalks > 1 && speaker !== '?')
 
     speakers.sort((s1, s2) => s1.speaker.localeCompare(s2.speaker))
     speakersByCount.sort((s1, s2) => s2.countTalks - s1.countTalks)
@@ -60,10 +60,6 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
 
     for (const speaker of speakers) {
         const talksData = speakersData.filter(speakerData => speakerData.speaker === speaker).reduce((acc, speakerData) => {
-            if (!speakerData.talk.name) {
-                console.log(speakerData.talk)
-            }
-
             const talkName = formatTalkName(speakerData.talk.name)
 
             const foundTalkIndex = acc.findIndex(x => x.talk === talkName)

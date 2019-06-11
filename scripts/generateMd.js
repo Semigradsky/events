@@ -35,10 +35,22 @@ function getFirstDay(date) {
 }
 
 function formatTalk(talk) {
+    let speakers = []
+
+    for (const s of talk.speaker.split(',')) {
+        speakers = speakers.concat(s.trim().split(/\sи\s/))
+    }
+
+    speakers = speakers.map(speaker => ({
+        speaker,
+        speakerLink: 'speakers/' + speaker.replace(/ /g, '%20') + '.md',
+    }))
+
     return {
         ...talk,
         url: talk.video || talk.url,
         lang: talk.lang === 'ru' ? undefined : talk.lang,
+        speakers,
     }
 }
 

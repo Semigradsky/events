@@ -16,6 +16,7 @@ talks:
     tags:
       - frontend
   - name: "Когда <video> убьёт Flash?"
+    speaker: Николай Мациевский
     video: https://www.youtube.com/watch?v=RDZziTTT-U8
     presentation: https://wsd.events/2011/10/22/#nikolay-matsievsky
     lang: ru

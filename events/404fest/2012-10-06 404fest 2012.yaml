@@ -26,7 +26,7 @@ talks:
     tags:
       - frontend
   - name: Адаптивный веб-дизайн — как сделать интернет лучше
-    speaker:
+    speaker: '?'
     video:
     presentation:
     lang: ru

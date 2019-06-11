@@ -10,7 +10,7 @@ talks:
     tags:
       - frontend
   - name: Да что такого в этом Vue.js?
-    speaker:
+    speaker: '?'
     video: https://youtu.be/_UUDoSbbuT0
     presentation: https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9
     lang: ru

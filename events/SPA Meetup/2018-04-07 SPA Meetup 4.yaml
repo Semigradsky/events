@@ -25,7 +25,7 @@ talks:
     tags:
       - frontend
   - name: "Дискуссионная панель \"SPA сегодня — каким оно должно быть?\""
-    speaker: ''
+    speaker: '?'
     video: https://youtu.be/BezEWFL5WKk
     lang: ru
     tags:
