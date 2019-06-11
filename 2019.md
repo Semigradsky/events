@@ -35,16 +35,6 @@
 | [Продвижение опенсорс-проектов](https://youtu.be/DU0LiH61PnQ?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)  | Андрей Ситник | [:notebook:](https://slides.com/ai/promote#/)   |
 | [Вебпак, вид сквозь монокль](https://youtu.be/qcj2bX4sB9E?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)  | Антон Кастрицкий |    |
 | [В поисках Стилевого Грааля](https://youtu.be/b7vBKp8D0vs?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)  | Артур Кенжаев | [:notebook:](http://tver.io/meetup/2019/05-open-source/kenzhaev/assets/player/KeynoteDHTMLPlayer.html)   |
-## Я.Субботник по разработке интерфейсов - Apr 27 
-| | | |
-| --- | :---: | --- |
-| ШРИ — что внутри?  | Дмитрий Андриянов |    |
-| Общие компоненты силами разных команд  | Владимир Гриненко |    |
-| Стилизация и Dependency Injection  | Артур Кенжаев |    |
-| Автоматический рефакторинг кода с помощью codemodes  | Александр Мышов |    |
-| Жизнь до Runtime  | Никита Сидоров |    |
-| Приключения в отдельном потоке  | Павел Смирнов |    |
-| Полный цикл тестирования React-приложений  | Наталья Стусь, Алексей Андросов |    |
 ## PiterJS Tour 1 - Apr 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y)
 | | | |
 | --- | :---: | --- |
@@ -123,16 +113,6 @@
 | [Давайте не будем ждать?](https://www.youtube.com/watch?v=ijZTu7aVJtg)  | Алексей Попков |    |
 | [Тестирование фронтенда для разработчиков​](https://www.youtube.com/watch?v=ijZTu7aVJtg)  | Александра Шинкевич |    |
 | [MacOS Driven Development](https://www.youtube.com/watch?v=ijZTu7aVJtg)  | Никита Дубко |    |
-## Я.Субботник по разработке интерфейсов - Mar 23 
-| | | |
-| --- | :---: | --- |
-| Технологии во фронтенде Яндекса  | ? |    |
-| ШРИ — что внутри?  | ? |    |
-| Гарантия качества  | ? |    |
-| Модульный фронтенд  | ? |    |
-| Как не писать код самому: делегируем наши проблемы AST  | ? |    |
-| Вебпак: вид через монокль  | ? |    |
-| Про React-хуки  | ? |    |
 ## WebDev Meetup 9 - Mar 23 
 | | | |
 | --- | :---: | --- |
