@@ -1,0 +1,41 @@
+name: 404fest 2012
+date:
+  - 2012-10-06
+  - 2012-10-07
+videos: ''
+talks:
+  - name: Тестируем всей командой или кто такой Software Engineer in Test
+    speaker: Сева Лотошников
+    video: https://youtu.be/FCzkk74Lp5Y
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Вся соль одностраничных приложений
+    speaker: Арсений Заречнев
+    video: https://youtu.be/Ag08WvgvjnU
+    presentation: https://www.slideshare.net/evindor/ss-14781328
+    lang: ru
+    tags:
+      - frontend
+  - name: Анимация по-новому — лень, гордыня и нетерпимость
+    speaker: Андрей Ситник
+    video: https://youtu.be/K0-45ltxyM0
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Адаптивный веб-дизайн — как сделать интернет лучше
+    speaker:
+    video:
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: Технолог — тоже дизайнер, 2 часть
+    speaker: Артём Поликарпов
+    video: https://youtu.be/h4QuJ0xBGfc
+    presentation:
+    lang: ru
+    tags:
+      - frontend

@@ -1,0 +1,18 @@
+name: 404fest 2011
+date: 2011-10-01
+videos: ''
+talks:
+  - name: Избранные истории фронтендеров Островка
+    speaker: Марат Дятко
+    video: https://vimeo.com/32967293
+    presentation:
+    lang: ru
+    tags:
+      - frontend
+  - name: HTML5 – и миф, и реальность. Глобальное изменение в индустрии.
+    speaker: Михаил Черномордиков
+    video: https://vimeo.com/31815706
+    presentation:
+    lang: ru
+    tags:
+      - frontend

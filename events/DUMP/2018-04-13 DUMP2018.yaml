@@ -2,7 +2,7 @@ name: DUMP2018
 date: 2018-04-13
 videos: 'https://www.youtube.com/playlist?list=PLRdS-n5seLRoyY8tjEUDzvxr19JtTLFUf'
 talks:
-  - name: Rock&Scroll
+  - name: Rock’n’scroll
     speaker: Анна Селезнёва
     video: https://www.youtube.com/watch?v=MPDSBWAg0Do
     lang: ru

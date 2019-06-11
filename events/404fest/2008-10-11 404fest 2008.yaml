@@ -1,0 +1,11 @@
+name: 404fest 2008
+date: 2008-10-11
+videos: ''
+talks:
+  - name: "Микроформаты, применение: теория и практика"
+    speaker: Александр Фитискин
+    video:
+    presentation: http://2008.404fest.ru/files/afitiskin.pdf
+    lang: ru
+    tags:
+      - frontend
