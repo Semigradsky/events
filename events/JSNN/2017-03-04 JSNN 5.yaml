@@ -45,7 +45,7 @@ talks:
     tags:
       - frontend
   - name: Transpiler-free Python for your browser
-    speaker: Артем Малышев
+    speaker: Артём Малышев
     video: https://www.youtube.com/watch?v=UBpxnh6pht0
     presentation: http://proofit404.github.io/talks/transpiler-free-python-for-your-browser/#/
     lang: ru

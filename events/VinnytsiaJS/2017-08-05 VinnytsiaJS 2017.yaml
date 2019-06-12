@@ -21,7 +21,7 @@ talks:
     tags:
       - frontend
   - name: Docker for Node.js Developer
-    speaker: Nikita Galkin
+    speaker: Никита Галкин
     video: 'https://www.youtube.com/watch?v=Es0uBQOiEw4'
     lang: ru
     tags:
@@ -39,7 +39,7 @@ talks:
     tags:
       - frontend
   - name: Custom CLI tools in the project.
-    speaker: Denis Kuzin
+    speaker: Денис Кузин
     video: 'https://www.youtube.com/watch?v=K1HEd0uUEXo'
     lang: ru
     tags:

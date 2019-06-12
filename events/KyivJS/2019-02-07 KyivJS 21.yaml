@@ -11,14 +11,14 @@ talks:
       - frontend
       - 'Vue.js'
   - name: Yet another JSON RPC library?
-    speaker: Viktor Turskyi
+    speaker: Виктор Турский
     video: https://www.youtube.com/watch?v=84Y5n32tX5E
     presentation: https://docs.google.com/presentation/d/1bvlsG5nBEVwMGm7rBh4zmfrGDLUIjpv_t4rxFS2_uMw/edit
     lang: ru
     tags:
       - frontend
   - name: Building quick apps in 2019
-    speaker: Ivan Akulov
+    speaker: Иван Акулов
     video: https://www.youtube.com/watch?v=kNpBcA5GrcU
     presentation: https://docs.google.com/presentation/d/1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U/edit
     lang: ru

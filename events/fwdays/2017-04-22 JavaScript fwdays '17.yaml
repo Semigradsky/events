@@ -26,7 +26,7 @@ talks:
     lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/trojan-war-sinon-js'
   - name: Compile like it's 2017
-    speaker: 'Артем Яворский '
+    speaker: 'Артём Яворский '
     lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/compile-like-its-2017'
   - name: Password Hashing
@@ -54,7 +54,7 @@ talks:
     lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/introduction-in-reactive-programming'
   - name: Improve your web application using Progressive Web Metrics
-    speaker: Артем Денисов
+    speaker: Артём Денисов
     lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2017/review/improve-your-web-app-using-progressive-web-metrics'
   - name: CSS 5DX

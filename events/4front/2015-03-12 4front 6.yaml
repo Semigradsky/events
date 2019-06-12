@@ -24,7 +24,7 @@ talks:
     tags:
       - frontend
   - name: Борьба с асинхронностью в JavaScript
-    speaker: Дашукевич Владимир
+    speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=M1N6WlJEEMs
     presentation: http://life777.github.io/promises/index.html?full#face
     lang: ru

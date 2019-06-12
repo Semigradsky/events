@@ -16,13 +16,13 @@ talks:
     tags:
       - frontend
   - name: 'Быстрее, выше, сильнее в современной архитектуре'
-    speaker: Копылов Егор
+    speaker: Егор Копылов
     video: 'https://www.youtube.com/watch?v=O4XESfDh35M&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=2'
     lang: ru
     tags:
       - frontend
   - name: Введение в GraphQL и Relay
-    speaker: Слинько Вячеслав
+    speaker: Вячеслав Слинько
     video: 'https://www.youtube.com/watch?v=3Sl1Nf81dXY&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=1'
     lang: ru
     tags:

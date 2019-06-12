@@ -57,7 +57,7 @@ talks:
     tags:
       - frontend
   - name: 'Тестирование фронтенда с HtmlElements: разработка быстрее, поддержка – проще'
-    speaker: Артем Кошелев
+    speaker: Артём Кошелев
     url: 'https://events.yandex.ru/lib/talks/696/'
     lang: ru
     tags:

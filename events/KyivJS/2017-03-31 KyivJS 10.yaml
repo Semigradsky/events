@@ -2,7 +2,7 @@ name: KyivJS 10
 date: 2017-03-31
 talks:
   - name: A Word on Regular Expressions
-    speaker: Aleksey Shvayka
+    speaker: Алексей Швайка
     presentation: https://goo.gl/MXd52q
     lang: en
     tags:

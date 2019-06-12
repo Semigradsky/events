@@ -10,21 +10,21 @@ talks:
     tags:
       - frontend
   - name: "Понижаем порог вхождения в performance ч.1"
-    speaker: Смолянинов Александр
+    speaker: Александр Смолянинов
     video: https://www.youtube.com/watch?v=nq4FVxvoO70&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=3
     presentation:
     lang: ru
     tags:
       - frontend
   - name: "Понижаем порог вхождения в performance ч.2"
-    speaker: Смолянинов Александр
+    speaker: Александр Смолянинов
     video: https://www.youtube.com/watch?v=8F3IOX7N1ec&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=4
     presentation:
     lang: ru
     tags:
       - frontend
   - name: "CSS vs Preprocessors — назад в будущее!"
-    speaker: Серёжа Попов
+    speaker: Сергей Попов
     video: https://www.youtube.com/watch?v=jNoQGfys7Xc&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=5
     presentation:
     lang: ru

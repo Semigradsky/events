@@ -10,7 +10,7 @@ talks:
     tags:
       - frontend
   - name: HTML формы как таковые
-    speaker: Артем Пендюрин
+    speaker: Артём Пендюрин
     video: 'https://www.youtube.com/watch?v=TO5kl_GBQ20'
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/24/pendurin.pdf
     lang: ru

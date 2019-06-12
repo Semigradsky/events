@@ -30,7 +30,7 @@ talks:
     tags:
       - frontend
   - name: New Babel Plugin - Transform CSSTag
-    speaker: Kyrylo Yakovenko
+    speaker: Кирилл Яковенко
     video: https://www.youtube.com/watch?v=hd_hoMZ2wn0
     presentation: https://blia.github.io/kyivjs-jun-8-2017/
     lang: ru

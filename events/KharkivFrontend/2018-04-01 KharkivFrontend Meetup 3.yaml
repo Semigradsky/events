@@ -4,7 +4,7 @@ videos: 'https://www.youtube.com/playlist?list=PLDddScyTGZAs2UcWBLPodHk5UWtMVDuP
 link: 'https://kharkivfrontend.org/meetup-3.html'
 talks:
   - name: Расставим сети. CSS Grid Layout module.
-    speaker: Стрельников Алексей
+    speaker: Алексей Стрельников
     video: https://www.youtube.com/watch?v=TPz5MSS0Gy4
     lang: ru
     tags:

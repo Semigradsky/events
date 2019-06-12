@@ -3,7 +3,7 @@ date: 2017-02-09
 videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxivzOLgC98hYjyCYDFghxzU'
 talks:
   - name: 'Один код для сборки под web, iOS и Android'
-    speaker: Артем Марченко
+    speaker: Артём Марченко
     video: 'https://www.youtube.com/watch?v=i6AhrTVQbkc'
     lang: ru
     tags:

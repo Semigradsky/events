@@ -2,7 +2,7 @@ name: "WSD 2015 - Киев"
 date: 2015-11-28
 talks:
   - name: "CSS is still awesome"
-    speaker: Юра Ткаченко
+    speaker: Юрий Ткаченко
     presentation: https://wsd.events/2015/11/28/pres/css-awesome/
     lang: ru
     tags:

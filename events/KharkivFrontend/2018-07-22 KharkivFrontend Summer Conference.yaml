@@ -16,21 +16,21 @@ talks:
     tags:
       - frontend
   - name: Может пора отказаться от тестов?
-    speaker: Калинина Александра
+    speaker: Александра Калинина
     video: https://www.youtube.com/watch?v=_nSUQXGW-hk
     lang: ru
     tags:
       - frontend
       - 'testing'
   - name: Event loop. Что это и с чем его едят
-    speaker: Торосян Артур
+    speaker: Артур Торосян
     video: https://www.youtube.com/watch?v=G2Y9sdoZebQ
     lang: ru
     tags:
       - frontend
       - 'Node.js'
   - name: Потоки данных в node.js
-    speaker: Киктёв Виталий
+    speaker: Виталий Киктёв
     video: https://www.youtube.com/watch?v=UYZUE1vQ0js
     lang: ru
     tags:

@@ -9,7 +9,7 @@ talks:
     speaker: Никита Галкин
     lang: ru
   - name: '"@babel/core": "7.x"'
-    speaker: Артем Яворский
+    speaker: Артём Яворский
     lang: ru
     url: 'https://frameworksdays.com/event/frontend-fwdays-17/review/babel-core-7x'
   - name: Неуниверсальный дизайн

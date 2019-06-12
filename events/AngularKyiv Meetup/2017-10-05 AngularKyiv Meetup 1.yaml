@@ -4,7 +4,7 @@ link: https://www.meetup.com/ru-RU/Angular-Kyiv/events/243745194/
 videos: https://www.youtube.com/watch?v=0XXFLMfHKkY
 talks:
   - name: "Renderer2 or How to survive without jQuery"
-    speaker: Kysenko Roman
+    speaker: Роман Кисенко
     video: https://www.youtube.com/watch?v=0XXFLMfHKkY
     presentation: ''
     lang: ru
@@ -12,7 +12,7 @@ talks:
       - frontend
       - Angular
   - name: "UniversalNo"
-    speaker: Sergey Frolov
+    speaker: Сергей Фролов
     video: https://www.youtube.com/watch?v=0XXFLMfHKkY
     presentation: ''
     lang: ru

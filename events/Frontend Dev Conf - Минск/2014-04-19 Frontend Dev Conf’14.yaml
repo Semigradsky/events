@@ -115,7 +115,7 @@ talks:
     tags:
       - frontend
   - name: ember.js - инструмент нового поколения
-    speaker: Артем Сущев
+    speaker: Артём Сущев
     video: https://www.youtube.com/watch?v=Qx8dbHcur-c
     presentation:
     lang: ru

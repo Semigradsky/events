@@ -23,7 +23,7 @@ talks:
     tags:
       - frontend
   - name: Async Await
-    speaker: Alexey Raspopov
+    speaker: Алексей Распопов
     video: https://www.youtube.com/watch?v=nL6DaBJd9Qk
     presentation: http://alexeyraspopov.github.io/async-await/
     lang: en
@@ -38,7 +38,7 @@ talks:
       - frontend
       - 'ClojureScript'
   - name: "Let's play Tank.ly"
-    speaker: Andrii Shumada
+    speaker: Андрей Шумада
     video: https://www.youtube.com/watch?v=y8EDS_EzAXk
     presentation: https://docs.google.com/presentation/d/1MGe9fHox6rVpXVl934cGtKb5eJeAayVvcWDuhdu-l50/edit
     lang: en

@@ -13,7 +13,7 @@ talks:
       - frontend
       - 'Angular'
   - name: "Snapshot testing. Just do it"
-    speaker: Denis Kuzin
+    speaker: Денис Кузин
     lang: ru
     tags:
       - frontend

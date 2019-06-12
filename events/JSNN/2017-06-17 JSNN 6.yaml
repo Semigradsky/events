@@ -17,7 +17,7 @@ talks:
       - 'testing'
       - 'Node.js'
   - name: Ни RESТа себе! GraphQL is Coming
-    speaker: Артем Малышев
+    speaker: Артём Малышев
     presentation: http://proofit404.github.io/talks/graphql-relay
     lang: ru
     tags:

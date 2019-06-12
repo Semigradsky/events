@@ -42,7 +42,7 @@ talks:
     lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/shrink-an-elephant-into-a-fly'
   - name: 'JS on Server: To be or not to be?'
-    speaker: Illya Klymov
+    speaker: Илья Климов
     lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/js-on-server-to-be-or-not-to-be'
   - name: Web Performance in modern JavaScript world
@@ -54,7 +54,7 @@ talks:
     lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space'
   - name: Looking for the right tech stack for GraphQL application
-    speaker: Nikita Galkin
+    speaker: Никита Галкин
     lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql'
   - name: The Almighty Rabbit Hole

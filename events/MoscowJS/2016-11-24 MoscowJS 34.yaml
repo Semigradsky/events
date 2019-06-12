@@ -23,7 +23,7 @@ talks:
     tags:
       - frontend
   - name: Reliable DOM testing with browser-monkey
-    speaker: Артем Аветисян
+    speaker: Артём Аветисян
     video: 'https://youtu.be/oIZcPlXgIOI'
     presentation: 'http://www.slideshare.net/moscowjs/reliable-dom-testing-with-browsermonkey'
     lang: ru

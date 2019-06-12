@@ -17,7 +17,7 @@ talks:
     tags:
       - frontend
   - name: PWA. Service-Worker. Application
-    speaker: Sergey Frolov
+    speaker: Сергей Фролов
     video: https://www.youtube.com/watch?v=i2OOIyzEqvE
     presentation: https://drive.google.com/file/d/0B4xFRFS363tpMGJ4OUIxam1zWEk/view
     lang: ru
@@ -31,7 +31,7 @@ talks:
     tags:
       - frontend
   - name: Modern Regexp
-    speaker: Aleksey Shvayka
+    speaker: Алексей Швайка
     video: https://www.youtube.com/watch?v=5yq8quaYMak
     presentation: https://drive.google.com/file/d/0B4xFRFS363tpY1Bkcno0YkpDbU0/view
     lang: ru

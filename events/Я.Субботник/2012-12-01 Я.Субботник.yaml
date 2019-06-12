@@ -57,7 +57,7 @@ talks:
     tags:
       - frontend
   - name: Чего не хватает в PageObject?
-    speaker: Артем Кошелев
+    speaker: Артём Кошелев
     url: 'https://events.yandex.ru/lib/talks/480/'
     lang: ru
     tags:
