@@ -19,7 +19,7 @@
 | --- | :---: | --- |
 | [Православный Workflow, или как я блуждал во тьме язычества](https://www.youtube.com/watch?v=bxJLprk9G6I)  |  [Сергей Куницкий](speakers&#x2F;Сергей%20Куницкий.md)  |    |
 | [Поговорим о сложностях разработки в уходящем году](https://www.youtube.com/watch?v=snuwruoHEPg)  |  [Егор Малькевич](speakers&#x2F;Егор%20Малькевич.md)  |    |
-| [QWERTY vs “Dvorak” or “WTF with your keyboard, Dude?”](https://www.youtube.com/watch?v=pwlkntAe-A8)  |  [Артем Николаев](speakers&#x2F;Артем%20Николаев.md)  |    |
+| [QWERTY vs “Dvorak” or “WTF with your keyboard, Dude?”](https://www.youtube.com/watch?v=pwlkntAe-A8)  |  [Артём Николаев](speakers&#x2F;Артём%20Николаев.md)  |    |
 | [Компонентный подход в построении WEB-приложений](https://www.youtube.com/watch?v=sH04-Ypak_s)  |  [Владимир Дашукевич](speakers&#x2F;Владимир%20Дашукевич.md)  |    |
 ## 4front 12 - 2016 May 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLnZ0ef3Uu2puMmwkaRVFQupvKQs77USz0)
 | | | |
@@ -54,7 +54,7 @@
 | [Docker в хозяйстве и быту](https://www.youtube.com/watch?v=-67yNnx4bck)  |  [Паша Клименков](speakers&#x2F;Паша%20Клименков.md)  | [:notebook:](https://www.slideshare.net/slideshow/embed_code/45892689)   |
 | [Yeoman Generator своими руками](https://www.youtube.com/watch?v=_5NxZLOXTWI)  |  [Борис Мосунов](speakers&#x2F;Борис%20Мосунов.md)  | [:notebook:](https://www.slideshare.net/chaykaborya/yeoman-generator)   |
 | [Параллельность в JavaScript](https://www.youtube.com/watch?v=zqpfmHCiLaQ)  |  [Алексей Саскевич](speakers&#x2F;Алексей%20Саскевич.md)  | [:notebook:](https://slides.com/asaskevich/deck#/)   |
-| [Борьба с асинхронностью в JavaScript](https://www.youtube.com/watch?v=M1N6WlJEEMs)  |  [Дашукевич Владимир](speakers&#x2F;Дашукевич%20Владимир.md)  | [:notebook:](http://life777.github.io/promises/index.html?full#face)   |
+| [Борьба с асинхронностью в JavaScript](https://www.youtube.com/watch?v=M1N6WlJEEMs)  |  [Владимир Дашукевич](speakers&#x2F;Владимир%20Дашукевич.md)  | [:notebook:](http://life777.github.io/promises/index.html?full#face)   |
 ## 4front 5 Новогодний - 2014 Dec 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLnZ0ef3Uu2pvCdpQPfNBpuGw4PKN2N_Wf)
 | | | |
 | --- | :---: | --- |
@@ -65,10 +65,10 @@
 ## 4front 4 - 2014 Nov 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLnZ0ef3Uu2pv9ApU-R6Kt1Y1gK8nBht21)
 | | | |
 | --- | :---: | --- |
-| [Презентация в браузере за 10 минут - миф или реальность](https://youtu.be/Tje4GQcKlX4)  |  [Козяков Андрей](speakers&#x2F;Козяков%20Андрей.md)  |    |
-| [Управляемая анимация](https://youtu.be/abQ7mo1VHko)  |  [Басюк Илья](speakers&#x2F;Басюк%20Илья.md)  |    |
-| [Постоянная сборка фронтенда — автоматизация конвейера](https://youtu.be/2-8oXbkoErg)  |  [Сергеев Сергей](speakers&#x2F;Сергеев%20Сергей.md)  |    |
-| [Ускоряем загрузку Web-приложения на 40% за 5 минут](https://youtu.be/iZI-Pt6ntu0)  |  [Дашукевич Владимир](speakers&#x2F;Дашукевич%20Владимир.md)  |    |
+| [Презентация в браузере за 10 минут - миф или реальность](https://youtu.be/Tje4GQcKlX4)  |  [Андрей Козяков](speakers&#x2F;Андрей%20Козяков.md)  |    |
+| [Управляемая анимация](https://youtu.be/abQ7mo1VHko)  |  [Илья Басюк](speakers&#x2F;Илья%20Басюк.md)  |    |
+| [Постоянная сборка фронтенда — автоматизация конвейера](https://youtu.be/2-8oXbkoErg)  |  [Сергей Сергеев](speakers&#x2F;Сергей%20Сергеев.md)  |    |
+| [Ускоряем загрузку Web-приложения на 40% за 5 минут](https://youtu.be/iZI-Pt6ntu0)  |  [Владимир Дашукевич](speakers&#x2F;Владимир%20Дашукевич.md)  |    |
 ## 4front 3 - 2014 Sep 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLnZ0ef3Uu2pt8LWsBTQv9HLn1pYvwz-o0)
 | | | |
 | --- | :---: | --- |

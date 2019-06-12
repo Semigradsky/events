@@ -65,7 +65,7 @@
 | | | |
 | --- | :---: | --- |
 | [Собираем свой Google Static Maps](https://www.youtube.com/watch?v=kDFEsjaRScM)  |  [Михаил Баранов](speakers&#x2F;Михаил%20Баранов.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/24/baranov.pdf)   |
-| [HTML формы как таковые](https://www.youtube.com/watch?v=TO5kl_GBQ20)  |  [Артем Пендюрин](speakers&#x2F;Артем%20Пендюрин.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/24/pendurin.pdf)   |
+| [HTML формы как таковые](https://www.youtube.com/watch?v=TO5kl_GBQ20)  |  [Артём Пендюрин](speakers&#x2F;Артём%20Пендюрин.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/24/pendurin.pdf)   |
 | [Трансдьюсеры в JS](https://www.youtube.com/watch?v=CzY1fBeT0kY)  |  [Игорь Коновалов](speakers&#x2F;Игорь%20Коновалов.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/24/konovalov.html)   |
 ## PiterJS 23 (IT Global Meetup 12) - 2018 Mar 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLcXJ90eZ2bxhRxoM3NmiGXfEqgfmN0hWq)
 | | | |
@@ -139,7 +139,7 @@
 ## PiterJS 12 - 2017 Feb 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLcXJ90eZ2bxivzOLgC98hYjyCYDFghxzU)
 | | | |
 | --- | :---: | --- |
-| [Один код для сборки под web, iOS и Android](https://www.youtube.com/watch?v=i6AhrTVQbkc)  |  [Артем Марченко](speakers&#x2F;Артем%20Марченко.md)  |    |
+| [Один код для сборки под web, iOS и Android](https://www.youtube.com/watch?v=i6AhrTVQbkc)  |  [Артём Марченко](speakers&#x2F;Артём%20Марченко.md)  |    |
 | [В релиз с React Native](https://www.youtube.com/watch?v=gJo75CDCGNk)  |  [Андрей Складчиков](speakers&#x2F;Андрей%20Складчиков.md)  |    |
 ## PiterJS 11 - 2016 Dec 03 
 | | | |

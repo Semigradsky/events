@@ -5,7 +5,7 @@
 | --- | :---: | --- |
 | [Закэшируй это!](https://www.youtube.com/watch?v=FeAasDP9SUc)  |  [Всеволод Шмыров](speakers&#x2F;Всеволод%20Шмыров.md)  |    |
 | [I18N – вы делаете это неправильно!.. наверно...](https://www.youtube.com/watch?v=9xMmRmXKwUk)  |  [Алексей Охрименко](speakers&#x2F;Алексей%20Охрименко.md)  |    |
-| [Grid Layout как основа современной раскладки Web-страницы](https://www.youtube.com/watch?v=zmFW-OJbQ_0)  |  [Серёжа Попов](speakers&#x2F;Серёжа%20Попов.md)  |    |
+| [Grid Layout как основа современной раскладки Web-страницы](https://www.youtube.com/watch?v=zmFW-OJbQ_0)  |  [Сергей Попов](speakers&#x2F;Сергей%20Попов.md)  |    |
 | [Погружение в WebAssembly - внутреннее устройство и практическое применение](https://www.youtube.com/watch?v=b5Ru7StlXpY)  |  [Сергей Пугачёв](speakers&#x2F;Сергей%20Пугачёв.md)  |    |
 | [«Реактивный» интерфейс](https://www.youtube.com/watch?v=z5sfHHr-EiY)  |  [Артём Белов](speakers&#x2F;Артём%20Белов.md)  |    |
 | [Прогрессивные веб-приложения: по-настоящему кросс-платформенный опыт](https://www.youtube.com/watch?v=XxViZVp4g3c)  |  [Максим Сальников](speakers&#x2F;Максим%20Сальников.md)  |    |

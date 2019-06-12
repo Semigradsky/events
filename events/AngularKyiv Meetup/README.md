@@ -30,9 +30,9 @@
 | --- | :---: | --- |
 | [Web workers in Angular applications](https://www.youtube.com/watch?v=01_UlUgN-uw)  |  [Serhii Melashych](speakers&#x2F;Serhii%20Melashych.md)  | [:notebook:](https://goo.gl/WjVQRE)   |
 | [UI Components for Angular](https://www.youtube.com/watch?v=PHka1UG68LE)  |  [Sebastien Vasylets](speakers&#x2F;Sebastien%20Vasylets.md)  | [:notebook:](https://goo.gl/aHPyxC)   |
-| [Have you ever thought, how Material works?](https://www.youtube.com/watch?v=OYRulyOAito)  |  [Kysenko Roman](speakers&#x2F;Kysenko%20Roman.md)  | [:notebook:](https://goo.gl/oxXa7q)   |
+| [Have you ever thought, how Material works?](https://www.youtube.com/watch?v=OYRulyOAito)  |  [Роман Кисенко](speakers&#x2F;Роман%20Кисенко.md)  | [:notebook:](https://goo.gl/oxXa7q)   |
 ## AngularKyiv Meetup 1 - 2017 Oct 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;0XXFLMfHKkY)
 | | | |
 | --- | :---: | --- |
-| [Renderer2 or How to survive without jQuery](https://www.youtube.com/watch?v=0XXFLMfHKkY)  |  [Kysenko Roman](speakers&#x2F;Kysenko%20Roman.md)  |    |
-| [UniversalNo](https://www.youtube.com/watch?v=0XXFLMfHKkY)  |  [Sergey Frolov](speakers&#x2F;Sergey%20Frolov.md)  |    |
+| [Renderer2 or How to survive without jQuery](https://www.youtube.com/watch?v=0XXFLMfHKkY)  |  [Роман Кисенко](speakers&#x2F;Роман%20Кисенко.md)  |    |
+| [UniversalNo](https://www.youtube.com/watch?v=0XXFLMfHKkY)  |  [Сергей Фролов](speakers&#x2F;Сергей%20Фролов.md)  |    |

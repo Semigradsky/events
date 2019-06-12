@@ -4,9 +4,9 @@
 | | | |
 | --- | :---: | --- |
 | [Как анимировать что угодно](https://www.youtube.com/watch?v=Jhx_29mVDO4&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=3&t=1s)  |  [Юрий Артюх](speakers&#x2F;Юрий%20Артюх.md)  |    |
-| [Понижаем порог вхождения в performance ч.1](https://www.youtube.com/watch?v=nq4FVxvoO70&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=3)  |  [Смолянинов Александр](speakers&#x2F;Смолянинов%20Александр.md)  |    |
-| [Понижаем порог вхождения в performance ч.2](https://www.youtube.com/watch?v=8F3IOX7N1ec&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=4)  |  [Смолянинов Александр](speakers&#x2F;Смолянинов%20Александр.md)  |    |
-| [CSS vs Preprocessors — назад в будущее!](https://www.youtube.com/watch?v=jNoQGfys7Xc&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=5)  |  [Серёжа Попов](speakers&#x2F;Серёжа%20Попов.md)  |    |
+| [Понижаем порог вхождения в performance ч.1](https://www.youtube.com/watch?v=nq4FVxvoO70&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=3)  |  [Александр Смолянинов](speakers&#x2F;Александр%20Смолянинов.md)  |    |
+| [Понижаем порог вхождения в performance ч.2](https://www.youtube.com/watch?v=8F3IOX7N1ec&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=4)  |  [Александр Смолянинов](speakers&#x2F;Александр%20Смолянинов.md)  |    |
+| [CSS vs Preprocessors — назад в будущее!](https://www.youtube.com/watch?v=jNoQGfys7Xc&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=5)  |  [Сергей Попов](speakers&#x2F;Сергей%20Попов.md)  |    |
 | [Email Templates](https://www.youtube.com/watch?v=QhUIZCJE-Tk&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=6)  |  [Мещеряков Денис](speakers&#x2F;Мещеряков%20Денис.md)  |    |
 | [Анимации для души и пользы](https://www.youtube.com/watch?v=QgLgzRyd7KE&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=7)  |  [Ксения Буркун](speakers&#x2F;Ксения%20Буркун.md)  |    |
 | [Использование GSAP в реальных проектах.](https://www.youtube.com/watch?v=_63sz4aHrFo&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=8)  |  [Бойко Андрей](speakers&#x2F;Бойко%20Андрей.md)  |    |
@@ -24,7 +24,7 @@
 | [Построение сложных анимационных интерфейсов](https://www.youtube.com/watch?v=GSZUNeE2rkw)  |  [Андрей Бойко](speakers&#x2F;Андрей%20Бойко.md)  | [:notebook:](http://kharkivcss.glivera.com/#/)   |
 | [Bootstrap 4 уже скоро! Что там?](https://www.youtube.com/watch?v=sYwWmAF7ciQ)  |  [Игорь Зенич](speakers&#x2F;Игорь%20Зенич.md)  |    |
 | [CSS Grid Layout. Быстрый старт](https://www.youtube.com/watch?v=VEFwmIwbAzA)  |  [Виталий Рыбка](speakers&#x2F;Виталий%20Рыбка.md)  | [:notebook:](http://var-bin.com/KharkivCSS2017/shower/)   |
-| [Будущее за SVG](https://www.youtube.com/watch?v=sDGZHEQ12QY)  |  [Телышев Аркадий](speakers&#x2F;Телышев%20Аркадий.md)  |    |
+| [Будущее за SVG](https://www.youtube.com/watch?v=sDGZHEQ12QY)  |  [Аркадий Телышев](speakers&#x2F;Аркадий%20Телышев.md)  |    |
 | [CSS-переменные](https://www.youtube.com/watch?v=D2o-k0eEDHs)  |  [Елена Жукова](speakers&#x2F;Елена%20Жукова.md)  | [:notebook:](https://github.com/webcamp-ua/kharkiv-css/blob/master/CSS%20Variables.pdf) [:octocat:](https://github.com/webcamp-ua/kharkiv-css)  |
 | [Velosipedium structuris](https://www.youtube.com/watch?v=6gNg8pTwBFQ)  |  [Олександр Шпак](speakers&#x2F;Олександр%20Шпак.md)  |    |
 | [Функциональные анимации в вебе](https://www.youtube.com/watch?v=mw_UVQAEW7w)  |  [Денис Яровой](speakers&#x2F;Денис%20Яровой.md)  |    |

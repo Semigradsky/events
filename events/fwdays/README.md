@@ -13,10 +13,10 @@
 | [One simple animation explained](https://fwdays.com/en/event/js-fwdays-2019/review/one-simple-animation-explained)  |  [Юрий Артюх](speakers&#x2F;Юрий%20Артюх.md)  |    |
 | [Server-side rendering with Angular—be faster and more SEO, CDN and user-friendly!](https://fwdays.com/en/event/js-fwdays-2019/review/server-side-rendering-with-angular) [en] |  [Maciej Treder](speakers&#x2F;Maciej%20Treder.md)  |    |
 | [Делайте из слона муху](https://fwdays.com/en/event/js-fwdays-2019/review/shrink-an-elephant-into-a-fly)  |  [Вадим Макеев](speakers&#x2F;Вадим%20Макеев.md)  |    |
-| [JS on Server: To be or not to be?](https://fwdays.com/en/event/js-fwdays-2019/review/js-on-server-to-be-or-not-to-be)  |  [Illya Klymov](speakers&#x2F;Illya%20Klymov.md)  |    |
+| [JS on Server: To be or not to be?](https://fwdays.com/en/event/js-fwdays-2019/review/js-on-server-to-be-or-not-to-be)  |  [Илья Климов](speakers&#x2F;Илья%20Климов.md)  |    |
 | [Web Performance in modern JavaScript world](https://fwdays.com/en/event/js-fwdays-2019/review/web-performance-in-modern-javascript-world) [en] |  [Filip Rakowski](speakers&#x2F;Filip%20Rakowski.md)  |    |
 | [Lost in Space: Web Apps and A11Y](https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space)  |  [Vitalii Bobrov](speakers&#x2F;Vitalii%20Bobrov.md)  |    |
-| [Looking for the right tech stack for GraphQL application](https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql)  |  [Nikita Galkin](speakers&#x2F;Nikita%20Galkin.md)  |    |
+| [Looking for the right tech stack for GraphQL application](https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql)  |  [Никита Галкин](speakers&#x2F;Никита%20Галкин.md)  |    |
 | [The Almighty Rabbit Hole](https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole)  |  [Christopher Gannon](speakers&#x2F;Christopher%20Gannon.md)  |    |
 | [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https://fwdays.com/en/event/js-fwdays-2019/review/beyond-the-limitations-of-frontend)  |  [Ilona Demidenko](speakers&#x2F;Ilona%20Demidenko.md)  |    |
 | [REPL, do you speak it](https://fwdays.com/en/event/js-fwdays-2019/review/repl)  |  [Александр Соловьев](speakers&#x2F;Александр%20Соловьев.md)  |    |
@@ -26,14 +26,14 @@
 ## JavaScript fwdays&#39;18 - 2018 Mar 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLPcgQFk9n9y8_G0Gyh0yqDuiZqy15RLDo)
 | | | |
 | --- | :---: | --- |
-| [JavaScript: День 4001-й](https://youtu.be/jzaZlEOSwoA)  |  [Illya Klymov](speakers&#x2F;Illya%20Klymov.md)  | [:notebook:](https://www.slideshare.net/fwdays/javascript-4001)   |
+| [JavaScript: День 4001-й](https://youtu.be/jzaZlEOSwoA)  |  [Илья Климов](speakers&#x2F;Илья%20Климов.md)  | [:notebook:](https://www.slideshare.net/fwdays/javascript-4001)   |
 | [Front-end Microservices Architecture](https://youtu.be/2r9KqASOSeM)  |  [Mykhailo Churilov](speakers&#x2F;Mykhailo%20Churilov.md)  | [:notebook:](http://slides.com/mykhailochurilov/deck-14#/)   |
 | [React: дорога к просветлению](https://youtu.be/STz1tr65ykE)  |  [Ekaterina Lizogubova](speakers&#x2F;Ekaterina%20Lizogubova.md)  | [:notebook:](https://www.slideshare.net/fwdays/react-91307920)   |
 | [Creating virtual worlds in the browser](https://youtu.be/0y2jXEUHvuk) [en] |  [Martin Splitt](speakers&#x2F;Martin%20Splitt.md)  | [:notebook:](https://www.slideshare.net/fwdays/martin-splitt-creating-virtual-worlds-in-the-browser)   |
 | [Растим детей. Или как Иван Васильевич запускал эксперименты?](https://youtu.be/7cnBuA0LAGg)  |  [Gregory Shehet](speakers&#x2F;Gregory%20Shehet.md)  | [:notebook:](https://www.slideshare.net/fwdays/ss-91307851)   |
 | [The Most Annoying Website](https://youtu.be/EkpS1eWb2BA) [en] |  [Feross Aboukhadijeh](speakers&#x2F;Feross%20Aboukhadijeh.md)  | [:notebook:](https://www.slideshare.net/fwdays/feross-aboukhadijeh-the-most-annoying-website-aka-the-power-of-the-web-platform-91926338)   |
 | [JavaScript all the things](https://youtu.be/tTPk0OdMCqM) [en] |  [Jan Jongboom](speakers&#x2F;Jan%20Jongboom.md)  | [:notebook:](https://www.slideshare.net/fwdays/jan-jongboom-javascript-all-the-things)   |
-| [Як ангулярити на 5+](https://youtu.be/dfJyrbk7PME) [uk] |  [Sergiy Babich](speakers&#x2F;Sergiy%20Babich.md)  | [:notebook:](https://babichss.github.io/angular-for-a-plus/#/)   |
+| [Як ангулярити на 5+](https://youtu.be/dfJyrbk7PME) [uk] |  [Сергій Бабіч](speakers&#x2F;Сергій%20Бабіч.md)  | [:notebook:](https://babichss.github.io/angular-for-a-plus/#/)   |
 | [Time, Numbers, Text](https://youtu.be/TFBCcNFEmDE)  |  [Андрей Листочкин](speakers&#x2F;Андрей%20Листочкин.md)  | [:notebook:](https://speakerdeck.com/listochkin/time-numbers-text)   |
 | [Кодстайл и насилие](https://youtu.be/qHIhWxHSi_0)  |  [Антон Немцев](speakers&#x2F;Антон%20Немцев.md)  | [:notebook:](https://silentimp.github.io/codeStyleAndViolenceRu/index.html#slide-1)   |
 | [GraphQL - новый взгляд на API](https://youtu.be/zXUP4bNDxWo)  |  [Vladimir Zaets](speakers&#x2F;Vladimir%20Zaets.md)  | [:notebook:](https://www.slideshare.net/fwdays/graphql-api)   |
@@ -43,7 +43,7 @@
 | [How to run WebAssembly in your React web application](https://youtu.be/oicuETKQBkw)  |  [Oleksandr Skachkov](speakers&#x2F;Oleksandr%20Skachkov.md)  | [:notebook:](https://www.slideshare.net/fwdays/oleksandr-skachkov-event-is-over-how-to-run-webassembly-in-your-react-web-application)   |
 | [Vue: webcomponents](https://youtu.be/Q3MOPhHR2Mk)  |  [Виталий Ратушный](speakers&#x2F;Виталий%20Ратушный.md)  | [:notebook:](https://www.slideshare.net/fwdays/vue-webcomponents)   |
 | [International Speakers&#39; Corner](https://youtu.be/0WMLFRz6veY) [en] |  [Jan Jongboom](speakers&#x2F;Jan%20Jongboom.md)  [Martin Splitt](speakers&#x2F;Martin%20Splitt.md)  [Feross Aboukhadijeh](speakers&#x2F;Feross%20Aboukhadijeh.md)  [Noam Rosenthal](speakers&#x2F;Noam%20Rosenthal.md)  |    |
-| [Best practices and troubleshooting guide for node applications [Workshop]](https://youtu.be/8HQ0IYanqFs)  |  [Nikita Galkin](speakers&#x2F;Nikita%20Galkin.md)  | [:notebook:](https://www.slideshare.net/fwdays/nikita-galkin-best-practices-and-troubleshooting-guide-for-node-applications)   |
+| [Best practices and troubleshooting guide for node applications [Workshop]](https://youtu.be/8HQ0IYanqFs)  |  [Никита Галкин](speakers&#x2F;Никита%20Галкин.md)  | [:notebook:](https://www.slideshare.net/fwdays/nikita-galkin-best-practices-and-troubleshooting-guide-for-node-applications)   |
 | [600 секунд об async_hooks](https://youtu.be/8ut7bRzj-vU)  |  [Andrii Kanunnikov](speakers&#x2F;Andrii%20Kanunnikov.md)  | [:notebook:](https://www.slideshare.net/fwdays/600-asynchooks)   |
 | [Use-case оператора replyWhen из Rx.JS](https://youtu.be/d7zO9fzXbfM)  |  [Oleksandr Poshtaruk](speakers&#x2F;Oleksandr%20Poshtaruk.md)  | [:notebook:](https://www.slideshare.net/fwdays/usecase-replywhen-rxjs-iframe)   |
 | [Web Workers - добавьте производительности своим Web приложениям](https://youtu.be/ctKmHO2yARY)  |  [Сергей Мелашич](speakers&#x2F;Сергей%20Мелашич.md)  | [:notebook:](http://slides.com/sergeymell/fwdays-2018/fullscreen#/)   |
@@ -52,7 +52,7 @@
 | --- | :---: | --- |
 | [Un-dux Your Front-end](https://frameworksdays.com/event/frontend-fwdays-17/review/un-dux) [en] |  [Nate Abele](speakers&#x2F;Nate%20Abele.md)  |    |
 | Testing in Frontend World  |  [Никита Галкин](speakers&#x2F;Никита%20Галкин.md)  |    |
-| [&quot;@babel&#x2F;core&quot;: &quot;7.x&quot;](https://frameworksdays.com/event/frontend-fwdays-17/review/babel-core-7x)  |  [Артем Яворский](speakers&#x2F;Артем%20Яворский.md)  |    |
+| [&quot;@babel&#x2F;core&quot;: &quot;7.x&quot;](https://frameworksdays.com/event/frontend-fwdays-17/review/babel-core-7x)  |  [Артём Яворский](speakers&#x2F;Артём%20Яворский.md)  |    |
 | [Неуниверсальный дизайн](https://frameworksdays.com/event/frontend-fwdays-17/review/not-universal-design)  |  [Дмитрий Попов](speakers&#x2F;Дмитрий%20Попов.md)  |    |
 | [Vue: Animations, Validations, DataMine Blockchain](https://frameworksdays.com/event/frontend-fwdays-17/review/vue-animations-validations)  |  [Виталий Ратушный](speakers&#x2F;Виталий%20Ратушный.md)  [Роман Стремедловский](speakers&#x2F;Роман%20Стремедловский.md)  |    |
 | [False simplicity of front-end applications](https://frameworksdays.com/event/frontend-fwdays-17/review/false-simplicity)  |  [Алексей Ященко](speakers&#x2F;Алексей%20Ященко.md)  [Ярослав Волощук](speakers&#x2F;Ярослав%20Волощук.md)  |    |
@@ -76,14 +76,14 @@
 | [You Don&#39;t Know npm](https://frameworksdays.com/event/js-frameworks-day-2017/review/you-dont-know-npm) [en] |  [Ashley Williams](speakers&#x2F;Ashley%20Williams.md)  |    |
 | [How to improve Angular 2 performance?](https://frameworksdays.com/event/js-frameworks-day-2017/review/how-to-improve-angular-2-performance)  |  [Александр Трищенко](speakers&#x2F;Александр%20Трищенко.md)  |    |
 | [Trojan War: SinonJS](https://frameworksdays.com/event/js-frameworks-day-2017/review/trojan-war-sinon-js)  |  [Александра Калинина](speakers&#x2F;Александра%20Калинина.md)  |    |
-| [Compile like it&#39;s 2017](https://frameworksdays.com/event/js-frameworks-day-2017/review/compile-like-its-2017)  |  [Артем Яворский](speakers&#x2F;Артем%20Яворский.md)  |    |
+| [Compile like it&#39;s 2017](https://frameworksdays.com/event/js-frameworks-day-2017/review/compile-like-its-2017)  |  [Артём Яворский](speakers&#x2F;Артём%20Яворский.md)  |    |
 | [Password Hashing](https://frameworksdays.com/event/js-frameworks-day-2017/review/password-hashing) [en] |  [Emil Bayes](speakers&#x2F;Emil%20Bayes.md)  |    |
 | [Vue.js или как наконец отказаться от React](https://frameworksdays.com/event/js-frameworks-day-2017/review/vue-js)  |  [Андрей Грачёв](speakers&#x2F;Андрей%20Грачёв.md)  |    |
 | [Internet of Peers](https://frameworksdays.com/event/js-frameworks-day-2017/review/internet-of-peers) [en] |  [Mathias Buus](speakers&#x2F;Mathias%20Buus.md)  |    |
 | [Настройка SEO для одностраничных web-приложений на Angular](https://frameworksdays.com/event/js-frameworks-day-2017/review/seo-settings-for-one-page-web-app)  |  [Сергей Мелашич](speakers&#x2F;Сергей%20Мелашич.md)  |    |
 | [React + Redux: performance &amp; scalability](https://frameworksdays.com/event/js-frameworks-day-2017/review/react-redux-performance-and-scalability)  |  [Виталий Редько](speakers&#x2F;Виталий%20Редько.md)  |    |
 | [Introduction in Reactive Programming with React](https://frameworksdays.com/event/js-frameworks-day-2017/review/introduction-in-reactive-programming)  |  [Григорий Шехет](speakers&#x2F;Григорий%20Шехет.md)  |    |
-| [Improve your web application using Progressive Web Metrics](https://frameworksdays.com/event/js-frameworks-day-2017/review/improve-your-web-app-using-progressive-web-metrics)  |  [Артем Денисов](speakers&#x2F;Артем%20Денисов.md)  |    |
+| [Improve your web application using Progressive Web Metrics](https://frameworksdays.com/event/js-frameworks-day-2017/review/improve-your-web-app-using-progressive-web-metrics)  |  [Артём Денисов](speakers&#x2F;Артём%20Денисов.md)  |    |
 | [CSS 5DX](https://frameworksdays.com/event/js-frameworks-day-2017/review/css-5dx)  |  [Александр Павлыщ](speakers&#x2F;Александр%20Павлыщ.md)  |    |
 | [2017: Автостопом по галактике JavaScript](https://frameworksdays.com/event/js-frameworks-day-2017/review/javascript-galactic-avtostop)  |  [Илья Климов](speakers&#x2F;Илья%20Климов.md)  |    |
 ## Most JS Frameworks Day 2016 - 2016 Dec 04 
@@ -155,7 +155,7 @@
 | [Inside The AngularJS Directive Compiler](http://frameworksdays.com/event/js-frameworks-day-2015/review/inside-the-angularjs-directive-compiler)  |  [Tero Parviainen](speakers&#x2F;Tero%20Parviainen.md)  |    |
 | [How to deploy to production 10 times a day](http://frameworksdays.com/event/js-frameworks-day-2015/review/how-to-deploy-to-production-10-times-a-day)  |  [Андрей Шумада](speakers&#x2F;Андрей%20Шумада.md)  |    |
 | [The Grail: React based Isomorph apps framework](http://frameworksdays.com/event/js-frameworks-day-2015/review/the-grail)  |  [Эльдар Джафаров](speakers&#x2F;Эльдар%20Джафаров.md)  |    |
-| [Backbone React Flux](http://frameworksdays.com/event/js-frameworks-day-2015/review/backbone-react-flux)  |  [Артем Тритяк](speakers&#x2F;Артем%20Тритяк.md)  |    |
+| [Backbone React Flux](http://frameworksdays.com/event/js-frameworks-day-2015/review/backbone-react-flux)  |  [Артём Тритяк](speakers&#x2F;Артём%20Тритяк.md)  |    |
 | [Как работают современные интерактивные карты на WebGL](http://frameworksdays.com/event/js-frameworks-day-2015/review/webgl)  |  [Владимир Агафонкин](speakers&#x2F;Владимир%20Агафонкин.md)  |    |
 ## JavaScript Frameworks Day 2014 - 2014 Apr 26 
 | | | |

@@ -41,7 +41,7 @@
 | [WARPSPEED: High performance tricks: Web Workers, GPU computing and Web Assembly](https://www.youtube.com/watch?v=1_lX28QWCdg) [en] |  [Martin Splitt](speakers&#x2F;Martin%20Splitt.md)  |    |
 | [Front-end As I See It](https://www.youtube.com/watch?v=B9SXHMei58c)  |  [Анна Селезнёва](speakers&#x2F;Анна%20Селезнёва.md)  |    |
 | [Dynamic Analysis with Babel](https://www.youtube.com/watch?v=2wxr5t3ftis) [en] |  [Matt Zeunert](speakers&#x2F;Matt%20Zeunert.md)  |    |
-| Machine learning and neural nets in JavaScript [WORKSHOP]  |  [Vsevolod Rodionov](speakers&#x2F;Vsevolod%20Rodionov.md)  |    |
+| Machine learning and neural nets in JavaScript [WORKSHOP]  |  [Всеволод Родионов](speakers&#x2F;Всеволод%20Родионов.md)  |    |
 | [Service Worker Crash Course](https://www.youtube.com/watch?v=043HeY_V-QQ) [en] |  [Rafael Teixeira Fernandes](speakers&#x2F;Rafael%20Teixeira%20Fernandes.md)  |    |
 | [Why (Mobile) Web Compatibility is (so) important?](https://www.youtube.com/watch?v=m3Tf-0_Xnu4) [en] |  [Stefania Ioana Chiorean](speakers&#x2F;Stefania%20Ioana%20Chiorean.md)  |    |
 | [&quot;I can’t work on my phone&quot; - desktop all the things](https://www.youtube.com/watch?v=eQ9mSH4je0U) [en] |  [Stefan Judis](speakers&#x2F;Stefan%20Judis.md)  |    |
@@ -61,7 +61,7 @@
 ## RS Conf 2016 - 2016 Feb 20-21 
 | | | |
 | --- | :---: | --- |
-| [JavaScript parsing, transformations, transpilation.](https://www.youtube.com/watch?v=dnsW3JtQXrk) [en] |  [Ingvar Stepanyan](speakers&#x2F;Ingvar%20Stepanyan.md)  |    |
+| [JavaScript parsing, transformations, transpilation.](https://www.youtube.com/watch?v=dnsW3JtQXrk) [en] |  [Ингвар Степанян](speakers&#x2F;Ингвар%20Степанян.md)  |    |
 | [Использование File API в Конструкторе Яндекс.Карт.](https://www.youtube.com/watch?v=VeaRqoJGnWY)  |  [Всеволод Шмыров](speakers&#x2F;Всеволод%20Шмыров.md)  |    |
 | [WebRTC from Zero to Hero](https://www.youtube.com/watch?v=DOg3XPAgZwE) [en] |  [Gabriel Mičko](speakers&#x2F;Gabriel%20Mičko.md)  |    |
 | [TauCharts and data visualization](https://www.youtube.com/watch?v=TrEXCxOuLXY)  |  [Vladimir Petriko](speakers&#x2F;Vladimir%20Petriko.md)  |    |

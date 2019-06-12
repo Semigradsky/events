@@ -46,7 +46,7 @@
 | --- | :---: | --- |
 | Фронтенд для миллионов  |  [Анастасия Горячева](speakers&#x2F;Анастасия%20Горячева.md)  | [:notebook:](https://www.slideshare.net/negoryacheva/ss-77015972)   |
 | Unit тесты в NodeJS  |  [Кирилл Новиков](speakers&#x2F;Кирилл%20Новиков.md)  | [:notebook:](https://github.com/kirill3333/jsnn_6/blob/master/Unit%20testing%20in%20Node%20JS.pdf)   |
-| Ни RESТа себе! GraphQL is Coming  |  [Артем Малышев](speakers&#x2F;Артем%20Малышев.md)  | [:notebook:](http://proofit404.github.io/talks/graphql-relay)   |
+| Ни RESТа себе! GraphQL is Coming  |  [Артём Малышев](speakers&#x2F;Артём%20Малышев.md)  | [:notebook:](http://proofit404.github.io/talks/graphql-relay)   |
 | SW  |  [Макаров Андрей](speakers&#x2F;Макаров%20Андрей.md)  | [:notebook:](https://r3nya.github.io/sw-intro/)   |
 | Генераторы в javascript  |  [Михаил Ангелов](speakers&#x2F;Михаил%20Ангелов.md)  | [:notebook:](https://mikhail-angelov.github.io/presentation-generators/#/)   |
 | React + Redux: Data flow management  |  [Андрей Синицын](speakers&#x2F;Андрей%20Синицын.md)  | [:notebook:](http://slides.com/andreysinitsyn-asn007/deck)   |
@@ -59,7 +59,7 @@
 | [Использование RxJs для связывания компонентов приложения](https://www.youtube.com/watch?v=UcULWX_vleI)  |  [Максим Голованёв](speakers&#x2F;Максим%20Голованёв.md)  | [:notebook:](https://amayun.github.io/rxjs/)   |
 | [Вивисекция Ангуляра](https://www.youtube.com/watch?v=6JbKHQw9iDQ)  |  [Николай Кугаевский](speakers&#x2F;Николай%20Кугаевский.md)  | [:notebook:](http://slides.kugaevsky.ru/vivisection.html#/)   |
 | [Новые фичи в CSS](https://www.youtube.com/watch?v=cE72lYNGPyQ)  |  [Андрей Макаров](speakers&#x2F;Андрей%20Макаров.md)  | [:notebook:](https://r3nya.github.io/new-css-features/)   |
-| [Transpiler-free Python for your browser](https://www.youtube.com/watch?v=UBpxnh6pht0)  |  [Артем Малышев](speakers&#x2F;Артем%20Малышев.md)  | [:notebook:](http://proofit404.github.io/talks/transpiler-free-python-for-your-browser/#/)   |
+| [Transpiler-free Python for your browser](https://www.youtube.com/watch?v=UBpxnh6pht0)  |  [Артём Малышев](speakers&#x2F;Артём%20Малышев.md)  | [:notebook:](http://proofit404.github.io/talks/transpiler-free-python-for-your-browser/#/)   |
 ## JSNN 4 - 2016 Aug 27 
 | | | |
 | --- | :---: | --- |

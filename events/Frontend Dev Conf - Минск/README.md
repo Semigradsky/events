@@ -50,7 +50,7 @@
 | [Визуализируем данные в JavaScript с помощью D3.js](https://www.youtube.com/watch?v=-sfdtR6Arpw)  |  [Александр Кузнецов](speakers&#x2F;Александр%20Кузнецов.md)  |    |
 | [Автоматизация фронтенда — сегодня и завтра](https://www.youtube.com/watch?v=Fe5fW-WtQSI)  |  [Роберт Харитонов](speakers&#x2F;Роберт%20Харитонов.md)  |    |
 | [API first approach for frontend developers](https://www.youtube.com/watch?v=ZR3lQ5bb5lY)  |  [Роман Бугаев](speakers&#x2F;Роман%20Бугаев.md)  |    |
-| [ember.js - инструмент нового поколения](https://www.youtube.com/watch?v=Qx8dbHcur-c)  |  [Артем Сущев](speakers&#x2F;Артем%20Сущев.md)  |    |
+| [ember.js - инструмент нового поколения](https://www.youtube.com/watch?v=Qx8dbHcur-c)  |  [Артём Сущев](speakers&#x2F;Артём%20Сущев.md)  |    |
 ## Frontend DEV Conf&#39;13 - 2013 Apr 20 
 | | | |
 | --- | :---: | --- |

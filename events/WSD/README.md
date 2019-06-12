@@ -164,7 +164,7 @@
 ## WSD 2015 - Киев - 2015 Nov 28 
 | | | |
 | --- | :---: | --- |
-| CSS is still awesome  |  [Юра Ткаченко](speakers&#x2F;Юра%20Ткаченко.md)  | [:notebook:](https://wsd.events/2015/11/28/pres/css-awesome/)   |
+| CSS is still awesome  |  [Юрий Ткаченко](speakers&#x2F;Юрий%20Ткаченко.md)  | [:notebook:](https://wsd.events/2015/11/28/pres/css-awesome/)   |
 | Сontenteditable  |  [Игорь Кононученко](speakers&#x2F;Игорь%20Кононученко.md)  | [:notebook:](https://wsd.events/2015/11/28/pres/contenteditable.pdf)   |
 | React и&#x2F;или БЭМ  |  [Сергей Сыркин](speakers&#x2F;Сергей%20Сыркин.md)  | [:notebook:](https://wsd.events/2015/11/28/pres/react-bem.pdf)   |
 | БЭМ в дикой природе  |  [Игорь Зенич](speakers&#x2F;Игорь%20Зенич.md)  | [:notebook:](https://wsd.events/2015/11/28/pres/bem-in-the-wild/)   |

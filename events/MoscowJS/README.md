@@ -88,7 +88,7 @@
 | [Favicon на стероидах](https://youtu.be/Y4LSYQVseiM)  |  [Александр Амосов](speakers&#x2F;Александр%20Амосов.md)  | [:notebook:](http://www.slideshare.net/moscowjs/favicon-69761008)   |
 | [E2E-тестирование мобильных приложений](https://www.youtube.com/watch?v=3jhi9A5Czl8&list=PLknJ4Vr6efQFzo2vyM1brrRPEIAQnTCV2&index=4)  |  [Антон Кузнецов](speakers&#x2F;Антон%20Кузнецов.md)  | [:notebook:](http://www.slideshare.net/moscowjs/e2e-69761007)   |
 | [Basis.js - Production Ready SPA Framework](https://www.youtube.com/watch?v=2b2ap0VEBhA)  |  [Сергей Мелюков](speakers&#x2F;Сергей%20Мелюков.md)  | [:notebook:](http://www.slideshare.net/moscowjs/basisjs-production-ready-spa-framework)   |
-| [Reliable DOM testing with browser-monkey](https://youtu.be/oIZcPlXgIOI)  |  [Артем Аветисян](speakers&#x2F;Артем%20Аветисян.md)  | [:notebook:](http://www.slideshare.net/moscowjs/reliable-dom-testing-with-browsermonkey)   |
+| [Reliable DOM testing with browser-monkey](https://youtu.be/oIZcPlXgIOI)  |  [Артём Аветисян](speakers&#x2F;Артём%20Аветисян.md)  | [:notebook:](http://www.slideshare.net/moscowjs/reliable-dom-testing-with-browsermonkey)   |
 ## MoscowJS Conf - 2016 Sep 24 
 | | | |
 | --- | :---: | --- |
@@ -116,8 +116,8 @@
 | --- | :---: | --- |
 | [Scala для супергеройского фронтенда](https://www.youtube.com/watch?v=EpEMHcHoftE&index=4&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV)  |  [Алексей Фомкин](speakers&#x2F;Алексей%20Фомкин.md)  | [:notebook:](http://slides.com/alekseyfomkin/mjs30-scala-superhero#/)   |
 | [Можно вообще всё. Раскладка по гриду](https://www.youtube.com/watch?v=xQn0G_bxNa4&index=3&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV)  |  [Вадим Макеев](speakers&#x2F;Вадим%20Макеев.md)  | [:notebook:](https://pepelsbey.net/pres/grid-layout/)   |
-| [Быстрее, выше, сильнее в современной архитектуре](https://www.youtube.com/watch?v=O4XESfDh35M&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=2)  |  [Копылов Егор](speakers&#x2F;Копылов%20Егор.md)  |    |
-| [Введение в GraphQL и Relay](https://www.youtube.com/watch?v=3Sl1Nf81dXY&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=1)  |  [Слинько Вячеслав](speakers&#x2F;Слинько%20Вячеслав.md)  |    |
+| [Быстрее, выше, сильнее в современной архитектуре](https://www.youtube.com/watch?v=O4XESfDh35M&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=2)  |  [Егор Копылов](speakers&#x2F;Егор%20Копылов.md)  |    |
+| [Введение в GraphQL и Relay](https://www.youtube.com/watch?v=3Sl1Nf81dXY&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=1)  |  [Вячеслав Слинько](speakers&#x2F;Вячеслав%20Слинько.md)  |    |
 ## MoscowJS 29 - 2016 Mar 31 
 | | | |
 | --- | :---: | --- |

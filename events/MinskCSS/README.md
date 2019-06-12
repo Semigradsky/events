@@ -5,7 +5,7 @@
 | --- | :---: | --- |
 | [Делайте из слона муху](https://www.youtube.com/watch?v=Gq1pXTFO3-M)  |  [Вадим Макеев](speakers&#x2F;Вадим%20Макеев.md)  | [:notebook:](https://drive.google.com/file/d/1gaN_TW8iwo9bUxGuZG4kkjb1z9LAArlR/view)   |
 | [CSS ещё не торт](https://www.youtube.com/watch?v=g20pCKeSgUU)  |  [Вероника Новикова](speakers&#x2F;Вероника%20Новикова.md)  | [:notebook:](https://drive.google.com/file/d/1p1WG9dWIVgvb4vXI7TzBPs1wU2uLLvJS/view)   |
-| [The state of CSS](https://www.youtube.com/watch?v=gw9x2zhyxL0)  |  [Серёжа Попов](speakers&#x2F;Серёжа%20Попов.md)  | [:notebook:](https://drive.google.com/file/d/1b890dFOQ25ae5eXc_2X8pKcW8a1IVlEC/view)   |
+| [The state of CSS](https://www.youtube.com/watch?v=gw9x2zhyxL0)  |  [Сергей Попов](speakers&#x2F;Сергей%20Попов.md)  | [:notebook:](https://drive.google.com/file/d/1b890dFOQ25ae5eXc_2X8pKcW8a1IVlEC/view)   |
 ## MinskCSS 5 - 2018 Dec 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL3uk4LxG9Zzmcubii5ejpZmbqTSNoQVnP)
 | | | |
 | --- | :---: | --- |

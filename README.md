@@ -87,7 +87,7 @@
 | --- | :---: | --- |
 | [Делайте из слона муху](https://www.youtube.com/watch?v=Gq1pXTFO3-M)  |  [Вадим Макеев](speakers&#x2F;Вадим%20Макеев.md)  | [:notebook:](https://drive.google.com/file/d/1gaN_TW8iwo9bUxGuZG4kkjb1z9LAArlR/view)   |
 | [CSS ещё не торт](https://www.youtube.com/watch?v=g20pCKeSgUU)  |  [Вероника Новикова](speakers&#x2F;Вероника%20Новикова.md)  | [:notebook:](https://drive.google.com/file/d/1p1WG9dWIVgvb4vXI7TzBPs1wU2uLLvJS/view)   |
-| [The state of CSS](https://www.youtube.com/watch?v=gw9x2zhyxL0)  |  [Серёжа Попов](speakers&#x2F;Серёжа%20Попов.md)  | [:notebook:](https://drive.google.com/file/d/1b890dFOQ25ae5eXc_2X8pKcW8a1IVlEC/view)   |
+| [The state of CSS](https://www.youtube.com/watch?v=gw9x2zhyxL0)  |  [Сергей Попов](speakers&#x2F;Сергей%20Попов.md)  | [:notebook:](https://drive.google.com/file/d/1b890dFOQ25ae5eXc_2X8pKcW8a1IVlEC/view)   |
 ## MoscowJS Geo Meetup - Apr 10 
 | | | |
 | --- | :---: | --- |
@@ -185,10 +185,10 @@
 | [One simple animation explained](https://fwdays.com/en/event/js-fwdays-2019/review/one-simple-animation-explained)  |  [Юрий Артюх](speakers&#x2F;Юрий%20Артюх.md)  |    |
 | [Server-side rendering with Angular—be faster and more SEO, CDN and user-friendly!](https://fwdays.com/en/event/js-fwdays-2019/review/server-side-rendering-with-angular) [en] |  [Maciej Treder](speakers&#x2F;Maciej%20Treder.md)  |    |
 | [Делайте из слона муху](https://fwdays.com/en/event/js-fwdays-2019/review/shrink-an-elephant-into-a-fly)  |  [Вадим Макеев](speakers&#x2F;Вадим%20Макеев.md)  |    |
-| [JS on Server: To be or not to be?](https://fwdays.com/en/event/js-fwdays-2019/review/js-on-server-to-be-or-not-to-be)  |  [Illya Klymov](speakers&#x2F;Illya%20Klymov.md)  |    |
+| [JS on Server: To be or not to be?](https://fwdays.com/en/event/js-fwdays-2019/review/js-on-server-to-be-or-not-to-be)  |  [Илья Климов](speakers&#x2F;Илья%20Климов.md)  |    |
 | [Web Performance in modern JavaScript world](https://fwdays.com/en/event/js-fwdays-2019/review/web-performance-in-modern-javascript-world) [en] |  [Filip Rakowski](speakers&#x2F;Filip%20Rakowski.md)  |    |
 | [Lost in Space: Web Apps and A11Y](https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space)  |  [Vitalii Bobrov](speakers&#x2F;Vitalii%20Bobrov.md)  |    |
-| [Looking for the right tech stack for GraphQL application](https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql)  |  [Nikita Galkin](speakers&#x2F;Nikita%20Galkin.md)  |    |
+| [Looking for the right tech stack for GraphQL application](https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql)  |  [Никита Галкин](speakers&#x2F;Никита%20Галкин.md)  |    |
 | [The Almighty Rabbit Hole](https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole)  |  [Christopher Gannon](speakers&#x2F;Christopher%20Gannon.md)  |    |
 | [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https://fwdays.com/en/event/js-fwdays-2019/review/beyond-the-limitations-of-frontend)  |  [Ilona Demidenko](speakers&#x2F;Ilona%20Demidenko.md)  |    |
 | [REPL, do you speak it](https://fwdays.com/en/event/js-fwdays-2019/review/repl)  |  [Александр Соловьев](speakers&#x2F;Александр%20Соловьев.md)  |    |
@@ -254,8 +254,8 @@
 | | | |
 | --- | :---: | --- |
 | [Making Vue app reactive with RxJS](https://www.youtube.com/watch?v=Ny1_s9OHg1M)  |  [Natalia Tepluhina](speakers&#x2F;Natalia%20Tepluhina.md)  | [:notebook:](https://slides.com/superdiana/making-your-vue-app-reactive-with-rxjs#/)   |
-| [Yet another JSON RPC library?](https://www.youtube.com/watch?v=84Y5n32tX5E)  |  [Viktor Turskyi](speakers&#x2F;Viktor%20Turskyi.md)  | [:notebook:](https://docs.google.com/presentation/d/1bvlsG5nBEVwMGm7rBh4zmfrGDLUIjpv_t4rxFS2_uMw/edit)   |
-| [Building quick apps in 2019](https://www.youtube.com/watch?v=kNpBcA5GrcU)  |  [Ivan Akulov](speakers&#x2F;Ivan%20Akulov.md)  | [:notebook:](https://docs.google.com/presentation/d/1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U/edit)   |
+| [Yet another JSON RPC library?](https://www.youtube.com/watch?v=84Y5n32tX5E)  |  [Виктор Турский](speakers&#x2F;Виктор%20Турский.md)  | [:notebook:](https://docs.google.com/presentation/d/1bvlsG5nBEVwMGm7rBh4zmfrGDLUIjpv_t4rxFS2_uMw/edit)   |
+| [Building quick apps in 2019](https://www.youtube.com/watch?v=kNpBcA5GrcU)  |  [Иван Акулов](speakers&#x2F;Иван%20Акулов.md)  | [:notebook:](https://docs.google.com/presentation/d/1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U/edit)   |
 | [npm explore npm](https://www.youtube.com/watch?v=RRAQXLaBCEk)  |  [Anton Verinov](speakers&#x2F;Anton%20Verinov.md)  | [:notebook:](https://drive.google.com/file/d/1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk/view)   |
 | [Эстимирование](https://www.youtube.com/watch?v=xu7cBk-STx4)  |  [Gregory Shehet](speakers&#x2F;Gregory%20Shehet.md)  | [:notebook:](https://drive.google.com/file/d/1F-5hei901Z8m26F53gigWlkbjTdgejP7/view)   |
 ## The Rolling Scopes &amp; {Minsk} JSON - Feb 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;gdpMFxWDwJg)

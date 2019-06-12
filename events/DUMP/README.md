@@ -54,4 +54,4 @@
 | [Components now](https://www.youtube.com/watch?v=HYjvz7D-VUU)  |  [Михаил Давыдов](speakers&#x2F;Михаил%20Давыдов.md)  |    |
 | [Автопрефиксер: Мир без CSS префиксов](https://www.youtube.com/watch?v=N9o3BqEj5Y0)  |  [Андрей Ситник](speakers&#x2F;Андрей%20Ситник.md)  |    |
 | [l20n как система локализации](https://www.youtube.com/watch?v=wYQUohGGFFE)  |  [Антон Немцев](speakers&#x2F;Антон%20Немцев.md)  |    |
-| [По-настоящему отзывчивые интерфейсы](https://www.youtube.com/watch?v=2t_C-vm6YTE)  |  [Артем Поликарпов](speakers&#x2F;Артем%20Поликарпов.md)  |    |
+| [По-настоящему отзывчивые интерфейсы](https://www.youtube.com/watch?v=2t_C-vm6YTE)  |  [Артём Поликарпов](speakers&#x2F;Артём%20Поликарпов.md)  |    |

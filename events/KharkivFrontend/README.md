@@ -5,14 +5,14 @@
 | --- | :---: | --- |
 | [NodeJS. What is the secret](https://www.youtube.com/watch?v=g5WPzwIB1RI)  |  [Максим Корабельский](speakers&#x2F;Максим%20Корабельский.md)  |    |
 | [Короткое замыкание в JavaScript](https://www.youtube.com/watch?v=IrBxWPFnmMQ)  |  [Олег Момот](speakers&#x2F;Олег%20Момот.md)  |    |
-| [Может пора отказаться от тестов?](https://www.youtube.com/watch?v=_nSUQXGW-hk)  |  [Калинина Александра](speakers&#x2F;Калинина%20Александра.md)  |    |
-| [Event loop. Что это и с чем его едят](https://www.youtube.com/watch?v=G2Y9sdoZebQ)  |  [Торосян Артур](speakers&#x2F;Торосян%20Артур.md)  |    |
-| [Потоки данных в node.js](https://www.youtube.com/watch?v=UYZUE1vQ0js)  |  [Киктёв Виталий](speakers&#x2F;Киктёв%20Виталий.md)  |    |
+| [Может пора отказаться от тестов?](https://www.youtube.com/watch?v=_nSUQXGW-hk)  |  [Александра Калинина](speakers&#x2F;Александра%20Калинина.md)  |    |
+| [Event loop. Что это и с чем его едят](https://www.youtube.com/watch?v=G2Y9sdoZebQ)  |  [Артур Торосян](speakers&#x2F;Артур%20Торосян.md)  |    |
+| [Потоки данных в node.js](https://www.youtube.com/watch?v=UYZUE1vQ0js)  |  [Виталий Киктёв](speakers&#x2F;Виталий%20Киктёв.md)  |    |
 | [State management with a shape of Vue](https://www.youtube.com/watch?v=4GE14lOpRCo)  |  [Виталий Ратушный](speakers&#x2F;Виталий%20Ратушный.md)  |    |
 ## KharkivFrontend Meetup 3 - 2018 Apr 01 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLDddScyTGZAs2UcWBLPodHk5UWtMVDuPN)
 | | | |
 | --- | :---: | --- |
-| [Расставим сети. CSS Grid Layout module.](https://www.youtube.com/watch?v=TPz5MSS0Gy4)  |  [Стрельников Алексей](speakers&#x2F;Стрельников%20Алексей.md)  |    |
+| [Расставим сети. CSS Grid Layout module.](https://www.youtube.com/watch?v=TPz5MSS0Gy4)  |  [Алексей Стрельников](speakers&#x2F;Алексей%20Стрельников.md)  |    |
 | [Functional Programming in JS](https://www.youtube.com/watch?v=NEVTBVFRk6Y)  |  [Максим Корабельский](speakers&#x2F;Максим%20Корабельский.md)  |    |
 | [Не доверяй входящим данным. Или что такое XSS](https://www.youtube.com/watch?v=A5qriMIS9O0)  |  [Богдан Резанов](speakers&#x2F;Богдан%20Резанов.md)  |    |
 | [О чем молчат тесты?](https://www.youtube.com/watch?v=tphlt_UVS5E)  |  [Чуб Вячеслав](speakers&#x2F;Чуб%20Вячеслав.md)  |    |

@@ -24,10 +24,10 @@
 | [The portrait of professional developer 3.0](https://www.youtube.com/watch?v=Z48yWbWuU78)  |  [Mikalai Alimenkou](speakers&#x2F;Mikalai%20Alimenkou.md)  |    |
 | [Decorating JavaScript](https://www.youtube.com/watch?v=I9O25eXZGh4)  |  [Denis Vlassenko](speakers&#x2F;Denis%20Vlassenko.md)  |    |
 | [AMP - Accelerated Mobile Pages. Making the Web Fast and Compelling](https://www.youtube.com/watch?v=GDN2j3vHtJI)  |  [Denis Vlassenko](speakers&#x2F;Denis%20Vlassenko.md)  |    |
-| [Docker for Node.js Developer](https://www.youtube.com/watch?v=Es0uBQOiEw4)  |  [Nikita Galkin](speakers&#x2F;Nikita%20Galkin.md)  |    |
+| [Docker for Node.js Developer](https://www.youtube.com/watch?v=Es0uBQOiEw4)  |  [Никита Галкин](speakers&#x2F;Никита%20Галкин.md)  |    |
 | [Perf again? Let&#39;s play fonts](https://www.youtube.com/watch?v=0e0QrcHslAA)  |  [Artem Denysov](speakers&#x2F;Artem%20Denysov.md)  |    |
 | [Strict JavaScript](https://www.youtube.com/watch?v=XJiRqW2Gf6o)  |  [Helen Zhukova](speakers&#x2F;Helen%20Zhukova.md)  |    |
-| [Custom CLI tools in the project.](https://www.youtube.com/watch?v=K1HEd0uUEXo)  |  [Denis Kuzin](speakers&#x2F;Denis%20Kuzin.md)  |    |
+| [Custom CLI tools in the project.](https://www.youtube.com/watch?v=K1HEd0uUEXo)  |  [Денис Кузин](speakers&#x2F;Денис%20Кузин.md)  |    |
 | [PWA - native apps power in web](https://www.youtube.com/watch?v=Teix6SA1FbU)  |  [Borys Mohyla](speakers&#x2F;Borys%20Mohyla.md)  |    |
 | [NestJS. When patterns matters](https://www.youtube.com/watch?v=Z9KkMRd8Blc)  |  [Ostap Chervak](speakers&#x2F;Ostap%20Chervak.md)  |    |
 | [Project experience in Angular2+](https://www.youtube.com/watch?v=4TwvQIIOCH8)  |  [Kostiantyn Hryshyn](speakers&#x2F;Kostiantyn%20Hryshyn.md)  |    |
@@ -48,6 +48,6 @@
 | [Frontend Performance Metrics. Measure First. Measure Often](https://www.youtube.com/watch?v=mUG0iVj3Bb0)  |  [Artem Zakharchenko](speakers&#x2F;Artem%20Zakharchenko.md)  |    |
 | [WTF - WebGL The Fundamentals](https://www.youtube.com/watch?v=C79DDrEIpys) [en] |  [Martin Splitt](speakers&#x2F;Martin%20Splitt.md)  |    |
 | [Do you have to play coding games if you are a professional coder?](https://www.youtube.com/watch?v=aMWg4FgmfYI)  |  [Alexander Lyabah](speakers&#x2F;Alexander%20Lyabah.md)  |    |
-| [Better API wrappers with Proxies](https://www.youtube.com/watch?v=hxQW7tcPQ2s)  |  [Aleksey Shvayka](speakers&#x2F;Aleksey%20Shvayka.md)  |    |
+| [Better API wrappers with Proxies](https://www.youtube.com/watch?v=hxQW7tcPQ2s)  |  [Алексей Швайка](speakers&#x2F;Алексей%20Швайка.md)  |    |
 | [React Native: Are we there yet](https://www.youtube.com/watch?v=o2_qDphpjlQ)  |  [Роман Лютиков](speakers&#x2F;Роман%20Лютиков.md)  |    |
 | [Offline-First Almighty or one big reason why our web-applications suck](https://www.youtube.com/watch?v=u5PPiWwojDY)  |  [Denis Yaremov](speakers&#x2F;Denis%20Yaremov.md)  |    |
