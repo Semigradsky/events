@@ -1,0 +1,16 @@
+name: JSib 6
+date: 2015-09-19
+videos: ''
+talks:
+  - name: "Отзывчивый UI без блокировки Event Loop"
+    speaker: Денис Речкунов
+    video: https://www.youtube.com/watch?v=Wp0rvEBZU-c
+    presentation: https://www.slideshare.net/JSibNsk/11-ui-event-loop
+    code: https://github.com/pragmader/presentations/tree/master/slides/JSib/2015-09-19_%D0%9E%D1%82%D0%B7%D1%8B%D0%B2%D1%87%D0%B8%D0%B2%D1%8B%D0%B9%20UI%20%D0%B1%D0%B5%D0%B7%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20Event%20Loop/bubble-sort
+  - name: "Создание двух desktop-приложений на NW.js и Electron"
+    speaker: Михаил Реенко
+    video: https://www.youtube.com/watch?v=tsjj_I2p5HQ
+    presentation: https://www.slideshare.net/JSibNsk/12-desktop-nodewebkit-electron
+    code: https://github.com/reenko/jsib_6
+    tags:
+      - descktop

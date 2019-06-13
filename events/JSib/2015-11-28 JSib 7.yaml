@@ -1,0 +1,12 @@
+name: JSib 7
+date: 2015-11-28
+videos: ''
+talks:
+  - name: "Управление состоянием в Redux"
+    speaker: Роман Сальников
+    video: https://www.youtube.com/watch?v=dszqObMPwmo
+    presentation: https://www.slideshare.net/JSibNsk/13-redux
+  - name: "Победа над асинхронной болью — генераторы и asynс/await"
+    speaker: Влад Семёнов
+    video: https://www.youtube.com/watch?v=44HMpfkXO4w
+    presentation:

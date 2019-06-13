@@ -1,0 +1,14 @@
+name: JSib 3
+date: 2015-03-21
+videos: ''
+talks:
+  - name: "React.js"
+    speaker: Антон Артамонов
+    video: https://www.youtube.com/watch?v=_IOw9VEGeWA
+    presentation: https://www.slideshare.net/JSibNsk/5-reactjs
+    tags:
+      - 'React'
+  - name: "Изоморфный фреймворк Catberry.js"
+    speaker: Денис Речкунов
+    video: https://www.youtube.com/watch?v=TY3JFFp1fJI
+    presentation: https://www.slideshare.net/JSibNsk/6-catberry

@@ -1,0 +1,12 @@
+name: JSib 2
+date: 2015-02-21
+videos: ''
+talks:
+  - name: "Webpack и Vue.JS: Создание больших приложений и их расширение"
+    speaker: Кирилл Кайсаров
+    video: https://www.youtube.com/watch?v=EZxyh0tQY4g
+    presentation: https://www.slideshare.net/JSibNsk/3-webpack-vue
+  - name: "Особенности разработки кросс-браузерных расширений"
+    speaker: Сергей Рашитов
+    video: https://www.youtube.com/watch?v=_LDBOoRwhoA
+    presentation: https://www.slideshare.net/JSibNsk/4-44962119

@@ -1,0 +1,12 @@
+name: JSib 5
+date: 2015-05-31
+videos: ''
+talks:
+  - name: "Chrome DevTools: отладка, консоль, профилирование"
+    speaker: Роман Сальников
+    video: https://www.youtube.com/watch?v=uNJI3iYO-mA
+    presentation: https://www.slideshare.net/JSibNsk/chrome-developer-tools-48804754
+  - name: "Опыт создания Real-time игры на WebGL, Angular, Socket.io и Node.js"
+    speaker: Егор Михальчук
+    video: https://www.youtube.com/watch?v=Y73XFQM-858
+    presentation: https://www.slideshare.net/JSibNsk/10-realtime-webgl-angular-socketio-nodejs
