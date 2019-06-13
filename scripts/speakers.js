@@ -1,5 +1,6 @@
 const Mustache = require('mustache')
 const pify = require('pify')
+const yaml = require('js-yaml')
 
 const fs = require('fs')
 const path = require('path')
@@ -31,6 +32,17 @@ function getSpeakersData(speakerString, event, talk) {
     }))
 }
 
+function parseSpeakersData(content) {
+    try {
+        const data = yaml.safeLoad(content)
+
+        return data
+    } catch (err) {
+        console.error(`Failed to read speakers.yaml`)
+        console.error(err)
+    }
+}
+
 async function writeAllSpeakers(groupedDataBySpeakers) {
     const allSpeakersPattern = await readFile(path.resolve(__dirname, 'allSpeakers.mst'), 'utf-8')
 
@@ -46,7 +58,13 @@ async function writeAllSpeakers(groupedDataBySpeakers) {
     const speakersByCount = speakers.filter(({ countTalks, speaker }) => countTalks > 1 && speaker !== '?')
 
     speakers.sort((s1, s2) => s1.speaker.localeCompare(s2.speaker))
-    speakersByCount.sort((s1, s2) => s2.countTalks - s1.countTalks)
+    speakersByCount.sort((s1, s2) => {
+        if (s2.countTalks === s1.countTalks) {
+            return s1.speaker.localeCompare(s2.speaker)
+        }
+
+        return s2.countTalks - s1.countTalks
+    })
 
     return Mustache.render(allSpeakersPattern.toString(), { speakers, speakersByCount })
 }
@@ -104,10 +122,64 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
 
 async function writeBySpeakers(groupedDataBySpeakers) {
     const speakerPattern = await readFile(path.resolve(__dirname, 'bySpeaker.mst'), 'utf-8')
+    const speakersData = parseSpeakersData(await readFile('speakers.yaml', 'utf-8'))
 
     const groupedBySpeakers = new Map()
 
     for (const [speaker, data] of groupedDataBySpeakers.entries()) {
+        const speakerData = speakersData.find(s => s.name === speaker)
+
+        if (speakerData) {
+            const links = []
+            let photo = ''
+
+            if (speakerData.github) {
+                links.push({
+                    emoji: ':octocat:',
+                    url: `https://github.com/${speakerData.github}`
+                })
+            }
+
+            if (speakerData.site) {
+                links.push({
+                    emoji: ':page_facing_up:',
+                    url: speakerData.site
+                })
+            }
+
+            if (speakerData.facebook) {
+                links.push({
+                    emoji: ':blue_book:',
+                    url: `https://facebook.com/${speakerData.facebook}`
+                })
+
+                photo = `https://avatars.io/facebook/${speakerData.facebook}/large`
+            }
+
+            if (speakerData.twitter) {
+                links.push({
+                    emoji: ':bird:',
+                    url: `https://twitter.com/${speakerData.twitter}`
+                })
+
+                if (!photo) {
+                    photo = `https://avatars.io/twitter/${speakerData.twitter}/large`
+                }
+            }
+
+            if (speakerData.vk) {
+                links.push({
+                    emoji: ':v:',
+                    url: `https://vk.com/${speakerData.vk}`
+                })
+            }
+
+            if (links.length) {
+                data.links = links
+                data.photo = photo
+            }
+        }
+
         groupedBySpeakers.set(speaker, Mustache.render(speakerPattern.toString(), data))
     }
 

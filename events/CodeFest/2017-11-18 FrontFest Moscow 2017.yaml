@@ -24,7 +24,7 @@ talks:
     video: https://youtu.be/HZF3XRNOpGo
     presentation: https://silentimp.github.io/codeStyleAndViolenceRu
   - name: Туманное будущее JavaScript или куда мы все идем
-    speaker: Владимир Дашукевич
+    speaker: Владимир Дашукевич, Евгений Гусев
     video:
     presentation: https://speakerdeck.com/frontfest/vladimir-dashukievich-kvartirnik
   - name: When things start getting serious - Building a production-ready Node.js backend [Workshop]

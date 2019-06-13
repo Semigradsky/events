@@ -1,5 +1,15 @@
 # {{speaker}}
 
+{{#photo}}
+| |
+| --- |
+| ![{{speaker}}]({{photo}})
+{{#links}}
+| {{emoji}}  [{{url}}]({{url}})
+{{/links}}
+
+---
+{{/photo}}
 {{#talks}}
 ## {{talk}}
 {{#events}}
