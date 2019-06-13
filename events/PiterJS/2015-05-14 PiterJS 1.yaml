@@ -5,20 +5,13 @@ talks:
   - name: Creating a crawler and scraper using Node.js and Solr
     speaker: Mikko Lehmuskoski
     lang: '?'
-    tags:
-      - frontend
   - name: 'New features of Ecmascript 6 and 7: generators and async/await'
     speaker: Oleg Podsechin
     lang: '?'
-    tags:
-      - frontend
   - name: AlaSQL.js — JavaScript SQL database library for relational and graph data
     speaker: Андрей Гершун
     lang: '?'
-    tags:
-      - frontend
   - name: JavaScript specific features in NetBeans
     speaker: Geertjan Wielenga
     lang: '?'
-    tags:
-      - frontend
+

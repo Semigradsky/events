@@ -5,24 +5,20 @@ talks:
   - name: Go потом Scala потом Java - познавательная история из жизни бекендеров
     speaker: Денис Кокин
     video: https://www.youtube.com/watch?v=ZOWWVLEbSkM
-    lang: ru
     tags:
       - backend
   - name: Go и снова Go - как писать на Go  большой сервис на примере dice.fm
     speaker: Павел Роспутько
     video: https://www.youtube.com/watch?v=kFdNrL6T1qQ
-    lang: ru
     tags:
       - backend
   - name: Облачный CodeDelivery - использование AWS Cloudformation, AWS CodeDeploy и CircleCI
     speaker: Кирилл Сотников
     video: https://www.youtube.com/watch?v=_yO_nJ-EHek
-    lang: ru
     tags:
       - backend
   - name:  Akka + Scala - Чат за 30 минут с использованием акторов и акторов
     speaker: Владимир Малик
     video: https://www.youtube.com/watch?v=I356xccMQq0
-    lang: ru
     tags:
       - backend

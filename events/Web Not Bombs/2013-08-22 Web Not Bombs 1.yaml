@@ -6,27 +6,15 @@ talks:
     speaker: Михаил Ларченко
     video: https://www.youtube.com/watch?v=LieMUGWdYYk
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Web hybrid developer, full-stack hero, rockstar: что значит быть современным веб-разработчиком"
     speaker: Илья Пухальский
     video: https://www.youtube.com/watch?v=dMChfHkaTTM
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Основы сеонизма, или как перестать ненавидеть SEO и начать делать хорошие сайты
     speaker: Анна Селезнева
     video: https://www.youtube.com/watch?v=o2LNfXzVNnc
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Что необходимо знать об архитектуре CSS
     speaker: Виталий Кузьмич
     video: https://www.youtube.com/watch?v=MPoB3DsN4pk
     presentation:
-    lang: ru
-    tags:
-      - frontend

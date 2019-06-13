@@ -4,65 +4,33 @@ talks:
   - name: "Current work on\_CSS at\_W3C"
     speaker: Берт Бос
     presentation: https://wsd.events/2012/11/24/pres/css-w3c.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "New developments in\_Semantic Web and Internationalization at\_the W3C"
     speaker: Феликс Сасаки
     presentation: https://wsd.events/2012/11/24/pres/semantic-w3c.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Yandex and W3C"
     speaker: Чарльз МакКетиНевил
     presentation: https://wsd.events/2012/11/24/pres/yandex-w3c/
-    lang: ru
-    tags:
-      - frontend
   - name: "SVGO: оптимизатор SVG"
     speaker: Кир Белевич
     presentation: https://wsd.events/2012/11/24/pres/svgo.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Чётко и\_резко. Новая графика для экранов с\_высоким разрешением"
     speaker: Вадим Макеев
     presentation: https://wsd.events/2012/11/24/pres/clear-and-sharp/
-    lang: ru
-    tags:
-      - frontend
   - name: "Паттерны JavaScript"
     speaker: Антон Немцев
     presentation: https://wsd.events/2012/11/24/pres/patterns/
-    lang: ru
-    tags:
-      - frontend
   - name: "Grunt: система сборки для фронтенд-разработчиков"
     speaker: Артём Сапегин
     presentation: https://wsd.events/2012/11/24/pres/grunt/
-    lang: ru
-    tags:
-      - frontend
   - name: "Адаптивный веб-дизайн\_— Что? Где? Когда?"
     speaker: Анна Селезнёва
     presentation: https://wsd.events/2012/11/24/pres/responsive/
-    lang: ru
-    tags:
-      - frontend
   - name: "Getting Touchy"
     speaker: Патрик Лауке
     presentation: https://wsd.events/2012/11/24/pres/touchy.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Технолог\_— тоже дизайнер"
     speaker: Артём Поликарпов
     presentation: https://wsd.events/2012/11/24/pres/tech-designer.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Круглый стол с\_экспертами W3C, Яндекса и\_Opera Software"
     speaker: 'Берт Бос, Феликс Сасаки, Чарльз МакКетиНевил, Патрик Лауке, Вадим Макеев'
-    lang: ru
-    tags:
-      - frontend
+

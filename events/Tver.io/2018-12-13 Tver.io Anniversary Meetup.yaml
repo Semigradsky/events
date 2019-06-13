@@ -6,13 +6,7 @@ talks:
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=z91F33YJvPE
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Типографика в вебе
     speaker: Антон Кастрицкий
     video: https://www.youtube.com/watch?v=qlAV7OrdJtc
     presentation:
-    lang: ru
-    tags:
-      - frontend

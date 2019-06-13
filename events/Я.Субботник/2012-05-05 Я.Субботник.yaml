@@ -5,72 +5,37 @@ talks:
   - name: Вступительное слово на Я.Субботнике в Киеве
     speaker: Григорий Бакунов
     url: 'https://events.yandex.ru/lib/talks/107/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Асессоры Яндекса: откуда взялись, зачем нужны, как работают'
     speaker: Ольга Онойко
     url: 'https://events.yandex.ru/lib/talks/108/'
-    lang: ru
-    tags:
-      - frontend
   - name: Дизайнер в поиске
     speaker: Настя Ларкина
     url: 'https://events.yandex.ru/lib/talks/109/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'API 2.0: Новые интерфейсы Яндекс.Карт – теперь и на украинском'
     speaker: Александр Зинчук
     url: 'https://events.yandex.ru/lib/talks/110/'
-    lang: ru
-    tags:
-      - frontend
   - name: Используем git без проблем
     speaker: Сергей Сергеев
     url: 'https://events.yandex.ru/lib/talks/112/'
-    lang: ru
-    tags:
-      - frontend
   - name: Зачем и как мы используем jsLint
     speaker: Дмитрий Щадей
     url: 'https://events.yandex.ru/lib/talks/113/'
-    lang: ru
-    tags:
-      - frontend
   - name: Современный «станок» верстальщика
     speaker: 'Евгений Батовский, Николай Птущук'
     url: 'https://events.yandex.ru/lib/talks/114/'
-    lang: ru
-    tags:
-      - frontend
   - name: Настоящее и будущее разработки на Украине
     speaker: Виталий Харисов
     url: 'https://events.yandex.ru/lib/talks/116/'
-    lang: ru
-    tags:
-      - frontend
   - name: Приложения для соцсетей. Универсальные приложения на БЭМ
     speaker: Александр Титула-Бойченко
     url: 'https://events.yandex.ru/lib/talks/117/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'bem server: система сборки фронтенда'
     speaker: Сергей Белов
     url: 'https://events.yandex.ru/lib/talks/118/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'i-bem.js: JavaScript в БЭМ-терминах'
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/120/'
-    lang: ru
-    tags:
-      - frontend
   - name: Используем БЭМ для создания сайтов под iOS/Android
     speaker: Кир Белевич
     url: 'https://events.yandex.ru/lib/talks/121/'
-    lang: ru
-    tags:
-      - frontend
+

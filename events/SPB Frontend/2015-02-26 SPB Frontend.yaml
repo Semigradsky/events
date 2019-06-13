@@ -4,11 +4,6 @@ link: 'https://spb-frontend.ru/meetups/2015-02-26'
 talks:
   - name: 'Быстрый старт: Yeoman, Bower, gulp'
     speaker: Андрей Вдовиченко
-    lang: ru
-    tags:
-      - frontend
   - name: 'Переиспользуемые компоненты: технологии и приёмы разработки'
     speaker: Андрей Складчиков
-    lang: ru
-    tags:
-      - frontend
+

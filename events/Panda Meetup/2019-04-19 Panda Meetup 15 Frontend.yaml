@@ -6,28 +6,17 @@ talks:
     speaker: Михаил Росин
     video: https://www.youtube.com/watch?v=XcfolCa3hcw
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Неуязвимый фронтенд
     speaker: Назым Джумадилова
     video: https://www.youtube.com/watch?v=tvnoPsRW42k
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Вам не нужен SPA
     speaker: Алексей Попков
     video: https://www.youtube.com/watch?v=S1jv4o759gg
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Онлайн-IDE: как и зачем?"
     speaker: Ольга Лесникова
     video: https://www.youtube.com/watch?v=XlKd9_Oe0WE
     presentation:
-    lang: ru
-    tags:
-      - frontend

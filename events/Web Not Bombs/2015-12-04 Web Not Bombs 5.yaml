@@ -6,27 +6,15 @@ talks:
     speaker: Pavel Titenkov
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Introducing to Polymer
     speaker: Егор Мясников
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Promises, from jQuery to Node.js
     speaker: Valentine Nesterov
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Атомарный дизайн и Pattern Lab
     speaker: Max Kovalev
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

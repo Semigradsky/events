@@ -5,32 +5,17 @@ talks:
     speaker: Владимир Петрико
     video: https://www.youtube.com/watch?v=Z5BgrxvLn5A
     presentation: http://rolling-scopes.github.io/slides/rs3/chrome-rdp-api/chrome-remote-debugging-protocol.html
-    lang: ru
-    tags:
-      - frontend
   - name: "SpainJS"
     speaker: 'Андрей Глухманчук, Александр Герасимов, Дмитрий Воробей, Александр Карлович'
     video: https://www.youtube.com/watch?v=Z6zuVuF2QGI
     presentation: https://speakerdeck.com/alexkarlovich/uploaded-favorites-of-spainjs-the-rollingscopes-number-3
-    lang: ru
-    tags:
-      - frontend
   - name: "Browser internals"
     speaker: Дмитрий Воробей
-    lang: ru
-    tags:
-      - frontend
   - name: "Asm.js"
     speaker: Андрей Пальчис
     video: https://www.youtube.com/watch?v=NpDnaRlDpGE
     presentation: https://www.slideshare.net/RollingScopes/asmjs-24648239
-    lang: ru
-    tags:
-      - frontend
   - name: "Graceful Degradation and Progressive Enhancement"
     speaker: Сергей Михайлов
     video: https://www.youtube.com/watch?v=Qe8M8UHbAq4
     presentation: https://www.slideshare.net/RollingScopes/slides-25374625
-    lang: ru
-    tags:
-      - frontend

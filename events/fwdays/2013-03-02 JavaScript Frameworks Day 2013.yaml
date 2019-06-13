@@ -3,33 +3,25 @@ date: 2013-03-02
 talks:
   - name: Amazing UI with CSS and Anima.js
     speaker: Егор Львовский
-    lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2013/review/Amazing-UI-with-CSS-and-Anima-js'
   - name: 'Knockout: как, зачем, почему.'
     speaker: Андрей Листочкин
-    lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2013/review/Knockout'
   - name: Создание интерактивных карт с Leaflet.
     speaker: Владимир Агафонкин
-    lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2013/review/Building-Maps-with-Leaflet'
   - name: 'Опыт разработки мобильного веб приложения с использованием Backbone.js, Require.js, Zepto.js'
     speaker: Павел Юрийчук
-    lang: ru
     url: 'https://frameworksdays.com/event/js-frameworks-day-2013/review/opyt-razrabotki-mobilnogo-web-prilozhenia-s-ispolzovaniem-Backbone-js-Require-js-Zepto-js'
   - name: Native look and feel of mobile JS interfaces with     HTML5 canvas.
     speaker: Денис Радин
-    lang: ru
     url: 'http://frameworksdays.com/event/js-frameworks-day-2013/review/Native-look-and-feel-of-mobile-JS-interfaces-with-HTML5-canvas'
   - name: Expanding Chaplin.js experience. 1 year passed.
     speaker: Егор Назаркин
-    lang: ru
     url: 'http://frameworksdays.com/event/js-frameworks-day-2013/review/Expanding-Chaplin-js-experience-1-year-passed'
   - name: AtomJS и LibCanvas
     speaker: Павел Пономаренко
-    lang: ru
     url: 'http://frameworksdays.com/event/js-frameworks-day-2013/review/AtomJS-LibCanvas'
   - name: Functional Reactive Programming & ClojureScript
     speaker: Александр Соловьев
-    lang: ru
     url: 'http://frameworksdays.com/event/js-frameworks-day-2013/review/Functional-Reactive-Programming-%26-ClojureScript'

@@ -6,20 +6,11 @@ talks:
     speaker: Антон Ляпцев
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Типизация Rest API
     speaker: Максим Шкарбалюк
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Качество кода: внедрение проверок в legacy"
     speaker: Алексей Щербаков
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

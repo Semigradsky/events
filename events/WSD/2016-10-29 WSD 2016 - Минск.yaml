@@ -6,72 +6,45 @@ talks:
     speaker: Павел Ловцевич
     video: https://www.youtube.com/watch?v=4fEqptmymRM
     presentation: https://wsd.events/2016/10/29/pres/custom-properties/
-    lang: ru
-    tags:
-      - frontend
   - name: "Вы не знаете CSS"
     speaker: Антон Немцев
     video: https://www.youtube.com/watch?v=VoA-aQu75Xk
     presentation: https://wsd.events/2016/10/29/pres/you-dont-know-css/
-    lang: ru
-    tags:
-      - frontend
   - name: "Как хакнуть фронтенд"
     speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=HYVXxeSjPK8
     presentation: https://wsd.events/2016/10/29/pres/hacking-frontend/
-    lang: ru
-    tags:
-      - frontend
   - name: "Пишем тесты прямо в браузере"
     speaker: Виталий Потапов
     video: https://www.youtube.com/watch?v=vW4XCF8Kgfc
     presentation: https://wsd.events/2016/10/29/pres/autotester.pdf
-    lang: ru
     tags:
-      - frontend
       - 'testing'
   - name: "Я и ИоТ"
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=9mv-8gSyalU
     presentation: https://wsd.events/2016/10/29/pres/im-in-iot/
-    lang: ru
-    tags:
-      - frontend
   - name: "Клеим будущее с помощью PWA"
     speaker: Максим Юзва
     video: https://www.youtube.com/watch?v=q8RID9nFWNM
     presentation: https://wsd.events/2016/10/29/pres/pwa-future.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Собираем фронтенд с Webpack"
     speaker: Павел Голован
     video: https://www.youtube.com/watch?v=uSYN9Fign-s
     presentation: https://wsd.events/2016/10/29/pres/webpack/
-    lang: ru
-    tags:
-      - frontend
   - name: "Эти страшные буквы MV*"
     speaker: Александра Шинкевич
     video: https://www.youtube.com/watch?v=5WgsKtlHUls
     presentation: https://wsd.events/2016/10/29/pres/scary-mvc/
-    lang: ru
-    tags:
-      - frontend
   - name: "Фронтенд для новичка. Куда идти и что делать?"
     speaker: Любовь Гулько
     video: https://www.youtube.com/watch?v=G9hMm77B1dk
     presentation: https://wsd.events/2016/10/29/pres/frontend-youth.pdf
-    lang: ru
     tags:
-      - frontend
       - soft
   - name: "Старикам здесь не\_место?"
     speaker: 'Олег Мохов, Алексей Симоненко'
     video: https://www.youtube.com/watch?v=ISmD4Lik5oY
     presentation: https://wsd.events/2016/10/29/pres/old-men.pdf
-    lang: ru
     tags:
-      - frontend
       - soft

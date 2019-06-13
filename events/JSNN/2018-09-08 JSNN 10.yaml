@@ -4,31 +4,13 @@ link: 'https://www.it52.info/events/2018-09-08-jsnn-10'
 talks:
   - name: Строим Back-end на node.js, идём в highload
     speaker: Илья Утов
-    lang: ru
-    tags:
-      - frontend
   - name: Управление состоянием в Svelte
     speaker: Павел Малышев
-    lang: ru
-    tags:
-      - frontend
   - name: От чего не спасает Flow
     speaker: Олег Хлевнов
-    lang: ru
-    tags:
-      - frontend
   - name: "Тестирование Angular фронта: из огня да в полымя"
     speaker: Андрей Ермаков
-    lang: ru
-    tags:
-      - frontend
   - name: Обзор фич ESNext (ES7, ES8, ES9)
     speaker: Кирилл Новиков
-    lang: ru
-    tags:
-      - frontend
   - name: Как не писать код самому, делегируем наши проблемы AST
     speaker: Никита Сидоров
-    lang: ru
-    tags:
-      - frontend

@@ -7,11 +7,9 @@ talks:
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/technical-seo-for-javascript-developers'
   - name: The State of Modern JavaScript and Web in 2020 - Real use cases
     speaker: Alexey Kupriyanenko
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/the-state-of-modern-js-and-web-in-2020'
   - name: Why are Angular and React so fast?
     speaker: Max Koretskyi
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/why-are-angular-and-react-so-fast'
   - name: A short history of the web
     speaker: Martin Splitt
@@ -23,7 +21,6 @@ talks:
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/http-headers-for-the-responsible-developer'
   - name: How we have been developing an Offline First application using Persistent Storage
     speaker: Тимофей Лавренюк
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/how-we-have-been-developing-an-offline-first-application'
   - name: How to train your Vue CLI plugin
     speaker: Natalia Tepluhina
@@ -31,7 +28,6 @@ talks:
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/how-to-train-your-vue-cli-plugin'
   - name: One simple animation explained
     speaker: Юрий Артюх
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/one-simple-animation-explained'
   - name: 'Server-side rendering with Angular—be faster and more SEO, CDN and user-friendly!'
     speaker: Maciej Treder
@@ -39,11 +35,9 @@ talks:
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/server-side-rendering-with-angular'
   - name: Делайте из слона муху
     speaker: Вадим Макеев
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/shrink-an-elephant-into-a-fly'
   - name: 'JS on Server: To be or not to be?'
     speaker: Илья Климов
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/js-on-server-to-be-or-not-to-be'
   - name: Web Performance in modern JavaScript world
     speaker: Filip Rakowski
@@ -51,23 +45,18 @@ talks:
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/web-performance-in-modern-javascript-world'
   - name: 'Lost in Space: Web Apps and A11Y'
     speaker: Vitalii Bobrov
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space'
   - name: Looking for the right tech stack for GraphQL application
     speaker: Никита Галкин
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql'
   - name: The Almighty Rabbit Hole
     speaker: Christopher Gannon
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole'
   - name: Beyond The Limitations of Frontend—Onto Fullstack Journey!
     speaker: Ilona Demidenko
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/beyond-the-limitations-of-frontend'
   - name: 'REPL, do you speak it'
     speaker: Александр Соловьев
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/repl'
   - name: 'Reactive Powered: RxJS with Angular Forms'
     speaker: Shmuela Jacobs
@@ -75,7 +64,6 @@ talks:
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/angular-forms'
   - name: Solving behavioral complexity with FRP
     speaker: Oleksii Levzhynskyi
-    lang: ru
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/solving-behavioral-complexity-with-frp'
   - name: Hinting at a better web
     speaker: Christian Heilmann

@@ -6,21 +6,12 @@ talks:
     speaker: Антон Давыдов
     video: https://www.youtube.com/watch?v=gGDYCSi37d4
     presentation: http://tver.io/meetup/2019/02-polyglot/slides/2019-polyglot-davydovanton.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Про чешское светлое
     speaker: Александр Шушунов
     video: https://www.youtube.com/watch?v=6pkHf2tY4Tc
     presentation: http://tver.io/meetup/2019/02-polyglot/slides/2019-ashushunov-svelte-first-try.pdf
     code: https://github.com/AlexanderShushunov/guess_who
-    lang: ru
-    tags:
-      - frontend
   - name: ETL-pipeline из Go и лямбдок в облаке
     speaker: Николай Кальгин
     video: https://www.youtube.com/watch?v=e3YcNhV5iFk
     presentation: http://tver.io/meetup/2019/02-polyglot/slides/2019-kalgin-go-lambda-talk.pdf
-    lang: ru
-    tags:
-      - frontend

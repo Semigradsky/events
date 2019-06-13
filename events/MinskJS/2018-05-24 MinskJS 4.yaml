@@ -8,24 +8,17 @@ talks:
     speaker: Илья Запруцкий
     video: https://www.youtube.com/watch?v=4diXbLnYrMs
     presentation: https://drive.google.com/file/d/174peSi-zvTuBB9g_Sgf9qyZnJCY9T4UG/view
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Electron: Разработка Desktop-приложений, используя HTML, CSS и JavaScript"
     speaker: Дмитрий Васин
     video: https://www.youtube.com/watch?v=AfAPjvp948I
     presentation: https://docs.google.com/presentation/d/1AoGmzhulv7YYJCXi_AyUYLrrJ5Dhj-RmrpR9i41_PUk/edit
-    lang: ru
     tags:
-      - 'frontend'
       - 'desktop'
   -
     name: "Автостопом по Puppeteer"
     speaker: Егор Возиянов
     video: https://www.youtube.com/watch?v=iw7XM5EBbGs
     presentation: http://slides.com/fasvald/hitchhikingpuppeteer#/
-    lang: ru
     tags:
-      - 'frontend'
       - 'testing'

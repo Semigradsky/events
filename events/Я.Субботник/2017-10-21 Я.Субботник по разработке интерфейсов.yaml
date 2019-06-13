@@ -5,42 +5,22 @@ talks:
   - name: Поговорите с пользователем
     speaker: Роман Парадеев
     url: 'https://events.yandex.ru/lib/talks/5129/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как мы тестируем интерфейсы Поиска
     speaker: Сергей Бережной
     url: 'https://events.yandex.ru/lib/talks/5112/'
-    lang: ru
-    tags:
-      - frontend
   - name: C — consistency или переиспользование кода в особо крупных размерах
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/5130/'
-    lang: ru
-    tags:
-      - frontend
   - name: БЭМ ❤️ webpack
     speaker: Василий Логиневский
     url: 'https://events.yandex.ru/lib/talks/5131/'
-    lang: ru
-    tags:
-      - frontend
   - name: Чаты с найденными организациями прямо на yandex.ru
     speaker: Александр Сивашёв
     url: 'https://events.yandex.ru/lib/talks/5114/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'mobx-state-tree: как подружить mobx и redux'
     speaker: Азат Разетдинов
     url: 'https://events.yandex.ru/lib/talks/5110/'
-    lang: ru
-    tags:
-      - frontend
   - name: Еще раз про сенсорные события
     speaker: Всеволод Шмыров
     url: 'https://events.yandex.ru/lib/talks/5111/'
-    lang: ru
-    tags:
-      - frontend
+

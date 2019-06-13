@@ -6,20 +6,11 @@ talks:
     speaker: Николай Шабалин
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Ember: Мифы"
     speaker: Александр Канунников
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Доклад-сюрприз
     speaker: '?'
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

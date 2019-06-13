@@ -6,28 +6,17 @@ talks:
     speaker: Погорелов Александр
     video: https://www.youtube.com/watch?v=FTfwySjsfLw
     presentation: https://yadi.sk/i/slPk-trD3V2YB5
-    lang: ru
     tags:
-      - frontend
       - 'React'
   - name: Угловатый Redux. Реактивные приложения на Angular\NGRX.
     speaker: Демянюк Игорь
     video: https://www.youtube.com/watch?v=cjc6o1b9Rac
     presentation: https://yadi.sk/i/o3M0QU6d3V2YiV
-    lang: ru
-    tags:
-      - frontend
   - name: GraphQL – с чего начать?
     speaker: Шалаев Павел
     video: https://www.youtube.com/watch?v=Nzg2SrHku7Y
     presentation: http://slides.com/lawrentiy/deck-6
-    lang: ru
-    tags:
-      - frontend
   - name: Оптимизация графики на фронтенде
     speaker: Марченко Николай
     video: https://www.youtube.com/watch?v=dtSCHVygA0M
     presentation: http://slides.com/nickolaymarchenko/graphics#/
-    lang: ru
-    tags:
-      - frontend

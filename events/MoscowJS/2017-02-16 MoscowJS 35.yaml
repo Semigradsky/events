@@ -5,27 +5,16 @@ talks:
     speaker: Виктор Розаев
     video: 'https://youtu.be/W4Eboykd8XY?t=1049'
     presentation: 'https://www.slideshare.net/moscowjs/public-api'
-    lang: ru
-    tags:
-      - frontend
   - name: Как подружить дизайнеров с разработчиками? Система прототипирования на основе WebComponents.
     speaker: Виталий Грин
     video: 'https://youtu.be/W4Eboykd8XY?t=2502'
     presentation: 'https://www.dropbox.com/s/guhz9y2frmy27rz/blueprint-moscow-js-feb-2017.key?dl=1'
-    lang: ru
-    tags:
-      - frontend
   - name: TypeScript 2 in action
     speaker: Александр Русаков
     video: 'https://youtu.be/W4Eboykd8XY?t=5640'
     presentation: 'https://www.slideshare.net/moscowjs/typescript-2-in-action-72453488'
-    lang: ru
-    tags:
-      - frontend
   - name: Redux-saga естественный код
     speaker: Евгений Евсеев
     video: 'https://youtu.be/W4Eboykd8XY?t=6868'
     presentation: 'http://slides.com/pelid80/redux-saga'
-    lang: ru
-    tags:
-      - frontend
+

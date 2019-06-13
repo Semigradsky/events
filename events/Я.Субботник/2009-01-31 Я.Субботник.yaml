@@ -5,42 +5,22 @@ talks:
   - name: Вёрстка в IntelliJ IDEA
     speaker: Вадим Макишвили
     url: 'https://events.yandex.ru/lib/talks/713/'
-    lang: ru
-    tags:
-      - frontend
   - name: API Яндекс.Карт
     speaker: Фёдор Голубев
     url: 'https://events.yandex.ru/lib/talks/714/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'CSS Framework своими руками: теория'
     speaker: Виталий Харисов
     url: 'https://events.yandex.ru/lib/talks/496/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'CSS Framework своими руками: практика'
     speaker: Виталий Харисов
     url: 'https://events.yandex.ru/lib/talks/498/'
-    lang: ru
-    tags:
-      - frontend
   - name: С ножом против паровоза. Оптимизация и нарезка графики для профессиональной вёрстки
     speaker: Вадим Макеев
     url: 'https://events.yandex.ru/lib/talks/499/'
-    lang: ru
-    tags:
-      - frontend
   - name: Вёрстка для мобильных устройств
     speaker: Наталия Макишвили
     url: 'https://events.yandex.ru/lib/talks/501/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Выкладка вёрстки — просто, быстро, безопасно'
     speaker: Евгения Фирсова
     url: 'https://events.yandex.ru/lib/talks/502/'
-    lang: ru
-    tags:
-      - frontend
+

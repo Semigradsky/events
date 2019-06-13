@@ -6,90 +6,58 @@ talks:
     speaker: Radoslav Stankov
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: A deep dive into the web-audio API
     speaker: Sam Bellen
     video:
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: The rise of Javascript Robotics
     speaker: Markus Leutwyler
     video:
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: Bring WEB to the game client
     speaker: Maxim Schepelin
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Accessibility as Performance
     speaker: Estelle Weyl
     video:
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: Квант изменения. Реактивные реакции на React.
     speaker: Антон Киршанов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: 8 1/2 things about serverless
     speaker: Slobodan Stojanović
     video:
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: Почему мне зашел PWA?
     speaker: Тимофей Лавренюк
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Feedback first
     speaker: Ilya Birman
     video:
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: Создаём виртуальный тур
     speaker: Игорь Еростенко
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Юнит тестирование для ленивых
     speaker: Владимир Дашукевич
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: The Compiler & You - Pleasant PureScript
     speaker: Christoph Hegemann
     video:
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: Build your own JavaScript powered Robot [Workshop]
     speaker: Markus Leutwyler
     video:
     presentation:
     lang: en
-    tags:
-      - frontend

@@ -3,22 +3,12 @@ date: 2019-03-30
 talks:
   - name: "PWA using Angular Service Worker"
     speaker: Viktoryia Verasava
-    lang: ru
     tags:
-      - frontend
       - 'Angular'
   - name: "Стейт менеджмент для ленивых"
     speaker: Aliaksandr Famchankou
-    lang: ru
-    tags:
-      - frontend
   - name: "Оптимизации в web"
     speaker: Mikhail Dziarkach
-    lang: ru
-    tags:
-      - frontend
   - name: "JS Machine Talk"
     speaker: 'Yury Tatarynovich, Katsiaryna Sivakova'
-    lang: ru
-    tags:
-      - frontend
+

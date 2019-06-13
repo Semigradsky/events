@@ -6,20 +6,11 @@ talks:
     speaker: Алексей Сазыкин
     video: https://www.youtube.com/watch?v=KCDPM98WvtU
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Основные возможности CSS Grid и их применение в боевых проектах
     speaker: Дарья Сабурова
     video: https://www.youtube.com/watch?v=lxZGD-zSYs8
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Инструменты для анализа веб-перформанса: обзор инструментов, применение, профит"
     speaker: Евгений Чекан
     video: https://www.youtube.com/watch?v=eudKdRycuWk
     presentation:
-    lang: ru
-    tags:
-      - frontend

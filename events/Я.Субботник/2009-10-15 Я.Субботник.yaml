@@ -5,48 +5,25 @@ talks:
   - name: 'Вступительное слово: Что такое Яндекс для Казахстана? '
     speaker: Илья Сегалович
     url: 'https://events.yandex.ru/lib/talks/763/'
-    lang: ru
-    tags:
-      - frontend
   - name: Поиск Яндекса в регионах. Яндекс.Вебмастер и организация поиска по сайту
     speaker: Александр Садовский
     url: 'https://events.yandex.ru/lib/talks/764/'
-    lang: ru
-    tags:
-      - frontend
   - name: Яндекс.Почта
     speaker: Антон Забанных
     url: 'https://events.yandex.ru/lib/talks/765/'
-    lang: ru
-    tags:
-      - frontend
   - name: Виджеты для главной страницы Яндекса. Кто у кого «отнимает» аудиторию?
     speaker: Александр Ларьяновский
     url: 'https://events.yandex.ru/lib/talks/767/'
-    lang: ru
-    tags:
-      - frontend
   - name: Виджеты для главной страницы Яндекса
     speaker: Вера Лейзерович
     url: 'https://events.yandex.ru/lib/talks/768/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Новости: как и зачем'
     speaker: Татьяна Исаева
     url: 'https://events.yandex.ru/lib/talks/769/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Яндекс.Карты: между пользователем и разработчиком'
     speaker: 'Фёдор Голубев, Леонид Шныр'
     url: 'https://events.yandex.ru/lib/talks/771/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Анализ эффективности сайтов: Яндекс.Метрика '
     speaker: Антон Попов
     url: 'https://events.yandex.ru/lib/talks/772/'
-    lang: ru
-    tags:
-      - frontend
+

@@ -4,18 +4,10 @@ talks:
   - name: "Железо, как хобби: от светодиода до \"умного\" дома"
     speaker: Андрей Ворошков
     video: https://www.youtube.com/watch?v=rcM1hNBzTD0
-    lang: ru
-    tags:
-      - frontend
   - name: "Программирование Parrot AR Drone на JS"
     speaker: 'Дмитрий Герасимов, Кирилл Демура'
     video: https://www.youtube.com/watch?v=pdVF82loP6Q#t=33m29s
-    lang: ru
-    tags:
-      - frontend
   - name: "Leapmotion, Tessel demos"
     speaker: Дмитрий Герасимов
     video: https://www.youtube.com/watch?v=pdVF82loP6Q
-    lang: ru
-    tags:
-      - frontend
+

@@ -6,20 +6,11 @@ talks:
     speaker: Дмитрий Кайгородов
     video: https://www.youtube.com/watch?v=bbJ7lWG6A2w
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: XSS атаки и методы борьбы с ними
     speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=h9iQMmjS5ec
     presentation: http://life777.github.io/https/index.html
-    lang: ru
-    tags:
-      - frontend
   - name: Как не изобретать велосипед, или кратко о секретах создания удобного веб-интерфейса
     speaker: Елена Язвинская
     video: https://www.youtube.com/watch?v=9dM85f3T70w
     presentation:
-    lang: ru
-    tags:
-      - frontend

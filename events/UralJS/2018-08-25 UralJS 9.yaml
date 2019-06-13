@@ -5,13 +5,8 @@ talks:
   - name: Click the button. The hard way
     speaker: Дима Лазарев
     video: https://www.youtube.com/watch?v=q0jW1ljHjXM
-    lang: ru
     tags:
-      - frontend
       - 'testing'
   - name: Логирование ошибок на фронтенде
     speaker: Антон Конев
     video: https://www.youtube.com/watch?v=z8Ywk-KLGHA
-    lang: ru
-    tags:
-      - frontend

@@ -6,27 +6,15 @@ talks:
     speaker: Дима Королев
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Дизайн-система Mail.Ru Paradigm​
     speaker: Юрий Ветров
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Использование CSS Grid Layout​ с поддержкой IE​
     speaker: Евгений Петухов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Типизация в CSS — способ усложнить себе жизнь?
     speaker: Людмила Мжачих
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

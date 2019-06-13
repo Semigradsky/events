@@ -5,30 +5,16 @@ talks:
   - name: Вёрстка в IntelliJ IDEA
     speaker: Вадим Макишвили
     url: 'https://events.yandex.ru/lib/talks/727/'
-    lang: ru
-    tags:
-      - frontend
   - name: С ножом против паровоза. Оптимизация и нарезка графики для профессиональной вёрстки
     speaker: Вадим Макеев
     url: 'https://events.yandex.ru/lib/talks/729/'
-    lang: ru
-    tags:
-      - frontend
   - name: Вёрстка элементов страниц в общем виде
     speaker: Виталий Харисов
     url: 'https://events.yandex.ru/lib/talks/731/'
-    lang: ru
-    tags:
-      - frontend
   - name: API Яндекс.Карт
     speaker: Александр Тармолов
     url: 'https://events.yandex.ru/lib/talks/733/'
-    lang: ru
-    tags:
-      - frontend
   - name: Отображение групп разнородных объектов на Яндекс.Картах
     speaker: Александр Тармолов
     url: 'https://events.yandex.ru/lib/talks/735/'
-    lang: ru
-    tags:
-      - frontend
+

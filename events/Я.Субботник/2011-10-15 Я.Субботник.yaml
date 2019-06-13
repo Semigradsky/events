@@ -5,72 +5,37 @@ talks:
   - name: 'Яндекс в Казахстане '
     speaker: Жанат Абылкасым
     url: 'https://events.yandex.ru/lib/talks/196/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Качество поиска: экспертные оценки и исследование пользовательского поведения'
     speaker: Ольга Мегорская
     url: 'https://events.yandex.ru/lib/talks/197/'
-    lang: ru
-    tags:
-      - frontend
   - name: Веб-виджеты Яндекса и с чем их едят
     speaker: Евгений Бордунов
     url: 'https://events.yandex.ru/lib/talks/198/'
-    lang: ru
-    tags:
-      - frontend
   - name: Архитектура фронтенда Яндекс.Почты
     speaker: Алексей Андросов
     url: 'https://events.yandex.ru/lib/talks/200/'
-    lang: ru
-    tags:
-      - frontend
   - name: Куда движется верстка и верстальщики Яндекса
     speaker: Олег Мохов
     url: 'https://events.yandex.ru/lib/talks/201/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Touch it: новое мобильное направление веб-разработки'
     speaker: 'Сергей Горобцов, Кир Белевич'
     url: 'https://events.yandex.ru/lib/talks/202/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'От Ванкувера до Азиады: как мы делаем спортивные проекты'
     speaker: Иван Бибилов
     url: 'https://events.yandex.ru/lib/talks/204/'
-    lang: ru
-    tags:
-      - frontend
   - name: Зачем и когда мы проводим нагрузочное тестирование
     speaker: Нурлан Нугуманов
     url: 'https://events.yandex.ru/lib/talks/205/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Лунапарк: теория и практика'
     speaker: Ерлан Аманбаев
     url: 'https://events.yandex.ru/lib/talks/206/'
-    lang: ru
-    tags:
-      - frontend
   - name: Основные проблемы и грабли в разработке видеохостингов
     speaker: Алексей Ефимов
     url: 'https://events.yandex.ru/lib/talks/208/'
-    lang: ru
-    tags:
-      - frontend
   - name: Yandex MapKit для Android OS в примерах
     speaker: Максим Хромцов
     url: 'https://events.yandex.ru/lib/talks/209/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как мы делаем панорамы улиц
     speaker: Максим Хохлов
     url: 'https://events.yandex.ru/lib/talks/210/'
-    lang: ru
-    tags:
-      - frontend
+

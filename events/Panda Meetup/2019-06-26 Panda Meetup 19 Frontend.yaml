@@ -6,13 +6,7 @@ talks:
     speaker: Александр Шамшурин
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Data-driven Apps with Relay Modern
     speaker: Александр Руденко
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

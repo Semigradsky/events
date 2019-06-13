@@ -8,21 +8,16 @@ talks:
     presentation:
     lang: uk
     tags:
-      - frontend
       - Angular
   - name: "Angular + RxJS = BFF"
     speaker: Сергей Кошман
     video: https://www.youtube.com/watch?v=YN1ZRorvd00
     presentation:
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "Реализация адаптивного дизайна с помощью @angular/cdk"
     speaker: Роман Кисенко
     video: https://www.youtube.com/watch?v=YN1ZRorvd00
     presentation:
-    lang: ru
     tags:
-      - frontend
       - Angular

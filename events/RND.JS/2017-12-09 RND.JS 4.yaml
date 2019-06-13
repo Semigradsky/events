@@ -6,20 +6,11 @@ talks:
     speaker: Денис Ильин
     video: https://www.youtube.com/watch?v=bO3gwHyMHgY
     presentation: https://www.dropbox.com/s/mc7brast2glstc7
-    lang: ru
-    tags:
-      - frontend
   - name: Best Practices
     speaker: Сергей Бережной
     video: https://youtu.be/bO3gwHyMHgY?t=2943
     presentation: https://yadi.sk/d/8TO6w8RT3QTjoe
-    lang: ru
-    tags:
-      - frontend
   - name: Утечки памяти в JavaScript
     speaker: Сергей Иванов
     video: https://youtu.be/bO3gwHyMHgY?t=7415
     presentation: http://slides.com/xufocoder/memory-leaks-in-the-javascript-4
-    lang: ru
-    tags:
-      - frontend

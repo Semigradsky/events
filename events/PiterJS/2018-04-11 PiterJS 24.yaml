@@ -6,20 +6,12 @@ talks:
     speaker: Михаил Баранов
     video: 'https://www.youtube.com/watch?v=kDFEsjaRScM'
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/24/baranov.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: HTML формы как таковые
     speaker: Артём Пендюрин
     video: 'https://www.youtube.com/watch?v=TO5kl_GBQ20'
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/24/pendurin.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Трансдьюсеры в JS
     speaker: Игорь Коновалов
     video: 'https://www.youtube.com/watch?v=CzY1fBeT0kY'
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/24/konovalov.html
-    lang: ru
-    tags:
-      - frontend
+

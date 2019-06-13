@@ -6,48 +6,27 @@ talks:
     speaker: Владимир Кузнецов
     video: https://youtu.be/o99D6zgi31g
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Tips and tricks from school
     speaker: Владимир Куликов
     video: https://youtu.be/0Ol1XHk3vsA
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Figma to React: система эффективной доставки изменений дизайна в код"
     speaker: Александр Каменяр
     video: https://youtu.be/0Ol1XHk3vsA
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Будет ли существовать профессия веб-разработчика в будущем?
     speaker: Дарья Пушкарская
     video: https://youtu.be/0Ol1XHk3vsA
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Сложная работа со сложными данными — SQL(подробные) запросы для JSON
     speaker: Алексей Охрименко
     video: https://youtu.be/o99D6zgi31g
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: От компонентов к архитектуре
     speaker: Иван Никишкин
     video: https://youtu.be/o99D6zgi31g
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: From bloody to sweety enterprise
     speaker: Зар Захаров
     video: https://youtu.be/o99D6zgi31g
     presentation:
-    lang: ru
-    tags:
-      - frontend

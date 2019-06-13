@@ -6,77 +6,49 @@ talks:
     speaker: Илья Пухальский
     video: https://www.youtube.com/watch?v=zUJ2JuyWv7E
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Getting the Most out of Your Tools
     speaker: Krzysztof Szafranek
     video: https://www.youtube.com/watch?v=OA3UYqjvs1Y
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: Writing RESTful web services using Node.js
     speaker: Jakob Mattsson
     video: https://www.youtube.com/watch?v=DomgE7AzjWc
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: Промедление смерти подобно [Воркшоп]
     speaker: Александр Карлович
     video: https://www.youtube.com/watch?v=07jvRp_anBQ
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: ​"Zombiecode"
     speaker: Marco Cedaro
     video: https://www.youtube.com/watch?v=rX5_UPVouhU
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: ​​"Full stack JavaScript -- the folly of choice"
     speaker: Олег Подсечин
     video: https://www.youtube.com/watch?v=-oQHOo0VSkw
     presentation:
     lang: en
     tags:
-      - frontend
       - 'Angular'
   - name: ​​"Эффективное управление асинхронным кодом в javascript"
     speaker: Дмитрий Петров
     video: https://www.youtube.com/watch?v=FyCkQuF3-qM
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: ​"Emmet — инструмент для веб-разработчика"​
     speaker: Сергей Чикуенок
     video: https://www.youtube.com/watch?v=reQ-GIUk2y8
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Научный дизайн
     speaker: Денис Мишунов
     video: https://www.youtube.com/watch?v=S6PQaiRl98c
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Web-app in 10 minuts with Metheor.js
     speaker: Александр Худенко
     video: https://www.youtube.com/watch?v=qFTqQ-Luwdw
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Building rich one-page applications with Ember.js
     speaker: Сергей Борисюк
     video: https://www.youtube.com/watch?v=AFncEM4rBw8
     presentation:
-    lang: ru
-    tags:
-      - frontend

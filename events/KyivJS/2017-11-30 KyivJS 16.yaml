@@ -6,27 +6,15 @@ talks:
     speaker: Oleksandr Skachkov
     video: https://www.youtube.com/watch?v=ORi-6-KXUHQ&list=PLxw9RJPDS60of87ljedKgwU5NyeM-nlpB&index=2&t=0s
     presentation: https://docs.google.com/presentation/d/1b9UwylxPZ_91kjPYZUpeNWF3p9XDOtV-AXOcufbI75E/edit
-    lang: ru
-    tags:
-      - frontend
   - name: Garbage collection in V8 VM
     speaker: Oleksandr Syrotenko
     video: https://www.youtube.com/watch?v=t4NXCZWdfkI&list=PLxw9RJPDS60of87ljedKgwU5NyeM-nlpB&index=3&t=0s
     presentation: https://drive.google.com/file/d/0B4xFRFS363tpMkR0UlE4OGNMd1FNV3hOSnZrUTZneWxEa0NN/view
-    lang: ru
-    tags:
-      - frontend
   - name: Как создать стартап, который взлетит
     speaker: Anatoly Malinovsky
     video: https://www.youtube.com/watch?v=JSqUYuIOHE8&list=PLxw9RJPDS60of87ljedKgwU5NyeM-nlpB&index=3
     presentation: https://drive.google.com/file/d/1JyFWNT612iFJn3guBDHmsSs3FUFy5nca/view
-    lang: ru
-    tags:
-      - frontend
   - name: "Common Lisp: 10 Things I Didn't Know About"
     speaker: Александр Лапшин
     video: https://www.youtube.com/watch?v=3WzDXf135N8&list=PLxw9RJPDS60of87ljedKgwU5NyeM-nlpB&index=4
     presentation: http://sudodoki.github.io/slides/lisp-%E2%9A%A1%EF%B8%8F/#/
-    lang: ru
-    tags:
-      - frontend

@@ -9,211 +9,126 @@ talks:
     video: https://youtu.be/YNAtuKUx9Og
     presentation: https://drive.google.com/file/d/1B8Y8SUTFublaR5jovGYHOzdJqeNLSIWR/view
     lang: en
-    tags:
-      - frontend
   - name: "Сказ о microservices"
     speaker: Konstantin Krivlenia
     video: https://youtu.be/VohMqI_HY1I
-    lang: ru
-    tags:
-      - frontend
   - name: "Cross browser extensions - lets make one"
     speaker: Trishul Goel
     video: https://youtu.be/13rl5j24BbY
     lang: en
-    tags:
-      - frontend
   - name: "Introduction to Micro Frontends"
     speaker: Ivan Jovanovic
     video: https://youtu.be/LH3QoDWAD8k
     presentation: https://speakerdeck.com/ivanjov/introduction-to-micro-frontends-rsconf-minsk-2018
     lang: en
-    tags:
-      - frontend
   - name: "Пробуем Flow в бою"
     speaker: Александр Шушунов
     video: https://youtu.be/xSHPFcdVj2A
     presentation: https://drive.google.com/file/d/1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP/view
-    lang: ru
-    tags:
-      - frontend
   - name: "How to hack a node app?"
     speaker: Asim Hussain
     video: https://youtu.be/_P5aiH1RLOI
     presentation: https://speakerdeck.com/jawache/how-to-hack-a-node-app-at-rollingscopes-2018-in-minsk-belarus
     lang: en
-    tags:
-      - frontend
   - name: "Что не так с мобильным вебом"
     speaker: Денис Ильин
     video: https://youtu.be/5aNhBdyv9-4
     presentation: https://www.dropbox.com/s/ea1d464ozfwazik/%D0%94%D0%B5%D0%BD%D0%B8%D1%81%20%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%20-%20%D0%A7%D1%82%D0%BE%20%D0%BD%D0%B5%20%D1%82%D0%B0%D0%BA%20%D1%81%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D0%B2%D0%B5%D0%B1%D0%BE%D0%BC%20RSConf.pdf?dl=0
-    lang: ru
-    tags:
-      - frontend
   - name: "Journey through VR and AR with React"
     speaker: Tomasz Łakomy
     video: https://youtu.be/2G6Eo6Z9n9I
     presentation: https://tlakomy.github.io/react-vr-ar/#/
     lang: en
-    tags:
-      - frontend
   - name: "How to make mobile web apps better with Web APIs"
     speaker: Тимофей Лавренюк
     video: https://youtu.be/AlRCcx5g3L4
-    lang: ru
-    tags:
-      - frontend
   - name: "Rock’n’scroll"
     speaker: Анна Селезнёва
     video: https://youtu.be/oBkcozjgtuA
     presentation: http://askd.rocks/pres/scroll/
-    lang: ru
-    tags:
-      - frontend
   - name: "Beyond React"
     speaker: Marek Piasecki
     video: https://youtu.be/b6vD9ASIoxo
     presentation: https://drive.google.com/open?id=1jMPZKs2ORGZVsg5mSir9v5QNMlgURMzm
     lang: en
-    tags:
-      - frontend
   - name: "On JAM Stack Architectures"
     speaker: Ilya Pukhalski
     video: https://youtu.be/s-v3WkIyUck
     lang: en
-    tags:
-      - frontend
   - name: "Stream API, through Redux-Observable in Electron-based app"
     speaker: Алесь Цвиль
     video: https://youtu.be/57m27q_xE68
-    lang: ru
-    tags:
-      - frontend
   - name: "Как заработать больше в фронтенде"
     speaker: Alexey Migutsky
     video: https://youtu.be/A2RNBIHe8t0
     presentation: http://slides.com/mr-mig/secret#/
-    lang: ru
     tags:
-      - frontend
       - soft
   - name: "Navigating the Frontend landscape without encountering JS fatigue"
     speaker: Pavel Birukou
     video: https://youtu.be/p7h8hMnjF4I
-    lang: ru
-    tags:
-      - frontend
   - name: "Evolution of Web Perfomance"
     speaker: Denis Artyuhovich
     video: https://youtu.be/BIJF0-FyV8M
-    lang: ru
-    tags:
-      - frontend
   - name: "All-You-Can-Eat-Types: Monad Buffet"
     speaker: Александр Герасимов
     video: https://youtu.be/gpd_vwQmonM
-    lang: ru
-    tags:
-      - frontend
   - name: "Как рефакторить и оставаться в живых? (Рефакторинг клиентского кода)"
     speaker: Irina Levina
     video: https://youtu.be/10NIA60SLj4
-    lang: ru
-    tags:
-      - frontend
   - name: "Защита сервиса при помощи CSP"
     speaker: Vsevolod Shmyrov
     video: https://youtu.be/W41Pn9gimYw
     presentation: https://drive.google.com/file/d/1whGimZU-8h1Ham6tK_G1ZxAGUM-SSHE3/view
-    lang: ru
-    tags:
-      - frontend
   - name: "How developers can upgrade their visual design skills for better front end development"
     speaker: Tomasz Jonasz Kujawski
     video: https://youtu.be/V5enef11Bjw
     presentation: https://bit.ly/2Ejh2Co
     lang: en
-    tags:
-      - frontend
   - name: "Когда продуктов много, а дизайнеров чуть-чуть"
     speaker: Vitali Novikau
     video: https://youtu.be/_qBJvY_kbyU
-    lang: ru
-    tags:
-      - frontend
   - name: "DI: DIY"
     speaker: James Akwuh
     video: https://youtu.be/qQnzVTOqzio
-    lang: ru
-    tags:
-      - frontend
   - name: "The elegance of decorated Redux"
     speaker: Ilja Satchok
     video: https://youtu.be/NaEiH3Z1qqI
     lang: en
-    tags:
-      - frontend
   - name: "Ресерчили-ресерчили, да не выресерчавали"
     speaker: Dzmitry Vanitski
     video: https://youtu.be/hMNys-hRrmI
     presentation: https://www.dropbox.com/s/a4rh08n5mjwyrsm/RS_Gap_presentation.pdf?dl=0
-    lang: ru
-    tags:
-      - frontend
   - name: "How to improve test coverage up to 80% with generated unit testing approach and be calm."
     speaker: Aliaksandr Pasynkau
     video: https://youtu.be/V-6hEsziY8M
     code: 'https://github.com/aliaksandr-master/react-master-boilerplate'
-    lang: ru
-    tags:
-      - frontend
   - name: "И снова телевизоры!"
     speaker: Egor Malkevich
     video: https://youtu.be/g7OBtXP69oQ
-    lang: ru
-    tags:
-      - frontend
   - name: "Codemods и трансформация JavaScript кода"
     speaker: Михаил Гатилов
     video: https://youtu.be/p8F-UIzuJtA
     presentation:
       - 'https://drive.google.com/file/d/1Q6lGvwp8EXmrRXZ55IdVW3U39fo2J9ED/view'
       - 'https://docs.google.com/document/d/1-vjXp3NApU0YGiClv7shzNBRxH78qnc91e72tX5DjO8/edit'
-    lang: ru
-    tags:
-      - frontend
   - name: "Ускорение UI тестов"
     speaker: Vasiliy Vanchuk
     video: https://youtu.be/Vh7vXXN599s
     presentation: http://slides.com/vvscode/be-mock#/
-    lang: ru
-    tags:
-      - frontend
   - name: "Дизайнерская неожиданность"
     speaker: Yauheniya Zhur
     video: https://youtu.be/OIs_03m_ED4
     presentation: https://drive.google.com/file/d/1G7yxWpOyOUu90ZI2xa76W_N9Abj3kMMF/view
-    lang: ru
-    tags:
-      - frontend
   - name: "Front-end для блокчейн проекта децентрализованной исследовательской платформы"
     speaker: Alex Shkorh
     video: https://youtu.be/oyjsUbv97yw
-    lang: ru
-    tags:
-      - frontend
   - name: "Разработка редактора документов"
     speaker: Dmitry Volokh
     video: https://youtu.be/LKBC2Gr5Wgw
     presentation: https://docs.google.com/presentation/d/1zFw-FwmHuyEizBoee5ZCYio0yKvZLT426pt3lQoLImI/edit#slide=id.p4
-    lang: ru
-    tags:
-      - frontend
   - name: "Workshop: Думай, как дизайнер"
     speaker: 'Kate Bosakova, Krystsina Svirydzenka, Hanna Kolesava, Svetlana Jeltok'
     video: https://youtu.be/x1vAevI5kIg
     presentation: https://drive.google.com/file/d/1md-vjkyticXMiuZ5H5WyxBUc21eSY40U/view
-    lang: ru
-    tags:
-      - frontend
+

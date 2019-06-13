@@ -3,18 +3,11 @@ date: 2018-10-17
 talks:
   - name: "How to build your own database"
     speaker: Кирилл Кныш
-    lang: ru
-    tags:
-      - frontend
   - name: "Migrating AngularJS to Angular. Pitfalls you didn't expect!"
     speaker: Тимофей Яценко
-    lang: ru
     tags:
-      - frontend
       - 'Angular'
   - name: "Snapshot testing. Just do it"
     speaker: Денис Кузин
-    lang: ru
     tags:
-      - frontend
       - 'testing'

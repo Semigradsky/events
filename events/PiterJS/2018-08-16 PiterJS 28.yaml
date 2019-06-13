@@ -6,20 +6,12 @@ talks:
     speaker: Антон Плешивцев
     video: https://www.youtube.com/watch?v=bcNDItJjnmk
     presentation: https://fs.piterjs.org/events/28/pleshivtsev.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Введение в доступность
     speaker: Михаил Андриевский
     video: 'https://www.youtube.com/watch?v=jzHW4zdirsY'
     presentation: https://fs.piterjs.org/events/28/andrievskiy.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Применение Logux
     speaker: Николай Говоров
     video: 'https://www.youtube.com/watch?v=xbuxaQGRnpg'
     presentation: https://fs.piterjs.org/events/28/govorov.pdf
-    lang: ru
-    tags:
-      - frontend
+

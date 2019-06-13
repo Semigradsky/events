@@ -3,22 +3,11 @@ date: 2014-03-27
 talks:
   - name: "Экзотические и полезные web API"
     speaker: Дмитрий Дудин
-    lang: ru
-    tags:
-      - frontend
   - name: "Лямбда-исчисление"
     speaker: Владимир Абрамчук
-    lang: ru
-    tags:
-      - frontend
   - name: "Google Glass"
     speaker: 'Егор Мясников, Михаил Ларченко'
-    lang: ru
-    tags:
-      - frontend
   - name: "JavaScript Linters"
     speaker: Алексей Шиткин
     presentation: http://rolling-scopes.github.io/slides/rs9/JavaScript-Linters/slides.html
-    lang: ru
-    tags:
-      - frontend
+

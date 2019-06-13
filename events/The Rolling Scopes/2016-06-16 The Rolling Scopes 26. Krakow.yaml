@@ -3,17 +3,9 @@ date: 2016-06-16
 talks:
   - name: "TypeScript and what's the hack Javascript"
     speaker: Вадим Якушев
-    lang: ru
     tags:
-      - frontend
       - TypeScript
   - name: "Virtual Augmented Mixed Reality: Day 0"
     speaker: Павел Юхнович
-    lang: ru
-    tags:
-      - frontend
   - name: "3D visualization of datasets in browsers"
     speaker: Александр Пастухов
-    lang: ru
-    tags:
-      - frontend

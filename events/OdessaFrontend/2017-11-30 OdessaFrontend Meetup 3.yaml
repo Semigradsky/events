@@ -6,22 +6,14 @@ talks:
     speaker: Вадим Кириленко
     video: https://youtu.be/kFEIC59Kjyk
     presentation: https://www.slideshare.net/odessafrontend/digital-transformation-change-or-die-odessafrontend-meetup-3
-    lang: ru
-    tags:
-      - frontend
   - name: IMG и BG
     speaker: Дмитрий Крулькевич
     video: https://youtu.be/OPzMWFZkj1Y
     presentation: https://odessafrontend.github.io/IMGvsBG/
-    lang: ru
-    tags:
-      - frontend
   - name: Использование Typescript в React
     speaker: Валерий Доника
     video: https://youtu.be/Ob2dB447P4I
     code: https://github.com/DonikaV/ciklum-ts
-    lang: ru
     tags:
-      - frontend
       - TypeScript
       - 'React'

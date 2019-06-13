@@ -4,108 +4,55 @@ talks:
   - name: "Вызов принят"
     speaker: Анна Селезнёва
     presentation: https://wsd.events/2015/10/31/pres/challenge/
-    lang: ru
-    tags:
-      - frontend
   - name: "СSS Modules. Предотвращая проблемы"
     speaker: Павел Ловцевич
     presentation: https://wsd.events/2015/10/31/pres/css-modules/
-    lang: ru
-    tags:
-      - frontend
   - name: "Как работает V8\_и\_почему так быстро"
     speaker: Дима Малеев
     presentation: https://wsd.events/2015/10/31/pres/v8-so-fast.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Кросспроектные веб-компоненты"
     speaker: Артём Мезин
     presentation: https://wsd.events/2015/10/31/pres/components/
-    lang: ru
-    tags:
-      - frontend
   - name: "Ещё лучше, чем настоящие!"
     speaker: Вадим Макеев
     presentation: https://wsd.events/2015/10/31/pres/web-apps/
-    lang: ru
-    tags:
-      - frontend
   - name: "Автономность прежде всего"
     speaker: Антон Немцев
     presentation: https://wsd.events/2015/10/31/pres/autonomous/
-    lang: ru
-    tags:
-      - frontend
   - name: "Постигаем дзен анимации: подходы на\_CSS и\_JavaScript"
     speaker: Александр Завьялов
     presentation: https://wsd.events/2015/10/31/pres/animation-zen/
-    lang: ru
-    tags:
-      - frontend
   - name: "Из\_иллюстратора в\_SVG"
     speaker: Михаил Баранов
     presentation: https://wsd.events/2015/10/31/pres/ai-svg/
-    lang: ru
-    tags:
-      - frontend
   - name: "Веб-семантика, или Роботы имеют право знать"
     speaker: Андрей Абрамов
     presentation: https://wsd.events/2015/10/31/pres/web-semantics/
-    lang: ru
-    tags:
-      - frontend
   - name: "Переходим на\_React, взгляд Angular-разработчика"
     speaker: Евгений Жарков
     presentation: https://wsd.events/2015/10/31/pres/angular-to-react.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Angular наносит ответный удар"
     speaker: Владимир Столяров
     presentation: http://slides.com/vladferix/deck
-    lang: ru
-    tags:
-      - frontend
   - name: "Создание универсальных приложений на\_React"
     speaker: Роман Якобчук
     presentation: http://slides.com/romaniakobchuk/deck-9-10-11-13
-    lang: ru
-    tags:
-      - frontend
   - name: "Инструментируй это"
     speaker: Роман Дворнов
     presentation: https://wsd.events/2015/10/31/pres/instrument-this.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Автоматизация: как делать полноценный сайт без участия бэкендера"
     speaker: Александра Шинкевич
     presentation: https://wsd.events/2015/10/31/pres/automation.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Тестирование: руководство от\_чайников"
     speaker: Елизавета Селиванова и Ирина Левина
     presentation: http://slides.com/elizaveta_s/deck/fullscreen
-    lang: ru
-    tags:
-      - frontend
   - name: "Интернационализация одностраничных приложений"
     speaker: Константин Кривленя
     presentation: https://wsd.events/2015/10/31/pres/spa-i18n/
-    lang: ru
-    tags:
-      - frontend
   - name: "Пишем клиент без JavaScript"
     speaker: Владимир Дашукевич
     presentation: https://wsd.events/2015/10/31/pres/native-client/
-    lang: ru
-    tags:
-      - frontend
   - name: "Прокси из\_ES6: сахар для работы с\_DOM и\_не\_только"
     speaker: Алексей Швайка
     presentation: https://wsd.events/2015/10/31/pres/es6-proxy.pdf
-    lang: ru
-    tags:
-      - frontend
+

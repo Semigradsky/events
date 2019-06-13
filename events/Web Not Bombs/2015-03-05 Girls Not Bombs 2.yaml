@@ -6,20 +6,11 @@ talks:
     speaker: Анна Селезнева
     video: https://www.youtube.com/watch?v=aVlhxKkn5OE
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Процесс разработки фронтенда поиска Yandex
     speaker: Евгения Самохина, Наталья Шойхет
     video: https://www.youtube.com/watch?v=WprFkYKuQj0
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Как мы строим гибкую архитектуру с AngularJS
     speaker: Анастасия Рыбик
     video: https://www.youtube.com/watch?v=c6DY7R8F9r8
     presentation:
-    lang: ru
-    tags:
-      - frontend

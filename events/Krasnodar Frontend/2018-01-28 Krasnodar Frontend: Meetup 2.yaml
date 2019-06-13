@@ -6,28 +6,19 @@ talks:
   - name: "Тестируем пользовательские сценарии вместе с Гермионой"
     speaker: Николай Ильченко
     video: https://youtu.be/FVJqLtW5MAw
-    lang: ru
     tags:
-      - frontend
       - 'testing'
   - name: "Великий Gatsby"
     speaker: Даниил Колесник
     video: https://youtu.be/SYdY5ITp9UM
     presentation: https://docviewer.yandex.ru/view/0/?*=D%2FLwNh01s8kk2JuvrSq0Tu5jWxV7InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkK2RKd1BSck1qRmhpbUFsWnVjMnB0VjRFNE5JTGpqclQxRUNDTjRTTm9SY3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiMi4g0JTQsNC90LjQuNC7INCa0L7Qu9C10YHQvdC40LogLSDQktC10LvQuNC60LjQuMyGIEdhdHNieS5wZGYiLCJ1aWQiOiIwIiwieXUiOiI0NDcyMDU0MzgxNTMxMjE1NjU0Iiwibm9pZnJhbWUiOmZhbHNlLCJ0cyI6MTUzMTIxNzkzNzk2OX0%3D
-    lang: ru
-    tags:
-      - frontend
   - name: "Внутри React Native"
     speaker: Павел Орлов
     video: https://youtu.be/yqSS2lqypho
     presentation: https://docviewer.yandex.ru/view/0/?*=trs%2BAMtlV4%2F7qyCb0jPgdNewPdV7InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkeHp6T3Fvd3M3VFMybEY4d3F6MnhrQjRFNE5JTGpqclQxRUNDTjRTTm9SY3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiMy4g0J%2FQsNCy0LXQuyDQntGA0LvQvtCyIC0g0JLQvdGD0YLRgNC4IFJlYWN0IE5hdGl2ZS5wZGYiLCJ1aWQiOiIwIiwieXUiOiI0NDcyMDU0MzgxNTMxMjE1NjU0Iiwibm9pZnJhbWUiOmZhbHNlLCJ0cyI6MTUzMTIxODA1NDk3MX0%3D
-    lang: ru
     tags:
-      - frontend
       - mobile
   - name: "Курс на веб-компоненты"
     speaker: Антон Старикович
     video: https://youtu.be/mk4SPLLYGlM
-    lang: ru
-    tags:
-      - frontend
+

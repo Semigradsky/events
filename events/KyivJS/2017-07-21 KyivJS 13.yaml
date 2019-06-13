@@ -6,20 +6,11 @@ talks:
     speaker: Stanislav Slesarev
     video: https://www.youtube.com/watch?v=lGZze5YFK5U
     presentation: https://drive.google.com/file/d/0B4xFRFS363tpd0VyUlJxTFdScG8/view
-    lang: ru
-    tags:
-      - frontend
   - name: Something about e2e testing
     speaker: Алексей Распопов
     video: https://www.youtube.com/watch?v=LEtVX4VDqAU
     presentation: https://drive.google.com/open?id=0B4xFRFS363tpd0VyUlJxTFdScG8
-    lang: ru
-    tags:
-      - frontend
   - name: 0 to xyz-webpack-plugin@0.1.0
     speaker: Sergey Pchelintsev
     video: https://www.youtube.com/watch?v=qDt2JKvFkFA
     presentation: http://slides.com/jalkoby/from-zero-to-xyz-webpack-plugin
-    lang: ru
-    tags:
-      - frontend

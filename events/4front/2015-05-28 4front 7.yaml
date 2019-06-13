@@ -6,27 +6,15 @@ talks:
     speaker: Дмитрий Дудин
     video: https://www.youtube.com/watch?v=RcO07kwvpL4
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: А вы верите в систематизацию, или методологии верстки
     speaker: Елизавета Селиванова, Ирина Левина
     video: https://www.youtube.com/watch?v=P4ag4JSNWTM
     presentation: https://docs.google.com/presentation/d/1v8fYheveFyIjgejho5z0UQ4IDw3vAcI14s3pHmWYMVs/edit#slide=id.p
-    lang: ru
-    tags:
-      - frontend
   - name: Go для простого народа
     speaker: Даниил Цыркунов
     video: https://www.youtube.com/watch?v=n75_C0nI6jE
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Клиентские инструменты для обмена данными: какие и зачем"
     speaker: Павел Клименков
     video: https://www.youtube.com/watch?v=aHOmveD2Uso
     presentation:
-    lang: ru
-    tags:
-      - frontend

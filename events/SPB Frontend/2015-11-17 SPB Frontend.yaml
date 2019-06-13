@@ -5,16 +5,8 @@ talks:
   - name: Как сделать плагин на PostCSS?
     speaker: Катерина Павленко
     presentation: 'http://cakeinpanic.github.io/hackathon/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как сделать плагин на Gulp?
     speaker: Сергей Лапин
-    lang: ru
-    tags:
-      - frontend
   - name: Как сделать плагин на Webpack?
     speaker: Андрей Попп
-    lang: ru
-    tags:
-      - frontend
+

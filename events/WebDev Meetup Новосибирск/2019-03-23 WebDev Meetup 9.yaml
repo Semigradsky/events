@@ -6,13 +6,7 @@ talks:
     speaker: Андрей Нагих
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Типовые уязвимости в веб-приложениях
     speaker: Александр Рудковский
     video: https://www.youtube.com/watch?v=ETvzfy30xEM
     presentation: https://drive.google.com/file/d/19qRcT4R9KuTsDuga99vE5QXc3hlC3jt9/view
-    lang: ru
-    tags:
-      - frontend

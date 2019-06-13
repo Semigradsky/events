@@ -70,7 +70,7 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
                     events: [{
                         ...speakerData.event,
                         url: speakerData.talk.video || speakerData.talk.url,
-                        lang: speakerData.talk.lang !== 'ru' ? speakerData.talk.lang : null,
+                        lang: speakerData.talk.lang,
                         presentation: speakerData.talk.presentation,
                         code: speakerData.talk.code,
                         text: speakerData.talk.text,
@@ -83,7 +83,7 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
             acc[foundTalkIndex].events.push({
                 ...speakerData.event,
                 url: speakerData.talk.video || speakerData.talk.url,
-                lang: speakerData.talk.lang !== 'ru' ? speakerData.talk.lang : null,
+                lang: speakerData.talk.lang,
                 presentation: speakerData.talk.presentation,
                 code: speakerData.talk.code,
                 text: speakerData.talk.text,

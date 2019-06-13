@@ -5,27 +5,16 @@ talks:
     speaker: Алексей Охрименко
     video: 'https://www.youtube.com/watch?v=GgeshciU68c&index=3&list=PL95OM-7UObpErucQAp6BhGIH1eMWu8VvR'
     presentation: 'https://cloud.mail.ru/public/KWDA/G7DxXmymJ'
-    lang: ru
-    tags:
-      - frontend
   - name: Фронтенд в большой компании. Как отмасштабировать и поддерживать инфраструктуру фронтенда на 30+ команд.
     speaker: Александр Китов
     video: 'https://www.youtube.com/watch?v=2oxNG1uM11E&index=4&list=PL95OM-7UObpErucQAp6BhGIH1eMWu8VvR'
     presentation: 'https://cloud.mail.ru/public/DWYk/w8VWCDHVn'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Как сделать Public API, которым будут пользоваться'
     speaker: Евгений Успенский
     video: 'https://www.youtube.com/watch?v=MB8kUojYljY&list=PL95OM-7UObpErucQAp6BhGIH1eMWu8VvR&index=1'
     presentation: 'https://cloud.mail.ru/public/MYgT/rUFNT3eoj'
-    lang: ru
-    tags:
-      - frontend
   - name: Обьектно ориентированный диабет
     speaker: Александр Федотов
     video: 'https://www.youtube.com/watch?v=9Cs2fhWfnBQ&list=PL95OM-7UObpErucQAp6BhGIH1eMWu8VvR&index=2'
     presentation: 'https://cloud.mail.ru/public/7GFJ/6KtGrcEpt'
-    lang: ru
-    tags:
-      - frontend
+

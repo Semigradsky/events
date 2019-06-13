@@ -5,48 +5,25 @@ talks:
   - name: Rock’n’scroll
     speaker: Анна Селезнёва
     video: https://www.youtube.com/watch?v=MPDSBWAg0Do
-    lang: ru
-    tags:
-      - frontend
   - name: CSS vs Preprocessors — назад в будущее!
     speaker: Сергей Попов
     video: https://www.youtube.com/watch?v=PgeyKRHlqnM
-    lang: ru
-    tags:
-      - frontend
   - name: 'Как переписать legacy-фронт приложения, когда ты джун'
     speaker: Александр Сушко
     video: https://www.youtube.com/watch?v=323raX_fW6A
-    lang: ru
-    tags:
-      - frontend
   - name: Как мы отделили фронтенд от монолитного бэкенда
     speaker: Зарема Халилова
     video: https://www.youtube.com/watch?v=Ms7vPiMFhsI
-    lang: ru
-    tags:
-      - frontend
   - name: Headless-браузеры
     speaker: Виталий Слободин
     video: https://www.youtube.com/watch?v=VANpUVKo56I
-    lang: ru
-    tags:
-      - frontend
   - name: Как Microsoft To-Do использует React
     speaker: Алексей Мигутский
     video: https://www.youtube.com/watch?v=ZdrnIUgeDAs
-    lang: ru
-    tags:
-      - frontend
   - name: 'Игра «Герои Меча и Магии» в браузере: долго, сложно и невыносимо интересно'
     speaker: Александр Коротаев
     video: https://www.youtube.com/watch?v=eauzFBCJDb0
-    lang: ru
-    tags:
-      - frontend
   - name: 'Знай свой JIT: ближе к машине'
     speaker: Андрей Мелихов
     video: https://www.youtube.com/watch?v=ZEwFVEXK1xI
-    lang: ru
-    tags:
-      - frontend
+

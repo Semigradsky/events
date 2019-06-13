@@ -7,61 +7,35 @@ talks:
     speaker: Anton Yatseniuk
     video: https://youtu.be/N7Jcnd9n8m8
     presentation: https://chernivtsi.js.org/how-to-adopt-project/
-    lang: ru
-    tags:
-      - frontend
   - name: "Serverless for frontend developers"
     speaker: Aleksandar Simovic
     video: https://youtu.be/4xLis-ca4QY
     presentation: https://chernivtsi.js.org/serverless-for-frontend-developers/
-    lang: ru
-    tags:
-      - frontend
   - name: "This terrible word Deadline"
     speaker: Vasilika Klimova
     video: https://youtu.be/LLGUAyWZhjc
     presentation: https://chernivtsi.js.org/this-terrible-word-deadline/
-    lang: ru
-    tags:
-      - frontend
   - name: "Как React-Native перевернул наше представление о нативных приложениях"
     speaker: Ilya Ivanov
     video: https://youtu.be/99Z9Q6jHfhg
     presentation: https://chernivtsi.js.org/react-native-and-native-apps/
-    lang: ru
-    tags:
-      - frontend
   - name: "Angular applications with Redux"
     speaker: Anastasiia Nedbailo
     video: https://youtu.be/mMdHbr5aw0o
     presentation: https://chernivtsi.js.org/angular-apps-with-redux/
-    lang: ru
-    tags:
-      - frontend
   - name: "Life with Expo.io"
     speaker: Terry Sahaidak
     video: https://youtu.be/mn6bDJ4w9mI
     presentation: https://chernivtsi.js.org/life-with-expo/
-    lang: ru
-    tags:
-      - frontend
   - name: "Просто о WebAssembly"
     speaker: Сергей Рубанов
     video: https://youtu.be/anVHSZtJhfc
     presentation: https://chernivtsi.js.org/webassembly-simplified/
-    lang: ru
-    tags:
-      - frontend
   - name: "О дивный новый JS–мир"
     speaker: Helen Zhukova
     video: https://youtu.be/uNKuJANi4RU
-    lang: ru
-    tags:
-      - frontend
   - name: "Make checkout great again"
     speaker: Антон Немцев
     video: https://youtu.be/EZofZgflsDk
     presentation: https://chernivtsi.js.org/payment-request-api/
-    lang: ru
-    tags:
-      - frontend
+

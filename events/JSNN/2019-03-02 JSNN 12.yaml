@@ -6,32 +6,19 @@ talks:
   - name: Tensorflow.js - создаем, обучаем и используем нейронную сеть не отходя от браузера.
     speaker: Максим Теричев
     video: https://www.youtube.com/watch?v=Ctvf2haP83M
-    lang: ru
-    tags:
-      - frontend
   - name: Modern Ember.js
     speaker: Андрей Фель
     video: https://www.youtube.com/watch?v=hMfdUlTjNJw
-    lang: ru
     tags:
-      - frontend
       - 'Ember'
   - name: "Что даёт нам Webpack: устройство бандла"
     speaker: Андрей Синицын
     video: https://www.youtube.com/watch?v=9qPtwaq73c8
-    lang: ru
-    tags:
-      - frontend
   - name: Как делать крутые компоненты на Angular
     speaker: Александр Инкин
     video: https://www.youtube.com/watch?v=7MFW2A-3HG0
-    lang: ru
     tags:
-      - frontend
       - 'Angular'
   - name: Sagas vs thunks
     speaker: Олег Хлевнов
     video: https://www.youtube.com/watch?v=ykohtx7t2yQ
-    lang: ru
-    tags:
-      - frontend

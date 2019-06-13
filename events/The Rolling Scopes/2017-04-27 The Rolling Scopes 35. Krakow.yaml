@@ -3,17 +3,10 @@ date: 2017-04-27
 talks:
   - name: "Accessibility Driven Development: why would you even care?"
     speaker: Вадим Якушев
-    lang: ru
     tags:
-      - frontend
       - 'accessibility'
   - name: "Start Using Custom Elements"
     speaker: Ricardo Casares
-    lang: ru
-    tags:
-      - frontend
   - name: "Easy Mobile Apps with Ionic 2 Framework"
     speaker: Vladimir Serykh
-    lang: ru
-    tags:
-      - frontend
+

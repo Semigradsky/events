@@ -6,9 +6,7 @@ talks:
     speaker: Dimitriy Vityuk
     video: https://www.youtube.com/watch?v=gIuzvwUZMMw
     presentation:
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "Canvas in angular world"
     speaker: Sergey Koshman
@@ -16,13 +14,10 @@ talks:
     presentation:
     lang: uk
     tags:
-      - frontend
       - Angular
   - name: "Angular. Chrome plugin"
     speaker: Oleg Dikhtyaruk
     video: https://www.youtube.com/watch?v=gIuzvwUZMMw
     presentation:
-    lang: ru
     tags:
-      - frontend
       - Angular

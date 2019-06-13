@@ -4,25 +4,14 @@ talks:
   - name: Прозрачная клиент-серверная коммуникация
     speaker: Андрей Яманов
     presentation: https://vk.com/doc5938234_460241963?hash=a339c346ea70be6a36&dl=f5f21a3cac0cfc102c
-    lang: ru
-    tags:
-      - frontend
   - name: React Native - здесь и сейчас, реализация кейса глазами обычного frontend-разработчикa, особенности и нюансы
     speaker: Андрей Чечкин
     presentation: https://vk.com/doc5938234_460241961?hash=1d0d6ddb2b12ffb452&dl=bc114c5d9f4a9fa3c2
-    lang: ru
     tags:
-      - frontend
       - mobile
   - name: Собираем NPM пакеты
     speaker: Евгений Кубеш
     presentation: https://vk.com/doc5938234_460241785?hash=8c64e1dd2ed8a397ad&dl=bcf5b2ba877e1d3f1e
-    lang: ru
-    tags:
-      - frontend
   - name: JS Coin
     speaker: Александр Кочетков, Сергей Иванов
     presentation: https://vk.com/away.php?to=http%3A%2F%2Fslides.com%2Fxufocoder%2Fjs-coin&post=-116797910_165
-    lang: ru
-    tags:
-      - frontend

@@ -5,36 +5,19 @@ talks:
   - name: Особенности работы распределенной команды
     speaker: Михаил Трошев
     url: 'https://events.yandex.ru/lib/talks/4088/'
-    lang: ru
-    tags:
-      - frontend
   - name: Любовь и ненависть к pull-requests
     speaker: Сергей Сергеев
     url: 'https://events.yandex.ru/lib/talks/4086/'
-    lang: ru
-    tags:
-      - frontend
   - name: Learn You an AST for Great Good
     speaker: Станислав Сысоев
     url: 'https://events.yandex.ru/lib/talks/4087/'
-    lang: ru
-    tags:
-      - frontend
   - name: Измеряем эффективность инфраструктуры разработки интерфейсов
     speaker: Алексей Калмаков
     url: 'https://events.yandex.ru/lib/talks/4090/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'MQ: merge-queue'
     speaker: Евгений Гаврюшин
     url: 'https://events.yandex.ru/lib/talks/4091/'
-    lang: ru
-    tags:
-      - frontend
   - name: Гибридные мобильные приложения
     speaker: Александр Сулима
     url: 'https://events.yandex.ru/lib/talks/4116/'
-    lang: ru
-    tags:
-      - frontend
+

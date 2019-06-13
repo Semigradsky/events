@@ -4,29 +4,20 @@ talks:
   - name: "Seamless and partial page reload"
     speaker: Виктор Хомяков
     video: https://www.youtube.com/watch?v=OPSwPMKmLJA
-    lang: ru
-    tags:
-      - frontend
   - name: "Going To Interview: Best Practices"
     speaker: Андрей Глухманчук
     video: https://www.youtube.com/watch?v=vtzpCbYM4qM
     presentation: http://rolling-scopes.github.io/slides/rs5/interview-talk
-    lang: ru
     tags:
-      - frontend
       - soft
   - name: "Taming AngularJS: A Directive''s Lifecycle"
     speaker: Кирилл Бараношник
     video: https://www.youtube.com/watch?v=DZ0RBOkkor8
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "Welcome to Node.js"
     speaker: Кирилл Куховец
     video: https://www.youtube.com/watch?v=M6Nm5K0wT68
     presentation: http://rolling-scopes.github.io/slides/rs5/Welcome-to-node.js
-    lang: ru
     tags:
-      - frontend
       - 'Node.js'

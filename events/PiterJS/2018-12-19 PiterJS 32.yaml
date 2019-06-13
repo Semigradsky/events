@@ -6,13 +6,8 @@ talks:
     speaker: Алексей Балканский
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Cache it right
     speaker: Семен Целищев
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
+

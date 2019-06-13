@@ -3,76 +3,32 @@ date: 2018-08-16
 talks:
   - name: "WebGL Воркшоп"
     speaker: Андрей Лесницкий
-    lang: ru
-    tags:
-      - frontend
   - name: "Настало время офигительных историй"
     speaker: Dzmitry Vanitski
-    lang: ru
-    tags:
-      - frontend
   - name: "Истории из жизни дизайнера"
     speaker: Светлана Желток
-    lang: ru
-    tags:
-      - frontend
   - name: "По следам волшебного Друзя"
     speaker: 'Dzmitry Vanitski, Светлана Желток, Никита Зенченко'
-    lang: ru
-    tags:
-      - frontend
   - name: "Real-world applications for Blockchain technology (EN)"
     speaker: Fernando Martinho
-    lang: ru
-    tags:
-      - frontend
   - name: "UI optimizations borrowed from 3d graphics engines"
     speaker: Денис Шеко
-    lang: ru
-    tags:
-      - frontend
   - name: "WebGL + WebAssembly: только лоу-левел, только хардкор!"
     speaker: Anton Hlynovskiy
-    lang: ru
-    tags:
-      - frontend
   - name: "Что если разработчик решил (заставили) сделать дизайн"
     speaker: Vitali Novikau
-    lang: ru
-    tags:
-      - frontend
   - name: "CLI для кодогенерации своими руками"
     speaker: Василий Ванчук
-    lang: ru
-    tags:
-      - frontend
   - name: "Как правильно расти разработчику"
     speaker: Павел Юхнович
-    lang: ru
-    tags:
-      - frontend
   - name: "Be GODLIKE. Reflection and Metadata"
     speaker: Vitali Haradkou
-    lang: ru
-    tags:
-      - frontend
   - name: "Истории неуспеха"
     speaker: Pavel Liber
-    lang: ru
-    tags:
-      - frontend
   - name: "Developer or Rolling Roll"
     speaker: Anna Yakovleva
-    lang: ru
-    tags:
-      - frontend
   - name: "kostil.js"
     speaker: 'Владимир Галушко, Maxim Shastel'
-    lang: ru
-    tags:
-      - frontend
   - name: "Исследование в реальном времени \"Взгляд на будущее в IT образовании\" "
     speaker: Никита Зенченко
-    lang: ru
-    tags:
-      - frontend
+

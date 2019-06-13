@@ -7,62 +7,40 @@ talks:
     video: https://www.youtube.com/watch?v=VUyqHzF1yXM&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=2&t=637s
     presentation: https://docs.google.com/presentation/d/1uO_tx78nEG5Q7wh2MIfzLo5KjjEgBs_RMmSL9UQQQgI/edit
     lang: en
-    tags:
-      - frontend
   - name: Why I love Create React App
     speaker: Валерий Сорокобатько
     video: https://www.youtube.com/watch?v=7BH9ZSld0B0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=2
     presentation: https://www.icloud.com/keynote/0Y-YSxs_21K-F3zftvVdU0oUw#Why_I_Love_Create_React_App
-    lang: ru
-    tags:
-      - frontend
   - name: Styling React App or CSS in JS
     speaker: Gregory Shehet
     video: https://www.youtube.com/watch?v=qqWHPEkfmrc&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=3
     presentation: https://drive.google.com/file/d/0B65dEGRmB3ViWmZJem9DQi1BblE/view
     lang: en
-    tags:
-      - frontend
   - name: Dude, where are my logs?
     speaker: Андрей Шумада
     video: https://www.youtube.com/watch?v=g14rXXDn8kk&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=4
     presentation: https://docs.google.com/presentation/d/1mxZUZZe2Yo5WHGKWGOsGXUsTkX4EAiTdW-4e0bvbt-s/edit
     lang: en
-    tags:
-      - frontend
   - name: Adopting React.children
     speaker: Stas Gavrylov
     video: https://www.youtube.com/watch?v=4-U2sEMPMR0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=5
     presentation: http://slides.com/stasgavrylov/deck/fullscreen#/
     lang: en
     tags:
-      - frontend
       - 'React'
   - name: WAMP
     speaker: Юрий Ткаченко
     video: https://www.youtube.com/watch?v=4-U2sEMPMR0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=5
     presentation: https://github.com/tyv/wamp-lightning-talk
-    lang: ru
-    tags:
-      - frontend
   - name: React Coroutine
     speaker: Алексей Распопов
     video: https://www.youtube.com/watch?v=4-U2sEMPMR0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=5
     presentation: https://react-coroutine.js.org/
-    lang: ru
-    tags:
-      - frontend
   - name: Telegram Bots
     speaker: Andrei Serkov
     video: https://www.slideshare.net/viattik/telegram-bots-72033250
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: No Title
     speaker: Krill Yakovenko
     video: https://www.youtube.com/watch?v=4-U2sEMPMR0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=5
     presentation: https://drive.google.com/file/d/0B65dEGRmB3ViZXAzaWxRdjZwcnc/view
-    lang: ru
-    tags:
-      - frontend

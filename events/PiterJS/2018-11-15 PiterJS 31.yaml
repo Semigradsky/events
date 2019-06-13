@@ -6,20 +6,12 @@ talks:
     speaker: Александр Канунников
     video: 'https://www.youtube.com/watch?v=rkhYib1pc2Q'
     presentation: https://fs.piterjs.org/events/31/kanunnikov.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: 'ФРП, биология, фронтенд'
     speaker: Инна Яранцева
     video: 'https://www.youtube.com/watch?v=LFjP9RF0rfk'
     presentation: https://fs.piterjs.org/events/31/yarantseva.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: 'Разработка компилятора на LLVM#1'
     speaker: Дмитрий Пацура
     video: 'https://www.youtube.com/watch?v=KjJn-J8d1Xc'
     presentation: https://fs.piterjs.org/events/31/patsura.pdf
-    lang: ru
-    tags:
-      - frontend
+

@@ -4,16 +4,8 @@ link: 'https://spb-frontend.ru/meetups/2014-11-27'
 talks:
   - name: Экскурс в React.js
     speaker: Алексей Плуталов
-    lang: ru
-    tags:
-      - frontend
   - name: Демо современного workflow фронтенд-разработчика в IDE WebStorm
     speaker: Екатерина Пригара
-    lang: ru
-    tags:
-      - frontend
   - name: Лайв-кодинг приложения на Meteor.js
     speaker: Вячеслав Шебанов
-    lang: ru
-    tags:
-      - frontend
+

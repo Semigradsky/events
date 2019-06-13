@@ -5,36 +5,19 @@ talks:
   - name: А и Б сидели на трубе
     speaker: Сергей Сергеев
     url: 'https://events.yandex.ru/lib/talks/5919/'
-    lang: ru
-    tags:
-      - frontend
   - name: Безграничные возможности транспиляции
     speaker: Андрей Роенко
     url: 'https://events.yandex.ru/lib/talks/5920/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Производительность JS: чтобы улучшить, надо измерить'
     speaker: Виктор Хомяков
     url: 'https://events.yandex.ru/lib/talks/6212/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Ревью: Как устроена система оценки производительности сотрудников в Яндексе'
     speaker: Сергей Бережной
     url: 'https://events.yandex.ru/lib/talks/5923/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Анимация в браузере, или как добиться 60 кадров в секунду на слабых устройствах'
     speaker: Антон Кастрицкий
     url: 'https://events.yandex.ru/lib/talks/5925/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Бэкенд слишком важен, чтобы доверять его бэкендерам'
     speaker: Назим Гафаров
     url: 'https://events.yandex.ru/lib/talks/5926/'
-    lang: ru
-    tags:
-      - frontend
+

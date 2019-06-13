@@ -5,27 +5,16 @@ talks:
     speaker: Александр Амосов
     video: 'https://youtu.be/Y4LSYQVseiM'
     presentation: 'http://www.slideshare.net/moscowjs/favicon-69761008'
-    lang: ru
-    tags:
-      - frontend
   - name: E2E-тестирование мобильных приложений
     speaker: Антон Кузнецов
     video: 'https://www.youtube.com/watch?v=3jhi9A5Czl8&list=PLknJ4Vr6efQFzo2vyM1brrRPEIAQnTCV2&index=4'
     presentation: 'http://www.slideshare.net/moscowjs/e2e-69761007'
-    lang: ru
-    tags:
-      - frontend
   - name: Basis.js - Production Ready SPA Framework
     speaker: Сергей Мелюков
     video: 'https://www.youtube.com/watch?v=2b2ap0VEBhA'
     presentation: 'http://www.slideshare.net/moscowjs/basisjs-production-ready-spa-framework'
-    lang: ru
-    tags:
-      - frontend
   - name: Reliable DOM testing with browser-monkey
     speaker: Артём Аветисян
     video: 'https://youtu.be/oIZcPlXgIOI'
     presentation: 'http://www.slideshare.net/moscowjs/reliable-dom-testing-with-browsermonkey'
-    lang: ru
-    tags:
-      - frontend
+

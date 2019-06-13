@@ -7,15 +7,11 @@ talks:
     speaker: Роман Кисенко
     video: https://www.youtube.com/watch?v=0XXFLMfHKkY
     presentation: ''
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "UniversalNo"
     speaker: Сергей Фролов
     video: https://www.youtube.com/watch?v=0XXFLMfHKkY
     presentation: ''
-    lang: ru
     tags:
-      - frontend
       - Angular

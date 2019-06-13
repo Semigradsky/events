@@ -6,29 +6,19 @@ talks:
     speaker: Максим Соснов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "TypeScript: Development Experience First"
     speaker: Андрей Воронович
     video:
     presentation:
-    lang: ru
     tags:
-      - frontend
       - TypeScript
   - name: Стартовые проекты для фронтенда
     speaker: Даниил Оношко
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: My super sweet React Native
     speaker: Глеб Фокин
     video:
     presentation:
-    lang: ru
     tags:
-      - frontend
       - mobile

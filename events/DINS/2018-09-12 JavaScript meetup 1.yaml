@@ -6,20 +6,11 @@ talks:
     speaker: Евгения Ольнева
     video: https://www.youtube.com/watch?v=kmKAMEHPlsI
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Тестирование web UI с углублением в незначительные детали
     speaker: Сергей Журавлев
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Protobuf: как быстро начать использовать. Его плюсы и минусы"
     speaker: Андрей Советкин
     video: https://www.youtube.com/watch?v=a33gfnKB4ZM
     presentation:
-    lang: ru
-    tags:
-      - frontend

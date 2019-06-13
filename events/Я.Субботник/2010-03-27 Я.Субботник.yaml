@@ -5,24 +5,13 @@ talks:
   - name: Мобильные карты
     speaker: Илья Богданович
     url: 'https://events.yandex.ru/lib/talks/776/'
-    lang: ru
-    tags:
-      - frontend
   - name: Кеш МЯК
     speaker: Валентин Коновалов
     url: 'https://events.yandex.ru/lib/talks/777/'
-    lang: ru
-    tags:
-      - frontend
   - name: Особенности реализации Яндекс.Карт для iPhone
     speaker: Роман Бусыгин
     url: 'https://events.yandex.ru/lib/talks/778/'
-    lang: ru
-    tags:
-      - frontend
   - name: Платформа LBS
     speaker: Евгений Волков
     url: 'https://events.yandex.ru/lib/talks/779/'
-    lang: ru
-    tags:
-      - frontend
+

@@ -5,24 +5,12 @@ talks:
   - name: "Data processing with ql.io"
     speaker: Кирилл Куховец
     video: https://www.youtube.com/watch?v=lwM9XCfmfDY
-    lang: ru
-    tags:
-      - frontend
   - name: "JavaScript Virtual Machines"
     speaker: Константин Кривленя
     video: https://www.youtube.com/watch?v=VPvKxta_qzA
-    lang: ru
-    tags:
-      - frontend
   - name: "WebKit Project Overview"
     speaker: Андрей Пальчис
     video: https://www.youtube.com/watch?v=xjL-2f-YWxk
-    lang: ru
-    tags:
-      - frontend
   - name: "RetroSpective"
     speaker: Андрей Глухманчук, Александр Герасимов, Дмитрий Воробей, Александр Карлович
     presentation: http://rolling-scopes.github.io/slides/rs7/RetroSpective
-    lang: ru
-    tags:
-      - frontend

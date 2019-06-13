@@ -6,20 +6,12 @@ talks:
     speaker: Андрей Ситник
     presentation: 'http://amp.gs/xDxX'
     video: 'https://youtu.be/olDoZ5SS_uo?t=3m42s'
-    lang: ru
-    tags:
-      - frontend
   - name: Как я ускорял загрузку видео в ok.ru
     speaker: Дмитрий Долженко
     presentation: 'http://amp.gs/xDCV'
     video: 'https://www.youtube.com/watch?v=vmSsEmwh9k4&index=3&list=PLI6q7lZ9ClB2M54XrhyzSTGkTyw5NB4dS&t=0s'
-    lang: ru
-    tags:
-      - frontend
   - name: Jenkins на службе фронтенд разработки
     speaker: Илья Кашлаков
     presentation: 'http://amp.gs/xDvx'
     video: 'https://www.youtube.com/watch?v=DA_R8mIaRJg&index=4&list=PLI6q7lZ9ClB2M54XrhyzSTGkTyw5NB4dS&t=0s'
-    lang: ru
-    tags:
-      - frontend
+

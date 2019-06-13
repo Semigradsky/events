@@ -6,21 +6,13 @@ talks:
     speaker: Максим Соснов
     video: https://www.youtube.com/watch?v=Ln8woWsIBoI
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Будь в теме! Вышел Vue 2.3"
     speaker: Андрей Солодовников
     video: https://www.youtube.com/watch?v=Ln8woWsIBoI
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: "Scala.js Когда Typescript'a уже мало"
     speaker: Бадальянц Юрий
     video: https://www.youtube.com/watch?v=Ln8woWsIBoI
     presentation:
-    lang: ru
-    tags:
-      - frontend

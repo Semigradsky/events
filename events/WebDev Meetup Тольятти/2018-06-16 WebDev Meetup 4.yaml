@@ -6,22 +6,15 @@ talks:
     speaker: Михаил Николаевский
     video: https://www.youtube.com/watch?v=I-7RZpBonV0
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'React'
   - name: Реактивность Vue.js. Практика работы со сложными данными
     speaker: Стас Минченко
     video: https://www.youtube.com/watch?v=bW7qO0utDXA
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Как запилить API, попивая смузи у себя в квартале
     speaker: Дмитрий Исаченков
     video: https://www.youtube.com/watch?v=Yv8BhypGbII
     presentation:
-    lang: ru
-    tags:
-      - frontend

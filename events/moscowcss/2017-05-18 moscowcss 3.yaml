@@ -6,20 +6,11 @@ talks:
     speaker: Елена Семёнова
     video: https://www.youtube.com/watch?v=Y63XbOM6Kzw
     presentation: http://css.moscow/3/top-15-css-bugs.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Atomic CSS в дикой природе
     speaker: Савва Михалевский
     video: https://www.youtube.com/watch?v=MyPU8bqvDzY
     presentation: http://css.moscow/3/wild-atomic.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: FONTend Optimization
     speaker: Смирнов Андрей
     video: https://www.youtube.com/watch?v=o39tg3BgABw
     presentation: http://css.moscow/3/fontend-optimization.pdf
-    lang: ru
-    tags:
-      - frontend

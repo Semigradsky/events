@@ -5,54 +5,28 @@ talks:
   - name: Вступительное слово на Я.Субботнике в Челябинске
     speaker: Виталий Харисов
     url: 'https://events.yandex.ru/lib/talks/150/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как использовать БЭМ! вне Яндекса
     speaker: Варвара Степанова
     url: 'https://events.yandex.ru/lib/talks/151/'
-    lang: ru
-    tags:
-      - frontend
   - name: О чём ещё говорят верстальщики
     speaker: Олег Мохов
     url: 'https://events.yandex.ru/lib/talks/152/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Яндекс.Почта: архитектура фронтенда как она есть'
     speaker: Алексей Андросов
     url: 'https://events.yandex.ru/lib/talks/153/'
-    lang: ru
-    tags:
-      - frontend
   - name: Масштабируемые JavaScript-приложения
     speaker: Михаил Давыдов
     url: 'https://events.yandex.ru/lib/talks/154/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Homo Universale: куда расти веб-дизайнерам'
     speaker: Данила Ковчий
     url: 'https://events.yandex.ru/lib/talks/156/'
-    lang: ru
-    tags:
-      - frontend
   - name: Интегральный подход в дизайне
     speaker: Илья Наринский
     url: 'https://events.yandex.ru/lib/talks/157/'
-    lang: ru
-    tags:
-      - frontend
   - name: Спортивные проекты Яндекса. Взгляд изнутри
     speaker: Иван Бибилов
     url: 'https://events.yandex.ru/lib/talks/158/'
-    lang: ru
-    tags:
-      - frontend
   - name: Кластеризация дубликатов в Яндекс.Картинках
     speaker: Александр Крайнов
     url: 'https://events.yandex.ru/lib/talks/159/'
-    lang: ru
-    tags:
-      - frontend
+

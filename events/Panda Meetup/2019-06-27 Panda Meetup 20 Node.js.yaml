@@ -6,13 +6,7 @@ talks:
     speaker: Мозгачев Алексей
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Жизнь в монолите
     speaker: Бондаренко Евгений
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

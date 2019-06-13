@@ -6,26 +6,15 @@ talks:
   - name: "Facebook product Infrastructure"
     speaker: Alex Kotliarskyi
     video: https://youtu.be/UNdJFEmKkJU
-    lang: ru
-    tags:
-      - frontend
   - name: "Brief Intro to Styled Components"
     speaker: Dmitry Barabash
     video: https://youtu.be/BYxf3lRD0Q4
-    lang: ru
-    tags:
-      - frontend
   - name: "Dirty animations in the stateful world"
     speaker: Alexey Taktarov
     video: https://youtu.be/bn3je3u-UIo
     presentation: http://molefrog.com/stateful-animations/
     code: 'https://github.com/molefrog/stateful-animations'
-    lang: ru
-    tags:
-      - frontend
   - name: "Q&A Panel – React Kyiv March"
     speaker: '?'
     video: https://youtu.be/Vokq8ndgd5c
-    lang: ru
-    tags:
-      - frontend
+

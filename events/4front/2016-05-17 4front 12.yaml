@@ -6,27 +6,15 @@ talks:
     speaker: Егор Малькевич
     video: https://www.youtube.com/watch?v=7dz9Cq73z7s
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Готов ли Ваш проект к лету?
     speaker: Ирина Левина, Елизавета Селиванова
     video: https://www.youtube.com/watch?v=JcY5xZcvgZQ
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Functional programming tools with little to no religion
     speaker: Павел Клименков
     video: https://www.youtube.com/watch?v=PWlKPuZI994
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: AMP или как разогнать ваше приложение до сверхзвуковой скорости
     speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=yamUsRCBqyk
     presentation:
-    lang: ru
-    tags:
-      - frontend

@@ -5,20 +5,12 @@ talks:
     speaker: Андрей Алексеев
     video: 'https://youtu.be/3rEDHnqn-Cw'
     presentation: 'https://aalexeev239.github.io/rxjs-intro/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Svelte: обзор и сравнение'
     speaker: Александр Федотов
     video: 'https://youtu.be/tgvgCAOR4O8'
     presentation: 'https://cloud.mail.ru/public/LqbY/4yiKD6XZf'
-    lang: ru
-    tags:
-      - frontend
   - name: Взгляд на λ js через линзы
     speaker: Михаил Синяков
     video: 'https://youtu.be/UbXSKu4lpVA'
     presentation: 'https://cloud.mail.ru/public/Bbij/4zncS8w3S'
-    lang: ru
-    tags:
-      - frontend
+

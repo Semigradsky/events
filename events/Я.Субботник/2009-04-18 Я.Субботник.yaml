@@ -5,30 +5,16 @@ talks:
   - name: Способы организации поиска по сайту
     speaker: Богдан Гаркушин
     url: 'https://events.yandex.ru/lib/talks/716/'
-    lang: ru
-    tags:
-      - frontend
   - name: Проверка правописания в веб-приложениях
     speaker: 'Алексей Осипенко, Алексей Байтин'
     url: 'https://events.yandex.ru/lib/talks/718/'
-    lang: ru
-    tags:
-      - frontend
   - name: Специализированный поиск по сайту
     speaker: Артём Ворожцов
     url: 'https://events.yandex.ru/lib/talks/720/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Поиск фраз в документах РСЯ '
     speaker: Дмитрий Агафонов
     url: 'https://events.yandex.ru/lib/talks/722/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как устроен поиск по блогам
     speaker: 'Антон Волнухин, Роман Иванов'
     url: 'https://events.yandex.ru/lib/talks/724/'
-    lang: ru
-    tags:
-      - frontend
+

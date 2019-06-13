@@ -5,60 +5,31 @@ talks:
   - name: Разработка фронтенда для гиков
     speaker: Юрий Ткаченко
     url: 'https://events.yandex.ru/lib/talks/930/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Новая выдача Поиска для сайта - кастомные теги, CSS3 и JavaScript'
     speaker: Игорь Шевченко
     url: 'https://events.yandex.ru/lib/talks/931/'
-    lang: ru
-    tags:
-      - frontend
   - name: Облачная платформа Cocaine —  облако своими руками
     speaker: Антон Тюрин
     url: 'https://events.yandex.ru/lib/talks/933/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Разработка приложения под  Cocaine — быстро, просто, удобно'
     speaker: Александр Пономарев
     url: 'https://events.yandex.ru/lib/talks/934/'
-    lang: ru
-    tags:
-      - frontend
   - name: Яндекс.Авто 2.0 на Node.js
     speaker: Вячеслав Олиянчук
     url: 'https://events.yandex.ru/lib/talks/936/'
-    lang: ru
-    tags:
-      - frontend
   - name: Путь в npm
     speaker: Филипп Ковалев
     url: 'https://events.yandex.ru/lib/talks/937/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Яндекс.Поиск: когда команда распределена по «островам»'
     speaker: Артём Семенов
     url: 'https://events.yandex.ru/lib/talks/939/'
-    lang: ru
-    tags:
-      - frontend
   - name: Острова — интерактивные ответы в поиске Яндекса
     speaker: Олег Левчук
     url: 'https://events.yandex.ru/lib/talks/940/'
-    lang: ru
-    tags:
-      - frontend
   - name: Технология активных областей в API Яндекс.Карт
     speaker: Алексей Емелин
     url: 'https://events.yandex.ru/lib/talks/942/'
-    lang: ru
-    tags:
-      - frontend
   - name: Maintainer кода в большом проекте
     speaker: Сергей Сергеев
     url: 'https://events.yandex.ru/lib/talks/943/'
-    lang: ru
-    tags:
-      - frontend
+

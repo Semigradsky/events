@@ -6,20 +6,12 @@ talks:
     speaker: Любовь Гулько
     video: 'https://www.youtube.com/watch?v=jX91TiPihv0'
     presentation: https://fs.piterjs.org/events/35/gulko.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: 'Психология для айтишников: про выгорание и заботу о себе'
     speaker: Дима Семьюшкин
     video: 'https://www.youtube.com/watch?v=qXX1iw74jfE'
     presentation: https://fs.piterjs.org/events/35/semyushkin.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Будете гореть — горите
     speaker: Евгений Кот
     video: 'https://www.youtube.com/watch?v=Jnm_BJVxz7E'
     presentation: https://fs.piterjs.org/events/35/kot.pdf
-    lang: ru
-    tags:
-      - frontend
+

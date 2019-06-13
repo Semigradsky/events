@@ -3,12 +3,7 @@ date: 2018-06-06
 talks:
   - name: "VUI with Alexa & Node.js"
     speaker: Ricardo Casares
-    lang: ru
-    tags:
-      - frontend
   - name: "Generics and Mapped Types in TypeScript"
     speaker: Denis Reshetniak
-    lang: ru
     tags:
-      - frontend
       - TypeScript

@@ -3,6 +3,4 @@ date: 2014-04-29
 talks:
   - name: "How Mozilla Works"
     speaker: Олег Засыпкин
-    lang: ru
-    tags:
-      - frontend
+

@@ -8,22 +8,15 @@ talks:
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=Gq1pXTFO3-M
     presentation: https://drive.google.com/file/d/1gaN_TW8iwo9bUxGuZG4kkjb1z9LAArlR/view
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "CSS ещё не торт"
     speaker: Вероника Новикова
     video: https://www.youtube.com/watch?v=g20pCKeSgUU
     presentation: https://drive.google.com/file/d/1p1WG9dWIVgvb4vXI7TzBPs1wU2uLLvJS/view
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "The state of CSS"
     speaker: Сергей Попов
     video: https://www.youtube.com/watch?v=gw9x2zhyxL0
     presentation: https://drive.google.com/file/d/1b890dFOQ25ae5eXc_2X8pKcW8a1IVlEC/view
-    lang: ru
     tags:
       - 'frontend'

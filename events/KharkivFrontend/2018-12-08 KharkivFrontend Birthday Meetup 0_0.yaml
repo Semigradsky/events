@@ -6,13 +6,7 @@ talks:
     speaker: Алексей Стрельников
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Web Components
     speaker: Максим Корабельский
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

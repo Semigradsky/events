@@ -6,61 +6,34 @@ talks:
     speaker: Андрей Головнев
     video: https://www.youtube.com/watch?v=yQwMBlptTmQ
     presentation: https://wsd.events/2011/10/29/pres/adobe-edge/
-    lang: ru
-    tags:
-      - frontend
   - name: "Чек-лист вёрстки. Что можно отдавать клиенту, а\_что надо переделывать"
     speaker: Игорь Зенич
     video: https://www.youtube.com/watch?v=0dWcdpr3fxM
     presentation: https://wsd.events/2011/10/29/pres/coding-checklist.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Мухи отдельно, котлеты отдельно: Conditional Comments, Conditional CSS, Modernizr, CSS Conditional Rules"
     speaker: Павел Ловцевич
     video: https://www.youtube.com/watch?v=meqYvmct33k
     presentation: https://wsd.events/2011/10/29/pres/conditional-css/
-    lang: ru
-    tags:
-      - frontend
   - name: "CSS3 Media Queries: лёгкость превращений"
     speaker: Артемий Ломов
     video: https://www.youtube.com/watch?v=cp4zK2wJPyg
     presentation: https://wsd.events/2011/10/29/pres/media-queries/
-    lang: ru
-    tags:
-      - frontend
   - name: "Прокрустовы окна. Как вписаться в\_устройство с\_минимальными потерями"
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=u71Kh7Ouhjk
     presentation: https://wsd.events/2011/10/29/pres/procrustes/
-    lang: ru
-    tags:
-      - frontend
   - name: "Редактирование HTML\_в браузере. Как должно быть, как есть, и\_зачем это вообще нужно"
     speaker: Антон Немцев
     video: https://www.youtube.com/watch?v=rdKBM6d0Npg
     presentation: https://wsd.events/2011/10/29/pres/contenteditable/
-    lang: ru
-    tags:
-      - frontend
   - name: "БЭМ. Реальный опыт двух компаний Mail.Ru и\_HH.ru"
     speaker: Андрей Сумин
     video: https://www.youtube.com/watch?v=Ms_tObxPRrM
     presentation: https://wsd.events/2011/10/29/pres/bem-real-life.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Быстрая разработка. Краткий обзор средств для работы с\_кодом из\_консоли"
     speaker: Максим Червонный
     video: https://www.youtube.com/watch?v=2z1VSHpf5DM
     presentation: https://wsd.events/2011/10/29/pres/quick-console/
-    lang: ru
-    tags:
-      - frontend
   - name: "Война браузеров"
     speaker: Андрея Сумин, Вадим Макеев
     video: https://www.youtube.com/watch?v=b84B0baK-JM
-    lang: ru
-    tags:
-      - frontend

@@ -5,54 +5,28 @@ talks:
   - name: Открываем Яндекс.Танк
     speaker: Олесь Писаренко
     url: 'https://events.yandex.ru/lib/talks/296/'
-    lang: ru
-    tags:
-      - frontend
   - name: Архитектура Яндекс.Фоток
     speaker: Алексей Захаров
     url: 'https://events.yandex.ru/lib/talks/298/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Яндекс.Диск: архитектура, синхронизация и многое другое'
     speaker: 'Владимир Русинов, Алексей Капранов'
     url: 'https://events.yandex.ru/lib/talks/313/'
-    lang: ru
-    tags:
-      - frontend
   - name: Школа разработки интерфейсов
     speaker: Михаил Трошев
     url: 'https://events.yandex.ru/lib/talks/314/'
-    lang: ru
-    tags:
-      - frontend
   - name: Кластеризатор в JS API Яндекс.Карт
     speaker: Марина Степанова
     url: 'https://events.yandex.ru/lib/talks/301/'
-    lang: ru
-    tags:
-      - frontend
   - name: Разные способы создания клиентских js-компонентов
     speaker: Сергей Бережной
     url: 'https://events.yandex.ru/lib/talks/302/'
-    lang: ru
-    tags:
-      - frontend
   - name: Прототипирование на живом проекте
     speaker: Вадим Пацев
     url: 'https://events.yandex.ru/lib/talks/304/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'MapKit для WP7 '
     speaker: Константин Заикин
     url: 'https://events.yandex.ru/lib/talks/305/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Yandex MapKit: идеи по применению'
     speaker: Екатерина Текунова
     url: 'https://events.yandex.ru/lib/talks/311/'
-    lang: ru
-    tags:
-      - frontend
+

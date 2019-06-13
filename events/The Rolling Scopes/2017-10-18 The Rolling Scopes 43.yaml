@@ -3,16 +3,8 @@ date: 2017-10-18
 talks:
   - name: "Око Саурона в браузере"
     speaker: Roman Savarin
-    lang: ru
-    tags:
-      - frontend
   - name: "Рекуперативный подход"
     speaker: Василий Ванчук
-    lang: ru
-    tags:
-      - frontend
   - name: "WASM: будущее веба, чем является и чем не является"
     speaker: Aleh Kashnikau
-    lang: ru
-    tags:
-      - frontend
+

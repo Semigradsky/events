@@ -6,27 +6,16 @@ talks:
     speaker: Евгений Гусев
     video: 'https://www.youtube.com/watch?v=fVgf2bImp6s'
     code: https://gist.github.com/bunopus/3c8cc4b950cbcafd61b195a1fbeab6ad
-    lang: ru
-    tags:
-      - frontend
   - name: Kotlin 101
     speaker: Залим Башоров
     video: 'https://www.youtube.com/watch?v=sUNJWJ1kLC0'
     presentation: http://zal.im/slides/piterjs20
-    lang: ru
-    tags:
-      - frontend
   - name: 'Wallaby.js: экономим 100+ рабочих часов в год'
     speaker: Дмитрий Махнев
     video: 'https://www.youtube.com/watch?v=w7Woj5IxwUM'
     presentation: https://cloud.mail.ru/public/7AER/b2qUfEemo
-    lang: ru
-    tags:
-      - frontend
   - name: Clojure for frontenders
     speaker: Николай Рыжиков
     video: 'https://www.youtube.com/watch?v=6oF_fRyKsd4'
     code: https://github.com/niquola/piterjs-2017-slides
-    lang: ru
-    tags:
-      - frontend
+

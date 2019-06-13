@@ -5,36 +5,19 @@ talks:
   - name: 'Привет, Алиса!'
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/5737/'
-    lang: ru
-    tags:
-      - frontend
   - name: Анимация в браузере
     speaker: Антон Кастрицкий
     url: 'https://events.yandex.ru/lib/talks/5738/'
-    lang: ru
-    tags:
-      - frontend
   - name: Расчёт метрик скорости в Яндексе
     speaker: Прокопюк Андрей
     url: 'https://events.yandex.ru/lib/talks/5740/'
-    lang: ru
-    tags:
-      - frontend
   - name: Использование CSS Grid Layout в продакшене с поддержкой IE11
     speaker: Евгений Петухов
     url: 'https://events.yandex.ru/lib/talks/5741/'
-    lang: ru
-    tags:
-      - frontend
   - name: Вам (возможно) не нужен сервер
     speaker: Андрей Роенко
     url: 'https://events.yandex.ru/lib/talks/5743/'
-    lang: ru
-    tags:
-      - frontend
   - name: Защита сервиса при помощи CSP
     speaker: Всеволод Шмыров
     url: 'https://events.yandex.ru/lib/talks/5744/'
-    lang: ru
-    tags:
-      - frontend
+

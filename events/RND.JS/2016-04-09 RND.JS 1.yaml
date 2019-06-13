@@ -5,38 +5,22 @@ talks:
   - name: Будущее с Angular 2
     speaker: Евгений Кубеш
     video: https://youtu.be/2tn91h2i2BQ?t=1033
-    lang: ru
     tags:
-      - frontend
       - 'Angular'
   - name: Продвинутая оптимизация веб-страниц
     speaker: Александр Храмов
     video: https://youtu.be/2tn91h2i2BQ?t=2574
-    lang: ru
-    tags:
-      - frontend
   - name: Возможности 3D-графики в браузере
     speaker: Кирилл Петряев
     video: https://youtu.be/2tn91h2i2BQ?t=3946
-    lang: ru
-    tags:
-      - frontend
   - name: Вставляем как Гугл
     speaker: Антон Хлыновский
     video: https://youtu.be/2tn91h2i2BQ?t=6537
-    lang: ru
-    tags:
-      - frontend
   - name: "React в продакшене: форма добавления заказа Везёт Всем"
     speaker: Антон Сивогривов
     video: https://youtu.be/2tn91h2i2BQ?t=7914
-    lang: ru
     tags:
-      - frontend
       - 'React'
   - name: 9 кругов ада разработки front-end
     speaker: Виталий Слободин
     video: https://youtu.be/2tn91h2i2BQ?t=9463
-    lang: ru
-    tags:
-      - frontend

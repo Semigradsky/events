@@ -8,24 +8,17 @@ talks:
     speaker: Илья Запруцкий
     video: https://www.youtube.com/watch?v=A0WqkePkw0c
     presentation: https://drive.google.com/file/d/1m1KuxiOHufQmhkIR7Q6sCdWvIZVObQdd/view
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Профилирование JS: увидеть самое важное и не утонуть в море чисел"
     speaker: Виктор Хомяков
     video: https://www.youtube.com/watch?v=rKtWxCYBFP4
     presentation: https://victor-homyakov.github.io/profile-visualization/
-    lang: ru
     tags:
-      - 'frontend'
       - 'profiling'
   -
     name: "Зачем мы переписывали приложение на Elm и кто за это ответит"
     speaker: Виктор Русакович
     video: https://www.youtube.com/watch?v=D-4D1f5gyXw
     presentation: https://docs.google.com/presentation/d/1FJabwf0jalNJMZEX6LiLn2RplkzAIb342VFTU5STogg/edit
-    lang: ru
     tags:
-      - 'frontend'
       - 'Elm'

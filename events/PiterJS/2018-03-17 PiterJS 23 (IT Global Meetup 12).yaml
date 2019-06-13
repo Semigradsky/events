@@ -7,25 +7,14 @@ talks:
     speaker: Артём Пендюрин
     video: https://youtu.be/OVQCN_bUkZM
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/23/web-components.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Зависимости в приложении"
     speaker: Евгений Щепотьев
     video: https://youtu.be/xtcwpACFtKc
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/23/deps.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "PiterJS #23 - Дебаты 1 часть"
     speaker: '?'
     video: https://youtu.be/vJ-4TUKmMr8
-    lang: ru
-    tags:
-      - frontend
   - name: "PiterJS #23 - Дебаты 2 часть"
     speaker: '?'
     video: https://youtu.be/mTHMKWxjo8E
-    lang: ru
-    tags:
-      - frontend
+

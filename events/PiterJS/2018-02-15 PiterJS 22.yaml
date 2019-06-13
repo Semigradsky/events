@@ -6,19 +6,10 @@ talks:
     speaker: Тим Маринин
     video: https://youtu.be/H8FCVTSJ3u8
     presentation: https://marinin.xyz/slides/svelte/assets/player/KeynoteDHTMLPlayer.html#0
-    lang: ru
-    tags:
-      - frontend
   - name: "Рефакторинг"
     speaker: Алексей Золотых
     video: https://youtu.be/hfmHymOCIA0
     presentation: https://zolotyh.github.io/refactoring2/#/
-    lang: ru
-    tags:
-      - frontend
   - name: "ES2018?"
     speaker: Mikhail Poluboyarinov
     video: https://www.youtube.com/watch?v=R5_TkQWzTpc
-    lang: ru
-    tags:
-      - frontend

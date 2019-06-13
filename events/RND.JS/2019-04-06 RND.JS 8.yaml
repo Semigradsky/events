@@ -5,28 +5,17 @@ talks:
     speaker: Сергей Кувакин
     video: https://www.youtube.com/watch?v=sJtU_tRLo-Q
     presentation: https://docs.google.com/presentation/d/1JdXaVgYrXCNb143YeMC73G5-CvTHl7loR7YEsq8Uoc4/edit
-    lang: ru
-    tags:
-      - frontend
   - name: Трансформеры в TypeScript
     speaker: Евгений Тимохов
     video: https://www.youtube.com/watch?v=8PItIHFdvrE
     presentation: https://docs.google.com/presentation/d/1krTXv17p1_BSoT4DTjTheps2pyJIQXHnxIms1xeaYS4/edit
-    lang: ru
     tags:
-      - frontend
       - TypeScript
   - name: Реактивная печать PDF
     speaker: Виталий Слободин
     video: https://www.youtube.com/watch?v=jnAgIjcPXt0
     presentation: https://www.beautiful.ai/deck/-L_XcxEMFS2ChDuAK5Oa/Reactive-PDF-Printing
-    lang: ru
-    tags:
-      - frontend
   - name: Бэкенд для фронтендеров. Node.js как лучшее из зол
     speaker: Андрей Мелихов
     video: https://www.youtube.com/watch?v=_LTof44zRYQ
     presentation: https://vk.com/doc475435776_498757154?hash=be3dd7cfd5b0499ebe&dl=75dcf5ee53c7184089
-    lang: ru
-    tags:
-      - frontend

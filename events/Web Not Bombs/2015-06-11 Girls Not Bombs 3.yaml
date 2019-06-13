@@ -6,27 +6,15 @@ talks:
     speaker: Елизавета Селиванова, Ирина Левина
     video: https://www.youtube.com/watch?v=K5U4CAJAKJY
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: ObjectManager, или Как работать с большим количеством объектов на карте
     speaker: Марина Степанова
     video: https://www.youtube.com/watch?v=jnFuRDKUtK4
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "История одного проекта. Часть 1: 3D-куб"
     speaker: Анна Селезнёва
     video: https://www.youtube.com/watch?v=MmQyL7H2ObI
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Сложные отношениях с тестированием на JavaScript
     speaker: Татьяна Алексеенкова
     video: https://www.youtube.com/watch?v=rIgAxfyYyOo
     presentation:
-    lang: ru
-    tags:
-      - frontend

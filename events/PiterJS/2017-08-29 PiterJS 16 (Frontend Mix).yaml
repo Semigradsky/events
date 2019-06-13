@@ -6,20 +6,12 @@ talks:
     speaker: Андрей Мелихов
     video: 'https://www.youtube.com/watch?v=PnokeAHX7XY'
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/16/Andrey_Melikhov.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Как мы сделали гибкую и расширяемую дизайн-систему...
     speaker: Виталий Галахов
     video: 'https://www.youtube.com/watch?v=E3A4bxlhaI0'
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/16/Vitaliy_Galahov.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: 'Npm v5, Yarn или pnpm — что круче?'
     speaker: Майкл Башуров
     video: 'https://www.youtube.com/watch?v=SFYksKizRhg'
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/16/Mike_Bashurov.pdf
-    lang: ru
-    tags:
-      - frontend
+

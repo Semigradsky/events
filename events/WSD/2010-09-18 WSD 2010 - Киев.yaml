@@ -6,41 +6,24 @@ talks:
     speaker: Андрей Сумин
     video: https://www.youtube.com/watch?v=5se571Mfbrk
     presentation: https://wsd.events/2010/09/18/pres/big-projects-standards.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Про проектирование интерфейсов и\_немного про Adobe Fireworks"
     speaker: Вадим Пацев
     video: https://www.youtube.com/watch?v=KHNSjW0VPGY
     presentation: https://wsd.events/2010/09/18/pres/ui-in-fireworks.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Веб в\_кривых. Второе рождение SVG"
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=DDR19L7Lcjw
     presentation: https://wsd.events/2010/09/18/pres/web-in-curves/
-    lang: ru
-    tags:
-      - frontend
   - name: "Введение в\_Web Performance: W3C, Webkit, IE9 и\_будущее"
     speaker: Николай Мациевский
     video: https://www.youtube.com/watch?v=_1rWqPZ048U
     presentation: https://wsd.events/2010/09/18/pres/web-performance.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Разработка веб-приложений. Обзорная экскурсия по\_актуальным решениям, библиотекам и\_техникам разработки на\_HTML и\_JavaScript"
     speaker: Виталий Рыбалка
     video: https://www.youtube.com/watch?v=IT_4T3RrDpk
     presentation: https://wsd.events/2010/09/18/#vitaly-rybalka
-    lang: ru
-    tags:
-      - frontend
   - name: "Обзор новых API JavaScript. HTML5 и\_самостоятельные черновики W3C"
     speaker: Антон Немцев
     video: https://www.youtube.com/watch?v=aqzPji7vFr8
     presentation: https://wsd.events/2010/09/18/pres/new-js-api/
-    lang: ru
-    tags:
-      - frontend
+

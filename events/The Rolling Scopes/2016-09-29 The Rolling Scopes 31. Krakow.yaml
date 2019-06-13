@@ -3,21 +3,10 @@ date: 2016-09-29
 talks:
   - name: "Ethereum virtual machines in JS: cryptocurrency revolution"
     speaker: Александр Пастухов
-    lang: ru
-    tags:
-      - frontend
   - name: "Modular JavaScript: put things on the right place"
     speaker: Андрей Емельянчик
-    lang: ru
-    tags:
-      - frontend
   - name: "Serverless architecture: Functions as a Service"
     speaker: 'Дмитрий Воробей, Сергей Мельник'
-    lang: ru
-    tags:
-      - frontend
   - name: "Designers at the lab"
     speaker: Dafna Sharabi
-    lang: ru
-    tags:
-      - frontend
+

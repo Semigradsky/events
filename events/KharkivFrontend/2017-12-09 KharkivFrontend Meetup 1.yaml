@@ -7,42 +7,25 @@ talks:
     speaker: Виталий Петренко
     video: https://www.youtube.com/watch?v=MiCzHtgQIqs
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: GraphQL. Еще одна JavaScript библиотека? Зачем?
     speaker: Олег Момот
     video: https://www.youtube.com/watch?v=9cClYOn8pq8
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: D3.js - инструмент для работы с данными
     speaker: Дарья Лиманская
     video: https://www.youtube.com/watch?v=y0PE63mYGiw
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Service Worker на проде
     speaker: Александра Калинина
     video: https://www.youtube.com/watch?v=QWt3HSrqXw4
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Как заработать на accessibility?
     speaker: Александр Смолянинов
     video: https://www.youtube.com/watch?v=XI6Y7HHURpo
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'accessibility'
   - name: Свежий взгляд на KISS
     speaker: Вячеслав Чуб
     video: https://www.youtube.com/watch?v=BweUe7V-xLQ
     presentation:
-    lang: ru
-    tags:
-      - frontend

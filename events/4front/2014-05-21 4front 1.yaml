@@ -6,28 +6,17 @@ talks:
     speaker: Павел Клименков
     video: https://www.youtube.com/watch?v=RWBdOCHX_vA
     presentation: https://www.slideshare.net/pashaklimenkov/game-physics-34408179?qid=576d8114-e118-4e0b-87b3-6a9440b192a8&v=qf1&b&from_search=1
-    lang: ru
-    tags:
-      - frontend
   - name: Все ли ты знаешь о JavaScript ООП?
     speaker: Виталий Горник
     video: https://www.youtube.com/watch?v=SDdz4PGzyFI
     presentation: https://www.slideshare.net/VitalyHornik/javascript-35171212
-    lang: ru
-    tags:
-      - frontend
   - name: ReactJS - быстрые Javascript интерфейсы
     speaker: Максим Кожух
     video: https://www.youtube.com/watch?v=hsXMrTTly78
     presentation: http://slides.com/mkozhukh/react#/
-    lang: ru
     tags:
-      - frontend
       - 'React'
   - name: Файловая система и JavaScript. Обработка и сохранение файлов в браузере.
-    speaker: Владимир Дашукевич
+    speaker: Владимир Дашукевичa
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

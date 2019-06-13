@@ -5,60 +5,31 @@ talks:
   - name: Зачем Яндекс байнету
     speaker: Андрей Себрант
     url: 'https://events.yandex.ru/lib/talks/994/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как получить больше трафика
     speaker: Александр Садовский
     url: 'https://events.yandex.ru/lib/talks/995/'
-    lang: ru
-    tags:
-      - frontend
   - name: Поиск для сайта
     speaker: Михаил Сенин
     url: 'https://events.yandex.ru/lib/talks/997/'
-    lang: ru
-    tags:
-      - frontend
   - name: О роли карт в прогрессивном сайтостроении
     speaker: Леонид Шныр
     url: 'https://events.yandex.ru/lib/talks/998/'
-    lang: ru
-    tags:
-      - frontend
   - name: Возможности Яндекс.Бара
     speaker: Роман Иванов
     url: 'https://events.yandex.ru/lib/talks/999/'
-    lang: ru
-    tags:
-      - frontend
   - name: Яндекс.Почта и Народ
     speaker: Антон Забанных
     url: 'https://events.yandex.ru/lib/talks/1000/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Трафик с главной страницы Яндекса '
     speaker: Тигран Худавердян
     url: 'https://events.yandex.ru/lib/talks/1002/'
-    lang: ru
-    tags:
-      - frontend
   - name: Яндекс.Новости
     speaker: Татьяна Исаева
     url: 'https://events.yandex.ru/lib/talks/1003/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как устроен поиск по блогам
     speaker: Антон Волнухин
     url: 'https://events.yandex.ru/lib/talks/1004/'
-    lang: ru
-    tags:
-      - frontend
   - name: Белорусская блогосфера
     speaker: Антон Волнухин
     url: 'https://events.yandex.ru/lib/talks/1005/'
-    lang: ru
-    tags:
-      - frontend
+

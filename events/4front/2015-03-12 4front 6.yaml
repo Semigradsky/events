@@ -6,27 +6,15 @@ talks:
     speaker: Паша Клименков
     video: https://www.youtube.com/watch?v=-67yNnx4bck
     presentation: https://www.slideshare.net/slideshow/embed_code/45892689
-    lang: ru
-    tags:
-      - frontend
   - name: Yeoman Generator своими руками
     speaker: Борис Мосунов
     video: https://www.youtube.com/watch?v=_5NxZLOXTWI
     presentation: https://www.slideshare.net/chaykaborya/yeoman-generator
-    lang: ru
-    tags:
-      - frontend
   - name: Параллельность в JavaScript
     speaker: Алексей Саскевич
     video: https://www.youtube.com/watch?v=zqpfmHCiLaQ
     presentation: https://slides.com/asaskevich/deck#/
-    lang: ru
-    tags:
-      - frontend
   - name: Борьба с асинхронностью в JavaScript
     speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=M1N6WlJEEMs
     presentation: http://life777.github.io/promises/index.html?full#face
-    lang: ru
-    tags:
-      - frontend

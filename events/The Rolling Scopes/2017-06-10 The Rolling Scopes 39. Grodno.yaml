@@ -3,22 +3,11 @@ date: 2017-06-10
 talks:
   - name: "OpenGL rendering with Node and Rust"
     speaker: Андрей Лесницкий
-    lang: ru
-    tags:
-      - frontend
   - name: "Serverless architecture: Functions as a Service"
     speaker: Дмитрий Воробей
-    lang: ru
-    tags:
-      - frontend
   - name: "Accelerated Mobile Pages: Делаем WEB сверхбыстрым"
     speaker: Денис Влассенко
-    lang: ru
-    tags:
-      - frontend
   - name: "React Native & ClosureScript"
     speaker: Сергей Мельник
-    lang: ru
     tags:
-      - frontend
       - mobile

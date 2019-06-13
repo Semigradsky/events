@@ -6,44 +6,29 @@ talks:
     speaker: Максим Конин
     video: https://www.youtube.com/watch?v=SjEsPZHUG-A
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'Ember'
   - name: Подходит ли Vue для создания большого web-приложения? Какие возможности дает экосистема Vue
     speaker: Андрей Солодовников
     video: https://www.youtube.com/watch?v=mBmCSXr4TSg
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Скажи мне что-нибудь на программистском!
     speaker: Фёдор Савкин
     video: https://www.youtube.com/watch?v=fLuRX-1_Bjo
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Продвинутые техники FlowType
     speaker: Максим Соснов
     video: https://www.youtube.com/watch?v=Or9G1m4kQag
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Type-level functions in TypeScript
     speaker: Алексей Сазыкин
     video: https://www.youtube.com/watch?v=Z214OwivNso
     presentation:
-    lang: ru
     tags:
-      - frontend
       - TypeScript
   - name: Вам нужен F#
     speaker: Олег Заимкин
     video: https://www.youtube.com/watch?v=speY5apfUBg
     presentation:
-    lang: ru
-    tags:
-      - frontend

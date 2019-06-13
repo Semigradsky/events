@@ -8,69 +8,39 @@ talks:
     speaker: Всеволод Шмыров
     video: https://www.youtube.com/watch?v=FeAasDP9SUc
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: I18N – вы делаете это неправильно!.. наверно...
     speaker: Алексей Охрименко
     video: https://www.youtube.com/watch?v=9xMmRmXKwUk
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Grid Layout как основа современной раскладки Web-страницы
     speaker: Сергей Попов
     video: https://www.youtube.com/watch?v=zmFW-OJbQ_0
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Погружение в WebAssembly - внутреннее устройство и практическое применение
     speaker: Сергей Пугачёв
     video: https://www.youtube.com/watch?v=b5Ru7StlXpY
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: «Реактивный» интерфейс
     speaker: Артём Белов
     video: https://www.youtube.com/watch?v=z5sfHHr-EiY
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Прогрессивные веб-приложения: по-настоящему кросс-платформенный опыт"
     speaker: Максим Сальников
     video: https://www.youtube.com/watch?v=XxViZVp4g3c
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Mission Possible: Собрать приложение целиком из готовых веб-компонентов и опубликовать его в магазинах приложений для всех платформ"
     speaker: Алексей Родионов
     video: https://www.youtube.com/watch?v=2_xy4YIqJLI
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: StoreWars (ngxs, redux, vuex)
     speaker: Кирилл Юсупов, Максим Иванов
     video: https://www.youtube.com/watch?v=I_TqRcw4keQ
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Тестирование: как перестать факапить и начать жить"
     speaker: Игорь Шеко
     video: https://www.youtube.com/watch?v=r9ScM-Sx5Co
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Лайфхаки во фронтенд-разработке
     speaker: Алексей Золотых
     video: https://www.youtube.com/watch?v=-7Ez9Jcap3k
     presentation:
-    lang: ru
-    tags:
-      - frontend

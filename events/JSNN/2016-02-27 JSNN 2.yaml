@@ -5,26 +5,16 @@ talks:
   - name: Webpack в действии
     speaker: Андрей Макаров
     presentation: http://www.slideshare.net/r3nya/hey-webpack
-    lang: ru
-    tags:
-      - frontend
   - name: Meteor + React = ?
     speaker: Павел Шалаев
     presentation: https://slides.com/lawrentiy/meteorreact
-    lang: ru
     tags:
-      - frontend
       - 'React'
   - name: "Meteor: Как собрать приложение из пакетов"
     speaker: Дмитрий Манжасов
     presentation: http://dim2man.github.io/meteor-build-app-from-packages/
-    lang: ru
-    tags:
-      - frontend
   - name: React Native
     speaker: Сергей Смышляев
     presentation: http://slides.com/sergeysmyshlyaev/deck/#/
-    lang: ru
     tags:
-      - frontend
       - mobile

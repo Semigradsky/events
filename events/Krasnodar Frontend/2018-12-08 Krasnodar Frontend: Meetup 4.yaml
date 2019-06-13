@@ -6,34 +6,19 @@ talks:
     speaker: Алексей Попков
     video: https://www.youtube.com/watch?v=Rkb4HVbZ03Q
     presentation: https://yadi.sk/i/0glnD32Hfpf3KQ
-    lang: ru
-    tags:
-      - frontend
   - name: "Снова о Redux: глубокая препарация и создание своего франкенштейна"
     speaker: Алексей Оганезов
     video: https://www.youtube.com/watch?v=jRSA9B6OhHw
     presentation: https://yadi.sk/i/AKFj3QUqkp9buA
-    lang: ru
-    tags:
-      - frontend
   - name: Производительность анимаций. Как не застрять в кадрах
     speaker: Дмитрий Долженко
     video: https://www.youtube.com/watch?v=TI3ZyjcSBiY
     presentation: https://yadi.sk/d/G8AwLBQo2bI8Pw
-    lang: ru
-    tags:
-      - frontend
   - name: Композитные слои и отрисовка в браузере
     speaker: Антон Хлыновский
     video: https://www.youtube.com/watch?v=3rWwFN2ckh0
     presentation: https://yadi.sk/i/93UwiHQYl8mKZQ
-    lang: ru
-    tags:
-      - frontend
   - name: "«Креативный», «тренды» и другие страшные слова. Что должен знать разработчик про дизайн."
     speaker: Юлия Федоренко
     video: https://www.youtube.com/watch?v=obnGpnnn14o
     presentation: https://yadi.sk/i/PvuYOId1emH4pQ
-    lang: ru
-    tags:
-      - frontend

@@ -7,27 +7,15 @@ talks:
     speaker: Сергей Куницкий
     video: https://www.youtube.com/watch?v=bxJLprk9G6I
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Поговорим о сложностях разработки в уходящем году
     speaker: Егор Малькевич
     video: https://www.youtube.com/watch?v=snuwruoHEPg
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: QWERTY vs “Dvorak” or “WTF with your keyboard, Dude?”
     speaker: Артём Николаев
     video: https://www.youtube.com/watch?v=pwlkntAe-A8
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Компонентный подход в построении WEB-приложений
     speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=sH04-Ypak_s
     presentation:
-    lang: ru
-    tags:
-      - frontend

@@ -6,31 +6,18 @@ talks:
   - name: Расставим сети. CSS Grid Layout module.
     speaker: Алексей Стрельников
     video: https://www.youtube.com/watch?v=TPz5MSS0Gy4
-    lang: ru
-    tags:
-      - frontend
   - name: Functional Programming in JS
     speaker: Максим Корабельский
     video: https://www.youtube.com/watch?v=NEVTBVFRk6Y
-    lang: ru
-    tags:
-      - frontend
   - name: Не доверяй входящим данным. Или что такое XSS
     speaker: Богдан Резанов
     video: https://www.youtube.com/watch?v=A5qriMIS9O0
-    lang: ru
-    tags:
-      - frontend
   - name: О чем молчат тесты?
     speaker: Чуб Вячеслав
     video: https://www.youtube.com/watch?v=tphlt_UVS5E
-    lang: ru
     tags:
-      - frontend
       - 'testing'
   - name: Под капотом React Native
     speaker: Антон Кулик
-    lang: ru
     tags:
-      - frontend
       - mobile

@@ -7,193 +7,103 @@ talks:
   - name: What is CSSinJS?
     speaker: Валерій Сорокобатько
     video: 'https://www.youtube.com/watch?v=snO_fDxy3cY'
-    lang: ru
-    tags:
-      - frontend
   - name: Тайны зеленого замочка
     speaker: Владимир Дашукевич
     video: 'https://www.youtube.com/watch?v=VufUKONzZdM'
-    lang: ru
-    tags:
-      - frontend
   - name: A crash-course into virtual reality for web-developers
     speaker: Denys Dovhan
     video: 'https://www.youtube.com/watch?v=KBFEWnnjhKg'
     lang: uk
-    tags:
-      - frontend
   - name: Pixel shaders for Web developers
     speaker: Денис Радин
     video: 'https://www.youtube.com/watch?v=TjcfdEshH4w'
-    lang: ru
-    tags:
-      - frontend
   - name: Асинхронное программирование на JS и Node.js
     speaker: Тимур Шемсединов
     video: 'https://www.youtube.com/watch?v=VdRhAXnfrd0'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Security: Vulnerabilities in your application'
     speaker: Aliaksei Bahachuk
     video: 'https://www.youtube.com/watch?v=DG_fWHeGjXI'
-    lang: ru
-    tags:
-      - frontend
   - name: Security
     speaker: Asim Hussain
     video: 'https://www.youtube.com/watch?v=A3MPD_zl_Ms'
     lang: en
-    tags:
-      - frontend
   - name: Effortless Serverless
     speaker: Aleksandar Simovic
     video: 'https://www.youtube.com/watch?v=eoNPvQeqMZw'
     lang: en
-    tags:
-      - frontend
   - name: А что если мы долетим и там будет всё?
     speaker: Сергей Попов
     video: 'https://www.youtube.com/watch?v=DYyWpZ8XRho'
-    lang: ru
-    tags:
-      - frontend
   - name: Copy-pASTe
     speaker: Илья Климов
     video: 'https://www.youtube.com/watch?v=dyvPGRor-Q0'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Groupware Systems for fun and profit CRDT, OT, Offline'
     speaker: Максим Климишин
     video: 'https://www.youtube.com/watch?v=xEZwd5Tu3oM'
-    lang: ru
-    tags:
-      - frontend
   - name: Что нужно знать о логах.
     speaker: Volodymir Voevidka
     video: 'https://www.youtube.com/watch?v=wrP5pNtOr9A'
     lang: uk
-    tags:
-      - frontend
   - name: CerebralJS - A declarative state and side effects management...
     speaker: Aleksei Gurianov
     video: 'https://www.youtube.com/watch?v=aGcXmFj0RYc'
-    lang: ru
-    tags:
-      - frontend
   - name: Soft Skills
     speaker: ' Maks Yuzva'
     video: 'https://www.youtube.com/watch?v=KB50Idc9ags'
-    lang: ru
-    tags:
-      - frontend
   - name: The working architecture of NodeJS applications
     speaker: ' Victor Turskyi'
     video: 'https://www.youtube.com/watch?v=Z08xL-oXMh0'
-    lang: ru
-    tags:
-      - frontend
   - name: Taking care of performance easiest than ever
     speaker: Артём Денисов
     video: 'https://www.youtube.com/watch?v=M5l-3z0Aulg'
-    lang: ru
-    tags:
-      - frontend
   - name: Нужен ли Вам React SSR ?
     speaker: Dmitry Poddubniy
     video: 'https://www.youtube.com/watch?v=d-LzDQbvZxs'
-    lang: ru
-    tags:
-      - frontend
   - name: Testing in Cloud
     speaker: Andrii Muzalevskyi
     video: 'https://www.youtube.com/watch?v=IlEKMx0IS5c'
-    lang: ru
-    tags:
-      - frontend
   - name: Browser APIs you should not live without
     speaker: Stas Gavrylov
     video: 'https://www.youtube.com/watch?v=R4J2-ubrgxs'
     presentation: 'https://slides.com/stasgavrylov/apis-ru/#/'
-    lang: ru
-    tags:
-      - frontend
   - name: Программирование микроконтроллеров на JavaScript
     speaker: Andrii Kostetskyi
     video: 'https://www.youtube.com/watch?v=iHsslg8ppKw'
     lang: uk
-    tags:
-      - frontend
   - name: How to become a techlead
     speaker: Georgii Podsvetov
     video: 'https://www.youtube.com/watch?v=st98ADflBoQ'
-    lang: ru
-    tags:
-      - frontend
   - name: Burn your grass with React Native
     speaker: Eugene Zharkov
     video: 'https://www.youtube.com/watch?v=hsKDpkYRpB4'
-    lang: ru
-    tags:
-      - frontend
   - name: VueJS  3 cases of usage
     speaker: Vitalii Ratyshnyi
     video: 'https://www.youtube.com/watch?v=FpMEA7GUl-g'
-    lang: ru
-    tags:
-      - frontend
   - name: Polymer
     speaker: Елена Шаровар
     video: 'https://www.youtube.com/watch?v=Xi_eauNC_3E'
-    lang: ru
-    tags:
-      - frontend
   - name: NodeJS Error Handling
     speaker: Nick Lototskiy
     video: 'https://www.youtube.com/watch?v=ytatJN8yYn4'
-    lang: ru
-    tags:
-      - frontend
   - name: UVP and the future of CSSinJS
     speaker: Олег Слободской
     video: 'https://www.youtube.com/watch?v=i1rDywKSMIk'
-    lang: ru
-    tags:
-      - frontend
   - name: How to be a 10x JavaScript developer
     speaker: Владимир Поляков
     video: 'https://www.youtube.com/watch?v=JZuPYu5m6mo'
-    lang: ru
-    tags:
-      - frontend
   - name: Activity tracking for UX protection
     speaker: Max Bugai
     video: 'https://www.youtube.com/watch?v=gHDmFFaRQts'
-    lang: ru
-    tags:
-      - frontend
   - name: React i18n done right
     speaker: Kate Lizogubova
     video: 'https://www.youtube.com/watch?v=R_OzpLIdxaM'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Three js, Back to the Future'
     speaker: Julia Savinkova
     video: 'https://www.youtube.com/watch?v=E8qZeDHxnt8'
-    lang: ru
-    tags:
-      - frontend
   - name: Visual regression testing with BackstopJS
     speaker: Александр Павлыщ
     video: 'https://www.youtube.com/watch?v=QBNrb3ZAlZo'
-    lang: ru
-    tags:
-      - frontend
   - name: Polimerisation of Web Components
     speaker: Dmytro Kalinin
     video: 'https://www.youtube.com/watch?v=2wddU0XH92s'
-    lang: ru
-    tags:
-      - frontend
+

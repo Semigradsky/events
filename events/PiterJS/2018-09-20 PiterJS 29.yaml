@@ -6,20 +6,12 @@ talks:
     speaker: Дмитрий Карловский
     video: 'https://www.youtube.com/watch?v=_rGfJ1GoqjU'
     presentation: https://slides.hyoo.ru/#slides=https%3A%2F%2Fnin-jin.github.io%2Fslides%2Ffibers%2F
-    lang: ru
-    tags:
-      - frontend
   - name: Optimistic UI updates. Проблемы и решения
     speaker: Александр Полянкин
     video: 'https://www.youtube.com/watch?v=Onwbz4APqDM'
     presentation: https://fs.piterjs.org/events/29/polyankin.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: React Native. Спустя год после релиза
     speaker: Максим Ерехинский
     video: 'https://www.youtube.com/watch?v=6DX8boous_c'
     presentation: https://fs.piterjs.org/events/29/erekhinskiy.pdf
-    lang: ru
-    tags:
-      - frontend
+

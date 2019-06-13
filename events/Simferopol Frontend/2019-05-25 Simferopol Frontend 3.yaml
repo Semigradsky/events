@@ -6,20 +6,11 @@ talks:
     speaker: Михаил Трошев
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Houdini — полная власть над браузером
     speaker: Илья Гриненко
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Поиск глазами браузера
     speaker: Руслан Муфтиев
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

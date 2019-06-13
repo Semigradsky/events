@@ -7,29 +7,21 @@ talks:
     speaker: Victor Mozharovsky
     video: https://youtu.be/8pl0DEeHA2E
     presentation: https://docs.google.com/presentation/d/1OVoAoGTCHYBTQLVm92wwKEo5OR-34iqHKzf8WMgAa5Q/edit#slide=id.p
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "Component Driven Development"
     speaker: Agnislav Onufriichuk
     video: https://youtu.be/oHXTVD-Hoj0
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "Journey to the Core"
     speaker: Alexey Veligura
     video: https://youtu.be/-6YdaTO1stM
     presentation: https://docs.google.com/presentation/d/126xbOnojhL7k5waowDhaqFnlJYUgjNTyb36br1v2CAI/edit#slide=id.p
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "Angular Push Notifications"
     speaker: Sebastien Vasylets
     video: https://youtu.be/2ilBbPXTrdM
-    lang: ru
     tags:
-      - frontend
       - Angular

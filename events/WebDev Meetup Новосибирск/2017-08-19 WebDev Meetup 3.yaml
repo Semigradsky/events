@@ -6,13 +6,7 @@ talks:
     speaker: Victor Lukashov
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Web Performance 101
     speaker: Evgeny Chekan
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

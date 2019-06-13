@@ -5,27 +5,16 @@ talks:
     speaker: Николай Надоричев
     video: 'https://www.youtube.com/watch?v=_H6r8MX4VaE&list=PL95OM-7UObpFUgBlfZWZbX0zABxjCfsPy&index=2'
     presentation: 'http://www.slideshare.net/moscowjs/react-moscowjs-31'
-    lang: ru
-    tags:
-      - frontend
   - name: Веб без интернет соединения
     speaker: Михаил Дунаев
     video: 'https://www.youtube.com/watch?v=QAVNsSAI6nk&list=PL95OM-7UObpFUgBlfZWZbX0zABxjCfsPy&index=1'
     presentation: 'http://www.slideshare.net/moscowjs/moscowjs-31'
-    lang: ru
-    tags:
-      - frontend
   - name: Верстка Canvas'ом
     speaker: Алексей Охрименко
     video: 'https://www.youtube.com/watch?v=TxNfcvT9sAg&list=PL95OM-7UObpFUgBlfZWZbX0zABxjCfsPy&index=3'
     presentation: 'http://www.slideshare.net/moscowjs/canvas-moscowjs-31'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Angular2: Куда пропал $apply()?'
     speaker: Тимофей Яценко
     video: 'https://www.youtube.com/watch?v=AigevGx094M&index=4&list=PL95OM-7UObpFUgBlfZWZbX0zABxjCfsPy'
     presentation: 'http://www.slideshare.net/moscowjs/angular2-change-detection-moscowjs-31'
-    lang: ru
-    tags:
-      - frontend
+

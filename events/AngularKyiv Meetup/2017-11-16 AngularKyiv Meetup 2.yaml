@@ -6,23 +6,17 @@ talks:
     speaker: Serhii Melashych
     video: https://www.youtube.com/watch?v=01_UlUgN-uw
     presentation: https://goo.gl/WjVQRE
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "UI Components for Angular"
     speaker: Sebastien Vasylets
     video: https://www.youtube.com/watch?v=PHka1UG68LE
     presentation: https://goo.gl/aHPyxC
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "Have you ever thought, how Material works?"
     speaker: Роман Кисенко
     video: https://www.youtube.com/watch?v=OYRulyOAito
     presentation: https://goo.gl/oxXa7q
-    lang: ru
     tags:
-      - frontend
       - Angular

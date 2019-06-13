@@ -5,54 +5,28 @@ talks:
   - name: 'Трафик с главной страницы Яндекса '
     speaker: 'Вера Лейзерович, Тигран Худавердян'
     url: 'https://events.yandex.ru/lib/talks/738/'
-    lang: ru
-    tags:
-      - frontend
   - name: Виджеты для главной страницы Яндекса. Кто у кого «отнимает» аудиторию?
     speaker: Александр Ларьяновский
     url: 'https://events.yandex.ru/lib/talks/739/'
-    lang: ru
-    tags:
-      - frontend
   - name: Яндекс.Метрика
     speaker: 'Михаил Разуваев, Антон Попов'
     url: 'https://events.yandex.ru/lib/talks/741/'
-    lang: ru
-    tags:
-      - frontend
   - name: Подготовка данных для Яндекс.Новостей
     speaker: Татьяна Исаева
     url: 'https://events.yandex.ru/lib/talks/743/'
-    lang: ru
-    tags:
-      - frontend
   - name: Подготовка данных для поиска по блогам
     speaker: Антон Волнухин
     url: 'https://events.yandex.ru/lib/talks/744/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Передача дополнительной информации о сайте через Яндекс.Вебмастер '
     speaker: Михаил Сенин
     url: 'https://events.yandex.ru/lib/talks/745/'
-    lang: ru
-    tags:
-      - frontend
   - name: Данные для Яндекс.Почты
     speaker: Антон Забанных
     url: 'https://events.yandex.ru/lib/talks/747/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Подготовка данных для Яндекс.Маркета '
     speaker: Алексей Авдей
     url: 'https://events.yandex.ru/lib/talks/748/'
-    lang: ru
-    tags:
-      - frontend
   - name: Подготовка данных для поиска Картинок и Видео
     speaker: Дмитрий Беляев
     url: 'https://events.yandex.ru/lib/talks/749/'
-    lang: ru
-    tags:
-      - frontend
+

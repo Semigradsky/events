@@ -5,54 +5,34 @@ talks:
   - name: Nuxt.js — фреймворк для приложений на Vue.js
     speaker: Андрей Солодовников
     video: https://www.youtube.com/watch?v=Qcr9vVBITTU
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Построение высокопроизводительного отказоустойчивого хранилища для Big Data и Stateful сервисов
     speaker: Евгений Хашин
     video: https://www.youtube.com/watch?v=E97l7qUy35M
-    lang: ru
-    tags:
-      - frontend
   - name: Тест Джоэла Спольски. 20 лет спустя. Наши дни.
     speaker: Иван Муратов
     video: https://www.youtube.com/watch?v=f6G4OaEWBaE
-    lang: ru
   - name: get git
     speaker: Александр Иванов
     video: https://www.youtube.com/watch?v=N3v-NoGe7nQ
-    lang: ru
-    tags:
-      - frontend
   - name: Кросс-функциональные команды и самоорганизация в основе Agile
     speaker: Денис Сальников
     video: https://www.youtube.com/watch?v=EVNeFvyfaPo
-    lang: ru
-    tags:
-      - frontend
   - name: Realm vs CoreData
     speaker: Ник Ков
     video: https://www.youtube.com/watch?v=sMdiaUtZPr0
-    lang: ru
   - name: Зачем мне Python?
     speaker: Виктор Тыщенко
     video: https://www.youtube.com/watch?v=siwYji8MMw0
-    lang: ru
   - name: "WinDbg & Co.: отладка.Net приложений"
     speaker: Павел Колмаков
     video: https://www.youtube.com/watch?v=OyfGRgUaVz4
-    lang: ru
-    tags:
-      - frontend
   - name: Безбажный код. Опыт борьбы с ошибками в большой компании.
     speaker: Алексей Светлицкий
     video: https://www.youtube.com/watch?v=YLQ1lH7mGY8
-    lang: ru
   - name: "React: ecosystem & future"
     speaker: Марк Ланговой
     video: https://www.youtube.com/watch?v=BxhFTI7nKYU
-    lang: ru
     tags:
-      - frontend
       - 'React'

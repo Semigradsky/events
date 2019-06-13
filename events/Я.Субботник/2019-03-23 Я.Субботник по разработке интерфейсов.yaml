@@ -5,42 +5,22 @@ talks:
   - name: Технологии во фронтенде Яндекса
     speaker: '?'
     url: 'https://events.yandex.ru/lib/talks/7108/'
-    lang: ru
-    tags:
-      - frontend
   - name: ШРИ — что внутри?
     speaker: '?'
     url: 'https://events.yandex.ru/lib/talks/7109/'
-    lang: ru
-    tags:
-      - frontend
   - name: Гарантия качества
     speaker: '?'
     url: 'https://events.yandex.ru/lib/talks/7112/'
-    lang: ru
-    tags:
-      - frontend
   - name: Модульный фронтенд
     speaker: '?'
     url: 'https://events.yandex.ru/lib/talks/7113/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Как не писать код самому: делегируем наши проблемы AST'
     speaker: '?'
     url: 'https://events.yandex.ru/lib/talks/7105/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Вебпак: вид через монокль'
     speaker: '?'
     url: 'https://events.yandex.ru/lib/talks/7106/'
-    lang: ru
-    tags:
-      - frontend
   - name: Про React-хуки
     speaker: '?'
     url: 'https://events.yandex.ru/lib/talks/7110/'
-    lang: ru
-    tags:
-      - frontend
+

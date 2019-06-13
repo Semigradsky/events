@@ -7,255 +7,154 @@ talks:
     video: https://youtu.be/w_earklcNAY
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: My password doesn't work! [Keynote] (с переводом)
     speaker: Blaine Cook
     video: https://youtu.be/R27XeMIVbms
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: React, TypeScript и Redux — как сделать SPA для мобильных браузеров
     speaker: Егор Банщиков
     video: https://youtu.be/aURhA1Ckykc
     presentation: https://speakerdeck.com/frontfest/ieghor-banshchikov
-    lang: ru
-    tags:
-      - frontend
   - name: Закложурю ваш джаваскрипт. Дорого. Опыт использования ClojureScript в aviasales.ru
     speaker: Кирилл Чернышов
     video: https://youtu.be/AWH3JF9Klsg
     presentation: https://speakerdeck.com/frontfest/kirill-chiernyshiev
-    lang: ru
-    tags:
-      - frontend
   - name: Кодстайл и насилие
     speaker: Антон Немцев
     video: https://youtu.be/HZF3XRNOpGo
     presentation: https://silentimp.github.io/codeStyleAndViolenceRu
-    lang: ru
-    tags:
-      - frontend
   - name: Туманное будущее JavaScript или куда мы все идем
     speaker: Владимир Дашукевич
     video:
     presentation: https://speakerdeck.com/frontfest/vladimir-dashukievich-kvartirnik
-    lang: ru
-    tags:
-      - frontend
   - name: When things start getting serious - Building a production-ready Node.js backend [Workshop]
     speaker: Franziska Klingner
     video:
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: Progressive Image Rendering
     speaker: Jose M. Perez
     video: https://www.youtube.com/watch?v=rmq1iEKsmBc
     presentation: https://speakerdeck.com/frontfest/jose-m-perez
     lang: en
-    tags:
-      - frontend
   - name: Progressive Image Rendering (с переводом)
     speaker: Jose M. Perez
     video: https://youtu.be/xxh6mk60RDo
     presentation: https://speakerdeck.com/frontfest/jose-m-perez
-    lang: ru
-    tags:
-      - frontend
   - name: Как переписать крупный проект на Angular и (не) впасть в депрессию
     speaker: Илья Таратухин
     video: https://youtu.be/9NYeqai1z7Q
     presentation: https://ilfa.github.io/angular_mistakes
-    lang: ru
-    tags:
-      - frontend
   - name: "(Не очень) молчаливый наблюдатель: что я узнала, наблюдая за JavaScript-экосистемой"
     speaker: Екатерина Пригара
     video: https://youtu.be/1fDrqaaXekA
     presentation: https://speakerdeck.com/frontfest/iekatierina-prighara
-    lang: ru
-    tags:
-      - frontend
   - name: "RON: Replicated object notation"
     speaker: Виктор Грищенко
     video: https://youtu.be/QFWZlfSChoY
     presentation: https://speakerdeck.com/frontfest/viktor-grishchienko
-    lang: ru
-    tags:
-      - frontend
   - name: Как устроен Главред
     speaker: Анатолий Буров
     video: https://youtu.be/HTzoQBPltY8
     presentation: https://speakerdeck.com/frontfest/anatolii-burov
-    lang: ru
-    tags:
-      - frontend
   - name: Почему никто не воспринимает фронтендеров всерьёз
     speaker: Владислав Козуля
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: CODE & ART
     speaker: Mathieu 'p01' Henri
     video: https://youtu.be/ukrsIDd-4us
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: CODE & ART (с переводом)
     speaker: Mathieu 'p01' Henri
     video: https://youtu.be/SMAadnnxqzo
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Как сделать идеальный виджет? Опыт Travelpayouts
     speaker: Игорь Вечканов
     video: https://youtu.be/1Y-xHRItboE
     presentation: https://speakerdeck.com/frontfest/ighor-viechkanov
-    lang: ru
-    tags:
-      - frontend
   - name: Six apps — one code with angular [Workshop]
     speaker: Sani Yusuf
     video:
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: "React и данные: Эффективные способы хранения и изменения стейта"
     speaker: Алексей Иванов
     video: https://youtu.be/6m950Hqr_eI
     presentation: https://speakerdeck.com/frontfest/alieksiei-ivanov
-    lang: ru
-    tags:
-      - frontend
   - name: A developer's guide to accessibility APIs
     speaker: Léonie Watson
     video: https://youtu.be/KBMUoA3OEYY
     presentation: https://speakerdeck.com/frontfest/leonie-watson
     lang: en
-    tags:
-      - frontend
   - name: A developer's guide to accessibility APIs (с переводом)
     speaker: Léonie Watson
     video: https://www.youtube.com/watch?v=k7Uty2M7y1k
     presentation: https://speakerdeck.com/frontfest/leonie-watson
-    lang: ru
-    tags:
-      - frontend
   - name: "JavaScript on Things: Electronics for Web Devs"
     speaker: Lyza Danger Gardner
     video: https://youtu.be/oF04gztJP2g
     presentation: https://speakerdeck.com/frontfest/lyza-danger-gardner
     lang: en
-    tags:
-      - frontend
   - name: "JavaScript on Things: Electronics for Web Devs (с переводом)"
     speaker: Lyza Danger Gardner
     video: https://youtu.be/xjjs5Sxb_mg
     presentation: https://speakerdeck.com/frontfest/lyza-danger-gardner
-    lang: ru
-    tags:
-      - frontend
   - name: Почему программисту важно общее развитие
     speaker: Игорь Алексеенко
     video: https://www.youtube.com/watch?v=_dixWLGxUF4
     presentation: https://speakerdeck.com/frontfest/ighor-alieksieienko
-    lang: ru
-    tags:
-      - frontend
   - name: Интерфейс для 224 стран на 40 языках
     speaker: Вениамин Тамбурин
     video: https://youtu.be/zHzz-S6lyFY
     presentation: https://speakerdeck.com/frontfest/vieniamin-tamburin
-    lang: ru
-    tags:
-      - frontend
   - name: Тренды и фронтенды
     speaker: Никита Прокопов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Декларативная шаблонизация
     speaker: Владимир Гриненко
     video: https://youtu.be/eFXkgRMynbA
     presentation: https://speakerdeck.com/frontfest/vladimir-grinienko
-    lang: ru
-    tags:
-      - frontend
   - name: Алгоритмы и структуры данных меняющие современный Frontend
     speaker: Владимир Дашукевич
     video: https://youtu.be/nocJsLFPjNk
     presentation: https://speakerdeck.com/frontfest/vladimir-dashukievich
-    lang: ru
-    tags:
-      - frontend
   - name: А что, если мы долетим и там будет всё?
     speaker: Сергей Попов
     video: https://youtu.be/GA8GraN1I0I
     presentation: https://speakerdeck.com/frontfest/sierghiei-popov
-    lang: ru
-    tags:
-      - frontend
   - name: Twin-stick Shooter from scratch [Workshop]
     speaker: Mathieu 'p01' Henri
     video:
     presentation:
     lang: en
-    tags:
-      - frontend
   - name: Оптимизация графики на практике
     speaker: Тим Чаптыков
     video: https://youtu.be/wexOXAflVX0
     presentation: https://speakerdeck.com/frontfest/tim-chaptykov
-    lang: ru
-    tags:
-      - frontend
   - name: JavaScript and Node.js — why the ugly duckling is conquering the world
     speaker: Franziska Klingner
     video: https://youtu.be/Ov-DhH7U7NE
     presentation: https://speakerdeck.com/frontfest/franziska-klingner
     lang: en
-    tags:
-      - frontend
   - name: JavaScript and Node.js — why the ugly duckling is conquering the world (с переводом)
     speaker: Franziska Klingner
     video: https://youtu.be/qlTnsYvIbJo
     presentation: https://speakerdeck.com/frontfest/franziska-klingner
-    lang: ru
-    tags:
-      - frontend
   - name: История одной метрики производительности в Booking.com
     speaker: Антон Епрев
     video: https://youtu.be/FqBzZ5jHsYw
     presentation: https://speakerdeck.com/frontfest/anton-iepriev
-    lang: ru
-    tags:
-      - frontend
   - name: Как фронтендеру учиться
     speaker: Андрей Ситник
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: The journey to the best job in the world
     speaker: Matheus Fernandes
     video: https://www.youtube.com/watch?v=e-dl8RpzTbg
     lang: en
-    tags:
-      - frontend
   - name: The journey to the best job in the world (с переводом)
     speaker: Matheus Fernandes
     video: https://youtu.be/6KUpgZ4FJ24
-    lang: ru
-    tags:
-      - frontend

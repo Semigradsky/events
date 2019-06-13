@@ -5,36 +5,19 @@ talks:
   - name: 'Ревью: Как устроена система оценки производительности сотрудников в Яндексе'
     speaker: Сергей Бережной
     url: 'https://events.yandex.ru/lib/talks/6176/'
-    lang: ru
-    tags:
-      - frontend
   - name: Мутационное тестирование
     speaker: Евгений Сорокин
     url: 'https://events.yandex.ru/lib/talks/6175/'
-    lang: ru
-    tags:
-      - frontend
   - name: A Dollar Config
     speaker: Азат Разетдинов
     url: 'https://events.yandex.ru/lib/talks/6172/'
-    lang: ru
-    tags:
-      - frontend
   - name: Создание модулей для API Яндекс.Карт на примере визуализации данных
     speaker: Руслан Хуснетдинов
     url: 'https://events.yandex.ru/lib/talks/6178/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Веб-компоненты: от Angular к React'
     speaker: Дмитрий Лямкин
     url: 'https://events.yandex.ru/lib/talks/6179/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Бэкенд слишком важен, чтобы доверять его бэкендерам'
     speaker: Назим Гафаров
     url: 'https://events.yandex.ru/lib/talks/6173/'
-    lang: ru
-    tags:
-      - frontend
+

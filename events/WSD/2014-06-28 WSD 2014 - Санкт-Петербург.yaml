@@ -6,76 +6,44 @@ talks:
     speaker: Роберт Харитонов
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/automation/
-    lang: ru
-    tags:
-      - frontend
   - name: "Автоматизация или смерть!"
     speaker: "Антон Еремеев и\_Артём Пархоменко"
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/auto-or-die/
-    lang: ru
-    tags:
-      - frontend
   - name: "DOM-шаблонизаторы\_— не\_только быстро"
     speaker: Роман Дворнов
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/dom-templates.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Редкие звери"
     speaker: Олег Корсунский
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/rare-species/
-    lang: ru
-    tags:
-      - frontend
   - name: "От\_простого к\_сложному"
     speaker: Владимир Кузнецов
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/simple-complex/
-    lang: ru
-    tags:
-      - frontend
   - name: "БЭМ\_— норм"
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/bem-ok/
-    lang: ru
-    tags:
-      - frontend
   - name: "Парсеры для чайников"
     speaker: Алёна Царёва
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/parsers/
-    lang: ru
-    tags:
-      - frontend
   - name: "Стили кодирования в\_JavaScript"
     speaker: Александр Феоктистов
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/js-code-styles.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Как сделать Инстаграм в\_браузере"
     speaker: Дмитрий Дудин
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/web-instagram/
-    lang: ru
-    tags:
-      - frontend
   - name: "Особенности мобильной фронтенд-разработки"
     speaker: Дмитрий Ляпунов
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/mobile-dev/
-    lang: ru
-    tags:
-      - frontend
   - name: "Позвольте представить: SVG"
     speaker: Юлия Бухвалова
     video: https://www.youtube.com/watch?v=TXqiq5tOWRQ
     presentation: https://wsd.events/2014/06/28/pres/meet-svg/
-    lang: ru
-    tags:
-      - frontend
+

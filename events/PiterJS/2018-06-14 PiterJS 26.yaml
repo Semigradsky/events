@@ -7,20 +7,12 @@ talks:
     video: 'https://www.youtube.com/watch?v=DgKzuCogoPA'
     presentation: https://fs.piterjs.org/events/26/loginov.pdf
     text: https://habr.com/ru/company/piterjs/blog/422281/
-    lang: ru
-    tags:
-      - frontend
   - name: 'Знай свой JIT: ближе к машине'
     speaker: Андрей Мелихов
     video: 'https://www.youtube.com/watch?v=2NYaQLOIs2o'
     presentation: https://fs.piterjs.org/events/26/melikhov.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Тормозит ли мой интерфейс?
     speaker: Иван Метелев
     video: 'https://www.youtube.com/watch?v=GN-g_gH_JaU'
     presentation: https://fs.piterjs.org/events/26/metelev.pdf
-    lang: ru
-    tags:
-      - frontend
+

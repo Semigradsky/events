@@ -5,54 +5,28 @@ talks:
   - name: Драматическая история одной маленькой промостраницы
     speaker: Олег Мохов
     url: 'https://events.yandex.ru/lib/talks/428/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'CSS-препроцессоры: из каменного века — в будущее'
     speaker: Роман Комаров
     url: 'https://events.yandex.ru/lib/talks/429/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Git — ветки, деревья, лес'
     speaker: Сергей Сергеев
     url: 'https://events.yandex.ru/lib/talks/431/'
-    lang: ru
-    tags:
-      - frontend
   - name: Отказоустойчивость сервисов
     speaker: Павел Пушкарев
     url: 'https://events.yandex.ru/lib/talks/432/'
-    lang: ru
-    tags:
-      - frontend
   - name: Интранет и синхронизация
     speaker: Екатерина Войденко
     url: 'https://events.yandex.ru/lib/talks/433/'
-    lang: ru
-    tags:
-      - frontend
   - name: Автоматизированное тестирование безопасности конфигурации промышленных веб-серверов
     speaker: Тарас Иващенко
     url: 'https://events.yandex.ru/lib/talks/435/'
-    lang: ru
-    tags:
-      - frontend
   - name: Качество кода автотестов
     speaker: Артём Кошелев
     url: 'https://events.yandex.ru/lib/talks/436/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Разработка на Node.js: инструменты, библиотеки, сервисы'
     speaker: Владимир Алаев
     url: 'https://events.yandex.ru/lib/talks/437/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Жизнь одного проекта: от идеи до воплощения'
     speaker: 'Дмитрий Качмар, Вадим Цесько'
     url: 'https://events.yandex.ru/lib/talks/439/'
-    lang: ru
-    tags:
-      - frontend
+

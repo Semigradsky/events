@@ -5,78 +5,40 @@ talks:
   - name: The portrait of professional developer 3.0
     speaker: Mikalai Alimenkou
     video: 'https://www.youtube.com/watch?v=Z48yWbWuU78'
-    lang: ru
-    tags:
-      - frontend
   - name: Decorating JavaScript
     speaker: Denis Vlassenko
     video: 'https://www.youtube.com/watch?v=I9O25eXZGh4'
-    lang: ru
-    tags:
-      - frontend
   - name: AMP - Accelerated Mobile Pages. Making the Web Fast and Compelling
     speaker: Denis Vlassenko
     video: 'https://www.youtube.com/watch?v=GDN2j3vHtJI'
-    lang: ru
-    tags:
-      - frontend
   - name: Docker for Node.js Developer
     speaker: Никита Галкин
     video: 'https://www.youtube.com/watch?v=Es0uBQOiEw4'
-    lang: ru
-    tags:
-      - frontend
   - name: Perf again? Let's play fonts
     speaker: Artem Denysov
     video: 'https://www.youtube.com/watch?v=0e0QrcHslAA'
-    lang: ru
-    tags:
-      - frontend
   - name: Strict JavaScript
     speaker: Helen Zhukova
     video: 'https://www.youtube.com/watch?v=XJiRqW2Gf6o'
-    lang: ru
-    tags:
-      - frontend
   - name: Custom CLI tools in the project.
     speaker: Денис Кузин
     video: 'https://www.youtube.com/watch?v=K1HEd0uUEXo'
-    lang: ru
-    tags:
-      - frontend
   - name: PWA - native apps power in web
     speaker: Borys Mohyla
     video: 'https://www.youtube.com/watch?v=Teix6SA1FbU'
-    lang: ru
-    tags:
-      - frontend
   - name: NestJS. When patterns matters
     speaker: Ostap Chervak
     video: 'https://www.youtube.com/watch?v=Z9KkMRd8Blc'
-    lang: ru
-    tags:
-      - frontend
   - name: Project experience in Angular2+
     speaker: Kostiantyn Hryshyn
     video: 'https://www.youtube.com/watch?v=4TwvQIIOCH8'
-    lang: ru
-    tags:
-      - frontend
   - name: Serverless applications with cross-cloud experience
     speaker: Andriy Deren
     video: 'https://www.youtube.com/watch?v=yfJcrEvQnJg'
-    lang: ru
-    tags:
-      - frontend
   - name: React Next - Fiber and Some other neat things
     speaker: Yevhen Shemet
     video: 'https://www.youtube.com/watch?v=SbWFMoZDxdA'
-    lang: ru
-    tags:
-      - frontend
   - name: Machines Must Suffer!
     speaker: Александр Павлыщ
     video: 'https://www.youtube.com/watch?v=4WLuNX2lPx0'
-    lang: ru
-    tags:
-      - frontend
+

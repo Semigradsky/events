@@ -7,26 +7,15 @@ talks:
     speaker: Константин Лебедев
     video: https://youtu.be/J08UOAJdjWc
     presentation: https://rubaxa.github.io/octavius/2017/avito.html#
-    lang: ru
-    tags:
-      - frontend
   - name: "Атомарные SPA"
     speaker: Александр Китов
     video: https://youtu.be/pkHWttaktWk
     presentation: https://www.icloud.com/keynote/0nE1tZ3A33I0xIVROIToxF0Eg#Avito_04.2018
-    lang: ru
-    tags:
-      - frontend
   - name: "Масштабируемая архитектура фронтенда"
     speaker: Роман Дворнов
     video: https://youtu.be/z9y6PNC2FL0
     presentation: https://speakerdeck.com/avitotech/masshtabiruiemaia-arkhitiektura-frontienda-roman-dvornov-avito
-    lang: ru
-    tags:
-      - frontend
   - name: "Дискуссионная панель \"SPA сегодня — каким оно должно быть?\""
     speaker: '?'
     video: https://youtu.be/BezEWFL5WKk
-    lang: ru
-    tags:
-      - frontend
+

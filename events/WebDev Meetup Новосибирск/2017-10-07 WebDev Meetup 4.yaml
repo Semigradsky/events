@@ -6,20 +6,11 @@ talks:
     speaker: Wilson Mendes
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Как собрать с помощью webpack бандл мечты
     speaker: Максим Соснов
     video: https://www.youtube.com/watch?v=tT3FDMUpf10
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Swagger. Document it!
     speaker: Даниил Кузнецов
     video: https://www.youtube.com/watch?v=llDskdYY-ag
     presentation:
-    lang: ru
-    tags:
-      - frontend

@@ -6,31 +6,23 @@ talks:
     speaker: Александр Башкирцев
     video: https://youtu.be/h9NQs0SEVoA?t=10m41s
     presentation: https://speakerdeck.com/vuejsmoscow/modieli-dannykh-dlia-form-riedaktirovaniia-alieksandr-bashkirtsiev-vue-dot-js-moscow-meetup
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: "Внедряем Vue.js в готовый проект, безболезненное избавление от jQuery."
     speaker: Александр Майоров
     video: https://youtu.be/h9NQs0SEVoA?t=40m11s
     presentation: https://speakerdeck.com/vuejsmoscow/vniedriaiem-vue-dot-js-v-ghotovyi-proiekt-biezboliezniennoie-izbavlieniie-ot-jquery-alieksandr-maiorov-vue-dot-js-moscow-meetup
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: "Простое и понятное управление состоянием во vue.js"
     speaker: Александр Сафт
     video: https://youtu.be/h9NQs0SEVoA?t=1h34m7s
     presentation: https://speakerdeck.com/vuejsmoscow/prostoie-i-poniatnoie-upravlieniie-sostoianiiem-vo-vue-dot-js-alieksandr-saft-vue-dot-js-moscow-meetup
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: "Опыт использования Nuxt.js"
     speaker: Григорий Петров
     video: https://youtu.be/h9NQs0SEVoA?t=1h57m3s
     presentation: https://speakerdeck.com/vuejsmoscow/opyt-ispol-zovaniia-nuxt-dot-js-grighorii-pietrov-tiekhnichieskii-ievanghielist-voximplant-vue-dot-js-moscow-meetup
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'

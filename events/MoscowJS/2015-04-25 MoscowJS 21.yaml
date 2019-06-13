@@ -4,27 +4,16 @@ talks:
   - name: Оптимизация React не усложняя архитектуру
     speaker: Вопиловский Константин
     presentation: 'https://www.slideshare.net/moscowjs/reactjs-47567931'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Пуленепробиваемый фронтенд: разработка под React на TypeScrip'
     speaker: Станислав Панферов
     video: 'https://www.youtube.com/watch?v=MvsTk29k6yc'
     presentation: 'https://www.slideshare.net/moscowjs/ss-47567934'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Typescript: кому нужна строгая типизация?'
     speaker: Григорий Петров
     video: 'https://www.youtube.com/watch?v=Ui8YfxzjaTY'
     presentation: 'https://www.slideshare.net/moscowjs/type-script-47567915'
-    lang: ru
-    tags:
-      - frontend
   - name: 3D-плеер на WebGL
     speaker: Василика Климова
     video: 'https://www.youtube.com/watch?v=0Z0vsg830QQ'
     presentation: 'https://www.slideshare.net/moscowjs/3-d-webgl'
-    lang: ru
-    tags:
-      - frontend
+

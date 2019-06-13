@@ -5,30 +5,15 @@ talks:
   - name: Переход с Angular 1.2 на 2.
     speaker: Дмитрий Фролов
     presentation: https://docs.google.com/a/kugaevsky.ru/presentation/d/16zK4XFgAUbOXswwzUiG1Ij8lWS0BLttFNuCoiAlOXzk/
-    lang: ru
-    tags:
-      - frontend
   - name: React.js, intro
     speaker: Андрей Макаров
     presentation: http://www.slideshare.net/r3nya/reactjs-intro
-    lang: ru
-    tags:
-      - frontend
   - name: Галп для сборки статики / Asset Pipeline with Gulp
     speaker: Николай Кугаевский
     presentation: http://slides.kugaevsky.ru/gulp-assets-pipeline.html
-    lang: ru
-    tags:
-      - frontend
   - name: ExtJS 5
     speaker: Дмитрий Родичев
     presentation: http://noroot.github.io/slides/extjs/
-    lang: ru
-    tags:
-      - frontend
   - name: Meteor.js или как сделать стартап в одиночку
     speaker: Павел Шалаев
     presentation: http://slides.com/lawrentiy/meteorintroduce#/
-    lang: ru
-    tags:
-      - frontend

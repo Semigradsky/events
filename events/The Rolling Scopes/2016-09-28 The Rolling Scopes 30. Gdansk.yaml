@@ -3,22 +3,12 @@ date: 2016-09-28
 talks:
   - name: "TypeScript and what's the hack Javascript"
     speaker: Вадим Якушев
-    lang: ru
     tags:
-      - frontend
       - TypeScript
   - name: "Yes, you can use Web components in production"
     speaker: David Ferreira
-    lang: ru
-    tags:
-      - frontend
   - name: "Serverless architecture: Functions as a Service"
     speaker: 'Дмитрий Воробей, Сергей Мельник'
-    lang: ru
-    tags:
-      - frontend
   - name: "Designers at the lab"
     speaker: Dafna Sharabi
-    lang: ru
-    tags:
-      - frontend
+

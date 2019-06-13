@@ -4,19 +4,11 @@ talks:
   - name: "Библиотека компонентов для дизайнера и разработчика"
     speaker: Максим Соснов
     video: https://youtu.be/HPDmUqFgG0E
-    lang: ru
-    tags:
-      - frontend
   - name: "Реактивное программирование с помощью RxJS"
     speaker: Илья Зайцев
     video: https://youtu.be/GmnHkHb86a4
-    lang: ru
-    tags:
-      - frontend
   - name: "Flow в легаси коде - легко!"
     speaker: Глеб Фокин
     video: https://youtu.be/QkZhPpRhxSk
     presentation: https://docs.google.com/presentation/d/1vy_XNiHAKaieEeVcoLmd82Eg4GAH8fV24_j2HaBGmzg/edit
-    lang: ru
-    tags:
-      - frontend
+

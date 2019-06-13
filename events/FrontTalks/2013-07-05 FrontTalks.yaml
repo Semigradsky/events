@@ -5,48 +5,25 @@ talks:
   - name: 'File API: обработка файлов на клиенте и их загрузка на сервер'
     speaker: Константин Лебедев
     url: 'https://events.yandex.ru/lib/talks/976/'
-    lang: ru
-    tags:
-      - frontend
   - name: Promise – это не больно
     speaker: Михаил Давыдов
     url: 'https://events.yandex.ru/lib/talks/981/'
-    lang: ru
-    tags:
-      - frontend
   - name: Веб-приложения будущего
     speaker: Илья Пухальский
     url: 'https://events.yandex.ru/lib/talks/1012/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Basis.js. Почему я не бросил разрабатывать свой фреймворк'
     speaker: Роман Дворнов
     url: 'https://events.yandex.ru/lib/talks/980/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Ошибки, которые мы любим'
     speaker: Алексей Андросов
     url: 'https://events.yandex.ru/lib/talks/978/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Зачем Опере Вебкит, или Опиум для народа'
     speaker: Вадим Макеев
     url: 'https://events.yandex.ru/lib/talks/1011/'
-    lang: ru
-    tags:
-      - frontend
   - name: Произвольная смена дизайна системного скроллбара
     speaker: Дмитрий Кузнецов
     url: 'https://events.yandex.ru/lib/talks/983/'
-    lang: ru
-    tags:
-      - frontend
   - name: Распечатай Яндекс.Карты
     speaker: Вадим Макишвили
     url: 'https://events.yandex.ru/lib/talks/984/'
-    lang: ru
-    tags:
-      - frontend
+

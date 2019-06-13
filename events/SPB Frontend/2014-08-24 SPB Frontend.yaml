@@ -5,6 +5,4 @@ talks:
   - name: Ember from zero party
     speaker: Артём Сущев
     video: 'https://www.youtube.com/watch?v=4E1MFIvkGbY'
-    lang: ru
-    tags:
-      - frontend
+

@@ -6,55 +6,31 @@ talks:
     speaker: Владимир Макуха
     video: https://www.youtube.com/watch?v=cr-cFGWsHM8
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Grid layout
     speaker: Денис Переверзев
     video: https://www.youtube.com/watch?v=MIlL3nzKkRo
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Прячем хаки и ускоряем рендеринг с PostCSS
     speaker: Алексей Швайка
     video: https://www.youtube.com/watch?v=ByFpBtTI4mc
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: CSS-методологии и реализация тем в больших веб-приложениях
     speaker: Игорь Зенич
     video: https://www.youtube.com/watch?v=uwlnynpVdW8
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Если ты лентяй и верстаешь уже 12 лет
     speaker: Юрий Артюх
     video: https://www.youtube.com/watch?v=9PNFjPhUK_E
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: CSS 5DX
     speaker: Александр Павлыщ
     video: https://www.youtube.com/watch?v=63NxPTZ0Oxs
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: UX решения на практике
     speaker: Денис Яровой
     video: https://www.youtube.com/watch?v=ZvEcX0ka1Tg
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Вы не знаете CSS
     speaker: Антон Немцев
     video: https://www.youtube.com/watch?v=O4kiMLPeNGw
     presentation: https://wsd.events/2016/10/29/pres/you-dont-know-css/
-    lang: ru
-    tags:
-      - frontend

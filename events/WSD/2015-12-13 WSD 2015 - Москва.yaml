@@ -7,69 +7,43 @@ talks:
     video: https://www.youtube.com/watch?v=rpVlnhPMN0I
     presentation: https://wsd.events/2015/12/13/pres/microsoft-edge.pdf
     lang: en
-    tags:
-      - frontend
   - name: "Ещё лучше, чем настоящие!"
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=Bhd5HQ1I2LM
     presentation: https://wsd.events/2015/12/13/pres/web-apps/
-    lang: ru
-    tags:
-      - frontend
   - name: "Фронтенд в Avito"
     speaker: Александр Лобашёв
     video: https://www.youtube.com/watch?v=OFKbwNc8AIw
     presentation: https://wsd.events/2015/12/13/pres/avito-frontend.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "WCAG 2.0 или боль доступного веба"
     speaker: Станислав Зубович
     video: https://www.youtube.com/watch?v=ETw8uUr6Q7g
     presentation: https://wsd.events/2015/12/13/pres/wcag-pain/
-    lang: ru
     tags:
-      - frontend
       - 'accessibility'
   - name: "Отладка подключённых устройств на Vorlon.js"
     speaker: Дэвид Руссе
     video: https://www.youtube.com/watch?v=n5zSgnEW2yE
     presentation: https://wsd.events/2015/12/13/pres/vorlon-js.pdf
     lang: en
-    tags:
-      - frontend
   - name: "Создание редактора изображений в\_браузере"
     speaker: Всеволод Шмыров
     video: https://www.youtube.com/watch?v=xT6eBk_Wr7c
     presentation: https://wsd.events/2015/12/13/pres/image-editor.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Тёмная сторона SVG"
     speaker: Ирина Руденко
     video: https://www.youtube.com/watch?v=pnWy3c3F-t8
     presentation: https://wsd.events/2015/12/13/pres/svg-dark-side.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "CSSO — сжимаем CSS"
     speaker: Роман Дворнов
     video: https://www.youtube.com/watch?v=KgF0gGW_Bk0
     presentation: https://wsd.events/2015/12/13/pres/csso.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Всем стоять и\_не\_двигаться!"
     speaker: Алексей Охрименко
     video: https://www.youtube.com/watch?v=K5JuBK5JAv0
     presentation: https://wsd.events/2015/12/13/pres/dont-move/
-    lang: ru
-    tags:
-      - frontend
   - name: "Shower 2.0"
     speaker: Денис Хананеин
     video: https://www.youtube.com/watch?v=WlBXMnRZCf0
     presentation: https://wsd.events/2015/12/13/pres/shower-2/
-    lang: ru
-    tags:
-      - frontend
+

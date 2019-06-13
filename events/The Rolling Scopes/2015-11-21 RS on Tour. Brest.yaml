@@ -4,38 +4,23 @@ talks:
   - name: "Доклад-обсуждение: Тренды front-end разработки 2015: Процессы, Фреймворки, Библиотеки, Инструменты."
     speaker: Дмитрий Воробей
     presentation: http://rolling-scopes.github.io/slides/rs20/trends/
-    lang: ru
-    tags:
-      - frontend
   - name: "Полгода жизни с хомяком"
     speaker: Василий Ванчук
     presentation: http://rolling-scopes.github.io/slides/rs20/ember-presentation.pptx
-    lang: ru
     tags:
-      - frontend
       - 'Ember'
   - name: "WCAG 2.0 или боль доступного веба"
     speaker: Станислав Зубович
     presentation: http://stanislauzubovich.github.io/WCAG/
-    lang: ru
     tags:
-      - frontend
       - 'accessibility'
   - name: "Глобальные оптимизации Глобальной карты или как подружить leaflet, lodash и marionette"
     speaker: Денис Шеко
     presentation: http://rolling-scopes.github.io/slides/rs20/global-map-performance.pptx
-    lang: ru
-    tags:
-      - frontend
   - name: "How it works: WebSockets"
     speaker: Александр Оргиш
     presentation: http://rolling-scopes.github.io/slides/rs20/web-sockets-internals-slides/#/
-    lang: ru
-    tags:
-      - frontend
   - name: "Программирование железа на JS - Tessel.io, NodeCopter"
     speaker: Дмитрий Герасимов
     presentation: http://rootthelure.github.io/tessel-talk/slides/
-    lang: ru
-    tags:
-      - frontend
+

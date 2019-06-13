@@ -8,33 +8,24 @@ talks:
     video: https://youtu.be/Ql_iiJH0whM
     code: 'https://github.com/SaraVieira/graphql-workshop'
     lang: en
-    tags:
-      - frontend
   - name: "GraphQL Workshop – Part II"
     speaker: Sara Vieira
     video: https://youtu.be/2DT6esPbO_U
     code: 'https://github.com/SaraVieira/graphql-workshop'
     lang: en
-    tags:
-      - frontend
   - name: "GraphQL Workshop – Part III"
     speaker: Sara Vieira
     video: https://youtu.be/yO-mqTln-co
     code: 'https://github.com/SaraVieira/graphql-workshop'
     lang: en
-    tags:
-      - frontend
   - name: "GraphQL Workshop – Part IV"
     speaker: Sara Vieira
     video: https://youtu.be/fIfRfbjiBUI
     code: 'https://github.com/SaraVieira/graphql-workshop'
     lang: en
-    tags:
-      - frontend
   - name: "GraphQL Workshop – Part V"
     speaker: Sara Vieira
     video: https://youtu.be/9bz2xKqDkek
     code: 'https://github.com/SaraVieira/graphql-workshop'
     lang: en
-    tags:
-      - frontend
+

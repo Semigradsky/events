@@ -6,21 +6,13 @@ talks:
     speaker: Дмитрий Шевченко
     video: https://youtu.be/vW2Rmo8TBbM
     presentation: https://www.slideshare.net/odessafrontend/amp-odessafrontend-meetup-10
-    lang: ru
-    tags:
-      - frontend
   - name: All you need is Vue, Nuxt is all you need
     speaker: Андрей Стягайло
     video: https://youtu.be/NxWXr0S9jSk
     presentation: https://www.slideshare.net/odessafrontend/all-you-need-is-vue-nuxt-is-all-you-need-odessafrontend-meetup-10
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Перепись приложения. Нативного. На JS. Done.
     speaker: Тимофей Лавренюк
     video: https://youtu.be/4DN3ctq7RDM
     presentation: https://www.slideshare.net/odessafrontend/js-done-odessafrontend-meetup-10
-    lang: ru
-    tags:
-      - frontend

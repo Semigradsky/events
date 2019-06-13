@@ -4,16 +4,8 @@ talks:
   - name: "Ленивая история про ленивый JavaScript"
     speaker: Денис Влассенко
     video: https://www.youtube.com/watch?v=svwtrFf-aEo
-    lang: ru
-    tags:
-      - frontend
   - name: "Как мы разрабатываем Orange Buildboard 2.0"
     speaker: Константин Кривленя
-    lang: ru
-    tags:
-      - frontend
   - name: "Redux в реальной жизни"
     speaker: Иван Акулов
-    lang: ru
-    tags:
-      - frontend
+

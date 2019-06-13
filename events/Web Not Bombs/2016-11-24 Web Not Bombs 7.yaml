@@ -6,20 +6,11 @@ talks:
     speaker: Василий Ванчук
     video: https://www.youtube.com/watch?v=xEG_44KzdZ8
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Фокусы с 3д объектами на JS
     speaker: Егор Малькевич
     video: https://www.youtube.com/watch?v=Vl6Ftg_SYZ0
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Как Javascript завоевал весь мир front-end разработки
     speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=SpFaCSyIy5Q
     presentation:
-    lang: ru
-    tags:
-      - frontend

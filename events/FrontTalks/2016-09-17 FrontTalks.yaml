@@ -7,96 +7,49 @@ talks:
   - name: Особенности веб-интерфейса при работе со screen reader
     speaker: Алексей Любимов
     url: 'https://events.yandex.ru/lib/talks/3928/'
-    lang: ru
-    tags:
-      - frontend
   - name: API Панорам
     speaker: Кирилл Дмитренко
     url: 'https://events.yandex.ru/lib/talks/3923/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Типографика: восток'
     speaker: Роман Прудников
     url: 'https://events.yandex.ru/lib/talks/3920/'
-    lang: ru
-    tags:
-      - frontend
   - name: Перевод документации opensource-проекта силами многих переводчиков
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/3919/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Веб-приложения: дробим монолит'
     speaker: Виктор Грищенко
     url: 'https://events.yandex.ru/lib/talks/3922/'
-    lang: ru
-    tags:
-      - frontend
   - name: Пользовательские свойства как основа архитектуры CSS
     speaker: Павел Ловцевич
     url: 'https://events.yandex.ru/lib/talks/3926/'
-    lang: ru
-    tags:
-      - frontend
   - name: Парсим CSS
     speaker: Роман Дворнов
     url: 'https://events.yandex.ru/lib/talks/3925/'
-    lang: ru
-    tags:
-      - frontend
   - name: Интерфейсные анимации
     speaker: Илья Бирман
     url: 'https://events.yandex.ru/lib/talks/3929/'
-    lang: ru
-    tags:
-      - frontend
   - name: Тестирование веба без тестировщиков — успех или провал?
     speaker: 'Татьяна Рыженкова, Сергей Звягин'
     url: 'https://events.yandex.ru/lib/talks/3931/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как не надо тестировать
     speaker: Иван Стрелков
     url: 'https://events.yandex.ru/lib/talks/3932/'
-    lang: ru
-    tags:
-      - frontend
   - name: Фронтенд и аналитика
     speaker: Иван Карев
     url: 'https://events.yandex.ru/lib/talks/3934/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'React, Relay и GraphQL — вполне себе нормальный компонентный подход'
     speaker: Павел Черторогов
     url: 'https://events.yandex.ru/lib/talks/3935/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как перестать писать код с ошибками
     speaker: Владимир Дашукевич
     url: 'https://events.yandex.ru/lib/talks/3937/'
-    lang: ru
-    tags:
-      - frontend
   - name: Классические приёмы программирования во фронтенде
     speaker: Игорь Алексеенко
     url: 'https://events.yandex.ru/lib/talks/3938/'
-    lang: ru
-    tags:
-      - frontend
   - name: Я и ИоТ
     speaker: Вадим Макеев
     url: 'https://events.yandex.ru/lib/talks/3940/'
-    lang: ru
-    tags:
-      - frontend
   - name: Можно ли программировать без интернета
     speaker: Григорий Бакунов
     url: 'https://events.yandex.ru/lib/talks/3941/'
-    lang: ru
-    tags:
-      - frontend
+

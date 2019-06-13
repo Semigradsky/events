@@ -5,48 +5,25 @@ talks:
   - name: Как я попала в Яндекс и чему научилась — советы начинающим разработчикам и не только
     speaker: Анна Тютюнник
     url: 'https://events.yandex.ru/lib/talks/4255/'
-    lang: ru
-    tags:
-      - frontend
   - name: Наш взгляд на progressive web apps
     speaker: Антон Кричевский
     url: 'https://events.yandex.ru/lib/talks/4256/'
-    lang: ru
-    tags:
-      - frontend
   - name: "<iframe> или <script>?"
     speaker: Всеволод Шмыров
     url: 'https://events.yandex.ru/lib/talks/4258/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как функциональное программирование может сделать жизнь проще
     speaker: Сергей Ткаченко
     url: 'https://events.yandex.ru/lib/talks/4259/'
-    lang: ru
-    tags:
-      - frontend
   - name: Пишем Selenium-тесты прямо в браузере
     speaker: Виталий Потапов
     url: 'https://events.yandex.ru/lib/talks/4261/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Gemini: различные способы использования'
     speaker: Антон Усманский
     url: 'https://events.yandex.ru/lib/talks/4262/'
-    lang: ru
-    tags:
-      - frontend
   - name: Living the GNU/Linux dream
     speaker: Петър Додев
     url: 'https://events.yandex.ru/lib/talks/4264/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Гибкая настройка внешнего вида выдачи, или зачем нам понадобилось переопределять константы'
     speaker: Руслан Муфтиев
     url: 'https://events.yandex.ru/lib/talks/4265/'
-    lang: ru
-    tags:
-      - frontend
+

@@ -6,27 +6,15 @@ talks:
     speaker: Александр Поташко
     video: https://www.youtube.com/watch?v=3oMI-M14asw
     presentation: https://www.slideshare.net/xbsoftware/pay-pal-37197734
-    lang: ru
-    tags:
-      - frontend
   - name: ScRolling in the deep. Вся магия scroll-эффектов.
     speaker: Борис Мосунов
     video: https://www.youtube.com/watch?v=2McxMXqHHjg
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Свободные лицензии. Теория и практика применения бесплатного сыра.
     speaker: Николай Борисюк
     video: https://www.youtube.com/watch?v=Iky1lOKFS8E
     presentation: https://www.slideshare.net/xbsoftware/free-licenses-presentation-xb
-    lang: ru
-    tags:
-      - frontend
   - name: Как стать famo.us. Даешь 60fps на смартфоне!
     speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=23CUYHoUAl8
     presentation: https://www.slideshare.net/dashukevichvova/famous-37200054
-    lang: ru
-    tags:
-      - frontend

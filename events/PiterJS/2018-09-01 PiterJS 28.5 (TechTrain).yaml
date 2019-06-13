@@ -6,20 +6,11 @@ talks:
     speaker: Кирилл Сергеев
     video:
     presentation: https://downloads.ctfassets.net/oxjq45e8ilak/2DWWeik3qMcYKqosM0kS6y/e0060cbb81188d8711f8c49a1032b94a/Kirill_Sergeev_Mikroservisi_na_Nodejs_kak_sohranit_sebya.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Этот безумный, безумный, безумный, безумный инпут. Часть 1
     speaker: Роман Прудников
     video: https://www.youtube.com/watch?v=r8UTkmx_LBY
     presentation: https://downloads.ctfassets.net/oxjq45e8ilak/5uP6W9jzLUaYyIaaUkq4eo/bd2e0e2a91222eadf8208d4c44e4bf1c/Roman_Prudnikov_It_s_a_mad_mad_mad_mad_search_bar_pt_1.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Application deployment with Firebase platform
     speaker: Станислав Черноморченко
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

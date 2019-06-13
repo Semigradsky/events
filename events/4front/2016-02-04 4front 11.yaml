@@ -6,27 +6,15 @@ talks:
     speaker: Андрей Козяков
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Как и зачем понять Redux?
     speaker: Дмитрий Радыно
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Компонент-ориентированный Web
     speaker: Максим Кожух
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Для чего вообще нужен ваш ES2015
     speaker: Владимир Дашукевич
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

@@ -5,48 +5,25 @@ talks:
   - name: БЭМ без bem-tools
     speaker: Владимир Гриненко
     video: https://www.youtube.com/watch?v=crw46fuxz38
-    lang: ru
-    tags:
-      - frontend
   - name: Можно вообще всё. Раскладка по гриду
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=JoRVUILXLxU
-    lang: ru
-    tags:
-      - frontend
   - name: Отладка кода в браузере
     speaker: Антон Шувалов
     video: https://www.youtube.com/watch?v=nPYmp586EE0
-    lang: ru
-    tags:
-      - frontend
   - name: CSSO — сжимаем CSS
     speaker: Роман Дворнов
     video: https://www.youtube.com/watch?v=RQbvWRwreaQ
-    lang: ru
-    tags:
-      - frontend
   - name: 'React-Native: одного JS мало'
     speaker: Алексей Андросов
     video: https://www.youtube.com/watch?v=0E9tFi3ekyc
-    lang: ru
-    tags:
-      - frontend
   - name: 'Если у вас нету тестов…'
     speaker: Сергей Жигалов
     video: https://www.youtube.com/watch?v=L7FzfkVJJJc
-    lang: ru
-    tags:
-      - frontend
   - name: 'Пишем код, тягаем штангу'
     speaker: Александр Завьялов
     video: https://www.youtube.com/watch?v=YiPN0A-y3xQ
-    lang: ru
-    tags:
-      - frontend
   - name: 'Баги в браузерах: кто виноват и что делать?'
     speaker: Виталий Зюзин
     video: https://www.youtube.com/watch?v=K4cQH85bntQ
-    lang: ru
-    tags:
-      - frontend
+

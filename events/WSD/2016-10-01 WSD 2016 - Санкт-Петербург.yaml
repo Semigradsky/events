@@ -4,66 +4,34 @@ talks:
   - name: "<head> — всему голова"
     speaker: Роман Ганин
     presentation: https://wsd.events/2016/10/01/pres/heads-up/
-    lang: ru
-    tags:
-      - frontend
   - name: "Pokémon GO на веб-технологиях"
     speaker: Егор Коновалов
     presentation: https://wsd.events/2016/10/01/pres/web-pokemon-go.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "PWA. Что это такое?"
     speaker: Сергей Густун
     presentation: https://wsd.events/2016/10/01/pres/what-is-pwa.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Вёрстка писем. Развенчиваем мифы"
     speaker: Артур Кох
     presentation: https://wsd.events/2016/10/01/pres/email-coding/
-    lang: ru
-    tags:
-      - frontend
   - name: "Я и ИоТ"
     speaker: Вадим Макеев
     presentation: https://wsd.events/2016/10/01/pres/im-in-iot/
-    lang: ru
-    tags:
-      - frontend
   - name: "CSS-методологии от О до Б"
     speaker: Алексей Охрименко
     presentation: https://wsd.events/2016/10/01/pres/css-methodologies.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Визуализируй это"
     speaker: Антон Бульёнов
     presentation: https://wsd.events/2016/10/01/pres/visualize-this.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Обманчивая простота HTTP/2"
     speaker: Алексей Уколов
     presentation: https://wsd.events/2016/10/01/pres/http2-simplicity/
-    lang: ru
-    tags:
-      - frontend
   - name: "<iframe> или <script>?"
     speaker: Всеволод Шмыров
     presentation: https://wsd.events/2016/10/01/pres/iframe-or-script.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Фронтенд — набор для выживания"
     speaker: Милослав Волосков
     presentation: https://wsd.events/2016/10/01/pres/frontend-kit/
-    lang: ru
-    tags:
-      - frontend
   - name: "Как зарабатывать миллионы на онлайн-курсах"
     speaker: Александр Першин
     presentation: https://wsd.events/2016/10/01/pres/html-money.pdf
-    lang: ru
-    tags:
-      - frontend
+

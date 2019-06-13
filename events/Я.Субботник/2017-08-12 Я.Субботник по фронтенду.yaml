@@ -5,48 +5,25 @@ talks:
   - name: Вам нужен крутой разработчик. Нам тоже
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/4838/'
-    lang: ru
-    tags:
-      - frontend
   - name: История одной кнопки
     speaker: Руслан Муфтиев
     url: 'https://events.yandex.ru/lib/talks/4839/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'bem-react-core: полный БЭМ в ваш React'
     speaker: Сергей Бережной
     url: 'https://events.yandex.ru/lib/talks/4841/'
-    lang: ru
-    tags:
-      - frontend
   - name: React Fiber
     speaker: Алексей Верхоланцев
     url: 'https://events.yandex.ru/lib/talks/4842/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'MobX: управление состоянием без боли'
     speaker: Азат Разетдинов
     url: 'https://events.yandex.ru/lib/talks/4844/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как работают плагины webpack
     speaker: Алексей Литвинов
     url: 'https://events.yandex.ru/lib/talks/4845/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Практика: внедрение тестирования вёрстки в проект'
     speaker: Павел Башинский
     url: 'https://events.yandex.ru/lib/talks/4849/'
-    lang: ru
-    tags:
-      - frontend
   - name: Внедрение интеграционного тестирования
     speaker: Евгений Гаврюшин
     url: 'https://events.yandex.ru/lib/talks/4850/'
-    lang: ru
-    tags:
-      - frontend
+

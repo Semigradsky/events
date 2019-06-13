@@ -6,27 +6,16 @@ talks:
     speaker: Максим Ковалёв
     video: https://www.youtube.com/watch?v=nTMQQ1Q0eAA
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Картография в Web. Современные тенденции
     speaker: Валерий Хвалев
     video: https://www.youtube.com/watch?v=mQj1slTqXuM
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Статусы билдов на светофоре
     speaker: Павел Демидюк
     video: https://www.youtube.com/watch?v=YtWpfWLhoIY
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Вёрстка дынамічнагага праекта
     speaker: Павел Шут
     video: https://www.youtube.com/watch?v=cBPAHutLnXk
     presentation:
     lang: be
-    tags:
-      - frontend

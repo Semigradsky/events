@@ -7,59 +7,30 @@ date:
 talks:
   - name: "Про TDD, BDD и зачем все это"
     speaker: Aleh Kashnikau
-    lang: ru
     tags:
-      - frontend
       - testing
   - name: "React Native shared components. Write once, use everywhere (well, almost everywhere)"
     speaker: Андрей Лесницкий
-    lang: ru
     tags:
-      - frontend
       - mobile
   - name: "React Native & ClosureScript"
     speaker: Сергей Мельник
-    lang: ru
     tags:
-      - frontend
       - mobile
   - name: "Service design for «Krumkachy» football team"
     speaker: Maksim Barysau
-    lang: ru
-    tags:
-      - frontend
   - name: "Оценка интерфейсов"
     speaker: Ксения Колтун
-    lang: ru
-    tags:
-      - frontend
   - name: "Education in Design или Как выучить дизайнеров?"
     speaker: Станислав Борисевич
-    lang: ru
-    tags:
-      - frontend
   - name: "Accelerated Mobile Pages: Делаем WEB сверхбыстрым"
     speaker: Денис Влассенко
-    lang: ru
-    tags:
-      - frontend
   - name: "Product design audit & research"
     speaker: Виталий Воронович
-    lang: ru
-    tags:
-      - frontend
   - name: "Никто ничего не читает (на самом деле это не так)"
     speaker: Анна Ширяева
-    lang: ru
-    tags:
-      - frontend
   - name: "101 EPAM projects in one ecosystem"
     speaker: Vitali Novikau
-    lang: ru
-    tags:
-      - frontend
   - name: "101 EPAM projects in one ecosystem"
     speaker: Dzmitry Vanitski
-    lang: ru
-    tags:
-      - frontend
+

@@ -5,12 +5,7 @@ talks:
   - name: "Структуры данных функционального программирования"
     speaker: Артём Пученкин
     video: https://yadi.sk/i/jHX0HtNm3T2rUu
-    lang: ru
-    tags:
-      - frontend
   - name: "Современный JS – итераторы, генераторы, async/await"
     speaker: Дмитрий Злыгин
     video: https://yadi.sk/i/3pPACQBR3T2r9V
-    lang: ru
-    tags:
-      - frontend
+

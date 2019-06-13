@@ -5,21 +5,9 @@ talks:
   - name: "(R)Evolution of set-top boxes"
     speaker: Кирилл Кныш
     video: https://www.youtube.com/watch?v=cyfg-S-yCUk
-    lang: ru
-    tags:
-      - frontend
   - name: "Tricky JS and WebGL practices to achieve the best performance on mobile"
     speaker: Андрей Лесницкий
-    lang: ru
-    tags:
-      - frontend
   - name: "Who is the client"
     speaker: Marcelo Gomes
-    lang: ru
-    tags:
-      - frontend
   - name: "Mogensen-Scott encoding"
     speaker: Александр Герасимов
-    lang: ru
-    tags:
-      - frontend

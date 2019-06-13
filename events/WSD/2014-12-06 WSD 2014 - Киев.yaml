@@ -6,55 +6,32 @@ talks:
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=t8Td3Oq47yE
     presentation: https://wsd.events/2014/12/06/pres/picture/
-    lang: ru
-    tags:
-      - frontend
   - name: "Правила хорошего тона в\_HTML и\_CSS"
     speaker: Евгений Исаков
     video: https://www.youtube.com/watch?v=t8Td3Oq47yE
     presentation: https://wsd.events/2014/12/06/pres/good-manners/
-    lang: ru
-    tags:
-      - frontend
   - name: "Пишем БЭМ правильно"
     speaker: Игорь Зенич
     video: https://www.youtube.com/watch?v=t8Td3Oq47yE
     presentation: https://wsd.events/2014/12/06/pres/bem-right/
-    lang: ru
-    tags:
-      - frontend
   - name: "Доступный веб для всех"
     speaker: Роман Лютиков
     video: https://www.youtube.com/watch?v=t8Td3Oq47yE
     presentation: https://wsd.events/2014/12/06/pres/web-a11y/
-    lang: ru
-    tags:
-      - frontend
   - name: "PostCSS: будущее после Sass и Less"
     speaker: Андрей Ситник
     video: https://www.youtube.com/watch?v=t8Td3Oq47yE
     presentation: https://wsd.events/2014/12/06/pres/postcss/
-    lang: ru
-    tags:
-      - frontend
   - name: "Зачем нам функциональное программирование"
     speaker: Алексей Распопов
     video: https://www.youtube.com/watch?v=t8Td3Oq47yE
     presentation: https://wsd.events/2014/12/06/pres/why-functional/
-    lang: ru
-    tags:
-      - frontend
   - name: "Swarm.js: реактивная синхронизация данных"
     speaker: Виктор Грищенко
     video: https://www.youtube.com/watch?v=t8Td3Oq47yE
     presentation: https://wsd.events/2014/12/06/pres/swarmjs.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Режимы наложения в\_CSS"
     speaker: Юлия Бухвалова
     video: https://www.youtube.com/watch?v=t8Td3Oq47yE
     presentation: https://wsd.events/2014/12/06/pres/css-blending/
-    lang: ru
-    tags:
-      - frontend
+

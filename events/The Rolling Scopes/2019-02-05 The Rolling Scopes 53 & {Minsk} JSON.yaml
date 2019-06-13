@@ -6,15 +6,9 @@ talks:
     speaker: Martynas Sipavičius
     video: https://www.youtube.com/watch?v=gdpMFxWDwJg
     lang: en
-    tags:
-      - frontend
   - name: "Системное мышление и как его можно применять для software engineering"
     speaker: Денис Шеко
     video: https://www.youtube.com/watch?v=gdpMFxWDwJg
-    lang: ru
   - name: "Не HTTP едины, или Как передавать данные в быту"
     speaker: Егор Малкевич
     video: https://www.youtube.com/watch?v=gdpMFxWDwJg
-    lang: ru
-    tags:
-      - frontend

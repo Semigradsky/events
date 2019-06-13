@@ -5,18 +5,10 @@ talks:
   - name: Из прототипа в production
     speaker: Борисов Алексей
     video: 'https://www.youtube.com/watch?v=nFOdadRRqZs'
-    lang: ru
-    tags:
-      - frontend
   - name: Реактивное функциональное программирование
     speaker: Кирилл Сухомлин
     video: 'https://www.youtube.com/watch?v=ie6pVGSgInw'
-    lang: ru
-    tags:
-      - frontend
   - name: WebGL на практике
     speaker: Лис Games
     video: 'https://www.youtube.com/watch?v=WyJXSd3q4w0'
-    lang: ru
-    tags:
-      - frontend
+

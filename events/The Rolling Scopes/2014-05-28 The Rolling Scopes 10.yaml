@@ -3,21 +3,10 @@ date: 2014-05-28
 talks:
   - name: "News Digest"
     speaker: Сергей Мельник
-    lang: ru
-    tags:
-      - frontend
   - name: "DOM Sweet DOOM"
     speaker: Константин Кривленя
-    lang: ru
-    tags:
-      - frontend
   - name: "Назад в будущее или мобильная разработка сегодня"
     speaker: Денис Шеко
-    lang: ru
-    tags:
-      - frontend
   - name: "Paper.js"
     speaker: Николай Лавринович
-    lang: ru
-    tags:
-      - frontend
+

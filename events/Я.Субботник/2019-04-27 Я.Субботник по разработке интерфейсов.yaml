@@ -5,42 +5,22 @@ talks:
   - name: ШРИ — что внутри?
     speaker: Дмитрий Андриянов
     url: 'https://events.yandex.ru/lib/talks/7249/'
-    lang: ru
-    tags:
-      - frontend
   - name: Общие компоненты силами разных команд
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/7251/'
-    lang: ru
-    tags:
-      - frontend
   - name: Стилизация и Dependency Injection
     speaker: Артур Кенжаев
     url: 'https://events.yandex.ru/lib/talks/7252/'
-    lang: ru
-    tags:
-      - frontend
   - name: Автоматический рефакторинг кода с помощью codemodes
     speaker: Александр Мышов
     url: 'https://events.yandex.ru/lib/talks/7254/'
-    lang: ru
-    tags:
-      - frontend
   - name: Жизнь до Runtime
     speaker: Никита Сидоров
     url: 'https://events.yandex.ru/lib/talks/7255/'
-    lang: ru
-    tags:
-      - frontend
   - name: Приключения в отдельном потоке
     speaker: Павел Смирнов
     url: 'https://events.yandex.ru/lib/talks/7257/'
-    lang: ru
-    tags:
-      - frontend
   - name: Полный цикл тестирования React-приложений
     speaker: 'Наталья Стусь, Алексей Андросов'
     url: 'https://events.yandex.ru/lib/talks/7258/'
-    lang: ru
-    tags:
-      - frontend
+

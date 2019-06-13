@@ -6,90 +6,52 @@ talks:
     speaker: Юрий Артюх
     video: https://www.youtube.com/watch?v=Jhx_29mVDO4&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=3&t=1s
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Понижаем порог вхождения в performance ч.1"
     speaker: Александр Смолянинов
     video: https://www.youtube.com/watch?v=nq4FVxvoO70&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=3
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Понижаем порог вхождения в performance ч.2"
     speaker: Александр Смолянинов
     video: https://www.youtube.com/watch?v=8F3IOX7N1ec&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=4
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "CSS vs Preprocessors — назад в будущее!"
     speaker: Сергей Попов
     video: https://www.youtube.com/watch?v=jNoQGfys7Xc&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=5
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Email Templates"
     speaker: Мещеряков Денис
     video: https://www.youtube.com/watch?v=QhUIZCJE-Tk&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=6
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Анимации для души и пользы"
     speaker: Ксения Буркун
     video: https://www.youtube.com/watch?v=QgLgzRyd7KE&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=7
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Использование GSAP в реальных проектах."
     speaker: Бойко Андрей
     video: https://www.youtube.com/watch?v=_63sz4aHrFo&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=8
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Бэмили-бэмили и, наконец, забэмили!"
     speaker: Серёжа Переверзев
     video: https://www.youtube.com/watch?v=kGgsrUZ73Xc&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=9
     presentation: https://docs.google.com/presentation/d/13dk4BDfO5ZsH4C1Pwz6uj5OD8kpbzvLLEzFqC9uUl14/edit
-    lang: ru
-    tags:
-      - frontend
   - name: "Як готується CSS або бюрократичні казки про Комітет і Чорнетку"
     speaker: Сергій Бабіч
     video: https://www.youtube.com/watch?v=n3ztNlbJjq4&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=10
     presentation:
     lang: uk
-    tags:
-      - frontend
   - name: "Оптимизация изображений или \"Размер имеет значение\""
     speaker: Александр Свистун
     video: https://www.youtube.com/watch?v=VtyO2tM0kow&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=11
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "HTML5 Elements and their styling"
     speaker: Евгений Исаков
     video: https://www.youtube.com/watch?v=A92UKmIdvBw&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=12
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Автостопом по CSS Style Guide Галактике"
     speaker: Виталий Рыбка
     video: https://www.youtube.com/watch?v=dNcb3QtkmnU&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=13
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Styled Components: CSS без .css"
     speaker: Тимофей Лавренюк
     video: https://www.youtube.com/watch?v=YBk6FPlgVjk&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=14
     presentation:
-    lang: ru
-    tags:
-      - frontend

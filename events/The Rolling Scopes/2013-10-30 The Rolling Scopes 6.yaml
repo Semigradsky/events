@@ -4,26 +4,17 @@ talks:
   - name: "NodeJS production on Windows Azure"
     speaker: Евгений Ивашкевич
     video: https://www.youtube.com/watch?v=Q9yXB_qu0yw
-    lang: ru
     tags:
-      - frontend
       - 'Node.js'
   - name: "История одного стартапа: Angular.js и как мы его готовим"
     speaker: Сергей Борисюк
     video: https://www.youtube.com/watch?v=bUrjh1MPilQ
-    lang: ru
     tags:
-      - frontend
       - 'Angular'
   - name: "RnJvbnQtZW5kIFF1aXo="
     speaker: Александр Герасимов
     presentation: http://rolling-scopes.github.io/slides/rs6/quiz-2
-    lang: ru
-    tags:
-      - frontend
   - name: "Hello, Data Binding"
     speaker: Сергей Михайлов
     video: https://www.youtube.com/watch?v=cXxAYgtgMvc
-    lang: ru
-    tags:
-      - frontend
+

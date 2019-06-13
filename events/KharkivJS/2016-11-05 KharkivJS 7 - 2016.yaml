@@ -8,137 +8,83 @@ talks:
     speaker: Juho Vepsäläinen
     video: 'https://www.youtube.com/watch?v=1niBVCLfAGI'
     lang: en
-    tags:
-      - frontend
   - name: Shells written in JavaScript
     speaker: Denys Dovhan
     video: 'https://www.youtube.com/watch?v=ijXfFu61XH0'
     lang: en
-    tags:
-      - frontend
   - name: How to become famous with GitHub and open-source
     speaker: Paul Miller
     video: 'https://www.youtube.com/watch?v=sVbNF6zp3lY'
-    lang: ru
-    tags:
-      - frontend
   - name: JavaScript and offline business. Next big deal
     speaker: Georgiy Podsvyetov
     video: 'https://www.youtube.com/watch?v=lam0mteyz1I'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Moving Web forward: Part I — ECMAScript 201x'
     speaker: Сергей Рубанов
     video: 'https://www.youtube.com/watch?v=pjDpN3nRpdc'
-    lang: ru
-    tags:
-      - frontend
   - name: Angular Native
     speaker: Юрий Лучаниновv
     video: 'https://www.youtube.com/watch?v=jTxT95injrE'
-    lang: ru
-    tags:
-      - frontend
   - name: Я и ИоТ
     speaker: Вадим Макеев
     video: 'https://www.youtube.com/watch?v=LuLB6xj1rpQ'
-    lang: ru
-    tags:
-      - frontend
   - name: Deal with async programming
     speaker: Denis Stoyanov
     video: 'https://www.youtube.com/watch?v=0ZcCPX6uT5c'
-    lang: ru
-    tags:
-      - frontend
   - name: Iframe rampage. Sad story of one integration.
     speaker: Yurii Plugatariov
     video: 'https://www.youtube.com/watch?v=6R7H_Jboaf8'
     lang: en
-    tags:
-      - frontend
   - name: React Native. Way to production.
     speaker: Филипп Шурпик
     video: 'https://www.youtube.com/watch?v=b88ySmEwoG0'
     lang: en
-    tags:
-      - frontend
   - name: Error handling in Node.js streams
     speaker: Андрей Шумада
     video: 'https://www.youtube.com/watch?v=FlyYgwqLzig'
     lang: en
-    tags:
-      - frontend
   - name: Static typing in browser
     speaker: Вячеслав Слинько
     video: 'https://www.youtube.com/watch?v=5dHFRt8aMiA'
-    lang: ru
-    tags:
-      - frontend
   - name: Compilers/V8
     speaker: Ингвар Степанян
     video: 'https://www.youtube.com/watch?v=BOpvsHZehiA'
     lang: en
-    tags:
-      - frontend
   - name: 'Flow, why should fall in love with it'
     speaker: Илья Климов
     video: 'https://www.youtube.com/watch?v=GEo3XIJw8HM'
     lang: en
-    tags:
-      - frontend
   - name: Advanced webpack
     speaker: Juho Vepsäläinen
     video: 'https://www.youtube.com/watch?v=sWzTtYKDCnE'
     lang: en
-    tags:
-      - frontend
   - name: Better Web Components with membranes
     speaker: Aleksey Shvaika
     video: 'https://www.youtube.com/watch?v=TgFFsaETKrA'
     lang: en
-    tags:
-      - frontend
   - name: QA session
     speaker: '?'
     video: 'https://www.youtube.com/watch?v=HCQkJQg-deo'
     lang: en
-    tags:
-      - frontend
   - name: Porting Web Application to Virtual Reality
     speaker: Денис Радин
     video: 'https://www.youtube.com/watch?v=Fen3AS7SAPk'
     lang: en
-    tags:
-      - frontend
   - name: Next
     speaker: Андрей Листочкин
     video: 'https://www.youtube.com/watch?v=Z37W65etPg4'
     lang: en
-    tags:
-      - frontend
   - name: Testing well. Stop shooting yourself in the foot.
     speaker: Max Onufriienko
     video: 'https://www.youtube.com/watch?v=qNdHchzY-dQ'
-    lang: ru
-    tags:
-      - frontend
   - name: JS in IoT
     speaker: Eugene Nezhuta
     video: 'https://www.youtube.com/watch?v=a2_keSbEgIM'
     lang: en
-    tags:
-      - frontend
   - name: Exploring ML in javaScript world
     speaker: Ivan Lavriv
     video: 'https://www.youtube.com/watch?v=4EFQDKtDAUY'
     lang: en
-    tags:
-      - frontend
   - name: How to build a desktop application in JS without using webview
     speaker: Viktor Turskyi
     video: 'https://www.youtube.com/watch?v=Qfe93CMhtPI'
-    lang: ru
-    tags:
-      - frontend
+

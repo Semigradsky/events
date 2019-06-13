@@ -6,20 +6,11 @@ talks:
     speaker: Николай Романюк
     video: https://youtu.be/UsqGv2o1ZI8
     presentation: https://odessafrontend.github.io/webvr/
-    lang: ru
-    tags:
-      - frontend
   - name: Восприятие типографики в веб-интерфейсах
     speaker: Александр Шатов
     video: https://youtu.be/2a_I_UuKiEs
     presentation: https://www.slideshare.net/odessafrontend/web-odessafrontend-meetup-1
-    lang: ru
-    tags:
-      - frontend
   - name: Эволюция раскладки
     speaker: Николай Птущук
     video: https://youtu.be/JPs5bEHWclA
     presentation: https://odessafrontend.github.io/evolution/
-    lang: ru
-    tags:
-      - frontend

@@ -5,32 +5,19 @@ talks:
   - name: "Monads - coding functionally"
     speaker: Aliaksandr Famchankou
     video: https://www.youtube.com/watch?v=7gAPuReBBYY
-    lang: ru
-    tags:
-      - frontend
   - name: "Нормально делай — нормально будет"
     speaker: Pavel Birukou
     video: https://www.youtube.com/watch?v=p-XM8DeMnu4
-    lang: ru
-    tags:
-      - frontend
   - name: "Growing as a developer"
     speaker: Павел Юхнович
     video: https://www.youtube.com/watch?v=9m1PnI6w2Lo
-    lang: ru
     tags:
-      - frontend
       - soft
   - name: "Node.JS World"
     speaker: Artsiom Marozau
     video: https://www.youtube.com/watch?v=ZYaLC1j23Cc
-    lang: ru
     tags:
-      - frontend
       - 'Node.js'
   - name: "CSS Grid layout - practice tricks"
     speaker: Yauhen Kavalchuk
     video: https://www.youtube.com/watch?v=1Vo048uwiBY
-    lang: ru
-    tags:
-      - frontend

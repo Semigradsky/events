@@ -3,16 +3,8 @@ date: 2018-05-25
 talks:
   - name: "Registration"
     speaker: RS Crew
-    lang: ru
-    tags:
-      - frontend
   - name: "\"Backend For Frontend\" with NestJS: usage patterns"
     speaker: Viachaslau Kudzinau
-    lang: ru
-    tags:
-      - frontend
   - name: "JS Jungle Quiz"
     speaker: JS Jungle Quiz Crew
-    lang: ru
-    tags:
-      - frontend
+

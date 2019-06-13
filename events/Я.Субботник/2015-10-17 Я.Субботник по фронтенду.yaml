@@ -5,48 +5,25 @@ talks:
   - name: Роль разработчика интерфейсов в продукте
     speaker: Сергей Сергеев
     url: 'https://events.yandex.ru/lib/talks/3204/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'bem-components — как Bootstrap, только лучше'
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/3205/'
-    lang: ru
-    tags:
-      - frontend
   - name: Мгновенная Морда
     speaker: Иван Карев
     url: 'https://events.yandex.ru/lib/talks/3207/'
-    lang: ru
-    tags:
-      - frontend
   - name: Эксперимент как инструмент для принятия решений
     speaker: Виктор Карпов
     url: 'https://events.yandex.ru/lib/talks/3208/'
-    lang: ru
-    tags:
-      - frontend
   - name: Приручаем SVG
     speaker: Лев Солнцев
     url: 'https://events.yandex.ru/lib/talks/3210/'
-    lang: ru
-    tags:
-      - frontend
   - name: Производительность WebGL приложений
     speaker: Кирилл Дмитренко
     url: 'https://events.yandex.ru/lib/talks/3211/'
-    lang: ru
-    tags:
-      - frontend
   - name: Создание модулей для API Яндекс.Карт
     speaker: Всеволод Шмыров
     url: 'https://events.yandex.ru/lib/talks/3213/'
-    lang: ru
-    tags:
-      - frontend
   - name: API как древнеримский акведук
     speaker: Сергей Константинов
     url: 'https://events.yandex.ru/lib/talks/3214/'
-    lang: ru
-    tags:
-      - frontend
+

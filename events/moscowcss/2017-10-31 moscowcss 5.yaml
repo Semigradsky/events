@@ -6,20 +6,11 @@ talks:
     speaker: Игорь Лесневский
     video: https://www.youtube.com/watch?v=R3FbcemvoEo
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Адаптивный SVG
     speaker: Артём Нечунаев
     video: https://www.youtube.com/watch?v=M3BKdrBgmYU
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Верстальщик: Наследие"
     speaker: Сергей Попов
     video: https://www.youtube.com/watch?v=y7Aba5Nppio
     presentation:
-    lang: ru
-    tags:
-      - frontend

@@ -5,60 +5,31 @@ talks:
   - name: Автоматизация тестирования веб-форм
     speaker: Илья Кацев
     url: 'https://events.yandex.ru/lib/talks/181/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'SVARX, или Борьба с большими формами'
     speaker: Максим Ширшин
     url: 'https://events.yandex.ru/lib/talks/182/'
-    lang: ru
-    tags:
-      - frontend
   - name: CSS3 фарш
     speaker: Олег Мохов
     url: 'https://events.yandex.ru/lib/talks/184/'
-    lang: ru
-    tags:
-      - frontend
   - name: Веб для незрячих
     speaker: Сергей Горобцов
     url: 'https://events.yandex.ru/lib/talks/185/'
-    lang: ru
-    tags:
-      - frontend
   - name: Архитектура фронтенда Яндекс.Почты
     speaker: Алексей Андросов
     url: 'https://events.yandex.ru/lib/talks/186/'
-    lang: ru
-    tags:
-      - frontend
   - name: Приручая сайты
     speaker: Николай Сиварев
     url: 'https://events.yandex.ru/lib/talks/188/'
-    lang: ru
-    tags:
-      - frontend
   - name: Yandex Map Kit для iOS в примерах
     speaker: Роман Бусыгин
     url: 'https://events.yandex.ru/lib/talks/189/'
-    lang: ru
-    tags:
-      - frontend
   - name: Разработка Яндекс.Карт для Windows Phone 7
     speaker: Константин Заикин
     url: 'https://events.yandex.ru/lib/talks/190/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Земля в коробочке: хранят и показывают Яндекс.Карты'
     speaker: Илья Шаров
     url: 'https://events.yandex.ru/lib/talks/192/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как мы делаем Панорамы
     speaker: Максим Хохлов
     url: 'https://events.yandex.ru/lib/talks/193/'
-    lang: ru
-    tags:
-      - frontend
+

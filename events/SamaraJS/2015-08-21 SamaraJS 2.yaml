@@ -5,18 +5,9 @@ talks:
   - name: Современный фронтенд за 30 минут - webpack, react, jspm, gulp grunt blabla пыщ пыщ и все-все-все
     speaker: Владимир Малик
     video: https://www.youtube.com/watch?v=F6-6SjPJRZs
-    lang: ru
-    tags:
-      - frontend
   - name: React + Redux или «редуцируй это»
     speaker: Филипп Андрейчев
     video: https://www.youtube.com/watch?v=X4OEFOaP46g
-    lang: ru
-    tags:
-      - frontend
   - name: N простых способов  улучшить взаимодействие с пользователем
     speaker: Александр Субботин
     video: https://www.youtube.com/watch?v=IDgr3jJII3Q
-    lang: ru
-    tags:
-      - frontend

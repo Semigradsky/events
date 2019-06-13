@@ -5,34 +5,20 @@ talks:
     speaker: Вячеслав Волков
     video: 'https://www.youtube.com/watch?v=gq4S7JLbbmM'
     presentation: 'http://www.slideshare.net/BadooDev/46-66408924'
-    lang: ru
-    tags:
-      - frontend
   - name: Что надо знать о HTTP/2
     speaker: Александр Майоров
     video: 'https://www.youtube.com/watch?v=4yyhqMh9FcY'
     presentation: 'http://www.slideshare.net/BadooDev/http2-67061869'
-    lang: ru
-    tags:
-      - frontend
   - name: S.O.L.I.D-ый JavaScript
     speaker: Алексей Охрименко
     video: 'https://www.youtube.com/watch?v=wi3wPzReKZQ'
     presentation: 'http://www.slideshare.net/BadooDev/solid-javascript'
-    lang: ru
-    tags:
-      - frontend
   - name: Классическое программирование для фронтендеров
     speaker: Игорь Алексеенко
     video: 'https://www.youtube.com/watch?v=b2AhDtFfSSU'
     presentation: 'http://www.slideshare.net/BadooDev/ss-67054447'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Парсим CSS, performance tips & tricks'
     speaker: Роман Дворнов
     video: 'https://www.youtube.com/watch?v=5XUuWVq-djs'
     presentation: 'http://www.slideshare.net/BadooDev/css-67056616'
-    lang: ru
-    tags:
-      - frontend
+

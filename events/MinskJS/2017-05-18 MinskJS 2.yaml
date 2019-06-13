@@ -8,31 +8,20 @@ talks:
     speaker: Сергей Каранкевич
     video: https://www.youtube.com/watch?v=PwYWNMbgOz4
     presentation: https://www.slideshare.net/karankevich/make-async-great-again
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Валидация веб-форм. Часть II. JS"
     speaker: Павел Ловцевич
     video: https://www.youtube.com/watch?v=nxtd_idTddo
     presentation: https://drive.google.com/file/d/1GDIb4ETB24yUsjBPHMocKRRs5YRoioH8/view
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "SSR: DIY"
     speaker: Джеймс Аквух
     video: https://www.youtube.com/watch?v=H4GTPbf0D40
     presentation: https://github.com/jakwuh/ssr-demo/tree/master/slides
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Kotlin for Frontend Development"
     speaker: Руслан Ибрагимов
     video: https://www.youtube.com/watch?v=t2Shbjrz-Sg
     presentation: https://docs.google.com/presentation/d/1gRe2LuDCcErBWaeVt57xWIl6dZcLVBNsRg1WikVJI-A/edit
-    lang: ru
     tags:
-      - 'frontend'
       - 'Kotlin'

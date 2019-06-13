@@ -3,12 +3,8 @@ date: 2018-11-21
 talks:
   - name: "Flutter vs React Native"
     speaker: Андрей Лесницкий
-    lang: ru
     tags:
-      - frontend
       - mobile
   - name: "Modern prototyping workflow with GraphQL and React"
     speaker: Alex Alexeev
-    lang: ru
-    tags:
-      - frontend
+

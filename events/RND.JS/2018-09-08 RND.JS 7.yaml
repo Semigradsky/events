@@ -6,27 +6,15 @@ talks:
     speaker: Дмитрий Бережнов
     video: https://www.youtube.com/watch?v=G0BMjOeWmg4&t=2766s
     presentation: https://vk.com/doc-116797910_474510732?hash=1c4b3c4223586ea2c5&dl=4c1807a141dba5d699
-    lang: ru
-    tags:
-      - frontend
   - name: "Дуализм CouchDB: философия и база"
     speaker: Марина Мошногорская
     video: https://www.youtube.com/watch?v=G0BMjOeWmg4&t=4086s
     presentation: https://vk.com/doc-116797910_474510811?hash=1b3767e56ff221e4fd&dl=b285f87f1d5cc2b773
-    lang: ru
-    tags:
-      - frontend
   - name: Путь Нео в React-Native, красная или синяя, mobx или redux?
     speaker: Николай Ильченко
     video: https://www.youtube.com/watch?v=G0BMjOeWmg4&t=5606s
     presentation: https://vk.com/doc-116797910_474510859?hash=093b4b2e60a9cc7f38&dl=96998e06ffda677225
-    lang: ru
-    tags:
-      - frontend
   - name: Тонкости Mongoose
     speaker: Виктор Вершанский
     video: https://www.youtube.com/watch?v=G0BMjOeWmg4&t=10000s
     presentation: https://vk.com/away.php?to=http%3A%2F%2Fmongooser.com%2F&post=-116797910_227&cc_key=
-    lang: ru
-    tags:
-      - frontend

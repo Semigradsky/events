@@ -6,28 +6,17 @@ talks:
     speaker: Дмитрий Воробей
     video: https://www.youtube.com/watch?v=QaX3yJpG6co
     presentation: http://rolling-scopes.github.io/slides/rs13/dotJS-overview
-    lang: ru
-    tags:
-      - frontend
   - name: "Увидеть Париж и угореть!"
     speaker: 'Александр Герасимов, Юрий Татенко'
     video: https://www.youtube.com/watch?v=QaX3yJpG6co
     presentation: http://rolling-scopes.github.io/slides/rs13/dotJS-overview/yt/dotCSS.pptx
-    lang: ru
-    tags:
-      - frontend
   - name: "Test Driven Development: More Development Than Ever"
     speaker: Кирилл Бараношник
     video: https://www.youtube.com/watch?v=zKiBHzGZeAg
     presentation: http://www.slideshare.net/kirbarn/test-driven-development-more-development-than-ever
-    lang: ru
     tags:
-      - frontend
       - 'testing'
   - name: "Перевод доклада от Angus Croll - THE BOOK NERD'S GUIDE TO JAVASCRIPT"
     speaker: Александр Герасимов
     video: https://www.youtube.com/watch?v=7jaHLuepZZQ
     presentation: https://speakerdeck.com/anguscroll/the-book-nerds-guide-to-javascript
-    lang: ru
-    tags:
-      - frontend

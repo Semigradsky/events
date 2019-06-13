@@ -5,61 +5,32 @@ talks:
   - name: "Зачем Опере Вебкит, или Опиум для народа"
     speaker: Вадим Макеев
     presentation: https://wsd.events/2013/06/08/pres/opera-webkit/
-    lang: ru
-    tags:
-      - frontend
   - name: "Документирование вёрстки по-взрослому"
     speaker: Роберт Харитонов
     presentation: https://wsd.events/2013/06/08/pres/source-docs/
-    lang: ru
-    tags:
-      - frontend
   - name: "Hayaku\_— CSS со\_скоростью мысли"
     speaker: Сергей Мезенцев
     presentation: https://wsd.events/2013/06/08/pres/hayaku.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Роботы для людей: боевой арсенал фронтендера"
     speaker: Алексей Андросов
     presentation: https://wsd.events/2013/06/08/pres/frontend-robots/
-    lang: ru
-    tags:
-      - frontend
   - name: "Веб-приложения будущего"
     speaker: Илья Пухальский
     presentation: https://wsd.events/2013/06/08/pres/future-web-apps.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Basis.js. Почему я\_не\_бросил разрабатывать свой фреймворк"
     speaker: Роман Дворнов
     video: https://www.youtube.com/watch?v=cVbbkwkhNQg
     presentation: https://wsd.events/2013/06/08/pres/basis-js.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Менеджеры пакетов в\_JavaScript"
     speaker: Михаил Баранов
     presentation: https://wsd.events/2013/06/08/pres/package-managers/
-    lang: ru
-    tags:
-      - frontend
   - name: "Маленькая большая проблема"
     speaker: Дмитрий Махнёв
     presentation: https://wsd.events/2013/06/08/pres/little-big-problem.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Куда катится этот мир?"
     speaker: Артемий Ломов
     presentation: https://wsd.events/2013/06/08/pres/where-it-goes/
-    lang: ru
-    tags:
-      - frontend
   - name: "Семантика или смерть?"
     speaker: Наташа Арефьева
     presentation: https://wsd.events/2013/06/08/pres/semantics-or-death.pdf
-    lang: ru
-    tags:
-      - frontend
+

@@ -3,21 +3,10 @@ date: 2017-03-18
 talks:
   - name: "Декорируем Javascript"
     speaker: Денис Влассенко
-    lang: ru
-    tags:
-      - frontend
   - name: "Compile it!"
     speaker: Владимир Дёмин
-    lang: ru
-    tags:
-      - frontend
   - name: "Введение в разработку Virtual Reality (VR) / ThreeJS"
     speaker: Дмитрий Самсонов
-    lang: ru
-    tags:
-      - frontend
   - name: "RxJS и магия реактивного программирования"
     speaker: Виталий Козлов
-    lang: ru
-    tags:
-      - frontend
+

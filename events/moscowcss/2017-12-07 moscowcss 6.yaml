@@ -6,20 +6,11 @@ talks:
     speaker: Саша Ермоленко
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: 10 простых правил дизайна для фронтенда
     speaker: Миша Розов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Яндекс.Красота – дизайн для миллионов
     speaker: Антон Виноградов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

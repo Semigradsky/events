@@ -6,27 +6,15 @@ talks:
     speaker: Сергей Куницкий
     video: https://www.youtube.com/watch?v=pebK7LxUdhI
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Переходи на HTTPS
     speaker: Владимир Кузнецов
     video: https://www.youtube.com/watch?v=E1JsBf7P4dI
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Оранжевый новый синий - несколько историй о разработке браузерных расширений
     speaker: Борис Мосунов
     video: https://www.youtube.com/watch?v=-i9nNmCCFpA
     presentation: https://www.slideshare.net/chaykaborya/chrome-extension-firefox-extension
-    lang: ru
-    tags:
-      - frontend
   - name: Гибридное программирование + IonicFramework
     speaker: Сергей Федоренко
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

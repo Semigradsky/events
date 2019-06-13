@@ -5,17 +5,9 @@ talks:
   - name: Webpack
     speaker: Максим Рыжиков
     presentation: 'https://github.com/Saunalol/spb-frontend-webpack'
-    lang: ru
-    tags:
-      - frontend
   - name: "PostCSS: будущее после Sass и Less"
     speaker: Андрей Ситник
     presentation: 'http://ai.github.io/about-postcss/'
-    lang: ru
-    tags:
-      - frontend
   - name: Famo.us
     speaker: Артём Сущев
-    lang: ru
-    tags:
-      - frontend
+

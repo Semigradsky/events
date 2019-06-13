@@ -6,23 +6,17 @@ talks:
     speaker: Игорь Шеко
     video:
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Опыт использования Vue.js в «Едадиле»
     speaker: Кобец Андрей
     video:
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Прогрессивные приложения на прогрессивном фреймворке
     speaker: Ольга Лесникова
     video:
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'

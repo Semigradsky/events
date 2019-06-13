@@ -5,48 +5,25 @@ talks:
   - name: «Бабуля» — поиск Яндекса для старых браузеров
     speaker: Андрей Черепаха
     url: 'https://events.yandex.ru/lib/talks/2584/'
-    lang: ru
-    tags:
-      - frontend
   - name: ES6 — уровень реализации и возможности использования
     speaker: Денис Тужик
     url: 'https://events.yandex.ru/lib/talks/2585/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'CSP: как защитить своих пользователей'
     speaker: Алексей Андросов
     url: 'https://events.yandex.ru/lib/talks/2587/'
-    lang: ru
-    tags:
-      - frontend
   - name: Работа с Git в команде Яндекс.Браузера
     speaker: Алёна Царёва
     url: 'https://events.yandex.ru/lib/talks/2588/'
-    lang: ru
-    tags:
-      - frontend
   - name: Разработка небольшого проекта c BEM и node.js
     speaker: Сергей Пузанков
     url: 'https://events.yandex.ru/lib/talks/2590/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'JSCS — архитектура, история и будущее'
     speaker: Олег Гайдаренко
     url: 'https://events.yandex.ru/lib/talks/2591/'
-    lang: ru
-    tags:
-      - frontend
   - name: Асинхронная модульность в API Яндекс.Карт
     speaker: Александр Зинчук
     url: 'https://events.yandex.ru/lib/talks/2593/'
-    lang: ru
-    tags:
-      - frontend
   - name: Тестирование CSS-регрессий с Gemini
     speaker: Сергей Татаринцев
     url: 'https://events.yandex.ru/lib/talks/2594/'
-    lang: ru
-    tags:
-      - frontend
+

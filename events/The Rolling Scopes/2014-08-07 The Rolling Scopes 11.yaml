@@ -3,16 +3,8 @@ date: 2014-08-07
 talks:
   - name: "Memory Profiling"
     speaker: Артём Алексеенко
-    lang: ru
-    tags:
-      - frontend
   - name: "Интеграция ReactJS в проект на RequireJS"
     speaker: Виктор Хомяков
-    lang: ru
-    tags:
-      - frontend
   - name: "CSS Warm-Up"
     speaker: Александр Герасимов
-    lang: ru
-    tags:
-      - frontend
+

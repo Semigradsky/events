@@ -6,20 +6,11 @@ talks:
     speaker: Алекс Редер
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Жизнь после cssnext
     speaker: Евгений Петухов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Про HTML
     speaker: Сергей Попов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

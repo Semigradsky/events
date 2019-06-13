@@ -7,32 +7,18 @@ talks:
     speaker: Кирилл Новиков
     video: https://www.youtube.com/watch?v=CwU9kW-HVIA
     presentation: https://kirill3333.github.io/jsnn7/
-    lang: ru
-    tags:
-      - frontend
   - name: Клиентская производительность
     speaker: Роман Парадеев
     video: https://www.youtube.com/watch?v=zBApGMP2Sew
-    lang: ru
-    tags:
-      - frontend
   - name: Типографика в вебе
     speaker: Максим Алёшин
     video: https://www.youtube.com/watch?v=fK1Vi5NOYK4
-    lang: ru
-    tags:
-      - frontend
   - name: Vue.js с нуля
     speaker: Дмитрий Злыгин
     video: https://www.youtube.com/watch?v=qzKWui6ZSbQ
     presentation: https://docs.google.com/presentation/d/1BZdnxu7aaPSeqXPHkTHGan_Keu2SUywyrnlEmzl7OQU/edit?usp=sharing
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Тестируем пользовательские сценарии вместе с Гермионой
     speaker: Николай Ильченко
     video: https://www.youtube.com/watch?v=WRwP1BBRNNM
-    lang: ru
-    tags:
-      - frontend

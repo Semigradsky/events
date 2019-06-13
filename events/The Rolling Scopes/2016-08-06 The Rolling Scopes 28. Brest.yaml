@@ -3,28 +3,16 @@ date: 2016-08-06
 talks:
   - name: "Immutable.js"
     speaker: Виталий Фокин
-    lang: ru
-    tags:
-      - frontend
   - name: "Популярные CSS фреймворки 2016. Нужно ли гнаться за модой?"
     speaker: Андрей Кучук
-    lang: ru
-    tags:
-      - frontend
   - name: "React.js hangover"
     speaker: Владимир Дёмин
-    lang: ru
     tags:
-      - frontend
       - 'React'
   - name: "Погружаемся в React native"
     speaker: Александр Коваленко
-    lang: ru
     tags:
-      - frontend
       - mobile
   - name: "Введение в теорию типов"
     speaker: Александр Рулев
-    lang: ru
-    tags:
-      - frontend
+

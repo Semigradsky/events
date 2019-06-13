@@ -6,29 +6,19 @@ talks:
     speaker: Владимир Абрамчук
     video: https://www.youtube.com/watch?v=hZiMuwrYBEw
     presentation: http://goo.gl/J2lSy7
-    lang: ru
-    tags:
-      - frontend
   - name: "How to not program on AngularJS"
     speaker: Андрей Емельянчик
     video: https://www.youtube.com/watch?v=IDvb3QI98Uc
     presentation: http://goo.gl/yCbfQz
-    lang: ru
     tags:
-      - frontend
       - 'Angular'
   - name: "AngularJS and how you shouldn’t use it"
     speaker: Константин Яцкевич
     video: https://www.youtube.com/watch?v=efM-0sxCUxs
     presentation: http://goo.gl/hYL3yP
-    lang: ru
     tags:
-      - frontend
       - 'Angular'
   - name: "WebKit JavaScript Core optimizations layers"
     speaker: Кирилл Кныш
     video: https://www.youtube.com/watch?v=xALTXSE8GQA
     presentation: http://goo.gl/guASWu
-    lang: ru
-    tags:
-      - frontend

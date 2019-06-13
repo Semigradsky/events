@@ -6,34 +6,19 @@ talks:
     speaker: Виталий Матвеев
     video: https://www.youtube.com/watch?v=VtZYplGeJU4
     presentation: https://docs.google.com/presentation/d/12FBDli3jfqOchBK_WkCcZ7ObfvtWR3hnbMub1OWrilw/edit
-    lang: ru
-    tags:
-      - frontend
   - name: Генераторы и итераторы в JavaScript
     speaker: Егор Огарков
     video: https://www.youtube.com/watch?v=GrVcQDSakvc
     presentation: https://docs.google.com/presentation/d/180hmeVPEOqp0mA9O5jZmVmpx21PugROk6VQJensk5Hs/edit
-    lang: ru
-    tags:
-      - frontend
   - name: "Паттерн MVVM: теория и практика"
     speaker: Маргарита Лукина
     video: https://www.youtube.com/watch?v=0-1Ds7eG968
     presentation: https://drive.google.com/file/d/1CckFUph9Gv9mj_iLb_q7qsXzTEKOo5jh/view
-    lang: ru
-    tags:
-      - frontend
   - name: Lazy loading изображений при помощи Intersection Observer API
     speaker: Дарья Сабурова
     video: https://www.youtube.com/watch?v=0-1Ds7eG968
     presentation: https://www.canva.com/design/DADLfOU1aBU/tsl0VBquDj7tc5e8Mg9gOQ/view?presentation
-    lang: ru
-    tags:
-      - frontend
   - name: Все, что я знаю о Stylelint
     speaker: Даниил Оношко
     video: https://www.youtube.com/watch?v=0-1Ds7eG968
     presentation: https://docs.google.com/presentation/d/1ETo2cD96KIBB7KOFvTZD2FnJ8klxShrrf2kY-Ev0ayY/edit
-    lang: ru
-    tags:
-      - frontend

@@ -6,20 +6,11 @@ talks:
     speaker: Влад Борш
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Путь к WebGL через THREE.js
     speaker: Андрей Дьяковый
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Как пройти собеседование по js? И зачем? vol. 2
     speaker: Юрий Федоренко
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

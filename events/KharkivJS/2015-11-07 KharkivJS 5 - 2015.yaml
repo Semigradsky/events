@@ -5,138 +5,70 @@ talks:
   - name: Decomposition of JavaScript engineer
     speaker: Георгий Подсветов
     video: 'https://www.youtube.com/watch?v=sh0vLXNPW2Y'
-    lang: ru
-    tags:
-      - frontend
   - name: Обнаружение сервисов в nodejs
     speaker: Александр Рысенко
     video: 'https://www.youtube.com/watch?v=jlFAZn0Mk2E'
-    lang: ru
-    tags:
-      - frontend
   - name: Relay и Falcor — будущее?
     speaker: Вячеслав Слинько
     video: 'https://www.youtube.com/watch?v=bpn8u7KYMSg'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Немного о js приложениях на мобильных устройствах /native script, react native, phonegap и appcelerator'
     speaker: Юрий Лучанинов
     video: 'https://www.youtube.com/watch?v=ZDH_N0bdDrM'
-    lang: ru
-    tags:
-      - frontend
   - name: 'REST Level 3, HATEOAS, JSON API'
     speaker: Артем Бей
     video: 'https://www.youtube.com/watch?v=MmyvNUAnI64'
-    lang: ru
-    tags:
-      - frontend
   - name: Почему Реакт и Флюкс - это хорошо
     speaker: Илья Сегеда
     video: 'https://www.youtube.com/watch?v=zUWn_WSNHBY'
-    lang: ru
-    tags:
-      - frontend
   - name: Компиляторы
     speaker: Андрей Гершун
     video: 'https://www.youtube.com/watch?v=wabHD8fZUmw'
-    lang: ru
-    tags:
-      - frontend
   - name: Anti-hype - как не гнаться за технологиями и начать жить
     speaker: Андрей Листочкин
     video: 'https://www.youtube.com/watch?v=xPFRUM_oDKA'
-    lang: ru
-    tags:
-      - frontend
   - name: Web Animations tomorrow
     speaker: Алексей Швайка
     video: 'https://www.youtube.com/watch?v=BFyxf4-PpvI'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Web Assembly: новая эра веба'
     speaker: Сергей Рубанов
     video: 'https://www.youtube.com/watch?v=eWF_1nMM5Yo'
-    lang: ru
-    tags:
-      - frontend
   - name: The amazing universe of components
     speaker: Кирилл Яковенко
     video: 'https://www.youtube.com/watch?v=QE8wnZ1SbOs'
-    lang: ru
-    tags:
-      - frontend
   - name: Reliable systems with unreliable components
     speaker: Максим Климишин
     video: 'https://www.youtube.com/watch?v=AnJzUreK-Xc'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Интеграция режима одновременной работы в действующий проект /ShareJS, Op transform/'
     speaker: Денис Кузин
     video: 'https://www.youtube.com/watch?v=q-Uqb3cAgjA'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Лабиринты и JS — потому что [не] могу'
     speaker: Александр Лапшин
     video: 'https://www.youtube.com/watch?v=jhuAJoBg7js'
-    lang: ru
-    tags:
-      - frontend
   - name: Promise Pipe
     speaker: Эльдар Джафаров
     video: 'https://www.youtube.com/watch?v=_HoOYqpTAlM'
-    lang: ru
-    tags:
-      - frontend
   - name: Javascript debugging. Know your enemy
     speaker: Андрей Вандакуров
     video: 'https://www.youtube.com/watch?v=yC43rba4VOg'
-    lang: ru
-    tags:
-      - frontend
   - name: How Browser Works?
     speaker: Владимир Воевидка
     video: 'https://www.youtube.com/watch?v=DPqTnBZx5fc'
-    lang: ru
-    tags:
-      - frontend
   - name: Как Webpack сделал меня счастливее
     speaker: Ярослав Сергеев
     video: 'https://www.youtube.com/watch?v=rKd23pit8Xw'
-    lang: ru
-    tags:
-      - frontend
   - name: ES6 Angular flow
     speaker: Валерий Сорокобатько
     video: 'https://www.youtube.com/watch?v=-p8ZrC6-GkI'
-    lang: ru
-    tags:
-      - frontend
   - name: Готовим REST API на Sails и Yeoman
     speaker: Евгений Обрезков
     video: 'https://www.youtube.com/watch?v=utn7pL0nUiM'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Nashorn, SquirellFish, v8: ускоряем зоопарк'
     speaker: Илья Климов
     video: 'https://www.youtube.com/watch?v=tXfSQL3RkPQ'
-    lang: ru
-    tags:
-      - frontend
   - name: Боль и радость создания изоморфных приложений на ReactJS
     speaker: Виктор Турский
     video: 'https://www.youtube.com/watch?v=eLNvsvNZKX8'
-    lang: ru
-    tags:
-      - frontend
   - name: Frontend monitoring at Grammarly - data-driven solution for quality control of frontend products
     speaker: 'Алексей Ященко, Ярослав Волощук'
     video: 'https://www.youtube.com/watch?v=FVDQUzq8g7o'
-    lang: ru
-    tags:
-      - frontend
+

@@ -5,12 +5,6 @@ talks:
   - name: Progressive Web Apps
     speaker: Артурас Лапинскас
     presentation: http://www.mera.ru/media/attachments/2018/11/16/pwa.pptx
-    lang: ru
-    tags:
-      - frontend
   - name: Web-компоненты и внедрение зависимостей
     speaker: Александр Волков
     presentation: http://www.mera.ru%20/media/attachments/2018/11/16/dom-di.pptx
-    lang: ru
-    tags:
-      - frontend

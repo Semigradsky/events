@@ -6,24 +6,18 @@ talks:
     speaker: Oleksandr Tsikhotskikh
     video: https://youtu.be/dx6hB4_r90U
     presentation: https://docs.google.com/presentation/d/18ophcPlS_MRH3BLq2I4AdfOgb-nRBncn-2ZsfmpyYEE/edit#slide=id.p
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "Change Detection in Depth"
     speaker: Sebastien Vasylets
     video: https://youtu.be/4wWdwNV4fvE
     presentation: http://slides.com/sebastienvasylets-sebastienv/angular-change-detection#/
-    lang: ru
     tags:
-      - frontend
       - Angular
   - name: "Angular Components Testing"
     speaker: Marianna Yasko
     video: https://youtu.be/rtfDrGtOLwY
     presentation: https://docs.google.com/presentation/d/1I8TP5aDsDpwkTvHU33b4qNAZquQ7KZHlSmCW3RRcTcc/edit#slide=id.p3
-    lang: ru
     tags:
-      - frontend
       - Angular
       - 'testing'

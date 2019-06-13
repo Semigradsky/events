@@ -6,13 +6,7 @@ talks:
     speaker: Наталия Короткова
     video: https://www.youtube.com/watch?v=Mff-bwBDxWM
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Через тернии к Webpack
     speaker: Анна Селезнёва
     video: https://www.youtube.com/watch?v=K2E2IVTgkrI
     presentation:
-    lang: ru
-    tags:
-      - frontend

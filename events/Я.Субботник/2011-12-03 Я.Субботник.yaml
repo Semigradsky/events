@@ -5,60 +5,31 @@ talks:
   - name: 'Touch it: универсальные тач-события и слайдер'
     speaker: Кир Белевич
     url: 'https://events.yandex.ru/lib/talks/165/'
-    lang: ru
-    tags:
-      - frontend
   - name: Дизайнер в поиске
     speaker: Настя Ларкина
     url: 'https://events.yandex.ru/lib/talks/166/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Офлайн-поиск на основе MapReduce '
     speaker: Александр Сибиряков
     url: 'https://events.yandex.ru/lib/talks/168/'
-    lang: ru
-    tags:
-      - frontend
   - name: Python в инфраструктуре поиска
     speaker: Леонид Васильев
     url: 'https://events.yandex.ru/lib/talks/169/'
-    lang: ru
-    tags:
-      - frontend
   - name: Несколько интересных фактов об экспертной оценке
     speaker: Ольга Мегорская
     url: 'https://events.yandex.ru/lib/talks/170/'
-    lang: ru
-    tags:
-      - frontend
   - name: Методы автоматического сбора данных
     speaker: Владимир Батыгин
     url: 'https://events.yandex.ru/lib/talks/172/'
-    lang: ru
-    tags:
-      - frontend
   - name: Подходы к кешированию на UGC-сервисе
     speaker: Сергей Чистович
     url: 'https://events.yandex.ru/lib/talks/173/'
-    lang: ru
-    tags:
-      - frontend
   - name: Основные проблемы и грабли при разработке видеохостингов
     speaker: Алексей Ефимов
     url: 'https://events.yandex.ru/lib/talks/174/'
-    lang: ru
-    tags:
-      - frontend
   - name: Горизонтальное масштабирование MySQL
     speaker: Екатерина Войденко
     url: 'https://events.yandex.ru/lib/talks/176/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Хроники серверного Жаваскрипта '
     speaker: Марат Абдуллин
     url: 'https://events.yandex.ru/lib/talks/177/'
-    lang: ru
-    tags:
-      - frontend
+

@@ -6,34 +6,19 @@ talks:
     speaker: Коньшин Александр
     video: https://www.youtube.com/watch?v=3ciPzn8ugJE
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Real Time SPA на примере Яндекс.Такси
     speaker: Павел Горобцов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Использование Sass и Compass для созданиях командных Styleguide-ов
     speaker: Александр Гончаров
     video: https://www.youtube.com/watch?v=QcENrjkjQoo
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: JS API Яндекс Карт 2.1. Почему и зачем мы меняем API?
     speaker: Сергей Константинов
     video: https://www.youtube.com/watch?v=aS1dfT-WoFU
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Яндекс.Маркет. Разработка фронтенда, от кузницы до металлургического завода
     speaker: Дмитрий Поляков
     video: https://www.youtube.com/watch?v=H-AK67UNDrs
     presentation:
-    lang: ru
-    tags:
-      - frontend

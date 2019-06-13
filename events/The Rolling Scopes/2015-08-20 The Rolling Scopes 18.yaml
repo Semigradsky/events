@@ -5,19 +5,12 @@ talks:
   - name: "Taucharts: что скрывают эти данные, сhart побери!"
     speaker: 'Владимир Петрико, Константин Кривленя'
     video: https://www.youtube.com/watch?v=R3koYlR6aao
-    lang: ru
-    tags:
-      - frontend
   - name: "React Native in action"
     speaker: Илья Сачок
     video: https://www.youtube.com/watch?v=WqBer-xgBI0
-    lang: ru
     tags:
-      - frontend
       - mobile
   - name: "Git, Commmit and Code Review"
     speaker: Дмитрий Воробей
     video: https://www.youtube.com/watch?v=LKVK_uCZ4Cg
-    lang: ru
-    tags:
-      - frontend
+

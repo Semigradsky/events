@@ -6,20 +6,12 @@ talks:
     speaker: Екатерина Трифонова
     presentation: 'http://katiaaa.ru/show/'
     video: 'https://youtu.be/3tPTK1eWuLI?t=47m5s'
-    lang: ru
-    tags:
-      - frontend
   - name: Хватит врать про Grid Layout!
     speaker: Сергей Попов
     presentation: 'https://goo.gl/cL6rax'
     video: 'https://youtu.be/3tPTK1eWuLI?t=1s'
-    lang: ru
-    tags:
-      - frontend
   - name: Веб-безопасность
     speaker: Вячеслав Шебанов
     presentation: 'http://amp.gs/fJyu'
     video: 'https://www.youtube.com/watch?v=uUX3354Ppa8&feature=youtu.be&utm_source=vk.com&utm_medium=social&utm_campaign=pryamaya-translyatsiya-mitapayoutu&utm_content=18083498'
-    lang: ru
-    tags:
-      - frontend
+

@@ -5,20 +5,13 @@ talks:
   - name: React Native Desktop
     speaker: Дмитрий Локтев
     video: 'https://www.youtube.com/watch?v=3lSUKW6KK0I'
-    lang: ru
     tags:
-      - frontend
       - 'React'
   - name: Полный стек технологий БЭМ
     speaker: Александр Баумгертнер
     video: 'https://www.youtube.com/watch?v=VsGl-xZtxFg'
     presentation: http://alexbaumgertner.github.io/presentation-bem-stack/
-    lang: ru
-    tags:
-      - frontend
   - name: JavaScript в большом проекте
     speaker: Евгений Гусев
     video: 'https://www.youtube.com/watch?v=Ak6dI1_ZaEI'
-    lang: ru
-    tags:
-      - frontend
+

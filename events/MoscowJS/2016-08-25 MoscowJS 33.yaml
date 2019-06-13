@@ -5,27 +5,16 @@ talks:
     speaker: Егор Яковишен
     video: 'https://www.youtube.com/watch?v=xVVG3mRy0NY'
     presentation: 'https://www.slideshare.net/secret/Eu3VSLkuKIUYSN'
-    lang: ru
-    tags:
-      - frontend
   - name: Регрессионное тестирование компонентов верстки
     speaker: Кондратенко Павел
     video: 'https://www.youtube.com/watch?v=aftKkyfjKK4'
     presentation: 'https://www.slideshare.net/secret/9RpH5AGPO6RQCV'
-    lang: ru
-    tags:
-      - frontend
   - name: Предсказуемый Viewport
     speaker: Вопиловский Константин
     video: 'https://www.youtube.com/watch?v=H2eivu0zJPk'
     presentation: 'https://www.slideshare.net/secret/day3Ckj7GbW1GQ'
-    lang: ru
-    tags:
-      - frontend
   - name: I promise - images will be loaded!
     speaker: Антон Корзунов
     video: 'https://www.youtube.com/watch?v=tV1PpSIp4zk'
     presentation: 'https://www.slideshare.net/secret/cqOgAMwPfBJcPl'
-    lang: ru
-    tags:
-      - frontend
+

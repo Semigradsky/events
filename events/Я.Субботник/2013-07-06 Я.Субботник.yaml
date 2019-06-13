@@ -5,60 +5,31 @@ talks:
   - name: Открытие
     speaker: Андрей Жаринов
     url: 'https://events.yandex.ru/lib/talks/961/'
-    lang: ru
-    tags:
-      - frontend
   - name: Интерактивные ответы в поиске Яндекса. Case study
     speaker: Булат Каримов
     url: 'https://events.yandex.ru/lib/talks/968/'
-    lang: ru
-    tags:
-      - frontend
   - name: Твиттер в поиске Яндекса
     speaker: Иван Комаров
     url: 'https://events.yandex.ru/lib/talks/969/'
-    lang: ru
-    tags:
-      - frontend
   - name: Разработка C++ API для реализации алгоритмов на больших графах
     speaker: Павел Артёмкин
     url: 'https://events.yandex.ru/lib/talks/962/'
-    lang: ru
-    tags:
-      - frontend
   - name: Новая выдача Поиска для сайта
     speaker: Дмитрий Вульбрун
     url: 'https://events.yandex.ru/lib/talks/1014/'
-    lang: ru
-    tags:
-      - frontend
   - name: JavaScript на фронте и в тылу
     speaker: Денис Чистяков
     url: 'https://events.yandex.ru/lib/talks/970/'
-    lang: ru
-    tags:
-      - frontend
   - name: Простая обработка групп геообъектов на карте
     speaker: Сергей Константинов
     url: 'https://events.yandex.ru/lib/talks/965/'
-    lang: ru
-    tags:
-      - frontend
   - name: Python и вычисления
     speaker: Руслан Гроховецкий
     url: 'https://events.yandex.ru/lib/talks/963/'
-    lang: ru
-    tags:
-      - frontend
   - name: Сортировка списков в Perl и Python
     speaker: Олег Алистратов
     url: 'https://events.yandex.ru/lib/talks/971/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как хранить логи сервиса в базе данных и не погубить продакшен
     speaker: Алексей Кирпичников
     url: 'https://events.yandex.ru/lib/talks/966/'
-    lang: ru
-    tags:
-      - frontend
+

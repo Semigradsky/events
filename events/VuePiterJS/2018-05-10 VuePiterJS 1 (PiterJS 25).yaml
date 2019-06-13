@@ -7,22 +7,16 @@ talks:
     speaker: Игорь Минин
     video: https://www.youtube.com/watch?v=9wHZuPE4Nl0
     presentation: https://fs.piterjs.org/events/25/minin.pdf
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Vue.js higher order components
     speaker: Мохнаткин Алексей
     video: https://www.youtube.com/watch?v=tU3YIENFU3E
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Изоморфные приложения на Vue
     speaker: Николай Говоров
     video: https://www.youtube.com/watch?v=UhPuIahns18
     presentation: https://fs.piterjs.org/events/25/govorov.pdf
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'

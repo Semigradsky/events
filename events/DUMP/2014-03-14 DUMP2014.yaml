@@ -5,48 +5,25 @@ talks:
   - name: Зимние игры 2014 в Яндексе
     speaker: Максим Пономарев
     video: https://www.youtube.com/watch?v=Ny8iMI40CoY
-    lang: ru
-    tags:
-      - frontend
   - name: Веб интерфейсы на touch устройствах
     speaker: Иван Чашкин
     video: https://www.youtube.com/watch?v=qvcQUoLAWM4
-    lang: ru
-    tags:
-      - frontend
   - name: 'Зачем нужен EmberJS, если мне хватает jQuery'
     speaker: Сергей Болельщиков
     video: https://www.youtube.com/watch?v=3-tiWo4QQhc
-    lang: ru
-    tags:
-      - frontend
   - name: "Не\_бойся, это всего лишь данные... просто их\_много"
     speaker: Роман Дворнов
     video: https://www.youtube.com/watch?v=baPaSBaRKbk
-    lang: ru
-    tags:
-      - frontend
   - name: Components now
     speaker: Михаил Давыдов
     video: https://www.youtube.com/watch?v=HYjvz7D-VUU
-    lang: ru
-    tags:
-      - frontend
   - name: 'Автопрефиксер: Мир без CSS префиксов'
     speaker: Андрей Ситник
     video: https://www.youtube.com/watch?v=N9o3BqEj5Y0
-    lang: ru
-    tags:
-      - frontend
   - name: l20n как система локализации
     speaker: Антон Немцев
     video: https://www.youtube.com/watch?v=wYQUohGGFFE
-    lang: ru
-    tags:
-      - frontend
   - name: По-настоящему отзывчивые интерфейсы
     speaker: Артём Поликарпов
     video: https://www.youtube.com/watch?v=2t_C-vm6YTE
-    lang: ru
-    tags:
-      - frontend
+

@@ -5,34 +5,20 @@ talks:
   - name: To Orm or not to Orm, Is there a life without it?
     speaker: Yuri Yarosh
     video: https://www.youtube.com/watch?v=h3oRLWsPaG8
-    lang: ru
-    tags:
-      - frontend
   - name: Principles of Functional Programming in JavaScript
     speaker: Denis Stoyanov
     video: https://www.youtube.com/watch?v=xom2TdaZPAI
     presentation: http://fp-in-js.surge.sh/#/
-    lang: ru
-    tags:
-      - frontend
   - name: Make Ukrainian Great Again
     speaker: Leontii Hrabovetskyi
     video: https://www.youtube.com/watch?v=WMJyKXIafsM
     presentation: https://drive.google.com/file/d/0B4xFRFS363tpdGhodi1wSTlaVjQ/view
     lang: uk
-    tags:
-      - frontend
   - name: Making Beats with Web Audio and RxJS
     speaker: Evgeny Kozhura
     video: https://www.youtube.com/watch?v=RyP5rqdmnlg
     presentation: https://drive.google.com/file/d/0B4xFRFS363tpRmJscEF4LU90SEk/view
-    lang: ru
-    tags:
-      - frontend
   - name: New Babel Plugin - Transform CSSTag
     speaker: Кирилл Яковенко
     video: https://www.youtube.com/watch?v=hd_hoMZ2wn0
     presentation: https://blia.github.io/kyivjs-jun-8-2017/
-    lang: ru
-    tags:
-      - frontend

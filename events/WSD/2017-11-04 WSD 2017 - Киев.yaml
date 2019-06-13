@@ -7,68 +7,40 @@ talks:
     video: https://www.youtube.com/watch?v=AQjuuFWShMg
     presentation: https://wsd.events/2017/11/04/pres/css-components.pdf
     lang: en
-    tags:
-      - frontend
   - name: "Светлое будущее Custom Elements"
     speaker: Елена Жукова
     video: https://www.youtube.com/watch?v=SX3qGBZ6UpM
     presentation: https://wsd.events/2017/11/04/pres/custom-elements.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Людоедский интерфейс"
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=KAK-WAb9vow
     presentation: https://wsd.events/2017/11/04/pres/inhuman-ui/
-    lang: ru
-    tags:
-      - frontend
   - name: "Индуктивная доступность"
     speaker: Антон Есауленко
     video: https://www.youtube.com/watch?v=6RwBzVioy-o
     presentation: https://wsd.events/2017/11/04/pres/inductive-a11y/
-    lang: ru
-    tags:
-      - frontend
   - name: "WTF is AMP и почему шмель летает?"
     speaker: Андрей Абрамов
     video: https://www.youtube.com/watch?v=lkeT4iZntRo
     presentation: https://wsd.events/2017/11/04/pres/wtf-amp/
-    lang: ru
-    tags:
-      - frontend
   - name: "Оптимизируй это"
     speaker: Денис Завгородний
     video: https://www.youtube.com/watch?v=-D6LHUQQBRI
     presentation: https://wsd.events/2017/11/04/pres/optimize-it/
-    lang: ru
-    tags:
-      - frontend
   - name: "Жизнь и смерть точек на экране"
     speaker: Юрий Артюх
     video: https://www.youtube.com/watch?v=YoHjAhzOgrA
     presentation: https://wsd.events/2017/11/04/pres/screen-dots.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Атомарный CSS"
     speaker: Дмитрий Цысарь
     video: https://www.youtube.com/watch?v=WM6C_vteL48
     presentation: https://wsd.events/2017/11/04/pres/atomic-css/
-    lang: ru
-    tags:
-      - frontend
   - name: "Что делать, если ты молодой фронтендер?"
     speaker: Влад Антипенко
     video: https://www.youtube.com/watch?v=d3aLqdCAPOs
     presentation: https://wsd.events/2017/11/04/pres/youth-front/
-    lang: ru
-    tags:
-      - frontend
   - name: "Изобретаем велосипед для фриланса"
     speaker: Павел Никитюк
     video: https://www.youtube.com/watch?v=I7ZPF9lmB9o
     presentation: https://wsd.events/2017/11/04/pres/freelancycle.pdf
-    lang: ru
-    tags:
-      - frontend
+

@@ -6,21 +6,13 @@ talks:
     speaker: Никита Малик
     video: https://youtu.be/9EOOHaj5LBM
     presentation: https://slides.com/exiliot/ivy-is-coming#/
-    lang: ru
-    tags:
-      - frontend
   - name: 1000 и 1 блюдо из джаваскрипта
     speaker: Владислав Балабаш
     video: https://youtu.be/hlip_L5RWrk
     presentation: https://www.slideshare.net/odessafrontend/1000-1-odessafrontend-meetup-10/
-    lang: ru
-    tags:
-      - frontend
   - name: Highway to FPS or true animations in Angular
     speaker: Денис Бурячковски
     video: https://youtu.be/ywBEtfKunu4
     presentation: https://www.slideshare.net/odessafrontend/highway-to-fps-or-true-animations-in-angular-odessafrontend-meetup-11
-    lang: ru
     tags:
-      - frontend
       - 'Angular'

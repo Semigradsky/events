@@ -5,39 +5,23 @@ talks:
   - name: Фронтенд для миллионов
     speaker: Анастасия Горячева
     presentation: https://www.slideshare.net/negoryacheva/ss-77015972
-    lang: ru
-    tags:
-      - frontend
   - name: Unit тесты в NodeJS
     speaker: Кирилл Новиков
     presentation: https://github.com/kirill3333/jsnn_6/blob/master/Unit%20testing%20in%20Node%20JS.pdf
-    lang: ru
     tags:
-      - frontend
       - 'testing'
       - 'Node.js'
   - name: Ни RESТа себе! GraphQL is Coming
     speaker: Артём Малышев
     presentation: http://proofit404.github.io/talks/graphql-relay
-    lang: ru
-    tags:
-      - frontend
   - name: SW
     speaker: Макаров Андрей
     presentation: https://r3nya.github.io/sw-intro/
-    lang: ru
-    tags:
-      - frontend
   - name: Генераторы в javascript
     speaker: Михаил Ангелов
     presentation: https://mikhail-angelov.github.io/presentation-generators/#/
-    lang: ru
-    tags:
-      - frontend
   - name: "React + Redux: Data flow management"
     speaker: Андрей Синицын
     presentation: http://slides.com/andreysinitsyn-asn007/deck
-    lang: ru
     tags:
-      - frontend
       - 'React'

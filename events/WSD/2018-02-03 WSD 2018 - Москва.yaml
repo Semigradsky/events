@@ -6,62 +6,36 @@ talks:
     speaker: Алекс Могилевский
     video: https://www.youtube.com/watch?v=iiY0GBG3RXA
     presentation: https://wsd.events/2018/02/03/pres/w3c-backstage.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Насколько важно следовать стандартам?"
     speaker: Вячеслав Абрамов
     video: https://www.youtube.com/watch?v=wbhW3WRzulw
     presentation: https://wsd.events/2018/02/03/pres/follow-standards.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "CSS глазами машин"
     speaker: Роман Дворнов
     video: https://www.youtube.com/watch?v=c2Sw5gmOwmE
     presentation: https://wsd.events/2018/02/03/pres/css-for-machines.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Распечатай мне курсач. На CSS"
     speaker: Никита Дубко
     video: https://www.youtube.com/watch?v=xVPCZFBpjsI
     presentation: https://wsd.events/2018/02/03/pres/printing-css/
-    lang: ru
-    tags:
-      - frontend
   - name: "Давайте добавим правила! или Погружение в мир типизации"
     speaker: Григорий Шехет
     video: https://www.youtube.com/watch?v=lOo5zB-m6EU
     presentation: https://wsd.events/2018/02/03/pres/type-dive.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Через каскадные таблицы стилей в\_облака"
     speaker: Владимир Гриненко
     video: https://www.youtube.com/watch?v=3Q0jf-8UsWE
     presentation: https://wsd.events/2018/02/03/pres/css-to-docker.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Прототипирование на\_продакшен-технологиях"
     speaker: Михаил Колосков
     video: https://www.youtube.com/watch?v=YUKHcQJEELw
     presentation: https://wsd.events/2018/02/03/pres/bem-design.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Фронтенд-ликбез"
     speaker: Людмила Мжачих
     video: https://www.youtube.com/watch?v=Dmayg0Fnfkw
     presentation: https://wsd.events/2018/02/03/pres/frontend-101.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Продакшен на базе образовательного проекта. Зачем и как"
     speaker: Сергей Попов
     video: https://www.youtube.com/watch?v=_2fzdk7S5m0
     presentation: https://wsd.events/2018/02/03/pres/production.pdf
-    lang: ru
-    tags:
-      - frontend
+

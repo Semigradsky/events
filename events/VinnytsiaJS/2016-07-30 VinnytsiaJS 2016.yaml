@@ -6,83 +6,45 @@ talks:
     speaker: Martin Splitt
     video: 'https://www.youtube.com/watch?v=wQuG094IdEw'
     lang: en
-    tags:
-      - frontend
   - name: Hidden capabilities of well-known things
     speaker: Alexey Volkov
     video: 'https://www.youtube.com/watch?v=mG10Hnrryhc'
-    lang: ru
-    tags:
-      - frontend
   - name: 'React, Redux and immutable state'
     speaker: Yevhen Shemet
     video: 'https://www.youtube.com/watch?v=HWTqxAUCBsI'
-    lang: ru
-    tags:
-      - frontend
   - name: Node.js – running JavaScript on-earth and in-cloud
     speaker: Andriy Deren
     video: 'https://www.youtube.com/watch?v=_cdKDhoAYvk'
-    lang: ru
-    tags:
-      - frontend
   - name: Smart Office - the practical application of IoT in JS development
     speaker:  Dmytro Golysh, Юрий Ткаченко
     video: 'https://www.youtube.com/watch?v=qWHMK_uHT4I'
-    lang: ru
-    tags:
-      - frontend
   - name: Asyncable ESMAScript
     speaker: Denis Vlassenko
     video: 'https://www.youtube.com/watch?v=ocaV1zZZcAs'
-    lang: ru
-    tags:
-      - frontend
   - name: Types vs Types in Javascript
     speaker: Ivan Lavriv
     video: 'https://www.youtube.com/watch?v=x7fnpMN7z3U'
-    lang: ru
-    tags:
-      - frontend
   - name: Realtime HTML5 Canvas Drawing
     speaker: Evhenii Pinkal
     video: 'https://www.youtube.com/watch?v=_LMIEPoGxNU'
     lang: uk
-    tags:
-      - frontend
   - name: Frontend Performance Metrics. Measure First. Measure Often
     speaker: 'Artem Zakharchenko'
     video: 'https://www.youtube.com/watch?v=mUG0iVj3Bb0'
-    lang: ru
-    tags:
-      - frontend
   - name: WTF - WebGL The Fundamentals
     speaker: Martin Splitt
     video: 'https://www.youtube.com/watch?v=C79DDrEIpys'
     lang: en
-    tags:
-      - frontend
   - name: Do you have to play coding games if you are a professional coder?
     speaker: Alexander Lyabah
     video: 'https://www.youtube.com/watch?v=aMWg4FgmfYI'
-    lang: ru
-    tags:
-      - frontend
   - name: Better API wrappers with Proxies
     speaker: Алексей Швайка
     video: 'https://www.youtube.com/watch?v=hxQW7tcPQ2s'
-    lang: ru
-    tags:
-      - frontend
   - name: 'React Native: Are we there yet'
     speaker: Роман Лютиков
     video: 'https://www.youtube.com/watch?v=o2_qDphpjlQ'
-    lang: ru
-    tags:
-      - frontend
   - name: Offline-First Almighty or one big reason why our web-applications suck
     speaker: Denis Yaremov
     video: 'https://www.youtube.com/watch?v=u5PPiWwojDY'
-    lang: ru
-    tags:
-      - frontend
+

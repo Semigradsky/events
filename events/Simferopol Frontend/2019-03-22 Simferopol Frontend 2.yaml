@@ -6,41 +6,23 @@ talks:
     speaker: Айсель Шерфединова
     video: https://www.youtube.com/watch?v=H7Ad1d2-UyA
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Опыт использования Apollo и преимущества GraphQL перед REST API
     speaker: Илья Гриненко
     video: https://www.youtube.com/watch?v=H7Ad1d2-UyA
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Разработка интерфейсов на React по методологии БЭМ
     speaker: Василий Логиневский
     video: https://www.youtube.com/watch?v=H7Ad1d2-UyA
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Как держать баланс между фичами и качеством кода
     speaker: Евгений Масленков
     video: https://www.youtube.com/watch?v=H7Ad1d2-UyA
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Ясли — школу для начинающих разработчиков интерфейсов на базе симферопольского офиса Яндекса
     speaker: Александр Шлейко
     video: https://www.youtube.com/watch?v=H7Ad1d2-UyA
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Секция вопросов-ответов
     speaker: Виталий Харисов
     video: https://www.youtube.com/watch?v=H7Ad1d2-UyA
     presentation:
-    lang: ru
-    tags:
-      - frontend

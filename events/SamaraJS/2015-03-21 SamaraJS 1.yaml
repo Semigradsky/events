@@ -5,23 +5,13 @@ talks:
   - name: Философские рассуждения о подходе к разработке на Angular.js
     speaker: Cергей Гулин
     video: https://www.youtube.com/watch?v=si_z_aCszC8
-    lang: ru
-    tags:
-      - frontend
   - name: К вопросу о производительности утюга с экраном
     speaker: Илья Абламонов
     video: https://www.youtube.com/watch?v=W9tSqfqA2zU
-    lang: ru
-    tags:
-      - frontend
   - name: Angular + PJAX
     speaker: Александр Горкунов
     video: https://www.youtube.com/watch?v=smz3QIlpCc4
-    lang: ru
     tags:
   - name: Пора писать гибридные мобильные приложения
     speaker: Владимир Ярцев
     video: https://www.youtube.com/watch?v=YfkIfg-lAy0
-    lang: ru
-    tags:
-      - frontend

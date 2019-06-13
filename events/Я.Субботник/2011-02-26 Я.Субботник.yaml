@@ -5,36 +5,19 @@ talks:
   - name: Поиск багов в поиске
     speaker: 'Артём Ерошенко, Станислав Селиверстов'
     url: 'https://events.yandex.ru/lib/talks/248/'
-    lang: ru
-    tags:
-      - frontend
   - name: Оценка качества поиска
     speaker: Роман Поборчий
     url: 'https://events.yandex.ru/lib/talks/249/'
-    lang: ru
-    tags:
-      - frontend
   - name: Оценка черной магии
     speaker: Александр Коваленко
     url: 'https://events.yandex.ru/lib/talks/251/'
-    lang: ru
-    tags:
-      - frontend
   - name: Поток вертикальных сервиcов
     speaker: Дмитрий Качмар
     url: 'https://events.yandex.ru/lib/talks/252/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Баннерокрутилка: разбираем на куски'
     speaker: Сергей Скроботов
     url: 'https://events.yandex.ru/lib/talks/254/'
-    lang: ru
-    tags:
-      - frontend
   - name: Автоматический сбор данных по примерам
     speaker: Владимир Батыгин
     url: 'https://events.yandex.ru/lib/talks/255/'
-    lang: ru
-    tags:
-      - frontend
+

@@ -4,24 +4,13 @@ talks:
   - name: Обработка текстов в JavaScript для чайников​
     speaker: Дмитрий Шмаков​
     presentation: 'https://cloud.mail.ru/public/58pk/ckocL8veR'
-    lang: ru
-    tags:
-      - frontend
   - name: DX w/ Flow
     speaker: Александр Лобашев
     presentation: 'https://cloud.mail.ru/public/M3pd/s8HyLYmSH'
-    lang: ru
-    tags:
-      - frontend
   - name: Как начать использовать AST
     speaker: Иван Стрелков
     presentation: 'http://istrel.github.io/ast-getting-started/'
-    lang: ru
-    tags:
-      - frontend
   - name: Скриншоты как сервис​
     speaker: Сергей Мелюков
     presentation: 'https://cloud.mail.ru/public/6ww5/gNyR9rpVx'
-    lang: ru
-    tags:
-      - frontend
+

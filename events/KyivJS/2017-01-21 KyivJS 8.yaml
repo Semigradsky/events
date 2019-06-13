@@ -4,26 +4,16 @@ talks:
   - name: Best practices of Node.js use in production
     speaker: Никита Галкин
     presentation: https://galkin.github.io/kyivjs-2017
-    lang: ru
     tags:
-      - frontend
       - 'Node.js'
   - name: В этот раз я все сделаю правильно!
     speaker: Алексей Распопов
     presentation: https://alexeyraspopov.github.io/the-right-way
-    lang: ru
-    tags:
-      - frontend
   - name: Путешествие вглубь Node.js
     speaker: Алексей Орленко
     presentation: http://aqrln.github.io/kyivjs-2017/#/
-    lang: ru
     tags:
-      - frontend
       - 'Node.js'
   - name: Структурно-событийное программирование
     speaker: Олександр Шпак
     presentation: https://drive.google.com/file/d/0B5hEGrbXzEkMdW9NV21qdG9jeVk/view
-    lang: ru
-    tags:
-      - frontend

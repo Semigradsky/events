@@ -3,54 +3,28 @@ date: 2016-07-23
 talks:
   - name: "Angular-Material in Practice"
     speaker: Алесь Цвиль
-    lang: ru
     tags:
-      - frontend
       - 'Angular'
   - name: "TypeScript: application-scale JavaScript."
     speaker: Алексей Харчиков
-    lang: ru
     tags:
-      - frontend
       - TypeScript
   - name: "Как подружить JAVA сервер-сайд разработчика с JASMINE"
     speaker: Алексей Рябченко
-    lang: ru
-    tags:
-      - frontend
   - name: "Как стать фронт-енд разработчиком с нуля"
     speaker: Вадим Кулага
-    lang: ru
-    tags:
-      - frontend
   - name: "Некоторые алгоритмы и структуры для обработки строковых данных"
     speaker: Руслан Панасюк
-    lang: ru
-    tags:
-      - frontend
   - name: "Electron и JavaScript приложения для desktop."
     speaker: Иван Селицкий
-    lang: ru
-    tags:
-      - frontend
   - name: "Статическая типизация с Flow and Typescript"
     speaker: Владислав Горбачёв
-    lang: ru
     tags:
-      - frontend
       - TypeScript
   - name: "Creating VR web"
     speaker: Павел Юхнович
-    lang: ru
-    tags:
-      - frontend
   - name: "Азбука HTML и CSS, или как научить толпу людей верстать"
     speaker: Мария Путырская
-    lang: ru
-    tags:
-      - frontend
   - name: "Самые распространеные лайфхаки фронтенд разработчика или как делать свою работу быстрее и проще"
     speaker: Жанна Луд
-    lang: ru
-    tags:
-      - frontend
+

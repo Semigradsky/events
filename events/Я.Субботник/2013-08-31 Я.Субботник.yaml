@@ -5,72 +5,37 @@ talks:
   - name: Путь к Rich Content API. Контент «по-богатому»
     speaker: Александр Гусак
     url: 'https://events.yandex.ru/lib/talks/1045/'
-    lang: ru
-    tags:
-      - frontend
   - name: Острова. Фронтенд по кусочкам
     speaker: Ангелина Константинова
     url: 'https://events.yandex.ru/lib/talks/1046/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Cocaine — приватное облако, где все включено'
     speaker: Антон Тюрин
     url: 'https://events.yandex.ru/lib/talks/1271/'
-    lang: ru
-    tags:
-      - frontend
   - name: Свое веб-приложение в облаке – просто и удобно
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/1049/'
-    lang: ru
-    tags:
-      - frontend
   - name: Сервис пуш-сообщений Яндекса
     speaker: Юрий Василевский
     url: 'https://events.yandex.ru/lib/talks/1055/'
-    lang: ru
-    tags:
-      - frontend
   - name: Синхронизация данных на клиенте
     speaker: Алексей Витенко
     url: 'https://events.yandex.ru/lib/talks/1056/'
-    lang: ru
-    tags:
-      - frontend
   - name: Качество кода автотестов
     speaker: Артём Кошелев
     url: 'https://events.yandex.ru/lib/talks/1060/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Матчеры: польза использования и легкость применения в ваших автотестах'
     speaker: Кирилл Меркушев
     url: 'https://events.yandex.ru/lib/talks/1059/'
-    lang: ru
-    tags:
-      - frontend
   - name: Хранение и индексирование большого объема данных
     speaker: Кирилл Смородинников
     url: 'https://events.yandex.ru/lib/talks/1058/'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Факторы ранжирования: основы'
     speaker: Юрий Картынник
     url: 'https://events.yandex.ru/lib/talks/1063/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как создаются Яндекс.Карты
     speaker: Алексей Лобанов
     url: 'https://events.yandex.ru/lib/talks/1052/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как мы делали «короткий» прогноз пробок на Яндекс.Картах
     speaker: Роман Удовиченко
     url: 'https://events.yandex.ru/lib/talks/1053/'
-    lang: ru
-    tags:
-      - frontend
+

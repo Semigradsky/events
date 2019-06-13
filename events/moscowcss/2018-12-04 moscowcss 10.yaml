@@ -6,27 +6,15 @@ talks:
     speaker: Никита Прилепский​
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Производительность анимаций. Как не застрять в кадрах
     speaker: Дмитрий​ Долженко​
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Стилизация переиспользуемых UI компонентов​
     speaker: Олег Лыкасов​
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Видимо-невидимо. Охотимся на визуальные регрессии
     speaker: Людмила Мжачих
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

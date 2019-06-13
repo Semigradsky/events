@@ -4,23 +4,13 @@ link: 'https://www.it52.info/events/2016-12-17-positive-js-nn-5'
 talks:
   - name: EJsE Sails.JS as MockServer
     speaker: Олег Пименов
-    lang: ru
-    tags:
-      - frontend
   - name: Пробуем оптимизировать сборку webpack
     speaker: Елена Сизова
-    lang: ru
-    tags:
-      - frontend
   - name: Redux + Angular 1.5.x
     speaker: Динара Крылова
-    lang: ru
     tags:
-      - frontend
       - 'Angular'
   - name: Автоматическое e2e тестирование в Облаке
     speaker: Иван Николаев
-    lang: ru
     tags:
-      - frontend
       - 'testing'

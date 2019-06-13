@@ -6,27 +6,16 @@ talks:
     speaker: Максим Сырых
     video: https://www.youtube.com/watch?v=EXX5HmD_5lU
     presentation: https://slogger.github.io/webaudio-uraljs/
-    lang: ru
-    tags:
-      - frontend
   - name: Трудности перехода
     speaker: Вячеслав Бухарин, Денис Омельков
     video: https://www.youtube.com/watch?v=O-GBvIrKEA0
     presentation: http://slides.com/denisomelkov/deck/
-    lang: ru
-    tags:
-      - frontend
   - name: Как перестать бояться и использовать Vue.js
     speaker: Владислав Килин
     video: https://www.youtube.com/watch?v=r45EorOK7MA
     presentation: https://drive.google.com/file/d/0B5Ws8A4Wj25DZUFad2ZFUHV4RWM/view?usp=sharing
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Открытый микрофон
     speaker: '?'
     video: https://www.youtube.com/watch?v=0JOsoNzi6KY&list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1&index=4
-    lang: ru
-    tags:
-      - frontend

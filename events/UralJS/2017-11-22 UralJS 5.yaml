@@ -6,27 +6,16 @@ talks:
     speaker: Илья Сухоплюев
     video: https://www.youtube.com/watch?v=UIUXbzk273s
     presentation: https://docs.google.com/presentation/d/1eZlUdFqDwNtLSDDY2ksaSDYYDCh7UkRh_qcvedow2hI
-    lang: ru
-    tags:
-      - frontend
   - name: Декораторы в JS
     speaker: Владимир Санников
     video: https://www.youtube.com/watch?v=qRlMzRcToNE
     presentation: http://slides.com/vhaldemario/jsdecorators#/
-    lang: ru
-    tags:
-      - frontend
   - name: React-DnD
     speaker: Теймураз Хазамов
     video: https://www.youtube.com/watch?v=amhSyi_NQ4s
     presentation: https://slides.com/t1mmaas/react-dnd/
-    lang: ru
     tags:
-      - frontend
       - 'React'
   - name: Открытый микрофон
     speaker: '?'
     video: https://www.youtube.com/watch?v=dz4I39TrvGs
-    lang: ru
-    tags:
-      - frontend

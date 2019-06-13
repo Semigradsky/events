@@ -5,36 +5,19 @@ talks:
   - name: Долой рутину — автоматизируй это!
     speaker: Денис Чистяков
     url: 'https://events.yandex.ru/lib/talks/5479/'
-    lang: ru
-    tags:
-      - frontend
   - name: Модульное тестирование интерфейсов в Headless Chrome
     speaker: Дмитрий Андриянов
     url: 'https://events.yandex.ru/lib/talks/5480/'
-    lang: ru
-    tags:
-      - frontend
   - name: Конвейер разработки интерфейсов. Как его делаем мы.
     speaker: Сергей Сергеев
     url: 'https://events.yandex.ru/lib/talks/5482/'
-    lang: ru
-    tags:
-      - frontend
   - name: Реактивные Турбо-страницы Яндекса
     speaker: Антон Виноградов
     url: 'https://events.yandex.ru/lib/talks/5483/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как партнёрские интерфейсы Маркета переехали на React
     speaker: Артур Кенжаев
     url: 'https://events.yandex.ru/lib/talks/5485/'
-    lang: ru
-    tags:
-      - frontend
   - name: Как я полюбил и возненавидел React Native
     speaker: Андрей Мелихов
     url: 'https://events.yandex.ru/lib/talks/5486/'
-    lang: ru
-    tags:
-      - frontend
+

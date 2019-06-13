@@ -4,59 +4,30 @@ talks:
   - name: "Автоматизация фронтенда\_— сегодня и\_завтра"
     speaker: Роберт Харитонов
     presentation: https://wsd.events/2014/05/24/pres/automation/
-    lang: ru
-    tags:
-      - frontend
   - name: "От\_простого к\_сложному"
     speaker: Владимир Кузнецов
     presentation: https://wsd.events/2014/05/24/pres/simple-complex/
-    lang: ru
-    tags:
-      - frontend
   - name: "Особенности мобильной фронтенд-разработки"
     speaker: Дмитрий Ляпунов
     presentation: https://wsd.events/2014/05/24/pres/mobile-dev/
-    lang: ru
-    tags:
-      - frontend
   - name: "60\_FPS на\_большом сайте"
     speaker: Юрис Пукитис
     presentation: https://wsd.events/2014/05/24/pres/60fps/
-    lang: ru
-    tags:
-      - frontend
   - name: "Отзывчивая типографика в\_реальном мире"
     speaker: Илья Пухальский
     presentation: https://wsd.events/2014/05/24/pres/typography.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "i18n и\_l20n"
     speaker: Антон Немцев
     presentation: https://wsd.events/2014/05/24/pres/i18n-l20n/
-    lang: ru
-    tags:
-      - frontend
   - name: "Jade + PHP. Брачный контракт"
     speaker: Никита Селецкий
     presentation: https://wsd.events/2014/05/24/pres/jade-php/
-    lang: ru
-    tags:
-      - frontend
   - name: "Innovations in\_website development tooling"
     speaker: Айгарс Мачинс
-    lang: ru
-    tags:
-      - frontend
   - name: "Позвольте представить: SVG"
     speaker: Юлия Бухвалова
     presentation: https://wsd.events/2014/05/24/pres/about-svg/
-    lang: ru
-    tags:
-      - frontend
   - name: "БЭМ\_— норм"
     speaker: Вадим Макеев
     presentation: https://wsd.events/2014/05/24/pres/bem-ok/
-    lang: ru
-    tags:
-      - frontend
+

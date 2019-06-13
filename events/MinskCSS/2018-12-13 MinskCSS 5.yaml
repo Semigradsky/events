@@ -8,31 +8,22 @@ talks:
     speaker: Глафира Жур
     video: https://www.youtube.com/watch?v=jW0TKZAUAUU
     presentation: https://glafirazhur.github.io/formsthroughthepain/
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Как внедрить стандарты разработки, чтобы никто не пострадал"
     speaker: Александра Шинкевич
     video: https://www.youtube.com/watch?v=2DnL7EeHmUk
     presentation: https://neesoglasnaja.github.io/MinskCSS-5/
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Визуальная доступность в дизайне"
     speaker: Анна Лёгкая
     video: https://www.youtube.com/watch?v=yyCc_2dOuTM
     presentation: https://drive.google.com/file/d/1zBMMExRLz2cn6-xEaDB-7f7lq1dY69s2/view
-    lang: ru
     tags:
-      - 'frontend'
       - 'accessibility'
   -
     name: "This is fine"
     speaker: Анна Селезнёва
     video: https://www.youtube.com/watch?v=rbJuveCPwdg
     presentation: http://askd.rocks/pres/minskcss-burnout/
-    lang: ru
     tags:
       - 'soft'

@@ -8,22 +8,15 @@ talks:
     speaker: Павел Ловцевич
     video: https://www.youtube.com/watch?v=MPqY92O-wMo
     presentation: https://github.com/lautsevich/css-validation-minskcss-2017
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Отполифиль свой CSS"
     speaker: Василий Ванчук
     video: https://www.youtube.com/watch?v=VrsLTZGGy10
     presentation: https://www.slideshare.net/VasilVanchuck/css-minskcss-2
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Экстренный дизайн-гайд для разработчика"
     speaker: Игорь Кунцевич
     video: https://www.youtube.com/watch?v=8ZDP18MptBw
     presentation: https://www.dropbox.com/s/gwveqiw2mulwdbf/Minsk%20CSS.pdf
-    lang: ru
     tags:
       - 'frontend'

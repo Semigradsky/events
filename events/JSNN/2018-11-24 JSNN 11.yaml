@@ -6,24 +6,12 @@ talks:
   - name: Типографика в вебе
     speaker: Антон Кастрицкий
     video: https://www.youtube.com/watch?v=bOAWcPg-Miw
-    lang: ru
-    tags:
-      - frontend
   - name: Let's kill lifecycle
     speaker: Александр Шушунов
     video: https://www.youtube.com/watch?v=DCn9mU0w38A
-    lang: ru
-    tags:
-      - frontend
   - name: Цена типизации
     speaker: Назим Гафаров
     video: https://www.youtube.com/watch?v=6WfUDHlhO8s
-    lang: ru
-    tags:
-      - frontend
   - name: Жизнь после Svelte
     speaker: Павел Малышев
     video: https://www.youtube.com/watch?v=VNDULWsmjQM
-    lang: ru
-    tags:
-      - frontend

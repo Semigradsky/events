@@ -4,26 +4,15 @@ talks:
   - name: Свой PhoneGap за 15 минут
     speaker: Алексей Охрименко
     video: 'https://it.mail.ru/video/466/'
-    lang: ru
-    tags:
-      - frontend
   - name: ES7 Декор@торы
     speaker: Александр Майоров
     video: 'https://it.mail.ru/video/465/'
     presentation: 'http://moscowjs.majorov.su/'
-    lang: ru
-    tags:
-      - frontend
   - name: Пиринговый веб на JavaScript
     speaker: Денис Глазков
     video: 'https://it.mail.ru/video/468/'
     presentation: 'https://www.slideshare.net/moscowjs/javascript-moscowjs-28'
-    lang: ru
-    tags:
-      - frontend
   - name: Компонентная верстка с AngularJS
     speaker: Андрей Яманов
     video: 'https://it.mail.ru/video/467/'
-    lang: ru
-    tags:
-      - frontend
+

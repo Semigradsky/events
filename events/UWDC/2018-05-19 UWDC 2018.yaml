@@ -6,55 +6,31 @@ talks:
     speaker: Всеволод Шмыров
     video: https://www.youtube.com/watch?v=WFfYF2Q8ihU
     presentation: https://2018.uwdc.ru/storage/lectures/presentaions/nBM4K3Wuerx8aUhHdZTj1oJ2M3eKrrtjIhvz6HYF.pptx
-    lang: ru
-    tags:
-      - frontend
   - name: Cards, Products, 2 Views
     speaker: Зар Захаров
     video: https://www.youtube.com/watch?v=ZK38enWFN1g
     presentation: https://2018.uwdc.ru/storage/lectures/presentaions/JYemNJoJAZXQHJ8qL1Z4TOQ61UqzJGlPNLHhYspi.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Распределённая фронтенд-команда: затяни потуже часовые пояса"
     speaker: Евгений Широчкин
     video: https://youtu.be/B5RQTND0RtA?t=9547
     presentation: https://2018.uwdc.ru/storage/lectures/presentaions/xvHn6KnInifZbmGIzYKoNBwdFugUOWGmGcrp2BSE.pptx
-    lang: ru
-    tags:
-      - frontend
   - name: Клиенту и серверу нужно поговорить
     speaker: Никита Прокопов
     video: https://youtu.be/B5RQTND0RtA?t=12298
     presentation: https://2018.uwdc.ru/storage/lectures/presentaions/1xm06L2hbmqu6Kz9YUsd3qmsUfjXtzVOfU0l42as.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Flutter - мечта о быстром, удобном, кроссплатформенном фреймворке наконец исполнилась?
     speaker: Андрей Смирнов
     video: https://www.youtube.com/watch?v=qLHr8CB7kn4
     presentation: https://2018.uwdc.ru/storage/lectures/presentaions/7iQ3jDGaPzzX9hX98rmqkGMM1abXqns01tBDjxMS.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Игра «Герои Меча и Магии» в браузере: долго, сложно и невыносимо интересно"
     speaker: Александр Коротаев
     video: https://www.youtube.com/watch?v=bv6MVuRbAmg
     presentation: http://lekzd.ru/presentations/uwdc_heroes/#cover
-    lang: ru
-    tags:
-      - frontend
   - name: Как обновить продукт за полгода, не блокируя другие команды, и при этом сохранить рассудок
     speaker: Олег Плотников
     video: https://www.youtube.com/watch?v=G4uxdypQ_xs
     presentation: https://2018.uwdc.ru/storage/lectures/presentaions/QirRGUywixSHH3OizKgMOOU9Co7ZakRIzdnjCRpL.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: REACT -> REACT ROUTER -> REDUX -> REDUX-OBSERVABLE
     speaker: Алексей Охрименко
     video: https://www.youtube.com/watch?v=C_nCpoAiUF0
     presentation: https://2018.uwdc.ru/storage/lectures/presentaions/2Y57zfnlKRzkFa9tYtDoBwNx5X95gHiZQCYNPPXT.pdf
-    lang: ru
-    tags:
-      - frontend

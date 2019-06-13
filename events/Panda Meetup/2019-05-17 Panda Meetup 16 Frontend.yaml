@@ -6,27 +6,15 @@ talks:
     speaker: Илья Черторыльский
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Жизнь до SPA и после
     speaker: Погорелов Александр
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Как можно/модно общаться с бекендом.
     speaker: Игорь Шеко
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Практический опыт работы с приватным хранилищем npm-пакетов (Verdaccio)
     speaker: Сергей Барсуков
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

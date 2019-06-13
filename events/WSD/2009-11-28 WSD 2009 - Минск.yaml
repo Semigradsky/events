@@ -4,42 +4,22 @@ talks:
   - name: "Переверстать всё и\_в\_срок"
     speaker: Андрей Сумин
     presentation: https://wsd.events/2009/11/28/pres/recode.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Ошибка. Осознание, примирение, извлечение пользы"
     speaker: Вадим Макишвили
     presentation: https://wsd.events/2009/11/28/pres/mistake.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Веб-шрифты vs. Шрифты для веба"
     speaker: Вадим Макеев
     presentation: https://wsd.events/2009/11/28/pres/web-fonts/
-    lang: ru
-    tags:
-      - frontend
   - name: "HTML5. Будем знакомы!"
     speaker: Павел Ловцевич
     presentation: https://wsd.events/2009/11/28/pres/html5.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "WebHiTech. Итоги 2009 и\_планы 2010"
     speaker: Артемий Ломов
     presentation: https://wsd.events/2009/11/28/pres/webhitech.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "VML, SVG, Canvas: что дальше?"
     speaker: Николай Мациевский
     presentation: https://wsd.events/2009/11/28/pres/vml-svg-canvas.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Некоторые проблемы применения современных веб-технологий"
     speaker: Константин Ефимов
     presentation: https://wsd.events/2009/11/28/pres/certain-troubles.pdf
-    lang: ru
-    tags:
-      - frontend
+

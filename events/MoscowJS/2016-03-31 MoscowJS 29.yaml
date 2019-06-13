@@ -5,26 +5,15 @@ talks:
     speaker: Никита Мостовой
     video: 'https://www.youtube.com/watch?v=d41W9aEYvbE'
     presentation: 'https://www.slideshare.net/moscowjs/headhunter-moscowjs-29'
-    lang: ru
-    tags:
-      - frontend
   - name: Во все тяжкие с responsive images
     speaker: Павел Померанцев
     video: 'https://www.youtube.com/watch?v=xmAMzLibHeo'
     presentation: 'https://www.slideshare.net/moscowjs/responsive-images-moscowjs-29'
-    lang: ru
-    tags:
-      - frontend
   - name: AMP - технология на три буквы
     speaker: Макс Фролов
     video: 'https://www.youtube.com/watch?v=o2q_zv-3qck'
     presentation: 'https://www.slideshare.net/moscowjs/amp-moscowjs-29'
-    lang: ru
-    tags:
-      - frontend
   - name: Observable и computed на примере KnockoutJS
     speaker: Ольга Кобец
     presentation: 'https://www.slideshare.net/moscowjs/observable-computed-knockoutjs-moscowjs-29'
-    lang: ru
-    tags:
-      - frontend
+

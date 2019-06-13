@@ -7,192 +7,103 @@ talks:
   - name: Взгляд на решение программистских задач через призму футбола
     speaker: Игорь Алексеенко
     video: 'https://www.youtube.com/watch?v=tsX9gqmKtnM'
-    lang: ru
-    tags:
-      - frontend
   - name: Кодогенерация в JavaScript
     speaker: Илья Климов
     video: 'https://www.youtube.com/watch?v=szIOPA_uwUc'
-    lang: ru
-    tags:
-      - frontend
   - name: Семантика для циников
     speaker: Вадим Макеев
     video: 'https://www.youtube.com/watch?v=Ptt5Se7vyZA'
-    lang: ru
-    tags:
-      - frontend
   - name: A tale of one request. How Internet works under the hood
     speaker: Роман Якобчук
     video: 'https://www.youtube.com/watch?v=uXXdYCd93F8'
-    lang: ru
-    tags:
-      - frontend
   - name: Think Web Components before Frameworks
     speaker: Leon Revill
     video: 'https://www.youtube.com/watch?v=CKy8tKMOP4c'
     lang: en
-    tags:
-      - frontend
   - name: Supercharge your React Apps with Meteor
     speaker: David Mihal
     video: 'https://www.youtube.com/watch?v=ZJ6EXJAP4kg'
     lang: en
-    tags:
-      - frontend
   - name: Developer Experience на примере React компонентов
     speaker: Валерій Сорокобатько
     video: 'https://www.youtube.com/watch?v=Fe5I41V-5bQ'
-    lang: ru
-    tags:
-      - frontend
   - name: Карта знаний инженера программиста
     speaker: Тимур Шемсединов
     video: 'https://www.youtube.com/watch?v=_s2WkaZJ0xQ'
-    lang: ru
-    tags:
-      - frontend
   - name: Вы все ещё сидите на докладах!?
     speaker: Сергей Фролов
     video: 'https://www.youtube.com/watch?v=e-vPQeGRw9k'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Fast by default: everyday algorithmic thinking for developers'
     speaker: Владимир Агафонкин
     video: 'https://www.youtube.com/watch?v=TesnXS0HeDw'
-    lang: ru
-    tags:
-      - frontend
   - name: 'WebComponents: how to live with them and without frameworks?'
     speaker: Сергій Бабіч
     video: 'https://www.youtube.com/watch?v=rqk9Kd7JRJI'
     lang: uk
-    tags:
-      - frontend
   - name: Machine learning and JavaScript
     speaker: Karol Przystalski
     video: 'https://www.youtube.com/watch?v=HzwrEjBQw00'
     lang: en
-    tags:
-      - frontend
   - name: Практика информационной безопасности или 8 взломов за 30 минут
     speaker: Viktor Turskyi
     video: 'https://www.youtube.com/watch?v=kwPELSlAbdw'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Paranoid Service Worker: повесть о безопасности, стандартах и страхах'
     speaker: Всеволод Родионов
     video: 'https://www.youtube.com/watch?v=rchbC7RHonw'
-    lang: ru
-    tags:
-      - frontend
   - name: '"True" functional programming with JS'
     speaker: Artem Kobzar
     video: 'https://www.youtube.com/watch?v=XCY0MWor_jw'
-    lang: ru
-    tags:
-      - frontend
   - name: W.T.F. is GraphQL?
     speaker: Иван Гончаров
     video: 'https://www.youtube.com/watch?v=GMFPu5Ee9Zs'
     lang: uk
-    tags:
-      - frontend
   - name: 'Async Generators: Новые возможности для архитектуры Web-приложений'
     speaker: Виталий Акимов
     video: 'https://www.youtube.com/watch?v=3IWV_rfxdYI'
-    lang: ru
-    tags:
-      - frontend
   - name: 'WebAssembly: brand new web coming'
     speaker: Timur Glushan
     video: 'https://www.youtube.com/watch?v=vJoSP5bH2AM'
-    lang: ru
-    tags:
-      - frontend
   - name: Flutter
     speaker: Юрий Лучанинов
     video: 'https://www.youtube.com/watch?v=Y3kk4Qu79Qc'
-    lang: ru
-    tags:
-      - frontend
   - name: Know your audience or how to bundle less
     speaker: Артём Яворский
     video: 'https://www.youtube.com/watch?v=NtzZzx5e8vo'
-    lang: ru
-    tags:
-      - frontend
   - name: React 360
     speaker: Vitalii Kyktov
     video: 'https://www.youtube.com/watch?v=VZFrVDQTgv0'
-    lang: ru
-    tags:
-      - frontend
   - name: here canvas will provide benefits to your expirience
     speaker: Сергей Кошман
     video: 'https://www.youtube.com/watch?v=nOaopvS0gJ0'
-    lang: ru
-    tags:
-      - frontend
   - name: Big and complex React project
     speaker: Sergey Kostyrko
     video: 'https://www.youtube.com/watch?v=jO30e_w-4fo'
-    lang: ru
-    tags:
-      - frontend
   - name: Create React Native App vs Expo vs Your Hands
     speaker: Евгений Жарков
     video: 'https://www.youtube.com/watch?v=4LKw-fK52NU'
-    lang: ru
-    tags:
-      - frontend
   - name: When should I start writing my unit tests?
     speaker: Nick Lototskiy
     video: 'https://www.youtube.com/watch?v=LpE4vuJnCcA'
-    lang: ru
-    tags:
-      - frontend
   - name: High throughput in Node with decomposition and parallelization of the Main Thread
     speaker: Nikolay Matvienko
     video: 'https://www.youtube.com/watch?v=I-FcjLx9D9g'
-    lang: ru
-    tags:
-      - frontend
   - name: Computer Vision in JS
     speaker: Arkadiy Pilguk
     video: 'https://www.youtube.com/watch?v=g5KmhHSFHd0'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Chrome Dev Tools: debug me!'
     speaker: Roman Savitskyi
     video: 'https://www.youtube.com/watch?v=rwVNznU4edc'
     lang: uk
-    tags:
-      - frontend
   - name: AAA 3d graphics + React
     speaker: Денис Радин
     video: 'https://www.youtube.com/watch?v=57hMzrvZEsE'
-    lang: ru
-    tags:
-      - frontend
   - name: Мы затащили Flow в большой проект и …
     speaker: Александр Шушунов
     video: 'https://www.youtube.com/watch?v=D7AfHAeFpLA'
-    lang: ru
-    tags:
-      - frontend
   - name: Team Lead! Care about your devs!
     speaker: Sergey Bolschikov
     video: 'https://www.youtube.com/watch?v=A5sEEncsduo'
-    lang: ru
-    tags:
-      - frontend
   - name: Not tech presentation-dialog about developer lifecycle
     speaker: Алексей Стрельников
     video: 'https://www.youtube.com/watch?v=cKD4-17IDQg'
-    lang: ru
-    tags:
-      - frontend
+

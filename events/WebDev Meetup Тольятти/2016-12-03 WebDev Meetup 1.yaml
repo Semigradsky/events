@@ -6,21 +6,13 @@ talks:
     speaker: Владислав Смирнов
     video:
     presentation:
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: Yarn! Замена NPM?
     speaker: Алексей Ульянов
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: 60FPS – Ускоряем Веб
     speaker: Евгений Джумак
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

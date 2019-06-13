@@ -6,20 +6,11 @@ talks:
     speaker: Людмила Мжачих
     video: https://www.youtube.com/watch?v=1BS4V5r_HQQ
     presentation: http://css.moscow/1/css-secrets/cover.html
-    lang: ru
-    tags:
-      - frontend
   - name: CSS-методологии от О до Б
     speaker: Алексей Охрименко
     video: https://www.youtube.com/watch?v=1VM-vEItVeA
     presentation: http://css.moscow/1/css-methodology.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: Векторная графика в Вебе
     speaker: Арсений Попов
     video: https://www.youtube.com/watch?v=RdwdaHiBxxY
     presentation:
-    lang: ru
-    tags:
-      - frontend

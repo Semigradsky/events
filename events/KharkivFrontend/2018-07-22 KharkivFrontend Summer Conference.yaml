@@ -5,41 +5,28 @@ talks:
   - name: NodeJS. What is the secret
     speaker: Максим Корабельский
     video: https://www.youtube.com/watch?v=g5WPzwIB1RI
-    lang: ru
     tags:
-      - frontend
       - 'Node.js'
   - name: Короткое замыкание в JavaScript
     speaker: Олег Момот
     video: https://www.youtube.com/watch?v=IrBxWPFnmMQ
-    lang: ru
-    tags:
-      - frontend
   - name: Может пора отказаться от тестов?
     speaker: Александра Калинина
     video: https://www.youtube.com/watch?v=_nSUQXGW-hk
-    lang: ru
     tags:
-      - frontend
       - 'testing'
   - name: Event loop. Что это и с чем его едят
     speaker: Артур Торосян
     video: https://www.youtube.com/watch?v=G2Y9sdoZebQ
-    lang: ru
     tags:
-      - frontend
       - 'Node.js'
   - name: Потоки данных в node.js
     speaker: Виталий Киктёв
     video: https://www.youtube.com/watch?v=UYZUE1vQ0js
-    lang: ru
     tags:
-      - frontend
       - 'Node.js'
   - name: State management with a shape of Vue
     speaker: Виталий Ратушный
     video: https://www.youtube.com/watch?v=4GE14lOpRCo
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'

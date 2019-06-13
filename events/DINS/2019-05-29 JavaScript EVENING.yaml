@@ -6,13 +6,7 @@ talks:
     speaker: Дмитрий Злыгин
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Баги, которые вы никогда не встретите
     speaker: Тим Чаптыков
     video:
     presentation:
-    lang: ru
-    tags:
-      - frontend

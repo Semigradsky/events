@@ -6,52 +6,38 @@ talks:
     speaker: Михаил Скворцов
     video: https://www.youtube.com/watch?v=2m6pJ-EbJf0
     presentation: https://docs.google.com/presentation/d/1qf9H5bkcquFxmGLC-riJilLjYfRFnFSOJnRyi0Y1nec/edit#slide=id.p
-    lang: ru
-    tags:
-      - frontend
   - name: Move fast and break things
     speaker: Юрий Михалевич
     video: https://www.youtube.com/watch?v=TJFub_qUuLA
     presentation: https://prezi.com/zahwjtnori03/move-fast-and-break-things-cdn/
-    lang: ru
   - name: Postgres. Начало.
     speaker: Виктор Тыщенко
     video: https://www.youtube.com/watch?v=-RUY8GezHvI&list=PL1irPRp3Ng9YmWk6NImC9HoAjNUeP8aGI&index=3&t=0s
     presentation: https://www.slideshare.net/TyVikZero/postgres-70057427
-    lang: ru
     tags:
       - db
   - name: Грязные анимации в мире состояний
     speaker: Леша Тактаров
     video: https://www.youtube.com/watch?v=xjY6apCfQZY
-    lang: ru
-    tags:
-      - frontend
   - name: a11y. Доступно о доступности
     speaker: Николай Марченко
     video: https://www.youtube.com/watch?v=k_tPPP6kb7I
     presentation: http://neonick.ru/a11y-2016.pdf
-    lang: ru
     tags:
-      - frontend
       - 'accessibility'
   - name: Фантастические технологии и где они обитают
     speaker: Павел Орлов
     video: https://www.youtube.com/watch?v=Q5Dt-VZktHA
     presentation: https://www.slideshare.net/PavelOrlov8/ss-70068486
-    lang: ru
   - name: "\"Swift\" или как программировать мышкой"
     speaker: Герман Поляцкий
     video: https://www.youtube.com/watch?v=eSNj97scLbc
     presentation:
-    lang: ru
   - name: Введение в архитектуру VIPER
     speaker: '?'
     video: https://www.youtube.com/watch?v=d-aDhLv_mfo
-    lang: ru
   - name: Введение в Reactive programming под Android
     speaker: Тимофей
     video: https://www.youtube.com/watch?v=EaBKD9xi3IA
-    lang: ru
     tags:
       - mobile

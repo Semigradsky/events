@@ -5,6 +5,4 @@ talks:
   - name: "Митап о #microsoft #react #redux #berlin"
     speaker: Alex Migutsky
     video: https://www.youtube.com/watch?v=UPuWeBeMnTU&t=7635s
-    lang: ru
-    tags:
-      - frontend
+

@@ -4,54 +4,28 @@ talks:
   - name: "<head> — всему голова"
     speaker: Роман Ганин
     presentation: https://wsd.events/2016/11/26/pres/heads-up/
-    lang: ru
-    tags:
-      - frontend
   - name: "Как незрячие люди видят ваш сайт"
     speaker: Дмитрий Попов
     presentation: https://wsd.events/2016/11/26/pres/how-blind-see.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Ленивый верстальщик"
     speaker: Юрий Артюх
     presentation: https://wsd.events/2016/11/26/pres/lazy-coding.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Вы не знаете CSS"
     speaker: Антон Немцев
     presentation: https://wsd.events/2016/11/26/pres/you-dont-know-css/
-    lang: ru
-    tags:
-      - frontend
   - name: "Я и ИоТ"
     speaker: Вадим Макеев
     presentation: https://wsd.events/2016/11/26/pres/im-in-iot/
-    lang: ru
-    tags:
-      - frontend
   - name: "Polymer, год вместе"
     speaker: Артур Пархисенко
     presentation: https://wsd.events/2016/11/26/pres/year-with-polymer.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Радуйся коду с ELM"
     speaker: Григорий Шехет
     presentation: https://wsd.events/2016/11/26/pres/enjoy-elm.pdf
-    lang: ru
-    tags:
-      - frontend
   - name: "Консоль в массы. Переход на светлую сторону"
     speaker: Виталий Рыбка
     presentation: https://wsd.events/2016/11/26/pres/console/
-    lang: ru
-    tags:
-      - frontend
   - name: "Тестирование UI\_с\_помощью Gemini"
     speaker: Сергей Пузанков
     presentation: https://wsd.events/2016/11/26/pres/ui-testing.pdf
-    lang: ru
-    tags:
-      - frontend
+

@@ -8,41 +8,23 @@ talks:
     speaker: Глеб Дьяконов
     video: https://youtu.be/_vZCm_aMH48
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: "Фронтенд без рутины или `npm install -g grunt-cli`"
     speaker: Артём Поликарпов
     video: https://youtu.be/TY0Ki5mU94s
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Backbone в Яндексе
     speaker: Олег Мохов, Михаил Давыдов
     video: https://youtu.be/ccWsHHWLlhU
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Компонентный подход — скучно, не интересно, бесперспективно
     speaker: Роман Дворнов
     video: https://youtu.be/QpZy0WW0Ig4
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: ECMAScript 6 — будущее JavaScript
     speaker: Алексей Симоненко
     video: https://youtu.be/P29Ib2XuPDQ
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Экологически чистая вёрстка
     speaker: Дмитрий Демидовский
     video: https://youtu.be/hkPD69BO6FM
     presentation:
-    lang: ru
-    tags:
-      - frontend

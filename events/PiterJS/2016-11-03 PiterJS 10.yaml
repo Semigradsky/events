@@ -5,21 +5,14 @@ talks:
   - name: Декларативное программирование на CSS
     speaker: Тимофей Ковалев
     video: 'https://www.youtube.com/watch?v=L2h3gkya4aw'
-    lang: ru
-    tags:
-      - frontend
   - name: 'Ускорение разработки с react, redux и webpack'
     speaker: Майкл Башуров
     video: 'https://www.youtube.com/watch?v=focKokPowc4'
     presentation: https://saitonakamura.github.io/react-redux-webpack-presentation/
-    lang: ru
     tags:
-      - frontend
       - 'React'
   - name: Изоморфный React
     speaker: Кирилл Ковалев
     video: 'https://www.youtube.com/watch?v=5qUK4DFAe-I'
-    lang: ru
     tags:
-      - frontend
       - 'React'

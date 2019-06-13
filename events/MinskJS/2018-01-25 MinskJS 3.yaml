@@ -8,17 +8,11 @@ talks:
     speaker: Никита Дубко
     video: https://www.youtube.com/watch?v=VfF7GyNItps
     presentation: https://mefody.github.io/talks/js-decorators/
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Сага о редаксе: redux-saga"
     speaker: Данила Дедков
     video: https://www.youtube.com/watch?v=R_DPcxk4ml8
     presentation: https://drive.google.com/file/d/1OWakTpJh6V9GkYOtJmI4VleInZqXS39V/view
-    lang: ru
-    tags:
-      - 'frontend'
   -
     name: "Полный Spectre уязвимостей"
     speaker: "?"
@@ -26,7 +20,5 @@ talks:
     presentation:
       - https://mefody.github.io/talks/spectre-panel-discussion/
       - https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view
-    lang: ru
     tags:
-      - 'frontend'
       - 'security'

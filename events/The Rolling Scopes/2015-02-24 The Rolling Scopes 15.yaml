@@ -5,6 +5,3 @@ talks:
     speaker: Кирилл Демура
     video: https://www.youtube.com/watch?v=WM3BdSLOTVo
     presentation: http://rolling-scopes.github.io/slides/rs15/animations-in-front-end
-    lang: ru
-    tags:
-      - frontend

@@ -6,52 +6,38 @@ talks:
     speaker: Дмитрий Кунин
     video: https://www.youtube.com/watch?v=ON07SLfox9I
     presentation: https://yadi.sk/i/B1-2Zmt5Aq33Vg
-    lang: ru
   - name: Фронтендеры с Сатурна — дизайнеры с Плутона
     speaker: Юлия Федоренко
     video: https://www.youtube.com/watch?v=YcLI_TCmaaw
     presentation: https://yadi.sk/i/krvrruiYekwGkQ
-    lang: ru
-    tags:
-      - frontend
   - name: Суровая жизнь тестировщика игр
     speaker: Алина Савченко
     video: https://www.youtube.com/watch?v=H_HaGdaQWRs
     presentation: https://yadi.sk/i/2OD9DiqoVfLs3g
-    lang: ru
-    tags:
-      - frontend
   - name: Архитектор (скрипач) не нужен
     speaker: Станислав Ткаченко
     video: https://www.youtube.com/watch?v=aX77XOvd9yQ
     presentation: https://yadi.sk/i/XcR76KWvUj3zSg
-    lang: ru
     tags:
       - soft
   - name: "Объясняем Scrum: История эволюции одной команды"
     speaker: Денис Сальников
     video: https://www.youtube.com/watch?v=sWq7d2g23BY
     presentation: https://yadi.sk/i/_pb31QOmZlJnZQ
-    lang: ru
     tags:
       - soft
   - name: История функционального программирования и щепотка монад
     speaker: Айрат Худайгулов
     video: https://www.youtube.com/watch?v=cSOnmVqOwBs
     presentation: https://yadi.sk/i/cVbSu_GfPHZ5IA
-    lang: ru
   - name: 7 будущих чудес CSS
     speaker: Сэм Булатов
     video: https://www.youtube.com/watch?v=sWmkzPB7VAo
     presentation: https://yadi.sk/i/60KVEbMG-6IqIw
-    lang: ru
-    tags:
-      - frontend
   - name: "Отказоустойчивые решения PostgreSQL с автоматическим failover’ом"
     speaker: Игорь Косенков
     video: https://www.youtube.com/watch?v=eHAe323N994
     presentation: https://yadi.sk/i/Y9MGozBgGsjdKA
-    lang: ru
     tags:
       - db
   - name: Тестируем настоящее Vue приложение
@@ -59,41 +45,31 @@ talks:
     video: https://www.youtube.com/watch?v=ICVVCOjpCkA
     presentation: https://yadi.sk/i/HfxiCSyLclfzEA
     code: https://github.com/wemake-services/wemake-vue-template
-    lang: ru
     tags:
-      - frontend
       - 'Vue.js'
   - name: "Мониторинг: IT-инфраструктура на кончиках пальцев"
     speaker: Данил Герун
     video: https://www.youtube.com/watch?v=2HWMyDPrpVw
     presentation: https://yadi.sk/i/zL9Q_H-EgorwXw
-    lang: ru
   - name: Мы рождены, чтоб сказку сделать в коде?
     speaker: Алексей Наумов
     video: https://www.youtube.com/watch?v=aUoWXJWD7nA
     presentation: https://yadi.sk/i/jJ_gFgDIoKH-Mw
-    lang: ru
     tags:
       - soft
   - name: Гибридное мобильное приложение своими руками
     speaker: Евгений Воронин
     video: https://www.youtube.com/watch?v=5r8T4PHMASE
     presentation: https://yadi.sk/i/2VDDbuoAKRgeVA
-    lang: ru
     tags:
-      - frontend
       - mobile
   - name: Эмоциональный интеллект
     speaker: Андрей Холявкин
     video: https://www.youtube.com/watch?v=Kegnr8y1OH0
     presentation: https://yadi.sk/i/vaHzgNzaTOe8rg
-    lang: ru
     tags:
       - soft
   - name: "API: Хороший, плохой, злой"
     speaker: Всеволод Шмыров
     video: https://www.youtube.com/watch?v=ZhgPcOUr3O0
     presentation: https://yadi.sk/i/UiAi_0kWTtWX1g
-    lang: ru
-    tags:
-      - frontend

@@ -5,18 +5,10 @@ talks:
   - name: "Hack the Dom or Modern Chrome Extension in the Wild"
     speaker: Денис Шеко
     video: https://www.youtube.com/watch?v=wdys2FjFFXs&t=6145s
-    lang: ru
-    tags:
-      - frontend
   - name: "Про статические типы в JS"
     speaker: Aleh Kashnikau
     video: https://www.youtube.com/watch?v=wdys2FjFFXs&t=6145s
-    lang: ru
-    tags:
-      - frontend
   - name: "Persistent Memory and Linux"
     speaker: Кирилл Шутемов
     video: https://www.youtube.com/watch?v=wdys2FjFFXs&t=6145s
-    lang: ru
-    tags:
-      - frontend
+

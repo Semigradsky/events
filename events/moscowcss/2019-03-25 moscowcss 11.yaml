@@ -6,27 +6,15 @@ talks:
     speaker: Виктория Дубровская, Георгий Бузин
     video: https://www.youtube.com/watch?v=ijZTu7aVJtg
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Давайте не будем ждать?
     speaker: Алексей Попков
     video: https://www.youtube.com/watch?v=ijZTu7aVJtg
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: Тестирование фронтенда для разработчиков​
     speaker: Александра Шинкевич
     video: https://www.youtube.com/watch?v=ijZTu7aVJtg
     presentation:
-    lang: ru
-    tags:
-      - frontend
   - name: MacOS Driven Development
     speaker: Никита Дубко
     video: https://www.youtube.com/watch?v=ijZTu7aVJtg
     presentation:
-    lang: ru
-    tags:
-      - frontend
