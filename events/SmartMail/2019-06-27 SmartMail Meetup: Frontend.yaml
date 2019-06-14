@@ -1,0 +1,20 @@
+name: "SmartMail Meetup: Frontend"
+date: 2019-06-27
+videos: ''
+talks:
+  - name: Оценка качества работы приложения – мониторинг потребления трафика
+    speaker: Игорь Дружинин
+    video:
+    presentation:
+  - name: Особенности мониторинга высоконагруженных frontend-приложений
+    speaker: Артур Хинельцев
+    video:
+    presentation:
+  - name: AMP для электронной почты
+    speaker: Сергей Пешков
+    video:
+    presentation:
+  - name: Трудности перевода или i18n в крупных проектах
+    speaker: Сергей Володин
+    video:
+    presentation:

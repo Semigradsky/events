@@ -3,16 +3,16 @@ date: 2016-04-28
 talks:
   - name: Scala для супергеройского фронтенда
     speaker: Алексей Фомкин
-    video: 'https://www.youtube.com/watch?v=EpEMHcHoftE&index=4&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV'
+    video: 'https://www.youtube.com/watch?v=EpEMHcHoftE&index=4
     presentation: 'http://slides.com/alekseyfomkin/mjs30-scala-superhero#/'
   - name: Можно вообще всё. Раскладка по гриду
     speaker: Вадим Макеев
-    video: 'https://www.youtube.com/watch?v=xQn0G_bxNa4&index=3&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV'
+    video: 'https://www.youtube.com/watch?v=xQn0G_bxNa4&index=3
     presentation: 'https://pepelsbey.net/pres/grid-layout/'
   - name: 'Быстрее, выше, сильнее в современной архитектуре'
     speaker: Егор Копылов
-    video: 'https://www.youtube.com/watch?v=O4XESfDh35M&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=2'
+    video: 'https://www.youtube.com/watch?v=O4XESfDh35M
   - name: Введение в GraphQL и Relay
     speaker: Вячеслав Слинько
-    video: 'https://www.youtube.com/watch?v=3Sl1Nf81dXY&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=1'
+    video: 'https://www.youtube.com/watch?v=3Sl1Nf81dXY
 

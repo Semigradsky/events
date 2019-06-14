@@ -4,22 +4,22 @@ videos: https://www.youtube.com/playlist?list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn
 talks:
   - name: "Mrr: Make React Reactive"
     speaker: Микола Олексієнко
-    video: https://www.youtube.com/watch?v=9Mv83tUvbxk&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=2&t=0s
+    video: https://www.youtube.com/watch?v=9Mv83tUvbxk
     presentation: http://bit.ly/2WzMzbH
     lang: uk
   - name: Трогательный интерфейс
     speaker: Алексей Распопов
-    video: https://www.youtube.com/watch?v=9fg7yfUf9Kc&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=2
+    video: https://www.youtube.com/watch?v=9fg7yfUf9Kc
     presentation: https://alexeyraspopov.github.io/touchy-things/
   - name: Animation in the Air
     speaker: Христина Ландвитович
-    video: https://www.youtube.com/watch?v=Wqn_kmMpCGc&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=3
+    video: https://www.youtube.com/watch?v=Wqn_kmMpCGc
     presentation: https://slides.com/cristinalandvytovych/animation/#/
     lang: uk
   - name: Code Ownership
     speaker: Станислав Слесарев
-    video: https://www.youtube.com/watch?v=ICZsVKgbMe8&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=4
+    video: https://www.youtube.com/watch?v=ICZsVKgbMe8
     presentation: https://drive.google.com/file/d/1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL/view
   - name: Using WebStorm like a pro
     speaker: Максим Донченко
-    video: https://www.youtube.com/watch?v=dxSQQufii3s&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=5
+    video: https://www.youtube.com/watch?v=dxSQQufii3s
