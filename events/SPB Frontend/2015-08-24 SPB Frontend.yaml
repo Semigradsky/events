@@ -4,13 +4,13 @@ link: 'https://spb-frontend.ru/meetups/2015-08-24'
 talks:
   - name: От Белаза к JavaScript
     speaker: Александр Курганов
-    video: 'https://vk.com/spb_frontend_meetup_250815?z=video-76088560_171407351%2Fe7b08d3a6ab27542c9%2Fpl_post_-76088560_470'
+    video: https://vk.com/spb_frontend_meetup_250815?z=video-76088560_171407351%2Fe7b08d3a6ab27542c9%2Fpl_post_-76088560_470
   - name: Искусство обучать. Опыт HTML Academy
     speaker: Алексей Симоненко
     presentation: 'https://speakerdeck.com/simonenko/iskusstvo-obuchat-opyt-html-academy'
-    video: 'https://vk.com/spb_frontend_meetup_250815?z=video-76088560_171407529%2F5b0c6f6214c6ab8492%2Fpl_post_-76088560_470'
+    video: https://vk.com/spb_frontend_meetup_250815?z=video-76088560_171407529%2F5b0c6f6214c6ab8492%2Fpl_post_-76088560_470
   - name: Урок труда и ОБЖ
     speaker: Михаил Баранов
     presentation: 'http://h4.github.io/spb-frontend-082015-devtools/'
-    video: 'https://vk.com/spb_frontend_meetup_250815?z=video-76088560_171407674%2F50ab964f7b439d501b%2Fpl_post_-76088560_470'
+    video: https://vk.com/spb_frontend_meetup_250815?z=video-76088560_171407674%2F50ab964f7b439d501b%2Fpl_post_-76088560_470
 

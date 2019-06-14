@@ -3,18 +3,18 @@ date: 2017-07-27
 talks:
   - name: Фатальный недостаток Node.js
     speaker: Алексей Охрименко
-    video: 'https://www.youtube.com/watch?v=GgeshciU68c&index=3
+    video: https://www.youtube.com/watch?v=GgeshciU68c
     presentation: 'https://cloud.mail.ru/public/KWDA/G7DxXmymJ'
   - name: Фронтенд в большой компании. Как отмасштабировать и поддерживать инфраструктуру фронтенда на 30+ команд.
     speaker: Александр Китов
-    video: 'https://www.youtube.com/watch?v=2oxNG1uM11E&index=4
+    video: https://www.youtube.com/watch?v=2oxNG1uM11E
     presentation: 'https://cloud.mail.ru/public/DWYk/w8VWCDHVn'
   - name: 'Как сделать Public API, которым будут пользоваться'
     speaker: Евгений Успенский
-    video: 'https://www.youtube.com/watch?v=MB8kUojYljY
+    video: https://www.youtube.com/watch?v=MB8kUojYljY
     presentation: 'https://cloud.mail.ru/public/MYgT/rUFNT3eoj'
   - name: Обьектно ориентированный диабет
     speaker: Александр Федотов
-    video: 'https://www.youtube.com/watch?v=9Cs2fhWfnBQ
+    video: https://www.youtube.com/watch?v=9Cs2fhWfnBQ
     presentation: 'https://cloud.mail.ru/public/7GFJ/6KtGrcEpt'
 

@@ -4,42 +4,42 @@ videos: ''
 talks:
   - name: I knew there had to be a better way to build mobile app
     speaker: Alius Petraška
-    video: 'https://www.youtube.com/watch?v=87SHfeyrWcY'
+    video: https://www.youtube.com/watch?v=87SHfeyrWcY
     lang: en
   - name: Идеи и алгоритмы создания масштабируемой архитектуры в играх
     speaker: Алексей Бахирев
-    video: 'https://www.youtube.com/watch?v=I1CHink09Ig'
+    video: https://www.youtube.com/watch?v=I1CHink09Ig
   - name: 'The Grail: React based Isomorph apps framework'
     speaker: Эльдар Джафаров
-    video: 'https://www.youtube.com/watch?v=kRAOdqOnqnM'
+    video: https://www.youtube.com/watch?v=kRAOdqOnqnM
   - name: Современные интерактивные карты на WebGL
     speaker: Владимир Агафонкин
-    video: 'https://www.youtube.com/watch?v=yMmyzzApGy4'
+    video: https://www.youtube.com/watch?v=yMmyzzApGy4
   - name: 'Медленный JS: сеанс черной магии с ее разоблачением'
     speaker: Илья Климов
-    video: 'https://www.youtube.com/watch?v=ZAJmJmKWNPw'
+    video: https://www.youtube.com/watch?v=ZAJmJmKWNPw
   - name: The Illusion of Time. When 60 sec is not 1 minute
     speaker: Денис Мишунов
-    video: 'https://www.youtube.com/watch?v=AUd1TnJiYcU'
+    video: https://www.youtube.com/watch?v=AUd1TnJiYcU
   - name: '# Self Modifying Code'
     speaker: Martin Kleppe
-    video: 'https://www.youtube.com/watch?v=1uvIw7X0u48'
+    video: https://www.youtube.com/watch?v=1uvIw7X0u48
   - name: От экспериментов с инфраструктурой до внедрения в продакшен
     speaker: Дмитрий Махнев
-    video: 'https://www.youtube.com/watch?v=xM32c-0BMXc'
+    video: https://www.youtube.com/watch?v=xM32c-0BMXc
   - name: Как перестать отлаживать асинхронные вызовы и начать жить
     speaker: Андрей Саломатин
-    video: 'https://www.youtube.com/watch?v=OGSppLmGchY'
+    video: https://www.youtube.com/watch?v=OGSppLmGchY
   - name: Книги в браузере
     speaker: Олег Мохов
-    video: 'https://www.youtube.com/watch?v=m3TK94ZQjPw'
+    video: https://www.youtube.com/watch?v=m3TK94ZQjPw
   - name: Continuous Integration — A to Z или Непрерывная интеграция — кто всё сломал?
     speaker: Виктор Русакович
-    video: 'https://www.youtube.com/watch?v=Rrv0-I3HIAw'
+    video: https://www.youtube.com/watch?v=Rrv0-I3HIAw
   - name: Разрушаем Вавилонскую Башню WWW с помощью веб-компонент
     speaker: Денис Радин
-    video: 'https://www.youtube.com/watch?v=abc6pAeLbpw'
+    video: https://www.youtube.com/watch?v=abc6pAeLbpw
   - name: Удаленная разработка фронтенда в командной строке
     speaker: Илья Довбан
-    video: 'https://www.youtube.com/watch?v=Rzsmv0aWFM8'
+    video: https://www.youtube.com/watch?v=Rzsmv0aWFM8
 

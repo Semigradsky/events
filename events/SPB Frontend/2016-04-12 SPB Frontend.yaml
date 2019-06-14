@@ -8,9 +8,9 @@ talks:
   - name: Законы в интерфейсах или зачем они нам?
     speaker: Сергей Густун
     presentation: 'https://vk.com/doc2330518_437448146'
-    video: 'https://www.youtube.com/watch?time_continue=2&v=S8BtGy6_onA'
+    video: https://www.youtube.com/watch?time_continue=2&v=S8BtGy6_onA
   - name: Используем веб-шрифты правильно
     speaker: Дмитрий Рычков
     presentation: 'http://corsairdnb.github.io/fonts-slides/'
-    video: 'https://www.youtube.com/watch?time_continue=2&v=q1aZgfIB-iY'
+    video: https://www.youtube.com/watch?time_continue=2&v=q1aZgfIB-iY
 

@@ -5,13 +5,13 @@ talks:
   - name: Чему нас могут научить ошибки космической индустрии
     speaker: Андрей Ситник
     presentation: 'http://amp.gs/xDxX'
-    video: 'https://youtu.be/olDoZ5SS_uo?t=3m42s'
+    video: https://youtu.be/olDoZ5SS_uo?t=3m42s
   - name: Как я ускорял загрузку видео в ok.ru
     speaker: Дмитрий Долженко
     presentation: 'http://amp.gs/xDCV'
-    video: 'https://www.youtube.com/watch?v=vmSsEmwh9k4&index=3&list=PLI6q7lZ9ClB2M54XrhyzSTGkTyw5NB4dS&t=0s'
+    video: https://www.youtube.com/watch?v=vmSsEmwh9k4
   - name: Jenkins на службе фронтенд разработки
     speaker: Илья Кашлаков
     presentation: 'http://amp.gs/xDvx'
-    video: 'https://www.youtube.com/watch?v=DA_R8mIaRJg&index=4&list=PLI6q7lZ9ClB2M54XrhyzSTGkTyw5NB4dS&t=0s'
+    video: https://www.youtube.com/watch?v=DA_R8mIaRJg
 

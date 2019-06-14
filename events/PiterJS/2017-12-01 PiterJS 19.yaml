@@ -4,14 +4,14 @@ videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxgSCPpQmdSnCmg_GHNxC-0
 talks:
   - name: Что умеет Polymer
     speaker: Сергей Новиков
-    video: 'https://www.youtube.com/watch?v=tiApc0DZdPw'
+    video: https://www.youtube.com/watch?v=tiApc0DZdPw
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/19/1_Sergey_Novikov_polymer.pdf
   - name: А так ли нужен Virtual DOM?
     speaker: Сергей Чикуенок
-    video: 'https://www.youtube.com/watch?v=063LPB8eK4Y'
+    video: https://www.youtube.com/watch?v=063LPB8eK4Y
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/19/2_Sergey_Chikuyonok.pdf
   - name: N подводных камней и горсть советов при разработке на React Native
     speaker: Дмитрий Пацура
-    video: 'https://www.youtube.com/watch?v=qehnKIu30mY'
+    video: https://www.youtube.com/watch?v=qehnKIu30mY
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/19/3_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9F%D0%B0%D1%86%D1%83%D1%80%D0%B0.pdf
 

@@ -12,7 +12,7 @@ talks:
     presentation: https://prezi.com/zahwjtnori03/move-fast-and-break-things-cdn/
   - name: Postgres. Начало.
     speaker: Виктор Тыщенко
-    video: https://www.youtube.com/watch?v=-RUY8GezHvI&list=PL1irPRp3Ng9YmWk6NImC9HoAjNUeP8aGI&index=3&t=0s
+    video: https://www.youtube.com/watch?v=-RUY8GezHvI
     presentation: https://www.slideshare.net/TyVikZero/postgres-70057427
     tags:
       - db

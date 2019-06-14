@@ -13,7 +13,7 @@ talks:
     presentation: https://wsd.events/2010/05/22/pres/html5/
   - name: "CSS-менеджмент. Три года спустя"
     speaker: Вадим Макеев
-    video: 'https://www.youtube.com/watch?v=F_n_aSF1Y50'
+    video: https://www.youtube.com/watch?v=F_n_aSF1Y50
     presentation: https://wsd.events/2010/05/22/pres/css-management/
   - name: "Средства для разработчиков\_— какое вкуснее?"
     speaker: Михаил Баранов

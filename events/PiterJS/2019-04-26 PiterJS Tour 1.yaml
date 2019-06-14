@@ -4,11 +4,11 @@ videos: 'https://www.youtube.com/watch?v=MueYSY2ZO4Y'
 talks:
   - name: Серверный рендеринг React
     speaker: Николай Говоров
-    video: 'https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1160s'
+    video: https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1160s
   - name: Компонентный WebGL
     speaker: Евгений Кувшинов
-    video: 'https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1210s'
+    video: https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1210s
   - name: Формальная и интуитивная семантика языка программирования на примерах JS и JSX
     speaker: Артём Арутюнян
-    video: 'https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1260s'
+    video: https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1260s
 

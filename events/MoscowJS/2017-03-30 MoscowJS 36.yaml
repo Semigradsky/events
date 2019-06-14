@@ -3,18 +3,18 @@ date: 2017-03-30
 talks:
   - name: 'Бенчмарки, почему всё плохо и что делать'
     speaker: Михаил Бусырев
-    video: 'https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=1h56m34s'
+    video: https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=1h56m34s
     presentation: 'https://goo.gl/vSuDbB'
   - name: 'PreJSS: универсальный адаптер CSS в JSS'
     speaker: Денис Измайлов
-    video: 'https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=43m2s'
+    video: https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=43m2s
     presentation: 'https://drive.google.com/open?id=0BzyxUcwres7NeFptYWcxN1Z3QlE'
   - name: 'Тестирование скриншотами: проблемы и решения'
     speaker: Александр Савин
-    video: 'https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=26m58s'
+    video: https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=26m58s
     presentation: 'https://drive.google.com/open?id=0BzyxUcwres7NNTNORjlINU43RmM'
   - name: 'Harry Potter and the unstable_renderSubtreeIntoContainer(). React, Popup-ы, боль, магия и боль.'
     speaker: Иван Лягушкин
-    video: 'https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=1h39m50s'
+    video: https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=1h39m50s
     presentation: 'https://goo.gl/1C5Pnx'
 

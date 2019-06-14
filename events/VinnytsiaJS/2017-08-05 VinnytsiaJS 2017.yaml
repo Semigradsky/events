@@ -4,41 +4,41 @@ videos: 'https://www.youtube.com/playlist?list=PL7GMpyIlGWSU-daVXdg16AgKi_ED7n1T
 talks:
   - name: The portrait of professional developer 3.0
     speaker: Mikalai Alimenkou
-    video: 'https://www.youtube.com/watch?v=Z48yWbWuU78'
+    video: https://www.youtube.com/watch?v=Z48yWbWuU78
   - name: Decorating JavaScript
     speaker: Denis Vlassenko
-    video: 'https://www.youtube.com/watch?v=I9O25eXZGh4'
+    video: https://www.youtube.com/watch?v=I9O25eXZGh4
   - name: AMP - Accelerated Mobile Pages. Making the Web Fast and Compelling
     speaker: Denis Vlassenko
-    video: 'https://www.youtube.com/watch?v=GDN2j3vHtJI'
+    video: https://www.youtube.com/watch?v=GDN2j3vHtJI
   - name: Docker for Node.js Developer
     speaker: Никита Галкин
-    video: 'https://www.youtube.com/watch?v=Es0uBQOiEw4'
+    video: https://www.youtube.com/watch?v=Es0uBQOiEw4
   - name: Perf again? Let's play fonts
     speaker: Artem Denysov
-    video: 'https://www.youtube.com/watch?v=0e0QrcHslAA'
+    video: https://www.youtube.com/watch?v=0e0QrcHslAA
   - name: Strict JavaScript
     speaker: Helen Zhukova
-    video: 'https://www.youtube.com/watch?v=XJiRqW2Gf6o'
+    video: https://www.youtube.com/watch?v=XJiRqW2Gf6o
   - name: Custom CLI tools in the project.
     speaker: Денис Кузин
-    video: 'https://www.youtube.com/watch?v=K1HEd0uUEXo'
+    video: https://www.youtube.com/watch?v=K1HEd0uUEXo
   - name: PWA - native apps power in web
     speaker: Borys Mohyla
-    video: 'https://www.youtube.com/watch?v=Teix6SA1FbU'
+    video: https://www.youtube.com/watch?v=Teix6SA1FbU
   - name: NestJS. When patterns matters
     speaker: Ostap Chervak
-    video: 'https://www.youtube.com/watch?v=Z9KkMRd8Blc'
+    video: https://www.youtube.com/watch?v=Z9KkMRd8Blc
   - name: Project experience in Angular2+
     speaker: Kostiantyn Hryshyn
-    video: 'https://www.youtube.com/watch?v=4TwvQIIOCH8'
+    video: https://www.youtube.com/watch?v=4TwvQIIOCH8
   - name: Serverless applications with cross-cloud experience
     speaker: Andriy Deren
-    video: 'https://www.youtube.com/watch?v=yfJcrEvQnJg'
+    video: https://www.youtube.com/watch?v=yfJcrEvQnJg
   - name: React Next - Fiber and Some other neat things
     speaker: Yevhen Shemet
-    video: 'https://www.youtube.com/watch?v=SbWFMoZDxdA'
+    video: https://www.youtube.com/watch?v=SbWFMoZDxdA
   - name: Machines Must Suffer!
     speaker: Александр Павлыщ
-    video: 'https://www.youtube.com/watch?v=4WLuNX2lPx0'
+    video: https://www.youtube.com/watch?v=4WLuNX2lPx0
 

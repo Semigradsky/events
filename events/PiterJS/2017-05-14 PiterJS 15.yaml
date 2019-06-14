@@ -4,14 +4,14 @@ videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxi4YKdy2Qy2tHGV1wungCX
 talks:
   - name: WebRTC медиа сервер
     speaker: Владислав Ватрушкин
-    video: 'https://www.youtube.com/watch?v=vlPH7UmbONM'
+    video: https://www.youtube.com/watch?v=vlPH7UmbONM
   - name: Практический опыт использования React Native + Redux
     speaker: 'Станислав Краснояров '
-    video: 'https://www.youtube.com/watch?v=xvt87NAWcEw'
+    video: https://www.youtube.com/watch?v=xvt87NAWcEw
   - name: 'Node.js — прошлое, настоящее и будущее'
     speaker: Мелихов Андрей
-    video: 'https://www.youtube.com/watch?v=m0Z7J4tUUvk'
+    video: https://www.youtube.com/watch?v=m0Z7J4tUUvk
   - name: Структура и интерпретация языка JavaScript
     speaker: Александр Баумгертнер
-    video: 'https://www.youtube.com/watch?v=kqmW8PtObPo'
+    video: https://www.youtube.com/watch?v=kqmW8PtObPo
 

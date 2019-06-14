@@ -4,71 +4,71 @@ videos: 'https://www.youtube.com/playlist?list=PLnkLrCUX4Qh5I-IJ30tf51EQYmWTPWPx
 talks:
   - name: Decomposition of JavaScript engineer
     speaker: Георгий Подсветов
-    video: 'https://www.youtube.com/watch?v=sh0vLXNPW2Y'
+    video: https://www.youtube.com/watch?v=sh0vLXNPW2Y
   - name: Обнаружение сервисов в nodejs
     speaker: Александр Рысенко
-    video: 'https://www.youtube.com/watch?v=jlFAZn0Mk2E'
+    video: https://www.youtube.com/watch?v=jlFAZn0Mk2E
   - name: Relay и Falcor — будущее?
     speaker: Вячеслав Слинько
-    video: 'https://www.youtube.com/watch?v=bpn8u7KYMSg'
+    video: https://www.youtube.com/watch?v=bpn8u7KYMSg
   - name: 'Немного о js приложениях на мобильных устройствах /native script, react native, phonegap и appcelerator'
     speaker: Юрий Лучанинов
-    video: 'https://www.youtube.com/watch?v=ZDH_N0bdDrM'
+    video: https://www.youtube.com/watch?v=ZDH_N0bdDrM
   - name: 'REST Level 3, HATEOAS, JSON API'
     speaker: Артем Бей
-    video: 'https://www.youtube.com/watch?v=MmyvNUAnI64'
+    video: https://www.youtube.com/watch?v=MmyvNUAnI64
   - name: Почему Реакт и Флюкс - это хорошо
     speaker: Илья Сегеда
-    video: 'https://www.youtube.com/watch?v=zUWn_WSNHBY'
+    video: https://www.youtube.com/watch?v=zUWn_WSNHBY
   - name: Компиляторы
     speaker: Андрей Гершун
-    video: 'https://www.youtube.com/watch?v=wabHD8fZUmw'
+    video: https://www.youtube.com/watch?v=wabHD8fZUmw
   - name: Anti-hype - как не гнаться за технологиями и начать жить
     speaker: Андрей Листочкин
-    video: 'https://www.youtube.com/watch?v=xPFRUM_oDKA'
+    video: https://www.youtube.com/watch?v=xPFRUM_oDKA
   - name: Web Animations tomorrow
     speaker: Алексей Швайка
-    video: 'https://www.youtube.com/watch?v=BFyxf4-PpvI'
+    video: https://www.youtube.com/watch?v=BFyxf4-PpvI
   - name: 'Web Assembly: новая эра веба'
     speaker: Сергей Рубанов
-    video: 'https://www.youtube.com/watch?v=eWF_1nMM5Yo'
+    video: https://www.youtube.com/watch?v=eWF_1nMM5Yo
   - name: The amazing universe of components
     speaker: Кирилл Яковенко
-    video: 'https://www.youtube.com/watch?v=QE8wnZ1SbOs'
+    video: https://www.youtube.com/watch?v=QE8wnZ1SbOs
   - name: Reliable systems with unreliable components
     speaker: Максим Климишин
-    video: 'https://www.youtube.com/watch?v=AnJzUreK-Xc'
+    video: https://www.youtube.com/watch?v=AnJzUreK-Xc
   - name: 'Интеграция режима одновременной работы в действующий проект /ShareJS, Op transform/'
     speaker: Денис Кузин
-    video: 'https://www.youtube.com/watch?v=q-Uqb3cAgjA'
+    video: https://www.youtube.com/watch?v=q-Uqb3cAgjA
   - name: 'Лабиринты и JS — потому что [не] могу'
     speaker: Александр Лапшин
-    video: 'https://www.youtube.com/watch?v=jhuAJoBg7js'
+    video: https://www.youtube.com/watch?v=jhuAJoBg7js
   - name: Promise Pipe
     speaker: Эльдар Джафаров
-    video: 'https://www.youtube.com/watch?v=_HoOYqpTAlM'
+    video: https://www.youtube.com/watch?v=_HoOYqpTAlM
   - name: Javascript debugging. Know your enemy
     speaker: Андрей Вандакуров
-    video: 'https://www.youtube.com/watch?v=yC43rba4VOg'
+    video: https://www.youtube.com/watch?v=yC43rba4VOg
   - name: How Browser Works?
     speaker: Владимир Воевидка
-    video: 'https://www.youtube.com/watch?v=DPqTnBZx5fc'
+    video: https://www.youtube.com/watch?v=DPqTnBZx5fc
   - name: Как Webpack сделал меня счастливее
     speaker: Ярослав Сергеев
-    video: 'https://www.youtube.com/watch?v=rKd23pit8Xw'
+    video: https://www.youtube.com/watch?v=rKd23pit8Xw
   - name: ES6 Angular flow
     speaker: Валерий Сорокобатько
-    video: 'https://www.youtube.com/watch?v=-p8ZrC6-GkI'
+    video: https://www.youtube.com/watch?v=-p8ZrC6-GkI
   - name: Готовим REST API на Sails и Yeoman
     speaker: Евгений Обрезков
-    video: 'https://www.youtube.com/watch?v=utn7pL0nUiM'
+    video: https://www.youtube.com/watch?v=utn7pL0nUiM
   - name: 'Nashorn, SquirellFish, v8: ускоряем зоопарк'
     speaker: Илья Климов
-    video: 'https://www.youtube.com/watch?v=tXfSQL3RkPQ'
+    video: https://www.youtube.com/watch?v=tXfSQL3RkPQ
   - name: Боль и радость создания изоморфных приложений на ReactJS
     speaker: Виктор Турский
-    video: 'https://www.youtube.com/watch?v=eLNvsvNZKX8'
+    video: https://www.youtube.com/watch?v=eLNvsvNZKX8
   - name: Frontend monitoring at Grammarly - data-driven solution for quality control of frontend products
     speaker: 'Алексей Ященко, Ярослав Волощук'
-    video: 'https://www.youtube.com/watch?v=FVDQUzq8g7o'
+    video: https://www.youtube.com/watch?v=FVDQUzq8g7o
 

@@ -4,54 +4,54 @@ videos: https://www.youtube.com/playlist?list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi
 talks:
   - name: Как анимировать что угодно
     speaker: Юрий Артюх
-    video: https://www.youtube.com/watch?v=Jhx_29mVDO4&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=3&t=1s
+    video: https://www.youtube.com/watch?v=Jhx_29mVDO4
     presentation:
   - name: "Понижаем порог вхождения в performance ч.1"
     speaker: Александр Смолянинов
-    video: https://www.youtube.com/watch?v=nq4FVxvoO70&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=3
+    video: https://www.youtube.com/watch?v=nq4FVxvoO70
     presentation:
   - name: "Понижаем порог вхождения в performance ч.2"
     speaker: Александр Смолянинов
-    video: https://www.youtube.com/watch?v=8F3IOX7N1ec&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=4
+    video: https://www.youtube.com/watch?v=8F3IOX7N1ec
     presentation:
   - name: "CSS vs Preprocessors — назад в будущее!"
     speaker: Сергей Попов
-    video: https://www.youtube.com/watch?v=jNoQGfys7Xc&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=5
+    video: https://www.youtube.com/watch?v=jNoQGfys7Xc
     presentation:
   - name: "Email Templates"
     speaker: Мещеряков Денис
-    video: https://www.youtube.com/watch?v=QhUIZCJE-Tk&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=6
+    video: https://www.youtube.com/watch?v=QhUIZCJE-Tk
     presentation:
   - name: "Анимации для души и пользы"
     speaker: Ксения Буркун
-    video: https://www.youtube.com/watch?v=QgLgzRyd7KE&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=7
+    video: https://www.youtube.com/watch?v=QgLgzRyd7KE
     presentation:
   - name: "Использование GSAP в реальных проектах."
     speaker: Бойко Андрей
-    video: https://www.youtube.com/watch?v=_63sz4aHrFo&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=8
+    video: https://www.youtube.com/watch?v=_63sz4aHrFo
     presentation:
   - name: "Бэмили-бэмили и, наконец, забэмили!"
     speaker: Серёжа Переверзев
-    video: https://www.youtube.com/watch?v=kGgsrUZ73Xc&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=9
+    video: https://www.youtube.com/watch?v=kGgsrUZ73Xc
     presentation: https://docs.google.com/presentation/d/13dk4BDfO5ZsH4C1Pwz6uj5OD8kpbzvLLEzFqC9uUl14/edit
   - name: "Як готується CSS або бюрократичні казки про Комітет і Чорнетку"
     speaker: Сергій Бабіч
-    video: https://www.youtube.com/watch?v=n3ztNlbJjq4&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=10
+    video: https://www.youtube.com/watch?v=n3ztNlbJjq4
     presentation:
     lang: uk
   - name: "Оптимизация изображений или \"Размер имеет значение\""
     speaker: Александр Свистун
-    video: https://www.youtube.com/watch?v=VtyO2tM0kow&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=11
+    video: https://www.youtube.com/watch?v=VtyO2tM0kow
     presentation:
   - name: "HTML5 Elements and their styling"
     speaker: Евгений Исаков
-    video: https://www.youtube.com/watch?v=A92UKmIdvBw&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=12
+    video: https://www.youtube.com/watch?v=A92UKmIdvBw
     presentation:
   - name: "Автостопом по CSS Style Guide Галактике"
     speaker: Виталий Рыбка
-    video: https://www.youtube.com/watch?v=dNcb3QtkmnU&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=13
+    video: https://www.youtube.com/watch?v=dNcb3QtkmnU
     presentation:
   - name: "Styled Components: CSS без .css"
     speaker: Тимофей Лавренюк
-    video: https://www.youtube.com/watch?v=YBk6FPlgVjk&list=PLJ5NW5T60UpiopPHjYdepLi_cvw8HPUDi&index=14
+    video: https://www.youtube.com/watch?v=YBk6FPlgVjk
     presentation:

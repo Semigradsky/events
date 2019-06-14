@@ -8,10 +8,10 @@ talks:
     presentation: https://fs.piterjs.org/events/28/pleshivtsev.pdf
   - name: Введение в доступность
     speaker: Михаил Андриевский
-    video: 'https://www.youtube.com/watch?v=jzHW4zdirsY'
+    video: https://www.youtube.com/watch?v=jzHW4zdirsY
     presentation: https://fs.piterjs.org/events/28/andrievskiy.pdf
   - name: Применение Logux
     speaker: Николай Говоров
-    video: 'https://www.youtube.com/watch?v=xbuxaQGRnpg'
+    video: https://www.youtube.com/watch?v=xbuxaQGRnpg
     presentation: https://fs.piterjs.org/events/28/govorov.pdf
 

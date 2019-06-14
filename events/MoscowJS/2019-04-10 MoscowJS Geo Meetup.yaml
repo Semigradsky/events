@@ -3,18 +3,18 @@ date: 2019-04-10
 talks:
   - name: deck.gl и как его готовить
     speaker: Артём Боюр
-    video: 'https://www.youtube.com/watch?v=u8okeglO_9U'
+    video: https://www.youtube.com/watch?v=u8okeglO_9U
     presentation: 'https://cloud.mail.ru/public/nK8J/57UFuK2zQ'
   - name: Декларативные карты с React и Mapbox GL JS
     speaker: Степан Кузьмин
-    video: 'https://www.youtube.com/watch?v=02Mtao-GTW4'
+    video: https://www.youtube.com/watch?v=02Mtao-GTW4
     presentation: 'https://cloud.mail.ru/public/A3xc/h3dY7T6x8'
   - name: Как мы рендерим векторные Яндекс.Карты на вебе
     speaker: Марина Перескокова
-    video: 'https://www.youtube.com/watch?v=ymKJn-XBvtw'
+    video: https://www.youtube.com/watch?v=ymKJn-XBvtw
     presentation: 'https://cloud.mail.ru/public/2sFQ/4auP81ZD9'
   - name: Опыт использования картографических технологий при разработке веб-платформы планирования и управления транспортными потоками RITM
     speaker: Игорь Яицкий
-    video: 'https://www.youtube.com/watch?v=92WdqhmqSnQ'
+    video: https://www.youtube.com/watch?v=92WdqhmqSnQ
     presentation: 'https://cloud.mail.ru/public/3XUX/2A25Z2gsb'
 

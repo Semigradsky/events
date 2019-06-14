@@ -3,15 +3,15 @@ date: 2016-03-31
 talks:
   - name: Опыт разработки универсальной библиотеки визуальных компонентов в HeadHunter
     speaker: Никита Мостовой
-    video: 'https://www.youtube.com/watch?v=d41W9aEYvbE'
+    video: https://www.youtube.com/watch?v=d41W9aEYvbE
     presentation: 'https://www.slideshare.net/moscowjs/headhunter-moscowjs-29'
   - name: Во все тяжкие с responsive images
     speaker: Павел Померанцев
-    video: 'https://www.youtube.com/watch?v=xmAMzLibHeo'
+    video: https://www.youtube.com/watch?v=xmAMzLibHeo
     presentation: 'https://www.slideshare.net/moscowjs/responsive-images-moscowjs-29'
   - name: AMP - технология на три буквы
     speaker: Макс Фролов
-    video: 'https://www.youtube.com/watch?v=o2q_zv-3qck'
+    video: https://www.youtube.com/watch?v=o2q_zv-3qck
     presentation: 'https://www.slideshare.net/moscowjs/amp-moscowjs-29'
   - name: Observable и computed на примере KnockoutJS
     speaker: Ольга Кобец

@@ -3,18 +3,18 @@ date: 2016-06-30
 talks:
   - name: Контекст в React
     speaker: Николай Надоричев
-    video: 'https://www.youtube.com/watch?v=_H6r8MX4VaE
+    video: https://www.youtube.com/watch?v=_H6r8MX4VaE
     presentation: 'http://www.slideshare.net/moscowjs/react-moscowjs-31'
   - name: Веб без интернет соединения
     speaker: Михаил Дунаев
-    video: 'https://www.youtube.com/watch?v=QAVNsSAI6nk
+    video: https://www.youtube.com/watch?v=QAVNsSAI6nk
     presentation: 'http://www.slideshare.net/moscowjs/moscowjs-31'
   - name: Верстка Canvas'ом
     speaker: Алексей Охрименко
-    video: 'https://www.youtube.com/watch?v=TxNfcvT9sAg
+    video: https://www.youtube.com/watch?v=TxNfcvT9sAg
     presentation: 'http://www.slideshare.net/moscowjs/canvas-moscowjs-31'
   - name: 'Angular2: Куда пропал $apply()?'
     speaker: Тимофей Яценко
-    video: 'https://www.youtube.com/watch?v=AigevGx094M&index=4
+    video: https://www.youtube.com/watch?v=AigevGx094M&index=4
     presentation: 'http://www.slideshare.net/moscowjs/angular2-change-detection-moscowjs-31'
 

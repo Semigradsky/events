@@ -3,19 +3,19 @@ date: 2018-05-31
 talks:
   - name: Как я перестал бояться и полюбил DOM API
     speaker: Ярослав Сергиевский
-    video: 'https://youtu.be/9S8OeCkcUSM'
+    video: https://youtu.be/9S8OeCkcUSM
     presentation: 'https://cloud.mail.ru/public/GDdx/LoJmFeZto'
   - name: GraphQL и Relay Modern на практике
     speaker: Алексей Карасев
-    video: 'https://youtu.be/f6JyNlEoWFs'
+    video: https://youtu.be/f6JyNlEoWFs
     presentation: 'https://cloud.mail.ru/public/GVb7/XoF9UQv9w'
   - name: Опыт использования WebRTC
     speaker: Григорий Кузнецов
-    video: 'https://youtu.be/gQlQwG4vn28'
+    video: https://youtu.be/gQlQwG4vn28
     presentation: 'https://cloud.mail.ru/public/DnhD/CQDKmvN9c'
   - name: Enterprise-ready шаблон для Vue
     speaker: Никита Соболев
-    video: 'https://youtu.be/SXFrXbhWsVY'
+    video: https://youtu.be/SXFrXbhWsVY
     presentation: 'https://cloud.mail.ru/public/Thzo/rtfRN2MYo'
     tags:
       - 'Vue.js'

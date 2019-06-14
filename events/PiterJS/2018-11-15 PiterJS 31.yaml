@@ -4,14 +4,14 @@ videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxhXGHrE5H62pQnWRNT7eUj
 talks:
   - name: Broccoli — функциональный ассет-менеджмент веб приложений
     speaker: Александр Канунников
-    video: 'https://www.youtube.com/watch?v=rkhYib1pc2Q'
+    video: https://www.youtube.com/watch?v=rkhYib1pc2Q
     presentation: https://fs.piterjs.org/events/31/kanunnikov.pdf
   - name: 'ФРП, биология, фронтенд'
     speaker: Инна Яранцева
-    video: 'https://www.youtube.com/watch?v=LFjP9RF0rfk'
+    video: https://www.youtube.com/watch?v=LFjP9RF0rfk
     presentation: https://fs.piterjs.org/events/31/yarantseva.pdf
   - name: 'Разработка компилятора на LLVM#1'
     speaker: Дмитрий Пацура
-    video: 'https://www.youtube.com/watch?v=KjJn-J8d1Xc'
+    video: https://www.youtube.com/watch?v=KjJn-J8d1Xc
     presentation: https://fs.piterjs.org/events/31/patsura.pdf
 

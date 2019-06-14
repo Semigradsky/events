@@ -12,7 +12,7 @@ talks:
     presentation: http://slides.com/t1mmaas/observable/
   - name: Тестирование реакт-компонент с enzyme
     speaker: Евгений Тихонов
-    video: https://www.youtube.com/watch?v=w1AGie9yHsg&list=PLVxsRDo37_Zc42OJkyeKzqxR6gda70B0C&index=3
+    video: https://www.youtube.com/watch?v=w1AGie9yHsg
     presentation: https://yadi.sk/d/NaFX7Fg8342VT9
     tags:
       - 'testing'

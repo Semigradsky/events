@@ -5,13 +5,13 @@ talks:
   - name: Предание об Adobe Flash
     speaker: Мария Просвирнина
     presentation: 'https://goo.gl/BGGTix'
-    video: 'https://www.youtube.com/watch?v=STxBvk98mf8'
+    video: https://www.youtube.com/watch?v=STxBvk98mf8
   - name: 'Игра «Герои Меча и Магии» в браузере: долго, сложно и невыносимо интересно'
     speaker: Александр Коротаев
     presentation: 'http://lekzd.ru/heroes'
-    video: 'https://youtu.be/STxBvk98mf8?t=41m17s'
+    video: https://youtu.be/STxBvk98mf8?t=41m17s
   - name: 'Играемся с вебкамерой: от старта потока до дополненной реальности'
     speaker: Зарема Халилова
     presentation: 'https://goo.gl/15RG2L'
-    video: 'https://youtu.be/STxBvk98mf8?t=1h34m45s'
+    video: https://youtu.be/STxBvk98mf8?t=1h34m45s
 

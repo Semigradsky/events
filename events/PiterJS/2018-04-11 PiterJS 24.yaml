@@ -4,14 +4,14 @@ videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxgxdHasMaMQdcYRsMjS_AQ
 talks:
   - name: Собираем свой Google Static Maps
     speaker: Михаил Баранов
-    video: 'https://www.youtube.com/watch?v=kDFEsjaRScM'
+    video: https://www.youtube.com/watch?v=kDFEsjaRScM
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/24/baranov.pdf
   - name: HTML формы как таковые
     speaker: Артём Пендюрин
-    video: 'https://www.youtube.com/watch?v=TO5kl_GBQ20'
+    video: https://www.youtube.com/watch?v=TO5kl_GBQ20
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/24/pendurin.pdf
   - name: Трансдьюсеры в JS
     speaker: Игорь Коновалов
-    video: 'https://www.youtube.com/watch?v=CzY1fBeT0kY'
+    video: https://www.youtube.com/watch?v=CzY1fBeT0kY
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/24/konovalov.html
 

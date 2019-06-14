@@ -4,14 +4,14 @@ videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxgyCffZqEX1qAs8KmENDnm
 talks:
   - name: React Native Desktop
     speaker: Дмитрий Локтев
-    video: 'https://www.youtube.com/watch?v=3lSUKW6KK0I'
+    video: https://www.youtube.com/watch?v=3lSUKW6KK0I
     tags:
       - 'React'
   - name: Полный стек технологий БЭМ
     speaker: Александр Баумгертнер
-    video: 'https://www.youtube.com/watch?v=VsGl-xZtxFg'
+    video: https://www.youtube.com/watch?v=VsGl-xZtxFg
     presentation: http://alexbaumgertner.github.io/presentation-bem-stack/
   - name: JavaScript в большом проекте
     speaker: Евгений Гусев
-    video: 'https://www.youtube.com/watch?v=Ak6dI1_ZaEI'
+    video: https://www.youtube.com/watch?v=Ak6dI1_ZaEI
 

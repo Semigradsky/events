@@ -3,16 +3,16 @@ date: 2016-02-25
 talks:
   - name: Свой PhoneGap за 15 минут
     speaker: Алексей Охрименко
-    video: 'https://it.mail.ru/video/466/'
+    video: https://it.mail.ru/video/466/
   - name: ES7 Декор@торы
     speaker: Александр Майоров
-    video: 'https://it.mail.ru/video/465/'
+    video: https://it.mail.ru/video/465/
     presentation: 'http://moscowjs.majorov.su/'
   - name: Пиринговый веб на JavaScript
     speaker: Денис Глазков
-    video: 'https://it.mail.ru/video/468/'
+    video: https://it.mail.ru/video/468/
     presentation: 'https://www.slideshare.net/moscowjs/javascript-moscowjs-28'
   - name: Компонентная верстка с AngularJS
     speaker: Андрей Яманов
-    video: 'https://it.mail.ru/video/467/'
+    video: https://it.mail.ru/video/467/
 

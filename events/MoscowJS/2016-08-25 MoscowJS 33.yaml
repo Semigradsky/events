@@ -3,18 +3,18 @@ date: 2016-08-25
 talks:
   - name: Создание WYSIWYG-редакторов для веба
     speaker: Егор Яковишен
-    video: 'https://www.youtube.com/watch?v=xVVG3mRy0NY'
+    video: https://www.youtube.com/watch?v=xVVG3mRy0NY
     presentation: 'https://www.slideshare.net/secret/Eu3VSLkuKIUYSN'
   - name: Регрессионное тестирование компонентов верстки
     speaker: Кондратенко Павел
-    video: 'https://www.youtube.com/watch?v=aftKkyfjKK4'
+    video: https://www.youtube.com/watch?v=aftKkyfjKK4
     presentation: 'https://www.slideshare.net/secret/9RpH5AGPO6RQCV'
   - name: Предсказуемый Viewport
     speaker: Вопиловский Константин
-    video: 'https://www.youtube.com/watch?v=H2eivu0zJPk'
+    video: https://www.youtube.com/watch?v=H2eivu0zJPk
     presentation: 'https://www.slideshare.net/secret/day3Ckj7GbW1GQ'
   - name: I promise - images will be loaded!
     speaker: Антон Корзунов
-    video: 'https://www.youtube.com/watch?v=tV1PpSIp4zk'
+    video: https://www.youtube.com/watch?v=tV1PpSIp4zk
     presentation: 'https://www.slideshare.net/secret/cqOgAMwPfBJcPl'
 

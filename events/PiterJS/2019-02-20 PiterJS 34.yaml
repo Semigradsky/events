@@ -4,18 +4,18 @@ videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjvV7aroPWHwwULFVD_EiX
 talks:
   - name: Стабильно работающий код
     speaker: Светлана Авдей
-    video: 'https://www.youtube.com/watch?v=sy3PfCEwbT4'
+    video: https://www.youtube.com/watch?v=sy3PfCEwbT4
     presentation: https://fs.piterjs.org/events/34/avdey.pdf
   - name: Скажи ревьюеру “Нет!”
     speaker: Павел Герасимов
-    video: 'https://www.youtube.com/watch?v=FV5xeLwYLNM'
+    video: https://www.youtube.com/watch?v=FV5xeLwYLNM
     presentation: https://fs.piterjs.org/events/34/gerasimov.pdf
   - name: Гатсби — больше чем генератор сайтов
     speaker: Михаил Новиков
-    video: 'https://www.youtube.com/watch?v=BkliE5w5wnw'
+    video: https://www.youtube.com/watch?v=BkliE5w5wnw
     presentation: https://fs.piterjs.org/events/34/novikov.pdf
   - name: Пиратское радио на NodeJS
     speaker: Григорий Горшков
-    video: 'https://www.youtube.com/watch?v=ubMGsDHDshI'
+    video: https://www.youtube.com/watch?v=ubMGsDHDshI
     presentation: https://fs.piterjs.org/events/34/gorshkov.pdf
 

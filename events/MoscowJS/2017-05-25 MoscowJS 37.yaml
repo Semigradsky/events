@@ -3,18 +3,18 @@ date: 2017-05-25
 talks:
   - name: 'Typescript + webpack: эволюция сборки SPA'
     speaker: Александр Черников
-    video: 'https://youtu.be/9DK5jA5rQ8g'
+    video: https://youtu.be/9DK5jA5rQ8g
     presentation: 'https://cloud.mail.ru/public/9y8V/Ra6txirpM'
   - name: Интерактивные 3D-карты своими руками
     speaker: Александр Амосов
-    video: 'https://youtu.be/9ltBI46EK-A'
+    video: https://youtu.be/9ltBI46EK-A
     presentation: 'https://cloud.mail.ru/public/MeHp/oV1GgCA1x'
   - name: 'Как, черт возьми, надо ревьювить'
     speaker: Иван Стрелков
-    video: 'https://youtu.be/mDZDy67bT28'
+    video: https://youtu.be/mDZDy67bT28
     presentation: 'https://cloud.mail.ru/public/A1m7/zx1gUL2iv'
   - name: Цена пропущенного фрейма
     speaker: Дмитрий Шуранов
-    video: 'https://youtu.be/7-d3O-7aus0'
+    video: https://youtu.be/7-d3O-7aus0
     presentation: 'https://github.com/dvshur/animation-talk-short/raw/master/the_cost_of_a_skipped_frame.key'
 

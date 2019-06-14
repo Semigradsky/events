@@ -4,26 +4,26 @@ videos: 'https://www.youtube.com/playlist?list=PLnkLrCUX4Qh57cMQhiUVxpYUYzJ98SRn
 talks:
   - name: How does V8 optimize JavaScript code
     speaker: Евгений Обрезков
-    video: 'https://www.youtube.com/watch?v=wwt6LDEeTfM'
+    video: https://www.youtube.com/watch?v=wwt6LDEeTfM
   - name: Imagine it
     speaker: Ярослав Сергеев
-    video: 'https://www.youtube.com/watch?v=MsyIf2sYYhU'
+    video: https://www.youtube.com/watch?v=MsyIf2sYYhU
   - name: 'ClojureScript, что ты такое?'
     speaker: Роман Лютиков
-    video: 'https://www.youtube.com/watch?v=ChxMUwSTEWc'
+    video: https://www.youtube.com/watch?v=ChxMUwSTEWc
   - name: Better async code with promises
     speaker: Алексей Швайка
-    video: 'https://www.youtube.com/watch?v=zOhvH4dslF4'
+    video: https://www.youtube.com/watch?v=zOhvH4dslF4
   - name: Immutable vs Mutable
     speaker: Евгений Нежута
-    video: 'https://www.youtube.com/watch?v=8BExyeds_c0'
+    video: https://www.youtube.com/watch?v=8BExyeds_c0
   - name: Reactive Programming with RxJS
     speaker: Алексей Богачук
-    video: 'https://www.youtube.com/watch?v=r1BD4TEL6Yc'
+    video: https://www.youtube.com/watch?v=r1BD4TEL6Yc
   - name: 'У нас в Архитектуре все не очень:)'
     speaker: Дима Малеев
-    video: 'https://www.youtube.com/watch?v=dq9aKdUbBoE'
+    video: https://www.youtube.com/watch?v=dq9aKdUbBoE
   - name: Круглый стол
     speaker: 'Артём Захарченко, Дима Малеев, Валерій Сорокобатько, Илья Климов, Егор Мясников, Юрий Лучанинов'
-    video: ''
+    video:
 

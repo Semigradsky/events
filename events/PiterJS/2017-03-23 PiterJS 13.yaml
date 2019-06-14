@@ -4,7 +4,7 @@ videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjjcTWmYP9xbpWaK1uiDQc
 talks:
   - name: Нужен ли мне TypeScript?
     speaker: Александр Баумгертнер
-    video: 'https://www.youtube.com/watch?v=0lu3WYLW4ps'
+    video: https://www.youtube.com/watch?v=0lu3WYLW4ps
     presentation: https://easy-deep-learning.github.io/types-sugar-in-javascript/
     tags:
       - TypeScript

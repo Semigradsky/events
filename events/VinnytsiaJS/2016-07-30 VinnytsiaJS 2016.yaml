@@ -4,47 +4,47 @@ videos: 'https://www.youtube.com/playlist?list=PL7GMpyIlGWSV3M0bAmCS9TdRNWtayhmx
 talks:
   - name: 'JavaScript: The awesome parts'
     speaker: Martin Splitt
-    video: 'https://www.youtube.com/watch?v=wQuG094IdEw'
+    video: https://www.youtube.com/watch?v=wQuG094IdEw
     lang: en
   - name: Hidden capabilities of well-known things
     speaker: Alexey Volkov
-    video: 'https://www.youtube.com/watch?v=mG10Hnrryhc'
+    video: https://www.youtube.com/watch?v=mG10Hnrryhc
   - name: 'React, Redux and immutable state'
     speaker: Yevhen Shemet
-    video: 'https://www.youtube.com/watch?v=HWTqxAUCBsI'
+    video: https://www.youtube.com/watch?v=HWTqxAUCBsI
   - name: Node.js – running JavaScript on-earth and in-cloud
     speaker: Andriy Deren
-    video: 'https://www.youtube.com/watch?v=_cdKDhoAYvk'
+    video: https://www.youtube.com/watch?v=_cdKDhoAYvk
   - name: Smart Office - the practical application of IoT in JS development
     speaker:  Dmytro Golysh, Юрий Ткаченко
-    video: 'https://www.youtube.com/watch?v=qWHMK_uHT4I'
+    video: https://www.youtube.com/watch?v=qWHMK_uHT4I
   - name: Asyncable ESMAScript
     speaker: Denis Vlassenko
-    video: 'https://www.youtube.com/watch?v=ocaV1zZZcAs'
+    video: https://www.youtube.com/watch?v=ocaV1zZZcAs
   - name: Types vs Types in Javascript
     speaker: Ivan Lavriv
-    video: 'https://www.youtube.com/watch?v=x7fnpMN7z3U'
+    video: https://www.youtube.com/watch?v=x7fnpMN7z3U
   - name: Realtime HTML5 Canvas Drawing
     speaker: Evhenii Pinkal
-    video: 'https://www.youtube.com/watch?v=_LMIEPoGxNU'
+    video: https://www.youtube.com/watch?v=_LMIEPoGxNU
     lang: uk
   - name: Frontend Performance Metrics. Measure First. Measure Often
     speaker: 'Artem Zakharchenko'
-    video: 'https://www.youtube.com/watch?v=mUG0iVj3Bb0'
+    video: https://www.youtube.com/watch?v=mUG0iVj3Bb0
   - name: WTF - WebGL The Fundamentals
     speaker: Martin Splitt
-    video: 'https://www.youtube.com/watch?v=C79DDrEIpys'
+    video: https://www.youtube.com/watch?v=C79DDrEIpys
     lang: en
   - name: Do you have to play coding games if you are a professional coder?
     speaker: Alexander Lyabah
-    video: 'https://www.youtube.com/watch?v=aMWg4FgmfYI'
+    video: https://www.youtube.com/watch?v=aMWg4FgmfYI
   - name: Better API wrappers with Proxies
     speaker: Алексей Швайка
-    video: 'https://www.youtube.com/watch?v=hxQW7tcPQ2s'
+    video: https://www.youtube.com/watch?v=hxQW7tcPQ2s
   - name: 'React Native: Are we there yet'
     speaker: Роман Лютиков
-    video: 'https://www.youtube.com/watch?v=o2_qDphpjlQ'
+    video: https://www.youtube.com/watch?v=o2_qDphpjlQ
   - name: Offline-First Almighty or one big reason why our web-applications suck
     speaker: Denis Yaremov
-    video: 'https://www.youtube.com/watch?v=u5PPiWwojDY'
+    video: https://www.youtube.com/watch?v=u5PPiWwojDY
 

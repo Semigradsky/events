@@ -4,15 +4,15 @@ videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjn9AJ5olsSFanepYyTdSp
 talks:
   - name: Декларативное программирование на CSS
     speaker: Тимофей Ковалев
-    video: 'https://www.youtube.com/watch?v=L2h3gkya4aw'
+    video: https://www.youtube.com/watch?v=L2h3gkya4aw
   - name: 'Ускорение разработки с react, redux и webpack'
     speaker: Майкл Башуров
-    video: 'https://www.youtube.com/watch?v=focKokPowc4'
+    video: https://www.youtube.com/watch?v=focKokPowc4
     presentation: https://saitonakamura.github.io/react-redux-webpack-presentation/
     tags:
       - 'React'
   - name: Изоморфный React
     speaker: Кирилл Ковалев
-    video: 'https://www.youtube.com/watch?v=5qUK4DFAe-I'
+    video: https://www.youtube.com/watch?v=5qUK4DFAe-I
     tags:
       - 'React'

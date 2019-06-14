@@ -4,11 +4,11 @@ videos: 'https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjzjHpANVCkZCKTJlMP54z
 talks:
   - name: Из прототипа в production
     speaker: Борисов Алексей
-    video: 'https://www.youtube.com/watch?v=nFOdadRRqZs'
+    video: https://www.youtube.com/watch?v=nFOdadRRqZs
   - name: Реактивное функциональное программирование
     speaker: Кирилл Сухомлин
-    video: 'https://www.youtube.com/watch?v=ie6pVGSgInw'
+    video: https://www.youtube.com/watch?v=ie6pVGSgInw
   - name: WebGL на практике
     speaker: Лис Games
-    video: 'https://www.youtube.com/watch?v=WyJXSd3q4w0'
+    video: https://www.youtube.com/watch?v=WyJXSd3q4w0
 

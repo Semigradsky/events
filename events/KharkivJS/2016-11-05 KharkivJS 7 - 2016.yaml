@@ -6,85 +6,85 @@ videos: 'https://www.youtube.com/playlist?list=PLnkLrCUX4Qh4O4Zng1XsnO7WkPqK-jKe
 talks:
   - name: React API design
     speaker: Juho Vepsäläinen
-    video: 'https://www.youtube.com/watch?v=1niBVCLfAGI'
+    video: https://www.youtube.com/watch?v=1niBVCLfAGI
     lang: en
   - name: Shells written in JavaScript
     speaker: Denys Dovhan
-    video: 'https://www.youtube.com/watch?v=ijXfFu61XH0'
+    video: https://www.youtube.com/watch?v=ijXfFu61XH0
     lang: en
   - name: How to become famous with GitHub and open-source
     speaker: Paul Miller
-    video: 'https://www.youtube.com/watch?v=sVbNF6zp3lY'
+    video: https://www.youtube.com/watch?v=sVbNF6zp3lY
   - name: JavaScript and offline business. Next big deal
     speaker: Georgiy Podsvyetov
-    video: 'https://www.youtube.com/watch?v=lam0mteyz1I'
+    video: https://www.youtube.com/watch?v=lam0mteyz1I
   - name: 'Moving Web forward: Part I — ECMAScript 201x'
     speaker: Сергей Рубанов
-    video: 'https://www.youtube.com/watch?v=pjDpN3nRpdc'
+    video: https://www.youtube.com/watch?v=pjDpN3nRpdc
   - name: Angular Native
     speaker: Юрий Лучаниновv
-    video: 'https://www.youtube.com/watch?v=jTxT95injrE'
+    video: https://www.youtube.com/watch?v=jTxT95injrE
   - name: Я и ИоТ
     speaker: Вадим Макеев
-    video: 'https://www.youtube.com/watch?v=LuLB6xj1rpQ'
+    video: https://www.youtube.com/watch?v=LuLB6xj1rpQ
   - name: Deal with async programming
     speaker: Denis Stoyanov
-    video: 'https://www.youtube.com/watch?v=0ZcCPX6uT5c'
+    video: https://www.youtube.com/watch?v=0ZcCPX6uT5c
   - name: Iframe rampage. Sad story of one integration.
     speaker: Yurii Plugatariov
-    video: 'https://www.youtube.com/watch?v=6R7H_Jboaf8'
+    video: https://www.youtube.com/watch?v=6R7H_Jboaf8
     lang: en
   - name: React Native. Way to production.
     speaker: Филипп Шурпик
-    video: 'https://www.youtube.com/watch?v=b88ySmEwoG0'
+    video: https://www.youtube.com/watch?v=b88ySmEwoG0
     lang: en
   - name: Error handling in Node.js streams
     speaker: Андрей Шумада
-    video: 'https://www.youtube.com/watch?v=FlyYgwqLzig'
+    video: https://www.youtube.com/watch?v=FlyYgwqLzig
     lang: en
   - name: Static typing in browser
     speaker: Вячеслав Слинько
-    video: 'https://www.youtube.com/watch?v=5dHFRt8aMiA'
+    video: https://www.youtube.com/watch?v=5dHFRt8aMiA
   - name: Compilers/V8
     speaker: Ингвар Степанян
-    video: 'https://www.youtube.com/watch?v=BOpvsHZehiA'
+    video: https://www.youtube.com/watch?v=BOpvsHZehiA
     lang: en
   - name: 'Flow, why should fall in love with it'
     speaker: Илья Климов
-    video: 'https://www.youtube.com/watch?v=GEo3XIJw8HM'
+    video: https://www.youtube.com/watch?v=GEo3XIJw8HM
     lang: en
   - name: Advanced webpack
     speaker: Juho Vepsäläinen
-    video: 'https://www.youtube.com/watch?v=sWzTtYKDCnE'
+    video: https://www.youtube.com/watch?v=sWzTtYKDCnE
     lang: en
   - name: Better Web Components with membranes
     speaker: Aleksey Shvaika
-    video: 'https://www.youtube.com/watch?v=TgFFsaETKrA'
+    video: https://www.youtube.com/watch?v=TgFFsaETKrA
     lang: en
   - name: QA session
     speaker: '?'
-    video: 'https://www.youtube.com/watch?v=HCQkJQg-deo'
+    video: https://www.youtube.com/watch?v=HCQkJQg-deo
     lang: en
   - name: Porting Web Application to Virtual Reality
     speaker: Денис Радин
-    video: 'https://www.youtube.com/watch?v=Fen3AS7SAPk'
+    video: https://www.youtube.com/watch?v=Fen3AS7SAPk
     lang: en
   - name: Next
     speaker: Андрей Листочкин
-    video: 'https://www.youtube.com/watch?v=Z37W65etPg4'
+    video: https://www.youtube.com/watch?v=Z37W65etPg4
     lang: en
   - name: Testing well. Stop shooting yourself in the foot.
     speaker: Max Onufriienko
-    video: 'https://www.youtube.com/watch?v=qNdHchzY-dQ'
+    video: https://www.youtube.com/watch?v=qNdHchzY-dQ
   - name: JS in IoT
     speaker: Eugene Nezhuta
-    video: 'https://www.youtube.com/watch?v=a2_keSbEgIM'
+    video: https://www.youtube.com/watch?v=a2_keSbEgIM
     lang: en
   - name: Exploring ML in javaScript world
     speaker: Ivan Lavriv
-    video: 'https://www.youtube.com/watch?v=4EFQDKtDAUY'
+    video: https://www.youtube.com/watch?v=4EFQDKtDAUY
     lang: en
   - name: How to build a desktop application in JS without using webview
     speaker: Viktor Turskyi
-    video: 'https://www.youtube.com/watch?v=Qfe93CMhtPI'
+    video: https://www.youtube.com/watch?v=Qfe93CMhtPI
 
