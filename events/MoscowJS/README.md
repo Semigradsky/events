@@ -54,13 +54,6 @@
 | [WebRTC-шная тема](https://www.youtube.com/watch?v=nqigzFbAYM0)  |  [Дмитрий Пацура](speakers&#x2F;Дмитрий%20Пацура.md)  | [:notebook:](https://cloud.mail.ru/public/8Cts/eLoH5k7i7)   |
 | [Погружение в SSR](https://www.youtube.com/watch?v=uB7Yz4nH8nc)  |  [Дмитрий Зачесов](speakers&#x2F;Дмитрий%20Зачесов.md)  | [:notebook:](https://cloud.mail.ru/public/LH9C/cAgdAzQp5)   |
 | [Немного о worker&#39;аx](https://www.youtube.com/watch?v=-9NavsFidOA)  |  [Полина Гуртовая](speakers&#x2F;Полина%20Гуртовая.md)  | [:notebook:](https://docs.google.com/presentation/d/1raeAATCefDfrcvPUXUnzjNcVJYcNYJVr3U6QxpFgu88/edit#slide=id.g296f635916_0_99)   |
-## MoscowJS 38 - 2017 Jul 27 
-| | | |
-| --- | :---: | --- |
-| [Фатальный недостаток Node.js](https://www.youtube.com/watch?v=GgeshciU68c&index=3&list=PL95OM-7UObpErucQAp6BhGIH1eMWu8VvR)  |  [Алексей Охрименко](speakers&#x2F;Алексей%20Охрименко.md)  | [:notebook:](https://cloud.mail.ru/public/KWDA/G7DxXmymJ)   |
-| [Фронтенд в большой компании. Как отмасштабировать и поддерживать инфраструктуру фронтенда на 30+ команд.](https://www.youtube.com/watch?v=2oxNG1uM11E&index=4&list=PL95OM-7UObpErucQAp6BhGIH1eMWu8VvR)  |  [Александр Китов](speakers&#x2F;Александр%20Китов.md)  | [:notebook:](https://cloud.mail.ru/public/DWYk/w8VWCDHVn)   |
-| [Как сделать Public API, которым будут пользоваться](https://www.youtube.com/watch?v=MB8kUojYljY&list=PL95OM-7UObpErucQAp6BhGIH1eMWu8VvR&index=1)  |  [Евгений Успенский](speakers&#x2F;Евгений%20Успенский.md)  | [:notebook:](https://cloud.mail.ru/public/MYgT/rUFNT3eoj)   |
-| [Обьектно ориентированный диабет](https://www.youtube.com/watch?v=9Cs2fhWfnBQ&list=PL95OM-7UObpErucQAp6BhGIH1eMWu8VvR&index=2)  |  [Александр Федотов](speakers&#x2F;Александр%20Федотов.md)  | [:notebook:](https://cloud.mail.ru/public/7GFJ/6KtGrcEpt)   |
 ## MoscowJS 37 - 2017 May 25 
 | | | |
 | --- | :---: | --- |
@@ -71,10 +64,10 @@
 ## MoscowJS 36 - 2017 Mar 30 
 | | | |
 | --- | :---: | --- |
-| [Бенчмарки, почему всё плохо и что делать](https://www.youtube.com/watch?v=tS6XHqRhpEQ&feature=youtu.be&t=1h56m34s)  |  [Михаил Бусырев](speakers&#x2F;Михаил%20Бусырев.md)  | [:notebook:](https://goo.gl/vSuDbB)   |
-| [PreJSS: универсальный адаптер CSS в JSS](https://www.youtube.com/watch?v=tS6XHqRhpEQ&feature=youtu.be&t=43m2s)  |  [Денис Измайлов](speakers&#x2F;Денис%20Измайлов.md)  | [:notebook:](https://drive.google.com/open?id=0BzyxUcwres7NeFptYWcxN1Z3QlE)   |
-| [Тестирование скриншотами: проблемы и решения](https://www.youtube.com/watch?v=tS6XHqRhpEQ&feature=youtu.be&t=26m58s)  |  [Александр Савин](speakers&#x2F;Александр%20Савин.md)  | [:notebook:](https://drive.google.com/open?id=0BzyxUcwres7NNTNORjlINU43RmM)   |
-| [Harry Potter and the unstable_renderSubtreeIntoContainer(). React, Popup-ы, боль, магия и боль.](https://www.youtube.com/watch?v=tS6XHqRhpEQ&feature=youtu.be&t=1h39m50s)  |  [Иван Лягушкин](speakers&#x2F;Иван%20Лягушкин.md)  | [:notebook:](https://goo.gl/1C5Pnx)   |
+| [Бенчмарки, почему всё плохо и что делать](https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=1h56m34s)  |  [Михаил Бусырев](speakers&#x2F;Михаил%20Бусырев.md)  | [:notebook:](https://goo.gl/vSuDbB)   |
+| [PreJSS: универсальный адаптер CSS в JSS](https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=43m2s)  |  [Денис Измайлов](speakers&#x2F;Денис%20Измайлов.md)  | [:notebook:](https://drive.google.com/open?id=0BzyxUcwres7NeFptYWcxN1Z3QlE)   |
+| [Тестирование скриншотами: проблемы и решения](https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=26m58s)  |  [Александр Савин](speakers&#x2F;Александр%20Савин.md)  | [:notebook:](https://drive.google.com/open?id=0BzyxUcwres7NNTNORjlINU43RmM)   |
+| [Harry Potter and the unstable_renderSubtreeIntoContainer(). React, Popup-ы, боль, магия и боль.](https://www.youtube.com/watch?v=tS6XHqRhpEQ&t=1h39m50s)  |  [Иван Лягушкин](speakers&#x2F;Иван%20Лягушкин.md)  | [:notebook:](https://goo.gl/1C5Pnx)   |
 ## MoscowJS 35 - 2017 Feb 16 
 | | | |
 | --- | :---: | --- |
@@ -104,20 +97,6 @@
 | [Регрессионное тестирование компонентов верстки](https://www.youtube.com/watch?v=aftKkyfjKK4)  |  [Кондратенко Павел](speakers&#x2F;Кондратенко%20Павел.md)  | [:notebook:](https://www.slideshare.net/secret/9RpH5AGPO6RQCV)   |
 | [Предсказуемый Viewport](https://www.youtube.com/watch?v=H2eivu0zJPk)  |  [Вопиловский Константин](speakers&#x2F;Вопиловский%20Константин.md)  | [:notebook:](https://www.slideshare.net/secret/day3Ckj7GbW1GQ)   |
 | [I promise - images will be loaded!](https://www.youtube.com/watch?v=tV1PpSIp4zk)  |  [Антон Корзунов](speakers&#x2F;Антон%20Корзунов.md)  | [:notebook:](https://www.slideshare.net/secret/cqOgAMwPfBJcPl)   |
-## MoscowJS 31 - 2016 Jun 30 
-| | | |
-| --- | :---: | --- |
-| [Контекст в React](https://www.youtube.com/watch?v=_H6r8MX4VaE&list=PL95OM-7UObpFUgBlfZWZbX0zABxjCfsPy&index=2)  |  [Николай Надоричев](speakers&#x2F;Николай%20Надоричев.md)  | [:notebook:](http://www.slideshare.net/moscowjs/react-moscowjs-31)   |
-| [Веб без интернет соединения](https://www.youtube.com/watch?v=QAVNsSAI6nk&list=PL95OM-7UObpFUgBlfZWZbX0zABxjCfsPy&index=1)  |  [Михаил Дунаев](speakers&#x2F;Михаил%20Дунаев.md)  | [:notebook:](http://www.slideshare.net/moscowjs/moscowjs-31)   |
-| [Верстка Canvas&#39;ом](https://www.youtube.com/watch?v=TxNfcvT9sAg&list=PL95OM-7UObpFUgBlfZWZbX0zABxjCfsPy&index=3)  |  [Алексей Охрименко](speakers&#x2F;Алексей%20Охрименко.md)  | [:notebook:](http://www.slideshare.net/moscowjs/canvas-moscowjs-31)   |
-| [Angular2: Куда пропал $apply()?](https://www.youtube.com/watch?v=AigevGx094M&index=4&list=PL95OM-7UObpFUgBlfZWZbX0zABxjCfsPy)  |  [Тимофей Яценко](speakers&#x2F;Тимофей%20Яценко.md)  | [:notebook:](http://www.slideshare.net/moscowjs/angular2-change-detection-moscowjs-31)   |
-## MoscowJS 30 - 2016 Apr 28 
-| | | |
-| --- | :---: | --- |
-| [Scala для супергеройского фронтенда](https://www.youtube.com/watch?v=EpEMHcHoftE&index=4&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV)  |  [Алексей Фомкин](speakers&#x2F;Алексей%20Фомкин.md)  | [:notebook:](http://slides.com/alekseyfomkin/mjs30-scala-superhero#/)   |
-| [Можно вообще всё. Раскладка по гриду](https://www.youtube.com/watch?v=xQn0G_bxNa4&index=3&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV)  |  [Вадим Макеев](speakers&#x2F;Вадим%20Макеев.md)  | [:notebook:](https://pepelsbey.net/pres/grid-layout/)   |
-| [Быстрее, выше, сильнее в современной архитектуре](https://www.youtube.com/watch?v=O4XESfDh35M&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=2)  |  [Егор Копылов](speakers&#x2F;Егор%20Копылов.md)  |    |
-| [Введение в GraphQL и Relay](https://www.youtube.com/watch?v=3Sl1Nf81dXY&list=PL95OM-7UObpEAW8WYztie2ImzZmyFvviV&index=1)  |  [Вячеслав Слинько](speakers&#x2F;Вячеслав%20Слинько.md)  |    |
 ## MoscowJS 29 - 2016 Mar 31 
 | | | |
 | --- | :---: | --- |

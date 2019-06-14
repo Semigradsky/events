@@ -105,11 +105,11 @@
 ## KyivJS 22 - Mar 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn)
 | | | |
 | --- | :---: | --- |
-| [Mrr: Make React Reactive](https://www.youtube.com/watch?v=9Mv83tUvbxk&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=2&t=0s) [uk] |  [Микола Олексієнко](speakers&#x2F;Микола%20Олексієнко.md)  | [:notebook:](http://bit.ly/2WzMzbH)   |
-| [Трогательный интерфейс](https://www.youtube.com/watch?v=9fg7yfUf9Kc&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=2)  |  [Алексей Распопов](speakers&#x2F;Алексей%20Распопов.md)  | [:notebook:](https://alexeyraspopov.github.io/touchy-things/)   |
-| [Animation in the Air](https://www.youtube.com/watch?v=Wqn_kmMpCGc&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=3) [uk] |  [Христина Ландвитович](speakers&#x2F;Христина%20Ландвитович.md)  | [:notebook:](https://slides.com/cristinalandvytovych/animation/#/)   |
-| [Code Ownership](https://www.youtube.com/watch?v=ICZsVKgbMe8&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=4)  |  [Станислав Слесарев](speakers&#x2F;Станислав%20Слесарев.md)  | [:notebook:](https://drive.google.com/file/d/1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL/view)   |
-| [Using WebStorm like a pro](https://www.youtube.com/watch?v=dxSQQufii3s&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=5)  |  [Максим Донченко](speakers&#x2F;Максим%20Донченко.md)  |    |
+| [Mrr: Make React Reactive](https://www.youtube.com/watch?v=9Mv83tUvbxk) [uk] |  [Микола Олексієнко](speakers&#x2F;Микола%20Олексієнко.md)  | [:notebook:](http://bit.ly/2WzMzbH)   |
+| [Трогательный интерфейс](https://www.youtube.com/watch?v=9fg7yfUf9Kc)  |  [Алексей Распопов](speakers&#x2F;Алексей%20Распопов.md)  | [:notebook:](https://alexeyraspopov.github.io/touchy-things/)   |
+| [Animation in the Air](https://www.youtube.com/watch?v=Wqn_kmMpCGc) [uk] |  [Христина Ландвитович](speakers&#x2F;Христина%20Ландвитович.md)  | [:notebook:](https://slides.com/cristinalandvytovych/animation/#/)   |
+| [Code Ownership](https://www.youtube.com/watch?v=ICZsVKgbMe8)  |  [Станислав Слесарев](speakers&#x2F;Станислав%20Слесарев.md)  | [:notebook:](https://drive.google.com/file/d/1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL/view)   |
+| [Using WebStorm like a pro](https://www.youtube.com/watch?v=dxSQQufii3s)  |  [Максим Донченко](speakers&#x2F;Максим%20Донченко.md)  |    |
 ## OdessaFrontend Meetup 11 - Mar 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0upGuy49QySeU-eMjfuzh2P)
 | | | |
 | --- | :---: | --- |
@@ -162,9 +162,9 @@
 ## ReactRussia 1 - Mar 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP)
 | | | |
 | --- | :---: | --- |
-| [Путь фронтенда одноклассников от истоков до наших дней](https://www.youtube.com/watch?v=hcboJotsTsA&list=PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&index=2&t=0s)  |  [Олег Коровин](speakers&#x2F;Олег%20Коровин.md)  | [:notebook:](https://djmadcow.github.io/react-russia-meetup-1/assets/player/KeynoteDHTMLPlayer.html)   |
-| [Под капотом React Hooks](https://www.youtube.com/watch?v=3Ku62Nh1mhk&list=PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&index=2)  |  [Дмитрий Злыгин](speakers&#x2F;Дмитрий%20Злыгин.md)  | [:notebook:](https://www.slideshare.net/secret/o7TqRRUdbdezGa)   |
-| [Компоненты для компонентов](https://www.youtube.com/watch?v=9fEBZfhoJd8&list=PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP&index=3)  |  [Елена Рашкован](speakers&#x2F;Елена%20Рашкован.md)  | [:notebook:](https://github.com/alatielle/react-russia-meetup-talk)   |
+| [Путь фронтенда одноклассников от истоков до наших дней](https://www.youtube.com/watch?v=hcboJotsTsA)  |  [Олег Коровин](speakers&#x2F;Олег%20Коровин.md)  | [:notebook:](https://djmadcow.github.io/react-russia-meetup-1/assets/player/KeynoteDHTMLPlayer.html)   |
+| [Под капотом React Hooks](https://www.youtube.com/watch?v=3Ku62Nh1mhk)  |  [Дмитрий Злыгин](speakers&#x2F;Дмитрий%20Злыгин.md)  | [:notebook:](https://www.slideshare.net/secret/o7TqRRUdbdezGa)   |
+| [Компоненты для компонентов](https://www.youtube.com/watch?v=9fEBZfhoJd8)  |  [Елена Рашкован](speakers&#x2F;Елена%20Рашкован.md)  | [:notebook:](https://github.com/alatielle/react-russia-meetup-talk)   |
 ## Krasnodar Frontend: Meetup 5 - Mar 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL1irPRp3Ng9a5dRaUeNivRZqOnN9chZ5K)
 | | | |
 | --- | :---: | --- |

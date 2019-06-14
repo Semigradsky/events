@@ -45,7 +45,7 @@
 | [Фантастический WebAudio и где его искать](https://www.youtube.com/watch?v=EXX5HmD_5lU)  |  [Максим Сырых](speakers&#x2F;Максим%20Сырых.md)  | [:notebook:](https://slogger.github.io/webaudio-uraljs/)   |
 | [Трудности перехода](https://www.youtube.com/watch?v=O-GBvIrKEA0)  |  [Вячеслав Бухарин](speakers&#x2F;Вячеслав%20Бухарин.md)  [Денис Омельков](speakers&#x2F;Денис%20Омельков.md)  | [:notebook:](http://slides.com/denisomelkov/deck/)   |
 | [Как перестать бояться и использовать Vue.js](https://www.youtube.com/watch?v=r45EorOK7MA)  |  [Владислав Килин](speakers&#x2F;Владислав%20Килин.md)  | [:notebook:](https://drive.google.com/file/d/0B5Ws8A4Wj25DZUFad2ZFUHV4RWM/view?usp=sharing)   |
-| [Открытый микрофон](https://www.youtube.com/watch?v=0JOsoNzi6KY&list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1&index=4)  |  [?](speakers&#x2F;?.md)  |    |
+| [Открытый микрофон](https://www.youtube.com/watch?v=0JOsoNzi6KY)  |  [?](speakers&#x2F;?.md)  |    |
 ## UralJS 2 - 2017 Feb 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLVxsRDo37_ZfqxewKTTSYwpeUarJMmIql)
 | | | |
 | --- | :---: | --- |

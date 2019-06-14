@@ -20,12 +20,6 @@
 | [Чему нас могут научить ошибки космической индустрии](https://youtu.be/olDoZ5SS_uo?t=3m42s)  |  [Андрей Ситник](speakers&#x2F;Андрей%20Ситник.md)  | [:notebook:](http://amp.gs/xDxX)   |
 | [Как я ускорял загрузку видео в ok.ru](https://www.youtube.com/watch?v=vmSsEmwh9k4&index=3&list=PLI6q7lZ9ClB2M54XrhyzSTGkTyw5NB4dS&t=0s)  |  [Дмитрий Долженко](speakers&#x2F;Дмитрий%20Долженко.md)  | [:notebook:](http://amp.gs/xDCV)   |
 | [Jenkins на службе фронтенд разработки](https://www.youtube.com/watch?v=DA_R8mIaRJg&index=4&list=PLI6q7lZ9ClB2M54XrhyzSTGkTyw5NB4dS&t=0s)  |  [Илья Кашлаков](speakers&#x2F;Илья%20Кашлаков.md)  | [:notebook:](http://amp.gs/xDvx)   |
-## SPB Frontend - 2017 Nov 15 
-| | | |
-| --- | :---: | --- |
-| [Аудит доступности сайта на скорую руку](https://www.youtube.com/watch?v=OYs5H0t_ryA&index=2&list=PLI6q7lZ9ClB04S_R4zmqoBkv_jA_HQal_&t=0s)  |  [Алёна Батицкая](speakers&#x2F;Алёна%20Батицкая.md)  | [:notebook:](http://amp.gs/B2s5)   |
-| [Иван Тулуп: асинхронщина в js под капотом](https://www.youtube.com/watch?v=OkTh8dF9ic8&index=3&list=PLI6q7lZ9ClB04S_R4zmqoBkv_jA_HQal_&t=0s)  |  [Михаил Башуров](speakers&#x2F;Михаил%20Башуров.md)  | [:notebook:](http://amp.gs/B20N)   |
-| [Интеграция автотестов в процесс разработки](https://www.youtube.com/watch?v=zeXNOPZas7Y&index=4&list=PLI6q7lZ9ClB04S_R4zmqoBkv_jA_HQal_&t=0s)  |  [Александр Казаченко](speakers&#x2F;Александр%20Казаченко.md)  | [:notebook:](https://goo.gl/efbY7z)   |
 ## SPB Frontend - 2017 Oct 08 
 | | | |
 | --- | :---: | --- |

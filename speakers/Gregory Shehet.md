@@ -9,4 +9,4 @@
 ## CSS in JS Benchmarks
 - 2017 Apr 27 -- [KyivJS 11](https://www.youtube.com/watch?v=m9k2Kkg82do)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpeGNpYUhaVjRfNzQ/view)  
 ## Styling React App or CSS in JS
-- 2017 Feb 11 -- [KyivJS 9](https://www.youtube.com/watch?v=qqWHPEkfmrc&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=3) [en] | [:notebook:](https://drive.google.com/file/d/0B65dEGRmB3ViWmZJem9DQi1BblE/view)  
+- 2017 Feb 11 -- [KyivJS 9](https://www.youtube.com/watch?v=qqWHPEkfmrc) [en] | [:notebook:](https://drive.google.com/file/d/0B65dEGRmB3ViWmZJem9DQi1BblE/view)  

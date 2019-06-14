@@ -3,11 +3,11 @@
 ## KyivJS 22 - 2019 Mar 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn)
 | | | |
 | --- | :---: | --- |
-| [Mrr: Make React Reactive](https://www.youtube.com/watch?v=9Mv83tUvbxk&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=2&t=0s) [uk] |  [Микола Олексієнко](speakers&#x2F;Микола%20Олексієнко.md)  | [:notebook:](http://bit.ly/2WzMzbH)   |
-| [Трогательный интерфейс](https://www.youtube.com/watch?v=9fg7yfUf9Kc&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=2)  |  [Алексей Распопов](speakers&#x2F;Алексей%20Распопов.md)  | [:notebook:](https://alexeyraspopov.github.io/touchy-things/)   |
-| [Animation in the Air](https://www.youtube.com/watch?v=Wqn_kmMpCGc&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=3) [uk] |  [Христина Ландвитович](speakers&#x2F;Христина%20Ландвитович.md)  | [:notebook:](https://slides.com/cristinalandvytovych/animation/#/)   |
-| [Code Ownership](https://www.youtube.com/watch?v=ICZsVKgbMe8&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=4)  |  [Станислав Слесарев](speakers&#x2F;Станислав%20Слесарев.md)  | [:notebook:](https://drive.google.com/file/d/1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL/view)   |
-| [Using WebStorm like a pro](https://www.youtube.com/watch?v=dxSQQufii3s&list=PLxw9RJPDS60rZDoo9WrTddVtkKVhaxMDn&index=5)  |  [Максим Донченко](speakers&#x2F;Максим%20Донченко.md)  |    |
+| [Mrr: Make React Reactive](https://www.youtube.com/watch?v=9Mv83tUvbxk) [uk] |  [Микола Олексієнко](speakers&#x2F;Микола%20Олексієнко.md)  | [:notebook:](http://bit.ly/2WzMzbH)   |
+| [Трогательный интерфейс](https://www.youtube.com/watch?v=9fg7yfUf9Kc)  |  [Алексей Распопов](speakers&#x2F;Алексей%20Распопов.md)  | [:notebook:](https://alexeyraspopov.github.io/touchy-things/)   |
+| [Animation in the Air](https://www.youtube.com/watch?v=Wqn_kmMpCGc) [uk] |  [Христина Ландвитович](speakers&#x2F;Христина%20Ландвитович.md)  | [:notebook:](https://slides.com/cristinalandvytovych/animation/#/)   |
+| [Code Ownership](https://www.youtube.com/watch?v=ICZsVKgbMe8)  |  [Станислав Слесарев](speakers&#x2F;Станислав%20Слесарев.md)  | [:notebook:](https://drive.google.com/file/d/1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL/view)   |
+| [Using WebStorm like a pro](https://www.youtube.com/watch?v=dxSQQufii3s)  |  [Максим Донченко](speakers&#x2F;Максим%20Донченко.md)  |    |
 ## KyivJS 21 - 2019 Feb 07 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60riQwoR-WpcUuSqRVeGeSny)
 | | | |
 | --- | :---: | --- |
@@ -38,10 +38,10 @@
 ## KyivJS 16 - 2017 Nov 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60of87ljedKgwU5NyeM-nlpB)
 | | | |
 | --- | :---: | --- |
-| [WebAssembly Overview](https://www.youtube.com/watch?v=ORi-6-KXUHQ&list=PLxw9RJPDS60of87ljedKgwU5NyeM-nlpB&index=2&t=0s)  |  [Oleksandr Skachkov](speakers&#x2F;Oleksandr%20Skachkov.md)  | [:notebook:](https://docs.google.com/presentation/d/1b9UwylxPZ_91kjPYZUpeNWF3p9XDOtV-AXOcufbI75E/edit)   |
-| [Garbage collection in V8 VM](https://www.youtube.com/watch?v=t4NXCZWdfkI&list=PLxw9RJPDS60of87ljedKgwU5NyeM-nlpB&index=3&t=0s)  |  [Oleksandr Syrotenko](speakers&#x2F;Oleksandr%20Syrotenko.md)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpMkR0UlE4OGNMd1FNV3hOSnZrUTZneWxEa0NN/view)   |
-| [Как создать стартап, который взлетит](https://www.youtube.com/watch?v=JSqUYuIOHE8&list=PLxw9RJPDS60of87ljedKgwU5NyeM-nlpB&index=3)  |  [Anatoly Malinovsky](speakers&#x2F;Anatoly%20Malinovsky.md)  | [:notebook:](https://drive.google.com/file/d/1JyFWNT612iFJn3guBDHmsSs3FUFy5nca/view)   |
-| [Common Lisp: 10 Things I Didn&#39;t Know About](https://www.youtube.com/watch?v=3WzDXf135N8&list=PLxw9RJPDS60of87ljedKgwU5NyeM-nlpB&index=4)  |  [Александр Лапшин](speakers&#x2F;Александр%20Лапшин.md)  | [:notebook:](http://sudodoki.github.io/slides/lisp-%E2%9A%A1%EF%B8%8F/#/)   |
+| [WebAssembly Overview](https://www.youtube.com/watch?v=ORi-6-KXUHQ)  |  [Oleksandr Skachkov](speakers&#x2F;Oleksandr%20Skachkov.md)  | [:notebook:](https://docs.google.com/presentation/d/1b9UwylxPZ_91kjPYZUpeNWF3p9XDOtV-AXOcufbI75E/edit)   |
+| [Garbage collection in V8 VM](https://www.youtube.com/watch?v=t4NXCZWdfkI)  |  [Oleksandr Syrotenko](speakers&#x2F;Oleksandr%20Syrotenko.md)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpMkR0UlE4OGNMd1FNV3hOSnZrUTZneWxEa0NN/view)   |
+| [Как создать стартап, который взлетит](https://www.youtube.com/watch?v=JSqUYuIOHE8)  |  [Anatoly Malinovsky](speakers&#x2F;Anatoly%20Malinovsky.md)  | [:notebook:](https://drive.google.com/file/d/1JyFWNT612iFJn3guBDHmsSs3FUFy5nca/view)   |
+| [Common Lisp: 10 Things I Didn&#39;t Know About](https://www.youtube.com/watch?v=3WzDXf135N8)  |  [Александр Лапшин](speakers&#x2F;Александр%20Лапшин.md)  | [:notebook:](http://sudodoki.github.io/slides/lisp-%E2%9A%A1%EF%B8%8F/#/)   |
 ## KyivJS 15 - 2017 Oct 12 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rv-5FtJxNic)
 | | | |
 | --- | :---: | --- |
@@ -93,15 +93,15 @@
 ## KyivJS 9 - 2017 Feb 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe)
 | | | |
 | --- | :---: | --- |
-| [TurboFan: yet another optimization engine](https://www.youtube.com/watch?v=VUyqHzF1yXM&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=2&t=637s) [en] |  [Илья Климов](speakers&#x2F;Илья%20Климов.md)  | [:notebook:](https://docs.google.com/presentation/d/1uO_tx78nEG5Q7wh2MIfzLo5KjjEgBs_RMmSL9UQQQgI/edit)   |
-| [Why I love Create React App](https://www.youtube.com/watch?v=7BH9ZSld0B0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=2)  |  [Валерий Сорокобатько](speakers&#x2F;Валерий%20Сорокобатько.md)  | [:notebook:](https://www.icloud.com/keynote/0Y-YSxs_21K-F3zftvVdU0oUw#Why_I_Love_Create_React_App)   |
-| [Styling React App or CSS in JS](https://www.youtube.com/watch?v=qqWHPEkfmrc&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=3) [en] |  [Gregory Shehet](speakers&#x2F;Gregory%20Shehet.md)  | [:notebook:](https://drive.google.com/file/d/0B65dEGRmB3ViWmZJem9DQi1BblE/view)   |
-| [Dude, where are my logs?](https://www.youtube.com/watch?v=g14rXXDn8kk&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=4) [en] |  [Андрей Шумада](speakers&#x2F;Андрей%20Шумада.md)  | [:notebook:](https://docs.google.com/presentation/d/1mxZUZZe2Yo5WHGKWGOsGXUsTkX4EAiTdW-4e0bvbt-s/edit)   |
-| [Adopting React.children](https://www.youtube.com/watch?v=4-U2sEMPMR0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=5) [en] |  [Stas Gavrylov](speakers&#x2F;Stas%20Gavrylov.md)  | [:notebook:](http://slides.com/stasgavrylov/deck/fullscreen#/)   |
-| [WAMP](https://www.youtube.com/watch?v=4-U2sEMPMR0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=5)  |  [Юрий Ткаченко](speakers&#x2F;Юрий%20Ткаченко.md)  | [:notebook:](https://github.com/tyv/wamp-lightning-talk)   |
-| [React Coroutine](https://www.youtube.com/watch?v=4-U2sEMPMR0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=5)  |  [Алексей Распопов](speakers&#x2F;Алексей%20Распопов.md)  | [:notebook:](https://react-coroutine.js.org/)   |
+| [TurboFan: yet another optimization engine](https://www.youtube.com/watch?v=VUyqHzF1yXM) [en] |  [Илья Климов](speakers&#x2F;Илья%20Климов.md)  | [:notebook:](https://docs.google.com/presentation/d/1uO_tx78nEG5Q7wh2MIfzLo5KjjEgBs_RMmSL9UQQQgI/edit)   |
+| [Why I love Create React App](https://www.youtube.com/watch?v=7BH9ZSld0B0)  |  [Валерий Сорокобатько](speakers&#x2F;Валерий%20Сорокобатько.md)  | [:notebook:](https://www.icloud.com/keynote/0Y-YSxs_21K-F3zftvVdU0oUw#Why_I_Love_Create_React_App)   |
+| [Styling React App or CSS in JS](https://www.youtube.com/watch?v=qqWHPEkfmrc) [en] |  [Gregory Shehet](speakers&#x2F;Gregory%20Shehet.md)  | [:notebook:](https://drive.google.com/file/d/0B65dEGRmB3ViWmZJem9DQi1BblE/view)   |
+| [Dude, where are my logs?](https://www.youtube.com/watch?v=g14rXXDn8kk) [en] |  [Андрей Шумада](speakers&#x2F;Андрей%20Шумада.md)  | [:notebook:](https://docs.google.com/presentation/d/1mxZUZZe2Yo5WHGKWGOsGXUsTkX4EAiTdW-4e0bvbt-s/edit)   |
+| [Adopting React.children](https://www.youtube.com/watch?v=4-U2sEMPMR0) [en] |  [Stas Gavrylov](speakers&#x2F;Stas%20Gavrylov.md)  | [:notebook:](http://slides.com/stasgavrylov/deck/fullscreen#/)   |
+| [WAMP](https://www.youtube.com/watch?v=4-U2sEMPMR0)  |  [Юрий Ткаченко](speakers&#x2F;Юрий%20Ткаченко.md)  | [:notebook:](https://github.com/tyv/wamp-lightning-talk)   |
+| [React Coroutine](https://www.youtube.com/watch?v=4-U2sEMPMR0)  |  [Алексей Распопов](speakers&#x2F;Алексей%20Распопов.md)  | [:notebook:](https://react-coroutine.js.org/)   |
 | [Telegram Bots](https://www.slideshare.net/viattik/telegram-bots-72033250)  |  [Andrei Serkov](speakers&#x2F;Andrei%20Serkov.md)  |    |
-| [No Title](https://www.youtube.com/watch?v=4-U2sEMPMR0&list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe&index=5)  |  [Krill Yakovenko](speakers&#x2F;Krill%20Yakovenko.md)  | [:notebook:](https://drive.google.com/file/d/0B65dEGRmB3ViZXAzaWxRdjZwcnc/view)   |
+| [No Title](https://www.youtube.com/watch?v=4-U2sEMPMR0)  |  [Krill Yakovenko](speakers&#x2F;Krill%20Yakovenko.md)  | [:notebook:](https://drive.google.com/file/d/0B65dEGRmB3ViZXAzaWxRdjZwcnc/view)   |
 ## KyivJS 8 - 2017 Jan 21 
 | | | |
 | --- | :---: | --- |
