@@ -18,8 +18,14 @@
 | | | |
 | --- | :---: | --- |
 | [Чему нас могут научить ошибки космической индустрии](https://youtu.be/olDoZ5SS_uo?t=3m42s)  |  [Андрей Ситник](speakers&#x2F;Андрей%20Ситник.md)  | [:notebook:](http://amp.gs/xDxX)   |
-| [Как я ускорял загрузку видео в ok.ru](https://www.youtube.com/watch?v=vmSsEmwh9k4&index=3&list=PLI6q7lZ9ClB2M54XrhyzSTGkTyw5NB4dS&t=0s)  |  [Дмитрий Долженко](speakers&#x2F;Дмитрий%20Долженко.md)  | [:notebook:](http://amp.gs/xDCV)   |
-| [Jenkins на службе фронтенд разработки](https://www.youtube.com/watch?v=DA_R8mIaRJg&index=4&list=PLI6q7lZ9ClB2M54XrhyzSTGkTyw5NB4dS&t=0s)  |  [Илья Кашлаков](speakers&#x2F;Илья%20Кашлаков.md)  | [:notebook:](http://amp.gs/xDvx)   |
+| [Как я ускорял загрузку видео в ok.ru](https://www.youtube.com/watch?v=vmSsEmwh9k4)  |  [Дмитрий Долженко](speakers&#x2F;Дмитрий%20Долженко.md)  | [:notebook:](http://amp.gs/xDCV)   |
+| [Jenkins на службе фронтенд разработки](https://www.youtube.com/watch?v=DA_R8mIaRJg)  |  [Илья Кашлаков](speakers&#x2F;Илья%20Кашлаков.md)  | [:notebook:](http://amp.gs/xDvx)   |
+## SPB Frontend - 2017 Nov 15 
+| | | |
+| --- | :---: | --- |
+| [Аудит доступности сайта на скорую руку](https://www.youtube.com/watch?v=OYs5H0t_ryA)  |  [Алёна Батицкая](speakers&#x2F;Алёна%20Батицкая.md)  | [:notebook:](http://amp.gs/B2s5)   |
+| [Иван Тулуп: асинхронщина в js под капотом](https://www.youtube.com/watch?v=OkTh8dF9ic8)  |  [Михаил Башуров](speakers&#x2F;Михаил%20Башуров.md)  | [:notebook:](http://amp.gs/B20N)   |
+| [Интеграция автотестов в процесс разработки](https://www.youtube.com/watch?v=zeXNOPZas7Y)  |  [Александр Казаченко](speakers&#x2F;Александр%20Казаченко.md)  | [:notebook:](https://goo.gl/efbY7z)   |
 ## SPB Frontend - 2017 Oct 08 
 | | | |
 | --- | :---: | --- |
@@ -87,7 +93,7 @@
 | | | |
 | --- | :---: | --- |
 | [Responsive Design и Workspace в Google Chrome Developer tools.](https://youtu.be/C2x8f8xPKFY?t=6s)  |  [Андрей Лушников](speakers&#x2F;Андрей%20Лушников.md)  |    |
-| [Dependency Injection в браузере.](https://www.youtube.com/watch?v=OeaNkx6Rlwc&index=5&list=PLI6q7lZ9ClB2CUXSYvYuT9S_EkDCfwdE3&t=0s)  |  [Вячеслав Шебанов](speakers&#x2F;Вячеслав%20Шебанов.md)  |    |
+| [Dependency Injection в браузере.](https://www.youtube.com/watch?v=OeaNkx6Rlwc)  |  [Вячеслав Шебанов](speakers&#x2F;Вячеслав%20Шебанов.md)  |    |
 ## SPB Frontend - 2014 Sep 01 
 | | | |
 | --- | :---: | --- |

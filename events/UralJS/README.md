@@ -57,4 +57,4 @@
 | --- | :---: | --- |
 | [Firebase. Back-end не нужен!](https://www.youtube.com/watch?v=tVO_kdKMufo)  |  [Павел Егоров](speakers&#x2F;Павел%20Егоров.md)  |  [:octocat:](https://github.com/xoposhiy/firebase-course)  |
 | [Observable в JavaScript?](https://www.youtube.com/watch?v=-Nx7EdE6qaI)  |  [Теймураз Хазамов](speakers&#x2F;Теймураз%20Хазамов.md)  | [:notebook:](http://slides.com/t1mmaas/observable/)   |
-| [Тестирование реакт-компонент с enzyme](https://www.youtube.com/watch?v=w1AGie9yHsg&list=PLVxsRDo37_Zc42OJkyeKzqxR6gda70B0C&index=3)  |  [Евгений Тихонов](speakers&#x2F;Евгений%20Тихонов.md)  | [:notebook:](https://yadi.sk/d/NaFX7Fg8342VT9)   |
+| [Тестирование реакт-компонент с enzyme](https://www.youtube.com/watch?v=w1AGie9yHsg)  |  [Евгений Тихонов](speakers&#x2F;Евгений%20Тихонов.md)  | [:notebook:](https://yadi.sk/d/NaFX7Fg8342VT9)   |
