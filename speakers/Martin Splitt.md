@@ -14,9 +14,9 @@
 - 2016 Jul 30 -- [VinnytsiaJS 2016](https://www.youtube.com/watch?v=wQuG094IdEw) [en]   
 ## WTF — WebGL The Fundamentals
 - 2016 Jul 30 -- [VinnytsiaJS 2016](https://www.youtube.com/watch?v=C79DDrEIpys) [en]   
+## Rendering performance inside out
+- 2017 Sep 16-17 -- [FrontTalks](https://events.yandex.ru/lib/talks/4847/)    
 ## WARPSPEED: High performance tricks: Web Workers, GPU computing and Web Assembly
 - 2017 Feb 18-19 -- [RS Conf 2017](https://www.youtube.com/watch?v=1_lX28QWCdg) [en]   
 ## Making PWAs with Polymer [WORKSHOP]
 - 2017 Feb 18-19 -- [RS Conf 2017](https://www.youtube.com/watch?v=PPnmdIaP4jA) [en]   
-## Rendering performance inside out
-- 2017 Sep 16-17 -- [FrontTalks](https://events.yandex.ru/lib/talks/4847/)    
