@@ -1,0 +1,22 @@
+name: TomskJS 2
+date: 2017-03-18
+videos: ''
+talks:
+  - name: Введение в Cycle.js
+    speaker: Максим Самойлов
+    video:
+    presentation:
+  - name: Обучение фронтенду, взгляд со стороны работодателя
+    speaker: Сергей Черепанов
+    video:
+    presentation:
+  - name: Как мы пришли к TypeScript
+    speaker: Никита Размахнин
+    video:
+    presentation:
+    tags:
+      - TypeScript
+  - name: Как я писал свой "React" и почему это не надо делать
+    speaker: Сергей Андреев
+    video:
+    presentation:

@@ -1,0 +1,16 @@
+name: Tomsk Frontend 5
+date: 2016-02-13
+videos: ''
+talks:
+  - name: "webpack: вам не нужен таск-ранер"
+    speaker: Сергей Андреев
+    video:
+    presentation:
+  - name: На чем стоит Вавилон
+    speaker: Максим Самойлов
+    video:
+    presentation:
+  - name: Разработка приложений для Smart TV
+    speaker: Андрей Мотошин
+    video:
+    presentation:

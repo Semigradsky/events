@@ -1,0 +1,18 @@
+name: Tomsk Frontend 1
+date: 2015-08-15
+videos: ''
+talks:
+  - name: Генерация HTML на стороне сервера
+    speaker: Артём Бахарев
+    video: https://www.youtube.com/watch?v=9BIyxcRYXig
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.08.15-gcc-es6-isomorphic-js/isomorphic/isomorphic.pdf
+    code: https://github.com/mrThomasTeller/fonts-app
+  - name: ES 2015 Сегодня
+    speaker: Давид Классен
+    video: http://www.youtube.com/watch?v=8tTGm9jKd18
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.08.15-gcc-es6-isomorphic-js/ecmascript-2015/ecmascript-2015.pdf
+    code: https://github.com/DavidKlassen/es6-browser-boilerplate
+  - name: Мы не умеем писать большие приложения на JS
+    speaker: Вячеслав Зайцев
+    video: http://www.youtube.com/watch?v=aPtFLRtSbN0
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.08.15-gcc-es6-isomorphic-js/typed-js.pdf

@@ -1,0 +1,12 @@
+name: Tomsk Frontend 2
+date: 2015-09-12
+videos: ''
+talks:
+  - name: Идеальные списки
+    speaker: Андрей Мотошин
+    video: http://www.youtube.com/watch?v=KAzYXQZ0dQQ
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/tree/master/2015.09.12-perfect-lists-web-audio/perfect-lists
+  - name: Web Audio API
+    speaker: Алексей Краснопёров
+    video: http://www.youtube.com/watch?v=SBknDNFRjXg
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.09.12-perfect-lists-web-audio/Web%20Audio%20API.pdf

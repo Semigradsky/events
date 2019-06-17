@@ -1,0 +1,16 @@
+name: Tomsk Frontend 4
+date: 2015-12-20
+videos: ''
+talks:
+  - name: Promises — всё, я обещаю
+    speaker: Алексей Красноперов
+    video: http://www.youtube.com/watch?v=P57RJvs8lbk
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.12.20-promise-bem-npm/promises.pdf
+  - name: Как мы дошли до БЭМ
+    speaker: Сергей Андреев
+    video: http://www.youtube.com/watch?v=8VrDLTxn6YM
+    presentation: http://slides.com/sergeyandreev/bem/
+  - name: NPM в подробностях
+    speaker: Вячеслав Зайцев
+    video: http://www.youtube.com/watch?v=hs_J31yaFkM
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.12.20-promise-bem-npm/npm.pdf

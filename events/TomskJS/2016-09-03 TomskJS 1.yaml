@@ -1,0 +1,24 @@
+name: TomskJS 1
+date: 2016-09-03
+videos: https://www.youtube.com/playlist?list=PLg6-SX1kjGJIfir5ZrghMBG-hicHIJKJR
+talks:
+  - name: Надежные React-компоненты
+    speaker: Никита Размахнин
+    video: https://www.youtube.com/watch?v=_aw-JbOlWZY
+    presentation: http://slides.com/julya_key09/deck-1
+  - name: Универсальный javascript
+    speaker: Сергей Черепанов
+    video: https://www.youtube.com/watch?v=Y5RV5Ys0-00
+    presentation: http://slides.com/julya_key09/deck#/
+  - name: Не JS во фронтенде
+    speaker: Максим Самойлов
+    video: https://www.youtube.com/watch?v=055iMp4zhmM
+    presentation: https://www.slideshare.net/Nitive/js-65667405
+  - name: Веб-компоненты в веб-разработке на примере Polymer
+    speaker: Артур Дробинский
+    video: https://www.youtube.com/watch?v=NwR4zgnAk-8
+    presentation: https://www.slideshare.net/DragorWW/polymer-66124932
+  - name: How to stop chasing technology or 7 deadly sins of Front-end
+    speaker: Сергей Андреев
+    video: https://www.youtube.com/watch?v=wxoBi5hGQUM
+    presentation: http://slides.com/sergeyandreev/7-deadly-sins-of-front-end#/

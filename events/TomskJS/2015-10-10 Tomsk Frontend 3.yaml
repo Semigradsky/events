@@ -1,0 +1,17 @@
+name: Tomsk Frontend 3
+date: 2015-10-10
+videos: ''
+talks:
+  - name: Webpack — новая жизнь Angular приложения
+    speaker: Василий Малыхин
+    video: http://www.youtube.com/watch?v=x9j_9weuDjU
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.10.10-webpack-docker-webrtc/angular-webpack.pdf
+  - name: Docker
+    speaker: Евгений Бахтин
+    video: http://www.youtube.com/watch?v=424xarM4lWE
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.10.10-webpack-docker-webrtc/docker.pdf
+  - name: "WebRTC: коммуникации в реальном времени"
+    speaker: Давид Классен
+    video: http://www.youtube.com/watch?v=zV5BmtS0okU
+    presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.10.10-webpack-docker-webrtc/web-rtc.pdf
+    code: https://github.com/DavidKlassen/webrtc-demos
