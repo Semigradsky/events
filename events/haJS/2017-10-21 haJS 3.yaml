@@ -1,0 +1,28 @@
+name: haJS 3
+date: 2017-10-21
+videos: ''
+talks:
+  - name: Тесты без боли
+    speaker: Валентин Игнатьев
+    video:
+    presentation: https://hajs.ru/pres/2017-10-21/tets-without-paine.pdf
+  - name: Типы компонентов в React
+    speaker: Илья Евсеев
+    video:
+    presentation: https://hajs.ru/pres/2017-10-21/react-components.pdf
+  - name: Почему vue.js
+    speaker: Владимир Курдюков
+    video:
+    presentation: https://hajs.ru/pres/2017-10-21/why-vue-js.pdf
+  - name: Боты для Telegram
+    speaker: Сергей Голяшов
+    video:
+    presentation: https://hajs.ru/pres/2017-10-21/telegram-bots.pdf
+  - name: Шаблонизаторы PHP
+    speaker: Александр Костюк
+    video:
+    presentation: https://hajs.ru/pres/2017-10-21/templates_engines.pdf
+  - name: JavaScript фреймворки. Когда, зачем, какой
+    speaker: Игорь Антонов
+    video:
+    presentation: https://hajs.ru/pres/2017-10-21/frameworks.pdf#hajs

@@ -1,0 +1,28 @@
+name: haJS 5
+date: 2018-05-05
+videos: ''
+talks:
+  - name: Убить препроцессоры. Часть 1
+    speaker: Валентина Видяева
+    video:
+    presentation:
+  - name: GraphQL. Новый взгляд на разработку клиент-серверных приложений
+    speaker: Геворг Арутюнян
+    video:
+    presentation:
+  - name: Kotlin для фронтенд-разработчика
+    speaker: Петр Курняков
+    video:
+    presentation:
+  - name: Angular, удаленная работы
+    speaker: Павел Макуха
+    video:
+    presentation:
+  - name: Как создавался haJS
+    speaker: Игорь Антонов, Денис Ткаченко
+    video:
+    presentation:
+  - name: Микросервисы на минималках
+    speaker: Егор Трутенко
+    video:
+    presentation:

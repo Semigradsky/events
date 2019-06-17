@@ -1,0 +1,28 @@
+name: haJS 4
+date: 2018-02-03
+videos: https://www.youtube.com/watch?v=X4YAbtBrPvM
+talks:
+  - name: "Методы построения сеток: от ужасного к прекрасному"
+    speaker: Валентина Видяева
+    video: https://www.youtube.com/watch?v=X4YAbtBrPvM&t=27s
+    presentation: https://hajs.ru/pres/2018-02-03/all-about-grid.pdf
+  - name: Контейнеризация. SOLID
+    speaker: Валерий Захаров
+    video: https://www.youtube.com/watch?v=X4YAbtBrPvM&t=1066s
+    presentation: https://hajs.ru/pres/2018-02-03/docker-and-solid.pdf
+  - name: Если вы решили стать фронтендером в 2018 году
+    speaker: Роман Вишневский
+    video: https://www.youtube.com/watch?v=X4YAbtBrPvM&t=3576s
+    presentation: https://hajs.ru/pres/2018-02-03/go-to-front-2018.pdf
+  - name: Фундамент для современного web-приложения
+    speaker: Игорь Антонов
+    video: https://www.youtube.com/watch?v=X4YAbtBrPvM&t=4972s
+    presentation: https://hajs.ru/pres/2018-02-03/how-to-do-it-now.pdf
+  - name: Хайпанем немножечко
+    speaker: Илья Евсеев
+    video: https://www.youtube.com/watch?v=X4YAbtBrPvM&t=6528s
+    presentation: https://hajs.ru/pres/2018-02-03/it-in-khv.pdf
+  - name: Современная веб-студия
+    speaker: Светлана Важнина
+    video: https://www.youtube.com/watch?v=X4YAbtBrPvM&t=8483s
+    presentation:

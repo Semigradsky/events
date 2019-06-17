@@ -1,0 +1,17 @@
+name: haJS 6
+date: 2018-10-27
+videos: ''
+talks:
+  - name: Не будь программистом ковбоем
+    speaker: Александр Горбач
+    video:
+    presentation:
+  - name: CSS, которого у вас нет
+    speaker: Валентина Видяева
+    video: https://www.youtube.com/watch?v=trtdbz2eDZU
+    presentation:
+  - name: Тянем резину
+    speaker: Борис Черепанов
+    video: https://www.youtube.com/watch?v=5kXW0uwJh4Q
+    presentation:
+    code: https://github.com/xakplant/stickjaw

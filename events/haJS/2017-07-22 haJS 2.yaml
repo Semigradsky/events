@@ -1,0 +1,28 @@
+name: haJS 2
+date: 2017-07-22
+videos: ''
+talks:
+  - name: "Docker - это хорошо"
+    speaker: Егор Абоймов
+    video:
+    presentation: https://vk.com/doc90577478_447963907
+  - name: Hardcore function programming
+    speaker: Андрей Волобуев
+    video:
+    presentation: https://vk.com/doc90577478_448007007
+  - name: Все JS. Очерк о том как я Java забыл
+    speaker: Александр Горбач
+    video:
+    presentation: https://vk.com/doc90577478_447963897
+  - name: OpenstreeMap на практике
+    speaker: Сергей Голяшов
+    video:
+    presentation: https://vk.com/doc90577478_447942874
+  - name: JavaScript Data Grid - боль ентрапрайза
+    speaker: Денис Ткаченко
+    video:
+    presentation: https://vk.com/doc90577478_447942914
+  - name: Non-blocking code review
+    speaker: Валентин Игнатьев
+    video:
+    presentation: https://vk.com/doc90577478_447963895

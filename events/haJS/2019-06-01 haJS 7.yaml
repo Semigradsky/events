@@ -1,0 +1,20 @@
+name: haJS 7
+date: 2019-06-01
+videos: ''
+talks:
+  - name: Превозмогая трудности
+    speaker: Александр Горбач
+    video:
+    presentation:
+  - name: Как расшифровать БЭМ и (не) усложнить себе жизнь
+    speaker: Валентина Видяева
+    video:
+    presentation:
+  - name: React Native - быстрый и медленный
+    speaker: Алексей Ленский
+    video:
+    presentation:
+  - name: Автоматический DevOps на базе gitlab.com
+    speaker: Василий Бондарь
+    video:
+    presentation:

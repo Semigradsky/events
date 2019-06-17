@@ -1,0 +1,20 @@
+name: haJS 1
+date: 2017-05-13
+videos: ''
+talks:
+  - name: React Native
+    speaker: Андрей Волубуев
+    video:
+    presentation:
+  - name: Рассказчики JS
+    speaker: Дмитрий Кузнецов
+    video:
+    presentation:
+  - name: Простыми словами про пользу программисту от от 4-й части ГК РФ
+    speaker: Дмитрий Кузнецов
+    video:
+    presentation:
+  - name: История JavaScript
+    speaker: Егор Абоймов
+    video:
+    presentation:
