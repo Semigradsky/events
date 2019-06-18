@@ -29,7 +29,7 @@ talks:
     speaker: Вадим Макеев
     video: 'https://www.youtube.com/watch?v=lIZ7WbWH1VU'
   - name: 'Как взаимодействовать с графическими дизайнерами: готовим UI Kit'
-    speaker: Артем Молоков
+    speaker: Артём Молоков
     video: 'https://www.youtube.com/watch?v=wXNK3I9Q_Gc'
   - name: 'PostCSS: будущее после Sass и Less'
     speaker: Андрей Ситник
