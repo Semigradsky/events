@@ -1,0 +1,16 @@
+name: Yaroslavl Frontend 6
+date: 2015-06-26
+videos: ''
+talks:
+  - name: Как спокойно жить в большой компании
+    speaker: Руслан Каймаков
+    video: https://youtu.be/CyVShof_JXI
+    presentation:
+  - name: Непрерывная интеграция или „Кто всё сломал?“
+    speaker: Виктор Русакович
+    video: https://youtu.be/8TgnLP26op8
+    presentation:
+  - name: Как перестать отлаживать асинхронный код и начать жить
+    speaker: Андрей Саломатин
+    video: https://youtu.be/zibh84Eqitg
+    presentation: https://www.slideshare.net/moscowjs/ss-47134995

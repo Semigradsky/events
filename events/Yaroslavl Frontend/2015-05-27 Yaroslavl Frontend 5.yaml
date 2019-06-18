@@ -1,0 +1,12 @@
+name: Yaroslavl Frontend 5
+date: 2015-05-27
+videos: ''
+talks:
+  - name: Тайм-менеджмент для разработчика
+    speaker: Баева Татьяна
+    video: https://youtu.be/-mx5RmTIQok
+    presentation: https://www.slideshare.net/BaevaTatyana/ss-48610182
+  - name: Где еще живет скорость в Web
+    speaker: Олег Елифантьев
+    video: https://youtu.be/dutbCWTpbe8
+    presentation: http://olegas.github.io/talks-improve-rendering-speed/

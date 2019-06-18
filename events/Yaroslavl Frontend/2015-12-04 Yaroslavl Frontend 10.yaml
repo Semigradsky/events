@@ -1,0 +1,12 @@
+name: Yaroslavl Frontend 10
+date: 2015-12-04
+videos: ''
+talks:
+  - name: Разработка приложений на React
+    speaker: Алексей Гуськов
+    video: https://youtu.be/zJl-KYBRgt4
+    presentation:
+  - name: Redux — управление состоянием React-приложений
+    speaker: Олег Елифантьев
+    video: https://youtu.be/_2NeGzHTnlU
+    presentation:

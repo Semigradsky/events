@@ -1,0 +1,16 @@
+name: Yaroslavl Frontend 8
+date: 2015-08-26
+videos: ''
+talks:
+  - name: Сколько нужно листов ватмана, чтобы увеличить производительность команды разработки?
+    speaker: Колосов Павел
+    video: https://youtu.be/tawzMADeHrQ
+    presentation:
+  - name: Flux. Что? Как? Зачем?
+    speaker: Николай Смирнов
+    video: https://youtu.be/9nVxf2vIfu8
+    presentation:
+  - name: Упрощаем разработку с директивами AngularJS
+    speaker: Евгений Кокуйкин
+    video: https://youtu.be/kacAxqJX5xg
+    presentation:

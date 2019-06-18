@@ -1,0 +1,16 @@
+name: Yaroslavl Frontend 4
+date: 2015-04-25
+videos: ''
+talks:
+  - name: Медиавозможности HTML5
+    speaker: Ершов Константин
+    video: https://youtu.be/_gZXYjlBfnw
+    presentation: https://www.slideshare.net/oelifantiev/webrtc-47460817
+  - name: Пишем Google Extensions. Начальный уровень
+    speaker: Владимир Павлов
+    video: https://youtu.be/uSXAbqCPTOM
+    presentation: https://www.slideshare.net/oelifantiev/google-extensions-47452673
+  - name: Асинхронность с генераторами в ES6
+    speaker: Николай Сиварев
+    video: https://youtu.be/kXAjMZ_SBls
+    presentation: http://kolyaj.name/generators-async/

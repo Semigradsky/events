@@ -1,0 +1,16 @@
+name: Yaroslavl Frontend 11
+date: 2016-04-01
+videos: ''
+talks:
+  - name: Декомпозиция и наследование компонентов в React
+    speaker: Алексей Гуськов
+    video:
+    presentation:
+  - name: Отладка nodejs-приложений
+    speaker: Олег Елифантьев
+    video:
+    presentation:
+  - name: Отладка (nodejs-приложений) на продакшене
+    speaker: Владимир Лусс
+    video:
+    presentation:

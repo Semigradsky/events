@@ -1,0 +1,12 @@
+name: Yaroslavl Frontend 1
+date: 2014-12-10
+videos: ''
+talks:
+  - name: Tessel — JavaScript на реальных устройствах
+    speaker: Олег Елифантьев
+    video: https://youtu.be/s9JJ_PbVCIA
+    presentation: https://www.slideshare.net/oelifantiev/yar-frontend-1-tessel
+  - name: JavaScript-модули „из прошлого в будущее“
+    speaker: Ершов Константин
+    video: https://youtu.be/6r62UorqXK4
+    presentation: https://www.slideshare.net/oelifantiev/javascript-42845282

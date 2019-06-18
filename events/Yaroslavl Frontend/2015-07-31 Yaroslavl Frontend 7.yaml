@@ -1,0 +1,16 @@
+name: Yaroslavl Frontend 7
+date: 2015-07-31
+videos: ''
+talks:
+  - name: Анимируем объекты с использованием физики в JavaScript
+    speaker: Елена Иванова
+    video: https://youtu.be/UH3tKb7B5xA
+    presentation:
+  - name: DerbyJS — full stack framework
+    speaker: Колосов Павел
+    video: https://youtu.be/efKBpiJBIDs
+    presentation:
+  - name: Супергероический фреймворк AngularJS
+    speaker: Артем Оборевич
+    video:
+    presentation:

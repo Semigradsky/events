@@ -1,0 +1,16 @@
+name: Yaroslavl Frontend 2
+date: 2015-01-28
+videos: ''
+talks:
+  - name: Cервисы и утилиты, облегчающие разработку
+    speaker: Олег Елифантьев
+    video: https://youtu.be/VnJbm8fwPuA
+    presentation: https://www.slideshare.net/oelifantiev/yarfrontend-2-useful-services
+  - name: JavaScript. Монады и их использование в реальном проекте
+    speaker: Никита Изыгин
+    video: https://youtu.be/ErgssKXVsUw
+    presentation: https://www.slideshare.net/calacitizen/monads-43507724
+  - name: Как Мы Делали Гуя или поучительная история о том как мы два с половиной раза переписали наш веб-интерфейс на ExtJS и не сошли с ума
+    speaker: Алексей Гуськов, Елизавета Кужина
+    video: https://youtu.be/Ksq9OTlZNSM
+    presentation: https://www.slideshare.net/oelifantiev/yarfrontend-2

@@ -1,0 +1,12 @@
+name: Yaroslavl Frontend 3
+date: 2015-02-25
+videos: ''
+talks:
+  - name: "ES6: Генераторы"
+    speaker: Олег Елифантьев
+    video: https://youtu.be/MnT4JIDkqkQ
+    presentation: https://www.slideshare.net/oelifantiev/es6-45129879
+  - name: Обработка ошибок в сложных приложениях
+    speaker: Яркин Сергей
+    video: https://youtu.be/FdE8qgkK_BE
+    presentation: https://www.slideshare.net/oelifantiev/ss-45129760

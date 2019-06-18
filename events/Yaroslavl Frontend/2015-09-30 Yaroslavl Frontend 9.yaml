@@ -1,0 +1,20 @@
+name: Yaroslavl Frontend 9
+date: 2015-09-30
+videos: ''
+talks:
+  - name: Обзор ES2015 (ES6)
+    speaker: Александр Филатов
+    video: https://youtu.be/jupC6d0sH0k
+    presentation: https://www.slideshare.net/AlexFilatov3/es2015es6
+  - name: Порог входа в Мобильный мир для веб-разработчика
+    speaker: Станислав Стецюк
+    video:
+    presentation:
+  - name: Прототип или разработка в стиле Гугл
+    speaker: Станислав Стецюк
+    video:
+    presentation:
+  - name: Continuous delivery на примере одного сайта
+    speaker: Николай Сиварев
+    video: https://youtu.be/VNgtKpMLjlA
+    presentation:
