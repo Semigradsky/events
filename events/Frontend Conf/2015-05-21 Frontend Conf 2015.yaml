@@ -1,0 +1,87 @@
+name: Frontend Conf 2015
+date:
+  - 2015-05-21
+  - 2015-05-22
+videos: https://www.youtube.com/playlist?list=PLfbxrJr-t5ml-aMwD-a0u2VIDcfHFUGlp
+talks:
+  - name: (Не)безопасный Frontend
+    speaker: Сергей Белов
+    video: 'https://www.youtube.com/watch?v=OYHz4hf5hy0'
+  - name: О тестировании JS API Яндекс.Карт
+    speaker: Денис Хананеин
+    video: 'https://www.youtube.com/watch?v=sHSdWeKrTMU'
+  - name: Мейкап и контроль качества верстки
+    speaker: Тимофей Чаптыков
+    video: 'https://www.youtube.com/watch?v=SKtJu8x5Kjg'
+  - name: Пакуйте чемоданы. Грузите апельсины
+    speaker: Владимир Кузнецов
+    video: 'https://www.youtube.com/watch?v=kdi5w5SnQec'
+  - name: Оживляем текст
+    speaker: Юлия Бухвалова
+    video: 'https://www.youtube.com/watch?v=cUhJ0K9Pk-c'
+  - name: Компонентный веб. Проникновение в дизайн
+    speaker: Антон Виноградов
+    video: 'https://www.youtube.com/watch?v=O3GsRn962SI'
+  - name: Microsoft Edge и платформа веб-приложений в Windows 10
+    speaker: Константин Кичинский
+    video: 'https://www.youtube.com/watch?v=ZFsOJ-k7beE'
+  - name: 'Браузеры наши меньшие, или Нам нужно серьёзно поговорить'
+    speaker: Вадим Макеев
+    video: 'https://www.youtube.com/watch?v=lIZ7WbWH1VU'
+  - name: 'Как взаимодействовать с графическими дизайнерами: готовим UI Kit'
+    speaker: Артем Молоков
+    video: 'https://www.youtube.com/watch?v=wXNK3I9Q_Gc'
+  - name: 'PostCSS: будущее после Sass и Less'
+    speaker: Андрей Ситник
+    video: 'https://www.youtube.com/watch?v=XLcErnUFnsU'
+  - name: JavaScript завтра
+    speaker: Сергей Рубанов
+    video: 'https://www.youtube.com/watch?v=9761FeyE5Mc'
+  - name: 'TypeScript: особенности разработки'
+    speaker: Александр Майоров
+    video: 'https://www.youtube.com/watch?v=QVBHIK8fZ_o'
+  - name: Browser Fingerprint - анонимная идентификация браузеров
+    speaker: Валентин Васильев
+    video: 'https://www.youtube.com/watch?v=YXYj57NUqUE'
+  - name: Alasql.js - SQL база данных на JavaScript
+    speaker: Андрей Гершун
+    video: 'https://www.youtube.com/watch?v=4yop0rC5lD0'
+  - name: Как перестать отлаживать асинхронный код и начать жить
+    speaker: Андрей Саломатин
+    video: 'https://www.youtube.com/watch?v=zwJF9qV4HrA'
+  - name: 'HTML5 Web Components: следующий шаг к модульности вашего проекта'
+    speaker: Андрей Рахманов
+    video: 'https://www.youtube.com/watch?v=zCZNq1CUKas'
+  - name: Онлайн-кинотеатр для SmartTV на веб-технологиях
+    speaker: Михаил Лабанов
+    video: 'https://www.youtube.com/watch?v=HWBPijW-CmY'
+  - name: 'HTML GL - возьмите столько FPS, сколько вам нужно'
+    speaker: Денис Радин
+    video: 'https://www.youtube.com/watch?v=pdJbANfkcu4'
+  - name: Кроссплатформенное десктопное приложение на базе веб-технологий
+    speaker: Дмитрий Дудин
+    video: 'https://www.youtube.com/watch?v=_EbPpDQ5njo'
+  - name: Единая платформа для сайта и приложений Медузы
+    speaker: 'Самат Галимов, Ярослав Кравченко'
+    video: 'https://www.youtube.com/watch?v=Ja-VhJL2FbE'
+  - name: Реалтайм статистика скорости работы нативных и веб-приложений
+    speaker: Павел Довбуш
+    video: 'https://www.youtube.com/watch?v=_Z5DRhcvCqg'
+  - name: Глубокая аналитика скорости сайта
+    speaker: Николай Мациевский
+    video: 'https://www.youtube.com/watch?v=HQ_nhe_as3A'
+  - name: Визуализация данных в браузере с помощью D3.js
+    speaker: Михаил Дунаев
+    video: 'https://www.youtube.com/watch?v=cs4Qjo7-HcI'
+  - name: Функциональное программирование в браузере
+    speaker: Никита Прокопов
+    video: 'https://www.youtube.com/watch?v=binCNvZIZyM'
+  - name: Отладка кода в браузере
+    speaker: Антон Шувалов
+    video: 'https://www.youtube.com/watch?v=-LFtPWD2zbQ'
+  - name: Декларативное целеполагание на примере музыкального приложения seesu.me
+    speaker: Глеб Арестов
+    video: 'https://www.youtube.com/watch?v=xNRK7b4g5ng'
+  - name: Быстрый рендеринг с DOM шаблонизаторами
+    speaker: Борис Каплуновский
+    video: 'https://www.youtube.com/watch?v=oNJLGO7yM2s'

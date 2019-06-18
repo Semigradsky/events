@@ -1,0 +1,96 @@
+name: Frontend Conf 2017
+date:
+  - 2017-06-05
+  - 2017-06-06
+videos: https://www.youtube.com/playlist?list=PLfbxrJr-t5mnHbxL1fnAHF8GT-JWNemr_
+talks:
+  - name: Пора начинать фыркать – Grid Layout уже здесь
+    speaker: Сергей Попов
+    video: 'https://www.youtube.com/watch?v=npcLYLQLPL0'
+  - name: 'Ваш CSS нас не устраивает, мы придумаем свой'
+    speaker: Роман Прудников
+    video: 'https://www.youtube.com/watch?v=-2nlbZRhm2c'
+  - name: Адаптивный сайт
+    speaker: Дмитрий Шагаров
+    video: 'https://www.youtube.com/watch?v=IMlo9bvzaj8'
+  - name: Вам нужен крутой разработчик. Нам тоже
+    speaker: Владимир Гриненко
+    video: 'https://www.youtube.com/watch?v=MA4FW8ruoT8'
+  - name: 'Оценка фронтенда: моя история о том, как сдавать задачи вовремя'
+    speaker: Александра Шинкевич
+    video: 'https://www.youtube.com/watch?v=rdzjkJZA0i8'
+  - name: Как жить на острие технологий в продакшне и не сойти с ума
+    speaker: Александр Курганов
+    video: 'https://www.youtube.com/watch?v=i_U-kJbcE24'
+  - name: Рефакторинг клиентского кода
+    speaker: Алексей Золотых
+    video: 'https://www.youtube.com/watch?v=Ib7zWMmFR7k'
+  - name: Тестируй это
+    speaker: Виктор Русакович
+    video: 'https://www.youtube.com/watch?v=hdd01v4ayu8'
+  - name: Особенности разработки API
+    speaker: Всеволод Шмыров
+    video: 'https://www.youtube.com/watch?v=pYlsHDzaiOo'
+  - name: Клиенту и серверу нужно поговорить
+    speaker: Никита Прокопов
+    video: 'https://www.youtube.com/watch?v=B_1gC0Y2AgM'
+  - name: Оптимизация производительности фронтенда
+    speaker: Игорь Алексеенко
+    video: 'https://www.youtube.com/watch?v=mKmFtDJdV9E'
+  - name: Как масштабировать сложный Single Page Application
+    speaker: Алексей Катаев
+    video: 'https://www.youtube.com/watch?v=Jm5Iq7Xvms8'
+  - name: Объектное Реактивное Программирование
+    speaker: Дмитрий Карловский
+    video: 'https://www.youtube.com/watch?v=CnNHM_LNs5o'
+  - name: Компонент-платформа
+    speaker: Александр Лобашев
+    video: 'https://www.youtube.com/watch?v=tJA6V1X4m4g'
+  - name: 'Разработка Rich Text Editor: проблемы и решения'
+    speaker: Егор Яковишен
+    video: 'https://www.youtube.com/watch?v=6uKfpCCiGuU'
+  - name: 'Бешеные псы: Angular 2 vs React'
+    speaker: Евгений Гусев
+    video: 'https://www.youtube.com/watch?v=VxZA-2JNx6k'
+  - name: Адаптивная верстка 5 лет спустя
+    speaker: Сергей Кузнецов
+    video: 'https://www.youtube.com/watch?v=Hyso4faA0fo'
+  - name: Make form validation fun again
+    speaker: Павел Ловцевич
+    video: 'https://www.youtube.com/watch?v=wQdimobGCpc'
+  - name: Разработка React-компонентов
+    speaker: Павел Силин
+    video: 'https://www.youtube.com/watch?v=ZPzBaTBlnrk'
+  - name: Где кончается react native?
+    speaker: Павел Кондратенко
+    video: 'https://www.youtube.com/watch?v=dckWnJ8OQck'
+  - name: Сага о yield. Скрытые возможности
+    speaker: Евгений Евсеев
+    video: 'https://www.youtube.com/watch?v=G6DzJk0IQwM'
+  - name: Паразитируем на React-экосистеме (Angular 4+)
+    speaker: Алексей Охрименко
+    video: 'https://www.youtube.com/watch?v=IVaj6SBr9QQ'
+  - name: Интерактивные 3D-карты своими руками
+    speaker: Александр Амосов
+    video: 'https://www.youtube.com/watch?v=ub8yKzf_Ao0'
+  - name: Портируем существующее Web-приложение в виртуальную реальность
+    speaker: Денис Радин
+    video: 'https://www.youtube.com/watch?v=U9EQWmUKZPE'
+  - name: 'Удалённая работа с иностранным заказчиком. ИП, валютный контроль, патент'
+    speaker: Дмитрий Воронин
+    video: 'https://www.youtube.com/watch?v=GNWu6pFsubw'
+  - name: 'Что делать, когда у вас 100 партнеров'
+    speaker: Иван Потапов
+    video: 'https://www.youtube.com/watch?v=OeHZm_8Q2MQ'
+  - name: Как технология AMP HTML ускоряет сайты и повышает бизнес-метрики
+    speaker: Артём Цымпов
+    video: 'https://www.youtube.com/watch?v=yzqw4CCQ9Ek'
+  - name: Прогрессивный рендеринг и Catberry.js
+    speaker: Михаил Реенко
+    video: 'https://www.youtube.com/watch?v=bF90kJ5sBnU'
+  - name: Как мы запустили offline-версию сайта RG.RU
+    speaker: 'Алексей Чернышев, Максим Чагин'
+    video: 'https://www.youtube.com/watch?v=LmwunRznCFc'
+  - name: Экосистема или зоопарк
+    speaker: Федор Щудло
+    video: 'https://www.youtube.com/watch?v=_y-vRPGmBmM'

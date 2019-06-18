@@ -1,0 +1,60 @@
+name: Frontend Conf 2016
+date:
+  - 2016-05-31
+  - 2016-06-01
+videos: https://www.youtube.com/playlist?list=PLfbxrJr-t5mnn8vnqs_6TWt9f5-liQRvN
+talks:
+  - name: Классические архитектуры во фронтенде
+    speaker: Александра Шинкевич
+    video: 'https://www.youtube.com/watch?v=ZTqgvLQjjp4'
+  - name: Конструктор
+    speaker: Денис Паясь
+    video: 'https://www.youtube.com/watch?v=WCWmFdMGZF8'
+  - name: Как мы разрабатываем новый фронтенд Tinkoff.ru
+    speaker: Филипп Нехаев
+    video: 'https://www.youtube.com/watch?v=70TOk3gmMm4'
+  - name: 'Что делать, когда костыли уже не помогают? Опыт tutu.ru'
+    speaker: Роман Грунтович
+    video: 'https://www.youtube.com/watch?v=TPlB4uTZEk8'
+  - name: В погоне за производительностью. Психология пользователя
+    speaker: Денис Мишунов
+    video: 'https://www.youtube.com/watch?v=BQv6y9_rVq8'
+  - name: base.network — децентрализованный веб на JavaScript
+    speaker: Денис Глазков
+    video: 'https://www.youtube.com/watch?v=odWf2c9n4do'
+  - name: Vue.js и его брат-близнец Vue-server.js
+    speaker: Андрей Солодовников
+    video: 'https://www.youtube.com/watch?v=4jDI0w4NUso'
+  - name: Стабильность WebGL приложений
+    speaker: Кирилл Дмитренко
+    video: 'https://www.youtube.com/watch?v=M1-ng9L6o1I'
+  - name: Как мы ускоряли WebGL
+    speaker: Мстислав Живодков
+    video: 'https://www.youtube.com/watch?v=r8KxGvKITDI'
+  - name: Жизнь HTML в 2ГИС под iOS
+    speaker: Роман Янке
+    video: 'https://www.youtube.com/watch?v=CuOIrpCxGUE'
+  - name: 55+1 прием для улучшения JavaScript-кода
+    speaker: Татьяна Бабич
+    video: 'https://www.youtube.com/watch?v=jSDS4fTNxLo'
+  - name: 'UX-дизайнер, ты ли это?'
+    speaker: Илья Бовкунов
+    video: 'https://www.youtube.com/watch?v=uBKBuQOLYCM'
+  - name: МРТ для данных
+    speaker: Анастасия Горячева
+    video: 'https://www.youtube.com/watch?v=PXkFph_KIAw'
+  - name: Пользовательские свойства как основа архитектуры CSS
+    speaker: Павел Ловцевич
+    video: 'https://www.youtube.com/watch?v=T0DO8OSmQUI'
+  - name: 'Angular 2 не так уж и плох... А если задуматься, то и просто хорош'
+    speaker: Алексей Охрименко
+    video: 'https://www.youtube.com/watch?v=HTq8fknhQjQ'
+  - name: 'Библиотека UI компонентов, о которой вы всегда мечтали'
+    speaker: Роберт Харитонов
+    video: 'https://www.youtube.com/watch?v=v5giKiY8oSs'
+  - name: 'React: новая эра фронтенд разработки'
+    speaker: Роберт Харитонов
+    video: 'https://www.youtube.com/watch?v=KlPgi9uymW4'
+  - name: 'Amazing threesome, rrr... React. Redux. Real world'
+    speaker: Ростислав Галкин
+    video: 'https://www.youtube.com/watch?v=iUkFssx4bhQ'

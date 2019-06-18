@@ -1,0 +1,119 @@
+name: Frontend Conf 2018
+date:
+  - 2018-05-28
+  - 2018-05-29
+videos: https://www.youtube.com/playlist?list=PLfbxrJr-t5mlIKarbGPU7WqVw-qpLEWfB
+talks:
+  - name: 'WebRTC: делаем видеозвонки из браузера'
+    speaker: Григорий Петров
+    video: 'https://www.youtube.com/watch?v=PcvYEQxwEQ8'
+  - name: Криптокошелечек своими руками
+    speaker: Егор Малькевич
+    video: 'https://www.youtube.com/watch?v=HPd7MlvGlyo'
+  - name: Готовим изоморфные веб-приложения правильно
+    speaker: Павел Малышев
+    video: 'https://www.youtube.com/watch?v=sjzmYK9IjTE'
+  - name: Разработка доступных интерфейсов
+    speaker: Сергей Кригер
+    video: 'https://www.youtube.com/watch?v=4ragpIHJ6r0'
+  - name: Apollo GraphQL как альтернатива другим библиотекам
+    speaker: Никита Филатов
+    video: 'https://www.youtube.com/watch?v=XGm37umK9NE'
+  - name: Подходит ли Vue для создания большого web-приложения
+    speaker: Андрей Солодовников
+    video: 'https://www.youtube.com/watch?v=A0L2muGsu-o'
+  - name: Рефакторинг платежного процесса Яндекс.Денег
+    speaker: Илья Кашлаков
+    video: 'https://www.youtube.com/watch?v=wOZTdxdC1YQ'
+  - name: 'Real User Monitoring: анализируем работу сайта на продакшне'
+    speaker: Александр Гутников
+    video: 'https://www.youtube.com/watch?v=2c9N0Wu7b-E'
+  - name: Как работает Headless Chrome
+    speaker: Виталий Слободин
+    video: 'https://www.youtube.com/watch?v=WPcahL2K27w'
+  - name: Как переехать с одного фреймворка на другой и не быть уволенным
+    speaker: Виталий Глибин
+    video: 'https://www.youtube.com/watch?v=x08p2gbfp64'
+  - name: 'Фреймворки: теория эволюции'
+    speaker: Анастасия Лопатина
+    video: 'https://www.youtube.com/watch?v=aVg0zs1iX7w'
+  - name: Повторное использование кода с помощью HOC в React
+    speaker: Дмитрий Цепелев
+    video: 'https://www.youtube.com/watch?v=CuCaoehF9q4'
+  - name: Middlewares are awesome
+    speaker: Никита Мостовой
+    video: 'https://www.youtube.com/watch?v=tV76RapGubo'
+  - name: 'История о том, как мы в банке JS-сервисы встраивали в нативное приложение'
+    speaker: Зар Захаров
+    video: 'https://www.youtube.com/watch?v=UBsDKSKZwGs'
+  - name: 'Война текстовых редакторов: блокнот vs IDE'
+    speaker: Александра Шинкевич
+    video: 'https://www.youtube.com/watch?v=4JpR72YywMs'
+  - name: Безграничные возможности транспиляции
+    speaker: Андрей Роенко
+    video: 'https://www.youtube.com/watch?v=VLKZtHo4Gi8'
+  - name: 'Зачем мы переписываем приложение на Elm, и кто его знает?'
+    speaker: Виктор Русакович
+    video: 'https://www.youtube.com/watch?v=lZcb4YoBGMY'
+  - name: Техническая сторона создания UI-kit на Angular 4/5
+    speaker: Юрий Юрин
+    video: 'https://www.youtube.com/watch?v=SCDkbhzgJug'
+  - name: 'E2E: от обзора инструментов и общих практик к встраиванию в CI'
+    speaker: Иван Ботанов
+    video: 'https://www.youtube.com/watch?v=iKt9Q4u1emU'
+  - name: Библиотека элементов на практике
+    speaker: Сергей Кузнецов
+    video: 'https://www.youtube.com/watch?v=mOGwF6uhJeg'
+  - name: Компонентный подход без модных фреймворков
+    speaker: Руслан Рустамов
+    video: 'https://www.youtube.com/watch?v=1H-z8opCp_Q'
+  - name: Использование монорепозиториев для разработки проектов
+    speaker: Андрей Антропов
+    video: 'https://www.youtube.com/watch?v=Lm8PxWBr-RI'
+  - name: Как мы отделили фронтенд от монолитного бэкенда
+    speaker: Зарема Халилова
+    video: 'https://www.youtube.com/watch?v=3w-AcftJby0'
+  - name: Even More CSS Secrets
+    speaker: Lea Verou
+    video: 'https://www.youtube.com/watch?v=YxW8fnY4zak'
+    lang: en
+  - name: Рефакторинг - Где? Куда? Когда? Откуда? Почему? Зачем и Как?
+    speaker: Алексей Охрименко
+    video: 'https://www.youtube.com/watch?v=5gKYnKBlszY'
+  - name: Этот замечательный Node.js
+    speaker: Александр Лобашев
+    video: 'https://www.youtube.com/watch?v=ghlNGr4_rqY'
+  - name: 'Иван Тулуп: асинхронщина в JS под капотом'
+    speaker: Михаил Башуров
+    video: 'https://www.youtube.com/watch?v=bUx8wk4LdoY'
+  - name: Тонкости публикации проектов на GitHub
+    speaker: Камиль Исмагилов
+    video: 'https://www.youtube.com/watch?v=YKjCysJKqxc'
+  - name: Микросервисы на фронтенде в Почте Mail.Ru
+    speaker: Егор Утробин
+    video: 'https://www.youtube.com/watch?v=ebly22v8z18'
+  - name: Путь пикселя
+    speaker: Юрий Артюх
+    video: 'https://www.youtube.com/watch?v=njRF4ONyiTg'
+  - name: 'Показываем картинки пользователю: подробное руководство'
+    speaker: Никита Дубко
+    video: 'https://www.youtube.com/watch?v=EwBYOQwPEpY'
+  - name: Анимация на сайте – легкий соус или основное блюдо?
+    speaker: Дмитрий Шагаров
+    video: 'https://www.youtube.com/watch?v=V8Fzty2hh9M'
+  - name: 'Как сделать веб-приложение нативнее, а пользователя счастливее'
+    speaker: Тимофей Лавренюк
+    video: 'https://www.youtube.com/watch?v=aH8fF8lR9aE'
+  - name: 'WebFonts in 2018: Everything Changes'
+    speaker: Chris Lilley
+    video: 'https://www.youtube.com/watch?v=vNMJtxL5OgE'
+    lang: en
+  - name: 'CSS code coverage: идентификация неиспользуемого CSS кода'
+    speaker: Антон Холкин
+    video: 'https://www.youtube.com/watch?v=xc_dinZ4Gfc'
+  - name: Готов ли CSS заменить препроцессоры?
+    speaker: Сергей Попов
+    video: 'https://www.youtube.com/watch?v=-DvdYLWnPhc'
+  - name: 'Знай свой JIT: ближе к машине'
+    speaker: Андрей Мелихов
+    video: 'https://www.youtube.com/watch?v=cgquEDC0Ko4'
