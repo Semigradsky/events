@@ -10,3 +10,7 @@ talks:
     speaker: Александр Руденко
     video:
     presentation:
+  - name: Как мы пишем на JSX без Реакта
+    speaker: Ивашев Андрей
+    video:
+    presentation:
