@@ -114,7 +114,7 @@
 | [Обнаружение сервисов в nodejs](https://www.youtube.com/watch?v=jlFAZn0Mk2E)  |  [Александр Рысенко](speakers&#x2F;Александр%20Рысенко.md)  |    |
 | [Relay и Falcor — будущее?](https://www.youtube.com/watch?v=bpn8u7KYMSg)  |  [Вячеслав Слинько](speakers&#x2F;Вячеслав%20Слинько.md)  |    |
 | [Немного о js приложениях на мобильных устройствах &#x2F;native script, react native, phonegap и appcelerator](https://www.youtube.com/watch?v=ZDH_N0bdDrM)  |  [Юрий Лучанинов](speakers&#x2F;Юрий%20Лучанинов.md)  |    |
-| [REST Level 3, HATEOAS, JSON API](https://www.youtube.com/watch?v=MmyvNUAnI64)  |  [Артем Бей](speakers&#x2F;Артем%20Бей.md)  |    |
+| [REST Level 3, HATEOAS, JSON API](https://www.youtube.com/watch?v=MmyvNUAnI64)  |  [Артём Бей](speakers&#x2F;Артём%20Бей.md)  |    |
 | [Почему Реакт и Флюкс - это хорошо](https://www.youtube.com/watch?v=zUWn_WSNHBY)  |  [Илья Сегеда](speakers&#x2F;Илья%20Сегеда.md)  |    |
 | [Компиляторы](https://www.youtube.com/watch?v=wabHD8fZUmw)  |  [Андрей Гершун](speakers&#x2F;Андрей%20Гершун.md)  |    |
 | [Anti-hype - как не гнаться за технологиями и начать жить](https://www.youtube.com/watch?v=xPFRUM_oDKA)  |  [Андрей Листочкин](speakers&#x2F;Андрей%20Листочкин.md)  |    |

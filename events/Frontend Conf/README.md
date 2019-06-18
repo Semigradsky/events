@@ -142,7 +142,7 @@
 | [Компонентный веб. Проникновение в дизайн](https://www.youtube.com/watch?v=O3GsRn962SI)  |  [Антон Виноградов](speakers&#x2F;Антон%20Виноградов.md)  |    |
 | [Microsoft Edge и платформа веб-приложений в Windows 10](https://www.youtube.com/watch?v=ZFsOJ-k7beE)  |  [Константин Кичинский](speakers&#x2F;Константин%20Кичинский.md)  |    |
 | [Браузеры наши меньшие, или Нам нужно серьёзно поговорить](https://www.youtube.com/watch?v=lIZ7WbWH1VU)  |  [Вадим Макеев](speakers&#x2F;Вадим%20Макеев.md)  |    |
-| [Как взаимодействовать с графическими дизайнерами: готовим UI Kit](https://www.youtube.com/watch?v=wXNK3I9Q_Gc)  |  [Артем Молоков](speakers&#x2F;Артем%20Молоков.md)  |    |
+| [Как взаимодействовать с графическими дизайнерами: готовим UI Kit](https://www.youtube.com/watch?v=wXNK3I9Q_Gc)  |  [Артём Молоков](speakers&#x2F;Артём%20Молоков.md)  |    |
 | [PostCSS: будущее после Sass и Less](https://www.youtube.com/watch?v=XLcErnUFnsU)  |  [Андрей Ситник](speakers&#x2F;Андрей%20Ситник.md)  |    |
 | [JavaScript завтра](https://www.youtube.com/watch?v=9761FeyE5Mc)  |  [Сергей Рубанов](speakers&#x2F;Сергей%20Рубанов.md)  |    |
 | [TypeScript: особенности разработки](https://www.youtube.com/watch?v=QVBHIK8fZ_o)  |  [Александр Майоров](speakers&#x2F;Александр%20Майоров.md)  |    |

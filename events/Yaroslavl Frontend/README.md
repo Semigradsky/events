@@ -23,7 +23,7 @@
 | --- | :---: | --- |
 | [Анимируем объекты с использованием физики в JavaScript](https://youtu.be/UH3tKb7B5xA)  |  [Елена Иванова](speakers&#x2F;Елена%20Иванова.md)  |    |
 | [DerbyJS — full stack framework](https://youtu.be/efKBpiJBIDs)  |  [Колосов Павел](speakers&#x2F;Колосов%20Павел.md)  |    |
-| Супергероический фреймворк AngularJS  |  [Артем Оборевич](speakers&#x2F;Артем%20Оборевич.md)  |    |
+| Супергероический фреймворк AngularJS  |  [Артём Оборевич](speakers&#x2F;Артём%20Оборевич.md)  |    |
 ## Yaroslavl Frontend 6 - 2015 Jun 26 
 | | | |
 | --- | :---: | --- |
