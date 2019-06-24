@@ -1,0 +1,20 @@
+name: JSNN 13
+date: 2019-06-29
+videos: ''
+talks:
+  - name: Пишем ESLint-правила
+    speaker: Леонид Лебедев
+    video:
+    presentation:
+  - name: Роутер как у сына маминой подруги
+    speaker: Павел Малышев
+    video:
+    presentation:
+  - name: Жизнь до Runtime
+    speaker: Никита Сидоров
+    video:
+    presentation:
+  - name: Секретный доклад (про Effector)
+    speaker: Максим Алёшин
+    video:
+    presentation:
