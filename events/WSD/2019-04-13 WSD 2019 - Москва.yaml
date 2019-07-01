@@ -4,35 +4,35 @@ videos: https://www.youtube.com/watch?v=r4txCvuHFPc
 talks:
   - name: "Пару календарей назад я\_был совсем другим"
     speaker: Алексей Охрименко
-    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=620s
+    video: https://www.youtube.com/watch?v=1DAmlRlEwCE
     presentation: https://wsd.events/2019/04/13/pres/calendars-ago.pdf
   - name: "Адвокат Flash"
     speaker: Всеволод Шмыров
-    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=3010s
+    video: https://www.youtube.com/watch?v=p19GIgdJmmg
     presentation: https://wsd.events/2019/04/13/pres/flash-advocate.pdf
   - name: "Найди 10 отличий"
     speaker: Людмила Мжачих
-    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=6737s
+    video: https://www.youtube.com/watch?v=qlj5ORCMhrA
     presentation: https://wsd.events/2019/04/13/pres/diff-testing.pdf
   - name: "Экономим нервы и время. Современная отладка"
     speaker: Александр Ковтун
-    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=9052s
+    video: https://www.youtube.com/watch?v=RVmSMC6lp7k
     presentation: https://wsd.events/2019/04/13/pres/devtools-features/
   - name: "Тёмная сторона веба"
     speaker: Никита Дубко
-    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=16874s
+    video: https://www.youtube.com/watch?v=inJbZ1WFfQA
     presentation: https://wsd.events/2019/04/13/pres/web-dark-side/
   - name: "Семь будущих чудес CSS"
     speaker: Сэм Булатов
-    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=19328s
+    video: https://www.youtube.com/watch?v=dcG3BKnVIhg
     presentation: https://wsd.events/2019/04/13/pres/future-css/
   - name: "Шрифты в вебе: от ASCII до эмоджи и немного дальше"
     speaker: Юлия Бухвалова
-    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=22793s
+    video: https://www.youtube.com/watch?v=DCUsj_gNbxs
     presentation: https://wsd.events/2019/04/13/pres/ascii-emoji/
   - name: "Лучшее – враг хорошего, или Почему не надо становиться руководителем"
     speaker: Андрей Смирнов
-    video: https://www.youtube.com/watch?v=r4txCvuHFPc&t=25646s
+    video: https://www.youtube.com/watch?v=1mIcdj_ZXT8
     presentation: https://wsd.events/2019/04/13/pres/dont-team-lead/
     tags:
       - soft

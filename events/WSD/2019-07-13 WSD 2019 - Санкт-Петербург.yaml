@@ -1,0 +1,32 @@
+name: WSD 2019 - Санкт-Петербург
+date: 2019-07-13
+videos: ''
+talks:
+  - name: Почему фронтенд это круто
+    speaker: Роман Дворнов
+    video:
+    presentation:
+  - name: "TC39: взгляд изнутри"
+    speaker: Сергей Рубанов
+    video:
+    presentation:
+  - name: Make a World
+    speaker: Юлия Музафарова
+    video:
+    presentation:
+  - name: Все цвета радуги
+    speaker: Владимир Кузнецов
+    video:
+    presentation:
+  - name: Новая платформа уже здесь
+    speaker: Владимир Гриненко
+    video:
+    presentation:
+  - name: "?"
+    speaker: "?"
+    video:
+    presentation:
+  - name: "?"
+    speaker: "?"
+    video:
+    presentation:
