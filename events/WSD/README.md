@@ -3,14 +3,14 @@
 ## WSD 2019 - Москва - 2019 Apr 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;r4txCvuHFPc)
 | | | |
 | --- | :---: | --- |
-| [Пару календарей назад я был совсем другим](https://www.youtube.com/watch?v=r4txCvuHFPc&t=620s)  |  [Алексей Охрименко](speakers&#x2F;Алексей%20Охрименко.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/calendars-ago.pdf)   |
-| [Адвокат Flash](https://www.youtube.com/watch?v=r4txCvuHFPc&t=3010s)  |  [Всеволод Шмыров](speakers&#x2F;Всеволод%20Шмыров.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/flash-advocate.pdf)   |
-| [Найди 10 отличий](https://www.youtube.com/watch?v=r4txCvuHFPc&t=6737s)  |  [Людмила Мжачих](speakers&#x2F;Людмила%20Мжачих.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/diff-testing.pdf)   |
-| [Экономим нервы и время. Современная отладка](https://www.youtube.com/watch?v=r4txCvuHFPc&t=9052s)  |  [Александр Ковтун](speakers&#x2F;Александр%20Ковтун.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/devtools-features/)   |
-| [Тёмная сторона веба](https://www.youtube.com/watch?v=r4txCvuHFPc&t=16874s)  |  [Никита Дубко](speakers&#x2F;Никита%20Дубко.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/web-dark-side/)   |
-| [Семь будущих чудес CSS](https://www.youtube.com/watch?v=r4txCvuHFPc&t=19328s)  |  [Сэм Булатов](speakers&#x2F;Сэм%20Булатов.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/future-css/)   |
-| [Шрифты в вебе: от ASCII до эмоджи и немного дальше](https://www.youtube.com/watch?v=r4txCvuHFPc&t=22793s)  |  [Юлия Бухвалова](speakers&#x2F;Юлия%20Бухвалова.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/ascii-emoji/)   |
-| [Лучшее – враг хорошего, или Почему не надо становиться руководителем](https://www.youtube.com/watch?v=r4txCvuHFPc&t=25646s)  |  [Андрей Смирнов](speakers&#x2F;Андрей%20Смирнов.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/dont-team-lead/)   |
+| [Пару календарей назад я был совсем другим](https://www.youtube.com/watch?v=1DAmlRlEwCE)  |  [Алексей Охрименко](speakers&#x2F;Алексей%20Охрименко.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/calendars-ago.pdf)   |
+| [Адвокат Flash](https://www.youtube.com/watch?v=p19GIgdJmmg)  |  [Всеволод Шмыров](speakers&#x2F;Всеволод%20Шмыров.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/flash-advocate.pdf)   |
+| [Найди 10 отличий](https://www.youtube.com/watch?v=qlj5ORCMhrA)  |  [Людмила Мжачих](speakers&#x2F;Людмила%20Мжачих.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/diff-testing.pdf)   |
+| [Экономим нервы и время. Современная отладка](https://www.youtube.com/watch?v=RVmSMC6lp7k)  |  [Александр Ковтун](speakers&#x2F;Александр%20Ковтун.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/devtools-features/)   |
+| [Тёмная сторона веба](https://www.youtube.com/watch?v=inJbZ1WFfQA)  |  [Никита Дубко](speakers&#x2F;Никита%20Дубко.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/web-dark-side/)   |
+| [Семь будущих чудес CSS](https://www.youtube.com/watch?v=dcG3BKnVIhg)  |  [Сэм Булатов](speakers&#x2F;Сэм%20Булатов.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/future-css/)   |
+| [Шрифты в вебе: от ASCII до эмоджи и немного дальше](https://www.youtube.com/watch?v=DCUsj_gNbxs)  |  [Юлия Бухвалова](speakers&#x2F;Юлия%20Бухвалова.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/ascii-emoji/)   |
+| [Лучшее – враг хорошего, или Почему не надо становиться руководителем](https://www.youtube.com/watch?v=1mIcdj_ZXT8)  |  [Андрей Смирнов](speakers&#x2F;Андрей%20Смирнов.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/dont-team-lead/)   |
 ## WSD 2018 - Минск - 2018 Dec 01 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLMBnwIwFEFHeD-j52BjuO2HMMw63fnBav)
 | | | |
 | --- | :---: | --- |
