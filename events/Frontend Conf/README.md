@@ -1,6 +1,6 @@
 # Frontend Conf
 
-## Frontend Conf 2019 - 2019 May 27-28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLfbxrJr-t5mk7etv7CWQSZ3vOHDsn4XEU)
+## Frontend Conf 2019 (РИТ++) - 2019 May 27-28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLfbxrJr-t5mk7etv7CWQSZ3vOHDsn4XEU)
 | | | |
 | --- | :---: | --- |
 | [The state of CSS](https://www.youtube.com/watch?v=lDGOK3Iwfnc)  |  [Сергей Попов](speakers&#x2F;Сергей%20Попов.md)  | [:notebook:](https://www.dropbox.com/sh/kg71jju3yvj5jqw/AADV3v5l_S6VEiGUzEPb4ugPa/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D1%85%D0%BE%D0%BB%D0%BB/27.05/1.The%20state%20of%20CSS_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2_%D0%B2%D0%B5%D1%80.3.pdf?dl=0)   |
