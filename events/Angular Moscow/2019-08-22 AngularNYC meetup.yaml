@@ -1,0 +1,12 @@
+name: AngularNYC meetup
+date: 2019-08-22
+videos: ''
+talks:
+  - name: Angular worst practices
+    speaker: Juan Herrera
+    video:
+    presentation:
+  - name: What's new in the angular world
+    speaker: Kirill Cherkashin
+    video:
+    presentation:
