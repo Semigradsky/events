@@ -1,6 +1,6 @@
 # Events / 2019 / [2018](&#x2F;2018.md) / [2017](&#x2F;2017.md) / [2016](&#x2F;2016.md) / [2015](&#x2F;2015.md) / [2014](&#x2F;2014.md) / [2013](&#x2F;2013.md) / [2012](&#x2F;2012.md) / [2011](&#x2F;2011.md) / [2010](&#x2F;2010.md) / [2009](&#x2F;2009.md) / [2008](&#x2F;2008.md) 
 
-## Web Meetup - Jun 27 
+## GDG Minsk Web Meetup - Jun 27 
 | | | |
 | --- | :---: | --- |
 | Introduction to JAM &#x2F; Netlify  |  [Илья Запруцкий](speakers&#x2F;Илья%20Запруцкий.md)  | [:notebook:](https://drive.google.com/drive/folders/1gfK31vKxdxPqnAibZmNYJTRGOsGtfcVz)   |
