@@ -1,5 +1,16 @@
 # Events / 2019 / [2018](&#x2F;2018.md) / [2017](&#x2F;2017.md) / [2016](&#x2F;2016.md) / [2015](&#x2F;2015.md) / [2014](&#x2F;2014.md) / [2013](&#x2F;2013.md) / [2012](&#x2F;2012.md) / [2011](&#x2F;2011.md) / [2010](&#x2F;2010.md) / [2009](&#x2F;2009.md) / [2008](&#x2F;2008.md) 
 
+## Web Meetup - Jun 27 
+| | | |
+| --- | :---: | --- |
+| Introduction to JAM &#x2F; Netlify  |  [Илья Запруцкий](speakers&#x2F;Илья%20Запруцкий.md)  | [:notebook:](https://drive.google.com/drive/folders/1gfK31vKxdxPqnAibZmNYJTRGOsGtfcVz)   |
+| The Great gatsbyjs  |  [Валентин Гиль](speakers&#x2F;Валентин%20Гиль.md)  | [:notebook:](https://drive.google.com/drive/folders/1gfK31vKxdxPqnAibZmNYJTRGOsGtfcVz)   |
+## PiterJS 38 - Jun 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dvQUCwj_20U)
+| | | |
+| --- | :---: | --- |
+| [i18n без боли](https://youtu.be/dvQUCwj_20U?t=685)  |  [Антон Ляпцев](speakers&#x2F;Антон%20Ляпцев.md)  |    |
+| [Типизация Rest API](https://youtu.be/dvQUCwj_20U?t=3340)  |  [Максим Шкарбалюк](speakers&#x2F;Максим%20Шкарбалюк.md)  |    |
+| [Качество кода: внедрение проверок в legacy](https://youtu.be/dvQUCwj_20U?t=6139)  |  [Алексей Щербаков](speakers&#x2F;Алексей%20Щербаков.md)  |    |
 ## UWDC 2019 - Jun 01 
 | | | |
 | --- | :---: | --- |
@@ -53,6 +64,12 @@
 | [API браузеров, о которых вы могли не слышать](https://www.youtube.com/watch?v=0N6mjg7ON1Q)  |  [Антон Власик](speakers&#x2F;Антон%20Власик.md)  | [:notebook:](https://drive.google.com/file/d/1Ufm9cJgrfy__GFPsyKEDHall1Qciqrzv/view) [:octocat:](https://browser-api.netlify.com/)  |
 | [Как построить дом, если ты — веб-воркер?](https://www.youtube.com/watch?v=v3NtYdNcRNs)  |  [Кирилл Чугаинов](speakers&#x2F;Кирилл%20Чугаинов.md)  | [:notebook:](https://chugainov.github.io/web-worker/)   |
 | [Тяжёлое бремя времени](https://www.youtube.com/watch?v=Dylf_bfg6qg)  |  [Виктор Хомяков](speakers&#x2F;Виктор%20Хомяков.md)  | [:notebook:](https://victor-homyakov.github.io/burden-of-time/)   |
+## PiterJS 37 - May 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;-JNxSFx-aOg)
+| | | |
+| --- | :---: | --- |
+| [Как правильно обучаться в большом потоке информации](https://youtu.be/-JNxSFx-aOg?t=448)  |  [Николай Шабалин](speakers&#x2F;Николай%20Шабалин.md)  |    |
+| [Ember: Мифы](https://youtu.be/-JNxSFx-aOg?t=3527)  |  [Александр Канунников](speakers&#x2F;Александр%20Канунников.md)  |    |
+| Доклад-сюрприз  |  [?](speakers&#x2F;?.md)  |    |
 ## WebAssembly Moscow 1 - May 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0)
 | | | |
 | --- | :---: | --- |

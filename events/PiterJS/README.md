@@ -1,5 +1,17 @@
 # PiterJS
 
+## PiterJS 38 - 2019 Jun 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dvQUCwj_20U)
+| | | |
+| --- | :---: | --- |
+| [i18n без боли](https://youtu.be/dvQUCwj_20U?t=685)  |  [Антон Ляпцев](speakers&#x2F;Антон%20Ляпцев.md)  |    |
+| [Типизация Rest API](https://youtu.be/dvQUCwj_20U?t=3340)  |  [Максим Шкарбалюк](speakers&#x2F;Максим%20Шкарбалюк.md)  |    |
+| [Качество кода: внедрение проверок в legacy](https://youtu.be/dvQUCwj_20U?t=6139)  |  [Алексей Щербаков](speakers&#x2F;Алексей%20Щербаков.md)  |    |
+## PiterJS 37 - 2019 May 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;-JNxSFx-aOg)
+| | | |
+| --- | :---: | --- |
+| [Как правильно обучаться в большом потоке информации](https://youtu.be/-JNxSFx-aOg?t=448)  |  [Николай Шабалин](speakers&#x2F;Николай%20Шабалин.md)  |    |
+| [Ember: Мифы](https://youtu.be/-JNxSFx-aOg?t=3527)  |  [Александр Канунников](speakers&#x2F;Александр%20Канунников.md)  |    |
+| Доклад-сюрприз  |  [?](speakers&#x2F;?.md)  |    |
 ## PiterJS Tour 1 - 2019 Apr 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y)
 | | | |
 | --- | :---: | --- |
