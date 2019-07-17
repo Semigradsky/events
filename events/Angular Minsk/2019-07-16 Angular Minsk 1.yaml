@@ -1,0 +1,12 @@
+name: Angular Minsk 1
+date: 2019-07-16
+talks:
+  - name: What’s new in Angular 8 and how to migrate
+    speaker: Алексей Кунцевич
+    presentation:
+  - name: How to manage data in your Angular app with NGXS store and Firebase
+    speaker: Юрий Татенко
+    presentation:
+  - name: Bad Practices, what NOT to do in Angular
+    speaker: Валентин Кононов
+    presentation:
