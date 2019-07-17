@@ -1,15 +1,17 @@
 name: PiterJS 37
 date: 2019-05-20
-videos: ''
+videos: https://www.youtube.com/watch?v=-JNxSFx-aOg
 talks:
   - name: Как правильно обучаться в большом потоке информации
     speaker: Николай Шабалин
-    video:
+    video: https://youtu.be/-JNxSFx-aOg?t=448
     presentation:
   - name: "Ember: Мифы"
     speaker: Александр Канунников
-    video:
+    video: https://youtu.be/-JNxSFx-aOg?t=3527
     presentation:
+    tags:
+      - 'Ember'
   - name: Доклад-сюрприз
     speaker: '?'
     video:

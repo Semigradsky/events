@@ -1,16 +1,16 @@
 name: PiterJS 38
 date: 2019-06-20
-videos: ''
+videos: https://www.youtube.com/watch?v=dvQUCwj_20U
 talks:
   - name: i18n без боли
     speaker: Антон Ляпцев
-    video:
+    video: https://youtu.be/dvQUCwj_20U?t=685
     presentation:
   - name: Типизация Rest API
     speaker: Максим Шкарбалюк
-    video:
+    video: https://youtu.be/dvQUCwj_20U?t=3340
     presentation:
   - name: "Качество кода: внедрение проверок в legacy"
     speaker: Алексей Щербаков
-    video:
+    video: https://youtu.be/dvQUCwj_20U?t=6139
     presentation:
