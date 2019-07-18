@@ -1,0 +1,16 @@
+name: FRONTday 1
+date: 2015-04-29
+videos: ''
+talks:
+  - name: Построение портлетных систем
+    speaker: Игорь Павленко
+    video:
+    presentation:
+  - name: React+Reflux
+    speaker: Андрей Брунеткин
+    video:
+    presentation:
+  - name: Опыт работы с Canvas
+    speaker: Сергей Гаврилов
+    video:
+    presentation:

@@ -1,0 +1,24 @@
+name: FRONTday 3
+date: 2016-09-28
+videos: ''
+talks:
+  - name: Observable на фронтенде. Как и почему
+    speaker: Никита Дюмин
+    video:
+    presentation:
+  - name: Telegram bot - новый вид интерфейса
+    speaker: Петр Лаптев
+    video:
+    presentation:
+  - name: Progressive Web Applications
+    speaker: Анатолий Морозов
+    video:
+    presentation:
+  - name: Как я пишу в 2016 на ангуляре и не краснею
+    speaker: Иван Громов
+    video:
+    presentation:
+  - name: 5 причин, по которым дизайнеры ненавидят фронтенд-разработчиков
+    speaker: Олеся Козлова
+    video:
+    presentation:

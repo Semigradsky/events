@@ -1,0 +1,8 @@
+name: FRONTday 10
+date: 2018-11-02
+videos:
+talks:
+  - name: Как работать с большим количеством данных в браузере
+    speaker: Владимир Кузнецов
+    video: https://www.youtube.com/watch?v=rMZBrm_B9h4
+    presentation:

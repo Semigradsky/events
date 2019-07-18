@@ -1,0 +1,12 @@
+name: FRONTday 5
+date: 2017-11-17
+videos: ''
+talks:
+  - name: Как я писал браузерную реалтайм игру и что из этого вышло
+    speaker:  Андрей Брунеткин
+    video:
+    presentation:
+  - name: PWA в 2017 - плюсы и минусы
+    speaker: Иван Плеских
+    video:
+    presentation:

@@ -1,0 +1,20 @@
+name: FRONTday 2
+date: 2016-06-08
+videos: ''
+talks:
+  - name: "Fiddler: как обмануть всех"
+    speaker: Владимир Смирнов
+    video:
+    presentation:
+  - name: Жизнь Frontend-разработчика
+    speaker: Владимир Кузнецов
+    video:
+    presentation:
+  - name: Будущее фронтенда и велосипеды
+    speaker:  Иван Плесских
+    video:
+    presentation:
+  - name: Как я работаю с SVG
+    speaker: Петр Лаптев
+    video:
+    presentation:

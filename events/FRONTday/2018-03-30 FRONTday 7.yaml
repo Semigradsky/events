@@ -1,0 +1,12 @@
+name: FRONTday 7
+date: 2018-03-30
+videos: https://www.youtube.com/watch?v=iUamlshzIHY
+talks:
+  - name: Виртуальная реальность в вебе
+    speaker: Петр Лаптев
+    video: https://youtu.be/iUamlshzIHY?t=255
+    presentation:
+  - name: Как начать проект, чтобы потом не пожалеть
+    speaker: Иван Никишкин
+    video: https://youtu.be/iUamlshzIHY?t=6070
+    presentation:

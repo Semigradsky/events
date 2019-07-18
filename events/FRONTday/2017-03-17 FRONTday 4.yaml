@@ -1,0 +1,12 @@
+name: FRONTday 4
+date: 2017-03-17
+videos: https://www.youtube.com/playlist?list=PLlAdykumHRCeKsMMnJ0-WrnRWBZHs9Kmj
+talks:
+  - name: 10 ошибок при использовании веб-шрифтов
+    speaker: Михаил Пикалов
+    video: https://www.youtube.com/watch?v=tbp_Nqr8SIk
+    presentation:
+  - name: "TypeError: Cannot read property 'a' of undefined"
+    speaker: Никита Дюмин
+    video: https://www.youtube.com/watch?v=Zx-SXF72Fjo
+    presentation:

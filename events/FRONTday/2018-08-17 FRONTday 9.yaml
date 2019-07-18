@@ -1,0 +1,12 @@
+name: FRONTday 9
+date: 2018-08-17
+videos: https://www.youtube.com/watch?v=_YENFgmTYRg
+talks:
+  - name: "React Native: как работает и что умеет"
+    speaker: Петр Евсиков
+    video: https://youtu.be/_YENFgmTYRg?t=268
+    presentation:
+  - name: Особенности RxJS или "Как не наступать на подводные камни"
+    speaker:  Мария Гришкевич
+    video: https://youtu.be/_YENFgmTYRg?t=6123
+    presentation:

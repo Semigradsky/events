@@ -1,0 +1,12 @@
+name: FRONTday 8
+date: 2018-04-20
+videos: https://www.youtube.com/watch?v=ZSEyI-FSnlg
+talks:
+  - name: Browser rendering
+    speaker: Данил Шилов
+    video: https://youtu.be/ZSEyI-FSnlg?t=623
+    presentation:
+  - name: Roguelike-rpg на vanilla js
+    speaker: Иван Никишкин
+    video: https://youtu.be/ZSEyI-FSnlg?t=3579
+    presentation:
