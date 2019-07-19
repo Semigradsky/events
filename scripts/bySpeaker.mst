@@ -3,9 +3,9 @@
 {{#photo}}
 | |
 | --- |
-| ![{{speaker}}]({{photo}})
+| ![{{speaker}}]({{& photo}})
 {{#links}}
-| {{emoji}}  [{{url}}]({{url}})
+| {{emoji}}  [{{url}}]({{& url}})
 {{/links}}
 
 ---

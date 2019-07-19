@@ -36,6 +36,8 @@
   github: doochik
 - name: Илья Климов
   twitter: xanf_ua
+  facebook: iklymov
+  vk: illya_klymov
 - name: Сергей Бережной
   github: veged
   twitter: veged
@@ -65,3 +67,42 @@
   facebook: aleksandra.shinkevich
   vk: neesoglasnaja
   site: http://ash-web.by/
+- name: Владимир Кузнецов
+  twitter: mistakster
+  facebook: mistakster
+  github: mistakster
+  site: https://noteskeeper.ru/
+- name: Никита Дубко
+  twitter: dark_mefody
+  facebook: Dark.MeFoDy
+  site: https://mefody.github.io/
+  github: MeFoDy
+- name: Андрей Ситник
+  twitter: andrey_sitnik
+  site: https://sitnik.ru/
+  github: ai
+  facebook: andrey.sitnik
+  vk: iskin
+- name: Дмитрий Воробей
+  facebook: dzmitry.varabei
+- name: Константин Кривленя
+  twitter: Krivlenia
+  github: Mavrin
+- name: Сергей Сергеев
+  twitter: gurugray
+  github: gurugray
+- name: Алексей Распопов
+  twitter: alexeyraspopov
+  site: https://alexeyraspopov.com/
+  github: alexeyraspopov
+- name: Алексей Швайка
+  github: shvaikalesh
+  twitter: shvaikalesh
+- name: Павел Ловцевич
+  github: lautsevich
+  twitter: zigzag_mcquack
+  facebook: zigzag.mcquack
+- name: Юрий Артюх
+  github: akella
+  facebook: akella
+  twitter: akella
