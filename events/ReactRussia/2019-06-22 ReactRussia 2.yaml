@@ -1,2 +1,20 @@
 name: ReactRussia 2
 date: 2019-06-22
+videos: https://www.youtube.com/playlist?list=PLWvK_bLQje9jdzKx90rVNTh_CRMxhukdN
+talks:
+  - name: Реальные компоненты
+    speaker: Алексей Ярошевич
+    video: https://www.youtube.com/watch?v=gcg5r_6mO2E
+    presentation:
+  - name: "React + Typescript: продвинутые паттерны"
+    speaker: Михаил Башуров
+    video: https://www.youtube.com/watch?v=LuB752qaQXU
+    presentation:
+  - name: Дайте волю хукам!
+    speaker: Алексей Тактаров
+    video: https://www.youtube.com/watch?v=3LnMGyJ0M40
+    presentation:
+  - name: Как не нужно делать. Несколько неприятных историй из жизни разработчика
+    speaker: Алексей Золотых
+    video: https://www.youtube.com/watch?v=Y-C2AtDS7Os
+    presentation:
