@@ -1,0 +1,16 @@
+name: WebAssembly Moscow 2
+date: 2019-08-01
+videos: ''
+talks:
+  - name: Webassembly SPA фреймворки. Обзор и примеры на основе blazor.
+    speaker: Илья Черторыльский
+    video:
+    presentation:
+  - name: Компилятор lightbeam
+    speaker: Николай Вольф
+    video:
+    presentation:
+  - name: "WASI: An API for non-Web WebAssembly"
+    speaker: Dan Gohman
+    video:
+    presentation:
