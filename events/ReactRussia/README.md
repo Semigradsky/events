@@ -1,5 +1,12 @@
 # ReactRussia
 
+## ReactRussia 2 - 2019 Jun 22 [:movie_camera:](https://www.youtube.com/playlist?list=PLWvK_bLQje9jdzKx90rVNTh_CRMxhukdN)
+| | | |
+| --- | :---: | --- |
+| [Реальные компоненты](https://www.youtube.com/watch?v=gcg5r_6mO2E)  |  [Алексей Ярошевич](speakers/Алексей%20Ярошевич.md)  |    |
+| [React + Typescript: продвинутые паттерны](https://www.youtube.com/watch?v=LuB752qaQXU)  |  [Михаил Башуров](speakers/Михаил%20Башуров.md)  |    |
+| [Дайте волю хукам!](https://www.youtube.com/watch?v=3LnMGyJ0M40)  |  [Алексей Тактаров](speakers/Алексей%20Тактаров.md)  |    |
+| [Как не нужно делать. Несколько неприятных историй из жизни разработчика](https://www.youtube.com/watch?v=Y-C2AtDS7Os)  |  [Алексей Золотых](speakers/Алексей%20Золотых.md)  |    |
 ## ReactRussia 1 - 2019 Mar 16 [:movie_camera:](https://www.youtube.com/playlist?list=PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP)
 | | | |
 | --- | :---: | --- |
