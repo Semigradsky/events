@@ -16,7 +16,7 @@ talks:
   - name: Прототипируем кодом
     speaker: Андрей Саломатин
     url: 'https://events.yandex.ru/lib/talks/6246/'
-  - name: Иван Тулуп. Асинхронщина в JS под капотом
+  - name: "Иван Тулуп: асинхронщина в JS под капотом"
     speaker: Михаил Башуров
     url: 'https://events.yandex.ru/lib/talks/6393/'
   - name: Let's kill lifecycle
