@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # SamaraJS
 
 ## SamaraJS 6 - 2019 Feb 01 [:movie_camera:](https://www.youtube.com/playlist?list=PL2Zizi6hGuLk9b7GMujGinU2eWoP-zwGP)

@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Ekaterina Prigara
 
 ## Automate it! Or how to set up dev tools in WebStorm [WORKSHOP]

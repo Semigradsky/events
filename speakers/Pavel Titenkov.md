@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Pavel Titenkov
 
 ## Meteor.js

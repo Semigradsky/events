@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Eduard Tretyakov
 
 ## Sensing Your World With Espruino

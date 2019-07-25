@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Shilo Mangam
 
 ## Mirror users session in 30 minutes only!

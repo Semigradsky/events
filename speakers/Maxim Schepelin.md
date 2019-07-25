@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Maxim Schepelin
 
 ## Bring WEB to the game client

@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # ReactRussia
 
 ## ReactRussia 2 - 2019 Jun 22 [:movie_camera:](https://www.youtube.com/playlist?list=PLWvK_bLQje9jdzKx90rVNTh_CRMxhukdN)

@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Terry Sahaidak
 
 ## Life with Expo.io

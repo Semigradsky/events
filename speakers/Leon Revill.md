@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Leon Revill
 
 ## Think Web Components before Frameworks

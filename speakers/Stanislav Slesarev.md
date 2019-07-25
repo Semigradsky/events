@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Stanislav Slesarev
 
 ## Streams in Node.js and why they&#39;re good

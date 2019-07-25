@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # WebAssembly Moscow
 
 ## WebAssembly Moscow 1 - 2019 May 16 [:movie_camera:](https://www.youtube.com/watch?v=O8IMFHu1dG0)

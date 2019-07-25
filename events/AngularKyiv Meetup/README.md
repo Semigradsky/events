@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # AngularKyiv Meetup
 
 ## AngularKyiv Meetup 6 - 2018 Jun 07 [:movie_camera:](https://www.youtube.com/watch?v=gIuzvwUZMMw)

@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Andrey Gurylev Juho Vepsäläinen
 
 ## Re-imagining webpack

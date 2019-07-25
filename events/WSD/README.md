@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # WSD
 
 ## WSD 2019 - Москва - 2019 Apr 13 [:movie_camera:](https://www.youtube.com/watch?v=r4txCvuHFPc)

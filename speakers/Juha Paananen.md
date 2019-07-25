@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Juha Paananen
 
 ## FRP with Bacon.js

@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Lea Verou
 
 ## The Web Design Cheat Code: Using SVG to bridge CSS’ gaps

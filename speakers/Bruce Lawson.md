@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Bruce Lawson
 
 ## CSS in a Components World

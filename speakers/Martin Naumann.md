@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Martin Naumann
 
 ## Life of a pixel: Web rendering performance

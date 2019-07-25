@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # The Rolling Scopes
 
 ## The Rolling Scopes &amp; MobilePeople - 2019 Feb 19 [:movie_camera:](https://www.youtube.com/watch?v=uwROYy4LPf4)

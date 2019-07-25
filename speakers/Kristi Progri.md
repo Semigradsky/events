@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Kristi Progri
 
 ## Developing and maintaining a coding community

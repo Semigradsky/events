@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Blaine Cook
 
 ## My password doesn&#39;t work! [Keynote]

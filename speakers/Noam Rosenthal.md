@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Noam Rosenthal
 
 ## Frontend testing for Wix viewer: case study

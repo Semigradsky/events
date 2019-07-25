@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # SPB Frontend
 
 ## SPB Frontend - 2018 Jul 16 
@@ -24,7 +27,7 @@
 | | | |
 | --- | :---: | --- |
 | [Аудит доступности сайта на скорую руку](https://www.youtube.com/watch?v=OYs5H0t_ryA)  |  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  | [:notebook:](http://amp.gs/B2s5)   |
-| [Иван Тулуп: асинхронщина в js под капотом](https://www.youtube.com/watch?v=OkTh8dF9ic8)  |  [Михаил Башуров](speakers/Михаил%20Башуров.md)  | [:notebook:](http://amp.gs/B20N)   |
+| [Иван Тулуп: асинхронщина в JS под капотом](https://www.youtube.com/watch?v=OkTh8dF9ic8)  |  [Михаил Башуров](speakers/Михаил%20Башуров.md)  | [:notebook:](http://amp.gs/B20N)   |
 | [Интеграция автотестов в процесс разработки](https://www.youtube.com/watch?v=zeXNOPZas7Y)  |  [Александр Казаченко](speakers/Александр%20Казаченко.md)  | [:notebook:](https://goo.gl/efbY7z)   |
 ## SPB Frontend - 2017 Oct 08 
 | | | |

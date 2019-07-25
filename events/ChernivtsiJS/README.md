@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # ChernivtsiJS
 
 ## ChernivtsiJS - 2018 Jun 23 [:movie_camera:](https://www.youtube.com/playlist?list=PLt-pAIa9BS41XDcHK49CwzkOjEDB6eJ7q)

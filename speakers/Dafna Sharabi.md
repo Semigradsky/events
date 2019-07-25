@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Dafna Sharabi
 
 ## Designers at the lab

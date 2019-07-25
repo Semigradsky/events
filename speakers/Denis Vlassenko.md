@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Denis Vlassenko
 
 ## Decorating JavaScript

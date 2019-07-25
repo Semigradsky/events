@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # MinskJS
 
 ## MinskJS 6 - 2019 May 23 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsJMCmQclZUUGSAyTvSjuoOx)

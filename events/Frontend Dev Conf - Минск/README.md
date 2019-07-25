@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Frontend Dev Conf - Минск
 
 ## Frontend Dev Conf 2016 - 2016 Apr 16 

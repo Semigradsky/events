@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Ally Long
 
 ## Lessons from the field: bringing digital products to emerging markets

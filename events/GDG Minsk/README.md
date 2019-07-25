@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # GDG Minsk
 
 ## GDG Minsk Web Meetup - 2019 Jun 27 

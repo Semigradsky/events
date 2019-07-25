@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # MinskCSS
 
 ## MinskCSS 6 - 2019 Apr 11 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9Zzl9LTp0yLfaXhIu7-xoUHQN)

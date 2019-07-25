@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Stefania Ioana Chiorean
 
 ## Why (Mobile) Web Compatibility is (so) important?

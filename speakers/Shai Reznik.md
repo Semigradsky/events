@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Shai Reznik
 
 ## Build Ready Javascript Apps With Grunt

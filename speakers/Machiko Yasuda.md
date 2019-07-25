@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Machiko Yasuda
 
 ## Learn with friends: how to organize meetups around projects &amp; code

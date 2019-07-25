@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Dan Gohman
 
 ## WASI: An API for non-Web WebAssembly

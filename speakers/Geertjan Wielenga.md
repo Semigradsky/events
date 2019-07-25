@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Geertjan Wielenga
 
 ## JavaScript specific features in NetBeans

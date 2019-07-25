@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Léonie Watson
 
 ## A developer&#39;s guide to accessibility APIs

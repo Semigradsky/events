@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Denis Stoyanov
 
 ## Principles of Functional Programming in JavaScript

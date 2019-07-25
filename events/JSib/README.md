@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # JSib
 
 ## JSib 7 - 2015 Nov 28 

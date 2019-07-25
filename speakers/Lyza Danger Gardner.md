@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Lyza Danger Gardner
 
 ## JavaScript on Things: Electronics for Web Devs

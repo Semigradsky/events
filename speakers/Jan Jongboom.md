@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Jan Jongboom
 
 ## JavaScript all the things

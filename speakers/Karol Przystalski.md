@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Karol Przystalski
 
 ## Machine learning and JavaScript

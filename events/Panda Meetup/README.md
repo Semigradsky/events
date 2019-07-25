@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Panda Meetup
 
 ## Panda Meetup 15 Frontend - 2019 Apr 19 [:movie_camera:](https://www.youtube.com/playlist?list=PLaYNFbPr2bsKPBECGSeE_hHCiOAPNnLPI)

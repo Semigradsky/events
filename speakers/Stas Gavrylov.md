@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Stas Gavrylov
 
 ## Adopting React.children

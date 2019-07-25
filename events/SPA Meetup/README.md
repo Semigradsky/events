@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # SPA Meetup
 
 ## SPA Meetup 4 - 2018 Apr 07 [:movie_camera:](https://www.youtube.com/playlist?list=PLknJ4Vr6efQFtZmsXmGG64Rz_PHrcXCBL)

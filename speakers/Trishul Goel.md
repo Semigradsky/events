@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Trishul Goel
 
 ## Cross browser extensions — lets make one

@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Mikko Lehmuskoski
 
 ## Creating a crawler and scraper using Node.js and Solr

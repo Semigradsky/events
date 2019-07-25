@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Vitali Shcharbin
 
 ## QCon New York technology trends highlights

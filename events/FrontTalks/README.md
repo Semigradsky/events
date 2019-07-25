@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # FrontTalks
 
 ## FrontTalks - 2018 Sep 14-15 
@@ -7,7 +10,7 @@
 | [Wallaby.js &amp; Quokka.js. Быстро. Красиво. Качественно](https://events.yandex.ru/lib/talks/6243/)  |  [Дмитрий Махнёв](speakers/Дмитрий%20Махнёв.md)  |    |
 | [WebGL-ветер в Яндекс.Погоде](https://events.yandex.ru/lib/talks/6245/)  |  [Дмитрий Васильев](speakers/Дмитрий%20Васильев.md)  |    |
 | [Прототипируем кодом](https://events.yandex.ru/lib/talks/6246/)  |  [Андрей Саломатин](speakers/Андрей%20Саломатин.md)  |    |
-| [Иван Тулуп. Асинхронщина в JS под капотом](https://events.yandex.ru/lib/talks/6393/)  |  [Михаил Башуров](speakers/Михаил%20Башуров.md)  |    |
+| [Иван Тулуп: асинхронщина в JS под капотом](https://events.yandex.ru/lib/talks/6393/)  |  [Михаил Башуров](speakers/Михаил%20Башуров.md)  |    |
 | [Let&#39;s kill lifecycle](https://events.yandex.ru/lib/talks/6358/)  |  [Александр Шушунов](speakers/Александр%20Шушунов.md)  |    |
 | [Про HTML](https://events.yandex.ru/lib/talks/6248/)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  |    |
 | [Houdini — CSS, который JavaScript](https://events.yandex.ru/lib/talks/6244/)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |

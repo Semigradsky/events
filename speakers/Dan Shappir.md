@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Dan Shappir
 
 ## JavaScript Riddles For Fun And Profit

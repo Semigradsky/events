@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # SPB Angular Meetup
 
 ## SPB Angular Meetup 2 - 2018 May 31 

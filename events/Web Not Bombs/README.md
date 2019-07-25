@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Web Not Bombs
 
 ## Web Not Bombs 8 - 2017 Mar 29 [:movie_camera:](https://www.youtube.com/playlist?list=PLrOBnk7g6QXqcws9poHa6LKVyOsVjvA5Z)

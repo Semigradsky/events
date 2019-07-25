@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Franziska Klingner
 
 ## When things start getting serious — Building a production-ready Node.js backend [Workshop]

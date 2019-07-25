@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Stefan Judis
 
 ## HTTP headers for the responsible developer

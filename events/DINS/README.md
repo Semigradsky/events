@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # DINS
 
 ## DINS - JavaScript meetup 1 - 2018 Sep 12 

@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # haJS
 
 ## haJS 6 - 2018 Oct 27 

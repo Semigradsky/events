@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Seth Thompson
 
 ## ES2015 in the browser: beyond the polyfillable

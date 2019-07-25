@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # Krzysztof Szafranek
 
 ## Getting the Most out of Your Tools

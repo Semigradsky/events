@@ -1,3 +1,6 @@
+## [Events](../README.md) > [Speakers](../speakers.md)
+---
+
 # JSNN
 
 ## JSNN 12 - 2019 Mar 02 [:movie_camera:](https://www.youtube.com/playlist?list=PLY-gw0IiDtxpNTfxGt2Wn-8vQDzHTf4l1)
