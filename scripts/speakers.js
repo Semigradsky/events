@@ -193,7 +193,7 @@ async function generateMd (events) {
     for (const event of events) {
         for (const talk of event.talks || []) {
             if (!talk.speaker) {
-                continue;
+                continue
             }
 
             for (const speakerData of getSpeakersData(talk.speaker, event, talk)) {
@@ -213,4 +213,4 @@ async function generateMd (events) {
 
 module.exports = {
     generateMd,
-};
+}

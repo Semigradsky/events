@@ -24,7 +24,7 @@ function parseEvent(content, uid) {
 
 async function readEvent(fullPath, folder) {
     if (!fullPath.includes('.yaml')) {
-        return;
+        return
     }
 
     const uid = path.basename(fullPath, '.yaml')
