@@ -1,0 +1,122 @@
+name: JS Fest 2018
+date:
+  - 2018-03-30
+  - 2018-03-31
+talks:
+  - name: WebAssembly vs JavaScript
+    speaker: Александр Скачков
+    video: 'https://www.youtube.com/watch?v=1Ba1l0cieMY'
+    presentation: ''
+  - name: The Better Parts
+    speaker: Douglas Crockford
+    lang: en
+    video: 'https://www.youtube.com/watch?v=XFTOG895C7c'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-douglas-crockford-the-better-parts'
+  - name: Как зарабатывать больше
+    speaker: Алексей Мигуцкий
+    video: 'https://www.youtube.com/watch?v=H3ARoh7uih4'
+    presentation: 'http://slides.com/mr-mig/jsfest-secret#/'
+  - name: Why Fast Matters
+    speaker: Harry Roberts
+    lang: en
+    video: 'https://www.youtube.com/watch?v=Oc_2EkIxCpY'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-harry-roberts-why-fast-matters'
+  - name: NodeJS Microservices + CQRS + Event Sourcing - Зачем я это делаю? JS Fest 2018
+    speaker: Роман Саченко
+    video: 'https://www.youtube.com/watch?v=257lVP7R5XM'
+    presentation: 'https://slides.com/roman_sachenko/nodejs_cqrs_event_sourcing/#/'
+  - name: The Power of the Paradigm
+    speaker: Douglas Crockford
+    lang: en
+    video: 'https://www.youtube.com/watch?v=X3ExqafLgwk'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-douglas-crockford-the-power-of-the-paradigm'
+  - name: 'FaCSSt: CSS & Performance'
+    speaker: Harry Roberts
+    lang: en
+    video: 'https://www.youtube.com/watch?v=OsYgrfx_MqQ'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-harry-roberts-facsst-css-performance'
+  - name: Микросервисная архитектура с переиспользуемыми компонентами
+    speaker: Никита Галкин
+    video: 'https://www.youtube.com/watch?v=2NoDBZogRFI'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018'
+  - name: Игра «Герои Меча и Магии» в браузере
+    speaker: Александр Коротаев
+    video: 'https://www.youtube.com/watch?v=YIq3QLVvcds'
+    presentation: 'http://lekzd.ru/presentations/jsFest_heroes/'
+  - name: 'Прогрійте свої двигуни! або Я знаю, що ви зробили минулого літа з V8'
+    speaker: Сергій Бабіч
+    lang: uk
+    video: 'https://www.youtube.com/watch?v=SikWzFg-Zm0'
+    presentation: 'https://babichss.github.io/v8/index.html#/'
+  - name: 'React, взгляд в будущее'
+    speaker: Роман Якобчук
+    video: 'https://www.youtube.com/watch?v=gKmfTKQpWSM'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-react'
+  - name: Запуск двіжка JS на мікроконтролері
+    speaker: Володимир Шиманський
+    lang: uk
+    video: 'https://www.youtube.com/watch?v=3GQ2XlYa0NA'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-js'
+  - name: Полезные инструменты для JS разработки
+    speaker: Алексей Волков
+    video: 'https://www.youtube.com/watch?v=Idq7NSDhQEM'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-js-92627937'
+  - name: SSE vs WebSockets vs Long Polling
+    speaker: Martin Chaov
+    lang: en
+    video: 'https://www.youtube.com/watch?v=n9mRjkQg3VE'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-martin-chaov-sse-vs-websockets-vs-long-polling'
+  - name: ES X
+    speaker: Виталий Ратушный
+    video: 'https://www.youtube.com/watch?v=TcN-jO7s6As'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-es-x-92755377'
+  - name: 'UI компоненты на пиксельных шейдерах в Web(Angular, React, Vue)приложениях'
+    speaker: Денис Радин
+    video: 'https://www.youtube.com/watch?v=HAM6dB22dm4'
+  - name: W.T.F
+    speaker: Иван Гончаров
+    lang: uk
+    video: 'https://www.youtube.com/watch?v=0iOe78F-2S0'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-wtf-is-graphql'
+  - name: Мутационное тестирование в JavaScript
+    speaker: Андрей Кучеренко
+    video: 'https://www.youtube.com/watch?v=tLgWMPn_CR0'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-javascript'
+  - name: Как Microsoft To-Do использует React
+    speaker: Алексей Мигуцкий
+    video: 'https://www.youtube.com/watch?v=6WeRZk7hsoE'
+    presentation: 'http://slides.com/mr-mig/todo-react-2018#/'
+  - name: Введение в React-Native
+    speaker: Илья Иванов
+    video: 'https://www.youtube.com/watch?v=2riePh2ohCc'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-reactnative-92639379'
+  - name: Делаем веб приложение лучше с помощью современных браузерных API
+    speaker: Тимофей Лавренюк
+    video: 'https://www.youtube.com/watch?v=ImZMlHb1Oq0'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-api'
+  - name: E2E-тестирование фронтенда c Hermione
+    speaker: Сергей Пузанков
+    video: 'https://www.youtube.com/watch?v=ckH0Y7srkdU'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-e2e-c-hermione'
+  - name: Создание IOS/Android Mobile Apps с помощью React/Redux Cordova.JS Fest 2018
+    speaker: Лилия Карпенко
+    video: 'https://www.youtube.com/watch?v=MSowIpYiEGw'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-ios-android-mobile-apps-react-redux-cordova'
+  - name: GraphQL - удобное API или хайп? JS Fest 2018
+    speaker: Владимир Заец
+    video: 'https://www.youtube.com/watch?v=4SJRvhom_dc'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-graphql-api'
+  - name: 'Распределенные данные: CRDT-структуры данных в JS'
+    speaker: Максим Климишин
+    video: 'https://www.youtube.com/watch?v=aIvD5-MU-Ho'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-crdt-js'
+  - name: How to Write a Compass Plugin
+    speaker: Anna Herlihy
+    lang: en
+    video: 'https://www.youtube.com/watch?v=ViNwvolWaeo'
+    presentation: 'https://www.slideshare.net/JSFestUA/js-fest-2018-anna-herlihy-how-to-write-a-compass-plugin'
+  - name: Building interactive command line applications
+    speaker: Mathias Buus Madsen
+    lang: en
+    video: 'https://www.youtube.com/watch?v=p6xdsBmPWGw'
+    presentation: 'https://mafintosh.github.io/jsfest-ua-2018/#0'
