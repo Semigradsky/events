@@ -11,7 +11,7 @@ talks:
     speaker: Кирилл Чугаинов
     video: https://www.youtube.com/watch?v=v3NtYdNcRNs
     presentation: https://chugainov.github.io/web-worker/
-  - name: Тяжёлое бремя времени
+  - name: "Тяжёлое бремя времени: типичные ошибки при работе со временем"
     speaker: Виктор Хомяков
     video: https://www.youtube.com/watch?v=Dylf_bfg6qg
     presentation: https://victor-homyakov.github.io/burden-of-time/

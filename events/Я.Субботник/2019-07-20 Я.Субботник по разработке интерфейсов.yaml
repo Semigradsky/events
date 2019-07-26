@@ -1,0 +1,26 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2019-07-20
+link: 'https://events.yandex.ru/events/yasubbotnik/20-july-2019/'
+videos: https://www.youtube.com/watch?v=1U4NrB9v9ZA
+talks:
+  - name: Сбалансированная разработка в очень больших командах
+    speaker: Владимир Гриненко
+    url: https://events.yandex.ru/lib/talks/7516/
+  - name: В поисках Стилевого Грааля
+    speaker: Артур Кенжаев
+    url: https://events.yandex.ru/lib/talks/7517/
+  - name: Как много браузеров хороших
+    speaker: Антон Кастрицкий
+    url: https://events.yandex.ru/lib/talks/7519/
+  - name: "Тяжёлое бремя времени: типичные ошибки при работе со временем"
+    speaker: Виктор Хомяков
+    url: https://events.yandex.ru/lib/talks/7520/
+  - name: SVG в реальной жизни на примере календаря
+    speaker: Артём Пендюрин
+    url: https://events.yandex.ru/lib/talks/7523/
+  - name: Жизнь до Runtime
+    speaker: Никита Сидоров
+    url: https://events.yandex.ru/lib/talks/7522/
+  - name: "React Hooks: революция или боль?"
+    speaker: Артём Березин
+    url: https://events.yandex.ru/lib/talks/7525/

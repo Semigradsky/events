@@ -1,6 +1,7 @@
 name: Я.Субботник по разработке интерфейсов
 date: 2019-04-27
 link: 'https://events.yandex.ru/events/yasubbotnik/27-april-2019/'
+videos: https://www.youtube.com/watch?v=jPqNyF0hH3k
 talks:
   - name: ШРИ — что внутри?
     speaker: Дмитрий Андриянов
@@ -8,6 +9,7 @@ talks:
   - name: Общие компоненты силами разных команд
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/7251/'
+    text: https://habr.com/ru/company/yandex/blog/460811/
   - name: Стилизация и Dependency Injection
     speaker: Артур Кенжаев
     url: 'https://events.yandex.ru/lib/talks/7252/'
