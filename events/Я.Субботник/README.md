@@ -3,11 +3,21 @@
 
 # Я.Субботник
 
-## Я.Субботник по разработке интерфейсов - 2019 Apr 27 
+## Я.Субботник по разработке интерфейсов - 2019 Jul 20 [:movie_camera:](https://www.youtube.com/watch?v=1U4NrB9v9ZA)
+| | | |
+| --- | :---: | --- |
+| [Сбалансированная разработка в очень больших командах](https://events.yandex.ru/lib/talks/7516/)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+| [В поисках Стилевого Грааля](https://events.yandex.ru/lib/talks/7517/)  |  [Артур Кенжаев](speakers/Артур%20Кенжаев.md)  |    |
+| [Как много браузеров хороших](https://events.yandex.ru/lib/talks/7519/)  |  [Антон Кастрицкий](speakers/Антон%20Кастрицкий.md)  |    |
+| [Тяжёлое бремя времени: типичные ошибки при работе со временем](https://events.yandex.ru/lib/talks/7520/)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |    |
+| [SVG в реальной жизни на примере календаря](https://events.yandex.ru/lib/talks/7523/)  |  [Артём Пендюрин](speakers/Артём%20Пендюрин.md)  |    |
+| [Жизнь до Runtime](https://events.yandex.ru/lib/talks/7522/)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |
+| [React Hooks: революция или боль?](https://events.yandex.ru/lib/talks/7525/)  |  [Артём Березин](speakers/Артём%20Березин.md)  |    |
+## Я.Субботник по разработке интерфейсов - 2019 Apr 27 [:movie_camera:](https://www.youtube.com/watch?v=jPqNyF0hH3k)
 | | | |
 | --- | :---: | --- |
 | [ШРИ — что внутри?](https://events.yandex.ru/lib/talks/7249/)  |  [Дмитрий Андриянов](speakers/Дмитрий%20Андриянов.md)  |    |
-| [Общие компоненты силами разных команд](https://events.yandex.ru/lib/talks/7251/)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+| [Общие компоненты силами разных команд](https://events.yandex.ru/lib/talks/7251/)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/460811/) |
 | [Стилизация и Dependency Injection](https://events.yandex.ru/lib/talks/7252/)  |  [Артур Кенжаев](speakers/Артур%20Кенжаев.md)  |    |
 | [Автоматический рефакторинг кода с помощью codemodes](https://events.yandex.ru/lib/talks/7254/)  |  [Александр Мышов](speakers/Александр%20Мышов.md)  |    |
 | [Жизнь до Runtime](https://events.yandex.ru/lib/talks/7255/)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |

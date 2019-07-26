@@ -3,6 +3,16 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Я.Субботник по разработке интерфейсов - Jul 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;1U4NrB9v9ZA)
+| | | |
+| --- | :---: | --- |
+| [Сбалансированная разработка в очень больших командах](https://events.yandex.ru/lib/talks/7516/)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+| [В поисках Стилевого Грааля](https://events.yandex.ru/lib/talks/7517/)  |  [Артур Кенжаев](speakers/Артур%20Кенжаев.md)  |    |
+| [Как много браузеров хороших](https://events.yandex.ru/lib/talks/7519/)  |  [Антон Кастрицкий](speakers/Антон%20Кастрицкий.md)  |    |
+| [Тяжёлое бремя времени: типичные ошибки при работе со временем](https://events.yandex.ru/lib/talks/7520/)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |    |
+| [SVG в реальной жизни на примере календаря](https://events.yandex.ru/lib/talks/7523/)  |  [Артём Пендюрин](speakers/Артём%20Пендюрин.md)  |    |
+| [Жизнь до Runtime](https://events.yandex.ru/lib/talks/7522/)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |
+| [React Hooks: революция или боль?](https://events.yandex.ru/lib/talks/7525/)  |  [Артём Березин](speakers/Артём%20Березин.md)  |    |
 ## GDG Minsk Web Meetup - Jun 27 
 | | | |
 | --- | :---: | --- |
@@ -73,7 +83,7 @@
 | --- | :---: | --- |
 | [API браузеров, о которых вы могли не слышать](https://www.youtube.com/watch?v=0N6mjg7ON1Q)  |  [Антон Власик](speakers/Антон%20Власик.md)  | [:notebook:](https://drive.google.com/file/d/1Ufm9cJgrfy__GFPsyKEDHall1Qciqrzv/view) [:octocat:](https://browser-api.netlify.com/)  |
 | [Как построить дом, если ты — веб-воркер?](https://www.youtube.com/watch?v=v3NtYdNcRNs)  |  [Кирилл Чугаинов](speakers/Кирилл%20Чугаинов.md)  | [:notebook:](https://chugainov.github.io/web-worker/)   |
-| [Тяжёлое бремя времени](https://www.youtube.com/watch?v=Dylf_bfg6qg)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  | [:notebook:](https://victor-homyakov.github.io/burden-of-time/)   |
+| [Тяжёлое бремя времени: типичные ошибки при работе со временем](https://www.youtube.com/watch?v=Dylf_bfg6qg)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  | [:notebook:](https://victor-homyakov.github.io/burden-of-time/)   |
 ## PiterJS 37 - May 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;-JNxSFx-aOg)
 | | | |
 | --- | :---: | --- |
@@ -99,11 +109,11 @@
 | [Продвижение опенсорс-проектов](https://youtu.be/DU0LiH61PnQ?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)  |  [Андрей Ситник](speakers/Андрей%20Ситник.md)  | [:notebook:](https://slides.com/ai/promote#/)   |
 | [Вебпак, вид сквозь монокль](https://youtu.be/qcj2bX4sB9E?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)  |  [Антон Кастрицкий](speakers/Антон%20Кастрицкий.md)  |    |
 | [В поисках Стилевого Грааля](https://youtu.be/b7vBKp8D0vs?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)  |  [Артур Кенжаев](speakers/Артур%20Кенжаев.md)  | [:notebook:](http://tver.io/meetup/2019/05-open-source/kenzhaev/assets/player/KeynoteDHTMLPlayer.html)   |
-## Я.Субботник по разработке интерфейсов - Apr 27 
+## Я.Субботник по разработке интерфейсов - Apr 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;jPqNyF0hH3k)
 | | | |
 | --- | :---: | --- |
 | [ШРИ — что внутри?](https://events.yandex.ru/lib/talks/7249/)  |  [Дмитрий Андриянов](speakers/Дмитрий%20Андриянов.md)  |    |
-| [Общие компоненты силами разных команд](https://events.yandex.ru/lib/talks/7251/)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+| [Общие компоненты силами разных команд](https://events.yandex.ru/lib/talks/7251/)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/460811/) |
 | [Стилизация и Dependency Injection](https://events.yandex.ru/lib/talks/7252/)  |  [Артур Кенжаев](speakers/Артур%20Кенжаев.md)  |    |
 | [Автоматический рефакторинг кода с помощью codemodes](https://events.yandex.ru/lib/talks/7254/)  |  [Александр Мышов](speakers/Александр%20Мышов.md)  |    |
 | [Жизнь до Runtime](https://events.yandex.ru/lib/talks/7255/)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |

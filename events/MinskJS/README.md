@@ -8,7 +8,7 @@
 | --- | :---: | --- |
 | [API браузеров, о которых вы могли не слышать](https://www.youtube.com/watch?v=0N6mjg7ON1Q)  |  [Антон Власик](speakers/Антон%20Власик.md)  | [:notebook:](https://drive.google.com/file/d/1Ufm9cJgrfy__GFPsyKEDHall1Qciqrzv/view) [:octocat:](https://browser-api.netlify.com/)  |
 | [Как построить дом, если ты — веб-воркер?](https://www.youtube.com/watch?v=v3NtYdNcRNs)  |  [Кирилл Чугаинов](speakers/Кирилл%20Чугаинов.md)  | [:notebook:](https://chugainov.github.io/web-worker/)   |
-| [Тяжёлое бремя времени](https://www.youtube.com/watch?v=Dylf_bfg6qg)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  | [:notebook:](https://victor-homyakov.github.io/burden-of-time/)   |
+| [Тяжёлое бремя времени: типичные ошибки при работе со временем](https://www.youtube.com/watch?v=Dylf_bfg6qg)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  | [:notebook:](https://victor-homyakov.github.io/burden-of-time/)   |
 ## MinskJS 5 - 2019 Feb 21 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsKJHySf_D3Kfpbhx8FVNKLp)
 | | | |
 | --- | :---: | --- |
