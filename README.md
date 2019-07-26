@@ -13,6 +13,12 @@
 | [SVG в реальной жизни на примере календаря](https://events.yandex.ru/lib/talks/7523/)  |  [Артём Пендюрин](speakers/Артём%20Пендюрин.md)  |    |
 | [Жизнь до Runtime](https://events.yandex.ru/lib/talks/7522/)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |
 | [React Hooks: революция или боль?](https://events.yandex.ru/lib/talks/7525/)  |  [Артём Березин](speakers/Артём%20Березин.md)  |    |
+## MSK VUE.JS 1 - Jul 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;C8GCxIF0ABY)
+| | | |
+| --- | :---: | --- |
+| [Vue.js 3 — все что ждет нас в будущем](https://youtu.be/C8GCxIF0ABY?t=222)  |  [Игорь Шеко](speakers/Игорь%20Шеко.md)  |    |
+| [Опыт использования Vue.js в «Едадиле»](https://www.youtube.com/watch?v=C8GCxIF0ABY&t=3770s)  |  [Кобец Андрей](speakers/Кобец%20Андрей.md)  | [:notebook:](https://t.me/msk_vue_js/2281)   |
+| [Прогрессивные приложения на прогрессивном фреймворке](https://youtu.be/C8GCxIF0ABY?t=6026)  |  [Ольга Лесникова](speakers/Ольга%20Лесникова.md)  | [:notebook:](https://t.me/msk_vue_js/2266)   |
 ## GDG Minsk Web Meetup - Jun 27 
 | | | |
 | --- | :---: | --- |
