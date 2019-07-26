@@ -1,22 +1,22 @@
 name: MSK VUE.JS 1
 date: 2019-07-18
-videos: ''
+videos: https://www.youtube.com/watch?v=C8GCxIF0ABY
 talks:
   - name: Vue.js 3 — все что ждет нас в будущем
     speaker: Игорь Шеко
-    video:
+    video: https://youtu.be/C8GCxIF0ABY?t=222
     presentation:
-    tags:
+    tags: https://t.me/msk_vue_js/2274
       - 'Vue.js'
   - name: Опыт использования Vue.js в «Едадиле»
     speaker: Кобец Андрей
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=C8GCxIF0ABY&t=3770s
+    presentation: https://t.me/msk_vue_js/2281
     tags:
       - 'Vue.js'
   - name: Прогрессивные приложения на прогрессивном фреймворке
     speaker: Ольга Лесникова
-    video:
-    presentation:
+    video: https://youtu.be/C8GCxIF0ABY?t=6026
+    presentation: https://t.me/msk_vue_js/2266
     tags:
       - 'Vue.js'
