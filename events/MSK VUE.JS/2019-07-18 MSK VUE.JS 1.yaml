@@ -5,8 +5,8 @@ talks:
   - name: Vue.js 3 — все что ждет нас в будущем
     speaker: Игорь Шеко
     video: https://youtu.be/C8GCxIF0ABY?t=222
-    presentation:
-    tags: https://t.me/msk_vue_js/2274
+    presentation: https://t.me/msk_vue_js/2274
+    tags:
       - 'Vue.js'
   - name: Опыт использования Vue.js в «Едадиле»
     speaker: Кобец Андрей
