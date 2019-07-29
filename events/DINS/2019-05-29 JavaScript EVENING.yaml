@@ -4,9 +4,9 @@ videos: ''
 talks:
   - name: Будущее React
     speaker: Дмитрий Злыгин
-    video:
+    video: https://www.youtube.com/watch?v=XbNNtZeArsE
     presentation:
   - name: Баги, которые вы никогда не встретите
     speaker: Тим Чаптыков
-    video:
+    video: https://www.youtube.com/watch?v=3KJpyGoElQQ
     presentation:
