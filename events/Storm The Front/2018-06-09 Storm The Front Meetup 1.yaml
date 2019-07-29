@@ -1,0 +1,24 @@
+name: Storm The Front Meetup 1
+date: 2018-06-09
+videos: https://www.youtube.com/playlist?list=PLX3qbfL4pq9AntSmXZ1K5CJzfiXRB2YKk
+talks:
+  - name: Обработка сайд эффектов в Redux
+    speaker: Михаил Гатилов
+    video: https://www.youtube.com/watch?v=9w6czqW9mKk
+    presentation:
+  - name: Текущее состояние WebAssembly
+    speaker: Ярослав Бышик
+    video: https://www.youtube.com/watch?v=Lld9DE46vlE
+    presentation:
+  - name: Фантастические виды CMS с точки зрения фронтенд разработчика
+    speaker: Андрей Старовойтов
+    video: https://www.youtube.com/watch?v=dXsQy0d98Vg
+    presentation:
+  - name: И снова про Kotlin
+    speaker: Алесь Цвиль
+    video: https://www.youtube.com/watch?v=XY2Mh1PVu8k
+    presentation: http://slides.com/diodredd/deck-19-20#/
+  - name: Почему многие компании используют Node.js
+    speaker: Шухратбек Мамадалиев
+    video: https://www.youtube.com/watch?v=tqi_z-20Y2A
+    presentation: http://slides.com/shukhratbek/why-most-companies-use-node-js#/

@@ -1,0 +1,24 @@
+name: Storm The Front Meetup 5
+date: 2019-04-13
+videos: https://www.youtube.com/playlist?list=PLX3qbfL4pq9CJXgO4_aizriYJrbErJvDh
+talks:
+  - name: Нейронные сети на javascript, почему бы и нет?
+    speaker: Игорь Нестереня
+    video: https://www.youtube.com/watch?v=b8KuVGwcaG4
+    presentation: https://drive.google.com/file/d/16JHpphq1RTB4OhQujoP-piiAcGp5oidM/view
+  - name: Не для любителей copy-paste
+    speaker: Мария Кравченко
+    video: https://www.youtube.com/watch?v=hiQ3ujcjfd8
+    presentation: https://slides.com/maryiakrauchanka/deck#/
+  - name: Why Redux sucks?
+    speaker: Антон Разгуляев
+    video: https://www.youtube.com/watch?v=YDs5yQhyrhg
+    presentation: https://slides.com/avernikoz/deck-1#/
+  - name: Приключения обезьяны, таракашек и панического монстра
+    speaker: Владимир Рубин
+    video: https://www.youtube.com/watch?v=WB7zDr2SCUc
+    presentation: https://drive.google.com/file/d/1IIOuDVj9VUfrhnDsueRqSR2iwxHJD-b_/view
+  - name: Оптимизации в web
+    speaker: Михаил Деркач
+    video: https://www.youtube.com/watch?v=vw5wUcj7U-0
+    presentation: https://drive.google.com/file/d/1s2ePXjEqE0wWsy5bxKgA8Z8XhbV5N2hq/view

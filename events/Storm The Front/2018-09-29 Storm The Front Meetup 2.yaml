@@ -1,0 +1,12 @@
+name: Storm The Front Meetup 2
+date: 2018-09-29
+videos: https://www.youtube.com/playlist?list=PLX3qbfL4pq9A35wp1iLVkLKhY8GlCNESV
+talks:
+  - name: Типизируя React или как перестать бояться и полюбить статическую типизацию
+    speaker: Александр Климов, Даниил Горбунов
+    video: https://www.youtube.com/watch?v=tHNcGPwUENc
+    presentation: https://docs.google.com/presentation/d/1MbPftzpOYY-2pYtWdYO62_WM_Wo19xQWWOLgj3fjfQg/edit
+  - name: Куда катится JavaScript?
+    speaker: Алексей Лызо
+    video: https://www.youtube.com/watch?v=WQpZr0pGOJw
+    presentation: https://drive.google.com/file/d/1P7H1N_v_44YnDaxqUT0XB4E4K-4cCT4K/view

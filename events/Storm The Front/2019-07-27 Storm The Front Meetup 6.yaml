@@ -1,0 +1,20 @@
+name: Storm The Front Meetup 6
+date: 2019-07-27
+videos: ''
+talks:
+  - name: Введение в веб-компоненты
+    speaker: Андрей Космыков
+    video:
+    presentation:
+  - name: Функциональный функционирует
+    speaker: Александр Загорский
+    video:
+    presentation:
+  - name: Все, что вы хотели знать про удаленную работу, но стеснялись спросить
+    speaker: Сергей Корж
+    video:
+    presentation:
+  - name: Доступность в веб
+    speaker: Павел Дроздов
+    video:
+    presentation:

@@ -1,0 +1,20 @@
+name: Storm The Front Meetup 4
+date: 2019-02-07
+videos: https://www.youtube.com/playlist?list=PLX3qbfL4pq9BiW4fRzozJTw2zpvyFYMV9
+talks:
+  - name: Краткий обзор Atomic Design Methodology
+    speaker: Алёна Линкевич
+    video: https://www.youtube.com/watch?v=xLuVsU0VN10
+    presentation:
+  - name: Тебе стоит прийти на митап, даже если темы отстой
+    speaker: Павел Дроздов
+    video: https://www.youtube.com/watch?v=jPqWt8lGzYI
+    presentation: https://drive.google.com/file/d/1nRrtQNKEfwKI1wruyGYrOYg0rN6Au5ja/view
+  - name: Нет времени рефакторить или как сделать разработку лучше с Vue.js
+    speaker: Влад Горбачёв
+    video: https://www.youtube.com/watch?v=U9Ravjc493U
+    presentation: https://drive.google.com/file/d/1uCOiLbH_ev5O2vU2E6P2LmLQgf3apsFP/view
+  - name: Vue 3.0 — новые возможности
+    speaker: Виктория Макаренко
+    video: https://www.youtube.com/watch?v=rjiZn2Wkd9c
+    presentation: https://drive.google.com/file/d/15bQU-niuyv6TqE0dz5wW8hOfcK0A5mJQ/view
