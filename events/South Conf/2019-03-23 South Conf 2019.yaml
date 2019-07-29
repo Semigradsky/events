@@ -1,0 +1,44 @@
+name: South Conf 2019
+date: 2019-03-23
+videos: ''
+talks:
+  - name: Безболезненное тестирование компонентов скриншотами
+    speaker: Максим Куличенко
+    video: https://www.youtube.com/watch?v=WHVIrnsG82o
+    presentation:
+  - name: Анатомия технического долга
+    speaker: Андрей Руденец
+    video: https://www.youtube.com/watch?v=CTK8WPv0fes
+    presentation:
+  - name: Как делать только полезные задачи
+    speaker: Саша Константинов
+    video: https://www.youtube.com/watch?v=GKk_8QeCr9c
+    presentation:
+  - name: Дядюшка оставил вам в наследство 20 песо
+    speaker: Максим Коротенко
+    video: https://www.youtube.com/watch?v=nnQznMCW8xg
+    presentation:
+  - name: TypeScript, о котором невозможно молчать
+    speaker: Станислав Макаров
+    video: https://www.youtube.com/watch?v=7sf46mPb0yw
+    presentation:
+  - name: Оценка качества работы приложения – мониторинг потребления трафика
+    speaker: Игорь Дружинин
+    video: https://www.youtube.com/watch?v=aQ5NbkoY9N8
+    presentation:
+  - name: Сквозь Open Source к звездам
+    speaker: Виталий Слободин
+    video: https://www.youtube.com/watch?v=bI9Mi7qvBUI
+    presentation:
+  - name: "Дизайн-принципы для разработчиков: как дизайн помогает делать наши программы лучше?"
+    speaker: Алексей Тактаров
+    video: https://www.youtube.com/watch?v=COh_0Uxhoz0
+    presentation:
+  - name: "MarketPlace: вашим детям это понравится!"
+    speaker: Сергей Задорожный
+    video: https://www.youtube.com/watch?v=0_TjIr5dl7M
+    presentation:
+  - name: Достаточно хорошо
+    speaker: Юрий Агеев
+    video: https://www.youtube.com/watch?v=DveuMlRrVSc
+    presentation:
