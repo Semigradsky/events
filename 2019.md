@@ -47,6 +47,11 @@
 | [Сложная работа со сложными данными — SQL(подробные) запросы для JSON](https://youtu.be/o99D6zgi31g)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
 | [От компонентов к архитектуре](https://youtu.be/o99D6zgi31g)  |  [Иван Никишкин](speakers/Иван%20Никишкин.md)  |    |
 | [From bloody to sweety enterprise](https://youtu.be/o99D6zgi31g)  |  [Зар Захаров](speakers/Зар%20Захаров.md)  |    |
+## DINS - JavaScript EVENING - May 29 
+| | | |
+| --- | :---: | --- |
+| [Будущее React](https://www.youtube.com/watch?v=XbNNtZeArsE)  |  [Дмитрий Злыгин](speakers/Дмитрий%20Злыгин.md)  |    |
+| [Баги, которые вы никогда не встретите](https://www.youtube.com/watch?v=3KJpyGoElQQ)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
 ## Frontend Conf 2019 (РИТ++) - May 27-28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLfbxrJr-t5mk7etv7CWQSZ3vOHDsn4XEU)
 | | | |
 | --- | :---: | --- |
