@@ -167,6 +167,14 @@
 | [Семь будущих чудес CSS](https://www.youtube.com/watch?v=dcG3BKnVIhg)  |  [Сэм Булатов](speakers/Сэм%20Булатов.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/future-css/)   |
 | [Шрифты в вебе: от ASCII до эмоджи и немного дальше](https://www.youtube.com/watch?v=DCUsj_gNbxs)  |  [Юлия Бухвалова](speakers/Юлия%20Бухвалова.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/ascii-emoji/)   |
 | [Лучшее – враг хорошего, или Почему не надо становиться руководителем](https://www.youtube.com/watch?v=1mIcdj_ZXT8)  |  [Андрей Смирнов](speakers/Андрей%20Смирнов.md)  | [:notebook:](https://wsd.events/2019/04/13/pres/dont-team-lead/)   |
+## Storm The Front Meetup 5 - Apr 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLX3qbfL4pq9CJXgO4_aizriYJrbErJvDh)
+| | | |
+| --- | :---: | --- |
+| [Нейронные сети на javascript, почему бы и нет?](https://www.youtube.com/watch?v=b8KuVGwcaG4)  |  [Игорь Нестереня](speakers/Игорь%20Нестереня.md)  | [:notebook:](https://drive.google.com/file/d/16JHpphq1RTB4OhQujoP-piiAcGp5oidM/view)   |
+| [Не для любителей copy-paste](https://www.youtube.com/watch?v=hiQ3ujcjfd8)  |  [Мария Кравченко](speakers/Мария%20Кравченко.md)  | [:notebook:](https://slides.com/maryiakrauchanka/deck#/)   |
+| [Why Redux sucks?](https://www.youtube.com/watch?v=YDs5yQhyrhg)  |  [Антон Разгуляев](speakers/Антон%20Разгуляев.md)  | [:notebook:](https://slides.com/avernikoz/deck-1#/)   |
+| [Приключения обезьяны, таракашек и панического монстра](https://www.youtube.com/watch?v=WB7zDr2SCUc)  |  [Владимир Рубин](speakers/Владимир%20Рубин.md)  | [:notebook:](https://drive.google.com/file/d/1IIOuDVj9VUfrhnDsueRqSR2iwxHJD-b_/view)   |
+| [Оптимизации в web](https://www.youtube.com/watch?v=vw5wUcj7U-0)  |  [Михаил Деркач](speakers/Михаил%20Деркач.md)  | [:notebook:](https://drive.google.com/file/d/1s2ePXjEqE0wWsy5bxKgA8Z8XhbV5N2hq/view)   |
 ## MinskCSS 6 - Apr 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL3uk4LxG9Zzl9LTp0yLfaXhIu7-xoUHQN)
 | | | |
 | --- | :---: | --- |
@@ -335,6 +343,13 @@
 | [The better REST для разработки сложных Веб-приложений](https://www.youtube.com/watch?v=54iOZH6Fxig)  |  [Яссин Зарир](speakers/Яссин%20Зарир.md)  | [:notebook:](https://www.mera.ru/media/attachments/2019/02/18/graphql-the-better-rest_yBfz9kB.pdf)   |
 | [Подходы построения GraphQL-сервера в NodeJS](https://www.youtube.com/watch?v=bZ4Rwz7Dsgk)  |  [Павел Черторогов](speakers/Павел%20Черторогов.md)  | [:notebook:](https://nodkz.github.io/conf-talks/talks/2019.02.16-mera-nizhniy-novgorod/index.html#/5)   |
 | [GraphQL — новый Redux](https://youtu.be/lDIb5DIPcGg)  |  [Алексей Золотых](speakers/Алексей%20Золотых.md)  | [:notebook:](https://zolotyh.github.io/graphql-meetup/#/)   |
+## Storm The Front Meetup 4 - Feb 07 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLX3qbfL4pq9BiW4fRzozJTw2zpvyFYMV9)
+| | | |
+| --- | :---: | --- |
+| [Краткий обзор Atomic Design Methodology](https://www.youtube.com/watch?v=xLuVsU0VN10)  |  [Алёна Линкевич](speakers/Алёна%20Линкевич.md)  |    |
+| [Тебе стоит прийти на митап, даже если темы отстой](https://www.youtube.com/watch?v=jPqWt8lGzYI)  |  [Павел Дроздов](speakers/Павел%20Дроздов.md)  | [:notebook:](https://drive.google.com/file/d/1nRrtQNKEfwKI1wruyGYrOYg0rN6Au5ja/view)   |
+| [Нет времени рефакторить или как сделать разработку лучше с Vue.js](https://www.youtube.com/watch?v=U9Ravjc493U)  |  [Влад Горбачёв](speakers/Влад%20Горбачёв.md)  | [:notebook:](https://drive.google.com/file/d/1uCOiLbH_ev5O2vU2E6P2LmLQgf3apsFP/view)   |
+| [Vue 3.0 — новые возможности](https://www.youtube.com/watch?v=rjiZn2Wkd9c)  |  [Виктория Макаренко](speakers/Виктория%20Макаренко.md)  | [:notebook:](https://drive.google.com/file/d/15bQU-niuyv6TqE0dz5wW8hOfcK0A5mJQ/view)   |
 ## KyivJS 21 - Feb 07 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60riQwoR-WpcUuSqRVeGeSny)
 | | | |
 | --- | :---: | --- |
