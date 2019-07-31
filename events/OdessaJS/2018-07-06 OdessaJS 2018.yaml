@@ -1,0 +1,168 @@
+name: OdessaJS 2018
+date:
+  - 2018-07-06
+  - 2018-07-08
+talks:
+  - name: The Psychology of building your first open source
+    speaker: Eyal Eizenberg
+    lang: en
+    video: 'https://youtu.be/n2hYH87nzSA'
+  - name: Do not chase the hype train. Just steal ideas
+    speaker: Александр Хохлов
+    video: 'https://youtu.be/LVfmF1L6dGY'
+  - name: Get prepared for your performance...
+    speaker: 'Александра Шинкевич, Никита Дубко'
+    video: 'https://youtu.be/nsaF4VFnCz0'
+  - name: Deploying your JS app in 2018
+    speaker: Mike MacCana
+    lang: en
+    video: 'https://youtu.be/8QJq4_k0oTQ'
+  - name: Advanced State Management using ngrx v6
+    speaker: Gerard Sans
+    lang: en
+    video: 'https://youtu.be/J3p2eO-ziBQ'
+  - name: Copy paste detector for 150+ languages on JavaScript
+    speaker: Андрей Кучеренко
+    video: 'https://youtu.be/3wNEY6x5bIs'
+  - name: Serverless - the way microservices should be
+    speaker: Ivan Jovanovic
+    lang: en
+    video: 'https://youtu.be/aGbAUo7HC_0'
+  - name: 'Mutilation and suffering: How I decided to create a project using only Web Components without any framework'
+    speaker: Сергей Бабич
+    video: 'https://youtu.be/SFZJeO0_k8I'
+  - name: 'Algorithms in Front End: from V8 to VDOM'
+    speaker: Юрий Шерстюк
+    video: 'https://youtu.be/sFZX00-1t9E'
+  - name: 'Estimates: is there a silver bullet?'
+    speaker: Ксения Редунова
+    video: 'https://youtu.be/FQzFFmGMID8'
+  - name: Get started with Reason and ReasonReact
+    speaker: Nik Graf
+    lang: en
+    video: 'https://youtu.be/BVAzYl-4vQ4'
+  - name: Architecture evolution of Microsoft To-Do web app
+    speaker: Алексей Мигуцкий
+    video: 'https://youtu.be/BcyGEIhBZSE'
+  - name: Unleash your web skills on native
+    speaker: Rowdy Rabouw
+    lang: en
+    video: 'https://youtu.be/UVnlSuw1jac'
+  - name: 'Bot Building: channels, platforms, NLU'
+    speaker: 'Валентин Мезенцев, Глеб Добжанский, Виталий Гурин'
+    video: 'https://youtu.be/VIlbw9gvyWs'
+  - name: Redux-cornell
+    speaker: Eyal Eizenberg
+    lang: en
+    video: 'https://youtu.be/LmhtTzY3nms'
+  - name: 'Excuse me, I have to assemble Frontend'
+    speaker: Андрей Михайлюк
+    video: 'https://youtu.be/lqzzn4Z3krY'
+  - name: Houdini - CSS which is JavaScrip
+    speaker: Никита Дубко
+    video: 'https://youtu.be/MPaD8N9BrFA'
+  - name: OK Google. What's next?
+    speaker: Филипп Шурпик
+    video: 'https://youtu.be/ABYnHK8h7VQ'
+  - name: JavaScript without javascript
+    speaker: Patrick Kettner
+    lang: en
+    video: 'https://youtu.be/QJM538gMc7M'
+  - name: Unleash the power of the higher-order components
+    speaker: David Kopal
+    lang: en
+    video: 'https://youtu.be/P-3Oxb0nA5A'
+  - name: Real-world application of computer vision and machine
+    speaker: Аркадий Пилгук
+    video: 'https://youtu.be/tBkHbUbB5sg'
+  - name: Advanced React-Native
+    speaker: Илья Иванов
+    video: 'https://youtu.be/r3RXPLZ473A'
+  - name: Cloud Native Observability
+    speaker: Олег Черный
+    video: 'https://youtu.be/0VNcynPLgfo'
+  - name: The ABC of Coded Style Guides
+    speaker: Henning Muszynski
+    lang: en
+    video: 'https://youtu.be/gTjTTnCIG1o'
+  - name: Automating GitHub workflow with probot
+    speaker: Денис Довгань
+    lang: ru
+    video: 'https://youtu.be/b6S-TTFhSI0'
+  - name: WebRTC talk for OdessaJS
+    speaker: Gabriel Mičko
+    lang: en
+    video: 'https://youtu.be/10g_krBzymQ'
+  - name: WebAssembly powered Machine Learning
+    speaker: Михаил Зачепило
+    video: 'https://youtu.be/59dozr-XC-A'
+  - name: How to create a VR application with React
+    speaker: Виктор Турский
+    video: 'https://youtu.be/lrjRZc2YVG4'
+  - name: Evolution of Web Performance
+    speaker: Денис Артюхович
+    video: 'https://youtu.be/gNw1g_yib4Q'
+  - name: Introduction to Micro Frontends
+    speaker: Ivan Jovanovic
+    lang: en
+    video: 'https://youtu.be/hNqruwzdT4Q'
+  - name: W.T.F. is GraphQL?
+    speaker: Иван Гончаров
+    video: 'https://youtu.be/XkTPAY2gsNo'
+  - name: From monolith web app to micro-frontends – How we extended microservices architecture to frontend
+    speaker: 'Рустам Алиев, Иван Мартынов'
+    video: 'https://www.youtube.com/watch?v=kNMOucPMYmE'
+  - name: Chrome Dev Tools. New & Tips
+    speaker: Роман Савицкий
+    video: 'https://youtu.be/9rrjV5T5md4'
+  - name: Creating magic with houdini
+    speaker: Patrick Kettner
+    lang: en
+    video: 'https://youtu.be/WG14sHR3fH4'
+  - name: 'Flow typing: your path from experiments to final implementation in an enterprise project'
+    speaker: Леонид Байда
+    video: 'https://youtu.be/aEcTnCchHFY'
+  - name: How to scale an SPA to 1M views for $1?
+    speaker: Asim Hussain
+    lang: en
+    video: 'https://youtu.be/z2WkmCeXdOo'
+  - name: Let's kill lifecycle
+    speaker: Александр Шушунов
+    video: 'https://youtu.be/5PM5c0EUMyE'
+    presentation: 'https://drive.google.com/open?id=1m2Yhx2FGJze91drvaRqTWPmxMZxnqojm'
+    code: 'https://github.com/AlexanderShushunov/lets-kill-lifecycle'
+  - name: 'Development standards: a step-by-step guide to implement it without pain'
+    speaker: Александра Шинкевич
+    video: 'https://youtu.be/Bf2ZUsBdCn4'
+  - name: The existential crisis in a blockchain era
+    speaker: Александр Труш
+    video: 'https://youtu.be/cJPpyFfTFXI'
+  - name: Passing strings using (in)finite-state-machine and prepack
+    speaker: Валерий Сорокобатько
+    video: 'https://youtu.be/0LCVzgQu4Xs'
+  - name: 'WebAssembly vs JavaScript: What is faster?'
+    speaker: Олександр Скачков
+    video: 'https://youtu.be/yhyGVx4qqLM'
+  - name: React Refactoring Patterns
+    speaker: Радослав Станков
+    lang: en
+    video: 'https://youtu.be/bb9Qbybcr64'
+  - name: 'RxJS in React, RxJS in Angular and why we all should be friends'
+    speaker: Валентин Бармашин
+    video: 'https://youtu.be/Ix9r6iFCk3w'
+  - name: You’re probably making an API client
+    speaker: Haroen Viaene
+    lang: en
+    video: 'https://youtu.be/Tj1LcjzdVBM'
+  - name: 'Mining crypto in browser_ GPU, WebAssembly and all the good things to try'
+    speaker: Денис Радин
+    video: 'https://youtu.be/ubvMN_IC8wc'
+  - name: What happens when you don't write the code...
+    speaker: Артем Захарченко
+    video: 'https://youtu.be/jwRSMbaArj4'
+  - name: Making great event is the goal
+    speaker: Денис Радин
+    video: 'https://youtu.be/NSVfZ_Oujx8'
+  - name: How to make web-applications more native and a user happier...
+    speaker: Тимофей Лавренюк
+    video: 'https://youtu.be/wklnEN-zzMI'

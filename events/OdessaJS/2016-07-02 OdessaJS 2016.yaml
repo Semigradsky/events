@@ -1,0 +1,93 @@
+name: OdessaJS 2016
+date:
+  - 2016-07-02
+  - 2016-07-03
+talks:
+  - name: Карты и картографические сервисы
+    speaker: Николай Беличук
+    video: 'https://youtu.be/b_wnjn1iWEQ'
+  - name: Data fetching в React.js
+    speaker: Артем Тритяк
+    video: 'https://youtu.be/q2uIJOrEXuQ'
+  - name: Internet of things в офисе
+    speaker: Юрий Шевцов
+    video: 'https://youtu.be/7LGrDbZ3Kh8'
+  - name: Можно вообще всё. Раскладка по гриду
+    speaker: Вадим Макеев
+    video: 'https://youtu.be/VndU9asBYmc'
+  - name: 'Sync: rocket science explained'
+    speaker: Виктор Грищенко
+    video: 'https://youtu.be/vBmPjWbB2Zs'
+  - name: Offline first in React Native and Redux
+    speaker: Филипп Шурпик
+    video: 'https://youtu.be/SSt_9HxVHf0'
+  - name: Node.js вширь и вглубь
+    speaker: Дмитрий Гусев
+    video: 'https://youtu.be/NZCXrSnpEfs'
+  - name: Intro to Optimizing Compilers
+    speaker: Ингвар Степанян
+    video: 'https://youtu.be/9EhZJ8nx__c'
+  - name: What professionals can learn from coding games?
+    speaker: Александр Лябах
+    video: 'https://youtu.be/00_UFw0elIY'
+  - name: 'Elm: functional programming in your browser'
+    speaker: Александр Труш
+    video: 'https://youtu.be/hxCjNLsg2j4'
+  - name: Rx.js пожоще
+    speaker: Денис Стоянов
+    video: 'https://youtu.be/Tguv7h3rnQE'
+  - name: 'Архитектура, или как мы куда-то не туда пошли'
+    speaker: Дмитрий Малеев
+    video: 'https://youtu.be/UtqU8geTQ0I'
+  - name: Что не так с web и как с этим жить
+    speaker: Сергей Рубанов
+    video: 'https://youtu.be/qUxpEeI5vw8'
+  - name: Angular 2 Universe
+    speaker: Денис Зайченко
+    video: 'https://youtu.be/_OFTSRFw7K4'
+  - name: 'Пишем код, тягаем штангу'
+    speaker: Александр Завьялов
+    video: 'https://youtu.be/QvOpA1ZgRqQ'
+  - name: 'ECMAScript: past, present and future'
+    speaker: Ксения Редунова
+    video: 'https://youtu.be/PK1xM1yqXpM'
+  - name: Excellence of Engineering Practices for Large-scale JavaScript Applications
+    speaker: 'Николай Алименков, Роман Ермаков'
+    video: 'https://youtu.be/46yr5BlmyS4'
+  - name: Node.js Macht Frei
+    speaker: Тимур Шемсединов
+    video: 'https://youtu.be/926UKzrVrqk'
+  - name: 'WebGL, basic computer graphics for frontend devs'
+    speaker: Martin Naumann
+    lang: en
+    video: 'https://youtu.be/9VvMFz0-DKE'
+  - name: Koa.js as an alternative to Express
+    speaker: Николай Кожухаренко
+    video: 'https://youtu.be/MFh4YOV5Zj4'
+  - name: Ребрендинг в продакшене
+    speaker: Алексей Мигуцкий
+    video: 'https://youtu.be/gfO2i9p8XSo'
+  - name: IoT Real time dashboards with signalR
+    speaker: Сергей Поплавский
+    video: 'https://youtu.be/1pkzx0Cs8iE'
+  - name: Как подготовиться к собеседованию в ИТ-компанию
+    speaker: Анна Орлова
+    video: 'https://youtu.be/egeMl5jisaI'
+  - name: Стринги
+    speaker: Кирилл Яковенко
+    video: 'https://youtu.be/WX-I3lyiUGE'
+  - name: SmartHouse & IoT
+    speaker: Андрей Кучеренко
+    video: 'https://youtu.be/51I9ljAWVkg'
+  - name: 'Progressive Web Apps или фишки, которые позволяют приблизить сайт к приложению'
+    speaker: Дмитрий Тинитилов
+    video: 'https://youtu.be/e7rbmgZM9b8'
+  - name: 'Relay internals, such as cache algorithm, garbage collector, algorithm of applying optimistic updates'
+    speaker: Вячеслав Слинько
+    video: 'https://youtu.be/mOD5nFc-_ek'
+  - name: JavaScript разработчик глазами PMа
+    speaker: Александр Черкасский
+    video: 'https://www.youtube.com/watch?v=cs21k6_Qbko'
+  - name: 'Об оверхеде, который вас убивает'
+    speaker: Алексей Орленко
+    video: 'https://youtu.be/LYqhH2Rk-K4'

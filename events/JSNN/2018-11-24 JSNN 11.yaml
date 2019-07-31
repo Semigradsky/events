@@ -9,6 +9,8 @@ talks:
   - name: Let's kill lifecycle
     speaker: Александр Шушунов
     video: https://www.youtube.com/watch?v=DCn9mU0w38A
+    presentation: https://drive.google.com/file/d/1C2Urx3eg39Igd_j4ybt4EFtzfrg73AqB/view?usp=sharing
+    code: https://github.com/AlexanderShushunov/lets-kill-lifecycle
   - name: Цена типизации
     speaker: Назим Гафаров
     video: https://www.youtube.com/watch?v=6WfUDHlhO8s

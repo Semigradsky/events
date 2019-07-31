@@ -1,0 +1,71 @@
+name: OdessaJS 2015
+date:
+  - 2015-08-21
+  - 2015-08-22
+talks:
+  - name: Connect physical world to the Internet with JavaScript
+    speaker: Андрей Кучеренко
+    video: 'https://youtu.be/zwZNaj998tg'
+  - name: Connect physical world to the Internet with JavaScript
+    speaker: Максим Крячко
+    video: 'https://youtu.be/zwZNaj998tg'
+  - name: 12 ошибок Frontend разработчика или как оптимизировать готовый продукт
+    speaker: Юлия Пшинко
+    video: 'https://youtu.be/VLbFbU488kI'
+  - name: 'Мастер-класс: строим сервис по БЭМ'
+    speaker: Сергей Бережной
+    video: 'https://youtu.be/9VvmzwljkdM'
+  - name: Front-end Security
+    speaker: Николай Беличук
+    video: 'https://youtu.be/4mldBI_xSPw'
+  - name: Разработка через тестирование на Javascript
+    speaker: Андрей Кучеренко
+    video: 'https://youtu.be/UEDGvBmrgJ0'
+  - name: Как исправить ошибку в NodeJS и нечаянно поднять производительность в 2 раза
+    speaker: Тимур Шемсединов
+    video: 'https://youtu.be/Q8ohKdYrpRA'
+  - name: Marionette. Shall we dance?
+    speaker: Ксения Редунова
+    video: 'https://youtu.be/O0VsEq2GsHA'
+  - name: 'Учи разные языки! Будь мужиком, Карл'
+    speaker: Дмитрий Малеев
+    video: 'https://youtu.be/NdU1DrcrsdY'
+  - name: Структура проекта и разработка модулей на Meteor.js
+    speaker: Вячеслав Ворончук
+    video: 'https://youtu.be/0ZoYNt8xGj4'
+  - name: Service Worker - Bringing Native App Experience To Web Apps
+    speaker: Виктор Зозуляк
+    video: 'https://youtu.be/Zo5leNzBbOc'
+  - name: Применяем однонаправленный поток данных за пределами экосистемы ReactJS
+    speaker: Андрей Пазняк
+    video: 'https://youtu.be/fSpwFiwRYME'
+  - name: 'Как устроен NodeJS (V8, libuv, async, bindings)'
+    speaker: Евгений Обрезков
+    video: 'https://youtu.be/yKU6K1i5i6o'
+  - name: Сила JS в облаке Azure
+    speaker: Маргарита Остапчук
+    video: 'https://youtu.be/wBKr4J5an5E'
+  - name: WebRTC - real-tim​e communications
+    speaker: Илья Касьяненко
+    video: 'https://youtu.be/fOthkw5lp2Q'
+  - name: Chrome internals & rendering performance
+    speaker: Алексей Швайка
+    video: 'https://youtu.be/FZwmEb4H5ew'
+  - name: 'Пацаны, го в бекграунд'
+    speaker: Артем Захарченко
+    video: 'https://youtu.be/B6gSYKKgus4'
+  - name: Ember+Redux - вместе веселей
+    speaker: Андрей Листочкин
+    video: 'https://youtu.be/wqt_kyrumfM'
+  - name: React Native
+    speaker: Артем Тритяк
+    video: 'https://youtu.be/G74sB7OXliQ'
+  - name: React Native & Reflux
+    speaker: Филипп Шурпик
+    video: 'https://youtu.be/sR2cwJXNNq4'
+  - name: First-class programming
+    speaker: Алексей Распопов
+    video: 'https://youtu.be/RoUt1V9MYzo'
+  - name: 'React, Flux и правильные абстракции'
+    speaker: Илья Сегеда
+    video: 'https://youtu.be/hrt8ceKCMvg'
