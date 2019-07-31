@@ -1,0 +1,21 @@
+name: Vue.js Moscow Meetup 2
+date: 2018-07-05
+videos: https://www.youtube.com/watch?v=SiPKxngecQ0
+link: https://corp.mail.ru/ru/press/events/481/
+talks:
+  - name: Почему Vue.js одинаково хорош для внедрения в legacy код и для построения архитектуры большого приложения с нуля
+    speaker: Никита Крикун
+    video:
+    presentation:
+  - name: Сложные анимации во Vue.js
+    speaker: Сергей Корниенко
+    video: https://www.youtube.com/watch?v=14yOawLavB0
+    presentation:
+  - name: Замечательный PWA
+    speaker: Владислав Смирнов
+    video:
+    presentation:
+  - name: Модульно-микросервисная архитектура на на Vue.js
+    speaker: Антон Федоров
+    video:
+    presentation:

@@ -1,0 +1,20 @@
+name: Vue.js Moscow Meetup 3
+date: 2019-08-22
+videos: ''
+talks:
+  - name: Vue, Typescript и JSX
+    speaker: Евгений Петухов
+    video:
+    presentation:
+  - name: Интеграция и использование Redux во Vue.js
+    speaker: Анатолий Колесов
+    video:
+    presentation:
+  - name: Quasar Framework и SunEngine
+    speaker: Дмитрий Полянин
+    video:
+    presentation:
+  - name: Паттерны и бизнес-логика для вашего Vue приложения
+    speaker: Никита Соболев
+    video:
+    presentation:
