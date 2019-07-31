@@ -15,7 +15,7 @@
 | | | |
 | --- | :---: | --- |
 | [Типографика в вебе](https://www.youtube.com/watch?v=bOAWcPg-Miw)  |  [Антон Кастрицкий](speakers/Антон%20Кастрицкий.md)  |    |
-| [Let&#39;s kill lifecycle](https://www.youtube.com/watch?v=DCn9mU0w38A)  |  [Александр Шушунов](speakers/Александр%20Шушунов.md)  |    |
+| [Let&#39;s kill lifecycle](https://www.youtube.com/watch?v=DCn9mU0w38A)  |  [Александр Шушунов](speakers/Александр%20Шушунов.md)  | [:notebook:](https://drive.google.com/file/d/1C2Urx3eg39Igd_j4ybt4EFtzfrg73AqB/view?usp=sharing) [:octocat:](https://github.com/AlexanderShushunov/lets-kill-lifecycle)  |
 | [Цена типизации](https://www.youtube.com/watch?v=6WfUDHlhO8s)  |  [Назим Гафаров](speakers/Назим%20Гафаров.md)  |    |
 | [Жизнь после Svelte](https://www.youtube.com/watch?v=VNDULWsmjQM)  |  [Павел Малышев](speakers/Павел%20Малышев.md)  |    |
 ## JSNN 9 - 2018 Mar 03 [:movie_camera:](https://www.youtube.com/playlist?list=PLY-gw0IiDtxq7irk9vCStLkY1YhqxpFRS)
