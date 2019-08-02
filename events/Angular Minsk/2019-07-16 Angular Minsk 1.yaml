@@ -3,10 +3,10 @@ date: 2019-07-16
 talks:
   - name: What’s new in Angular 8 and how to migrate
     speaker: Алексей Кунцевич
-    presentation:
+    presentation: https://kuncevic.github.io/presentations/what-is-new-in-angular-8-and-how-to-migrate.html#/intro
   - name: How to manage data in your Angular app with NGXS store and Firebase
     speaker: Юрий Татенко
-    presentation:
+    presentation: https://docs.google.com/presentation/d/1_wemiuaAQhx6je3Zkk0XppLN0rqj8jdjutLiKfGzbf8/edit?usp=sharing
   - name: Bad Practices, what NOT to do in Angular
     speaker: Валентин Кононов
-    presentation:
+    presentation: https://slides.com/valentinkononov/angular-bad-practices
