@@ -1,0 +1,16 @@
+name: Angular Belarus 1
+date: 2019-08-22
+videos: ''
+talks:
+  - name: Perks of working in Nest.js
+    speaker: Валентин Кононов
+    video:
+    presentation:
+  - name: Rendering Angular applications in Terminal. Angular Platforms in-depth
+    speaker: Никита Полторацкий
+    video:
+    presentation:
+  - name: "Angular PWA: Make Angular app great again"
+    speaker: Ирина Бабровская
+    video:
+    presentation:
