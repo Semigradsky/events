@@ -19,6 +19,12 @@
 | [Vue.js 3 — все что ждет нас в будущем](https://youtu.be/C8GCxIF0ABY?t=222)  |  [Игорь Шеко](speakers/Игорь%20Шеко.md)  | [:notebook:](https://t.me/msk_vue_js/2274)   |
 | [Опыт использования Vue.js в «Едадиле»](https://www.youtube.com/watch?v=C8GCxIF0ABY&t=3770s)  |  [Кобец Андрей](speakers/Кобец%20Андрей.md)  | [:notebook:](https://t.me/msk_vue_js/2281)   |
 | [Прогрессивные приложения на прогрессивном фреймворке](https://youtu.be/C8GCxIF0ABY?t=6026)  |  [Ольга Лесникова](speakers/Ольга%20Лесникова.md)  | [:notebook:](https://t.me/msk_vue_js/2266)   |
+## Angular Minsk 1 - Jul 16 
+| | | |
+| --- | :---: | --- |
+| What’s new in Angular 8 and how to migrate  |  [Алексей Кунцевич](speakers/Алексей%20Кунцевич.md)  | [:notebook:](https://kuncevic.github.io/presentations/what-is-new-in-angular-8-and-how-to-migrate.html#/intro)   |
+| How to manage data in your Angular app with NGXS store and Firebase  |  [Юрий Татенко](speakers/Юрий%20Татенко.md)  | [:notebook:](https://docs.google.com/presentation/d/1_wemiuaAQhx6je3Zkk0XppLN0rqj8jdjutLiKfGzbf8/edit?usp=sharing)   |
+| Bad Practices, what NOT to do in Angular  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/angular-bad-practices)   |
 ## GDG Minsk Web Meetup - Jun 27 
 | | | |
 | --- | :---: | --- |
