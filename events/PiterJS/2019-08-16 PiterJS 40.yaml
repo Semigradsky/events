@@ -1,0 +1,16 @@
+name: PiterJS 40
+date: 2019-08-16
+videos: ''
+talks:
+  - name: Презентация приложения для проведения презентаций
+    speaker: Дмитрий Карловский
+    video:
+    presentation:
+  - name: Планета на WebGL
+    speaker: Анна Волкова
+    video:
+    presentation:
+  - name: Типы данных в CSS
+    speaker: София Валитова
+    video:
+    presentation:
