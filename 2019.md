@@ -3,6 +3,12 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Minsk 2 - Aug 06 
+| | | |
+| --- | :---: | --- |
+| Modern e2e testing with Cypress.io  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  | [:notebook:](https://ilyaryabchinski.github.io/cypress-talk/)   |
+| Ivy and the future of the Angular compiler  |  [Роман Колесников](speakers/Роман%20Колесников.md)  | [:notebook:](https://docs.google.com/presentation/d/1uuCTnlr5a1V-E7htuqBlRwEY826RnS67fkqNKjT6B1k/edit?usp=sharing)   |
+| GraphQL and how to use it with Apollo Angular and Redux  |  [Дмитрий Грачёв](speakers/Дмитрий%20Грачёв.md)  | [:notebook:](https://docs.google.com/presentation/d/17jWAk3wIWgpGibr5j8TX9vSGZZvsA32zVPZujv4rooM/edit)   |
 ## Я.Субботник по разработке интерфейсов - Jul 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;1U4NrB9v9ZA)
 | | | |
 | --- | :---: | --- |
