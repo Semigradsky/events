@@ -2,5 +2,208 @@ name: OdessaJS 2017
 date:
   - 2017-06-30
   - 2017-07-02
-videos: ''
-talks: []
+videos: https://www.youtube.com/playlist?list=PLUF1zRLAgrPHwKYzXbAprzO3-Ykbq1xkY
+talks:
+  - name: Функциональная садо-мазо разработка на TypeScript и F# с примесью Elm
+    speaker: Андрей Чебукин
+    video: https://www.youtube.com/watch?v=y8BZrGWV-Ew
+    presentation:
+  - name: Offline-first приложение на Reflex
+    speaker: Денис Яремов
+    video: https://www.youtube.com/watch?v=GF9tlx2SCOQ
+    presentation:
+  - name: Easy ways to speed up your web app
+    speaker: Артем Денисов
+    video: https://www.youtube.com/watch?v=11ZBYf-jugE
+    presentation: https://www.slideshare.net/OdessaJSConf/artem-denysov-easy-ways-to-speed-up-your-web-application
+  - name: Переезд в США от а до я
+    speaker: Артем Тритяк
+    video: https://www.youtube.com/watch?v=-3OQiAMDfDo
+    presentation:
+  - name: $ecret
+    speaker: Алексей Мигуцкий
+    video:
+    presentation:
+  - name: I didn’t know the browser could do that!
+    speaker: Sam Bellen
+    lang: en
+    video: https://www.youtube.com/watch?v=MT9exHjFBV0
+    presentation:
+  - name: Real world WebAssembly
+    speaker: Сергей Рубанов
+    video: https://www.youtube.com/watch?v=kS29TT4wk44
+    presentation:
+  - name: JS static typing. What and why.
+    speaker: Елена Жукова
+    video: https://youtu.be/nkgbeb_ONCk
+    presentation: https://www.slideshare.net/OdessaJSConf/helen-zhukova-js-static-typing-what-and-why
+  - name: Magic of Vue.js ?
+    speaker: Андрей Борисенко
+    video: https://www.youtube.com/watch?v=AC8XSo9qa44
+    presentation: https://www.slideshare.net/OdessaJSConf/andrew-borisenko-magic-of-vuejs
+  - name: Unleashing the power of GraphQL and React
+    speaker: Gerard Sans
+    lang: en
+    video: https://www.youtube.com/watch?v=jWSnPo7mQlE
+    presentation:
+  - name: Service-oriented GraphQL
+    speaker: Ник Раенко
+    video: https://www.youtube.com/watch?v=Lh5SXl34188
+    presentation: https://www.slideshare.net/OdessaJSConf/nick-raienko-serviceoriented-graphql
+  - name: "Мастер-класс: INSTAphoto"
+    speaker: Евгений Касяненко
+    video:
+    presentation:
+  - name: Professional burnout
+    speaker: Александр Труш
+    video: https://www.youtube.com/watch?v=z61sT_7wo3U
+    presentation: https://www.slideshare.net/OdessaJSConf/alex-troush-professional-burnout
+  - name: "Gamification in outsourcing company: experience report."
+    speaker: Николай Алименков
+    video: https://www.youtube.com/watch?v=1jMPDYTLuAA
+    presentation:
+  - name: Дарт...жив?
+    speaker: Евгений Гусев
+    video: https://www.youtube.com/watch?v=w-33ulxlDhI
+    presentation:
+  - name: V8 + libuv = Node.js. Under the hood
+    speaker: Юрий Шевцов
+    video: https://www.youtube.com/watch?v=MV6N9BRdiaY
+    presentation: https://www.slideshare.net/OdessaJSConf/yurii-shevtsov-v8-libuv-nodejs-under-the-hood
+  - name: DDD во фронтенде. WAT? WTF? YAGNI!
+    speaker: Алексей Мигуцкий
+    video:
+    presentation:
+  - name: "More Than Music: Tiny Computers, JavaScript and MIDI"
+    speaker: George Mandis
+    lang: en
+    video: https://www.youtube.com/watch?v=XR8ZmimWgd4
+    presentation: https://speakerdeck.com/georgemandis/make-more-than-music-with-tiny-computers-javascript-and-midi-at-odessajs-2017-odessa-ukraine
+  - name: 5 production Node.js stories
+    speaker: Никита Галкин
+    video: https://www.youtube.com/watch?v=FA3EIk5cW8k
+    presentation: https://speakerdeck.com/galkin/5-production-node-dot-js-stories-at-odessajs-2017
+  - name: Пишу на колбеках, а что...
+    speaker: Тимур Шемсединов
+    video:
+    presentation: https://www.slideshare.net/OdessaJSConf/timur-shemsedinov
+  - name: The rise of javascript robotics
+    speaker: Markus Leutwyler
+    lang: en
+    video:
+    presentation:
+  - name: Machine Learning and AI - зачем оно мне джаваскриптеру?
+    speaker: Philip Shurpik
+    video:
+    presentation:
+  - name: Practical difficulties and approaches to its solution in node.js development
+    speaker: Виталий Лебедев
+    video: https://www.youtube.com/watch?v=fHkjTMB7Y5k
+    presentation:
+  - name: High-performance IPC and RPC for microservices and apps
+    speaker: Алексей Орленко
+    video: https://www.youtube.com/watch?v=5Jn_rKhIMr4
+    presentation: https://www.slideshare.net/OdessaJSConf/alexey-orlenko-highperformance-ipc-and-rpc-for-microservices-and-apps
+  - name: Agile не работает. Мы все умрём!
+    speaker: Alexander Marchenko
+    video:
+    presentation:
+  - name: Облако в штанах
+    speaker: Юрий Дадычин
+    video: https://www.youtube.com/watch?v=yPDyP_igH1Y
+    presentation:
+  - name: Angular Universal
+    speaker: Артем Палий
+    video: https://www.youtube.com/watch?v=_3KDM2trxak
+    presentation:
+  - name: Лайфхаки фронтэнд разработчика
+    speaker: Алексей Золотых
+    video: https://www.youtube.com/watch?v=i3KueEClK8A
+    presentation:
+  - name: "KonamiJS: a 10 year old Open Source project"
+    speaker: George Mandis
+    lang: en
+    video: https://www.youtube.com/watch?v=F3xI3ps7syI
+    presentation:
+  - name: Oh my Node или что нужно знать о безопасности в NodeJS
+    speaker: Роман Саченко
+    video: https://www.youtube.com/watch?v=n4JD6yFlxBs
+    presentation:
+  - name: Progressive Web Apps или как сделать веб-приложение ближе к нативному
+    speaker: Тимофей Лавренюк
+    video: https://www.youtube.com/watch?v=CyysOk97WAA
+    presentation:
+  - name: Groupware System for fun and profit
+    speaker: Максим Климишин
+    video: https://www.youtube.com/watch?v=qSO86HH-zaU
+    presentation:
+  - name: Angular Testing Recipes (v4+)
+    speaker: Gerard Sans
+    lang: en
+    video: https://www.youtube.com/watch?v=DLSwaFKkEUs
+    presentation:
+  - name: Enhancing durability of ReactJS applications with Elm components
+    speaker: Вячеслав Ворончук
+    video: https://www.youtube.com/watch?v=zAGSXdsVp8Q
+    presentation: https://www.slideshare.net/OdessaJSConf/vyacheslav-voronchuk-enhancing-durability-of-reactjs-applications-with-elm-components
+  - name: Remote Developer Crash Start
+    speaker: Александр Розумей
+    video: https://www.youtube.com/watch?v=aGUoSY969mE
+    presentation: https://slides.com/brain-geek/remote-developer-crash-start#/
+  - name: Как правильно думать
+    speaker: Алексей Плетнёв
+    video: https://www.youtube.com/watch?v=RtJfM2B6mTw
+    presentation: https://www.slideshare.net/OdessaJSConf/oleksiy-pletnov
+  - name: Neural networks in js
+    speaker: Всеволод Родионов
+    video: https://www.youtube.com/watch?v=8sAnWiwDWwI
+    presentation: https://www.slideshare.net/vsevolodrodionov/js-77437539
+  - name: Reactive State Management
+    speaker: Григорий Шехет
+    video: https://www.youtube.com/watch?v=ALoiGs5NeSs
+    presentation: https://www.slideshare.net/OdessaJSConf/gregory-shehet-reactive-state-managment
+  - name: JSPM way of doing ES6 development
+    speaker: Сергей Селецкий
+    video:
+    presentation:
+  - name: Changing live audio with the web-audio-api
+    speaker: Sam Bellen
+    lang: en
+    video: https://www.youtube.com/watch?v=7SPDzoOC8yo
+    presentation:
+  - name: Cross-shell prompts in JavaScript
+    speaker: Денис Довгань
+    video: https://www.youtube.com/watch?v=cka5-bMm41A
+    presentation: https://denysdovhan.com/slides-cross-shell-prompts/#/
+  - name: Component Driven Development
+    speaker: Николай Кожухаренко
+    video: https://www.youtube.com/watch?v=rS_Uw_ihsko
+    presentation: https://www.slideshare.net/OdessaJSConf/nikolay-kozhukharenko-component-driven-development-how-to-guide
+  - name: Use cases of Node.js Streams
+    speaker: Андрей Шумада
+    video: https://www.youtube.com/watch?v=nHwNDmdasWw
+    presentation: https://www.slideshare.net/OdessaJSConf/andrii-shumada-use-cases-of-nodejs-streams
+  - name: RxJS - think reactevly
+    speaker: Александр Грибанов
+    video: https://www.youtube.com/watch?v=BiTu-ykKTG4
+    presentation:
+  - name: Эволюция архитектуры ИС
+    speaker: Тимур Шемсединов
+    video:
+    presentation: https://www.slideshare.net/OdessaJSConf/timur-shemsedinov-77913091
+  - name: Modern approach to localization in javascript with the good old gettext and c-3po
+    speaker: Александр Мостовенко
+    video: https://www.youtube.com/watch?v=9QjzpfA9LH4
+    presentation: https://www.slideshare.net/OdessaJSConf/alexander-mostovenko-modern-approach-to-localization-in-javascript-with-the-good-old-gettext-and-c3po
+  - name: "Trojan War: SinonJS"
+    speaker: Александра Калинина
+    video: https://www.youtube.com/watch?v=xITbhmWYyXQ
+    presentation:
+  - name: Asynchrony with the MetaSync library
+    speaker: Тимур Шемсединов
+    video: https://www.youtube.com/watch?v=XRSxsw0Kgms
+    presentation:
+  - name: "Angular 4 Animate: завтрашние UI технологии"
+    speaker: Антон Видинёв
+    video: https://www.youtube.com/watch?v=v0M1DLNg25k
+    presentation: https://www.slideshare.net/OdessaJSConf/anton-vidinev-angular-4-animate-ui

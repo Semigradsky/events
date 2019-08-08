@@ -3,51 +3,63 @@ date:
   - 2014-07-05
   - 2014-07-06
 talks:
-  - name: Тестирование CSS-регрессий с Gemini
-    speaker: Сергей Татаринцев
-    video: 'https://youtu.be/k0RDoEBqeU8'
-  - name: Javascript и иновации
-    speaker: Максим Климишин
-    video: 'https://youtu.be/qTm6wgCVGlQ'
-  - name: Секретный доклад
+  - name: Ember.js Назад в будущее
     speaker: Андрей Листочкин
-    video: 'https://youtu.be/4t6c7G7gjTI'
-  - name: Javascript Quest
-    speaker: Дмитрий Тарасенко
-    video: 'https://youtu.be/0xN8dYmYJFU'
-  - name: Building realtime
-    speaker: Вадим Рубан
-    video: 'https://youtu.be/4o9InQSWnbw'
-  - name: There is no View we are looking for
-    speaker: Антон Яценко
-    video: 'https://youtu.be/u11yWeTuPfc'
-  - name: Node js Practical Guide
-    speaker: Эльдар Джафаров
-    video: 'https://youtu.be/NW8xjOc0_uU'
+    video: 'https://youtu.be/yIIdnEDtgiU'
   - name: Асинхронное программирование Deferred и Promises
     speaker: Дмитрий Охрименко
     video: 'https://youtu.be/6iRO2NPmxMs'
-  - name: Java Script и качество кода
-    speaker: Андрей Кучеренко
-    video: 'https://youtu.be/b3YT6-6egVM'
-  - name: React JS Паттерны разработки
-    speaker: Эльдар Джафаров
-    video: 'https://youtu.be/30Ip4N7o9u8'
-  - name: Что-то про трансформацию JS
-    speaker: Ингвар Степанян
-    video: 'https://youtu.be/2rOUDjM9kBA'
-  - name: Производительность Client Side
-    speaker: Александр Бойченко
-    video: 'https://youtu.be/NickLGiKjZo'
-  - name: Angular JS at enterprise
-    speaker: Валентин Шибанов
-    video: 'https://youtu.be/Q56FtS0OzuA'
   - name: Что-то о юнит тестировании
     speaker: Артем Тритяк
     video: 'https://youtu.be/Pg45eGbicFk'
-  - name: Визуализируем стильно с D3 js
+  - name: Node js Practical Guide
+    speaker: Эльдар Джафаров
+    video: 'https://youtu.be/NW8xjOc0_uU'
+  - name: Производительность Client Side
+    speaker: Александр Бойченко
+    video: 'https://youtu.be/NickLGiKjZo'
+  - name: There is no View we are looking for
+    speaker: Антон Яценко
+    video: 'https://youtu.be/u11yWeTuPfc'
+  - name: React JS Паттерны разработки
+    speaker: Эльдар Джафаров
+    video: 'https://youtu.be/30Ip4N7o9u8'
+  - name: Javascript Quest
+    speaker: Дмитрий Тарасенко
+    video: 'https://youtu.be/0xN8dYmYJFU'
+  - name: Разработка Windows 8 и Windows Phone приложений с помощью JavaScript
+    speaker: Сергей Байдачный
+    video:
+  - name: Javascript и иновации
+    speaker: Максим Климишин
+    video: 'https://youtu.be/qTm6wgCVGlQ'
+  - name: Визуализируем стильно с D3.js
     speaker: Ксения Редунова
     video: 'https://youtu.be/JjHwPIF1xwE'
-  - name: Ember js Назад в будущее
+  - name: JavaScript и качество кода
+    speaker: Андрей Кучеренко
+    video: 'https://youtu.be/b3YT6-6egVM'
+  - name: AngularJS at enterprise
+    speaker: Валентин Шибанов
+    video: 'https://youtu.be/Q56FtS0OzuA'
+  - name: Разработка проекта на полном стеке БЭМ
+    speaker: Евгений Константинов, Дмитрий Белицкий
+    video:
+  - name: Тестирование CSS-регрессий с Gemini
+    speaker: Сергей Татаринцев
+    video: 'https://youtu.be/k0RDoEBqeU8'
+  - name: Что-то о взаимодействии компонентов в Backbone.js приложениях и не только
+    speaker: Денис Кузин
+    video:
+  - name: Что-то про трансформацию JS
+    speaker: Ингвар Степанян
+    video: 'https://youtu.be/2rOUDjM9kBA'
+  - name: Building realtime WebApps with XMPP
+    speaker: Вадим Рубан
+    video: 'https://youtu.be/4o9InQSWnbw'
+  - name: Архитектура расширяемых приложений
+    speaker: Артём Платонов, Андрей Альперт
+    video:
+  - name: Секретный доклад про React
     speaker: Андрей Листочкин
-    video: 'https://youtu.be/yIIdnEDtgiU'
+    video: 'https://youtu.be/4t6c7G7gjTI'
