@@ -3,7 +3,7 @@ date: 2018-08-25
 videos: https://www.youtube.com/playlist?list=PLVxsRDo37_ZfCErKzKrSk3TBc_YSDlhEA
 talks:
   - name: Click the button. The hard way
-    speaker: Дима Лазарев
+    speaker: Дмитрий Лазарев
     video: https://www.youtube.com/watch?v=q0jW1ljHjXM
     tags:
       - 'testing'

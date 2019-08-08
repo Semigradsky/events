@@ -31,7 +31,7 @@ talks:
     speaker: Валентин Шибанов
     video:
   - name: React Native
-    speaker: Артем Тритяк
+    speaker: Артём Тритяк
     video: 'https://youtu.be/G74sB7OXliQ'
   - name: Front-end Security
     speaker: Николай Беличук
@@ -49,7 +49,7 @@ talks:
     speaker: Ксения Редунова
     video: 'https://youtu.be/O0VsEq2GsHA'
   - name: 'Пацаны, го в бекграунд'
-    speaker: Артем Захарченко
+    speaker: Артём Захарченко
     video: 'https://youtu.be/B6gSYKKgus4'
   - name: The new rock star of build tools - Webpack
     speaker: Андрей Вандакуров

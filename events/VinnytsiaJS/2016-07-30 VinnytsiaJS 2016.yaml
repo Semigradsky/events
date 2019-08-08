@@ -7,29 +7,29 @@ talks:
     video: https://www.youtube.com/watch?v=wQuG094IdEw
     lang: en
   - name: Hidden capabilities of well-known things
-    speaker: Alexey Volkov
+    speaker: Алексей Волков
     video: https://www.youtube.com/watch?v=mG10Hnrryhc
   - name: 'React, Redux and immutable state'
-    speaker: Yevhen Shemet
+    speaker: Евгений Шемет
     video: https://www.youtube.com/watch?v=HWTqxAUCBsI
   - name: Node.js – running JavaScript on-earth and in-cloud
-    speaker: Andriy Deren
+    speaker: Андрей Дерен
     video: https://www.youtube.com/watch?v=_cdKDhoAYvk
   - name: Smart Office - the practical application of IoT in JS development
-    speaker:  Dmytro Golysh, Юрий Ткаченко
+    speaker: Дмитрий Голиш, Юрий Ткаченко
     video: https://www.youtube.com/watch?v=qWHMK_uHT4I
-  - name: Asyncable ESMAScript
-    speaker: Denis Vlassenko
+  - name: "Asyncable ES для тех, кто еще не в теме"
+    speaker: Денис Влассенко
     video: https://www.youtube.com/watch?v=ocaV1zZZcAs
   - name: Types vs Types in Javascript
-    speaker: Ivan Lavriv
+    speaker: Иван Лаврив
     video: https://www.youtube.com/watch?v=x7fnpMN7z3U
   - name: Realtime HTML5 Canvas Drawing
-    speaker: Evhenii Pinkal
+    speaker: Евгений Пинкал
     video: https://www.youtube.com/watch?v=_LMIEPoGxNU
     lang: uk
   - name: Frontend Performance Metrics. Measure First. Measure Often
-    speaker: 'Artem Zakharchenko'
+    speaker: Артём Захарченко
     video: https://www.youtube.com/watch?v=mUG0iVj3Bb0
   - name: WTF - WebGL The Fundamentals
     speaker: Martin Splitt
@@ -37,6 +37,7 @@ talks:
     lang: en
   - name: Do you have to play coding games if you are a professional coder?
     speaker: Alexander Lyabah
+    lang: en
     video: https://www.youtube.com/watch?v=aMWg4FgmfYI
   - name: Better API wrappers with Proxies
     speaker: Алексей Швайка
@@ -45,6 +46,6 @@ talks:
     speaker: Роман Лютиков
     video: https://www.youtube.com/watch?v=o2_qDphpjlQ
   - name: Offline-First Almighty or one big reason why our web-applications suck
-    speaker: Denis Yaremov
+    speaker: Денис Яремов
     video: https://www.youtube.com/watch?v=u5PPiWwojDY
 

@@ -44,7 +44,7 @@ talks:
     lang: en
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/web-performance-in-modern-javascript-world'
   - name: 'Lost in Space: Web Apps and A11Y'
-    speaker: Vitalii Bobrov
+    speaker: Виталий Бобров
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space'
   - name: Looking for the right tech stack for GraphQL application
     speaker: Никита Галкин

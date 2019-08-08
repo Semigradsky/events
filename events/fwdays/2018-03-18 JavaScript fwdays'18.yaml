@@ -21,7 +21,7 @@ talks:
     presentation: https://www.slideshare.net/fwdays/martin-splitt-creating-virtual-worlds-in-the-browser
     lang: en
   - name: "Растим детей. Или как Иван Васильевич запускал эксперименты?"
-    speaker: Gregory Shehet
+    speaker: Григорий Шехет
     video: https://youtu.be/7cnBuA0LAGg
     presentation: https://www.slideshare.net/fwdays/ss-91307851
   - name: "The Most Annoying Website"
@@ -57,7 +57,7 @@ talks:
     presentation: https://www.slideshare.net/fwdays/noam-rosenthal-frontend-testing-for-wix-viewer-case-study
     lang: en
   - name: "Жизнь вне JavaScript"
-    speaker: Helen Zhukova
+    speaker: Елена Жукова
     video: https://youtu.be/gMWNlv6muNY
     presentation: https://www.slideshare.net/fwdays/javascript-91459939
   - name: "99 ways to take away your ugly polyfills"

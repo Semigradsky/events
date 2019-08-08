@@ -13,11 +13,11 @@ talks:
     video: https://www.youtube.com/watch?v=GF9tlx2SCOQ
     presentation:
   - name: Easy ways to speed up your web app
-    speaker: Артем Денисов
+    speaker: Артём Денисов
     video: https://www.youtube.com/watch?v=11ZBYf-jugE
     presentation: https://www.slideshare.net/OdessaJSConf/artem-denysov-easy-ways-to-speed-up-your-web-application
   - name: Переезд в США от а до я
-    speaker: Артем Тритяк
+    speaker: Артём Тритяк
     video: https://www.youtube.com/watch?v=-3OQiAMDfDo
     presentation:
   - name: $ecret
@@ -113,7 +113,7 @@ talks:
     video: https://www.youtube.com/watch?v=yPDyP_igH1Y
     presentation:
   - name: Angular Universal
-    speaker: Артем Палий
+    speaker: Артём Палий
     video: https://www.youtube.com/watch?v=_3KDM2trxak
     presentation:
   - name: Лайфхаки фронтэнд разработчика

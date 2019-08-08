@@ -9,7 +9,7 @@ talks:
     video: https://www.youtube.com/watch?v=1niBVCLfAGI
     lang: en
   - name: Shells written in JavaScript
-    speaker: Denys Dovhan
+    speaker: Денис Довгань
     video: https://www.youtube.com/watch?v=ijXfFu61XH0
     lang: en
   - name: How to become famous with GitHub and open-source
@@ -81,7 +81,7 @@ talks:
     video: https://www.youtube.com/watch?v=a2_keSbEgIM
     lang: en
   - name: Exploring ML in javaScript world
-    speaker: Ivan Lavriv
+    speaker: Иван Лаврив
     video: https://www.youtube.com/watch?v=4EFQDKtDAUY
     lang: en
   - name: How to build a desktop application in JS without using webview

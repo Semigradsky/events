@@ -6,7 +6,7 @@ talks:
     presentation: https://goo.gl/MXd52q
     lang: en
   - name: javascript localization with good old getModerntext
-    speaker: Mostovenko Alexander
+    speaker: Александр Мостовенко
     presentation: https://goo.gl/TNrYMw
     lang: en
   - name: Reading for lazy people
@@ -24,6 +24,6 @@ talks:
     speaker: Artem Yavorsky
     presentation: https://goo.gl/Ort2kw
   - name: CSS in JS
-    speaker: Shehet Gregory
+    speaker: Григорий Шехет
     presentation: https://goo.gl/zsLCM6
     lang: en

@@ -11,7 +11,7 @@ talks:
     speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=VufUKONzZdM
   - name: A crash-course into virtual reality for web-developers
-    speaker: Denys Dovhan
+    speaker: Денис Довгань
     video: https://www.youtube.com/watch?v=KBFEWnnjhKg
     lang: uk
   - name: Pixel shaders for Web developers
@@ -37,7 +37,7 @@ talks:
   - name: Copy-pASTe
     speaker: Илья Климов
     video: https://www.youtube.com/watch?v=dyvPGRor-Q0
-  - name: 'Groupware Systems for fun and profit CRDT, OT, Offline'
+  - name: Groupware System for fun and profit
     speaker: Максим Климишин
     video: https://www.youtube.com/watch?v=xEZwd5Tu3oM
   - name: Что нужно знать о логах.
@@ -60,7 +60,7 @@ talks:
     speaker: Dmitry Poddubniy
     video: https://www.youtube.com/watch?v=d-LzDQbvZxs
   - name: Testing in Cloud
-    speaker: Andrii Muzalevskyi
+    speaker: Андрей Музалевский
     video: https://www.youtube.com/watch?v=IlEKMx0IS5c
   - name: Browser APIs you should not live without
     speaker: Stas Gavrylov

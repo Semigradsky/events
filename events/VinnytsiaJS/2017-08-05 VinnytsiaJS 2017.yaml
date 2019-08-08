@@ -3,40 +3,41 @@ date: 2017-08-05
 videos: 'https://www.youtube.com/playlist?list=PL7GMpyIlGWSU-daVXdg16AgKi_ED7n1Td'
 talks:
   - name: The portrait of professional developer 3.0
-    speaker: Mikalai Alimenkou
+    speaker: Николай Алименков
     video: https://www.youtube.com/watch?v=Z48yWbWuU78
-  - name: Decorating JavaScript
-    speaker: Denis Vlassenko
+  - name: Декорируем Javascript
+    speaker: Денис Влассенко
     video: https://www.youtube.com/watch?v=I9O25eXZGh4
   - name: AMP - Accelerated Mobile Pages. Making the Web Fast and Compelling
-    speaker: Denis Vlassenko
+    speaker: Денис Влассенко
     video: https://www.youtube.com/watch?v=GDN2j3vHtJI
   - name: Docker for Node.js Developer
     speaker: Никита Галкин
     video: https://www.youtube.com/watch?v=Es0uBQOiEw4
   - name: Perf again? Let's play fonts
-    speaker: Artem Denysov
+    speaker: Артём Денисов
     video: https://www.youtube.com/watch?v=0e0QrcHslAA
   - name: Strict JavaScript
-    speaker: Helen Zhukova
+    speaker: Елена Жукова
     video: https://www.youtube.com/watch?v=XJiRqW2Gf6o
   - name: Custom CLI tools in the project.
     speaker: Денис Кузин
     video: https://www.youtube.com/watch?v=K1HEd0uUEXo
   - name: PWA - native apps power in web
-    speaker: Borys Mohyla
+    speaker: Борис Могила
     video: https://www.youtube.com/watch?v=Teix6SA1FbU
   - name: NestJS. When patterns matters
-    speaker: Ostap Chervak
+    speaker: Остап Червак
+    lang: uk
     video: https://www.youtube.com/watch?v=Z9KkMRd8Blc
   - name: Project experience in Angular2+
-    speaker: Kostiantyn Hryshyn
+    speaker: Константин Гришин
     video: https://www.youtube.com/watch?v=4TwvQIIOCH8
   - name: Serverless applications with cross-cloud experience
-    speaker: Andriy Deren
+    speaker: Андрей Дерен
     video: https://www.youtube.com/watch?v=yfJcrEvQnJg
   - name: React Next - Fiber and Some other neat things
-    speaker: Yevhen Shemet
+    speaker: Евгений Шемет
     video: https://www.youtube.com/watch?v=SbWFMoZDxdA
   - name: Machines Must Suffer!
     speaker: Александр Павлыщ

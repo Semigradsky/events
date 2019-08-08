@@ -3,7 +3,7 @@ date: 2014-12-23
 videos: https://www.youtube.com/playlist?list=PLnZ0ef3Uu2pvCdpQPfNBpuGw4PKN2N_Wf
 talks:
   - name: Жесточайшая оптимизация загрузки веб-страниц.
-    speaker: Дима Дудин
+    speaker: Дмитрий Дудин
     video: https://youtu.be/KItf0Zrx87c
     presentation:
   - name: Охота на баги в реалиях Фронтенда
@@ -11,7 +11,7 @@ talks:
     video: https://youtu.be/_4GYqRiHlIE
     presentation:
   - name: Работа с документами в JavaScript
-    speaker: Дима Радыно
+    speaker: Дмитрий Радыно
     video: https://youtu.be/Ey5mpOHKIUI
     presentation:
   - name: "Делаем инструменты под себя: Chrome Extensions под рабочие проекты"

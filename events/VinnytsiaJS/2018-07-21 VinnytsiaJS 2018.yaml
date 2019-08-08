@@ -6,50 +6,51 @@ talks:
     speaker: Роман Лютиков
     video: https://youtu.be/5IQVSJQvlEE
   - name: "Functional programming: Give it a chance!"
-    speaker: Dmytro Tereshchenko
+    speaker: Дмитрий Терещенко
     video: https://youtu.be/M-rRkTAj5wg
   - name: "WebRTC from Zero to Hero"
     speaker: Gabriel Micko
+    lang: en
     video: https://youtu.be/PVIrW8XFYdM
     presentation: https://talks.webrtc.rocks/VinnytsiaJS2018/WebRTCFromZeroToHero_PDF.pdf
   - name: "Easy way to WebVR"
-    speaker: Borys Mohyla
+    speaker: Борис Могила
     video: https://youtu.be/ie00uBz0KQU
   - name: "React … wait for it … Suspense"
-    speaker: Yevhen Shemet
+    speaker: Евгений Шемет
     video: https://youtu.be/a2NLPMgtaYc
     presentation: https://present-react-suspense.herokuapp.com/
   - name: "Clojure - Modern Lisp"
     speaker: Роман Лютиков
     video: https://youtu.be/eb3hDv_CuD8
   - name: "Migration Web (Angular) to Mobile Development (React Native)"
-    speaker: Artem Paliy
+    speaker: Артём Палий
     video: https://youtu.be/jcBnC8LZHoU
   - name: "Growing as a developer"
-    speaker: Pavel Yukhnovich
+    speaker: Павел Юхнович
     video: https://youtu.be/GvgNye4j4vw
   - name: "REST API design good practices"
-    speaker: Oleksandr Reshetnik
+    speaker: Александр Решетник
     video: https://youtu.be/yR5sBW6Ii7I
   - name: "All in client GraphQL"
-    speaker: Helen Zhukova
+    speaker: Елена Жукова
     video: https://youtu.be/_-NJVzZ9b6g
   - name: "Time Zones for JS (and not only JS) developers"
-    speaker: Elena Sharovar
+    speaker: Елена Шаровар
     video: https://youtu.be/h1jlwEIByLg
   - name: "Going big with MobX"
-    speaker: Sergey Kostyrko
+    speaker: Сергей Костырко
     video: https://youtu.be/YOfmlbT-s5M
   - name: "Copy/Paste detector for source code on JavaScript"
-    speaker: Andrii Kucherenko
+    speaker: Андрей Кучеренко
     video: https://youtu.be/oRO6i2JKmDY
     code: 'https://github.com/kucherenko/jscpd'
   - name: "Make the Web Brighter with the CSS Paint API"
-    speaker: Vitalii Bobrov
+    speaker: Виталий Бобров
     video: https://youtu.be/Gfq5Ut3r6Bw
     presentation: https://speakerdeck.com/bobrov1989/make-the-web-brighter-with-the-css-paint-api
   - name: "Real server-side rendering with Vue"
-    speaker: Vitalii Savchuk
+    speaker: Виталий Савчук
     video: https://youtu.be/xSKSH27Zczo
     presentation: https://esvit.github.io/presentation-nuxt/#
     tags:

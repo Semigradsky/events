@@ -3,15 +3,15 @@ link: 'https://habr.com/company/raiffeisenbank/blog/351926/'
 date: 2018-03-28
 talks:
   - name: "Higher Order Components with Functional Patterns Using Recompose"
-    speaker: Григоров Дмитрий
+    speaker: Дмитрий Григоров
     video: https://youtu.be/5zPbydsnLoE?t=2m3s
   - name: "От jQuery до React"
-    speaker: Попков Алексей
+    speaker: Алексей Попков
     video: https://youtu.be/5zPbydsnLoE?t=29m56s
   - name: "React, Mobx и ES7"
-    speaker: Алехин Сергей
+    speaker: Сергей Алехин
     video: https://youtu.be/5zPbydsnLoE?t=1h18m16s
   - name: "Cборка Docker+Nginx+CRA+Koajs+MongoDB за 10 мин"
-    speaker: Сычев Илья
+    speaker: Илья Сычев
     video: https://youtu.be/5zPbydsnLoE?t=1h54m1s
 

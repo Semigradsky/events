@@ -3,11 +3,11 @@ date: 2015-12-05
 videos: https://www.youtube.com/playlist?list=PLxw9RJPDS60qUL9tiH3Hh-xB8rY5xV2Cr
 talks:
   - name: Interactive path search in Javascript
-    speaker: Andrii Muzalevskyi
+    speaker: Андрей Музалевский
     video: https://www.youtube.com/watch?v=cbN09nPT9hQ
     lang: en
   - name: Data Access with OrbitJS
-    speaker: Ivan Lavriv
+    speaker: Иван Лаврив
     video: https://www.youtube.com/watch?v=uNqejKSsD3k
     presentation: http://slides.com/ivanlavriv/deck/fullscreen#/
     lang: en
@@ -34,6 +34,6 @@ talks:
     presentation: https://docs.google.com/presentation/d/1MGe9fHox6rVpXVl934cGtKb5eJeAayVvcWDuhdu-l50/edit
     lang: en
   - name: "Why can't I…?"
-    speaker: Borys Romanchuk
+    speaker: Борис Романчук
     video: https://www.youtube.com/watch?v=E0oIKEpOs58
     presentation: https://docs.google.com/presentation/d/1U8r--zX0asyRKv0aH51L0354hQD2wt2xMAfCSH0X7KA/edit

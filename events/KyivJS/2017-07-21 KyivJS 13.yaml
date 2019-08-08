@@ -3,7 +3,7 @@ date: 2017-07-21
 videos: https://www.youtube.com/playlist?list=PLxw9RJPDS60rbnSh5FzYNneE_qyZGwzg-
 talks:
   - name: Streams in Node.js and why they're good
-    speaker: Stanislav Slesarev
+    speaker: Станислав Слесарев
     video: https://www.youtube.com/watch?v=lGZze5YFK5U
     presentation: https://drive.google.com/file/d/0B4xFRFS363tpd0VyUlJxTFdScG8/view
   - name: Something about e2e testing
