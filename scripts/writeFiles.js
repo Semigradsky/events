@@ -8,6 +8,8 @@ const PATH_EVENTS = path.resolve(__dirname, '../events')
 const CURRENT_YEAR = new Date().getFullYear()
 
 const writeFile = pify(fs.writeFile)
+const readdir = pify(fs.readdir)
+const unlink = pify(fs.unlink)
 
 async function writeYearFile(year, content) {
     if (year === CURRENT_YEAR) {
@@ -32,12 +34,16 @@ async function writeSpeakerFile(speaker, content) {
 }
 
 async function writeFiles(groupedByYears, groupedByOrganizers, groupedBySpeakers, allSpeakers) {
-    return Promise.all([]
-        .concat([...groupedByYears.entries()].map(entry => writeYearFile(...entry)))
-        .concat([...groupedByOrganizers.entries()].map(entry => writeOrganizerFile(...entry)))
-        .concat([...groupedBySpeakers.entries()].map(entry => writeSpeakerFile(...entry)))
-        .concat(writeAllSpeakersFile(allSpeakers))
-    )
+    for (const file of await readdir(PATH_SPEAKERS)) {
+        await unlink(path.join(PATH_SPEAKERS, file))
+    }
+
+    return Promise.all([
+        ...[...groupedByYears.entries()].map(entry => writeYearFile(...entry)),
+        ...[...groupedByOrganizers.entries()].map(entry => writeOrganizerFile(...entry)),
+        ...[...groupedBySpeakers.entries()].map(entry => writeSpeakerFile(...entry)),
+        writeAllSpeakersFile(allSpeakers),
+    ])
 }
 
 module.exports = writeFiles
