@@ -1,16 +1,12 @@
 name: Angular Minsk 2
 date: 2019-08-06
-videos: ''
 talks:
   - name: Modern e2e testing with Cypress.io
     speaker: Илья Рябчинский
-    video:
-    presentation:
+    presentation: https://ilyaryabchinski.github.io/cypress-talk/
   - name: Ivy and the future of the Angular compiler
     speaker: Роман Колесников
-    video:
-    presentation:
+    presentation: https://docs.google.com/presentation/d/1uuCTnlr5a1V-E7htuqBlRwEY826RnS67fkqNKjT6B1k/edit?usp=sharing
   - name: GraphQL and how to use it with Apollo Angular and Redux
     speaker: Дмитрий Грачёв
-    video:
-    presentation:
+    presentation: https://docs.google.com/presentation/d/17jWAk3wIWgpGibr5j8TX9vSGZZvsA32zVPZujv4rooM/edit
