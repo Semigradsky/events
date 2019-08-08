@@ -11,7 +11,7 @@
 | [Как переписать legacy-фронт приложения, когда ты джун](https://www.youtube.com/watch?v=323raX_fW6A)  |  [Александр Сушко](speakers/Александр%20Сушко.md)  |    |
 | [Как мы отделили фронтенд от монолитного бэкенда](https://www.youtube.com/watch?v=Ms7vPiMFhsI)  |  [Зарема Халилова](speakers/Зарема%20Халилова.md)  |    |
 | [Headless-браузеры](https://www.youtube.com/watch?v=VANpUVKo56I)  |  [Виталий Слободин](speakers/Виталий%20Слободин.md)  |    |
-| [Как Microsoft To-Do использует React](https://www.youtube.com/watch?v=ZdrnIUgeDAs)  |  [Алексей Мигутский](speakers/Алексей%20Мигутский.md)  |    |
+| [Как Microsoft To-Do использует React](https://www.youtube.com/watch?v=ZdrnIUgeDAs)  |  [Алексей Мигуцкий](speakers/Алексей%20Мигуцкий.md)  |    |
 | [Игра «Герои Меча и Магии» в браузере: долго, сложно и невыносимо интересно](https://www.youtube.com/watch?v=eauzFBCJDb0)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
 | [Знай свой JIT: ближе к машине](https://www.youtube.com/watch?v=ZEwFVEXK1xI)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
 ## DUMP2017 - 2017 Apr 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLRdS-n5seLRqoENxUsxmPbUxrFpk5JBmc)

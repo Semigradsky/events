@@ -182,7 +182,7 @@
 | --- | :---: | --- |
 | Вызов принят  |  [Анна Селезнёва](speakers/Анна%20Селезнёва.md)  | [:notebook:](https://wsd.events/2015/10/31/pres/challenge/)   |
 | СSS Modules. Предотвращая проблемы  |  [Павел Ловцевич](speakers/Павел%20Ловцевич.md)  | [:notebook:](https://wsd.events/2015/10/31/pres/css-modules/)   |
-| Как работает V8 и почему так быстро  |  [Дима Малеев](speakers/Дима%20Малеев.md)  | [:notebook:](https://wsd.events/2015/10/31/pres/v8-so-fast.pdf)   |
+| Как работает V8 и почему так быстро  |  [Дмитрий Малеев](speakers/Дмитрий%20Малеев.md)  | [:notebook:](https://wsd.events/2015/10/31/pres/v8-so-fast.pdf)   |
 | Кросспроектные веб-компоненты  |  [Артём Мезин](speakers/Артём%20Мезин.md)  | [:notebook:](https://wsd.events/2015/10/31/pres/components/)   |
 | Ещё лучше, чем настоящие!  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://wsd.events/2015/10/31/pres/web-apps/)   |
 | Автономность прежде всего  |  [Антон Немцев](speakers/Антон%20Немцев.md)  | [:notebook:](https://wsd.events/2015/10/31/pres/autonomous/)   |

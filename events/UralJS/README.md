@@ -6,7 +6,7 @@
 ## UralJS 9 - 2018 Aug 25 [:movie_camera:](https://www.youtube.com/playlist?list=PLVxsRDo37_ZfCErKzKrSk3TBc_YSDlhEA)
 | | | |
 | --- | :---: | --- |
-| [Click the button. The hard way](https://www.youtube.com/watch?v=q0jW1ljHjXM)  |  [Дима Лазарев](speakers/Дима%20Лазарев.md)  |    |
+| [Click the button. The hard way](https://www.youtube.com/watch?v=q0jW1ljHjXM)  |  [Дмитрий Лазарев](speakers/Дмитрий%20Лазарев.md)  |    |
 | [Логирование ошибок на фронтенде](https://www.youtube.com/watch?v=z8Ywk-KLGHA)  |  [Антон Конев](speakers/Антон%20Конев.md)  |    |
 ## UralJS 8 - 2018 Jul 05 [:movie_camera:](https://www.youtube.com/playlist?list=PLVxsRDo37_ZfAl0mDHxcMtlPTA4CRn5nh)
 | | | |

@@ -94,7 +94,7 @@
 | [Как мы делали свой визуальный (WYSIWYG) редактор статей](https://www.youtube.com/watch?v=YIsbi5cMuQE)  |  [Алексей Авдеев](speakers/Алексей%20Авдеев.md)  | [:notebook:](http://alexey-avdeev.com/how-did-we-develop-a-visual-editor/)   |
 | [From bloody to sweety Enterprise](https://www.youtube.com/watch?v=2FN2A8zYqt0)  |  [Зар Захаров](speakers/Зар%20Захаров.md)  | [:notebook:](https://www.dropbox.com/sh/kg71jju3yvj5jqw/AAC16ZpiVLuI6ohgENtl_-N2a/FC.%20%D0%94%D0%B5%D0%BB%D0%B8%2B%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D1%82%D1%82%D0%B0/28.05/7.From%20bloody%20to%20sweety%20Enterprise_%D0%97%D0%B0%D1%80%20%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2_%D0%B2%D0%B5%D1%80.1.pdf?dl=0)   |
 | [Эмоциональное выгорание. История успеха](https://www.youtube.com/watch?v=OwR6l9t3bJc)  |  [Анна Селезнёва](speakers/Анна%20Селезнёва.md)  | [:notebook:](https://www.dropbox.com/sh/kg71jju3yvj5jqw/AADTbvta42VdsP-3mA-oECzQa/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D1%85%D0%BE%D0%BB%D0%BB/28.05/7.%D0%AD%D0%BC%D0%BE%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%8B%D0%B3%D0%BE%D1%80%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D1%83%D1%81%D0%BF%D0%B5%D1%85%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0%20%D0%A1%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%91%D0%B2%D0%B0_%D0%B2%D0%B5%D1%80.2.pptx?dl=0)   |
-| [Разработка UI для банкоматов](https://www.youtube.com/watch?v=F9klrfzXHXY)  |  [Дима Королев](speakers/Дима%20Королев.md)  | [:notebook:](https://dmitry-korolev.github.io/talks/atm-frontconf-2019/#/)   |
+| [Разработка UI для банкоматов](https://www.youtube.com/watch?v=F9klrfzXHXY)  |  [Дмитрий Королев](speakers/Дмитрий%20Королев.md)  | [:notebook:](https://dmitry-korolev.github.io/talks/atm-frontconf-2019/#/)   |
 ## MinskJS 6 - May 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsJMCmQclZUUGSAyTvSjuoOx)
 | | | |
 | --- | :---: | --- |
@@ -242,7 +242,7 @@
 | --- | :---: | --- |
 | [Безболезненное тестирование компонентов скриншотами](https://www.youtube.com/watch?v=WHVIrnsG82o)  |  [Максим Куличенко](speakers/Максим%20Куличенко.md)  |    |
 | [Анатомия технического долга](https://www.youtube.com/watch?v=CTK8WPv0fes)  |  [Андрей Руденец](speakers/Андрей%20Руденец.md)  |    |
-| [Как делать только полезные задачи](https://www.youtube.com/watch?v=GKk_8QeCr9c)  |  [Саша Константинов](speakers/Саша%20Константинов.md)  |    |
+| [Как делать только полезные задачи](https://www.youtube.com/watch?v=GKk_8QeCr9c)  |  [Александр Константинов](speakers/Александр%20Константинов.md)  |    |
 | [Дядюшка оставил вам в наследство 20 песо](https://www.youtube.com/watch?v=nnQznMCW8xg)  |  [Максим Коротенко](speakers/Максим%20Коротенко.md)  |    |
 | [TypeScript, о котором невозможно молчать](https://www.youtube.com/watch?v=7sf46mPb0yw)  |  [Станислав Макаров](speakers/Станислав%20Макаров.md)  |    |
 | [Оценка качества работы приложения – мониторинг потребления трафика](https://www.youtube.com/watch?v=aQ5NbkoY9N8)  |  [Игорь Дружинин](speakers/Игорь%20Дружинин.md)  |    |
@@ -269,7 +269,7 @@
 | | | |
 | --- | :---: | --- |
 | [Выгорание волонтеров: что это такое, почему происходит и как с этим работать](https://www.youtube.com/watch?v=jX91TiPihv0)  |  [Любовь Гулько](speakers/Любовь%20Гулько.md)  | [:notebook:](https://fs.piterjs.org/events/35/gulko.pdf)   |
-| [Психология для айтишников: про выгорание и заботу о себе](https://www.youtube.com/watch?v=qXX1iw74jfE)  |  [Дима Семьюшкин](speakers/Дима%20Семьюшкин.md)  | [:notebook:](https://fs.piterjs.org/events/35/semyushkin.pdf)   |
+| [Психология для айтишников: про выгорание и заботу о себе](https://www.youtube.com/watch?v=qXX1iw74jfE)  |  [Дмитрий Семьюшкин](speakers/Дмитрий%20Семьюшкин.md)  | [:notebook:](https://fs.piterjs.org/events/35/semyushkin.pdf)   |
 | [Будете гореть — горите](https://www.youtube.com/watch?v=Jnm_BJVxz7E)  |  [Евгений Кот](speakers/Евгений%20Кот.md)  | [:notebook:](https://fs.piterjs.org/events/35/kot.pdf)   |
 ## ReactRussia 1 - Mar 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLWvK_bLQje9gJqFfd8k31pK3WGzuI8grP)
 | | | |
@@ -299,7 +299,7 @@
 | [Делайте из слона муху](https://fwdays.com/en/event/js-fwdays-2019/review/shrink-an-elephant-into-a-fly)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
 | [JS on Server: To be or not to be?](https://fwdays.com/en/event/js-fwdays-2019/review/js-on-server-to-be-or-not-to-be)  |  [Илья Климов](speakers/Илья%20Климов.md)  |    |
 | [Web Performance in modern JavaScript world](https://fwdays.com/en/event/js-fwdays-2019/review/web-performance-in-modern-javascript-world) [en] |  [Filip Rakowski](speakers/Filip%20Rakowski.md)  |    |
-| [Lost in Space: Web Apps and A11Y](https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space)  |  [Vitalii Bobrov](speakers/Vitalii%20Bobrov.md)  |    |
+| [Lost in Space: Web Apps and A11Y](https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space)  |  [Виталий Бобров](speakers/Виталий%20Бобров.md)  |    |
 | [Looking for the right tech stack for GraphQL application](https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql)  |  [Никита Галкин](speakers/Никита%20Галкин.md)  |    |
 | [The Almighty Rabbit Hole](https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole)  |  [Christopher Gannon](speakers/Christopher%20Gannon.md)  |    |
 | [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https://fwdays.com/en/event/js-fwdays-2019/review/beyond-the-limitations-of-frontend)  |  [Ilona Demidenko](speakers/Ilona%20Demidenko.md)  |    |
@@ -376,7 +376,7 @@
 | [Yet another JSON RPC library?](https://www.youtube.com/watch?v=84Y5n32tX5E)  |  [Виктор Турский](speakers/Виктор%20Турский.md)  | [:notebook:](https://docs.google.com/presentation/d/1bvlsG5nBEVwMGm7rBh4zmfrGDLUIjpv_t4rxFS2_uMw/edit)   |
 | [Building quick apps in 2019](https://www.youtube.com/watch?v=kNpBcA5GrcU)  |  [Иван Акулов](speakers/Иван%20Акулов.md)  | [:notebook:](https://docs.google.com/presentation/d/1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U/edit)   |
 | [npm explore npm](https://www.youtube.com/watch?v=RRAQXLaBCEk)  |  [Anton Verinov](speakers/Anton%20Verinov.md)  | [:notebook:](https://drive.google.com/file/d/1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk/view)   |
-| [Эстимирование](https://www.youtube.com/watch?v=xu7cBk-STx4)  |  [Gregory Shehet](speakers/Gregory%20Shehet.md)  | [:notebook:](https://drive.google.com/file/d/1F-5hei901Z8m26F53gigWlkbjTdgejP7/view)   |
+| [Эстимирование](https://www.youtube.com/watch?v=xu7cBk-STx4)  |  [Григорий Шехет](speakers/Григорий%20Шехет.md)  | [:notebook:](https://drive.google.com/file/d/1F-5hei901Z8m26F53gigWlkbjTdgejP7/view)   |
 ## The Rolling Scopes &amp; {Minsk} JSON - Feb 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;gdpMFxWDwJg)
 | | | |
 | --- | :---: | --- |

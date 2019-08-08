@@ -75,7 +75,7 @@
 | [Meteor как средство от головной боли](https://www.youtube.com/watch?v=2m6pJ-EbJf0)  |  [Михаил Скворцов](speakers/Михаил%20Скворцов.md)  | [:notebook:](https://docs.google.com/presentation/d/1qf9H5bkcquFxmGLC-riJilLjYfRFnFSOJnRyi0Y1nec/edit#slide=id.p)   |
 | [Move fast and break things](https://www.youtube.com/watch?v=TJFub_qUuLA)  |  [Юрий Михалевич](speakers/Юрий%20Михалевич.md)  | [:notebook:](https://prezi.com/zahwjtnori03/move-fast-and-break-things-cdn/)   |
 | [Postgres. Начало.](https://www.youtube.com/watch?v=-RUY8GezHvI)  |  [Виктор Тыщенко](speakers/Виктор%20Тыщенко.md)  | [:notebook:](https://www.slideshare.net/TyVikZero/postgres-70057427)   |
-| [Грязные анимации в мире состояний](https://www.youtube.com/watch?v=xjY6apCfQZY)  |  [Леша Тактаров](speakers/Леша%20Тактаров.md)  |    |
+| [Грязные анимации в мире состояний](https://www.youtube.com/watch?v=xjY6apCfQZY)  |  [Алексей Тактаров](speakers/Алексей%20Тактаров.md)  |    |
 | [a11y. Доступно о доступности](https://www.youtube.com/watch?v=k_tPPP6kb7I)  |  [Николай Марченко](speakers/Николай%20Марченко.md)  | [:notebook:](http://neonick.ru/a11y-2016.pdf)   |
 | [Фантастические технологии и где они обитают](https://www.youtube.com/watch?v=Q5Dt-VZktHA)  |  [Павел Орлов](speakers/Павел%20Орлов.md)  | [:notebook:](https://www.slideshare.net/PavelOrlov8/ss-70068486)   |
 | [&quot;Swift&quot; или как программировать мышкой](https://www.youtube.com/watch?v=eSNj97scLbc)  |  [Герман Поляцкий](speakers/Герман%20Поляцкий.md)  |    |

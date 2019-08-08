@@ -32,7 +32,7 @@
 | | | |
 | --- | :---: | --- |
 | [Выгорание волонтеров: что это такое, почему происходит и как с этим работать](https://www.youtube.com/watch?v=jX91TiPihv0)  |  [Любовь Гулько](speakers/Любовь%20Гулько.md)  | [:notebook:](https://fs.piterjs.org/events/35/gulko.pdf)   |
-| [Психология для айтишников: про выгорание и заботу о себе](https://www.youtube.com/watch?v=qXX1iw74jfE)  |  [Дима Семьюшкин](speakers/Дима%20Семьюшкин.md)  | [:notebook:](https://fs.piterjs.org/events/35/semyushkin.pdf)   |
+| [Психология для айтишников: про выгорание и заботу о себе](https://www.youtube.com/watch?v=qXX1iw74jfE)  |  [Дмитрий Семьюшкин](speakers/Дмитрий%20Семьюшкин.md)  | [:notebook:](https://fs.piterjs.org/events/35/semyushkin.pdf)   |
 | [Будете гореть — горите](https://www.youtube.com/watch?v=Jnm_BJVxz7E)  |  [Евгений Кот](speakers/Евгений%20Кот.md)  | [:notebook:](https://fs.piterjs.org/events/35/kot.pdf)   |
 ## PiterJS 34 - 2019 Feb 20 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjvV7aroPWHwwULFVD_EiXb)
 | | | |

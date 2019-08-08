@@ -13,5 +13,5 @@
 | [Angular applications with Redux](https://youtu.be/mMdHbr5aw0o)  |  [Anastasiia Nedbailo](speakers/Anastasiia%20Nedbailo.md)  | [:notebook:](https://chernivtsi.js.org/angular-apps-with-redux/)   |
 | [Life with Expo.io](https://youtu.be/mn6bDJ4w9mI)  |  [Terry Sahaidak](speakers/Terry%20Sahaidak.md)  | [:notebook:](https://chernivtsi.js.org/life-with-expo/)   |
 | [Просто о WebAssembly](https://youtu.be/anVHSZtJhfc)  |  [Сергей Рубанов](speakers/Сергей%20Рубанов.md)  | [:notebook:](https://chernivtsi.js.org/webassembly-simplified/)   |
-| [О дивный новый JS–мир](https://youtu.be/uNKuJANi4RU)  |  [Helen Zhukova](speakers/Helen%20Zhukova.md)  |    |
+| [О дивный новый JS–мир](https://youtu.be/uNKuJANi4RU)  |  [Елена Жукова](speakers/Елена%20Жукова.md)  |    |
 | [Make checkout great again](https://youtu.be/EZofZgflsDk)  |  [Антон Немцев](speakers/Антон%20Немцев.md)  | [:notebook:](https://chernivtsi.js.org/payment-request-api/)   |

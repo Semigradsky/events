@@ -8,7 +8,7 @@
 | --- | :---: | --- |
 | [Безболезненное тестирование компонентов скриншотами](https://www.youtube.com/watch?v=WHVIrnsG82o)  |  [Максим Куличенко](speakers/Максим%20Куличенко.md)  |    |
 | [Анатомия технического долга](https://www.youtube.com/watch?v=CTK8WPv0fes)  |  [Андрей Руденец](speakers/Андрей%20Руденец.md)  |    |
-| [Как делать только полезные задачи](https://www.youtube.com/watch?v=GKk_8QeCr9c)  |  [Саша Константинов](speakers/Саша%20Константинов.md)  |    |
+| [Как делать только полезные задачи](https://www.youtube.com/watch?v=GKk_8QeCr9c)  |  [Александр Константинов](speakers/Александр%20Константинов.md)  |    |
 | [Дядюшка оставил вам в наследство 20 песо](https://www.youtube.com/watch?v=nnQznMCW8xg)  |  [Максим Коротенко](speakers/Максим%20Коротенко.md)  |    |
 | [TypeScript, о котором невозможно молчать](https://www.youtube.com/watch?v=7sf46mPb0yw)  |  [Станислав Макаров](speakers/Станислав%20Макаров.md)  |    |
 | [Оценка качества работы приложения – мониторинг потребления трафика](https://www.youtube.com/watch?v=aQ5NbkoY9N8)  |  [Игорь Дружинин](speakers/Игорь%20Дружинин.md)  |    |

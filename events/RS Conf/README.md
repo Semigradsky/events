@@ -19,7 +19,7 @@
 | [Beyond React](https://youtu.be/b6vD9ASIoxo) [en] |  [Marek Piasecki](speakers/Marek%20Piasecki.md)  | [:notebook:](https://drive.google.com/open?id=1jMPZKs2ORGZVsg5mSir9v5QNMlgURMzm)   |
 | [On JAM Stack Architectures](https://youtu.be/s-v3WkIyUck) [en] |  [Ilya Pukhalski](speakers/Ilya%20Pukhalski.md)  |    |
 | [Stream API, through Redux-Observable in Electron-based app](https://youtu.be/57m27q_xE68)  |  [Алесь Цвиль](speakers/Алесь%20Цвиль.md)  |    |
-| [Как заработать больше в фронтенде](https://youtu.be/A2RNBIHe8t0)  |  [Alexey Migutsky](speakers/Alexey%20Migutsky.md)  | [:notebook:](http://slides.com/mr-mig/secret#/)   |
+| [Как заработать больше в фронтенде](https://youtu.be/A2RNBIHe8t0)  |  [Алексей Мигуцкий](speakers/Алексей%20Мигуцкий.md)  | [:notebook:](http://slides.com/mr-mig/secret#/)   |
 | [Navigating the Frontend landscape without encountering JS fatigue](https://youtu.be/p7h8hMnjF4I)  |  [Pavel Birukou](speakers/Pavel%20Birukou.md)  |    |
 | [Evolution of Web Perfomance](https://youtu.be/BIJF0-FyV8M)  |  [Denis Artyuhovich](speakers/Denis%20Artyuhovich.md)  |    |
 | [All-You-Can-Eat-Types: Monad Buffet](https://youtu.be/gpd_vwQmonM)  |  [Александр Герасимов](speakers/Александр%20Герасимов.md)  |    |
@@ -60,7 +60,7 @@
 | [Миграция с Angular 1 на Angular 2+](https://www.youtube.com/watch?v=fI7VSmWqP3A)  |  [Andrei Palchys](speakers/Andrei%20Palchys.md)  |    |
 | [Service Workers, the gotchas in your path to production](https://www.youtube.com/watch?v=9L8YhkA0co4) [en] |  [Antoni Huguet Vives](speakers/Antoni%20Huguet%20Vives.md)  |    |
 | [Designing for Composability](https://www.youtube.com/watch?v=BxoJ7WCbQFE)  |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |
-| [Shells written in JavaScript](https://www.youtube.com/watch?v=CGfnGczxKAI)  |  [Denys Dovhan](speakers/Denys%20Dovhan.md)  |    |
+| [Shells written in JavaScript](https://www.youtube.com/watch?v=CGfnGczxKAI)  |  [Денис Довгань](speakers/Денис%20Довгань.md)  |    |
 ## RS Conf 2016 - 2016 Feb 20-21 
 | | | |
 | --- | :---: | --- |

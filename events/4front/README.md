@@ -61,9 +61,9 @@
 ## 4front 5 Новогодний - 2014 Dec 23 [:movie_camera:](https://www.youtube.com/playlist?list=PLnZ0ef3Uu2pvCdpQPfNBpuGw4PKN2N_Wf)
 | | | |
 | --- | :---: | --- |
-| [Жесточайшая оптимизация загрузки веб-страниц.](https://youtu.be/KItf0Zrx87c)  |  [Дима Дудин](speakers/Дима%20Дудин.md)  |    |
+| [Жесточайшая оптимизация загрузки веб-страниц.](https://youtu.be/KItf0Zrx87c)  |  [Дмитрий Дудин](speakers/Дмитрий%20Дудин.md)  |    |
 | [Охота на баги в реалиях Фронтенда](https://youtu.be/_4GYqRiHlIE)  |  [Максим Кожух](speakers/Максим%20Кожух.md)  |    |
-| [Работа с документами в JavaScript](https://youtu.be/Ey5mpOHKIUI)  |  [Дима Радыно](speakers/Дима%20Радыно.md)  |    |
+| [Работа с документами в JavaScript](https://youtu.be/Ey5mpOHKIUI)  |  [Дмитрий Радыно](speakers/Дмитрий%20Радыно.md)  |    |
 | [Делаем инструменты под себя: Chrome Extensions под рабочие проекты](https://youtu.be/GSQNQ-ELmUU)  |  [Паша Клименков](speakers/Паша%20Клименков.md)  |    |
 ## 4front 4 - 2014 Nov 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLnZ0ef3Uu2pv9ApU-R6Kt1Y1gK8nBht21)
 | | | |

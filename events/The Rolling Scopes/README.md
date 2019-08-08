@@ -43,7 +43,7 @@
 ## The Rolling Scopes 42 - 2017 Oct 06 [:movie_camera:](https://www.youtube.com/watch?v=UPuWeBeMnTU&t=7635s)
 | | | |
 | --- | :---: | --- |
-| [Митап о #microsoft #react #redux #berlin](https://www.youtube.com/watch?v=UPuWeBeMnTU&t=7635s)  |  [Alex Migutsky](speakers/Alex%20Migutsky.md)  |    |
+| [Митап о #microsoft #react #redux #berlin](https://www.youtube.com/watch?v=UPuWeBeMnTU&t=7635s)  |  [Алексей Мигуцкий](speakers/Алексей%20Мигуцкий.md)  |    |
 ## The Rolling Scopes 41 - 2017 Aug 15 [:movie_camera:](https://www.youtube.com/watch?v=wdys2FjFFXs&t=6145s)
 | | | |
 | --- | :---: | --- |

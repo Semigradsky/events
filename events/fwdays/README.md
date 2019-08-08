@@ -18,7 +18,7 @@
 | [Делайте из слона муху](https://fwdays.com/en/event/js-fwdays-2019/review/shrink-an-elephant-into-a-fly)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
 | [JS on Server: To be or not to be?](https://fwdays.com/en/event/js-fwdays-2019/review/js-on-server-to-be-or-not-to-be)  |  [Илья Климов](speakers/Илья%20Климов.md)  |    |
 | [Web Performance in modern JavaScript world](https://fwdays.com/en/event/js-fwdays-2019/review/web-performance-in-modern-javascript-world) [en] |  [Filip Rakowski](speakers/Filip%20Rakowski.md)  |    |
-| [Lost in Space: Web Apps and A11Y](https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space)  |  [Vitalii Bobrov](speakers/Vitalii%20Bobrov.md)  |    |
+| [Lost in Space: Web Apps and A11Y](https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space)  |  [Виталий Бобров](speakers/Виталий%20Бобров.md)  |    |
 | [Looking for the right tech stack for GraphQL application](https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql)  |  [Никита Галкин](speakers/Никита%20Галкин.md)  |    |
 | [The Almighty Rabbit Hole](https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole)  |  [Christopher Gannon](speakers/Christopher%20Gannon.md)  |    |
 | [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https://fwdays.com/en/event/js-fwdays-2019/review/beyond-the-limitations-of-frontend)  |  [Ilona Demidenko](speakers/Ilona%20Demidenko.md)  |    |
@@ -33,7 +33,7 @@
 | [Front-end Microservices Architecture](https://youtu.be/2r9KqASOSeM)  |  [Mykhailo Churilov](speakers/Mykhailo%20Churilov.md)  | [:notebook:](http://slides.com/mykhailochurilov/deck-14#/)   |
 | [React: дорога к просветлению](https://youtu.be/STz1tr65ykE)  |  [Ekaterina Lizogubova](speakers/Ekaterina%20Lizogubova.md)  | [:notebook:](https://www.slideshare.net/fwdays/react-91307920)   |
 | [Creating virtual worlds in the browser](https://youtu.be/0y2jXEUHvuk) [en] |  [Martin Splitt](speakers/Martin%20Splitt.md)  | [:notebook:](https://www.slideshare.net/fwdays/martin-splitt-creating-virtual-worlds-in-the-browser)   |
-| [Растим детей. Или как Иван Васильевич запускал эксперименты?](https://youtu.be/7cnBuA0LAGg)  |  [Gregory Shehet](speakers/Gregory%20Shehet.md)  | [:notebook:](https://www.slideshare.net/fwdays/ss-91307851)   |
+| [Растим детей. Или как Иван Васильевич запускал эксперименты?](https://youtu.be/7cnBuA0LAGg)  |  [Григорий Шехет](speakers/Григорий%20Шехет.md)  | [:notebook:](https://www.slideshare.net/fwdays/ss-91307851)   |
 | [The Most Annoying Website](https://youtu.be/EkpS1eWb2BA) [en] |  [Feross Aboukhadijeh](speakers/Feross%20Aboukhadijeh.md)  | [:notebook:](https://www.slideshare.net/fwdays/feross-aboukhadijeh-the-most-annoying-website-aka-the-power-of-the-web-platform-91926338)   |
 | [JavaScript all the things](https://youtu.be/tTPk0OdMCqM) [en] |  [Jan Jongboom](speakers/Jan%20Jongboom.md)  | [:notebook:](https://www.slideshare.net/fwdays/jan-jongboom-javascript-all-the-things)   |
 | [Як ангулярити на 5+](https://youtu.be/dfJyrbk7PME) [uk] |  [Сергій Бабіч](speakers/Сергій%20Бабіч.md)  | [:notebook:](https://babichss.github.io/angular-for-a-plus/#/)   |
@@ -41,7 +41,7 @@
 | [Кодстайл и насилие](https://youtu.be/qHIhWxHSi_0)  |  [Антон Немцев](speakers/Антон%20Немцев.md)  | [:notebook:](https://silentimp.github.io/codeStyleAndViolenceRu/index.html#slide-1)   |
 | [GraphQL - новый взгляд на API](https://youtu.be/zXUP4bNDxWo)  |  [Vladimir Zaets](speakers/Vladimir%20Zaets.md)  | [:notebook:](https://www.slideshare.net/fwdays/graphql-api)   |
 | [Frontend testing for Wix viewer: case study](https://youtu.be/IYunRopn6fg) [en] |  [Noam Rosenthal](speakers/Noam%20Rosenthal.md)  | [:notebook:](https://www.slideshare.net/fwdays/noam-rosenthal-frontend-testing-for-wix-viewer-case-study)   |
-| [Жизнь вне JavaScript](https://youtu.be/gMWNlv6muNY)  |  [Helen Zhukova](speakers/Helen%20Zhukova.md)  | [:notebook:](https://www.slideshare.net/fwdays/javascript-91459939)   |
+| [Жизнь вне JavaScript](https://youtu.be/gMWNlv6muNY)  |  [Елена Жукова](speakers/Елена%20Жукова.md)  | [:notebook:](https://www.slideshare.net/fwdays/javascript-91459939)   |
 | [99 ways to take away your ugly polyfills](https://youtu.be/pMMQYHiFX3w)  |  [Artem Yavorsky](speakers/Artem%20Yavorsky.md)  | [:notebook:](https://www.slideshare.net/fwdays/artem-yavorsky-99-ways-to-take-away-your-ugly-polyfills)   |
 | [How to run WebAssembly in your React web application](https://youtu.be/oicuETKQBkw)  |  [Oleksandr Skachkov](speakers/Oleksandr%20Skachkov.md)  | [:notebook:](https://www.slideshare.net/fwdays/oleksandr-skachkov-event-is-over-how-to-run-webassembly-in-your-react-web-application)   |
 | [Vue: webcomponents](https://youtu.be/Q3MOPhHR2Mk)  |  [Виталий Ратушный](speakers/Виталий%20Ратушный.md)  | [:notebook:](https://www.slideshare.net/fwdays/vue-webcomponents)   |

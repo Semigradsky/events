@@ -51,14 +51,66 @@
 | [RxJS in React, RxJS in Angular and why we all should be friends](https://youtu.be/Ix9r6iFCk3w)  |  [Валентин Бармашин](speakers/Валентин%20Бармашин.md)  |    |
 | [You’re probably making an API client](https://youtu.be/Tj1LcjzdVBM) [en] |  [Haroen Viaene](speakers/Haroen%20Viaene.md)  |    |
 | [Mining crypto in browser_ GPU, WebAssembly and all the good things to try](https://youtu.be/ubvMN_IC8wc)  |  [Денис Радин](speakers/Денис%20Радин.md)  |    |
-| [What happens when you don&#39;t write the code...](https://youtu.be/jwRSMbaArj4)  |  [Артем Захарченко](speakers/Артем%20Захарченко.md)  |    |
+| [What happens when you don&#39;t write the code...](https://youtu.be/jwRSMbaArj4)  |  [Артём Захарченко](speakers/Артём%20Захарченко.md)  |    |
 | [Making great event is the goal](https://youtu.be/NSVfZ_Oujx8)  |  [Денис Радин](speakers/Денис%20Радин.md)  |    |
 | [How to make web-applications more native and a user happier...](https://youtu.be/wklnEN-zzMI)  |  [Тимофей Лавренюк](speakers/Тимофей%20Лавренюк.md)  |    |
+## OdessaJS 2017 - 2017 Jun 30-02 [:movie_camera:](https://www.youtube.com/playlist?list=PLUF1zRLAgrPHwKYzXbAprzO3-Ykbq1xkY)
+| | | |
+| --- | :---: | --- |
+| [Функциональная садо-мазо разработка на TypeScript и F# с примесью Elm](https://www.youtube.com/watch?v=y8BZrGWV-Ew)  |  [Андрей Чебукин](speakers/Андрей%20Чебукин.md)  |    |
+| [Offline-first приложение на Reflex](https://www.youtube.com/watch?v=GF9tlx2SCOQ)  |  [Денис Яремов](speakers/Денис%20Яремов.md)  |    |
+| [Easy ways to speed up your web app](https://www.youtube.com/watch?v=11ZBYf-jugE)  |  [Артём Денисов](speakers/Артём%20Денисов.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/artem-denysov-easy-ways-to-speed-up-your-web-application)   |
+| [Переезд в США от а до я](https://www.youtube.com/watch?v=-3OQiAMDfDo)  |  [Артём Тритяк](speakers/Артём%20Тритяк.md)  |    |
+| $ecret  |  [Алексей Мигуцкий](speakers/Алексей%20Мигуцкий.md)  |    |
+| [I didn’t know the browser could do that!](https://www.youtube.com/watch?v=MT9exHjFBV0) [en] |  [Sam Bellen](speakers/Sam%20Bellen.md)  |    |
+| [Real world WebAssembly](https://www.youtube.com/watch?v=kS29TT4wk44)  |  [Сергей Рубанов](speakers/Сергей%20Рубанов.md)  |    |
+| [JS static typing. What and why.](https://youtu.be/nkgbeb_ONCk)  |  [Елена Жукова](speakers/Елена%20Жукова.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/helen-zhukova-js-static-typing-what-and-why)   |
+| [Magic of Vue.js ?](https://www.youtube.com/watch?v=AC8XSo9qa44)  |  [Андрей Борисенко](speakers/Андрей%20Борисенко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/andrew-borisenko-magic-of-vuejs)   |
+| [Unleashing the power of GraphQL and React](https://www.youtube.com/watch?v=jWSnPo7mQlE) [en] |  [Gerard Sans](speakers/Gerard%20Sans.md)  |    |
+| [Service-oriented GraphQL](https://www.youtube.com/watch?v=Lh5SXl34188)  |  [Ник Раенко](speakers/Ник%20Раенко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/nick-raienko-serviceoriented-graphql)   |
+| Мастер-класс: INSTAphoto  |  [Евгений Касяненко](speakers/Евгений%20Касяненко.md)  |    |
+| [Professional burnout](https://www.youtube.com/watch?v=z61sT_7wo3U)  |  [Александр Труш](speakers/Александр%20Труш.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/alex-troush-professional-burnout)   |
+| [Gamification in outsourcing company: experience report.](https://www.youtube.com/watch?v=1jMPDYTLuAA)  |  [Николай Алименков](speakers/Николай%20Алименков.md)  |    |
+| [Дарт...жив?](https://www.youtube.com/watch?v=w-33ulxlDhI)  |  [Евгений Гусев](speakers/Евгений%20Гусев.md)  |    |
+| [V8 + libuv &#x3D; Node.js. Under the hood](https://www.youtube.com/watch?v=MV6N9BRdiaY)  |  [Юрий Шевцов](speakers/Юрий%20Шевцов.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/yurii-shevtsov-v8-libuv-nodejs-under-the-hood)   |
+| DDD во фронтенде. WAT? WTF? YAGNI!  |  [Алексей Мигуцкий](speakers/Алексей%20Мигуцкий.md)  |    |
+| [More Than Music: Tiny Computers, JavaScript and MIDI](https://www.youtube.com/watch?v=XR8ZmimWgd4) [en] |  [George Mandis](speakers/George%20Mandis.md)  | [:notebook:](https://speakerdeck.com/georgemandis/make-more-than-music-with-tiny-computers-javascript-and-midi-at-odessajs-2017-odessa-ukraine)   |
+| [5 production Node.js stories](https://www.youtube.com/watch?v=FA3EIk5cW8k)  |  [Никита Галкин](speakers/Никита%20Галкин.md)  | [:notebook:](https://speakerdeck.com/galkin/5-production-node-dot-js-stories-at-odessajs-2017)   |
+| Пишу на колбеках, а что...  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/timur-shemsedinov)   |
+| The rise of javascript robotics [en] |  [Markus Leutwyler](speakers/Markus%20Leutwyler.md)  |    |
+| Machine Learning and AI - зачем оно мне джаваскриптеру?  |  [Philip Shurpik](speakers/Philip%20Shurpik.md)  |    |
+| [Practical difficulties and approaches to its solution in node.js development](https://www.youtube.com/watch?v=fHkjTMB7Y5k)  |  [Виталий Лебедев](speakers/Виталий%20Лебедев.md)  |    |
+| [High-performance IPC and RPC for microservices and apps](https://www.youtube.com/watch?v=5Jn_rKhIMr4)  |  [Алексей Орленко](speakers/Алексей%20Орленко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/alexey-orlenko-highperformance-ipc-and-rpc-for-microservices-and-apps)   |
+| Agile не работает. Мы все умрём!  |  [Alexander Marchenko](speakers/Alexander%20Marchenko.md)  |    |
+| [Облако в штанах](https://www.youtube.com/watch?v=yPDyP_igH1Y)  |  [Юрий Дадычин](speakers/Юрий%20Дадычин.md)  |    |
+| [Angular Universal](https://www.youtube.com/watch?v=_3KDM2trxak)  |  [Артём Палий](speakers/Артём%20Палий.md)  |    |
+| [Лайфхаки фронтэнд разработчика](https://www.youtube.com/watch?v=i3KueEClK8A)  |  [Алексей Золотых](speakers/Алексей%20Золотых.md)  |    |
+| [KonamiJS: a 10 year old Open Source project](https://www.youtube.com/watch?v=F3xI3ps7syI) [en] |  [George Mandis](speakers/George%20Mandis.md)  |    |
+| [Oh my Node или что нужно знать о безопасности в NodeJS](https://www.youtube.com/watch?v=n4JD6yFlxBs)  |  [Роман Саченко](speakers/Роман%20Саченко.md)  |    |
+| [Progressive Web Apps или как сделать веб-приложение ближе к нативному](https://www.youtube.com/watch?v=CyysOk97WAA)  |  [Тимофей Лавренюк](speakers/Тимофей%20Лавренюк.md)  |    |
+| [Groupware System for fun and profit](https://www.youtube.com/watch?v=qSO86HH-zaU)  |  [Максим Климишин](speakers/Максим%20Климишин.md)  |    |
+| [Angular Testing Recipes (v4+)](https://www.youtube.com/watch?v=DLSwaFKkEUs) [en] |  [Gerard Sans](speakers/Gerard%20Sans.md)  |    |
+| [Enhancing durability of ReactJS applications with Elm components](https://www.youtube.com/watch?v=zAGSXdsVp8Q)  |  [Вячеслав Ворончук](speakers/Вячеслав%20Ворончук.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/vyacheslav-voronchuk-enhancing-durability-of-reactjs-applications-with-elm-components)   |
+| [Remote Developer Crash Start](https://www.youtube.com/watch?v=aGUoSY969mE)  |  [Александр Розумей](speakers/Александр%20Розумей.md)  | [:notebook:](https://slides.com/brain-geek/remote-developer-crash-start#/)   |
+| [Как правильно думать](https://www.youtube.com/watch?v=RtJfM2B6mTw)  |  [Алексей Плетнёв](speakers/Алексей%20Плетнёв.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/oleksiy-pletnov)   |
+| [Neural networks in js](https://www.youtube.com/watch?v=8sAnWiwDWwI)  |  [Всеволод Родионов](speakers/Всеволод%20Родионов.md)  | [:notebook:](https://www.slideshare.net/vsevolodrodionov/js-77437539)   |
+| [Reactive State Management](https://www.youtube.com/watch?v=ALoiGs5NeSs)  |  [Григорий Шехет](speakers/Григорий%20Шехет.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/gregory-shehet-reactive-state-managment)   |
+| JSPM way of doing ES6 development  |  [Сергей Селецкий](speakers/Сергей%20Селецкий.md)  |    |
+| [Changing live audio with the web-audio-api](https://www.youtube.com/watch?v=7SPDzoOC8yo) [en] |  [Sam Bellen](speakers/Sam%20Bellen.md)  |    |
+| [Cross-shell prompts in JavaScript](https://www.youtube.com/watch?v=cka5-bMm41A)  |  [Денис Довгань](speakers/Денис%20Довгань.md)  | [:notebook:](https://denysdovhan.com/slides-cross-shell-prompts/#/)   |
+| [Component Driven Development](https://www.youtube.com/watch?v=rS_Uw_ihsko)  |  [Николай Кожухаренко](speakers/Николай%20Кожухаренко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/nikolay-kozhukharenko-component-driven-development-how-to-guide)   |
+| [Use cases of Node.js Streams](https://www.youtube.com/watch?v=nHwNDmdasWw)  |  [Андрей Шумада](speakers/Андрей%20Шумада.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/andrii-shumada-use-cases-of-nodejs-streams)   |
+| [RxJS - think reactevly](https://www.youtube.com/watch?v=BiTu-ykKTG4)  |  [Александр Грибанов](speakers/Александр%20Грибанов.md)  |    |
+| Эволюция архитектуры ИС  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/timur-shemsedinov-77913091)   |
+| [Modern approach to localization in javascript with the good old gettext and c-3po](https://www.youtube.com/watch?v=9QjzpfA9LH4)  |  [Александр Мостовенко](speakers/Александр%20Мостовенко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/alexander-mostovenko-modern-approach-to-localization-in-javascript-with-the-good-old-gettext-and-c3po)   |
+| [Trojan War: SinonJS](https://www.youtube.com/watch?v=xITbhmWYyXQ)  |  [Александра Калинина](speakers/Александра%20Калинина.md)  |    |
+| [Asynchrony with the MetaSync library](https://www.youtube.com/watch?v=XRSxsw0Kgms)  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  |    |
+| [Angular 4 Animate: завтрашние UI технологии](https://www.youtube.com/watch?v=v0M1DLNg25k)  |  [Антон Видинёв](speakers/Антон%20Видинёв.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/anton-vidinev-angular-4-animate-ui)   |
 ## OdessaJS 2016 - 2016 Jul 02-03 
 | | | |
 | --- | :---: | --- |
 | [Карты и картографические сервисы](https://youtu.be/b_wnjn1iWEQ)  |  [Николай Беличук](speakers/Николай%20Беличук.md)  |    |
-| [Data fetching в React.js](https://youtu.be/q2uIJOrEXuQ)  |  [Артем Тритяк](speakers/Артем%20Тритяк.md)  |    |
+| [Data fetching в React.js](https://youtu.be/q2uIJOrEXuQ)  |  [Артём Тритяк](speakers/Артём%20Тритяк.md)  |    |
 | [Internet of things в офисе](https://youtu.be/7LGrDbZ3Kh8)  |  [Юрий Шевцов](speakers/Юрий%20Шевцов.md)  |    |
 | [Можно вообще всё. Раскладка по гриду](https://youtu.be/VndU9asBYmc)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
 | [Sync: rocket science explained](https://youtu.be/vBmPjWbB2Zs)  |  [Виктор Грищенко](speakers/Виктор%20Грищенко.md)  |    |
@@ -89,44 +141,53 @@
 ## OdessaJS 2015 - 2015 Aug 21-22 
 | | | |
 | --- | :---: | --- |
-| [Connect physical world to the Internet with JavaScript](https://youtu.be/zwZNaj998tg)  |  [Андрей Кучеренко](speakers/Андрей%20Кучеренко.md)  |    |
-| [Connect physical world to the Internet with JavaScript](https://youtu.be/zwZNaj998tg)  |  [Максим Крячко](speakers/Максим%20Крячко.md)  |    |
-| [12 ошибок Frontend разработчика или как оптимизировать готовый продукт](https://youtu.be/VLbFbU488kI)  |  [Юлия Пшинко](speakers/Юлия%20Пшинко.md)  |    |
-| [Мастер-класс: строим сервис по БЭМ](https://youtu.be/9VvmzwljkdM)  |  [Сергей Бережной](speakers/Сергей%20Бережной.md)  |    |
+| [Chrome internals &amp; rendering performance](https://youtu.be/FZwmEb4H5ew)  |  [Алексей Швайка](speakers/Алексей%20Швайка.md)  |    |
+| [WebRTC - real-tim​e communications](https://youtu.be/fOthkw5lp2Q)  |  [Илья Касьяненко](speakers/Илья%20Касьяненко.md)  |    |
+| [Сила JS в облаке Azure](https://youtu.be/wBKr4J5an5E)  |  [Маргарита Остапчук](speakers/Маргарита%20Остапчук.md)  |    |
+| [First-class programming](https://youtu.be/RoUt1V9MYzo)  |  [Алексей Распопов](speakers/Алексей%20Распопов.md)  |    |
+| Cloud Development with NodeJS  |  [Валентин Шибанов](speakers/Валентин%20Шибанов.md)  |    |
+| [React, Flux и правильные абстракции](https://youtu.be/hrt8ceKCMvg)  |  [Илья Сегеда](speakers/Илья%20Сегеда.md)  |    |
+| [Интерактивная графика: многопользовательские приложения на Paper.js](https://www.youtube.com/watch?v=qsyAvFVksY8)  |  [Юлия Пучнина](speakers/Юлия%20Пучнина.md)  |    |
+| [React Native &amp; Reflux](https://youtu.be/sR2cwJXNNq4)  |  [Филипп Шурпик](speakers/Филипп%20Шурпик.md)  |    |
+| Angular 2.0  |  [Валентин Шибанов](speakers/Валентин%20Шибанов.md)  |    |
+| [React Native](https://youtu.be/G74sB7OXliQ)  |  [Артём Тритяк](speakers/Артём%20Тритяк.md)  |    |
 | [Front-end Security](https://youtu.be/4mldBI_xSPw)  |  [Николай Беличук](speakers/Николай%20Беличук.md)  |    |
 | [Разработка через тестирование на Javascript](https://youtu.be/UEDGvBmrgJ0)  |  [Андрей Кучеренко](speakers/Андрей%20Кучеренко.md)  |    |
-| [Как исправить ошибку в NodeJS и нечаянно поднять производительность в 2 раза](https://youtu.be/Q8ohKdYrpRA)  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  |    |
-| [Marionette. Shall we dance?](https://youtu.be/O0VsEq2GsHA)  |  [Ксения Редунова](speakers/Ксения%20Редунова.md)  |    |
-| [Учи разные языки! Будь мужиком, Карл](https://youtu.be/NdU1DrcrsdY)  |  [Дмитрий Малеев](speakers/Дмитрий%20Малеев.md)  |    |
-| [Структура проекта и разработка модулей на Meteor.js](https://youtu.be/0ZoYNt8xGj4)  |  [Вячеслав Ворончук](speakers/Вячеслав%20Ворончук.md)  |    |
-| [Service Worker - Bringing Native App Experience To Web Apps](https://youtu.be/Zo5leNzBbOc)  |  [Виктор Зозуляк](speakers/Виктор%20Зозуляк.md)  |    |
-| [Применяем однонаправленный поток данных за пределами экосистемы ReactJS](https://youtu.be/fSpwFiwRYME)  |  [Андрей Пазняк](speakers/Андрей%20Пазняк.md)  |    |
-| [Как устроен NodeJS (V8, libuv, async, bindings)](https://youtu.be/yKU6K1i5i6o)  |  [Евгений Обрезков](speakers/Евгений%20Обрезков.md)  |    |
-| [Сила JS в облаке Azure](https://youtu.be/wBKr4J5an5E)  |  [Маргарита Остапчук](speakers/Маргарита%20Остапчук.md)  |    |
-| [WebRTC - real-tim​e communications](https://youtu.be/fOthkw5lp2Q)  |  [Илья Касьяненко](speakers/Илья%20Касьяненко.md)  |    |
-| [Chrome internals &amp; rendering performance](https://youtu.be/FZwmEb4H5ew)  |  [Алексей Швайка](speakers/Алексей%20Швайка.md)  |    |
-| [Пацаны, го в бекграунд](https://youtu.be/B6gSYKKgus4)  |  [Артем Захарченко](speakers/Артем%20Захарченко.md)  |    |
 | [Ember+Redux - вместе веселей](https://youtu.be/wqt_kyrumfM)  |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |
-| [React Native](https://youtu.be/G74sB7OXliQ)  |  [Артем Тритяк](speakers/Артем%20Тритяк.md)  |    |
-| [React Native &amp; Reflux](https://youtu.be/sR2cwJXNNq4)  |  [Филипп Шурпик](speakers/Филипп%20Шурпик.md)  |    |
-| [First-class programming](https://youtu.be/RoUt1V9MYzo)  |  [Алексей Распопов](speakers/Алексей%20Распопов.md)  |    |
-| [React, Flux и правильные абстракции](https://youtu.be/hrt8ceKCMvg)  |  [Илья Сегеда](speakers/Илья%20Сегеда.md)  |    |
+| [Мастер-класс: строим сервис по БЭМ](https://youtu.be/9VvmzwljkdM)  |  [Сергей Бережной](speakers/Сергей%20Бережной.md)  |    |
+| [Marionette. Shall we dance?](https://youtu.be/O0VsEq2GsHA)  |  [Ксения Редунова](speakers/Ксения%20Редунова.md)  |    |
+| [Пацаны, го в бекграунд](https://youtu.be/B6gSYKKgus4)  |  [Артём Захарченко](speakers/Артём%20Захарченко.md)  |    |
+| The new rock star of build tools - Webpack  |  [Андрей Вандакуров](speakers/Андрей%20Вандакуров.md)  |    |
+| [Учи разные языки! Будь мужиком, Карл](https://youtu.be/NdU1DrcrsdY)  |  [Дмитрий Малеев](speakers/Дмитрий%20Малеев.md)  |    |
+| Whoa, I can test Microsoft Edge on a Mac and Linux  |  [Маргарита Остапчук](speakers/Маргарита%20Остапчук.md)  |    |
+| [Connect physical world to the Internet with JavaScript](https://youtu.be/zwZNaj998tg)  |  [Андрей Кучеренко](speakers/Андрей%20Кучеренко.md)  [Максим Крячко](speakers/Максим%20Крячко.md)  |    |
+| [12 ошибок Frontend разработчика или как оптимизировать готовый продукт](https://youtu.be/VLbFbU488kI)  |  [Юлия Пшинко](speakers/Юлия%20Пшинко.md)  |    |
+| [Как устроен NodeJS (V8, libuv, async, bindings)](https://youtu.be/yKU6K1i5i6o)  |  [Евгений Обрезков](speakers/Евгений%20Обрезков.md)  |    |
+| [Применяем однонаправленный поток данных за пределами экосистемы ReactJS](https://youtu.be/fSpwFiwRYME)  |  [Андрей Пазняк](speakers/Андрей%20Пазняк.md)  |    |
+| [Service Worker - Bringing Native App Experience To Web Apps](https://youtu.be/Zo5leNzBbOc)  |  [Виктор Зозуляк](speakers/Виктор%20Зозуляк.md)  |    |
+| [Структура проекта и разработка модулей на Meteor.js](https://youtu.be/0ZoYNt8xGj4)  |  [Вячеслав Ворончук](speakers/Вячеслав%20Ворончук.md)  |    |
+| [Как исправить ошибку в NodeJS и нечаянно поднять производительность в 2 раза](https://youtu.be/Q8ohKdYrpRA)  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  |    |
+| Как изменился фронтенд за 15 лет  |  [Антон Яценко](speakers/Антон%20Яценко.md)  |    |
 ## OdessaJS 2014 - 2014 Jul 05-06 
 | | | |
 | --- | :---: | --- |
-| [Тестирование CSS-регрессий с Gemini](https://youtu.be/k0RDoEBqeU8)  |  [Сергей Татаринцев](speakers/Сергей%20Татаринцев.md)  |    |
-| [Javascript и иновации](https://youtu.be/qTm6wgCVGlQ)  |  [Максим Климишин](speakers/Максим%20Климишин.md)  |    |
-| [Секретный доклад](https://youtu.be/4t6c7G7gjTI)  |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |
-| [Javascript Quest](https://youtu.be/0xN8dYmYJFU)  |  [Дмитрий Тарасенко](speakers/Дмитрий%20Тарасенко.md)  |    |
-| [Building realtime](https://youtu.be/4o9InQSWnbw)  |  [Вадим Рубан](speakers/Вадим%20Рубан.md)  |    |
-| [There is no View we are looking for](https://youtu.be/u11yWeTuPfc)  |  [Антон Яценко](speakers/Антон%20Яценко.md)  |    |
-| [Node js Practical Guide](https://youtu.be/NW8xjOc0_uU)  |  [Эльдар Джафаров](speakers/Эльдар%20Джафаров.md)  |    |
+| [Ember.js Назад в будущее](https://youtu.be/yIIdnEDtgiU)  |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |
 | [Асинхронное программирование Deferred и Promises](https://youtu.be/6iRO2NPmxMs)  |  [Дмитрий Охрименко](speakers/Дмитрий%20Охрименко.md)  |    |
-| [Java Script и качество кода](https://youtu.be/b3YT6-6egVM)  |  [Андрей Кучеренко](speakers/Андрей%20Кучеренко.md)  |    |
-| [React JS Паттерны разработки](https://youtu.be/30Ip4N7o9u8)  |  [Эльдар Джафаров](speakers/Эльдар%20Джафаров.md)  |    |
-| [Что-то про трансформацию JS](https://youtu.be/2rOUDjM9kBA)  |  [Ингвар Степанян](speakers/Ингвар%20Степанян.md)  |    |
+| [Что-то о юнит тестировании](https://youtu.be/Pg45eGbicFk)  |  [Артём Тритяк](speakers/Артём%20Тритяк.md)  |    |
+| [Node js Practical Guide](https://youtu.be/NW8xjOc0_uU)  |  [Эльдар Джафаров](speakers/Эльдар%20Джафаров.md)  |    |
 | [Производительность Client Side](https://youtu.be/NickLGiKjZo)  |  [Александр Бойченко](speakers/Александр%20Бойченко.md)  |    |
-| [Angular JS at enterprise](https://youtu.be/Q56FtS0OzuA)  |  [Валентин Шибанов](speakers/Валентин%20Шибанов.md)  |    |
-| [Что-то о юнит тестировании](https://youtu.be/Pg45eGbicFk)  |  [Артем Тритяк](speakers/Артем%20Тритяк.md)  |    |
-| [Визуализируем стильно с D3 js](https://youtu.be/JjHwPIF1xwE)  |  [Ксения Редунова](speakers/Ксения%20Редунова.md)  |    |
-| [Ember js Назад в будущее](https://youtu.be/yIIdnEDtgiU)  |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |
+| [There is no View we are looking for](https://youtu.be/u11yWeTuPfc)  |  [Антон Яценко](speakers/Антон%20Яценко.md)  |    |
+| [React JS Паттерны разработки](https://youtu.be/30Ip4N7o9u8)  |  [Эльдар Джафаров](speakers/Эльдар%20Джафаров.md)  |    |
+| [Javascript Quest](https://youtu.be/0xN8dYmYJFU)  |  [Дмитрий Тарасенко](speakers/Дмитрий%20Тарасенко.md)  |    |
+| Разработка Windows 8 и Windows Phone приложений с помощью JavaScript  |  [Сергей Байдачный](speakers/Сергей%20Байдачный.md)  |    |
+| [Javascript и иновации](https://youtu.be/qTm6wgCVGlQ)  |  [Максим Климишин](speakers/Максим%20Климишин.md)  |    |
+| [Визуализируем стильно с D3.js](https://youtu.be/JjHwPIF1xwE)  |  [Ксения Редунова](speakers/Ксения%20Редунова.md)  |    |
+| [JavaScript и качество кода](https://youtu.be/b3YT6-6egVM)  |  [Андрей Кучеренко](speakers/Андрей%20Кучеренко.md)  |    |
+| [AngularJS at enterprise](https://youtu.be/Q56FtS0OzuA)  |  [Валентин Шибанов](speakers/Валентин%20Шибанов.md)  |    |
+| Разработка проекта на полном стеке БЭМ  |  [Евгений Константинов](speakers/Евгений%20Константинов.md)  [Дмитрий Белицкий](speakers/Дмитрий%20Белицкий.md)  |    |
+| [Тестирование CSS-регрессий с Gemini](https://youtu.be/k0RDoEBqeU8)  |  [Сергей Татаринцев](speakers/Сергей%20Татаринцев.md)  |    |
+| Что-то о взаимодействии компонентов в Backbone.js приложениях и не только  |  [Денис Кузин](speakers/Денис%20Кузин.md)  |    |
+| [Что-то про трансформацию JS](https://youtu.be/2rOUDjM9kBA)  |  [Ингвар Степанян](speakers/Ингвар%20Степанян.md)  |    |
+| [Building realtime WebApps with XMPP](https://youtu.be/4o9InQSWnbw)  |  [Вадим Рубан](speakers/Вадим%20Рубан.md)  |    |
+| Архитектура расширяемых приложений  |  [Артём Платонов](speakers/Артём%20Платонов.md)  [Андрей Альперт](speakers/Андрей%20Альперт.md)  |    |
+| [Секретный доклад про React](https://youtu.be/4t6c7G7gjTI)  |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |

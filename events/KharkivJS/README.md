@@ -28,7 +28,7 @@
 | [Know your audience or how to bundle less](https://www.youtube.com/watch?v=NtzZzx5e8vo)  |  [Артём Яворский](speakers/Артём%20Яворский.md)  |    |
 | [React 360](https://www.youtube.com/watch?v=VZFrVDQTgv0)  |  [Vitalii Kyktov](speakers/Vitalii%20Kyktov.md)  |    |
 | [here canvas will provide benefits to your expirience](https://www.youtube.com/watch?v=nOaopvS0gJ0)  |  [Сергей Кошман](speakers/Сергей%20Кошман.md)  |    |
-| [Big and complex React project](https://www.youtube.com/watch?v=jO30e_w-4fo)  |  [Sergey Kostyrko](speakers/Sergey%20Kostyrko.md)  |    |
+| [Big and complex React project](https://www.youtube.com/watch?v=jO30e_w-4fo)  |  [Сергей Костырко](speakers/Сергей%20Костырко.md)  |    |
 | [Create React Native App vs Expo vs Your Hands](https://www.youtube.com/watch?v=4LKw-fK52NU)  |  [Евгений Жарков](speakers/Евгений%20Жарков.md)  |    |
 | [When should I start writing my unit tests?](https://www.youtube.com/watch?v=LpE4vuJnCcA)  |  [Nick Lototskiy](speakers/Nick%20Lototskiy.md)  |    |
 | [High throughput in Node with decomposition and parallelization of the Main Thread](https://www.youtube.com/watch?v=I-FcjLx9D9g)  |  [Nikolay Matvienko](speakers/Nikolay%20Matvienko.md)  |    |
@@ -43,7 +43,7 @@
 | --- | :---: | --- |
 | [What is CSSinJS?](https://www.youtube.com/watch?v=snO_fDxy3cY)  |  [Валерій Сорокобатько](speakers/Валерій%20Сорокобатько.md)  |    |
 | [Тайны зеленого замочка](https://www.youtube.com/watch?v=VufUKONzZdM)  |  [Владимир Дашукевич](speakers/Владимир%20Дашукевич.md)  |    |
-| [A crash-course into virtual reality for web-developers](https://www.youtube.com/watch?v=KBFEWnnjhKg) [uk] |  [Denys Dovhan](speakers/Denys%20Dovhan.md)  |    |
+| [A crash-course into virtual reality for web-developers](https://www.youtube.com/watch?v=KBFEWnnjhKg) [uk] |  [Денис Довгань](speakers/Денис%20Довгань.md)  |    |
 | [Pixel shaders for Web developers](https://www.youtube.com/watch?v=TjcfdEshH4w)  |  [Денис Радин](speakers/Денис%20Радин.md)  |    |
 | [Асинхронное программирование на JS и Node.js](https://www.youtube.com/watch?v=VdRhAXnfrd0)  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  |    |
 | [Security: Vulnerabilities in your application](https://www.youtube.com/watch?v=DG_fWHeGjXI)  |  [Aliaksei Bahachuk](speakers/Aliaksei%20Bahachuk.md)  |    |
@@ -51,14 +51,14 @@
 | [Effortless Serverless](https://www.youtube.com/watch?v=eoNPvQeqMZw) [en] |  [Aleksandar Simovic](speakers/Aleksandar%20Simovic.md)  |    |
 | [А что если мы долетим и там будет всё?](https://www.youtube.com/watch?v=DYyWpZ8XRho)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  |    |
 | [Copy-pASTe](https://www.youtube.com/watch?v=dyvPGRor-Q0)  |  [Илья Климов](speakers/Илья%20Климов.md)  |    |
-| [Groupware Systems for fun and profit CRDT, OT, Offline](https://www.youtube.com/watch?v=xEZwd5Tu3oM)  |  [Максим Климишин](speakers/Максим%20Климишин.md)  |    |
+| [Groupware System for fun and profit](https://www.youtube.com/watch?v=xEZwd5Tu3oM)  |  [Максим Климишин](speakers/Максим%20Климишин.md)  |    |
 | [Что нужно знать о логах.](https://www.youtube.com/watch?v=wrP5pNtOr9A) [uk] |  [Volodymir Voevidka](speakers/Volodymir%20Voevidka.md)  |    |
 | [CerebralJS - A declarative state and side effects management...](https://www.youtube.com/watch?v=aGcXmFj0RYc)  |  [Aleksei Gurianov](speakers/Aleksei%20Gurianov.md)  |    |
 | [Soft Skills](https://www.youtube.com/watch?v=KB50Idc9ags)  |  [Maks Yuzva](speakers/Maks%20Yuzva.md)  |    |
 | [The working architecture of NodeJS applications](https://www.youtube.com/watch?v=Z08xL-oXMh0)  |  [Victor Turskyi](speakers/Victor%20Turskyi.md)  |    |
 | [Taking care of performance easiest than ever](https://www.youtube.com/watch?v=M5l-3z0Aulg)  |  [Артём Денисов](speakers/Артём%20Денисов.md)  |    |
 | [Нужен ли Вам React SSR ?](https://www.youtube.com/watch?v=d-LzDQbvZxs)  |  [Dmitry Poddubniy](speakers/Dmitry%20Poddubniy.md)  |    |
-| [Testing in Cloud](https://www.youtube.com/watch?v=IlEKMx0IS5c)  |  [Andrii Muzalevskyi](speakers/Andrii%20Muzalevskyi.md)  |    |
+| [Testing in Cloud](https://www.youtube.com/watch?v=IlEKMx0IS5c)  |  [Андрей Музалевский](speakers/Андрей%20Музалевский.md)  |    |
 | [Browser APIs you should not live without](https://www.youtube.com/watch?v=R4J2-ubrgxs)  |  [Stas Gavrylov](speakers/Stas%20Gavrylov.md)  | [:notebook:](https://slides.com/stasgavrylov/apis-ru/#/)   |
 | [Программирование микроконтроллеров на JavaScript](https://www.youtube.com/watch?v=iHsslg8ppKw) [uk] |  [Andrii Kostetskyi](speakers/Andrii%20Kostetskyi.md)  |    |
 | [How to become a techlead](https://www.youtube.com/watch?v=st98ADflBoQ)  |  [Georgii Podsvetov](speakers/Georgii%20Podsvetov.md)  |    |
@@ -77,7 +77,7 @@
 | | | |
 | --- | :---: | --- |
 | [React API design](https://www.youtube.com/watch?v=1niBVCLfAGI) [en] |  [Juho Vepsäläinen](speakers/Juho%20Vepsäläinen.md)  |    |
-| [Shells written in JavaScript](https://www.youtube.com/watch?v=ijXfFu61XH0) [en] |  [Denys Dovhan](speakers/Denys%20Dovhan.md)  |    |
+| [Shells written in JavaScript](https://www.youtube.com/watch?v=ijXfFu61XH0) [en] |  [Денис Довгань](speakers/Денис%20Довгань.md)  |    |
 | [How to become famous with GitHub and open-source](https://www.youtube.com/watch?v=sVbNF6zp3lY)  |  [Paul Miller](speakers/Paul%20Miller.md)  |    |
 | [JavaScript and offline business. Next big deal](https://www.youtube.com/watch?v=lam0mteyz1I)  |  [Georgiy Podsvyetov](speakers/Georgiy%20Podsvyetov.md)  |    |
 | [Moving Web forward: Part I — ECMAScript 201x](https://www.youtube.com/watch?v=pjDpN3nRpdc)  |  [Сергей Рубанов](speakers/Сергей%20Рубанов.md)  |    |
@@ -97,7 +97,7 @@
 | [Next](https://www.youtube.com/watch?v=Z37W65etPg4) [en] |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |
 | [Testing well. Stop shooting yourself in the foot.](https://www.youtube.com/watch?v=qNdHchzY-dQ)  |  [Max Onufriienko](speakers/Max%20Onufriienko.md)  |    |
 | [JS in IoT](https://www.youtube.com/watch?v=a2_keSbEgIM) [en] |  [Eugene Nezhuta](speakers/Eugene%20Nezhuta.md)  |    |
-| [Exploring ML in javaScript world](https://www.youtube.com/watch?v=4EFQDKtDAUY) [en] |  [Ivan Lavriv](speakers/Ivan%20Lavriv.md)  |    |
+| [Exploring ML in javaScript world](https://www.youtube.com/watch?v=4EFQDKtDAUY) [en] |  [Иван Лаврив](speakers/Иван%20Лаврив.md)  |    |
 | [How to build a desktop application in JS without using webview](https://www.youtube.com/watch?v=Qfe93CMhtPI)  |  [Viktor Turskyi](speakers/Viktor%20Turskyi.md)  |    |
 ## KharkivJS 6 - 2016 - 2016 May 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLnkLrCUX4Qh57cMQhiUVxpYUYzJ98SRnJ)
 | | | |
@@ -108,8 +108,8 @@
 | [Better async code with promises](https://www.youtube.com/watch?v=zOhvH4dslF4)  |  [Алексей Швайка](speakers/Алексей%20Швайка.md)  |    |
 | [Immutable vs Mutable](https://www.youtube.com/watch?v=8BExyeds_c0)  |  [Евгений Нежута](speakers/Евгений%20Нежута.md)  |    |
 | [Reactive Programming with RxJS](https://www.youtube.com/watch?v=r1BD4TEL6Yc)  |  [Алексей Богачук](speakers/Алексей%20Богачук.md)  |    |
-| [У нас в Архитектуре все не очень:)](https://www.youtube.com/watch?v=dq9aKdUbBoE)  |  [Дима Малеев](speakers/Дима%20Малеев.md)  |    |
-| Круглый стол  |  [Артём Захарченко](speakers/Артём%20Захарченко.md)  [Дима Малеев](speakers/Дима%20Малеев.md)  [Валерій Сорокобатько](speakers/Валерій%20Сорокобатько.md)  [Илья Климов](speakers/Илья%20Климов.md)  [Егор Мясников](speakers/Егор%20Мясников.md)  [Юрий Лучанинов](speakers/Юрий%20Лучанинов.md)  |    |
+| [У нас в Архитектуре все не очень:)](https://www.youtube.com/watch?v=dq9aKdUbBoE)  |  [Дмитрий Малеев](speakers/Дмитрий%20Малеев.md)  |    |
+| Круглый стол  |  [Артём Захарченко](speakers/Артём%20Захарченко.md)  [Дмитрий Малеев](speakers/Дмитрий%20Малеев.md)  [Валерій Сорокобатько](speakers/Валерій%20Сорокобатько.md)  [Илья Климов](speakers/Илья%20Климов.md)  [Егор Мясников](speakers/Егор%20Мясников.md)  [Юрий Лучанинов](speakers/Юрий%20Лучанинов.md)  |    |
 ## KharkivJS 5 - 2015 - 2015 Nov 07 [:movie_camera:](https://www.youtube.com/playlist?list=PLnkLrCUX4Qh5I-IJ30tf51EQYmWTPWPx2)
 | | | |
 | --- | :---: | --- |
