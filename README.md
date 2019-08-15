@@ -236,6 +236,12 @@
 | [We do n̶o̶t̶ sow or Ivy is coming](https://youtu.be/9EOOHaj5LBM)  |  [Никита Малик](speakers/Никита%20Малик.md)  | [:notebook:](https://slides.com/exiliot/ivy-is-coming#/)   |
 | [1000 и 1 блюдо из джаваскрипта](https://youtu.be/hlip_L5RWrk)  |  [Владислав Балабаш](speakers/Владислав%20Балабаш.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/1000-1-odessafrontend-meetup-10/)   |
 | [Highway to FPS or true animations in Angular](https://youtu.be/ywBEtfKunu4)  |  [Денис Бурячковски](speakers/Денис%20Бурячковски.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/highway-to-fps-or-true-animations-in-angular-odessafrontend-meetup-11)   |
+## JavaScript MeetUp - Mar 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;l8Fp1BhT5i0)
+| | | |
+| --- | :---: | --- |
+| [Процесс непрерывного совершенствования](https://www.youtube.com/watch?v=l8Fp1BhT5i0)  |  [Олег Лучанский](speakers/Олег%20Лучанский.md)  |    |
+| [ReactiveX Redux](https://www.youtube.com/watch?v=l8Fp1BhT5i0)  |  [Дмитрий Самохвалов](speakers/Дмитрий%20Самохвалов.md)  |    |
+| [Выведение Action type с помощью Typescript](https://www.youtube.com/watch?v=l8Fp1BhT5i0)  |  [Дмитрий Новиков](speakers/Дмитрий%20Новиков.md)  |    |
 ## moscowcss 11 - Mar 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ijZTu7aVJtg)
 | | | |
 | --- | :---: | --- |
