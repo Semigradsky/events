@@ -1,0 +1,20 @@
+name: Alfa JS MeetUp
+date: 2018-12-11
+videos: https://www.youtube.com/watch?v=dCXvQkvSyQg
+talks:
+  - name: Краткий пересказ утерянных глав руководства по фронтенду
+    speaker: Артём Арутюнян
+    video: https://www.youtube.com/watch?v=dCXvQkvSyQg&t=850s
+    presentation: https://docs.google.com/presentation/d/1-TI4ozHLV7IhujcmAsNkf58RBdrKQB37EUKtQ0UYmIM/edit
+  - name: Сквозная типизация на клиенте и сервере
+    speaker: Андрей Цветков
+    video: https://www.youtube.com/watch?v=dCXvQkvSyQg&t=4640s
+    presentation:
+  - name: "Formik — «альтернатива» redux-form"
+    speaker: Анатолий Плахотников
+    video: https://www.youtube.com/watch?v=dCXvQkvSyQg&t=6230s
+    presentation:
+  - name: Тестирование react-redux приложений
+    speaker: Сергей Соколов
+    video: https://www.youtube.com/watch?v=dCXvQkvSyQg&t=7890s
+    presentation:

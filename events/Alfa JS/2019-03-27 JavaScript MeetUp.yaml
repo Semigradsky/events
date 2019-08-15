@@ -1,0 +1,16 @@
+name: JavaScript MeetUp
+date: 2019-03-27
+videos: https://www.youtube.com/watch?v=l8Fp1BhT5i0
+talks:
+  - name: Процесс непрерывного совершенствования
+    speaker: Олег Лучанский
+    video: https://www.youtube.com/watch?v=l8Fp1BhT5i0
+    presentation:
+  - name: ReactiveX Redux
+    speaker: Дмитрий Самохвалов
+    video: https://www.youtube.com/watch?v=l8Fp1BhT5i0
+    presentation:
+  - name: Выведение Action type с помощью Typescript
+    speaker: Дмитрий Новиков
+    video: https://www.youtube.com/watch?v=l8Fp1BhT5i0
+    presentation:
