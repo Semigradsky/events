@@ -1,0 +1,16 @@
+name: React Moscow Meetup 4
+date: 2018-03-23
+videos: https://www.youtube.com/watch?v=t3fxt6dR_BM
+talks:
+  - name: Архитектура компонент с использованием styled-components
+    speaker: Артём Артунян
+    video: https://www.youtube.com/watch?v=t3fxt6dR_BM&t=1210s
+    presentation:
+  - name: О форматировании кода
+    speaker: Олег Лучанский
+    video: https://www.youtube.com/watch?v=t3fxt6dR_BM&t=1270s
+    presentation:
+  - name: React+Redux и MVC
+    speaker: Сергей Соколов
+    video: https://www.youtube.com/watch?v=t3fxt6dR_BM&t=1310s
+    presentation:

@@ -1,0 +1,16 @@
+name: React Moscow Meetup 2
+date: 2017-03-15
+videos: ''
+talks:
+  - name: Как лучше всего использовать React
+    speaker: Григорий Шехет
+    video:
+    presentation:
+  - name: "PreJSS: финальная точка в войне CSS-форматов"
+    speaker: Денис Измайлов
+    video:
+    presentation:
+  - name: Bem-react-core — что нового
+    speaker: Сергей Бережной
+    video:
+    presentation:

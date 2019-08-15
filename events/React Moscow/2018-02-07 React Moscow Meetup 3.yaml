@@ -1,0 +1,20 @@
+name: React Moscow Meetup 3
+date: 2018-02-07
+videos: ''
+talks:
+  - name: Как быть реактивным?
+    speaker: Григорий Шехет
+    video:
+    presentation: https://yadi.sk/i/eHEqj5oL3SDRqZ
+  - name: Превозмогая трудности
+    speaker: Андрей Морозов
+    video:
+    presentation: https://yadi.sk/i/KfkYsLUm3SDPyc
+  - name: Проектирование State приложения
+    speaker: Павел Масальский
+    video:
+    presentation: https://yadi.sk/i/J9VKJEUe3SDRBV
+  - name: GraphQL сегодня и завтра
+    speaker: Макар Стеценко
+    video:
+    presentation: https://yadi.sk/i/pntYfW6F3SDRsR

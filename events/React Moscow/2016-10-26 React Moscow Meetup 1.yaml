@@ -1,0 +1,16 @@
+name: React Moscow Meetup 1
+date: 2016-10-26
+videos: ''
+talks:
+  - name: bem-react-core, как писать на React по БЭМ методологии
+    speaker: Сергей Бережной
+    video:
+    presentation:
+  - name: Опыт разработки React-приложения с big data и как отрисовать таблицы до 300 тысяч строк с вложенными компонентами
+    speaker: Всеволод Иванов
+    video:
+    presentation:
+  - name: Наблюдения и размышления по итогам работы с компонентами в Альфа-Лаборатории, Яндекс
+    speaker: Иван Котов
+    video:
+    presentation:
