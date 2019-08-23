@@ -3,6 +3,15 @@
 
 # SPA Meetup
 
+## SPA Meetup 5 - 2019 Aug 17 [:movie_camera:](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12)
+| | | |
+| --- | :---: | --- |
+| [Жесть для Jest](https://www.youtube.com/watch?v=8_6Kuo5jFpU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=1)  |  [Сергей Мелюков](speakers/Сергей%20Мелюков.md)  |    |
+| [DI как способ масштабирования всего](https://www.youtube.com/watch?v=UgCCksb0VdM&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=2)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
+| [UIKit, который точно сможет](https://www.youtube.com/watch?v=nhNrSiMOTjo&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=3)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  |    |
+| [Куда растут библиотеки компонентов](https://www.youtube.com/watch?v=1utWz-CYiLU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=4)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
+| [Платформенная команда: пособие по применению](https://www.youtube.com/watch?v=Y61bQAfgW70&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=5)  |  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
+| [Панельная сессия: «Платформенные команды – сказка или реальность?»](https://www.youtube.com/watch?v=mEpwFo4R43w&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=6)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  [Денис Колесников](speakers/Денис%20Колесников.md)  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  [Алексей Попков](speakers/Алексей%20Попков.md)  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
 ## SPA Meetup 4 - 2018 Apr 07 [:movie_camera:](https://www.youtube.com/playlist?list=PLknJ4Vr6efQFtZmsXmGG64Rz_PHrcXCBL)
 | | | |
 | --- | :---: | --- |

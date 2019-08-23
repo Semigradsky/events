@@ -3,6 +3,21 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Belarus 1 - Aug 22 
+| | | |
+| --- | :---: | --- |
+| Smells like Angular Spirit: NestJS as natural backend for Angular  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/smells-like-angular-spirit)   |
+| Rendering Angular applications in Terminal. Angular Platforms in-depth  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://slides.com/nikitapoltoratsky/rendering-angular-applications-in-terminal-2)   |
+| Angular PWA: Make Angular app great again  |  [Ирина Бабровская](speakers/Ирина%20Бабровская.md)  | [:notebook:](https://make-angular-app-great-again.netlify.com/)   |
+## SPA Meetup 5 - Aug 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12)
+| | | |
+| --- | :---: | --- |
+| [Жесть для Jest](https://www.youtube.com/watch?v=8_6Kuo5jFpU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=1)  |  [Сергей Мелюков](speakers/Сергей%20Мелюков.md)  |    |
+| [DI как способ масштабирования всего](https://www.youtube.com/watch?v=UgCCksb0VdM&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=2)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
+| [UIKit, который точно сможет](https://www.youtube.com/watch?v=nhNrSiMOTjo&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=3)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  |    |
+| [Куда растут библиотеки компонентов](https://www.youtube.com/watch?v=1utWz-CYiLU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=4)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
+| [Платформенная команда: пособие по применению](https://www.youtube.com/watch?v=Y61bQAfgW70&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=5)  |  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
+| [Панельная сессия: «Платформенные команды – сказка или реальность?»](https://www.youtube.com/watch?v=mEpwFo4R43w&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=6)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  [Денис Колесников](speakers/Денис%20Колесников.md)  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  [Алексей Попков](speakers/Алексей%20Попков.md)  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
 ## Angular Minsk 2 - Aug 06 
 | | | |
 | --- | :---: | --- |
