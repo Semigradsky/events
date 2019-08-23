@@ -2,15 +2,15 @@ name: Angular Belarus 1
 date: 2019-08-22
 videos: ''
 talks:
-  - name: Perks of working in Nest.js
+  - name: "Smells like Angular Spirit: NestJS as natural backend for Angular"
     speaker: Валентин Кононов
     video:
-    presentation:
+    presentation: https://slides.com/valentinkononov/smells-like-angular-spirit
   - name: Rendering Angular applications in Terminal. Angular Platforms in-depth
     speaker: Никита Полторацкий
     video:
-    presentation:
+    presentation: https://slides.com/nikitapoltoratsky/rendering-angular-applications-in-terminal-2
   - name: "Angular PWA: Make Angular app great again"
     speaker: Ирина Бабровская
     video:
-    presentation:
+    presentation: https://make-angular-app-great-again.netlify.com/
