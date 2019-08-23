@@ -1,28 +1,28 @@
 name: SPA Meetup 5
 date: 2019-08-17
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12
 talks:
   - name: Жесть для Jest
     speaker: Сергей Мелюков
-    video:
+    video: https://www.youtube.com/watch?v=8_6Kuo5jFpU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=1
     presentation:
   - name: DI как способ масштабирования всего
     speaker: Алексей Попков
-    video:
+    video: https://www.youtube.com/watch?v=UgCCksb0VdM&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=2
     presentation:
   - name: UIKit, который точно сможет
     speaker: Константин Лебедев
-    video:
+    video: https://www.youtube.com/watch?v=nhNrSiMOTjo&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=3
     presentation:
   - name: Куда растут библиотеки компонентов
     speaker: Тим Чаптыков
-    video:
+    video: https://www.youtube.com/watch?v=1utWz-CYiLU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=4
     presentation:
   - name: "Платформенная команда: пособие по применению"
     speaker: Александр Казаченко
-    video:
+    video: https://www.youtube.com/watch?v=Y61bQAfgW70&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=5
     presentation:
   - name: "Панельная сессия: «Платформенные команды – сказка или реальность?»"
-    speaker: '?'
-    video:
+    speaker: Константин Лебедев, Денис Колесников, Тим Чаптыков, Алексей Попков, Александр Казаченко
+    video: https://www.youtube.com/watch?v=mEpwFo4R43w&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=6
     presentation:
