@@ -10,8 +10,6 @@ talks:
     speaker: Владимир Дашукевич
     video: https://www.youtube.com/watch?v=_OcnHy64xM0
     presentation:
-
-
   - name: "Dart: питание и сила для вашего проекта"
     speaker: Евгений Гусев
     video: https://www.youtube.com/watch?v=wE7VMBnQ7jY
@@ -46,6 +44,7 @@ talks:
     presentation:
   - name: Scalable Angular 2 Application Architecture
     speaker: Minko Gechev
+    lang: en
     video: https://www.youtube.com/watch?v=r9D5JeVClBs
     presentation:
   - name: Если у вас нету тестов…

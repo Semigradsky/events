@@ -20,7 +20,7 @@ talks:
     presentation:
     tags:
       - 'Ember'
-  - name: "Управление CSS свойствами с помощью аудио сигнала" и "Первый взгляд на React после Ember"
+  - name: "\"Управление CSS свойствами с помощью аудио сигнала\" и \"Первый взгляд на React после Ember\""
     speaker: Максим Масленников
     video:
     presentation:
