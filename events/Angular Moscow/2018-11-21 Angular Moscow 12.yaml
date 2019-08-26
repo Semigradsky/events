@@ -1,0 +1,21 @@
+name: Angular Moscow 12
+date: 2018-11-21
+videos: ''
+talks:
+  - name: Angular Schematics - как потерять время с пользой
+    speaker: Алексей Охрименко
+    video: https://youtu.be/aTI6vY92MEw
+    presentation:
+  - name: Angular + gRPC
+    speaker: Дмитрий Захаров
+    video: https://youtu.be/SuRGvp2V-EE
+    presentation:
+  - name: Итория одного конструктора или построение библиотек с помощью Angular6
+    speaker: Антон Карпов
+    video: https://youtu.be/5E3BrPA3nM4
+    presentation:
+  - name: PWA - modern web application
+    speaker: Maciej Treder
+    lang: en
+    video: https://youtu.be/lFMGowpdbmA
+    presentation:

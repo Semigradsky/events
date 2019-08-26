@@ -1,0 +1,16 @@
+name: Angular Moscow 5
+date: 2017-09-14
+videos: ''
+talks:
+  - name: PrimeNG, опыт использования
+    speaker: Вадим Жамков
+    video: https://youtu.be/jNsr_CaTavY
+    presentation:
+  - name: Cостояние состояния (Services, Redux, Mobx, DCI)
+    speaker: Алексей Охрименко
+    video: https://youtu.be/8VesYob7OJg
+    presentation:
+  - name: Unit-тестирование форм в Angular
+    speaker: Павел Пилипчак
+    video: https://youtu.be/Tpb3DRsjQFI
+    presentation:

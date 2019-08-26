@@ -1,0 +1,17 @@
+name: Angular Moscow 6
+date: 2017-11-16
+videos: ''
+talks:
+  - name: Воркеры в жизни и в экосистеме Angular
+    speaker: Александр Духовняк
+    video: https://youtu.be/-omipfGwMnw
+    presentation:
+  - name: 6 App One Code With Ionic
+    speaker: Sani Yusuf
+    lang: en
+    video: https://youtu.be/CRsK7YQj5wA
+    presentation:
+  - name: Angular Universal 4+. Проблемы, примеры, решения
+    speaker: Игорь Кравченко
+    video: https://youtu.be/KmnEvUdHM30
+    presentation:

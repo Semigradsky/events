@@ -1,0 +1,16 @@
+name: Angular Moscow 4
+date: 2017-09-05
+videos: ''
+talks:
+  - name: Angular (4.x) Dependency Injection в руки и вперед!
+    speaker: Алексей Охрименко
+    video:
+    presentation:
+  - name: Дружим ng1 с ng2
+    speaker: Михаил Желудев
+    video:
+    presentation:
+  - name: SPA на сервере своими руками
+    speaker: Иван Матвейчук
+    video:
+    presentation:

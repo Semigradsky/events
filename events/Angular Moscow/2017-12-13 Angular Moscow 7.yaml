@@ -1,0 +1,18 @@
+name: Angular Moscow 7
+date: 2017-12-13
+videos: ''
+talks:
+  - name: Практическое применение NgRx 4.x
+    speaker: Сергей Хроленок
+    video:
+    presentation:
+  - name: Implementing Motion using Angular (v5+)
+    speaker: Gerard Sans
+    lang: en
+    video:
+    presentation:
+  - name: Mad Science with the Angular Compiler
+    speaker: Minko Gechev
+    lang: en
+    video:
+    presentation:

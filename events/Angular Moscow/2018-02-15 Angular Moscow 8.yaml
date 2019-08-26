@@ -1,0 +1,16 @@
+name: Angular Moscow 8
+date: 2018-02-15
+videos: ''
+talks:
+  - name: Наследование в angular
+    speaker: Климент Рудниченко
+    video:
+    presentation:
+  - name: RxJS Subjects
+    speaker: Андрей Алексеев
+    video:
+    presentation:
+  - name: e2e и BDD в Angular 4+
+    speaker: Иван Ботанов
+    video:
+    presentation:

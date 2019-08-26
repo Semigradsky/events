@@ -1,0 +1,16 @@
+name: Angular Moscow 1
+date: 2016-11-17
+videos: ''
+talks:
+  - name: Сборка Angular 2.0 приложений
+    speaker: Александр Казаченко
+    video:
+    presentation:
+  - name: Фишки и прелести TypeScript
+    speaker: Александр Майоров
+    video:
+    presentation:
+  - name: Почему стоит переходить на Angular 2.0. Отличия и особенности
+    speaker: Юлия Царева
+    video:
+    presentation:

@@ -1,0 +1,16 @@
+name: Angular Moscow 11
+date: 2018-09-27
+videos: ''
+talks:
+  - name: Использование динамических форм с ngx-formly
+    speaker: Олег Кургускин
+    video:
+    presentation:
+  - name: Плагинная архитектура
+    speaker: Рустам Имайкин
+    video:
+    presentation:
+  - name: Angular-ngrx-data – CRUD с полноценным state management за пять минут
+    speaker: Климент Рудниченко
+    video:
+    presentation:

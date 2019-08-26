@@ -1,0 +1,16 @@
+name: Angular Moscow 2
+date: 2017-03-16
+videos: ''
+talks:
+  - name: SPA на сервере своими руками
+    speaker: Иван Матвейчук
+    video: https://youtu.be/YGDJOfwgu-A
+    presentation:
+  - name: Динамическое создание компонентов в Angular на примере модальных окон
+    speaker: Андрей Яманов
+    video: https://youtu.be/blSENg8Gssw
+    presentation:
+  - name: Дружим ng1 с ng2
+    speaker: Михаил Желудев
+    video: https://youtu.be/fUxAR2LNo-w
+    presentation:

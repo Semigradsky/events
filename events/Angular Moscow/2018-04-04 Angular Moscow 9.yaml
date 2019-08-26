@@ -1,0 +1,24 @@
+name: Angular Moscow 9
+date: 2018-04-04
+videos: ''
+talks:
+  - name: Angular + Nestjs
+    speaker: Дмитрий Захаров
+    video: https://youtu.be/Mq3bCWY-J60
+    presentation:
+  - name: "Блиц-доклад: Interceptors и авторизация"
+    speaker: Вадим Жамков
+    video: https://youtu.be/Y1Ld929dYq8
+    presentation:
+  - name: "Блиц-доклад: Автобиндинг динамических компонентов "
+    speaker: Андрей Греков
+    video: https://youtu.be/9-4zb3Gh5K4
+    presentation:
+  - name: "Блиц-доклад: Angular ❤️SVG "
+    speaker: Кирилл Черкашин
+    video: https://youtu.be/xJP52ub2p8c
+    presentation:
+  - name: "Блиц-доклад: Angular Storybook"
+    speaker: Алексей Охрименко
+    video: https://youtu.be/j7EsNGKXVVY
+    presentation:

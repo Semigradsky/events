@@ -1,0 +1,16 @@
+name: Angular Moscow 14
+date: 2019-06-27
+videos: ''
+talks:
+  - name: Препарируем RxJS операторы
+    speaker: Кирилл Галушко
+    video: https://youtu.be/V80FAvPKMjo
+    presentation:
+  - name: Безопасность и уязвимости в SPA на примере Angular
+    speaker: Сергей Хроленок
+    video: https://youtu.be/zSKTDIf_yeo
+    presentation:
+  - name: "Такие разные и в то же время одинаковые: Платформы в Angular"
+    speaker: Алексей Охрименко
+    video:
+    presentation:

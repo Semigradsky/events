@@ -1,0 +1,20 @@
+name: Mobile JS
+date: 2019-04-18
+videos: ''
+talks:
+  - name: Ускоряем загрузку мобильных приложений
+    speaker: Сергей Пугачев
+    video: https://youtu.be/Cpb4GREpuas
+    presentation:
+  - name: Простота. Надежность. WebAuthn
+    speaker: Алексей Носов
+    video: https://youtu.be/4q_DIQ4js2I
+    presentation:
+  - name: "Интерфейс для React Native-приложения: быстро и без боли"
+    speaker: Константин Дзюин
+    video: https://youtu.be/rZyLZrFjHa0
+    presentation:
+  - name: "Веб нового поколения. TWA: что это такое и что это значит для нас"
+    speaker: Даниил Матвеев
+    video: https://youtu.be/27-y7d4oebA
+    presentation:

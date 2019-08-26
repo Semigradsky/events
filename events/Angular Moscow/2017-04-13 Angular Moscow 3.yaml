@@ -1,0 +1,16 @@
+name: Angular Moscow 3
+date: 2017-04-13
+videos: ''
+talks:
+  - name: Angular Router вдоль и поперек
+    speaker: Юлия Царева
+    video:
+    presentation:
+  - name: Почему Angular такой быстрый
+    speaker: Юрий Федоренко
+    video:
+    presentation:
+  - name: Практическое использование RxJS в Angular
+    speaker: Сергей Хроленок
+    video:
+    presentation:

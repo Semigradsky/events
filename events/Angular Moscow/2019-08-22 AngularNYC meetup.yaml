@@ -1,12 +1,19 @@
 name: AngularNYC meetup
 date: 2019-08-22
-videos: ''
+videos: https://www.youtube.com/watch?v=rse7-kzxetQ
 talks:
   - name: Angular worst practices
     speaker: Juan Herrera
-    video:
+    lang: en
+    video: https://youtu.be/rse7-kzxetQ?t=1036
+    presentation:
+  - name: "Building an Angular PWA: NGSW or Workbox?"
+    speaker: Максим Сальников
+    lang: en
+    video: https://youtu.be/rse7-kzxetQ?t=2932
     presentation:
   - name: What's new in the angular world
     speaker: Kirill Cherkashin
-    video:
+    lang: en
+    video: https://youtu.be/rse7-kzxetQ?t=6975
     presentation:

@@ -1,0 +1,16 @@
+name: Angular Moscow 10
+date: 2018-07-19
+videos: https://www.youtube.com/watch?v=Fk3w2q6IEpI
+talks:
+  - name: Динамика в Angular. Формы, таблицы, виджеты
+    speaker: Андрей Греков
+    video: https://www.youtube.com/watch?v=Fk3w2q6IEpI
+    presentation:
+  - name: Higher order observables
+    speaker: Андрей Алексеев
+    video: https://www.youtube.com/watch?v=Fk3w2q6IEpI
+    presentation:
+  - name: State management system на примере NgXS
+    speaker: Игорь Кравченко
+    video: https://www.youtube.com/watch?v=Fk3w2q6IEpI
+    presentation:

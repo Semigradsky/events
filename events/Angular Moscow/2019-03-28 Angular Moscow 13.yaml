@@ -1,0 +1,20 @@
+name: Angular Moscow 13
+date: 2019-03-28
+videos: ''
+talks:
+  - name: "Lighting доклад: Angular Elements"
+    speaker: Максим Иванов
+    video:
+    presentation:
+  - name: "Lighting доклад: Мультиязычное приложение "
+    speaker: Рустам Имайкин
+    video:
+    presentation:
+  - name: "Lighting доклад: NGXF и структурные директивы в Angular "
+    speaker: Андрей Греков
+    video:
+    presentation:
+  - name: Ангуляры в Ангуляре, или как мы сделали мультиапп в Тинькофф.Бизнес
+    speaker: Станислав Петров, Алексей Горошевский
+    video:
+    presentation:
