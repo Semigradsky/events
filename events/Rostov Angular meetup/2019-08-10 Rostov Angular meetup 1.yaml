@@ -1,0 +1,22 @@
+name: Rostov Angular meetup 1
+date: 2019-08-10
+videos: ''
+link: https://makaronkaatrium.timepad.ru/event/1031106/
+talks:
+  - name: "Такие разные и в то же время одинаковые: Платформы в Angular"
+    speaker: Алексей Охрименко
+    video:
+    presentation:
+  - name: NestJS — бэкенд для фронтендаров
+    speaker: Сэм Булатов
+    video:
+    presentation:
+  - name: Декларативный Angular
+    speaker: Андрей Греков
+    video:
+    presentation:
+  - name: NativeScript + Angular = Love
+    speaker: Владимир Гайдуков
+    video:
+    presentation:
+    code: https://gist.github.com/nettakogo87/ceaa881b5fb740dd31329f66bfc4e854
