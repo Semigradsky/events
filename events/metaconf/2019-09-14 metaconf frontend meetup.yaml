@@ -1,0 +1,20 @@
+name: metaconf frontend meetup
+date: 2019-09-14
+videos: ''
+talks:
+  - name: "Nuxt.js: миллион полезных мелочей для Vue.js фронтенда"
+    speaker: Григорий Петров
+    video:
+    presentation:
+  - name: "React: lifting state up is killing your performance"
+    speaker: Андрей Гончаров
+    video:
+    presentation:
+  - name: Микросервисы на фронтенде
+    speaker: Антон Зеленский
+    video:
+    presentation:
+  - name: "Атипичный Angular: performance, flexibility, customization"
+    speaker: Роман Еникеев
+    video:
+    presentation:
