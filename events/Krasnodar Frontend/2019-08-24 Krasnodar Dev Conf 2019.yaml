@@ -3,4 +3,32 @@ date:
   - 2019-08-24
     2019-08-25
 videos: ''
-talks: []
+talks:
+  - name: CSS — язык программирования
+    speaker: Никита Дубко
+    video:
+    presentation:
+  - name: Рефакторинг V2 - Отрефакторенная версия доклада
+    speaker: Алексей Охрименко
+    video:
+    presentation:
+  - name: "Performance надзор: DIY"
+    speaker: Николай Рябов
+    video:
+    presentation:
+  - name: "Новый фронтенд в Одноклассниках: что, как и почему?"
+    speaker: Олег Коровин
+    video:
+    presentation:
+  - name: VK Mini Apps или как мы расширяем функционал ВКонтакте
+    speaker: Сергей Густун
+    video:
+    presentation:
+  - name: "\"Под капотом\" WebRTC: как живет и путешествует кадр в сети"
+    speaker: Кирилл Роговой
+    video:
+    presentation:
+  - name: Баги, которые вы никогда не встретите
+    speaker: Тим Чаптыков
+    video:
+    presentation:
