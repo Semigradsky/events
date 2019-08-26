@@ -3,6 +3,8 @@
 
 # Gerard Sans
 
+## Implementing Motion using Angular (v5+)
+- 2017 Dec 13 -- Angular Moscow 7 [en]   
 ## Unleashing the power of GraphQL and React
 - 2017 Jun 30-02 -- [OdessaJS 2017](https://www.youtube.com/watch?v=jWSnPo7mQlE) [en]   
 ## Angular Testing Recipes (v4+)

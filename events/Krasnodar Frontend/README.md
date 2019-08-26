@@ -27,7 +27,7 @@
 | [Архитектор (скрипач) не нужен](https://www.youtube.com/watch?v=aX77XOvd9yQ)  |  [Станислав Ткаченко](speakers/Станислав%20Ткаченко.md)  | [:notebook:](https://yadi.sk/i/XcR76KWvUj3zSg)   |
 | [Объясняем Scrum: История эволюции одной команды](https://www.youtube.com/watch?v=sWq7d2g23BY)  |  [Денис Сальников](speakers/Денис%20Сальников.md)  | [:notebook:](https://yadi.sk/i/_pb31QOmZlJnZQ)   |
 | [История функционального программирования и щепотка монад](https://www.youtube.com/watch?v=cSOnmVqOwBs)  |  [Айрат Худайгулов](speakers/Айрат%20Худайгулов.md)  | [:notebook:](https://yadi.sk/i/cVbSu_GfPHZ5IA)   |
-| [7 будущих чудес CSS](https://www.youtube.com/watch?v=sWmkzPB7VAo)  |  [Сэм Булатов](speakers/Сэм%20Булатов.md)  | [:notebook:](https://yadi.sk/i/60KVEbMG-6IqIw)   |
+| [Семь будущих чудес CSS](https://www.youtube.com/watch?v=sWmkzPB7VAo)  |  [Сэм Булатов](speakers/Сэм%20Булатов.md)  | [:notebook:](https://yadi.sk/i/60KVEbMG-6IqIw)   |
 | [Отказоустойчивые решения PostgreSQL с автоматическим failover’ом](https://www.youtube.com/watch?v=eHAe323N994)  |  [Игорь Косенков](speakers/Игорь%20Косенков.md)  | [:notebook:](https://yadi.sk/i/Y9MGozBgGsjdKA)   |
 | [Тестируем настоящее Vue приложение](https://www.youtube.com/watch?v=ICVVCOjpCkA)  |  [Никита Соболев](speakers/Никита%20Соболев.md)  | [:notebook:](https://yadi.sk/i/HfxiCSyLclfzEA) [:octocat:](https://github.com/wemake-services/wemake-vue-template)  |
 | [Мониторинг: IT-инфраструктура на кончиках пальцев](https://www.youtube.com/watch?v=2HWMyDPrpVw)  |  [Данил Герун](speakers/Данил%20Герун.md)  | [:notebook:](https://yadi.sk/i/zL9Q_H-EgorwXw)   |

@@ -3,6 +3,12 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## AngularNYC meetup - Aug 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rse7-kzxetQ)
+| | | |
+| --- | :---: | --- |
+| [Angular worst practices](https://youtu.be/rse7-kzxetQ?t=1036) [en] |  [Juan Herrera](speakers/Juan%20Herrera.md)  |    |
+| [Building an Angular PWA: NGSW or Workbox?](https://youtu.be/rse7-kzxetQ?t=2932) [en] |  [Максим Сальников](speakers/Максим%20Сальников.md)  |    |
+| [What&#39;s new in the angular world](https://youtu.be/rse7-kzxetQ?t=6975) [en] |  [Kirill Cherkashin](speakers/Kirill%20Cherkashin.md)  |    |
 ## Angular Belarus 1 - Aug 22 
 | | | |
 | --- | :---: | --- |
@@ -18,6 +24,13 @@
 | [Куда растут библиотеки компонентов](https://www.youtube.com/watch?v=1utWz-CYiLU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=4)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
 | [Платформенная команда: пособие по применению](https://www.youtube.com/watch?v=Y61bQAfgW70&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=5)  |  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
 | [Панельная сессия: «Платформенные команды – сказка или реальность?»](https://www.youtube.com/watch?v=mEpwFo4R43w&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=6)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  [Денис Колесников](speakers/Денис%20Колесников.md)  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  [Алексей Попков](speakers/Алексей%20Попков.md)  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
+## Rostov Angular meetup 1 - Aug 10 
+| | | |
+| --- | :---: | --- |
+| Такие разные и в то же время одинаковые: Платформы в Angular  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
+| NestJS — бэкенд для фронтендаров  |  [Сэм Булатов](speakers/Сэм%20Булатов.md)  |    |
+| Декларативный Angular  |  [Андрей Греков](speakers/Андрей%20Греков.md)  |    |
+| NativeScript + Angular &#x3D; Love  |  [Владимир Гайдуков](speakers/Владимир%20Гайдуков.md)  |  [:octocat:](https://gist.github.com/nettakogo87/ceaa881b5fb740dd31329f66bfc4e854)  |
 ## Angular Minsk 2 - Aug 06 
 | | | |
 | --- | :---: | --- |
@@ -51,6 +64,12 @@
 | --- | :---: | --- |
 | Introduction to JAM &#x2F; Netlify  |  [Илья Запруцкий](speakers/Илья%20Запруцкий.md)  | [:notebook:](https://drive.google.com/drive/folders/1gfK31vKxdxPqnAibZmNYJTRGOsGtfcVz)   |
 | The Great gatsbyjs  |  [Валентин Гиль](speakers/Валентин%20Гиль.md)  | [:notebook:](https://drive.google.com/drive/folders/1gfK31vKxdxPqnAibZmNYJTRGOsGtfcVz)   |
+## Angular Moscow 14 - Jun 27 
+| | | |
+| --- | :---: | --- |
+| [Препарируем RxJS операторы](https://youtu.be/V80FAvPKMjo)  |  [Кирилл Галушко](speakers/Кирилл%20Галушко.md)  |    |
+| [Безопасность и уязвимости в SPA на примере Angular](https://youtu.be/zSKTDIf_yeo)  |  [Сергей Хроленок](speakers/Сергей%20Хроленок.md)  |    |
+| Такие разные и в то же время одинаковые: Платформы в Angular  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
 ## ReactRussia 2 - Jun 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLWvK_bLQje9jdzKx90rVNTh_CRMxhukdN)
 | | | |
 | --- | :---: | --- |
@@ -198,6 +217,13 @@
 | Фронтенд-фреймворки в legacy  |  [Александр Аваков](speakers/Александр%20Аваков.md)  | [:notebook:](https://fs.piterjs.org/events/36/avakov.pdf)   |
 | Интернационализация веб-приложений. Краткий путеводитель по граблям  |  [Алексей Остапенко](speakers/Алексей%20Остапенко.md)  | [:notebook:](https://fs.piterjs.org/events/36/ostapenko.pdf)   |
 | Как мы повышали производительность Angular приложения  |  [Виктор Талецкий](speakers/Виктор%20Талецкий.md)  | [:notebook:](https://fs.piterjs.org/events/36/taletskii.pdf)   |
+## Mobile JS - Apr 18 
+| | | |
+| --- | :---: | --- |
+| [Ускоряем загрузку мобильных приложений](https://youtu.be/Cpb4GREpuas)  |  [Сергей Пугачев](speakers/Сергей%20Пугачев.md)  |    |
+| [Простота. Надежность. WebAuthn](https://youtu.be/4q_DIQ4js2I)  |  [Алексей Носов](speakers/Алексей%20Носов.md)  |    |
+| [Интерфейс для React Native-приложения: быстро и без боли](https://youtu.be/rZyLZrFjHa0)  |  [Константин Дзюин](speakers/Константин%20Дзюин.md)  |    |
+| [Веб нового поколения. TWA: что это такое и что это значит для нас](https://youtu.be/27-y7d4oebA)  |  [Даниил Матвеев](speakers/Даниил%20Матвеев.md)  |    |
 ## WSD 2019 - Москва - Apr 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;r4txCvuHFPc)
 | | | |
 | --- | :---: | --- |
