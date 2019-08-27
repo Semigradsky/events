@@ -1,0 +1,24 @@
+name: JS Tgn Weekend 6
+date: 2018-06-16
+videos: ''
+talks:
+  - name: "Hard vs. Soft: что это за навыки и с чем их едят?"
+    speaker: Лада Родзина
+    video: https://vk.com/video-159767167_456239018?list=f32b47bf39162d05a3
+    presentation: https://yadi.sk/i/q19cvFDi3Y4PEh
+  - name: 1:1 в вашу пользу
+    speaker: Дарья Гвоздева
+    video: https://vk.com/video-159767167_456239021?list=2e240d372867c1345a
+    presentation: https://vk.com/doc6763843_469305512?hash=402b604aeaf9fadf54&dl=cbed83022ad93ed031
+  - name: 3 закона разработотехники
+    speaker: Кирилл Ласомбра
+    video: https://vk.com/video-159767167_456239020?list=3de9c604e2f66698a3
+    presentation: https://vk.com/doc6763843_469305509?hash=2a4d0082035ed461e5&dl=c84acf507e40994b2a
+  - name: Кривая развития программиста или притча о следах на песке
+    speaker: Роман Кудлай
+    video: https://vk.com/video-159767167_456239019?list=8711133b2768e6bbe7
+    presentation: http://bit.ly/programmers_way
+  - name: Огонь, иди уже... или почему не все так просто со сменой работы
+    speaker: Андрей Миськов
+    video:
+    presentation: http://andreymiskov.ru/keynotes/ogon/

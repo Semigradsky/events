@@ -1,0 +1,16 @@
+name: JS Tgn Weekend 4
+date: 2018-04-14
+videos: ''
+talks:
+  - name: Serverless
+    speaker: Андрей Заикин
+    video:
+    presentation:
+  - name: Функции в JS
+    speaker: Андрей Миськов
+    video:
+    presentation:
+  - name: Опыт реализации вызовов JS => C# из Headless Chrome
+    speaker: Дмитрий Левченко
+    video:
+    presentation:

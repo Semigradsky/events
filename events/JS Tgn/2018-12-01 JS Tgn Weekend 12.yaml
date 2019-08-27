@@ -1,0 +1,20 @@
+name: JS Tgn Weekend 12
+date: 2018-12-01
+videos: ''
+talks:
+  - name: Сквозь Open Source к звездам
+    speaker: Виталий Слободин
+    video: https://youtu.be/bBeG4ZFqHJA
+    presentation:
+  - name: Почему я до сих пор фронтендер
+    speaker: Сергей Иванов
+    video: https://youtu.be/WwAO6jpQ34g
+    presentation:
+  - name: Верстаем формочки!
+    speaker: Андрей Миськов
+    video: https://youtu.be/bNvwxg-dd0U
+    presentation:
+  - name: "WebRTC + Media Streams API: \"Алло, браузер?\" или на что способны ваши девайсы"
+    speaker: Илья Рачинский
+    video: https://youtu.be/Gz30VWNtymM
+    presentation:

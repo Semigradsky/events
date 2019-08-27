@@ -1,0 +1,16 @@
+name: JS Tgn Weekend 7
+date: 2018-07-14
+videos: https://vk.com/video-159767167_456239023
+talks:
+  - name: Опыт разработки на React-Native
+    speaker: Дмитрий Безматерных
+    video: https://youtu.be/BU3XKvmtEHQ
+    presentation: https://goo.gl/bHhE2n
+  - name: mobx и почему стоит смотреть по сторонам
+    speaker: Евгений Воронин
+    video: https://vk.com/video-159767167_456239023?t=42m36s
+    presentation: https://goo.gl/EUREyn
+  - name: Learning for Mastery VS Getting Shit Done
+    speaker: Андрей Миськов
+    video: https://youtu.be/i-ldltTn_44
+    presentation: https://goo.gl/ftVpdS
