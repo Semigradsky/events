@@ -1,0 +1,16 @@
+name: Angular Moscow 15
+date: 2019-09-11
+videos: ''
+talks:
+  - name: Монорепозитируй это!
+    speaker: Иван Ботанов
+    video:
+    presentation:
+  - name: Unit тестирование с Jest и ts-mockito
+    speaker: Климент Рудниченко
+    video:
+    presentation:
+  - name: Как построить Front-end команду на базе Angular
+    speaker: Алексей Ольховой
+    video:
+    presentation:
