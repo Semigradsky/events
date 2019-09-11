@@ -52,10 +52,10 @@
 ## Krasnodar Frontend: Meetup 1 - 2017 Nov 19 [:movie_camera:](https://www.youtube.com/playlist?list=PL1irPRp3Ng9ZRieAd5UiylL0ppe4oNXoL)
 | | | |
 | --- | :---: | --- |
-| [React Performance](https://www.youtube.com/watch?v=FTfwySjsfLw)  |  [Погорелов Александр](speakers/Погорелов%20Александр.md)  | [:notebook:](https://yadi.sk/i/slPk-trD3V2YB5)   |
-| [Угловатый Redux. Реактивные приложения на Angular\NGRX.](https://www.youtube.com/watch?v=cjc6o1b9Rac)  |  [Демянюк Игорь](speakers/Демянюк%20Игорь.md)  | [:notebook:](https://yadi.sk/i/o3M0QU6d3V2YiV)   |
-| [GraphQL – с чего начать?](https://www.youtube.com/watch?v=Nzg2SrHku7Y)  |  [Шалаев Павел](speakers/Шалаев%20Павел.md)  | [:notebook:](http://slides.com/lawrentiy/deck-6)   |
-| [Оптимизация графики на фронтенде](https://www.youtube.com/watch?v=dtSCHVygA0M)  |  [Марченко Николай](speakers/Марченко%20Николай.md)  | [:notebook:](http://slides.com/nickolaymarchenko/graphics#/)   |
+| [React Performance](https://www.youtube.com/watch?v=FTfwySjsfLw)  |  [Александр Погорелов](speakers/Александр%20Погорелов.md)  | [:notebook:](https://yadi.sk/i/slPk-trD3V2YB5)   |
+| [Угловатый Redux. Реактивные приложения на Angular\NGRX.](https://www.youtube.com/watch?v=cjc6o1b9Rac)  |  [Игорь Демянюк](speakers/Игорь%20Демянюк.md)  | [:notebook:](https://yadi.sk/i/o3M0QU6d3V2YiV)   |
+| [GraphQL – с чего начать?](https://www.youtube.com/watch?v=Nzg2SrHku7Y)  |  [Павел Шалаев](speakers/Павел%20Шалаев.md)  | [:notebook:](http://slides.com/lawrentiy/deck-6)   |
+| [Оптимизация графики на фронтенде](https://www.youtube.com/watch?v=dtSCHVygA0M)  |  [Николай Марченко](speakers/Николай%20Марченко.md)  | [:notebook:](http://slides.com/nickolaymarchenko/graphics#/)   |
 ## Krasnodar Dev Days 2 - 2017 Sep 17 [:movie_camera:](https://www.youtube.com/playlist?list=PL1irPRp3Ng9Y_7ZqXAKGUJCdvW-BLOZUN)
 | | | |
 | --- | :---: | --- |

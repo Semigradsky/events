@@ -18,7 +18,7 @@
 | [Fast by default: everyday algorithmic thinking for developers](https://www.youtube.com/watch?v=TesnXS0HeDw)  |  [Владимир Агафонкин](speakers/Владимир%20Агафонкин.md)  |    |
 | [WebComponents: how to live with them and without frameworks?](https://www.youtube.com/watch?v=rqk9Kd7JRJI) [uk] |  [Сергій Бабіч](speakers/Сергій%20Бабіч.md)  |    |
 | [Machine learning and JavaScript](https://www.youtube.com/watch?v=HzwrEjBQw00) [en] |  [Karol Przystalski](speakers/Karol%20Przystalski.md)  |    |
-| [Практика информационной безопасности или 8 взломов за 30 минут](https://www.youtube.com/watch?v=kwPELSlAbdw)  |  [Viktor Turskyi](speakers/Viktor%20Turskyi.md)  |    |
+| [Практика информационной безопасности или 8 взломов за 30 минут](https://www.youtube.com/watch?v=kwPELSlAbdw)  |  [Виктор Турский](speakers/Виктор%20Турский.md)  |    |
 | [Paranoid Service Worker: повесть о безопасности, стандартах и страхах](https://www.youtube.com/watch?v=rchbC7RHonw)  |  [Всеволод Родионов](speakers/Всеволод%20Родионов.md)  |    |
 | [&quot;True&quot; functional programming with JS](https://www.youtube.com/watch?v=XCY0MWor_jw)  |  [Artem Kobzar](speakers/Artem%20Kobzar.md)  |    |
 | [W.T.F. is GraphQL?](https://www.youtube.com/watch?v=GMFPu5Ee9Zs) [uk] |  [Иван Гончаров](speakers/Иван%20Гончаров.md)  |    |
@@ -54,14 +54,14 @@
 | [Groupware System for fun and profit](https://www.youtube.com/watch?v=xEZwd5Tu3oM)  |  [Максим Климишин](speakers/Максим%20Климишин.md)  |    |
 | [Что нужно знать о логах.](https://www.youtube.com/watch?v=wrP5pNtOr9A) [uk] |  [Volodymir Voevidka](speakers/Volodymir%20Voevidka.md)  |    |
 | [CerebralJS - A declarative state and side effects management...](https://www.youtube.com/watch?v=aGcXmFj0RYc)  |  [Aleksei Gurianov](speakers/Aleksei%20Gurianov.md)  |    |
-| [Soft Skills](https://www.youtube.com/watch?v=KB50Idc9ags)  |  [Maks Yuzva](speakers/Maks%20Yuzva.md)  |    |
-| [The working architecture of NodeJS applications](https://www.youtube.com/watch?v=Z08xL-oXMh0)  |  [Victor Turskyi](speakers/Victor%20Turskyi.md)  |    |
+| [Soft Skills](https://www.youtube.com/watch?v=KB50Idc9ags)  |  [Максим Юзва](speakers/Максим%20Юзва.md)  |    |
+| [The working architecture of NodeJS applications](https://www.youtube.com/watch?v=Z08xL-oXMh0)  |  [Виктор Турский](speakers/Виктор%20Турский.md)  |    |
 | [Taking care of performance easiest than ever](https://www.youtube.com/watch?v=M5l-3z0Aulg)  |  [Артём Денисов](speakers/Артём%20Денисов.md)  |    |
 | [Нужен ли Вам React SSR ?](https://www.youtube.com/watch?v=d-LzDQbvZxs)  |  [Dmitry Poddubniy](speakers/Dmitry%20Poddubniy.md)  |    |
 | [Testing in Cloud](https://www.youtube.com/watch?v=IlEKMx0IS5c)  |  [Андрей Музалевский](speakers/Андрей%20Музалевский.md)  |    |
 | [Browser APIs you should not live without](https://www.youtube.com/watch?v=R4J2-ubrgxs)  |  [Stas Gavrylov](speakers/Stas%20Gavrylov.md)  | [:notebook:](https://slides.com/stasgavrylov/apis-ru/#/)   |
 | [Программирование микроконтроллеров на JavaScript](https://www.youtube.com/watch?v=iHsslg8ppKw) [uk] |  [Andrii Kostetskyi](speakers/Andrii%20Kostetskyi.md)  |    |
-| [How to become a techlead](https://www.youtube.com/watch?v=st98ADflBoQ)  |  [Georgii Podsvetov](speakers/Georgii%20Podsvetov.md)  |    |
+| [How to become a techlead](https://www.youtube.com/watch?v=st98ADflBoQ)  |  [Георгий Подсветов](speakers/Георгий%20Подсветов.md)  |    |
 | [Burn your grass with React Native](https://www.youtube.com/watch?v=hsKDpkYRpB4)  |  [Eugene Zharkov](speakers/Eugene%20Zharkov.md)  |    |
 | [VueJS  3 cases of usage](https://www.youtube.com/watch?v=FpMEA7GUl-g)  |  [Vitalii Ratyshnyi](speakers/Vitalii%20Ratyshnyi.md)  |    |
 | [Polymer](https://www.youtube.com/watch?v=Xi_eauNC_3E)  |  [Елена Шаровар](speakers/Елена%20Шаровар.md)  |    |
@@ -79,11 +79,11 @@
 | [React API design](https://www.youtube.com/watch?v=1niBVCLfAGI) [en] |  [Juho Vepsäläinen](speakers/Juho%20Vepsäläinen.md)  |    |
 | [Shells written in JavaScript](https://www.youtube.com/watch?v=ijXfFu61XH0) [en] |  [Денис Довгань](speakers/Денис%20Довгань.md)  |    |
 | [How to become famous with GitHub and open-source](https://www.youtube.com/watch?v=sVbNF6zp3lY)  |  [Paul Miller](speakers/Paul%20Miller.md)  |    |
-| [JavaScript and offline business. Next big deal](https://www.youtube.com/watch?v=lam0mteyz1I)  |  [Georgiy Podsvyetov](speakers/Georgiy%20Podsvyetov.md)  |    |
+| [JavaScript and offline business. Next big deal](https://www.youtube.com/watch?v=lam0mteyz1I)  |  [Георгий Подсветов](speakers/Георгий%20Подсветов.md)  |    |
 | [Moving Web forward: Part I — ECMAScript 201x](https://www.youtube.com/watch?v=pjDpN3nRpdc)  |  [Сергей Рубанов](speakers/Сергей%20Рубанов.md)  |    |
 | [Angular Native](https://www.youtube.com/watch?v=jTxT95injrE)  |  [Юрий Лучаниновv](speakers/Юрий%20Лучаниновv.md)  |    |
 | [Я и ИоТ](https://www.youtube.com/watch?v=LuLB6xj1rpQ)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
-| [Deal with async programming](https://www.youtube.com/watch?v=0ZcCPX6uT5c)  |  [Denis Stoyanov](speakers/Denis%20Stoyanov.md)  |    |
+| [Deal with async programming](https://www.youtube.com/watch?v=0ZcCPX6uT5c)  |  [Денис Стоянов](speakers/Денис%20Стоянов.md)  |    |
 | [Iframe rampage. Sad story of one integration.](https://www.youtube.com/watch?v=6R7H_Jboaf8) [en] |  [Yurii Plugatariov](speakers/Yurii%20Plugatariov.md)  |    |
 | [React Native. Way to production.](https://www.youtube.com/watch?v=b88ySmEwoG0) [en] |  [Филипп Шурпик](speakers/Филипп%20Шурпик.md)  |    |
 | [Error handling in Node.js streams](https://www.youtube.com/watch?v=FlyYgwqLzig) [en] |  [Андрей Шумада](speakers/Андрей%20Шумада.md)  |    |
@@ -98,7 +98,7 @@
 | [Testing well. Stop shooting yourself in the foot.](https://www.youtube.com/watch?v=qNdHchzY-dQ)  |  [Max Onufriienko](speakers/Max%20Onufriienko.md)  |    |
 | [JS in IoT](https://www.youtube.com/watch?v=a2_keSbEgIM) [en] |  [Eugene Nezhuta](speakers/Eugene%20Nezhuta.md)  |    |
 | [Exploring ML in javaScript world](https://www.youtube.com/watch?v=4EFQDKtDAUY) [en] |  [Иван Лаврив](speakers/Иван%20Лаврив.md)  |    |
-| [How to build a desktop application in JS without using webview](https://www.youtube.com/watch?v=Qfe93CMhtPI)  |  [Viktor Turskyi](speakers/Viktor%20Turskyi.md)  |    |
+| [How to build a desktop application in JS without using webview](https://www.youtube.com/watch?v=Qfe93CMhtPI)  |  [Виктор Турский](speakers/Виктор%20Турский.md)  |    |
 ## KharkivJS 6 - 2016 - 2016 May 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLnkLrCUX4Qh57cMQhiUVxpYUYzJ98SRnJ)
 | | | |
 | --- | :---: | --- |

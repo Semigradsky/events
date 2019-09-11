@@ -28,8 +28,8 @@
 ## KyivJS 19 - 2018 Sep 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLxw9RJPDS60qYg70D2fOMOmU5N-Ugxmk5)
 | | | |
 | --- | :---: | --- |
-| [Learn how to create indie games using HTML5](https://www.youtube.com/watch?v=1KPX2a-bdZ0) [en] |  [Christina Landvytovych](speakers/Christina%20Landvytovych.md)  | [:notebook:](https://slides.com/cristinalandvytovych/gamedev#/)   |
-| [Async Generators: Новые возможности для разработки Web-приложений](https://www.youtube.com/watch?v=nqmEfPQoG8w)  |  [Vitalii Akimov](speakers/Vitalii%20Akimov.md)  | [:notebook:](https://effectful.js.org/slides/async-gens-opportunities-kyiv/#/)   |
+| [Learn how to create indie games using HTML5](https://www.youtube.com/watch?v=1KPX2a-bdZ0) [en] |  [Христина Ландвитович](speakers/Христина%20Ландвитович.md)  | [:notebook:](https://slides.com/cristinalandvytovych/gamedev#/)   |
+| [Async Generators: Новые возможности для разработки Web-приложений](https://www.youtube.com/watch?v=nqmEfPQoG8w)  |  [Виталий Акимов](speakers/Виталий%20Акимов.md)  | [:notebook:](https://effectful.js.org/slides/async-gens-opportunities-kyiv/#/)   |
 ## KyivJS 17 - 2018 Feb 22 [:movie_camera:](https://www.youtube.com/playlist?list=PLxw9RJPDS60piISpypsYP2dl8J8Ft9CUJ)
 | | | |
 | --- | :---: | --- |
@@ -70,7 +70,7 @@
 | | | |
 | --- | :---: | --- |
 | [To Orm or not to Orm, Is there a life without it?](https://www.youtube.com/watch?v=h3oRLWsPaG8)  |  [Yuri Yarosh](speakers/Yuri%20Yarosh.md)  |    |
-| [Principles of Functional Programming in JavaScript](https://www.youtube.com/watch?v=xom2TdaZPAI)  |  [Denis Stoyanov](speakers/Denis%20Stoyanov.md)  | [:notebook:](http://fp-in-js.surge.sh/#/)   |
+| [Principles of Functional Programming in JavaScript](https://www.youtube.com/watch?v=xom2TdaZPAI)  |  [Денис Стоянов](speakers/Денис%20Стоянов.md)  | [:notebook:](http://fp-in-js.surge.sh/#/)   |
 | [Make Ukrainian Great Again](https://www.youtube.com/watch?v=WMJyKXIafsM) [uk] |  [Leontii Hrabovetskyi](speakers/Leontii%20Hrabovetskyi.md)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpdGhodi1wSTlaVjQ/view)   |
 | [Making Beats with Web Audio and RxJS](https://www.youtube.com/watch?v=RyP5rqdmnlg)  |  [Evgeny Kozhura](speakers/Evgeny%20Kozhura.md)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpRmJscEF4LU90SEk/view)   |
 | [New Babel Plugin - Transform CSSTag](https://www.youtube.com/watch?v=hd_hoMZ2wn0)  |  [Кирилл Яковенко](speakers/Кирилл%20Яковенко.md)  | [:notebook:](https://blia.github.io/kyivjs-jun-8-2017/)   |
@@ -78,7 +78,7 @@
 | | | |
 | --- | :---: | --- |
 | [Essential Glimmer](https://www.youtube.com/watch?v=4wnbCtDZINQ)  |  [Roman Senin](speakers/Roman%20Senin.md)  | [:notebook:](https://drive.google.com/file/d/0B5aBzJ0JSZSgS182Y0NyOGpleHM/view)   |
-| [Offline First](https://www.youtube.com/watch?v=1_q9zVRTx8U)  |  [Evgen Filatov](speakers/Evgen%20Filatov.md)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpNHllNG1zS0U2Rjg/view)   |
+| [Offline First](https://www.youtube.com/watch?v=1_q9zVRTx8U)  |  [Евгений Филатов](speakers/Евгений%20Филатов.md)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpNHllNG1zS0U2Rjg/view)   |
 | [PWA. Service-Worker. Application](https://www.youtube.com/watch?v=i2OOIyzEqvE)  |  [Сергей Фролов](speakers/Сергей%20Фролов.md)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpMGJ4OUIxam1zWEk/view)   |
 | [Your own npm package](https://www.youtube.com/watch?v=sjG-1c9s86I) [uk] |  [Ivan Zusko](speakers/Ivan%20Zusko.md)  | [:notebook:](https://docs.google.com/presentation/d/1uZdNTGAv_eMSw1tDztb6p0owcDggv8zf3suwl9YdVvQ/edit)   |
 | [Modern Regexp](https://www.youtube.com/watch?v=5yq8quaYMak)  |  [Алексей Швайка](speakers/Алексей%20Швайка.md)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpY1Bkcno0YkpDbU0/view)   |
@@ -100,11 +100,11 @@
 | [Why I love Create React App](https://www.youtube.com/watch?v=7BH9ZSld0B0)  |  [Валерий Сорокобатько](speakers/Валерий%20Сорокобатько.md)  | [:notebook:](https://www.icloud.com/keynote/0Y-YSxs_21K-F3zftvVdU0oUw#Why_I_Love_Create_React_App)   |
 | [Styling React App or CSS in JS](https://www.youtube.com/watch?v=qqWHPEkfmrc) [en] |  [Григорий Шехет](speakers/Григорий%20Шехет.md)  | [:notebook:](https://drive.google.com/file/d/0B65dEGRmB3ViWmZJem9DQi1BblE/view)   |
 | [Dude, where are my logs?](https://www.youtube.com/watch?v=g14rXXDn8kk) [en] |  [Андрей Шумада](speakers/Андрей%20Шумада.md)  | [:notebook:](https://docs.google.com/presentation/d/1mxZUZZe2Yo5WHGKWGOsGXUsTkX4EAiTdW-4e0bvbt-s/edit)   |
-| [Adopting React.children](https://www.youtube.com/watch?v=4-U2sEMPMR0) [en] |  [Stas Gavrylov](speakers/Stas%20Gavrylov.md)  | [:notebook:](http://slides.com/stasgavrylov/deck/fullscreen#/)   |
-| [WAMP](https://www.youtube.com/watch?v=4-U2sEMPMR0)  |  [Юрий Ткаченко](speakers/Юрий%20Ткаченко.md)  | [:notebook:](https://github.com/tyv/wamp-lightning-talk)   |
-| [React Coroutine](https://www.youtube.com/watch?v=4-U2sEMPMR0)  |  [Алексей Распопов](speakers/Алексей%20Распопов.md)  | [:notebook:](https://react-coroutine.js.org/)   |
-| [Telegram Bots](https://www.slideshare.net/viattik/telegram-bots-72033250)  |  [Andrei Serkov](speakers/Andrei%20Serkov.md)  |    |
-| [No Title](https://www.youtube.com/watch?v=4-U2sEMPMR0)  |  [Krill Yakovenko](speakers/Krill%20Yakovenko.md)  | [:notebook:](https://drive.google.com/file/d/0B65dEGRmB3ViZXAzaWxRdjZwcnc/view)   |
+| [Adopting React.children [Lightning Talk]](https://www.youtube.com/watch?v=4-U2sEMPMR0) [en] |  [Stas Gavrylov](speakers/Stas%20Gavrylov.md)  | [:notebook:](http://slides.com/stasgavrylov/deck/fullscreen#/)   |
+| [WAMP [Lightning Talk]](https://www.youtube.com/watch?v=4-U2sEMPMR0)  |  [Юрий Ткаченко](speakers/Юрий%20Ткаченко.md)  | [:notebook:](https://github.com/tyv/wamp-lightning-talk)   |
+| [React Coroutine [Lightning Talk]](https://www.youtube.com/watch?v=4-U2sEMPMR0)  |  [Алексей Распопов](speakers/Алексей%20Распопов.md)  | [:notebook:](https://react-coroutine.js.org/)   |
+| [Telegram Bots [Lightning Talk]](https://www.slideshare.net/viattik/telegram-bots-72033250)  |  [Андрей Серков](speakers/Андрей%20Серков.md)  |    |
+| [No Title [Lightning Talk]](https://www.youtube.com/watch?v=4-U2sEMPMR0)  |  [Кирилл Яковенко](speakers/Кирилл%20Яковенко.md)  | [:notebook:](https://drive.google.com/file/d/0B65dEGRmB3ViZXAzaWxRdjZwcnc/view)   |
 ## KyivJS 8 - 2017 Jan 21 
 | | | |
 | --- | :---: | --- |
@@ -117,7 +117,7 @@
 | --- | :---: | --- |
 | [Interactive path search in Javascript](https://www.youtube.com/watch?v=cbN09nPT9hQ) [en] |  [Андрей Музалевский](speakers/Андрей%20Музалевский.md)  |    |
 | [Data Access with OrbitJS](https://www.youtube.com/watch?v=uNqejKSsD3k) [en] |  [Иван Лаврив](speakers/Иван%20Лаврив.md)  | [:notebook:](http://slides.com/ivanlavriv/deck/fullscreen#/)   |
-| [Artem Suchov](https://www.youtube.com/watch?v=ODAufmZ06TA) [en] |  [Learning how to learn](speakers/Learning%20how%20to%20learn.md)  | [:notebook:](http://artemsychov.com/kievjs2015/)   |
+| [Learning how to learn](https://www.youtube.com/watch?v=ODAufmZ06TA) [en] |  [Artem Suchov](speakers/Artem%20Suchov.md)  | [:notebook:](http://artemsychov.com/kievjs2015/)   |
 | [Async Await](https://www.youtube.com/watch?v=nL6DaBJd9Qk) [en] |  [Алексей Распопов](speakers/Алексей%20Распопов.md)  | [:notebook:](http://alexeyraspopov.github.io/async-await/)   |
 | [ClojureScript for JavaScript developers](https://www.youtube.com/watch?v=cOejm16mCUU) [en] |  [Роман Лютиков](speakers/Роман%20Лютиков.md)  | [:notebook:](http://roman01la.github.io/cljs-for-js-devs/)   |
 | [Let&#39;s play Tank.ly](https://www.youtube.com/watch?v=y8EDS_EzAXk) [en] |  [Андрей Шумада](speakers/Андрей%20Шумада.md)  | [:notebook:](https://docs.google.com/presentation/d/1MGe9fHox6rVpXVl934cGtKb5eJeAayVvcWDuhdu-l50/edit)   |

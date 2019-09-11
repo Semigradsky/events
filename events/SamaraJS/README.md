@@ -37,7 +37,7 @@
 ## SamaraJS 1 - 2015 Mar 21 [:movie_camera:](https://www.youtube.com/playlist?list=PL2Zizi6hGuLlbUoaGsYXxXtve9JxhDM9e)
 | | | |
 | --- | :---: | --- |
-| [Философские рассуждения о подходе к разработке на Angular.js](https://www.youtube.com/watch?v=si_z_aCszC8)  |  [Cергей Гулин](speakers/Cергей%20Гулин.md)  |    |
+| [Философские рассуждения о подходе к разработке на Angular.js](https://www.youtube.com/watch?v=si_z_aCszC8)  |  [Сергей Гулин](speakers/Сергей%20Гулин.md)  |    |
 | [К вопросу о производительности утюга с экраном](https://www.youtube.com/watch?v=W9tSqfqA2zU)  |  [Илья Абламонов](speakers/Илья%20Абламонов.md)  |    |
 | [Angular + PJAX](https://www.youtube.com/watch?v=smz3QIlpCc4)  |  [Александр Горкунов](speakers/Александр%20Горкунов.md)  |    |
 | [Пора писать гибридные мобильные приложения](https://www.youtube.com/watch?v=YfkIfg-lAy0)  |  [Владимир Ярцев](speakers/Владимир%20Ярцев.md)  |    |

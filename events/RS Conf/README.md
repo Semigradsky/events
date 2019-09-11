@@ -7,7 +7,7 @@
 | | | |
 | --- | :---: | --- |
 | [Developing and maintaining a coding community](https://youtu.be/YNAtuKUx9Og) [en] |  [Kristi Progri](speakers/Kristi%20Progri.md)  | [:notebook:](https://drive.google.com/file/d/1B8Y8SUTFublaR5jovGYHOzdJqeNLSIWR/view)   |
-| [Сказ о microservices](https://youtu.be/VohMqI_HY1I)  |  [Konstantin Krivlenia](speakers/Konstantin%20Krivlenia.md)  |    |
+| [Сказ о microservices](https://youtu.be/VohMqI_HY1I)  |  [Константин Кривленя](speakers/Константин%20Кривленя.md)  |    |
 | [Cross browser extensions - lets make one](https://youtu.be/13rl5j24BbY) [en] |  [Trishul Goel](speakers/Trishul%20Goel.md)  |    |
 | [Introduction to Micro Frontends](https://youtu.be/LH3QoDWAD8k) [en] |  [Ivan Jovanovic](speakers/Ivan%20Jovanovic.md)  | [:notebook:](https://speakerdeck.com/ivanjov/introduction-to-micro-frontends-rsconf-minsk-2018)   |
 | [Пробуем Flow в бою](https://youtu.be/xSHPFcdVj2A)  |  [Александр Шушунов](speakers/Александр%20Шушунов.md)  | [:notebook:](https://drive.google.com/file/d/1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP/view)   |
@@ -23,17 +23,17 @@
 | [Navigating the Frontend landscape without encountering JS fatigue](https://youtu.be/p7h8hMnjF4I)  |  [Pavel Birukou](speakers/Pavel%20Birukou.md)  |    |
 | [Evolution of Web Perfomance](https://youtu.be/BIJF0-FyV8M)  |  [Denis Artyuhovich](speakers/Denis%20Artyuhovich.md)  |    |
 | [All-You-Can-Eat-Types: Monad Buffet](https://youtu.be/gpd_vwQmonM)  |  [Александр Герасимов](speakers/Александр%20Герасимов.md)  |    |
-| [Как рефакторить и оставаться в живых? (Рефакторинг клиентского кода)](https://youtu.be/10NIA60SLj4)  |  [Irina Levina](speakers/Irina%20Levina.md)  |    |
-| [Защита сервиса при помощи CSP](https://youtu.be/W41Pn9gimYw)  |  [Vsevolod Shmyrov](speakers/Vsevolod%20Shmyrov.md)  | [:notebook:](https://drive.google.com/file/d/1whGimZU-8h1Ham6tK_G1ZxAGUM-SSHE3/view)   |
+| [Как рефакторить и оставаться в живых? (Рефакторинг клиентского кода)](https://youtu.be/10NIA60SLj4)  |  [Ирина Левина](speakers/Ирина%20Левина.md)  |    |
+| [Защита сервиса при помощи CSP](https://youtu.be/W41Pn9gimYw)  |  [Всеволод Шмыров](speakers/Всеволод%20Шмыров.md)  | [:notebook:](https://drive.google.com/file/d/1whGimZU-8h1Ham6tK_G1ZxAGUM-SSHE3/view)   |
 | [How developers can upgrade their visual design skills for better front end development](https://youtu.be/V5enef11Bjw) [en] |  [Tomasz Jonasz Kujawski](speakers/Tomasz%20Jonasz%20Kujawski.md)  | [:notebook:](https://bit.ly/2Ejh2Co)   |
 | [Когда продуктов много, а дизайнеров чуть-чуть](https://youtu.be/_qBJvY_kbyU)  |  [Vitali Novikau](speakers/Vitali%20Novikau.md)  |    |
 | [DI: DIY](https://youtu.be/qQnzVTOqzio)  |  [James Akwuh](speakers/James%20Akwuh.md)  |    |
 | [The elegance of decorated Redux](https://youtu.be/NaEiH3Z1qqI) [en] |  [Ilja Satchok](speakers/Ilja%20Satchok.md)  |    |
 | [Ресерчили-ресерчили, да не выресерчавали](https://youtu.be/hMNys-hRrmI)  |  [Dzmitry Vanitski](speakers/Dzmitry%20Vanitski.md)  | [:notebook:](https://www.dropbox.com/s/a4rh08n5mjwyrsm/RS_Gap_presentation.pdf?dl=0)   |
 | [How to improve test coverage up to 80% with generated unit testing approach and be calm.](https://youtu.be/V-6hEsziY8M)  |  [Aliaksandr Pasynkau](speakers/Aliaksandr%20Pasynkau.md)  |  [:octocat:](https://github.com/aliaksandr-master/react-master-boilerplate)  |
-| [И снова телевизоры!](https://youtu.be/g7OBtXP69oQ)  |  [Egor Malkevich](speakers/Egor%20Malkevich.md)  |    |
+| [И снова телевизоры!](https://youtu.be/g7OBtXP69oQ)  |  [Егор Малькевич](speakers/Егор%20Малькевич.md)  |    |
 | [Codemods и трансформация JavaScript кода](https://youtu.be/p8F-UIzuJtA)  |  [Михаил Гатилов](speakers/Михаил%20Гатилов.md)  | [:notebook:](https://drive.google.com/file/d/1Q6lGvwp8EXmrRXZ55IdVW3U39fo2J9ED/view,https://docs.google.com/document/d/1-vjXp3NApU0YGiClv7shzNBRxH78qnc91e72tX5DjO8/edit)[:notebook:](https://drive.google.com/file/d/1Q6lGvwp8EXmrRXZ55IdVW3U39fo2J9ED/view,https://docs.google.com/document/d/1-vjXp3NApU0YGiClv7shzNBRxH78qnc91e72tX5DjO8/edit)   |
-| [Ускорение UI тестов](https://youtu.be/Vh7vXXN599s)  |  [Vasiliy Vanchuk](speakers/Vasiliy%20Vanchuk.md)  | [:notebook:](http://slides.com/vvscode/be-mock#/)   |
+| [Ускорение UI тестов](https://youtu.be/Vh7vXXN599s)  |  [Василий Ванчук](speakers/Василий%20Ванчук.md)  | [:notebook:](http://slides.com/vvscode/be-mock#/)   |
 | [Дизайнерская неожиданность](https://youtu.be/OIs_03m_ED4)  |  [Yauheniya Zhur](speakers/Yauheniya%20Zhur.md)  | [:notebook:](https://drive.google.com/file/d/1G7yxWpOyOUu90ZI2xa76W_N9Abj3kMMF/view)   |
 | [Front-end для блокчейн проекта децентрализованной исследовательской платформы](https://youtu.be/oyjsUbv97yw)  |  [Alex Shkorh](speakers/Alex%20Shkorh.md)  |    |
 | [Разработка редактора документов](https://youtu.be/LKBC2Gr5Wgw)  |  [Dmitry Volokh](speakers/Dmitry%20Volokh.md)  | [:notebook:](https://docs.google.com/presentation/d/1zFw-FwmHuyEizBoee5ZCYio0yKvZLT426pt3lQoLImI/edit#slide=id.p4)   |
