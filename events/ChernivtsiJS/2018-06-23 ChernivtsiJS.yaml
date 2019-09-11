@@ -12,11 +12,11 @@ talks:
     video: https://youtu.be/4xLis-ca4QY
     presentation: https://chernivtsi.js.org/serverless-for-frontend-developers/
   - name: "This terrible word Deadline"
-    speaker: Vasilika Klimova
+    speaker: Василика Климова
     video: https://youtu.be/LLGUAyWZhjc
     presentation: https://chernivtsi.js.org/this-terrible-word-deadline/
   - name: "Как React-Native перевернул наше представление о нативных приложениях"
-    speaker: Ilya Ivanov
+    speaker: Илья Иванов
     video: https://youtu.be/99Z9Q6jHfhg
     presentation: https://chernivtsi.js.org/react-native-and-native-apps/
   - name: "Angular applications with Redux"
@@ -25,6 +25,7 @@ talks:
     presentation: https://chernivtsi.js.org/angular-apps-with-redux/
   - name: "Life with Expo.io"
     speaker: Terry Sahaidak
+    lang: 'uk'
     video: https://youtu.be/mn6bDJ4w9mI
     presentation: https://chernivtsi.js.org/life-with-expo/
   - name: "Просто о WebAssembly"

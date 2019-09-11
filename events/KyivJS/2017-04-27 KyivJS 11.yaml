@@ -7,7 +7,7 @@ talks:
     video: https://www.youtube.com/watch?v=4wnbCtDZINQ
     presentation: https://drive.google.com/file/d/0B5aBzJ0JSZSgS182Y0NyOGpleHM/view
   - name: Offline First
-    speaker: Evgen Filatov
+    speaker: Евгений Филатов
     video: https://www.youtube.com/watch?v=1_q9zVRTx8U
     presentation: https://drive.google.com/file/d/0B4xFRFS363tpNHllNG1zS0U2Rjg/view
   - name: PWA. Service-Worker. Application

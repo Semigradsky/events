@@ -3,20 +3,20 @@ date: 2017-11-19
 videos: 'https://www.youtube.com/playlist?list=PL1irPRp3Ng9ZRieAd5UiylL0ppe4oNXoL'
 talks:
   - name: React Performance
-    speaker: Погорелов Александр
+    speaker: Александр Погорелов
     video: https://www.youtube.com/watch?v=FTfwySjsfLw
     presentation: https://yadi.sk/i/slPk-trD3V2YB5
     tags:
       - 'React'
   - name: Угловатый Redux. Реактивные приложения на Angular\NGRX.
-    speaker: Демянюк Игорь
+    speaker: Игорь Демянюк
     video: https://www.youtube.com/watch?v=cjc6o1b9Rac
     presentation: https://yadi.sk/i/o3M0QU6d3V2YiV
   - name: GraphQL – с чего начать?
-    speaker: Шалаев Павел
+    speaker: Павел Шалаев
     video: https://www.youtube.com/watch?v=Nzg2SrHku7Y
     presentation: http://slides.com/lawrentiy/deck-6
   - name: Оптимизация графики на фронтенде
-    speaker: Марченко Николай
+    speaker: Николай Марченко
     video: https://www.youtube.com/watch?v=dtSCHVygA0M
     presentation: http://slides.com/nickolaymarchenko/graphics#/

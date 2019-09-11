@@ -16,7 +16,7 @@ talks:
     speaker: Paul Miller
     video: https://www.youtube.com/watch?v=sVbNF6zp3lY
   - name: JavaScript and offline business. Next big deal
-    speaker: Georgiy Podsvyetov
+    speaker: Георгий Подсветов
     video: https://www.youtube.com/watch?v=lam0mteyz1I
   - name: 'Moving Web forward: Part I — ECMAScript 201x'
     speaker: Сергей Рубанов
@@ -28,7 +28,7 @@ talks:
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=LuLB6xj1rpQ
   - name: Deal with async programming
-    speaker: Denis Stoyanov
+    speaker: Денис Стоянов
     video: https://www.youtube.com/watch?v=0ZcCPX6uT5c
   - name: Iframe rampage. Sad story of one integration.
     speaker: Yurii Plugatariov
@@ -85,6 +85,6 @@ talks:
     video: https://www.youtube.com/watch?v=4EFQDKtDAUY
     lang: en
   - name: How to build a desktop application in JS without using webview
-    speaker: Viktor Turskyi
+    speaker: Виктор Турский
     video: https://www.youtube.com/watch?v=Qfe93CMhtPI
 

@@ -21,26 +21,26 @@ talks:
     video: https://www.youtube.com/watch?v=g14rXXDn8kk
     presentation: https://docs.google.com/presentation/d/1mxZUZZe2Yo5WHGKWGOsGXUsTkX4EAiTdW-4e0bvbt-s/edit
     lang: en
-  - name: Adopting React.children
+  - name: Adopting React.children [Lightning Talk]
     speaker: Stas Gavrylov
     video: https://www.youtube.com/watch?v=4-U2sEMPMR0
     presentation: http://slides.com/stasgavrylov/deck/fullscreen#/
     lang: en
     tags:
       - 'React'
-  - name: WAMP
+  - name: WAMP [Lightning Talk]
     speaker: Юрий Ткаченко
     video: https://www.youtube.com/watch?v=4-U2sEMPMR0
     presentation: https://github.com/tyv/wamp-lightning-talk
-  - name: React Coroutine
+  - name: React Coroutine [Lightning Talk]
     speaker: Алексей Распопов
     video: https://www.youtube.com/watch?v=4-U2sEMPMR0
     presentation: https://react-coroutine.js.org/
-  - name: Telegram Bots
-    speaker: Andrei Serkov
+  - name: Telegram Bots [Lightning Talk]
+    speaker: Андрей Серков
     video: https://www.slideshare.net/viattik/telegram-bots-72033250
     presentation:
-  - name: No Title
-    speaker: Krill Yakovenko
+  - name: No Title [Lightning Talk]
+    speaker: Кирилл Яковенко
     video: https://www.youtube.com/watch?v=4-U2sEMPMR0
     presentation: https://drive.google.com/file/d/0B65dEGRmB3ViZXAzaWxRdjZwcnc/view

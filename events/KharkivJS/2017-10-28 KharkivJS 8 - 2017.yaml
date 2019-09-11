@@ -48,10 +48,10 @@ talks:
     speaker: Aleksei Gurianov
     video: https://www.youtube.com/watch?v=aGcXmFj0RYc
   - name: Soft Skills
-    speaker: ' Maks Yuzva'
+    speaker: Максим Юзва
     video: https://www.youtube.com/watch?v=KB50Idc9ags
   - name: The working architecture of NodeJS applications
-    speaker: ' Victor Turskyi'
+    speaker: Виктор Турский
     video: https://www.youtube.com/watch?v=Z08xL-oXMh0
   - name: Taking care of performance easiest than ever
     speaker: Артём Денисов
@@ -71,7 +71,7 @@ talks:
     video: https://www.youtube.com/watch?v=iHsslg8ppKw
     lang: uk
   - name: How to become a techlead
-    speaker: Georgii Podsvetov
+    speaker: Георгий Подсветов
     video: https://www.youtube.com/watch?v=st98ADflBoQ
   - name: Burn your grass with React Native
     speaker: Eugene Zharkov

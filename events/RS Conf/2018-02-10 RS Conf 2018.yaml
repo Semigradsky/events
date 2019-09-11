@@ -10,7 +10,7 @@ talks:
     presentation: https://drive.google.com/file/d/1B8Y8SUTFublaR5jovGYHOzdJqeNLSIWR/view
     lang: en
   - name: "Сказ о microservices"
-    speaker: Konstantin Krivlenia
+    speaker: Константин Кривленя
     video: https://youtu.be/VohMqI_HY1I
   - name: "Cross browser extensions - lets make one"
     speaker: Trishul Goel
@@ -74,10 +74,10 @@ talks:
     speaker: Александр Герасимов
     video: https://youtu.be/gpd_vwQmonM
   - name: "Как рефакторить и оставаться в живых? (Рефакторинг клиентского кода)"
-    speaker: Irina Levina
+    speaker: Ирина Левина
     video: https://youtu.be/10NIA60SLj4
   - name: "Защита сервиса при помощи CSP"
-    speaker: Vsevolod Shmyrov
+    speaker: Всеволод Шмыров
     video: https://youtu.be/W41Pn9gimYw
     presentation: https://drive.google.com/file/d/1whGimZU-8h1Ham6tK_G1ZxAGUM-SSHE3/view
   - name: "How developers can upgrade their visual design skills for better front end development"
@@ -104,7 +104,7 @@ talks:
     video: https://youtu.be/V-6hEsziY8M
     code: 'https://github.com/aliaksandr-master/react-master-boilerplate'
   - name: "И снова телевизоры!"
-    speaker: Egor Malkevich
+    speaker: Егор Малькевич
     video: https://youtu.be/g7OBtXP69oQ
   - name: "Codemods и трансформация JavaScript кода"
     speaker: Михаил Гатилов
@@ -113,7 +113,7 @@ talks:
       - 'https://drive.google.com/file/d/1Q6lGvwp8EXmrRXZ55IdVW3U39fo2J9ED/view'
       - 'https://docs.google.com/document/d/1-vjXp3NApU0YGiClv7shzNBRxH78qnc91e72tX5DjO8/edit'
   - name: "Ускорение UI тестов"
-    speaker: Vasiliy Vanchuk
+    speaker: Василий Ванчук
     video: https://youtu.be/Vh7vXXN599s
     presentation: http://slides.com/vvscode/be-mock#/
   - name: "Дизайнерская неожиданность"

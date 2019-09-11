@@ -6,7 +6,7 @@ talks:
     speaker: Yuri Yarosh
     video: https://www.youtube.com/watch?v=h3oRLWsPaG8
   - name: Principles of Functional Programming in JavaScript
-    speaker: Denis Stoyanov
+    speaker: Денис Стоянов
     video: https://www.youtube.com/watch?v=xom2TdaZPAI
     presentation: http://fp-in-js.surge.sh/#/
   - name: Make Ukrainian Great Again

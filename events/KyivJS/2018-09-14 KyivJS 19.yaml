@@ -3,11 +3,11 @@ date: 2018-09-14
 videos: https://www.youtube.com/playlist?list=PLxw9RJPDS60qYg70D2fOMOmU5N-Ugxmk5
 talks:
   - name: Learn how to create indie games using HTML5
-    speaker: Christina Landvytovych
+    speaker: Христина Ландвитович
     video: https://www.youtube.com/watch?v=1KPX2a-bdZ0
     presentation: https://slides.com/cristinalandvytovych/gamedev#/
     lang: en
   - name: "Async Generators: Новые возможности для разработки Web-приложений"
-    speaker: Vitalii Akimov
+    speaker: Виталий Акимов
     video: https://www.youtube.com/watch?v=nqmEfPQoG8w
     presentation: https://effectful.js.org/slides/async-gens-opportunities-kyiv/#/

@@ -11,8 +11,8 @@ talks:
     video: https://www.youtube.com/watch?v=uNqejKSsD3k
     presentation: http://slides.com/ivanlavriv/deck/fullscreen#/
     lang: en
-  - name: Artem Suchov
-    speaker: Learning how to learn
+  - name: Learning how to learn
+    speaker: Artem Suchov
     video: https://www.youtube.com/watch?v=ODAufmZ06TA
     presentation: http://artemsychov.com/kievjs2015/
     lang: en
