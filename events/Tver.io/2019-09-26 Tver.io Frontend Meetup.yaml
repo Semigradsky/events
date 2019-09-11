@@ -1,0 +1,16 @@
+name: Tver.io Frontend Meetup
+date: 2019-09-26
+videos: ''
+talks:
+  - name: Про браузеры
+    speaker: Антон Кастрицкий
+    video:
+    presentation:
+  - name: GraphQL. Понимаем, Объясняем, Внедряем.
+    speaker: Полина Гуртовая
+    video:
+    presentation:
+  - name: '?'
+    speaker: Никита Сидоров
+    video:
+    presentation:

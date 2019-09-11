@@ -4,13 +4,13 @@ videos: ''
 talks:
   - name: CSS наносит ответный удар
     speaker: Людмила Мжачих
-    video:
+    video: https://www.youtube.com/watch?v=Hv-4n5oMq8M
     presentation:
   - name: Что скрывает код?
     speaker: Юлия Егорова
-    video:
+    video: https://www.youtube.com/watch?v=R2XJ4NcLAG4
     presentation:
   - name: Как перестать выбирать фреймворки и начать жить
     speaker: Александра Шинкевич
-    video:
+    video: https://www.youtube.com/watch?v=P9WGj-R6ljY
     presentation:
