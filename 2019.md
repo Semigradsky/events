@@ -70,6 +70,12 @@
 | [Препарируем RxJS операторы](https://youtu.be/V80FAvPKMjo)  |  [Кирилл Галушко](speakers/Кирилл%20Галушко.md)  |    |
 | [Безопасность и уязвимости в SPA на примере Angular](https://youtu.be/zSKTDIf_yeo)  |  [Сергей Хроленок](speakers/Сергей%20Хроленок.md)  |    |
 | Такие разные и в то же время одинаковые: Платформы в Angular  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
+## pitercss_meetup 33 - Jun 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;N3kL7vxGPtw)
+| | | |
+| --- | :---: | --- |
+| [Как читать доклады, когда тебя трясёт](https://www.youtube.com/watch?v=N3kL7vxGPtw)  |  [Света Шарипова](speakers/Света%20Шарипова.md)  | [:notebook:](https://pitercss.ru/33/pres/how-to-talk.pdf)   |
+| [Обзор HTTP Cache и приёмов кеширования](https://www.youtube.com/watch?v=N3kL7vxGPtw)  |  [Марат Латыпов](speakers/Марат%20Латыпов.md)  |    |
+| [Долговечный нейминг: в поисках идеального названия для CSS-компонента](https://www.youtube.com/watch?v=N3kL7vxGPtw)  |  [Александр Беляев](speakers/Александр%20Беляев.md)  | [:notebook:](https://pitercss.ru/33/pres/css-naming.pdf)   |
 ## ReactRussia 2 - Jun 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLWvK_bLQje9jdzKx90rVNTh_CRMxhukdN)
 | | | |
 | --- | :---: | --- |
@@ -162,6 +168,13 @@
 | [API браузеров, о которых вы могли не слышать](https://www.youtube.com/watch?v=0N6mjg7ON1Q)  |  [Антон Власик](speakers/Антон%20Власик.md)  | [:notebook:](https://drive.google.com/file/d/1Ufm9cJgrfy__GFPsyKEDHall1Qciqrzv/view) [:octocat:](https://browser-api.netlify.com/)  |
 | [Как построить дом, если ты — веб-воркер?](https://www.youtube.com/watch?v=v3NtYdNcRNs)  |  [Кирилл Чугаинов](speakers/Кирилл%20Чугаинов.md)  | [:notebook:](https://chugainov.github.io/web-worker/)   |
 | [Тяжёлое бремя времени: типичные ошибки при работе со временем](https://www.youtube.com/watch?v=Dylf_bfg6qg)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  | [:notebook:](https://victor-homyakov.github.io/burden-of-time/)   |
+## pitercss_meetup 32 - May 21 
+| | | |
+| --- | :---: | --- |
+| Как мы научили верстальщиков летать  |  [Константин Подрубный](speakers/Константин%20Подрубный.md)  | [:notebook:](https://pitercss.ru/32/pres/developers-fly.pdf)   |
+| Production Ready Design  |  [Ксения Лушникова](speakers/Ксения%20Лушникова.md)  | [:notebook:](https://pitercss.ru/32/pres/production-ready.pdf)   |
+| Переменные в современном CSS и в VKUI  |  [Игорь Фёдоров](speakers/Игорь%20Фёдоров.md)  | [:notebook:](https://pitercss.ru/32/pres/custom-props/)   |
+| Вы не знаете БЭМ, или Почему БЭМ — пережиток прошлого  |  [Роман Ганин](speakers/Роман%20Ганин.md)  | [:notebook:](https://pitercss.ru/32/pres/you-dont-know-bem/)   |
 ## PiterJS 37 - May 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;-JNxSFx-aOg)
 | | | |
 | --- | :---: | --- |
@@ -230,6 +243,12 @@
 | [Простота. Надежность. WebAuthn](https://youtu.be/4q_DIQ4js2I)  |  [Алексей Носов](speakers/Алексей%20Носов.md)  |    |
 | [Интерфейс для React Native-приложения: быстро и без боли](https://youtu.be/rZyLZrFjHa0)  |  [Константин Дзюин](speakers/Константин%20Дзюин.md)  |    |
 | [Веб нового поколения. TWA: что это такое и что это значит для нас](https://youtu.be/27-y7d4oebA)  |  [Даниил Матвеев](speakers/Даниил%20Матвеев.md)  |    |
+## pitercss_meetup 31 - Apr 17 
+| | | |
+| --- | :---: | --- |
+| VK UI и VK Apps  |  [Сергей Густун](speakers/Сергей%20Густун.md)  | [:notebook:](https://pitercss.ru/31/pres/vk-ui.pdf)   |
+| Vim: выход есть, пути назад нет  |  [Артём Сенин](speakers/Артём%20Сенин.md)  | [:notebook:](https://pitercss.ru/31/pres/vim-intro.pdf)   |
+| SVG-спрайты для иконок  |  [Виктория Васильева](speakers/Виктория%20Васильева.md)  | [:notebook:](https://pitercss.ru/31/pres/svg-sprites/)   |
 ## WSD 2019 - Москва - Apr 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;r4txCvuHFPc)
 | | | |
 | --- | :---: | --- |
@@ -277,6 +296,12 @@
 | [Animation in the Air](https://www.youtube.com/watch?v=Wqn_kmMpCGc) [uk] |  [Христина Ландвитович](speakers/Христина%20Ландвитович.md)  | [:notebook:](https://slides.com/cristinalandvytovych/animation/#/)   |
 | [Code Ownership](https://www.youtube.com/watch?v=ICZsVKgbMe8)  |  [Станислав Слесарев](speakers/Станислав%20Слесарев.md)  | [:notebook:](https://drive.google.com/file/d/1FY05DEyt3qZAwYhk5m5ypHjPLTYks-OL/view)   |
 | [Using WebStorm like a pro](https://www.youtube.com/watch?v=dxSQQufii3s)  |  [Максим Донченко](speakers/Максим%20Донченко.md)  |    |
+## pitercss_meetup 30 - Mar 27 
+| | | |
+| --- | :---: | --- |
+| Автотесты как рецепт здорового сна  |  [Алексей Чернов](speakers/Алексей%20Чернов.md)  | [:notebook:](https://pitercss.ru/30/pres/auto-tests.pdf)   |
+| MacOS Driven Development  |  [Никита Дубко](speakers/Никита%20Дубко.md)  | [:notebook:](https://pitercss.ru/30/pres/macos-driven/)   |
+| И вот я верстальщик  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  | [:notebook:](https://pitercss.ru/30/pres/whats-next/)   |
 ## OdessaFrontend Meetup 11 - Mar 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0upGuy49QySeU-eMjfuzh2P)
 | | | |
 | --- | :---: | --- |
@@ -394,6 +419,12 @@
 | [Что даёт нам Webpack: устройство бандла](https://www.youtube.com/watch?v=9qPtwaq73c8)  |  [Андрей Синицын](speakers/Андрей%20Синицын.md)  |    |
 | [Как делать крутые компоненты на Angular](https://www.youtube.com/watch?v=7MFW2A-3HG0)  |  [Александр Инкин](speakers/Александр%20Инкин.md)  |    |
 | [Sagas vs thunks](https://www.youtube.com/watch?v=ykohtx7t2yQ)  |  [Олег Хлевнов](speakers/Олег%20Хлевнов.md)  |    |
+## pitercss_meetup 29 - Feb 27 
+| | | |
+| --- | :---: | --- |
+| Дизайн для котов  |  [Любовь Гулько](speakers/Любовь%20Гулько.md)  | [:notebook:](https://pitercss.ru/29/pres/design-for-cats/)   |
+| SVG в реальной жизни  |  [Артём Пендюрин](speakers/Артём%20Пендюрин.md)  | [:notebook:](https://pitercss.ru/29/pres/svg-calendar.pdf)   |
+| Дом света  |  [Серёжа Попов](speakers/Серёжа%20Попов.md)  | [:notebook:](https://pitercss.ru/29/pres/lighthouse.pdf)   |
 ## Tver.io Polyglot Meetup - Feb 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLiOxDlmyqigypZ4P3zZI5D4dTI7SJkW3f)
 | | | |
 | --- | :---: | --- |
@@ -464,6 +495,12 @@
 | [Автоматизация отдела разработки](https://www.youtube.com/watch?v=-2VQoEv9zt4)  |  [Александр Субботин](speakers/Александр%20Субботин.md)  |    |
 | [Современные стартер-киты для React](https://www.youtube.com/watch?v=BFzuYPNUkCA)  |  [Александр Горкунов](speakers/Александр%20Горкунов.md)  |    |
 | [Loopback 3 и 4](https://www.youtube.com/watch?v=cAz_VeqJy78)  |  [Николай Сладкий](speakers/Николай%20Сладкий.md)  |    |
+## pitercss_meetup 28 - Jan 28 
+| | | |
+| --- | :---: | --- |
+| Изящная типографика в вебе  |  [Игорь Штанг](speakers/Игорь%20Штанг.md)  | [:notebook:](https://pitercss.ru/28/pres/gracefull-typography.pdf)   |
+| Почему верстальщик должен быть дизайнером  |  [Вячеслав Володин](speakers/Вячеслав%20Володин.md)  | [:notebook:](https://pitercss.ru/28/pres/coder-designer.pdf)   |
+| Пандус для сайта  |  [Иван Бакаидов](speakers/Иван%20Бакаидов.md)  | [:notebook:](https://pitercss.ru/28/pres/ramp-site/)   |
 ## Simferopol Frontend 1 - Jan 26 
 | | | |
 | --- | :---: | --- |
