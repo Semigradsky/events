@@ -1,0 +1,16 @@
+name: pitercss_meetup 19
+date: 2018-02-27
+videos: https://www.youtube.com/watch?v=A3tkogGd0Vw
+talks:
+  - name: Декларативный дизайн
+    speaker: Юлия Музафарова
+    video: https://www.youtube.com/watch?v=A3tkogGd0Vw
+    presentation: https://pitercss.ru/19/pres/declarative-design.pdf
+  - name: Уйти в отпуск на 2 года и не выпасть из профессии
+    speaker: Филипп Барановский
+    video: https://www.youtube.com/watch?v=A3tkogGd0Vw
+    presentation: https://pitercss.ru/19/pres/on-vacation.pdf
+  - name: Вёрстка для лентяя
+    speaker: Алексей Золотых
+    video: https://www.youtube.com/watch?v=A3tkogGd0Vw
+    presentation:

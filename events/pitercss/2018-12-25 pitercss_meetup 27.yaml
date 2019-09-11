@@ -1,0 +1,16 @@
+name: pitercss_meetup 27
+date: 2018-12-25
+videos: https://www.youtube.com/playlist?list=PLTdS5E3zupkG1FiiFbvSR2MXNPYcHxDsE
+talks:
+  - name: Impostor-Driven Development
+    speaker: Света Шарипова
+    video: https://www.youtube.com/watch?v=judFRhmIDUw
+    presentation:
+  - name: Восьмипиксельная сетка
+    speaker: Милослав Волосков
+    video: https://www.youtube.com/watch?v=T9wCfoll4uQ
+    presentation:
+  - name: Бэкенд для фронтендеров
+    speaker: Андрей Мелихов
+    video: https://www.youtube.com/watch?v=63Rx2hyYIZw
+    presentation:

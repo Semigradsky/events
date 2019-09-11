@@ -1,0 +1,16 @@
+name: pitercss_meetup 26
+date: 2018-11-20
+videos: https://www.youtube.com/watch?v=4MQ-gY05CY4
+talks:
+  - name: 255 оттенков синего
+    speaker: Володя Мартыненко
+    video: https://www.youtube.com/watch?v=4MQ-gY05CY4
+    presentation: https://pitercss.ru/26/pres/255-shades/
+  - name: Что не так с document outline?
+    speaker: Андрей Волынкин
+    video: https://www.youtube.com/watch?v=4MQ-gY05CY4
+    presentation: https://pitercss.ru/26/pres/outline/
+  - name: Автоматизируем работу с вертикальными отступами
+    speaker: Николай Шабалин
+    video: https://www.youtube.com/watch?v=4MQ-gY05CY4
+    presentation: https://pitercss.ru/26/pres/auto-vertical.pdf

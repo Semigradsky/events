@@ -1,0 +1,16 @@
+name: pitercss_meetup 33
+date: 2019-06-25
+videos: https://www.youtube.com/watch?v=N3kL7vxGPtw
+talks:
+  - name: Как читать доклады, когда тебя трясёт
+    speaker: Света Шарипова
+    video: https://www.youtube.com/watch?v=N3kL7vxGPtw
+    presentation: https://pitercss.ru/33/pres/how-to-talk.pdf
+  - name: Обзор HTTP Cache и приёмов кеширования
+    speaker: Марат Латыпов
+    video: https://www.youtube.com/watch?v=N3kL7vxGPtw
+    presentation:
+  - name: "Долговечный нейминг: в поисках идеального названия для CSS-компонента"
+    speaker: Александр Беляев
+    video: https://www.youtube.com/watch?v=N3kL7vxGPtw
+    presentation: https://pitercss.ru/33/pres/css-naming.pdf

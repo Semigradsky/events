@@ -1,0 +1,16 @@
+name: pitercss_meetup 23
+date: 2018-08-23
+videos: https://www.youtube.com/playlist?list=PLTdS5E3zupkFM5Lx5TFR_jiRwcUw_nt9S
+talks:
+  - name: Стандарт WAI-ARIA и использование ARIA-атрибутов
+    speaker: Ольга Болотова
+    video: https://www.youtube.com/watch?v=zYrqF6xbdoE
+    presentation: https://pitercss.ru/23/pres/wai-aria/
+  - name: Про HTML
+    speaker: Сергей Попов
+    video: https://www.youtube.com/watch?v=ZFbIcMkw8bs
+    presentation: https://pitercss.ru/23/pres/about-html.pdf
+  - name: Прогрессивные и деградирующие
+    speaker: Светлана Шарипова
+    video: https://www.youtube.com/watch?v=9EbRFPVVHvk
+    presentation: https://pitercss.ru/23/pres/prog-grids.pdf

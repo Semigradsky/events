@@ -1,0 +1,20 @@
+name: pitercss_meetup 32
+date: 2019-05-21
+videos: ''
+talks:
+  - name: Как мы научили верстальщиков летать
+    speaker: Константин Подрубный
+    video:
+    presentation: https://pitercss.ru/32/pres/developers-fly.pdf
+  - name: Production Ready Design
+    speaker: Ксения Лушникова
+    video:
+    presentation: https://pitercss.ru/32/pres/production-ready.pdf
+  - name: Переменные в современном CSS и в VKUI
+    speaker: Игорь Фёдоров
+    video:
+    presentation: https://pitercss.ru/32/pres/custom-props/
+  - name: Вы не знаете БЭМ, или Почему БЭМ — пережиток прошлого
+    speaker: Роман Ганин
+    video:
+    presentation: https://pitercss.ru/32/pres/you-dont-know-bem/

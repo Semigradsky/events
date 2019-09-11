@@ -1,0 +1,16 @@
+name: pitercss_meetup 29
+date: 2019-02-27
+videos: ''
+talks:
+  - name: Дизайн для котов
+    speaker: Любовь Гулько
+    video:
+    presentation: https://pitercss.ru/29/pres/design-for-cats/
+  - name: SVG в реальной жизни
+    speaker: Артём Пендюрин
+    video:
+    presentation: https://pitercss.ru/29/pres/svg-calendar.pdf
+  - name: Дом света
+    speaker: Серёжа Попов
+    video:
+    presentation: https://pitercss.ru/29/pres/lighthouse.pdf

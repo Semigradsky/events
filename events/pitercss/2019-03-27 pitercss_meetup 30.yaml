@@ -1,0 +1,16 @@
+name: pitercss_meetup 30
+date: 2019-03-27
+videos: ''
+talks:
+  - name: Автотесты как рецепт здорового сна
+    speaker: Алексей Чернов
+    video:
+    presentation: https://pitercss.ru/30/pres/auto-tests.pdf
+  - name: MacOS Driven Development
+    speaker: Никита Дубко
+    video:
+    presentation: https://pitercss.ru/30/pres/macos-driven/
+  - name: И вот я верстальщик
+    speaker: Александра Шинкевич
+    video:
+    presentation: https://pitercss.ru/30/pres/whats-next/

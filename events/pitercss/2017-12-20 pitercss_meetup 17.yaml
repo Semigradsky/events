@@ -1,0 +1,16 @@
+name: pitercss_meetup 17
+date: 2017-12-20
+videos: https://www.youtube.com/watch?v=7QhaoAPG4q4
+talks:
+  - name: Оптимизация графики на практике
+    speaker: Тимофей Чаптыков
+    video: https://www.youtube.com/watch?v=7QhaoAPG4q4
+    presentation: https://pitercss.ru/17/pres/graphics.pdf
+  - name: Как сделать сайт для незрячих и слабовидящих?
+    speaker: Анастасия Суховерхова
+    video: https://www.youtube.com/watch?v=7QhaoAPG4q4
+    presentation: https://pitercss.ru/17/pres/weblind.pdf
+  - name: Тестирование верстки в декларативном стиле
+    speaker: Вячеслав Москаленко
+    video: https://www.youtube.com/watch?v=7QhaoAPG4q4
+    presentation: https://pitercss.ru/17/pres/testing/

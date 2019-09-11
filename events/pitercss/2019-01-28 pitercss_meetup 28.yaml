@@ -1,0 +1,16 @@
+name: pitercss_meetup 28
+date: 2019-01-28
+videos: ''
+talks:
+  - name: Изящная типографика в вебе
+    speaker: Игорь Штанг
+    video:
+    presentation: https://pitercss.ru/28/pres/gracefull-typography.pdf
+  - name: Почему верстальщик должен быть дизайнером
+    speaker: Вячеслав Володин
+    video:
+    presentation: https://pitercss.ru/28/pres/coder-designer.pdf
+  - name: Пандус для сайта
+    speaker: Иван Бакаидов
+    video:
+    presentation: https://pitercss.ru/28/pres/ramp-site/

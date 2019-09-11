@@ -1,0 +1,16 @@
+name: pitercss_meetup 18
+date: 2018-01-24
+videos: https://www.youtube.com/playlist?list=PLTdS5E3zupkGHuyXfRIZfes3UIffaAyCq
+talks:
+  - name: Зачем продакшен-технологии в дизайне
+    speaker: Михаил Колосков
+    video: https://www.youtube.com/watch?v=Td18LyX9pRY
+    presentation: https://pitercss.ru/18/pres/production-design.pdf
+  - name: Работаем с Git не выходя из WebStorm
+    speaker: Михаил Баранов
+    video: https://www.youtube.com/watch?v=TES0ENoIDbE
+    presentation: https://pitercss.ru/18/pres/git-webstorm.pdf
+  - name: Дизайн-система. Типографика
+    speaker: Роман Ганин
+    video: https://www.youtube.com/watch?v=vaHCfs9Rexg
+    presentation: https://pitercss.ru/18/pres/design-system/

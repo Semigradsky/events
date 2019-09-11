@@ -1,0 +1,16 @@
+name: pitercss_meetup 22
+date: 2018-05-16
+videos: ''
+talks:
+  - name: Патология вёрстки
+    speaker: Николай Громов
+    video:
+    presentation: https://pitercss.ru/22/pres/coder-diseases/
+  - name: Ограничение длины текста через градиент
+    speaker: Иномджон Мирджамолов
+    video:
+    presentation: https://pitercss.ru/22/pres/truncate-text/
+  - name: Математика в вебе
+    speaker: Маша Просвирнина
+    video:
+    presentation: https://pitercss.ru/22/pres/math-web/

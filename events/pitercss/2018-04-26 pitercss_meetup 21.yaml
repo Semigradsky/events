@@ -1,0 +1,16 @@
+name: pitercss_meetup 21
+date: 2018-04-26
+videos: https://www.youtube.com/playlist?list=PLTdS5E3zupkGHuyXfRIZfes3UIffaAyCq
+talks:
+  - name: Зачем нужны кастомные свойства в CSS
+    speaker: Виталий Зюзин
+    video: https://www.youtube.com/watch?v=4S-46XrHZ7k
+    presentation: https://pitercss.ru/21/pres/custom-props/
+  - name: Переход с Sass на PostCSS
+    speaker: Станислав Матвеев
+    video: https://www.youtube.com/watch?v=TLrFAVsV-aM
+    presentation: https://pitercss.ru/21/pres/sass-postcss.pdf
+  - name: Чистый CSS для грязных трюков
+    speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=H0TDsCsirUs
+    presentation: https://pitercss.ru/21/pres/pure-dirty/

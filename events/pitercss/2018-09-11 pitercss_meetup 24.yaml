@@ -1,0 +1,16 @@
+name: pitercss_meetup 24
+date: 2018-09-11
+videos: https://www.youtube.com/watch?v=FTlsMkImku4
+talks:
+  - name: История про 12 собеседований
+    speaker: Павел Герасимов
+    video: https://www.youtube.com/watch?v=FTlsMkImku4
+    presentation: https://pitercss.ru/24/pres/interview-2018.pdf
+  - name: Альтернативные пути развития карьеры разработчика
+    speaker: Александр Губарев
+    video: https://www.youtube.com/watch?v=FTlsMkImku4
+    presentation: https://pitercss.ru/24/pres/paths-of-dev.pdf
+  - name: cURL — веб без котиков
+    speaker: Михаил Баранов
+    video: https://www.youtube.com/watch?v=FTlsMkImku4
+    presentation: https://pitercss.ru/24/pres/curl/

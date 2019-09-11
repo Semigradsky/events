@@ -1,0 +1,16 @@
+name: pitercss_meetup 25
+date: 2018-10-10
+videos: ''
+talks:
+  - name: Оптимизация загрузки веб-шрифтов
+    speaker: Николай Шабалин
+    video:
+    presentation: https://pitercss.ru/25/pres/font-loading.pdf
+  - name: Кратко про дизайн шрифта
+    speaker: Филипп Нуруллин
+    video:
+    presentation: https://pitercss.ru/25/pres/type-design.pdf
+  - name: Twig для верстальщика и фронтендера
+    speaker: Лиза Позднякова
+    video:
+    presentation: https://pitercss.ru/25/pres/twig/

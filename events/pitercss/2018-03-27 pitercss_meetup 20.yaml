@@ -1,0 +1,16 @@
+name: pitercss_meetup 20
+date: 2018-03-27
+videos: ''
+talks:
+  - name: Как я перестал бояться и полюбил конические градиенты
+    speaker: Филипп Рябчун
+    video:
+    presentation: https://pitercss.ru/20/pres/conic-gradients/
+  - name: Стартовый репозиторий для вёрстки
+    speaker: Николай Громов
+    video:
+    presentation: https://pitercss.ru/20/pres/speed-up/
+  - name: Нужен ли фреймворк для верстки писем?
+    speaker: Артур Кох
+    video:
+    presentation: https://pitercss.ru/20/pres/email-framework/

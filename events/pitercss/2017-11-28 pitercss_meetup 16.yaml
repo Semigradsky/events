@@ -1,0 +1,17 @@
+name: pitercss_meetup 16
+date: 2017-11-28
+videos: ''
+talks:
+  - name: CSS-in-JS 101
+    speaker: Евгений Шкодин
+    video:
+    presentation: https://pitercss.ru/16/pres/css-in-js/
+  - name: Fast Delivery
+    speaker: Алексей Вечканов
+    video:
+    presentation: https://pitercss.ru/16/pres/fast-delivery/
+  - name: Зачем дизайнеру кодить
+    speaker: Дмитрий Бловер
+    video:
+    presentation: https://pitercss.ru/16/pres/designer-code.pdf
+# https://pitercss.timepad.ru/events/

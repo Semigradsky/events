@@ -1,0 +1,16 @@
+name: pitercss_meetup 31
+date: 2019-04-17
+videos: ''
+talks:
+  - name: VK UI и VK Apps
+    speaker: Сергей Густун
+    video:
+    presentation: https://pitercss.ru/31/pres/vk-ui.pdf
+  - name: "Vim: выход есть, пути назад нет"
+    speaker: Артём Сенин
+    video:
+    presentation: https://pitercss.ru/31/pres/vim-intro.pdf
+  - name: SVG-спрайты для иконок
+    speaker: Виктория Васильева
+    video:
+    presentation: https://pitercss.ru/31/pres/svg-sprites/
