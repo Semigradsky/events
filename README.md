@@ -83,6 +83,12 @@
 | [i18n без боли](https://youtu.be/dvQUCwj_20U?t=685)  |  [Антон Ляпцев](speakers/Антон%20Ляпцев.md)  |    |
 | [Типизация Rest API](https://youtu.be/dvQUCwj_20U?t=3340)  |  [Максим Шкарбалюк](speakers/Максим%20Шкарбалюк.md)  |    |
 | [Качество кода: внедрение проверок в legacy](https://youtu.be/dvQUCwj_20U?t=6139)  |  [Алексей Щербаков](speakers/Алексей%20Щербаков.md)  |    |
+## Tver.io Girl Power Meetup - Jun 13 
+| | | |
+| --- | :---: | --- |
+| [CSS наносит ответный удар](https://www.youtube.com/watch?v=Hv-4n5oMq8M)  |  [Людмила Мжачих](speakers/Людмила%20Мжачих.md)  |    |
+| [Что скрывает код?](https://www.youtube.com/watch?v=R2XJ4NcLAG4)  |  [Юлия Егорова](speakers/Юлия%20Егорова.md)  |    |
+| [Как перестать выбирать фреймворки и начать жить](https://www.youtube.com/watch?v=P9WGj-R6ljY)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
 ## UWDC 2019 - Jun 01 
 | | | |
 | --- | :---: | --- |

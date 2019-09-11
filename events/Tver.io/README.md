@@ -3,6 +3,12 @@
 
 # Tver.io
 
+## Tver.io Girl Power Meetup - 2019 Jun 13 
+| | | |
+| --- | :---: | --- |
+| [CSS наносит ответный удар](https://www.youtube.com/watch?v=Hv-4n5oMq8M)  |  [Людмила Мжачих](speakers/Людмила%20Мжачих.md)  |    |
+| [Что скрывает код?](https://www.youtube.com/watch?v=R2XJ4NcLAG4)  |  [Юлия Егорова](speakers/Юлия%20Егорова.md)  |    |
+| [Как перестать выбирать фреймворки и начать жить](https://www.youtube.com/watch?v=P9WGj-R6ljY)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
 ## Tver.io Open-Source Meetup - 2019 May 10 [:movie_camera:](https://www.youtube.com/playlist?list=PLiOxDlmyqigwsET23hypu15X7vTgxt00L)
 | | | |
 | --- | :---: | --- |
