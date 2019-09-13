@@ -424,7 +424,7 @@
 | --- | :---: | --- |
 | Дизайн для котов  |  [Любовь Гулько](speakers/Любовь%20Гулько.md)  | [:notebook:](https://pitercss.ru/29/pres/design-for-cats/)   |
 | SVG в реальной жизни  |  [Артём Пендюрин](speakers/Артём%20Пендюрин.md)  | [:notebook:](https://pitercss.ru/29/pres/svg-calendar.pdf)   |
-| Дом света  |  [Серёжа Попов](speakers/Серёжа%20Попов.md)  | [:notebook:](https://pitercss.ru/29/pres/lighthouse.pdf)   |
+| Дом света  |  [Сергей Попов](speakers/Сергей%20Попов.md)  | [:notebook:](https://pitercss.ru/29/pres/lighthouse.pdf)   |
 ## Tver.io Polyglot Meetup - Feb 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLiOxDlmyqigypZ4P3zZI5D4dTI7SJkW3f)
 | | | |
 | --- | :---: | --- |

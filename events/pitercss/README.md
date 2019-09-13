@@ -33,7 +33,7 @@
 | --- | :---: | --- |
 | Дизайн для котов  |  [Любовь Гулько](speakers/Любовь%20Гулько.md)  | [:notebook:](https://pitercss.ru/29/pres/design-for-cats/)   |
 | SVG в реальной жизни  |  [Артём Пендюрин](speakers/Артём%20Пендюрин.md)  | [:notebook:](https://pitercss.ru/29/pres/svg-calendar.pdf)   |
-| Дом света  |  [Серёжа Попов](speakers/Серёжа%20Попов.md)  | [:notebook:](https://pitercss.ru/29/pres/lighthouse.pdf)   |
+| Дом света  |  [Сергей Попов](speakers/Сергей%20Попов.md)  | [:notebook:](https://pitercss.ru/29/pres/lighthouse.pdf)   |
 ## pitercss_meetup 28 - 2019 Jan 28 
 | | | |
 | --- | :---: | --- |
@@ -112,3 +112,64 @@
 | CSS-in-JS 101  |  [Евгений Шкодин](speakers/Евгений%20Шкодин.md)  | [:notebook:](https://pitercss.ru/16/pres/css-in-js/)   |
 | Fast Delivery  |  [Алексей Вечканов](speakers/Алексей%20Вечканов.md)  | [:notebook:](https://pitercss.ru/16/pres/fast-delivery/)   |
 | Зачем дизайнеру кодить  |  [Дмитрий Бловер](speakers/Дмитрий%20Бловер.md)  | [:notebook:](https://pitercss.ru/16/pres/designer-code.pdf)   |
+## pitercss_meetup 15 - 2017 Oct 23 
+| | | |
+| --- | :---: | --- |
+| AI или человек. Как стать незаменимым  |  [Инесса Шилло](speakers/Инесса%20Шилло.md)  | [:notebook:](https://pitercss.ru/15/pres/ai-in-five.pdf)   |
+| Зачем писать спецификацию  |  [Александр Куценко](speakers/Александр%20Куценко.md)  | [:notebook:](https://pitercss.ru/15/pres/specs.pdf)   |
+| Людоедский интерфейс  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://pitercss.ru/15/pres/inhuman-ui/)   |
+## pitercss_meetup 14 - 2017 Sep 26 
+| | | |
+| --- | :---: | --- |
+| А что, если мы долетим и там будет всё?  |  [Сергей Попов](speakers/Сергей%20Попов.md)  | [:notebook:](https://pitercss.ru/14/pres/css-future/)   |
+| Шрифты в вебе  |  [Владимир Ракчаев](speakers/Владимир%20Ракчаев.md)  | [:notebook:](https://pitercss.ru/14/pres/web-fonts.pdf)   |
+| Может без SVG?  |  [Юлия Маслова](speakers/Юлия%20Маслова.md)  | [:notebook:](https://pitercss.ru/14/pres/no-svg/)   |
+## pitercss_meetup 13 - 2017 May 17 
+| | | |
+| --- | :---: | --- |
+| Обуздание UI-энтропии в крупном проекте  |  [Екатерина Тарасова](speakers/Екатерина%20Тарасова.md)  | [:notebook:](http://pitercss.ru/13/pres/ui-entropy.pdf)   |
+| Надоела анимация?  |  [Вадим Матвеев](speakers/Вадим%20Матвеев.md)  | [:notebook:](https://pitercss.ru/13/pres/animation.pdf)   |
+| Как верстать адаптивные рассылки и не убиться  |  [Евгений Еремеев](speakers/Евгений%20Еремеев.md)  | [:notebook:](https://pitercss.ru/13/pres/emails.pdf)   |
+| Favicon: на пути к PWA  |  [Ольга Болотова](speakers/Ольга%20Болотова.md)  | [:notebook:](https://pitercss.ru/13/pres/favicon/)   |
+## pitercss_meetup 12 - 2017 Apr 25 
+| | | |
+| --- | :---: | --- |
+| Как мы масштабировали банк для бизнеса  |  [Александр Кашкабаш](speakers/Александр%20Кашкабаш.md)  | [:notebook:](https://pitercss.ru/12/pres/tinkoff.pdf)   |
+| Цена пропущенного фрейма  |  [Дмитрий Шуранов](speakers/Дмитрий%20Шуранов.md)  | [:notebook:](https://pitercss.ru/12/pres/frame.pdf)   |
+| Как отрефакторить миллион строк кода и не сойти с ума  |  [Алексей Золотых](speakers/Алексей%20Золотых.md)  | [:notebook:](https://pitercss.ru/12/pres/refactoring/)   |
+## pitercss_meetup 11 - 2017 Mar 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLTdS5E3zupkG12igmZ1mk7nrCUbbJbC_E)
+| | | |
+| --- | :---: | --- |
+| [Относительный CSS](https://www.youtube.com/watch?v=xdhPX2llDeg)  |  [Валерий Любимов](speakers/Валерий%20Любимов.md)  | [:notebook:](http://pitercss.ru/11/pres/relative-css/)   |
+| [Учите дизайнеров верстать](https://www.youtube.com/watch?v=N7806p3cU_g)  |  [Вадим Матвеев](speakers/Вадим%20Матвеев.md)  | [:notebook:](http://pitercss.ru/11/pres/design-code.pdf)   |
+| [Дизайн-системы. В поисках «идеального компонента»](https://www.youtube.com/watch?v=wck4oJjXowM)  |  [Роман Ганин](speakers/Роман%20Ганин.md)  | [:notebook:](http://pitercss.ru/11/pres/ideal-component/)   |
+## pitercss_meetup 10 - 2017 Feb 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLTdS5E3zupkEiDgztHOUw4kOSM8Qdzo7H)
+| | | |
+| --- | :---: | --- |
+| [Почему я не могу пользоваться твоим сайтом?](https://www.youtube.com/watch?v=ogAZ6JC0pJI)  |  [Иван Бакаидов](speakers/Иван%20Бакаидов.md)  | [:notebook:](https://pitercss.ru/10/pres/a11y.pdf)   |
+| [Adaptive or dead](https://www.youtube.com/watch?v=c4Upfo5fjko)  |  [Денис Воронов](speakers/Денис%20Воронов.md)  | [:notebook:](https://pitercss.ru/10/pres/adaptive.pdf)   |
+| [Как не писать CSS и радоваться жизни](https://www.youtube.com/watch?v=IjRi_FQQ2ng)  |  [Алексей Сафин](speakers/Алексей%20Сафин.md)  | [:notebook:](https://pitercss.ru/10/pres/not-css/)   |
+## pitercss_meetup 9 - 2017 Jan 24 [:movie_camera:](https://www.youtube.com/playlist?list=PLTdS5E3zupkF7DlXacSyfscQ9vdW83FxH)
+| | | |
+| --- | :---: | --- |
+| [Тестирование CSS](https://www.youtube.com/watch?v=z4FJf994UgY)  |  [Антон Калашников](speakers/Антон%20Калашников.md)  | [:notebook:](https://pitercss.ru/9/pres/css-testing.pdf)   |
+| [Гитхаб в Академии](https://www.youtube.com/watch?v=tM5kORurmw0)  |  [Алексей Симоненко](speakers/Алексей%20Симоненко.md)  | [:notebook:](https://pitercss.ru/9/pres/github-academy.pdf)   |
+| [Продуктивность](https://www.youtube.com/watch?v=h5qrWVqYgxs)  |  [Милослав Волосков](speakers/Милослав%20Волосков.md)  | [:notebook:](https://pitercss.ru/9/pres/how-to-learn/)   |
+## pitercss_meetup 8 - 2016 Dec 21 
+| | | |
+| --- | :---: | --- |
+| Кастомные свойства в CSS  |  [Алексей Хлебаев](speakers/Алексей%20Хлебаев.md)  | [:notebook:](https://pitercss.ru/8/pres/custom-props/)   |
+| Мой ванильный CSS  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://pitercss.ru/8/pres/vanilla-css/)   |
+| Индивеб, микроформаты и веб-археология  |  [Тим Маринин](speakers/Тим%20Маринин.md)  | [:notebook:](https://pitercss.ru/8/pres/indie-web/)   |
+## pitercss_meetup 3 - 2016 Apr 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLMBnwIwFEFHeDVHZJw7Y5WWVkAb1O_OwC)
+| | | |
+| --- | :---: | --- |
+| [Как начать использовать CSS-модули где угодно](https://www.youtube.com/watch?v=24EZOgySNRI)  |  [Глеб Поспелов](speakers/Глеб%20Поспелов.md)  | [:notebook:](http://pitercss.ru/3/pres/css-modules/)   |
+| [Можно вообще всё. Раскладка по гриду](https://www.youtube.com/watch?v=5yCuzHklYZ4)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](http://pitercss.ru/3/pres/grid-layout/)   |
+| [Ничего ты не знаешь, Джон Сноу. Фронтенд new.vk.com](https://www.youtube.com/watch?v=qseu-ZaGoes)  |  [Слава Шебанов](speakers/Слава%20Шебанов.md)  | [:notebook:](http://pitercss.ru/3/pres/vk-frontend/)   |
+## pitercss_meetup 2 - 2016 Mar 22 [:movie_camera:](https://www.youtube.com/playlist?list=PLMBnwIwFEFHd07IVX530mqmygDo30UD_U)
+| | | |
+| --- | :---: | --- |
+| [Баги в браузерах: кто виноват и что делать?](https://www.youtube.com/watch?v=K-t9FIs2WTo)  |  [Виталий Зюзин](speakers/Виталий%20Зюзин.md)  | [:notebook:](http://pitercss.ru/2/pres/browser-bugs/)   |
+| [Архитектура дизайн-систем](https://www.youtube.com/watch?v=j6v-B45fsDI)  |  [Антон Виноградов](speakers/Антон%20Виноградов.md)  | [:notebook:](https://pitercss.ru/2/pres/design-systems.pdf)   |
+| [Синтаксис в редакторах кода](https://www.youtube.com/watch?v=mo6JjMqhKlI)  |  [Александр Золотов](speakers/Александр%20Золотов.md)  [Денис Ушаков](speakers/Денис%20Ушаков.md)  | [:notebook:](https://pitercss.ru/2/pres/editors.pdf)   |
