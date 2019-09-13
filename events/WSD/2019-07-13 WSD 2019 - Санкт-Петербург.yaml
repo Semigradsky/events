@@ -1,32 +1,32 @@
 name: WSD 2019 - Санкт-Петербург
 date: 2019-07-13
-videos: ''
+videos: https://www.youtube.com/watch?v=_0psqory6rk
 talks:
   - name: Почему фронтенд это круто
     speaker: Роман Дворнов
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=_0psqory6rk&t=1051s
+    presentation: https://wsd.events/2019/07/13/pres/frontend-awesome.pdf
   - name: "TC39: взгляд изнутри"
     speaker: Сергей Рубанов
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=_0psqory6rk&t=3369s
+    presentation: https://wsd.events/2019/07/13/pres/tc39-inside.pdf
   - name: Make a World
     speaker: Юлия Музафарова
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=_0psqory6rk&t=6794s
+    presentation: https://wsd.events/2019/07/13/pres/make-a-world.pdf
   - name: Все цвета радуги
     speaker: Владимир Кузнецов
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=_0psqory6rk&t=8837s
+    presentation: https://wsd.events/2019/07/13/pres/all-the-colors/
+  - name: Как (не)удовлетворить Google PageSpeed
+    speaker: Даниил Крохмаль
+    video: https://www.youtube.com/watch?v=_0psqory6rk&t=17017s
+    presentation: https://wsd.events/2019/07/13/pres/pagespeed-happy.pdf
+  - name: GraphQL как будущее клиентских API
+    speaker: Андрей Лось
+    video: https://www.youtube.com/watch?v=_0psqory6rk&t=19267s
+    presentation: https://wsd.events/2019/07/13/pres/graphql-future.pdf
   - name: Новая платформа уже здесь
     speaker: Владимир Гриненко
-    video:
-    presentation:
-  - name: "?"
-    speaker: "?"
-    video:
-    presentation:
-  - name: "?"
-    speaker: "?"
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=_0psqory6rk&t=22983s
+    presentation: https://wsd.events/2019/07/13/pres/new-platform.pdf
