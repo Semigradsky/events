@@ -1,0 +1,16 @@
+name: pitercss_meetup 14
+date: 2017-09-26
+videos: ''
+talks:
+  - name: А что, если мы долетим и там будет всё?
+    speaker: Сергей Попов
+    video:
+    presentation: https://pitercss.ru/14/pres/css-future/
+  - name: Шрифты в вебе
+    speaker: Владимир Ракчаев
+    video:
+    presentation: https://pitercss.ru/14/pres/web-fonts.pdf
+  - name: Может без SVG?
+    speaker: Юлия Маслова
+    video:
+    presentation: https://pitercss.ru/14/pres/no-svg/

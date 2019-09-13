@@ -1,0 +1,16 @@
+name: pitercss_meetup 3
+date: 2016-04-26
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHeDVHZJw7Y5WWVkAb1O_OwC
+talks:
+  - name: Как начать использовать CSS-модули где угодно
+    speaker: Глеб Поспелов
+    video: https://www.youtube.com/watch?v=24EZOgySNRI
+    presentation: http://pitercss.ru/3/pres/css-modules/
+  - name: Можно вообще всё. Раскладка по гриду
+    speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=5yCuzHklYZ4
+    presentation: http://pitercss.ru/3/pres/grid-layout/
+  - name: Ничего ты не знаешь, Джон Сноу. Фронтенд new.vk.com
+    speaker: Слава Шебанов
+    video: https://www.youtube.com/watch?v=qseu-ZaGoes
+    presentation: http://pitercss.ru/3/pres/vk-frontend/

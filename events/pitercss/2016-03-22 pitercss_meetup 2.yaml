@@ -1,0 +1,16 @@
+name: pitercss_meetup 2
+date: 2016-03-22
+videos: https://www.youtube.com/playlist?list=PLMBnwIwFEFHd07IVX530mqmygDo30UD_U
+talks:
+  - name: "Баги в браузерах: кто виноват и что делать?"
+    speaker: Виталий Зюзин
+    video: https://www.youtube.com/watch?v=K-t9FIs2WTo
+    presentation: http://pitercss.ru/2/pres/browser-bugs/
+  - name: Архитектура дизайн-систем
+    speaker: Антон Виноградов
+    video: https://www.youtube.com/watch?v=j6v-B45fsDI
+    presentation: https://pitercss.ru/2/pres/design-systems.pdf
+  - name: Синтаксис в редакторах кода
+    speaker: Александр Золотов, Денис Ушаков
+    video: https://www.youtube.com/watch?v=mo6JjMqhKlI
+    presentation: https://pitercss.ru/2/pres/editors.pdf

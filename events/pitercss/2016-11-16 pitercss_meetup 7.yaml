@@ -1,0 +1,16 @@
+name: pitercss_meetup 7
+date: 2016-11-16
+videos: ''
+talks:
+  - name: Трудоустройство фронтендера
+    speaker: Андрей Гурылёв
+    video:
+    presentation:
+  - name: Stylelint — как и зачем линтить CSS
+    speaker: Андрей Ситник
+    video:
+    presentation:
+  - name: Техническая сторона типографики
+    speaker: Иван Гладких
+    video:
+    presentation:

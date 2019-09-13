@@ -1,0 +1,16 @@
+name: pitercss_meetup 8
+date: 2016-12-21
+videos: ''
+talks:
+  - name: Кастомные свойства в CSS
+    speaker: Алексей Хлебаев
+    video:
+    presentation: https://pitercss.ru/8/pres/custom-props/
+  - name: Мой ванильный CSS
+    speaker: Вадим Макеев
+    video:
+    presentation: https://pitercss.ru/8/pres/vanilla-css/
+  - name: Индивеб, микроформаты и веб-археология
+    speaker: Тим Маринин
+    video:
+    presentation: https://pitercss.ru/8/pres/indie-web/

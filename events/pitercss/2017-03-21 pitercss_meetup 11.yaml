@@ -1,0 +1,16 @@
+name: pitercss_meetup 11
+date: 2017-03-21
+videos: https://www.youtube.com/playlist?list=PLTdS5E3zupkG12igmZ1mk7nrCUbbJbC_E
+talks:
+  - name: Относительный CSS
+    speaker: Валерий Любимов
+    video: https://www.youtube.com/watch?v=xdhPX2llDeg
+    presentation: http://pitercss.ru/11/pres/relative-css/
+  - name: Учите дизайнеров верстать
+    speaker: Вадим Матвеев
+    video: https://www.youtube.com/watch?v=N7806p3cU_g
+    presentation: http://pitercss.ru/11/pres/design-code.pdf
+  - name: Дизайн-системы. В поисках «идеального компонента»
+    speaker: Роман Ганин
+    video: https://www.youtube.com/watch?v=wck4oJjXowM
+    presentation: http://pitercss.ru/11/pres/ideal-component/

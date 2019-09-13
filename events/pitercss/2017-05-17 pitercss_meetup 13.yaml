@@ -1,0 +1,20 @@
+name: pitercss_meetup 13
+date: 2017-05-17
+videos: ''
+talks:
+  - name: Обуздание UI-энтропии в крупном проекте
+    speaker: Екатерина Тарасова
+    video:
+    presentation: http://pitercss.ru/13/pres/ui-entropy.pdf
+  - name: Надоела анимация?
+    speaker: Вадим Матвеев
+    video:
+    presentation: https://pitercss.ru/13/pres/animation.pdf
+  - name: Как верстать адаптивные рассылки и не убиться
+    speaker: Евгений Еремеев
+    video:
+    presentation: https://pitercss.ru/13/pres/emails.pdf
+  - name: "Favicon: на пути к PWA"
+    speaker: Ольга Болотова
+    video:
+    presentation: https://pitercss.ru/13/pres/favicon/

@@ -1,0 +1,16 @@
+name: pitercss_meetup 9
+date: 2017-01-24
+videos: https://www.youtube.com/playlist?list=PLTdS5E3zupkF7DlXacSyfscQ9vdW83FxH
+talks:
+  - name: Тестирование CSS
+    speaker: Антон Калашников
+    video: https://www.youtube.com/watch?v=z4FJf994UgY
+    presentation: https://pitercss.ru/9/pres/css-testing.pdf
+  - name: Гитхаб в Академии
+    speaker: Алексей Симоненко
+    video: https://www.youtube.com/watch?v=tM5kORurmw0
+    presentation: https://pitercss.ru/9/pres/github-academy.pdf
+  - name: Продуктивность
+    speaker: Милослав Волосков
+    video: https://www.youtube.com/watch?v=h5qrWVqYgxs
+    presentation: https://pitercss.ru/9/pres/how-to-learn/

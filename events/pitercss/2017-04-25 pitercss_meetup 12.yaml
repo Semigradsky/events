@@ -1,0 +1,16 @@
+name: pitercss_meetup 12
+date: 2017-04-25
+videos: ''
+talks:
+  - name: Как мы масштабировали банк для бизнеса
+    speaker: Александр Кашкабаш
+    video:
+    presentation: https://pitercss.ru/12/pres/tinkoff.pdf
+  - name: Цена пропущенного фрейма
+    speaker: Дмитрий Шуранов
+    video:
+    presentation: https://pitercss.ru/12/pres/frame.pdf
+  - name: Как отрефакторить миллион строк кода и не сойти с ума
+    speaker: Алексей Золотых
+    video:
+    presentation: https://pitercss.ru/12/pres/refactoring/

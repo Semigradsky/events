@@ -1,0 +1,16 @@
+name: pitercss_meetup 10
+date: 2017-02-21
+videos: https://www.youtube.com/playlist?list=PLTdS5E3zupkEiDgztHOUw4kOSM8Qdzo7H
+talks:
+  - name: Почему я не могу пользоваться твоим сайтом?
+    speaker: Иван Бакаидов
+    video: https://www.youtube.com/watch?v=ogAZ6JC0pJI
+    presentation: https://pitercss.ru/10/pres/a11y.pdf
+  - name: Adaptive or dead
+    speaker: Денис Воронов
+    video: https://www.youtube.com/watch?v=c4Upfo5fjko
+    presentation: https://pitercss.ru/10/pres/adaptive.pdf
+  - name: Как не писать CSS и радоваться жизни
+    speaker: Алексей Сафин
+    video: https://www.youtube.com/watch?v=IjRi_FQQ2ng
+    presentation: https://pitercss.ru/10/pres/not-css/

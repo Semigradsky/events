@@ -1,0 +1,16 @@
+name: pitercss_meetup 1
+date: 2016-02-09
+videos: ''
+talks:
+  - name: Можно вообще всё. Раскладка по гриду
+    speaker: Вадим Макеев
+    video:
+    presentation:
+  - name: Новые лампочки в Люстре
+    speaker: Михаил Баранов
+    video:
+    presentation:
+  - name: Ложь Фотошопа и как с этим жить
+    speaker: Филипп Нуруллин
+    video:
+    presentation:

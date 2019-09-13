@@ -1,0 +1,16 @@
+name: pitercss_meetup 5
+date: 2016-06-17
+videos: ''
+talks:
+  - name: Профи < Новичок
+    speaker: Алёна Батицкая
+    video:
+    presentation:
+  - name: Отзывчивые картинки правильно
+    speaker: Зарема Халилова
+    video:
+    presentation:
+  - name: Зачем изобрели CSS
+    speaker: Хокон Виум Ли
+    video:
+    presentation:

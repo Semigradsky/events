@@ -1,0 +1,16 @@
+name: pitercss_meetup 15
+date: 2017-10-23
+videos: ''
+talks:
+  - name: AI или человек. Как стать незаменимым
+    speaker: Инесса Шилло
+    video:
+    presentation: https://pitercss.ru/15/pres/ai-in-five.pdf
+  - name: Зачем писать спецификацию
+    speaker: Александр Куценко
+    video:
+    presentation: https://pitercss.ru/15/pres/specs.pdf
+  - name: Людоедский интерфейс
+    speaker: Вадим Макеев
+    video:
+    presentation: https://pitercss.ru/15/pres/inhuman-ui/

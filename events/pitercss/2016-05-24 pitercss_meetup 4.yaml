@@ -1,0 +1,16 @@
+name: pitercss_meetup 4
+date: 2016-05-24
+videos: ''
+talks:
+  - name: Переходим на SVG
+    speaker: Дмитрий Рычков
+    video:
+    presentation:
+  - name: Google AMP. Придаем ускорение мобильному вебу мощным пинком
+    speaker: Александр Приходько
+    video:
+    presentation:
+  - name: Письмо другу. Небольшие хитрости
+    speaker: Антон Калашников
+    video:
+    presentation:

@@ -1,0 +1,16 @@
+name: pitercss_meetup 6
+date: 2016-10-11
+videos: ''
+talks:
+  - name: Деревянный CSS
+    speaker: Андрей Волынкин
+    video:
+    presentation:
+  - name: Webflow. Ноухау или конструктор?
+    speaker: Александр Меньчик
+    video:
+    presentation:
+  - name: Жми сюда!
+    speaker: Вадим Макеев
+    video:
+    presentation:
