@@ -59,6 +59,16 @@
 | What’s new in Angular 8 and how to migrate  |  [Алексей Кунцевич](speakers/Алексей%20Кунцевич.md)  | [:notebook:](https://kuncevic.github.io/presentations/what-is-new-in-angular-8-and-how-to-migrate.html#/intro)   |
 | How to manage data in your Angular app with NGXS store and Firebase  |  [Юрий Татенко](speakers/Юрий%20Татенко.md)  | [:notebook:](https://docs.google.com/presentation/d/1_wemiuaAQhx6je3Zkk0XppLN0rqj8jdjutLiKfGzbf8/edit?usp=sharing)   |
 | Bad Practices, what NOT to do in Angular  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/angular-bad-practices)   |
+## WSD 2019 - Санкт-Петербург - Jul 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;_0psqory6rk)
+| | | |
+| --- | :---: | --- |
+| [Почему фронтенд это круто](https://www.youtube.com/watch?v=_0psqory6rk&t=1051s)  |  [Роман Дворнов](speakers/Роман%20Дворнов.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/frontend-awesome.pdf)   |
+| [TC39: взгляд изнутри](https://www.youtube.com/watch?v=_0psqory6rk&t=3369s)  |  [Сергей Рубанов](speakers/Сергей%20Рубанов.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/tc39-inside.pdf)   |
+| [Make a World](https://www.youtube.com/watch?v=_0psqory6rk&t=6794s)  |  [Юлия Музафарова](speakers/Юлия%20Музафарова.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/make-a-world.pdf)   |
+| [Все цвета радуги](https://www.youtube.com/watch?v=_0psqory6rk&t=8837s)  |  [Владимир Кузнецов](speakers/Владимир%20Кузнецов.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/all-the-colors/)   |
+| [Как (не)удовлетворить Google PageSpeed](https://www.youtube.com/watch?v=_0psqory6rk&t=17017s)  |  [Даниил Крохмаль](speakers/Даниил%20Крохмаль.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/pagespeed-happy.pdf)   |
+| [GraphQL как будущее клиентских API](https://www.youtube.com/watch?v=_0psqory6rk&t=19267s)  |  [Андрей Лось](speakers/Андрей%20Лось.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/graphql-future.pdf)   |
+| [Новая платформа уже здесь](https://www.youtube.com/watch?v=_0psqory6rk&t=22983s)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/new-platform.pdf)   |
 ## GDG Minsk Web Meetup - Jun 27 
 | | | |
 | --- | :---: | --- |
