@@ -147,23 +147,23 @@ async function writeBySpeakers(groupedDataBySpeakers) {
                 })
             }
 
-            if (speakerData.facebook) {
-                links.push({
-                    emoji: ':blue_book:',
-                    url: `https://facebook.com/${speakerData.facebook}`
-                })
-
-                photo = `https://avatars.io/facebook/${speakerData.facebook}/large`
-            }
-
             if (speakerData.twitter) {
                 links.push({
                     emoji: ':bird:',
                     url: `https://twitter.com/${speakerData.twitter}`
                 })
 
+                photo = `https://avatars.io/twitter/${speakerData.twitter}/large`
+            }
+
+            if (speakerData.facebook) {
+                links.push({
+                    emoji: ':blue_book:',
+                    url: `https://facebook.com/${speakerData.facebook}`
+                })
+
                 if (!photo) {
-                    photo = `https://avatars.io/twitter/${speakerData.twitter}/large`
+                    photo = `https://avatars.io/facebook/${speakerData.facebook}/large`
                 }
             }
 
