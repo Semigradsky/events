@@ -1,0 +1,12 @@
+name: Angular Minsk 3
+date: 2019-09-17
+videos: ''
+talks:
+  - name: Angular Universal War Stories
+    speaker: Константин Маликов
+    video:
+    presentation:
+  - name: Angular App Architecture and Project Structure for Scale
+    speaker: Юрий Татенко
+    video:
+    presentation:
