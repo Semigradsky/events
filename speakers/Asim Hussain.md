@@ -5,6 +5,8 @@
 
 ## How to scale an SPA to 1M views for $1?
 - 2018 Jul 06-08 -- [OdessaJS 2018](https://youtu.be/z2WkmCeXdOo) [en]   
+## Save the world, one line at a time
+- 2019 Jul 19-21 -- OdessaJS 2019 [en]   
 ## How to hack a node app?
 - 2018 Feb 10-11 -- [RS Conf 2018](https://youtu.be/_P5aiH1RLOI) [en] | [:notebook:](https://speakerdeck.com/jawache/how-to-hack-a-node-app-at-rollingscopes-2018-in-minsk-belarus)  
 ## Security

@@ -3,6 +3,64 @@
 
 # OdessaJS
 
+## OdessaJS 2019 - 2019 Jul 19-21 [:movie_camera:](https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg/videos?view=2)
+| | | |
+| --- | :---: | --- |
+| Testing JS code that consumes APIs [en] |  [Mike Solomon](speakers/Mike%20Solomon.md)  |    |
+| [Pluggable platform using Angular and NodeJS](https://www.youtube.com/watch?v=F1GFmhubOvA) [en] |  [Saif Jerbi](speakers/Saif%20Jerbi.md)  |    |
+| Get experience with NestJS  |  [Андрей Кучеренко](speakers/Андрей%20Кучеренко.md)  |    |
+| Rx.js что я делаю не так?  |  [Nick Lototskiy](speakers/Nick%20Lototskiy.md)  |    |
+| Practicing on making Angular app more friendly in terms of data handling [uk] |  [Сергій Бабіч](speakers/Сергій%20Бабіч.md)  |    |
+| Presentation Karaoke [en] |  [Ксения Редунова](speakers/Ксения%20Редунова.md)  |    |
+| Monday of the development team  |  [Юрий Нифонтов](speakers/Юрий%20Нифонтов.md)  |    |
+| How cossacks win projects [uk] |  [Роман Савицкий](speakers/Роман%20Савицкий.md)  |    |
+| How to communicate with people if they are annoying  |  [Дмитрий Гусев](speakers/Дмитрий%20Гусев.md)  [Kristina Chemerska](speakers/Kristina%20Chemerska.md)  |    |
+| [6 ways to hack your JavaScript application](https://www.youtube.com/watch?v=_ycN0V_AHTE)  |  [Виктор Турский](speakers/Виктор%20Турский.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/6-ways-to-hack-your-javascript-application-by-viktor-turskyi)   |
+| Save the world, one line at a time [en] |  [Asim Hussain](speakers/Asim%20Hussain.md)  |    |
+| Get experience with NestJS [Workshop]  |  [Андрей Кучеренко](speakers/Андрей%20Кучеренко.md)  |    |
+| [Fun with Bluetooth](https://www.youtube.com/watch?v=UYyPRddn9J4) [en] |  [Niels Leenheer](speakers/Niels%20Leenheer.md)  |    |
+| [Specification-Driven Development of REST APIs](https://www.youtube.com/watch?v=LLTZ0u6JMB4)  |  [Alexander Zinchuk](speakers/Alexander%20Zinchuk.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/specificationdriven-development-of-rest-apis-by-alexander-zinchuk)   |
+| Testing JS code that consumes APIs [Workshop]  |  [Mike Solomon](speakers/Mike%20Solomon.md)  |    |
+| Seniors mindset [Managers corner]  |  [Дмитрий Гусев](speakers/Дмитрий%20Гусев.md)  [Роман Савицкий](speakers/Роман%20Савицкий.md)  [Zakhor](speakers/Zakhor.md)  |    |
+| [How to start enjoy your Angular Rx and NGRX](https://www.youtube.com/watch?v=ydMbOVA4RMM) [uk] |  [Сергій Бабіч](speakers/Сергій%20Бабіч.md)  |    |
+| [Ultimate React Component Patterns with TypeScript](https://www.youtube.com/watch?v=8-bYp0IXcZM) [en] |  [Martin Hochel](speakers/Martin%20Hochel.md)  |    |
+| Make your OdessaJS coin [Workshop]  |  [Artem Frantsiian](speakers/Artem%20Frantsiian.md)  |    |
+| Frontend architecture [Tech corner]  |  [Виктор Турский](speakers/Виктор%20Турский.md)  [Андрей Кучеренко](speakers/Андрей%20Кучеренко.md)  [Ярослав Дворовенко](speakers/Ярослав%20Дворовенко.md)  |    |
+| [Algorithms in JavaScript](https://www.youtube.com/watch?v=-WCbhzfAYCA)  |  [Николай Громов](speakers/Николай%20Громов.md)  |    |
+| [Progressive Web Apps](https://www.youtube.com/watch?v=fiObvm45Vqc) [en] |  [Maurizio Mangione](speakers/Maurizio%20Mangione.md)  |    |
+| Reduce, Reuse, Recycle - Persisting WebSocket connections with SharedWorkers [Workshop] [en] |  [Aaron Basset](speakers/Aaron%20Basset.md)  |    |
+| JS learning lifehacks: common programmer&#39;s mistakes [Workshop]  |  [Денис Самойленко](speakers/Денис%20Самойленко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/denys-samoylenko-js-learning-lifehacks-common-programmers-mistake)   |
+| [Delivering Flexible Design Systems for Web &amp; Native](https://www.youtube.com/watch?v=aZCHTLTIJcg) [en] |  [Charlie Robins](speakers/Charlie%20Robins.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/flexible-design-systems-by-charlie-robbins)   |
+| [Introduction to React Native](https://www.youtube.com/watch?v=8d9vxFekpiE)  |  [Lev Vidrak](speakers/Lev%20Vidrak.md)  |    |
+| Adding PWA features to your web application on Node.JS [Workshop]  |  [Oleksandr Bordun](speakers/Oleksandr%20Bordun.md)  |    |
+| IT events in Ukraine. How and why [Event&quot;s corner]  |  [Роман Савицкий](speakers/Роман%20Савицкий.md)  [Сергій Бабіч](speakers/Сергій%20Бабіч.md)  |    |
+| [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](https://www.youtube.com/watch?v=EICcUWzIink) [en] |  [Liran Tal](speakers/Liran%20Tal.md)  |    |
+| How FP made Grammarly codebase error-prone and predictable  |  [Anton Pets](speakers/Anton%20Pets.md)  |    |
+| Progressive Web Apps [Tech corner] [en] |  [Jamie Maria](speakers/Jamie%20Maria.md)  [Oleksandr Bordun](speakers/Oleksandr%20Bordun.md)  [Сергій Бабіч](speakers/Сергій%20Бабіч.md)  [Maurizio Mangione](speakers/Maurizio%20Mangione.md)  |    |
+| [Think Fast, First: Empowering a Performance Culture](https://www.youtube.com/watch?v=Clhtvd4qb2M) [en] |  [Alfredo Lopez](speakers/Alfredo%20Lopez.md)  | [:notebook:](https://slides.com/lfredo/odessajs#/intro)   |
+| Strongly typed web applications or how to stop worrying and love the typechecker [en] |  [Adel Salakh](speakers/Adel%20Salakh.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/strongly-typed-web-applications-by-adel-salakh)   |
+| [The search for App-iness : Progressive Web Apps](https://www.youtube.com/watch?v=i-HCFLPLikI) [en] |  [Jamie Maria Schouren](speakers/Jamie%20Maria%20Schouren.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/the-search-for-appiness-progressive-web-apps-by-jamie-maria-schouren)   |
+| The Code  |  [Эльдар Джафаров](speakers/Эльдар%20Джафаров.md)  |    |
+| [I Don&#39;t Care About Security (And Neither Should You)](https://www.youtube.com/watch?v=_cSgHl3qaF8) [en] |  [Joel Lord](speakers/Joel%20Lord.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/i-dont-care-about-security-and-neither-should-you-by-joel-lord)   |
+| [Serverless (AWS) — things I&#39;d like to knew](https://www.youtube.com/watch?v=YzvsCsAJLjo)  |  [Роман Саченко](speakers/Роман%20Саченко.md)  |    |
+| WebAssembly - Everything in browser, from bitcoin miners to python interpreter [Workshop]  |  [Dmytro Selin](speakers/Dmytro%20Selin.md)  |    |
+| [Handling partial failures in a distributed environment with Saga](https://www.youtube.com/watch?v=qX3OARzlcXU)  |  [Максим Климишин](speakers/Максим%20Климишин.md)  |    |
+| [5 advanced &amp; shiny testing techniques](https://www.youtube.com/watch?v=4yudIsuTtaw) [en] |  [Yoni Goldberg](speakers/Yoni%20Goldberg.md)  |    |
+| Art of storytelling [Tech corner]  |  [Дмитрий Миндра](speakers/Дмитрий%20Миндра.md)  |    |
+| [Mental debugging tips &amp; tricks](https://www.youtube.com/watch?v=vyJU5mx7gqE)  |  [Александра Калинина](speakers/Александра%20Калинина.md)  |    |
+| Pluggable platform using Angular and NodeJS [en] |  [Saif Jerbi](speakers/Saif%20Jerbi.md)  |    |
+| Building Cross Browser Extension - From Zero to Hero [Workshop]  |  [Karthic Keyan](speakers/Karthic%20Keyan.md)  |    |
+| Mobile photography [Workshop]  |  [Ihor Areshkin](speakers/Ihor%20Areshkin.md)  |    |
+| [When your wetware has too many threads - Tips from an ADHDer on how to improve your focus](https://www.youtube.com/watch?v=yGCb6_Td9G0) [en] |  [Aaron Basset](speakers/Aaron%20Basset.md)  |    |
+| [Modules and Artifacts in NPM](https://www.youtube.com/watch?v=mNhOknS1HFQ)  |  [Антон Чередников](speakers/Антон%20Чередников.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/modules-and-artifacts-in-npm-by-anton-cherednikov)   |
+| Communication reliability within distributed systems [Workshop]  |  [Максим Климишин](speakers/Максим%20Климишин.md)  |    |
+| [Angular Universal - a medicine for the Angular + SEO&#x2F;CDN issues](https://www.youtube.com/watch?v=pNwHEOR8r2I)  |  [Maciej Treder](speakers/Maciej%20Treder.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/maciej-treder-angular-universal-a-medicine-for-the-angular-seocdn-issues)   |
+| [Product Engineering mindset: are you ready for the product revolution?](https://www.youtube.com/watch?v=rCnaaeVdtE0)  |  [Irina Ziakhor](speakers/Irina%20Ziakhor.md)  |    |
+| Pluggable Web application using Angular and NodeJS  |  [Saif Jerbi](speakers/Saif%20Jerbi.md)  |    |
+| [Functional programming for the people](https://www.youtube.com/watch?v=0GDkkun8jDQ) [en] |  [Christian Gill](speakers/Christian%20Gill.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/christian-gill-functional-programming-for-the-people)   |
+| [The Art of NodeJS, или Как сделать что-то крутое, используя публичные данные](https://www.youtube.com/watch?v=WCJfrXgpe6g)  |  [Илья Запруцкий](speakers/Илья%20Запруцкий.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/the-art-of-nodejs-or-how-to-do-something-cool-using-public-data-by-ilya-zaprutski)   |
+| [Animation in the Air](https://www.youtube.com/watch?v=Aeqr96oD_Es) [uk] |  [Христина Ландвитович](speakers/Христина%20Ландвитович.md)  |    |
+| Immersive Web  |  [Diego González-Zúñiga](speakers/Diego%20González-Zúñiga.md)  |    |
 ## OdessaJS 2018 - 2018 Jul 06-08 
 | | | |
 | --- | :---: | --- |
