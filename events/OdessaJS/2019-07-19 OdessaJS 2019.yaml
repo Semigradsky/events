@@ -2,5 +2,248 @@ name: OdessaJS 2019
 date:
   - 2019-07-19
   - 2019-07-21
-videos: ''
-talks: []
+videos: https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg/videos?view=2
+talks:
+  - name: Testing JS code that consumes APIs
+    speaker: Mike Solomon
+    lang: en
+    video:
+    presentation:
+  - name: Pluggable platform using Angular and NodeJS
+    speaker: Saif Jerbi
+    lang: en
+    video: https://www.youtube.com/watch?v=F1GFmhubOvA
+    presentation:
+  - name: Get experience with NestJS
+    speaker: Андрей Кучеренко
+    video:
+    presentation:
+  - name: Rx.js что я делаю не так?
+    speaker: Nick Lototskiy
+    video:
+    presentation:
+  - name: Practicing on making Angular app more friendly in terms of data handling
+    speaker: Сергій Бабіч
+    lang: uk
+    video:
+    presentation:
+  - name: Presentation Karaoke
+    speaker: Ксения Редунова
+    lang: en
+    video:
+    presentation:
+  - name: Monday of the development team
+    speaker: Юрий Нифонтов
+    video:
+    presentation:
+  - name: How cossacks win projects
+    speaker: Роман Савицкий
+    lang: uk
+    video:
+    presentation:
+  - name: How to communicate with people if they are annoying
+    speaker: Дмитрий Гусев, Kristina Chemerska
+    video:
+    presentation:
+  - name: 6 ways to hack your JavaScript application
+    speaker: Виктор Турский
+    video: https://www.youtube.com/watch?v=_ycN0V_AHTE
+    presentation: https://www.slideshare.net/OdessaJSConf/6-ways-to-hack-your-javascript-application-by-viktor-turskyi
+  - name: Save the world, one line at a time
+    speaker: Asim Hussain
+    lang: en
+    video:
+    presentation:
+  - name: Get experience with NestJS [Workshop]
+    speaker: Андрей Кучеренко
+    video:
+    presentation:
+  - name: Fun with Bluetooth
+    speaker: Niels Leenheer
+    lang: en
+    video: https://www.youtube.com/watch?v=UYyPRddn9J4
+    presentation:
+  - name: Specification-Driven Development of REST APIs
+    speaker: Alexander Zinchuk
+    video: https://www.youtube.com/watch?v=LLTZ0u6JMB4
+    presentation: https://www.slideshare.net/OdessaJSConf/specificationdriven-development-of-rest-apis-by-alexander-zinchuk
+  - name: Testing JS code that consumes APIs [Workshop]
+    speaker: Mike Solomon
+    video:
+    presentation:
+  - name: Seniors mindset [Managers corner]
+    speaker: Дмитрий Гусев, Роман Савицкий, Zakhor
+    video:
+    presentation:
+  - name: How to start enjoy your Angular Rx and NGRX
+    speaker: Сергій Бабіч
+    lang: uk
+    video: https://www.youtube.com/watch?v=ydMbOVA4RMM
+    presentation:
+  - name: Ultimate React Component Patterns with TypeScript
+    speaker: Martin Hochel
+    lang: en
+    video: https://www.youtube.com/watch?v=8-bYp0IXcZM
+    presentation:
+  - name: Make your OdessaJS coin [Workshop]
+    speaker: Artem Frantsiian
+    video:
+    presentation:
+  - name: Frontend architecture [Tech corner]
+    speaker: Виктор Турский, Андрей Кучеренко, Ярослав Дворовенко
+    video:
+    presentation:
+  - name: Algorithms in JavaScript
+    speaker: Николай Громов
+    video: https://www.youtube.com/watch?v=-WCbhzfAYCA
+    presentation:
+  - name: Progressive Web Apps
+    speaker: Maurizio Mangione
+    lang: en
+    video: https://www.youtube.com/watch?v=fiObvm45Vqc
+    presentation:
+  - name: Reduce, Reuse, Recycle - Persisting WebSocket connections with SharedWorkers [Workshop]
+    speaker: Aaron Basset
+    lang: en
+    video:
+    presentation:
+  - name: "JS learning lifehacks: common programmer's mistakes [Workshop]"
+    speaker: Денис Самойленко
+    video:
+    presentation: https://www.slideshare.net/OdessaJSConf/denys-samoylenko-js-learning-lifehacks-common-programmers-mistake
+  - name: Delivering Flexible Design Systems for Web & Native
+    speaker: Charlie Robins
+    lang: en
+    video: https://www.youtube.com/watch?v=aZCHTLTIJcg
+    presentation: https://www.slideshare.net/OdessaJSConf/flexible-design-systems-by-charlie-robbins
+  - name: Introduction to React Native
+    speaker: Lev Vidrak
+    video: https://www.youtube.com/watch?v=8d9vxFekpiE
+    presentation:
+  - name: Adding PWA features to your web application on Node.JS [Workshop]
+    speaker: Oleksandr Bordun
+    video:
+    presentation:
+  - name: IT events in Ukraine. How and why [Event"s corner]
+    speaker: Роман Савицкий, Сергій Бабіч
+    video:
+    presentation:
+  - name: "StrangerDanger: Finding Security Vulnerabilities Before They Find You!"
+    speaker: Liran Tal
+    lang: en
+    video: https://www.youtube.com/watch?v=EICcUWzIink
+    presentation:
+  - name: How FP made Grammarly codebase error-prone and predictable
+    speaker: Anton Pets
+    video:
+    presentation:
+  - name: Progressive Web Apps [Tech corner]
+    speaker: Jamie Maria, Oleksandr Bordun, Сергій Бабіч, Maurizio Mangione
+    lang: en
+    video:
+    presentation:
+  - name: "Think Fast, First: Empowering a Performance Culture"
+    speaker: Alfredo Lopez
+    lang: en
+    video: https://www.youtube.com/watch?v=Clhtvd4qb2M
+    presentation: https://slides.com/lfredo/odessajs#/intro
+  - name: Strongly typed web applications or how to stop worrying and love the typechecker
+    speaker: Adel Salakh
+    lang: en
+    video:
+    presentation: https://www.slideshare.net/OdessaJSConf/strongly-typed-web-applications-by-adel-salakh
+  - name: "The search for App-iness : Progressive Web Apps"
+    speaker: Jamie Maria Schouren
+    lang: en
+    video: https://www.youtube.com/watch?v=i-HCFLPLikI
+    presentation: https://www.slideshare.net/OdessaJSConf/the-search-for-appiness-progressive-web-apps-by-jamie-maria-schouren
+  - name: The Code
+    speaker: Эльдар Джафаров
+    video:
+    presentation:
+  - name: I Don't Care About Security (And Neither Should You)
+    speaker: Joel Lord
+    lang: en
+    video: https://www.youtube.com/watch?v=_cSgHl3qaF8
+    presentation: https://www.slideshare.net/OdessaJSConf/i-dont-care-about-security-and-neither-should-you-by-joel-lord
+  - name: Serverless (AWS) — things I'd like to knew
+    speaker: Роман Саченко
+    video: https://www.youtube.com/watch?v=YzvsCsAJLjo
+    presentation:
+  - name: WebAssembly - Everything in browser, from bitcoin miners to python interpreter [Workshop]
+    speaker: Dmytro Selin
+    video:
+    presentation:
+  - name: Handling partial failures in a distributed environment with Saga
+    speaker: Максим Климишин
+    video: https://www.youtube.com/watch?v=qX3OARzlcXU
+    presentation:
+  - name: 5 advanced & shiny testing techniques
+    speaker: Yoni Goldberg
+    lang: en
+    video: https://www.youtube.com/watch?v=4yudIsuTtaw
+    presentation:
+  - name: Art of storytelling [Tech corner]
+    speaker: Дмитрий Миндра
+    video:
+    presentation:
+  - name: Mental debugging tips & tricks
+    speaker: Александра Калинина
+    video: https://www.youtube.com/watch?v=vyJU5mx7gqE
+    presentation:
+  - name: Pluggable platform using Angular and NodeJS
+    speaker: Saif Jerbi
+    lang: en
+    video:
+    presentation:
+  - name: Building Cross Browser Extension - From Zero to Hero [Workshop]
+    speaker: Karthic Keyan
+    video:
+    presentation:
+  - name: Mobile photography [Workshop]
+    speaker: Ihor Areshkin
+    video:
+    presentation:
+  - name: When your wetware has too many threads - Tips from an ADHDer on how to improve your focus
+    speaker: Aaron Basset
+    lang: en
+    video: https://www.youtube.com/watch?v=yGCb6_Td9G0
+    presentation:
+  - name: Modules and Artifacts in NPM
+    speaker: Антон Чередников
+    video: https://www.youtube.com/watch?v=mNhOknS1HFQ
+    presentation: https://www.slideshare.net/OdessaJSConf/modules-and-artifacts-in-npm-by-anton-cherednikov
+  - name: Communication reliability within distributed systems [Workshop]
+    speaker: Максим Климишин
+    video:
+    presentation:
+  - name: Angular Universal - a medicine for the Angular + SEO/CDN issues
+    speaker: Maciej Treder
+    video: https://www.youtube.com/watch?v=pNwHEOR8r2I
+    presentation: https://www.slideshare.net/OdessaJSConf/maciej-treder-angular-universal-a-medicine-for-the-angular-seocdn-issues
+  - name: "Product Engineering mindset: are you ready for the product revolution?"
+    speaker: Irina Ziakhor
+    video: https://www.youtube.com/watch?v=rCnaaeVdtE0
+    presentation:
+  - name: Pluggable Web application using Angular and NodeJS
+    speaker: Saif Jerbi
+    video:
+    presentation:
+  - name: Functional programming for the people
+    speaker: Christian Gill
+    lang: en
+    video: https://www.youtube.com/watch?v=0GDkkun8jDQ
+    presentation: https://www.slideshare.net/OdessaJSConf/christian-gill-functional-programming-for-the-people
+  - name: The Art of NodeJS, или Как сделать что-то крутое, используя публичные данные
+    speaker: Илья Запруцкий
+    video: https://www.youtube.com/watch?v=WCJfrXgpe6g
+    presentation: https://www.slideshare.net/OdessaJSConf/the-art-of-nodejs-or-how-to-do-something-cool-using-public-data-by-ilya-zaprutski
+  - name: Animation in the Air
+    speaker: Христина Ландвитович
+    lang: uk
+    video: https://www.youtube.com/watch?v=Aeqr96oD_Es
+    presentation:
+  - name: Immersive Web
+    speaker: Diego González-Zúñiga
+    video:
+    presentation:
