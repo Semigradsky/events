@@ -1,0 +1,16 @@
+name: Panda Meetup 25 Frontend
+date: 2019-08-24
+videos: ''
+talks:
+  - name: 10 000$ за две недели или зачем участвовать в конкурсах Telegram
+    speaker: Илья Шишов
+    video:
+    presentation:
+  - name: Рассказ о том как мы переписали всё на Vue.js
+    speaker: Василий Корянов
+    video:
+    presentation:
+  - name: Горячие и холодные observable, и как с этим жить
+    speaker: Никита Юдин
+    video:
+    presentation:

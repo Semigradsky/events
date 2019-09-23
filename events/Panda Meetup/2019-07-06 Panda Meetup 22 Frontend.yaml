@@ -1,8 +1,20 @@
 name: Panda Meetup 22 Frontend
 date: 2019-07-06
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLknJ4Vr6efQGs2U0c5-jf1VwOaDs-arGq
 talks:
   - name: Плагины vue-cli. Просто, быстро и зачем.
     speaker: Михаил Росин
-    video:
+    video: https://www.youtube.com/watch?v=cHVhSSCC89E
+    presentation:
+  - name: "Простые сложности: JSONata, Jora, JMESPath для «сложных» данных"
+    speaker: Алексей Охрименко
+    video: https://www.youtube.com/watch?v=s0qYCtBVLEI
+    presentation:
+  - name: "Очень странное тестирование: тестирование на основе данных"
+    speaker: Назим Гафаров
+    video: https://www.youtube.com/watch?v=pAKapxZ9fak
+    presentation:
+  - name: Декларативный Angular
+    speaker: Андрей Греков
+    video: https://www.youtube.com/watch?v=WTFeZNk6PSw
     presentation:

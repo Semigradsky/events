@@ -6,7 +6,15 @@ talks:
     speaker: Мозгачев Алексей
     video:
     presentation:
-  - name: Жизнь в монолите
+  - name: Советы по написанию микросервисов (на node.js)
+    speaker: Панов Антон
+    video:
+    presentation:
+  - name: Не API единым. Почему вам нужен cli на nodejs, даже если вы об этом не знаете
+    speaker: Алексей Попков
+    video:
+    presentation:
+  - name: Жизнь в монолите - хаки, инструменты, боли
     speaker: Бондаренко Евгений
     video:
     presentation:
