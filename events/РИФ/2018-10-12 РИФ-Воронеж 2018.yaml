@@ -1,0 +1,22 @@
+name: РИФ-Воронеж 2018
+date:
+  - 2018-10-12
+  - 2018-10-13
+videos: ''
+talks:
+  - name: Строим тестирование фронтенда
+    speaker: Игорь Шеко
+    video: https://youtu.be/pn4OPJW882U
+    presentation: https://www.dropbox.com/s/6p5umgiooz5mo0f/IgorSheko.pdf
+  - name: "Security Audit: жизнь до и после"
+    speaker: Ярослав Воронцов
+    video: https://youtu.be/5YG-LtkUUzE
+    presentation: https://www.dropbox.com/s/z9or8ressq642fn/YaroslavVorontsov.pptx
+  - name: Опыт использования Nuxt.js
+    speaker: Григорий Петров
+    video: https://youtu.be/Y6bDnC1av1E
+    presentation: https://www.dropbox.com/s/uwqz9c933pj9z9e/GrigoriiPetrov.pdf
+  - name: Пишем приложение на Electron
+    speaker: Дмитрий Круцких
+    video: https://youtu.be/0X6QwBD2GXM
+    presentation: https://www.dropbox.com/s/tjflvsslyqtoxql/DmitriiKrutskikh.pptx

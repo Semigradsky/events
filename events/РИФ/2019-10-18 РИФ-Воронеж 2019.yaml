@@ -1,0 +1,18 @@
+name: РИФ-Воронеж 2019
+date:
+  - 2019-10-18
+  - 2019-10-19
+videos: ''
+talks:
+  - name: Улучшаем перфоманс фронтенда на vue.js для больших приложений
+    speaker: Игорь Шеко
+    video:
+    presentation:
+  - name: NodeJS logging made right
+    speaker: Андрей Гончаров
+    video:
+    presentation:
+  - name: История одной оптимизации производительности Node.js-библиотеки
+    speaker: Андрей Печкуров
+    video:
+    presentation:
