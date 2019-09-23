@@ -3,6 +3,13 @@
 
 # Panda Meetup
 
+## Panda Meetup 22 Frontend - 2019 Jul 06 [:movie_camera:](https://www.youtube.com/playlist?list=PLknJ4Vr6efQGs2U0c5-jf1VwOaDs-arGq)
+| | | |
+| --- | :---: | --- |
+| [Плагины vue-cli. Просто, быстро и зачем.](https://www.youtube.com/watch?v=cHVhSSCC89E)  |  [Михаил Росин](speakers/Михаил%20Росин.md)  |    |
+| [Простые сложности: JSONata, Jora, JMESPath для «сложных» данных](https://www.youtube.com/watch?v=s0qYCtBVLEI)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
+| [Очень странное тестирование: тестирование на основе данных](https://www.youtube.com/watch?v=pAKapxZ9fak)  |  [Назим Гафаров](speakers/Назим%20Гафаров.md)  |    |
+| [Декларативный Angular](https://www.youtube.com/watch?v=WTFeZNk6PSw)  |  [Андрей Греков](speakers/Андрей%20Греков.md)  |    |
 ## Panda Meetup 15 Frontend - 2019 Apr 19 [:movie_camera:](https://www.youtube.com/playlist?list=PLaYNFbPr2bsKPBECGSeE_hHCiOAPNnLPI)
 | | | |
 | --- | :---: | --- |

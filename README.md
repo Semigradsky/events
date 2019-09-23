@@ -127,6 +127,13 @@
 | [Как (не)удовлетворить Google PageSpeed](https://www.youtube.com/watch?v=_0psqory6rk&t=17017s)  |  [Даниил Крохмаль](speakers/Даниил%20Крохмаль.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/pagespeed-happy.pdf)   |
 | [GraphQL как будущее клиентских API](https://www.youtube.com/watch?v=_0psqory6rk&t=19267s)  |  [Андрей Лось](speakers/Андрей%20Лось.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/graphql-future.pdf)   |
 | [Новая платформа уже здесь](https://www.youtube.com/watch?v=_0psqory6rk&t=22983s)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  | [:notebook:](https://wsd.events/2019/07/13/pres/new-platform.pdf)   |
+## Panda Meetup 22 Frontend - Jul 06 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLknJ4Vr6efQGs2U0c5-jf1VwOaDs-arGq)
+| | | |
+| --- | :---: | --- |
+| [Плагины vue-cli. Просто, быстро и зачем.](https://www.youtube.com/watch?v=cHVhSSCC89E)  |  [Михаил Росин](speakers/Михаил%20Росин.md)  |    |
+| [Простые сложности: JSONata, Jora, JMESPath для «сложных» данных](https://www.youtube.com/watch?v=s0qYCtBVLEI)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
+| [Очень странное тестирование: тестирование на основе данных](https://www.youtube.com/watch?v=pAKapxZ9fak)  |  [Назим Гафаров](speakers/Назим%20Гафаров.md)  |    |
+| [Декларативный Angular](https://www.youtube.com/watch?v=WTFeZNk6PSw)  |  [Андрей Греков](speakers/Андрей%20Греков.md)  |    |
 ## GDG Minsk Web Meetup - Jun 27 
 | | | |
 | --- | :---: | --- |
