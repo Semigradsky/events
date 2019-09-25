@@ -256,6 +256,12 @@
 | [Как правильно обучаться в большом потоке информации](https://youtu.be/-JNxSFx-aOg?t=448)  |  [Николай Шабалин](speakers/Николай%20Шабалин.md)  |    |
 | [Ember: Мифы](https://youtu.be/-JNxSFx-aOg?t=3527)  |  [Александр Канунников](speakers/Александр%20Канунников.md)  |    |
 | Доклад-сюрприз  |  [?](speakers/?.md)  |    |
+## OdessaFrontend Meetup 12 - May 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0tXnthiyjZYqQgowaH-YnwD)
+| | | |
+| --- | :---: | --- |
+| [Машинное обучение на JS. С чего начать и куда идти](https://www.youtube.com/watch?v=Y6bfp8haw78)  |  [Влад Борш](speakers/Влад%20Борш.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/js-odessafrontend-12)   |
+| [Путь к WebGL через THREE.js](https://www.youtube.com/watch?v=vq_uaKolvBY)  |  [Андрей Дьяковый](speakers/Андрей%20Дьяковый.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/webgl-threejs-odessafrontend-12) [:octocat:](https://github.com/Diakov94/rubik)  |
+| [Как пройти собеседование по js? И зачем? vol. 2](https://www.youtube.com/watch?v=3scaLS0ICHE)  |  [Юрий Федоренко](speakers/Юрий%20Федоренко.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/js-vol-2-odessafrontend-12)   |
 ## WebAssembly Moscow 1 - May 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;O8IMFHu1dG0)
 | | | |
 | --- | :---: | --- |

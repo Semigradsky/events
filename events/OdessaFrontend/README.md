@@ -3,6 +3,12 @@
 
 # OdessaFrontend
 
+## OdessaFrontend Meetup 12 - 2019 May 18 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0tXnthiyjZYqQgowaH-YnwD)
+| | | |
+| --- | :---: | --- |
+| [Машинное обучение на JS. С чего начать и куда идти](https://www.youtube.com/watch?v=Y6bfp8haw78)  |  [Влад Борш](speakers/Влад%20Борш.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/js-odessafrontend-12)   |
+| [Путь к WebGL через THREE.js](https://www.youtube.com/watch?v=vq_uaKolvBY)  |  [Андрей Дьяковый](speakers/Андрей%20Дьяковый.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/webgl-threejs-odessafrontend-12) [:octocat:](https://github.com/Diakov94/rubik)  |
+| [Как пройти собеседование по js? И зачем? vol. 2](https://www.youtube.com/watch?v=3scaLS0ICHE)  |  [Юрий Федоренко](speakers/Юрий%20Федоренко.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/js-vol-2-odessafrontend-12)   |
 ## OdessaFrontend Meetup 11 - 2019 Mar 27 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0upGuy49QySeU-eMjfuzh2P)
 | | | |
 | --- | :---: | --- |
