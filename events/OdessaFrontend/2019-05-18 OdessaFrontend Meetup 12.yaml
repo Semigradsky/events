@@ -1,16 +1,17 @@
 name: OdessaFrontend Meetup 12
 date: 2019-05-18
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0tXnthiyjZYqQgowaH-YnwD
 talks:
   - name: Машинное обучение на JS. С чего начать и куда идти
     speaker: Влад Борш
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=Y6bfp8haw78
+    presentation: https://www.slideshare.net/odessafrontend/js-odessafrontend-12
   - name: Путь к WebGL через THREE.js
     speaker: Андрей Дьяковый
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=vq_uaKolvBY
+    presentation: https://www.slideshare.net/odessafrontend/webgl-threejs-odessafrontend-12
+    code: https://github.com/Diakov94/rubik
   - name: Как пройти собеседование по js? И зачем? vol. 2
     speaker: Юрий Федоренко
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=3scaLS0ICHE
+    presentation: https://www.slideshare.net/odessafrontend/js-vol-2-odessafrontend-12

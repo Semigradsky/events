@@ -1,0 +1,20 @@
+name: OdessaFrontend Meetup 13
+date: 2019-10-10
+videos: ''
+talks:
+  - name: Как правильно делать анимацию и добиться 60fps на различных девайсах
+    speaker: Виталий Калашников
+    video:
+    presentation:
+  - name: Эффективность с большой буквы Э… или любой другой
+    speaker: Евгений Кравцов
+    video:
+    presentation:
+  - name: Структуры данных в JavaScript
+    speaker: Николай Громов
+    video:
+    presentation:
+  - name: Викторина
+    speaker: Николай Птущук
+    video:
+    presentation:
