@@ -1,4 +1,48 @@
 name: PiterJS conf 2019
 date: 2019-09-07
-videos: ''
-talks: []
+videos: https://www.youtube.com/watch?v=A_fzyRC6XvU
+talks:
+  - name: Как запустить Telegram в VS Code
+    speaker: Александр Коротаев
+    video:
+    presentation:
+  - name: GraphQL - уменьшаем энтропию
+    speaker: Полина Гуртовая
+    video:
+    presentation:
+  - name: Поддержка старых браузеров в CSS-in-JS на AST-преобразованиях
+    speaker: Яна Менемчиадис
+    video:
+    presentation:
+  - name: JSX в декларативные шаблоны с помощью AST
+    speaker: Александр Канунников
+    video:
+    presentation:
+  - name: "Хроники Node.js: сообщество и корпорации"
+    speaker: Николай Матвиенко
+    video:
+    presentation:
+  - name: Как делать быстро прототипы приложений на современных технологиях
+    speaker: Рустам Имайкин
+    video:
+    presentation:
+  - name: Автоматизируй это. Гиперавтоматизированный пайплайн
+    speaker: Алексей Золотых
+    video:
+    presentation:
+  - name: State of Vue (2k19 Q3)
+    speaker: Владимир Ульянов
+    video:
+    presentation:
+  - name: Holy War between Designers & Developers
+    speaker: Павел Юхнович
+    video:
+    presentation:
+  - name: Optimize the size of your SPA, битва за байты
+    speaker: Дмитрий Пацура
+    video:
+    presentation:
+  - name: "Как построить Гексагон: прагматичная архитектура для клиентских приложений"
+    speaker: Александр Мадьянкин
+    video:
+    presentation:

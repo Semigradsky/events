@@ -1,0 +1,16 @@
+name: PiterJS 41
+date: 2019-10-10
+videos: ''
+talks:
+  - name: React + SSR там, где их уже не ждали
+    speaker: Александр Зонов
+    video:
+    presentation:
+  - name: BDD e2e тестирование
+    speaker: Александр Иосса
+    video:
+    presentation:
+  - name: "Event-Driven Architecture: детали реализаций Event Loop"
+    speaker: Вадим Горбачев
+    video:
+    presentation:
