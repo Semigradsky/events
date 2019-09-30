@@ -24,6 +24,12 @@
 | [Куда растут библиотеки компонентов](https://www.youtube.com/watch?v=1utWz-CYiLU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=4)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
 | [Платформенная команда: пособие по применению](https://www.youtube.com/watch?v=Y61bQAfgW70&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=5)  |  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
 | [Панельная сессия: «Платформенные команды – сказка или реальность?»](https://www.youtube.com/watch?v=mEpwFo4R43w&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=6)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  [Денис Колесников](speakers/Денис%20Колесников.md)  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  [Алексей Попков](speakers/Алексей%20Попков.md)  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
+## PiterJS 40 - Aug 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4giWGkd7WSQ)
+| | | |
+| --- | :---: | --- |
+| [Презентация приложения для проведения презентаций](https://youtu.be/4giWGkd7WSQ?t=2282)  |  [Дмитрий Карловский](speakers/Дмитрий%20Карловский.md)  |    |
+| [Планета на WebGL](https://youtu.be/4giWGkd7WSQ?t=4609)  |  [Анна Волкова](speakers/Анна%20Волкова.md)  |    |
+| [Типы данных в CSS](https://youtu.be/4giWGkd7WSQ?t=7292)  |  [София Валитова](speakers/София%20Валитова.md)  |    |
 ## Rostov Angular meetup 1 - Aug 10 
 | | | |
 | --- | :---: | --- |

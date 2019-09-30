@@ -3,6 +3,12 @@
 
 # PiterJS
 
+## PiterJS 40 - 2019 Aug 16 [:movie_camera:](https://www.youtube.com/watch?v=4giWGkd7WSQ)
+| | | |
+| --- | :---: | --- |
+| [Презентация приложения для проведения презентаций](https://youtu.be/4giWGkd7WSQ?t=2282)  |  [Дмитрий Карловский](speakers/Дмитрий%20Карловский.md)  |    |
+| [Планета на WebGL](https://youtu.be/4giWGkd7WSQ?t=4609)  |  [Анна Волкова](speakers/Анна%20Волкова.md)  |    |
+| [Типы данных в CSS](https://youtu.be/4giWGkd7WSQ?t=7292)  |  [София Валитова](speakers/София%20Валитова.md)  |    |
 ## PiterJS 38 - 2019 Jun 20 [:movie_camera:](https://www.youtube.com/watch?v=dvQUCwj_20U)
 | | | |
 | --- | :---: | --- |
