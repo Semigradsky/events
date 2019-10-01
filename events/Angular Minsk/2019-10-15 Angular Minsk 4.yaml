@@ -1,0 +1,12 @@
+name: Angular Minsk 4
+date: 2019-10-15
+videos: ''
+talks:
+  - name: The nature of Service Workers and how to use them in Angular apps
+    speaker: Дмитрий Грачёв
+    video:
+    presentation:
+  - name: The functional nature of RxJS
+    speaker: Александр Рудый
+    video:
+    presentation:

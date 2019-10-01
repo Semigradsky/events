@@ -2,11 +2,11 @@ name: Angular Minsk 3
 date: 2019-09-17
 videos: ''
 talks:
-  - name: Angular Universal War Stories
+  - name: Angular Universal Wars
     speaker: Константин Маликов
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=GAKsNdK8Q9Q
+    presentation: https://drive.google.com/file/d/1LUixBgI6Q_syLBsdqMC5GZPtrZc1C6dn
   - name: Angular App Architecture and Project Structure for Scale
     speaker: Юрий Татенко
     video:
-    presentation:
+    presentation: https://docs.google.com/presentation/d/1Ar5kQ2zT-Sn6N6UlRbIoN1Kh15OEK60g-tZFsX4PXRQ
