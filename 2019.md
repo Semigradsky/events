@@ -3,6 +3,11 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Minsk 3 - Sep 17 
+| | | |
+| --- | :---: | --- |
+| [Angular Universal Wars](https://www.youtube.com/watch?v=GAKsNdK8Q9Q)  |  [Константин Маликов](speakers/Константин%20Маликов.md)  | [:notebook:](https://drive.google.com/file/d/1LUixBgI6Q_syLBsdqMC5GZPtrZc1C6dn)   |
+| Angular App Architecture and Project Structure for Scale  |  [Юрий Татенко](speakers/Юрий%20Татенко.md)  | [:notebook:](https://docs.google.com/presentation/d/1Ar5kQ2zT-Sn6N6UlRbIoN1Kh15OEK60g-tZFsX4PXRQ)   |
 ## AngularNYC meetup - Aug 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rse7-kzxetQ)
 | | | |
 | --- | :---: | --- |

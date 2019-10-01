@@ -3,6 +3,11 @@
 
 # Angular Minsk
 
+## Angular Minsk 3 - 2019 Sep 17 
+| | | |
+| --- | :---: | --- |
+| [Angular Universal Wars](https://www.youtube.com/watch?v=GAKsNdK8Q9Q)  |  [Константин Маликов](speakers/Константин%20Маликов.md)  | [:notebook:](https://drive.google.com/file/d/1LUixBgI6Q_syLBsdqMC5GZPtrZc1C6dn)   |
+| Angular App Architecture and Project Structure for Scale  |  [Юрий Татенко](speakers/Юрий%20Татенко.md)  | [:notebook:](https://docs.google.com/presentation/d/1Ar5kQ2zT-Sn6N6UlRbIoN1Kh15OEK60g-tZFsX4PXRQ)   |
 ## Angular Minsk 2 - 2019 Aug 06 
 | | | |
 | --- | :---: | --- |
