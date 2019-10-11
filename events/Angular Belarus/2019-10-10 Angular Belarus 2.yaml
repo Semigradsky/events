@@ -1,0 +1,12 @@
+name: Angular Belarus 2
+date: 2019-10-10
+videos: 
+talks:
+  - name: 10x developer. A bunch of cool tips for each programmer
+    speaker: Павел Юхнович
+    video: 
+    presentation: https://drive.google.com/file/d/1NEOoU5oB-AKlN5Gr8nbiGusq9hNaPHAa/view
+  - name: Angular Apps Architecture. Gentle introduction
+    speaker: Никита Полторацкий
+    video: 
+    presentation: https://slides.com/nikitapoltoratsky/angular-architecture#/

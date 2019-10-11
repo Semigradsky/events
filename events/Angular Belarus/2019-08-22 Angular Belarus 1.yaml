@@ -1,16 +1,16 @@
 name: Angular Belarus 1
 date: 2019-08-22
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLZSO8xkoeAOX_hd0xaLmFNuVd3PFhkxgg
 talks:
   - name: "Smells like Angular Spirit: NestJS as natural backend for Angular"
     speaker: Валентин Кононов
-    video:
+    video: https://www.youtube.com/watch?v=DNSwqq3jitc
     presentation: https://slides.com/valentinkononov/smells-like-angular-spirit
   - name: Rendering Angular applications in Terminal. Angular Platforms in-depth
     speaker: Никита Полторацкий
-    video:
+    video: https://www.youtube.com/watch?v=qFKBcit2psU
     presentation: https://slides.com/nikitapoltoratsky/rendering-angular-applications-in-terminal-2
   - name: "Angular PWA: Make Angular app great again"
     speaker: Ирина Бабровская
-    video:
+    video: https://www.youtube.com/watch?v=pgITHoKj5xQ
     presentation: https://make-angular-app-great-again.netlify.com/
