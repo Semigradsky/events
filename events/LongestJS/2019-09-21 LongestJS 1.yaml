@@ -4,5 +4,5 @@ videos: ''
 talks:
   - name: npm understand --with-improves
     speaker: Денис Колесников
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=Cz6bQw1f23s
+    presentation: http://longestjs.org/slides/01_LongestJS_Denis_Kolesnokiv_npm_understand.pdf
