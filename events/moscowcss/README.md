@@ -3,6 +3,19 @@
 
 # moscowcss
 
+## moscowcss 14 - 2019 Jul 25 [:movie_camera:](https://www.youtube.com/playlist?list=PLAf_MJ7SOshE2s8LfBL5kyKcXox-HzuVd)
+| | | |
+| --- | :---: | --- |
+| [Зачем учить учиться и учиться учить?](https://www.youtube.com/watch?v=_XczxtpLxQ0)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  | [:notebook:](https://drive.google.com/file/d/1fVloeMvYICP1ZJJzGcaYiYQbpKARCO3U/view)   |
+| [Жизненный цикл презентации и основные принципы её создания](https://www.youtube.com/watch?v=meEUD3v4Hq8)  |  [Мария Кутузова](speakers/Мария%20Кутузова.md)  | [:notebook:](https://drive.google.com/file/d/1X_7C7_XotFXO-bhTl5tX7rSuSxS6vTPp/view)   |
+| [CSS: время прощаться…](https://www.youtube.com/watch?v=CeDdgCDq86s)  |  [Андрей Яманов](speakers/Андрей%20Яманов.md)  | [:notebook:](https://drive.google.com/file/d/1ENY5eQTY_M0MMQbjlCPtrXx97QunIf5a/view)   |
+## moscowcss 13 - 2019 Jun 18 [:movie_camera:](https://www.youtube.com/playlist?list=PLAf_MJ7SOshF05Q_shkqneRqJHyfWk9bY)
+| | | |
+| --- | :---: | --- |
+| [«Почему именно я?», или Junior Frontend-разработчик глазами окружающих](https://www.youtube.com/watch?v=lrv_skRkmts)  |  [Ирина Фролова](speakers/Ирина%20Фролова.md)  |    |
+| [Старт дизайн-системы в небольшом продукте &#x2F; стартапе](https://www.youtube.com/watch?v=G6oPs4Fn3L4)  |  [Алиса Смелкова](speakers/Алиса%20Смелкова.md)  | [:notebook:](https://drive.google.com/file/d/1brhe-kIhYd8pR9T3N3c73zrXYpDArfhp/view)   |
+| [Скрываем фокус правильно](https://www.youtube.com/watch?v=O4B5N92hQSg)  |  [Александр Плесовских](speakers/Александр%20Плесовских.md)  | [:notebook:](https://drive.google.com/file/d/1Am6CLHL4ooWSpWmr7BSOAxZhBo4LJiAu/view)   |
+| [Как понять, что пора уволиться?](https://www.youtube.com/watch?v=_e5Rbl1i_js)  |  [Анастасия Калашникова](speakers/Анастасия%20Калашникова.md)  | [:notebook:](https://drive.google.com/file/d/16RB7uUNC4IYhUCpo2sZx9ElOAL9Hl3Vb/view)   |
 ## moscowcss 12 - 2019 May 14 [:movie_camera:](https://www.youtube.com/watch?v=LHOJybXuMdc)
 | | | |
 | --- | :---: | --- |

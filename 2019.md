@@ -3,6 +3,15 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Belarus 2 - Oct 10 
+| | | |
+| --- | :---: | --- |
+| 10x developer. A bunch of cool tips for each programmer  |  [Павел Юхнович](speakers/Павел%20Юхнович.md)  | [:notebook:](https://drive.google.com/file/d/1NEOoU5oB-AKlN5Gr8nbiGusq9hNaPHAa/view)   |
+| Angular Apps Architecture. Gentle introduction  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://slides.com/nikitapoltoratsky/angular-architecture#/)   |
+## LongestJS 1 - Sep 21 
+| | | |
+| --- | :---: | --- |
+| [npm understand --with-improves](https://www.youtube.com/watch?v=Cz6bQw1f23s)  |  [Денис Колесников](speakers/Денис%20Колесников.md)  | [:notebook:](http://longestjs.org/slides/01_LongestJS_Denis_Kolesnokiv_npm_understand.pdf)   |
 ## Angular Minsk 3 - Sep 17 
 | | | |
 | --- | :---: | --- |
@@ -14,12 +23,12 @@
 | [Angular worst practices](https://youtu.be/rse7-kzxetQ?t=1036) [en] |  [Juan Herrera](speakers/Juan%20Herrera.md)  |    |
 | [Building an Angular PWA: NGSW or Workbox?](https://youtu.be/rse7-kzxetQ?t=2932) [en] |  [Максим Сальников](speakers/Максим%20Сальников.md)  |    |
 | [What&#39;s new in the angular world](https://youtu.be/rse7-kzxetQ?t=6975) [en] |  [Kirill Cherkashin](speakers/Kirill%20Cherkashin.md)  |    |
-## Angular Belarus 1 - Aug 22 
+## Angular Belarus 1 - Aug 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLZSO8xkoeAOX_hd0xaLmFNuVd3PFhkxgg)
 | | | |
 | --- | :---: | --- |
-| Smells like Angular Spirit: NestJS as natural backend for Angular  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/smells-like-angular-spirit)   |
-| Rendering Angular applications in Terminal. Angular Platforms in-depth  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://slides.com/nikitapoltoratsky/rendering-angular-applications-in-terminal-2)   |
-| Angular PWA: Make Angular app great again  |  [Ирина Бабровская](speakers/Ирина%20Бабровская.md)  | [:notebook:](https://make-angular-app-great-again.netlify.com/)   |
+| [Smells like Angular Spirit: NestJS as natural backend for Angular](https://www.youtube.com/watch?v=DNSwqq3jitc)  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/smells-like-angular-spirit)   |
+| [Rendering Angular applications in Terminal. Angular Platforms in-depth](https://www.youtube.com/watch?v=qFKBcit2psU)  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://slides.com/nikitapoltoratsky/rendering-angular-applications-in-terminal-2)   |
+| [Angular PWA: Make Angular app great again](https://www.youtube.com/watch?v=pgITHoKj5xQ)  |  [Ирина Бабровская](speakers/Ирина%20Бабровская.md)  | [:notebook:](https://make-angular-app-great-again.netlify.com/)   |
 ## SPA Meetup 5 - Aug 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12)
 | | | |
 | --- | :---: | --- |
@@ -48,6 +57,12 @@
 | Modern e2e testing with Cypress.io  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  | [:notebook:](https://ilyaryabchinski.github.io/cypress-talk/)   |
 | Ivy and the future of the Angular compiler  |  [Роман Колесников](speakers/Роман%20Колесников.md)  | [:notebook:](https://docs.google.com/presentation/d/1uuCTnlr5a1V-E7htuqBlRwEY826RnS67fkqNKjT6B1k/edit?usp=sharing)   |
 | GraphQL and how to use it with Apollo Angular and Redux  |  [Дмитрий Грачёв](speakers/Дмитрий%20Грачёв.md)  | [:notebook:](https://docs.google.com/presentation/d/17jWAk3wIWgpGibr5j8TX9vSGZZvsA32zVPZujv4rooM/edit)   |
+## moscowcss 14 - Jul 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLAf_MJ7SOshE2s8LfBL5kyKcXox-HzuVd)
+| | | |
+| --- | :---: | --- |
+| [Зачем учить учиться и учиться учить?](https://www.youtube.com/watch?v=_XczxtpLxQ0)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  | [:notebook:](https://drive.google.com/file/d/1fVloeMvYICP1ZJJzGcaYiYQbpKARCO3U/view)   |
+| [Жизненный цикл презентации и основные принципы её создания](https://www.youtube.com/watch?v=meEUD3v4Hq8)  |  [Мария Кутузова](speakers/Мария%20Кутузова.md)  | [:notebook:](https://drive.google.com/file/d/1X_7C7_XotFXO-bhTl5tX7rSuSxS6vTPp/view)   |
+| [CSS: время прощаться…](https://www.youtube.com/watch?v=CeDdgCDq86s)  |  [Андрей Яманов](speakers/Андрей%20Яманов.md)  | [:notebook:](https://drive.google.com/file/d/1ENY5eQTY_M0MMQbjlCPtrXx97QunIf5a/view)   |
 ## Я.Субботник по разработке интерфейсов - Jul 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;1U4NrB9v9ZA)
 | | | |
 | --- | :---: | --- |
@@ -175,6 +190,13 @@
 | [i18n без боли](https://youtu.be/dvQUCwj_20U?t=685)  |  [Антон Ляпцев](speakers/Антон%20Ляпцев.md)  |    |
 | [Типизация Rest API](https://youtu.be/dvQUCwj_20U?t=3340)  |  [Максим Шкарбалюк](speakers/Максим%20Шкарбалюк.md)  |    |
 | [Качество кода: внедрение проверок в legacy](https://youtu.be/dvQUCwj_20U?t=6139)  |  [Алексей Щербаков](speakers/Алексей%20Щербаков.md)  |    |
+## moscowcss 13 - Jun 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLAf_MJ7SOshF05Q_shkqneRqJHyfWk9bY)
+| | | |
+| --- | :---: | --- |
+| [«Почему именно я?», или Junior Frontend-разработчик глазами окружающих](https://www.youtube.com/watch?v=lrv_skRkmts)  |  [Ирина Фролова](speakers/Ирина%20Фролова.md)  |    |
+| [Старт дизайн-системы в небольшом продукте &#x2F; стартапе](https://www.youtube.com/watch?v=G6oPs4Fn3L4)  |  [Алиса Смелкова](speakers/Алиса%20Смелкова.md)  | [:notebook:](https://drive.google.com/file/d/1brhe-kIhYd8pR9T3N3c73zrXYpDArfhp/view)   |
+| [Скрываем фокус правильно](https://www.youtube.com/watch?v=O4B5N92hQSg)  |  [Александр Плесовских](speakers/Александр%20Плесовских.md)  | [:notebook:](https://drive.google.com/file/d/1Am6CLHL4ooWSpWmr7BSOAxZhBo4LJiAu/view)   |
+| [Как понять, что пора уволиться?](https://www.youtube.com/watch?v=_e5Rbl1i_js)  |  [Анастасия Калашникова](speakers/Анастасия%20Калашникова.md)  | [:notebook:](https://drive.google.com/file/d/16RB7uUNC4IYhUCpo2sZx9ElOAL9Hl3Vb/view)   |
 ## Tver.io Girl Power Meetup - Jun 13 
 | | | |
 | --- | :---: | --- |
