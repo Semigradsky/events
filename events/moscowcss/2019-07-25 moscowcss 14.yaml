@@ -1,0 +1,16 @@
+name: moscowcss 14
+date: 2019-07-25
+videos: https://www.youtube.com/playlist?list=PLAf_MJ7SOshE2s8LfBL5kyKcXox-HzuVd
+talks:
+  - name: Зачем учить учиться и учиться учить?
+    speaker: Алексей Попков
+    video: https://www.youtube.com/watch?v=_XczxtpLxQ0
+    presentation: https://drive.google.com/file/d/1fVloeMvYICP1ZJJzGcaYiYQbpKARCO3U/view
+  - name: Жизненный цикл презентации и основные принципы её создания
+    speaker: Мария Кутузова
+    video: https://www.youtube.com/watch?v=meEUD3v4Hq8
+    presentation: https://drive.google.com/file/d/1X_7C7_XotFXO-bhTl5tX7rSuSxS6vTPp/view
+  - name: "CSS: время прощаться…"
+    speaker: Андрей Яманов
+    video: https://www.youtube.com/watch?v=CeDdgCDq86s
+    presentation: https://drive.google.com/file/d/1ENY5eQTY_M0MMQbjlCPtrXx97QunIf5a/view

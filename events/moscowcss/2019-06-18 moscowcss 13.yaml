@@ -1,20 +1,20 @@
 name: moscowcss 13
 date: 2019-06-18
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLAf_MJ7SOshF05Q_shkqneRqJHyfWk9bY
 talks:
   - name: «Почему именно я?», или Junior Frontend-разработчик глазами окружающих
     speaker: Ирина Фролова
-    video:
+    video: https://www.youtube.com/watch?v=lrv_skRkmts
     presentation:
-  - name:
-    speaker:
-    video:
-    presentation:
-  - name:
-    speaker:
-    video:
-    presentation:
-  - name:
-    speaker:
-    video:
-    presentation:
+  - name: Старт дизайн-системы в небольшом продукте / стартапе
+    speaker: Алиса Смелкова
+    video: https://www.youtube.com/watch?v=G6oPs4Fn3L4
+    presentation: https://drive.google.com/file/d/1brhe-kIhYd8pR9T3N3c73zrXYpDArfhp/view
+  - name: Скрываем фокус правильно
+    speaker: Александр Плесовских
+    video: https://www.youtube.com/watch?v=O4B5N92hQSg
+    presentation: https://drive.google.com/file/d/1Am6CLHL4ooWSpWmr7BSOAxZhBo4LJiAu/view
+  - name: Как понять, что пора уволиться?
+    speaker: Анастасия Калашникова
+    video: https://www.youtube.com/watch?v=_e5Rbl1i_js
+    presentation: https://drive.google.com/file/d/16RB7uUNC4IYhUCpo2sZx9ElOAL9Hl3Vb/view
