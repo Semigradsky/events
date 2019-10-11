@@ -3,13 +3,13 @@ link: 'https://meetup.tinkoff.ru/events/spb-angular-meetup-2'
 date: 2018-05-31
 talks:
   - name: "Андрей Советкин - Есть ли JavaScript без Angular?"
-    speaker: '?'
+    speaker: 'Unknown'
     video: https://youtu.be/pk6hu4lnzoE
   - name: "Мария Кононенко - Angular, Express, WebSocket и как сделать так, чтобы это всё работало"
-    speaker: '?'
+    speaker: 'Unknown'
     video: https://youtu.be/41yE3Gczgso
   - name: "Александр Коротаев - Коварные улыбки или Не Ангуляром единым"
-    speaker: '?'
+    speaker: 'Unknown'
     video: https://youtu.be/ckk_cBtq30U
     presentation: http://lekzd.ru/presentations/emoji/#
 

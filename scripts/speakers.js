@@ -55,7 +55,7 @@ async function writeAllSpeakers(groupedDataBySpeakers) {
         })
     }
 
-    const speakersByCount = speakers.filter(({ countTalks, speaker }) => countTalks > 1 && speaker !== '?')
+    const speakersByCount = speakers.filter(({ countTalks, speaker }) => countTalks > 1 && speaker !== 'Unknown')
 
     speakers.sort((s1, s2) => s1.speaker.localeCompare(s2.speaker))
     speakersByCount.sort((s1, s2) => {

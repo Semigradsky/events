@@ -34,7 +34,7 @@ talks:
     video: https://www.youtube.com/watch?v=eSNj97scLbc
     presentation:
   - name: Введение в архитектуру VIPER
-    speaker: '?'
+    speaker: 'Unknown'
     video: https://www.youtube.com/watch?v=d-aDhLv_mfo
   - name: Введение в Reactive programming под Android
     speaker: Тимофей

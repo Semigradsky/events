@@ -1,20 +1,10 @@
-name: "React Kyiv - Workshop \"TDD in React\""
+name: "React Kyiv - TDD in React [Workshop]"
 link: 'https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247392848/'
 date: 2018-03-10
+videos: https://www.youtube.com/playlist?list=PL4x5O16mMH3bLH5rJKCNNmT_pCFEbKKAR
 talks:
-  - name: "TDD in React workshop – Part I"
+  - name: "TDD in React workshop"
     speaker: Yaniv Efraim
-    video: https://youtu.be/ywCG8SN0Ci0
+    video: https://www.youtube.com/playlist?list=PL4x5O16mMH3bLH5rJKCNNmT_pCFEbKKAR
     code: 'https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example'
     lang: en
-  - name: "TDD in React workshop – Part II"
-    speaker: Yaniv Efraim
-    video: https://youtu.be/aQdCPumW5iY
-    code: 'https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example'
-    lang: en
-  - name: "TDD in React workshop – Part III"
-    speaker: Yaniv Efraim
-    video: https://youtu.be/b39M5yMkIkI
-    code: 'https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example'
-    lang: en
-

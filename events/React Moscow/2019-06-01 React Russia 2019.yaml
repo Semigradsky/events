@@ -23,7 +23,7 @@ talks:
     video: https://www.youtube.com/watch?v=Kz4KRsb3JfU&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=4&t=0s
     presentation:
   - name: Вебпак, вид сквозь монокль
-    speaker: Антон Кастриицкий
+    speaker: Антон Кастрицкий
     video: https://www.youtube.com/watch?v=WI7lB27ZslQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=10&t=0s
     presentation:
   - name: Как я преодолел "синдром Фронтендера" с React и Firebase

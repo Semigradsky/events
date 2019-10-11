@@ -3,24 +3,24 @@ date: 2019-03-23
 link: 'https://events.yandex.ru/events/yasubbotnik/23-03-2019/'
 talks:
   - name: Технологии во фронтенде Яндекса
-    speaker: '?'
+    speaker: 'Unknown'
     url: 'https://events.yandex.ru/lib/talks/7108/'
   - name: ШРИ — что внутри?
-    speaker: '?'
+    speaker: 'Unknown'
     url: 'https://events.yandex.ru/lib/talks/7109/'
   - name: Гарантия качества
-    speaker: '?'
+    speaker: 'Unknown'
     url: 'https://events.yandex.ru/lib/talks/7112/'
   - name: Модульный фронтенд
-    speaker: '?'
+    speaker: 'Unknown'
     url: 'https://events.yandex.ru/lib/talks/7113/'
   - name: 'Как не писать код самому: делегируем наши проблемы AST'
-    speaker: '?'
+    speaker: 'Unknown'
     url: 'https://events.yandex.ru/lib/talks/7105/'
   - name: 'Вебпак: вид через монокль'
-    speaker: '?'
+    speaker: 'Unknown'
     url: 'https://events.yandex.ru/lib/talks/7106/'
   - name: Про React-хуки
-    speaker: '?'
+    speaker: 'Unknown'
     url: 'https://events.yandex.ru/lib/talks/7110/'
 

@@ -62,7 +62,7 @@ talks:
     video: https://www.youtube.com/watch?v=TgFFsaETKrA
     lang: en
   - name: QA session
-    speaker: '?'
+    speaker: 'Unknown'
     video: https://www.youtube.com/watch?v=HCQkJQg-deo
     lang: en
   - name: Porting Web Application to Virtual Reality

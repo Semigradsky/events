@@ -3,7 +3,7 @@ date: 2019-03-02
 link: 'https://www.mera.ru/career/calendar/mutatsionnoe-testirovanie-i-vnedrenie-zavisimostei-v-veb-komponentakh'
 talks:
   - name: Мутационное тестирование
-    speaker: '?'
+    speaker: 'Unknown'
     presentation: https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf
   - name: Внедрение зависимостей в веб-компонентах
     speaker: Александр Волков

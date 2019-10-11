@@ -6,7 +6,7 @@ talks:
     speaker: Oleg Finka
     presentation: https://www.mera.ru/media/attachments/2018/06/04/js-essentials-p2-slides.pptx
   - name: "Angular и Typescript. Основы. Примеры."
-    speaker: '?'
+    speaker: 'Unknown'
     presentation: https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx
     tags:
       - TypeScript
