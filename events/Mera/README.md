@@ -6,7 +6,7 @@
 ## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - 2019 Mar 02 
 | | | |
 | --- | :---: | --- |
-| Мутационное тестирование  |  [?](speakers/?.md)  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)   |
+| Мутационное тестирование  |  [Unknown](speakers/Unknown.md)  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)   |
 | Внедрение зависимостей в веб-компонентах  |  [Александр Волков](speakers/Александр%20Волков.md)  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/dependency-injection-via-dom_yjApk29.pdf)   |
 ## Mera 29 - GraphQL - 2019 Feb 16 
 | | | |
@@ -23,7 +23,7 @@
 | | | |
 | --- | :---: | --- |
 | JS essentials (part2)  |  [Oleg Finka](speakers/Oleg%20Finka.md)  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/js-essentials-p2-slides.pptx)   |
-| Angular и Typescript. Основы. Примеры.  |  [?](speakers/?.md)  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx)   |
+| Angular и Typescript. Основы. Примеры.  |  [Unknown](speakers/Unknown.md)  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx)   |
 ## Mera 17 - Необычный Javascript - 2018 Mar 01 
 | | | |
 | --- | :---: | --- |

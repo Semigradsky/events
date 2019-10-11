@@ -23,10 +23,8 @@
 | [Facebook product Infrastructure](https://youtu.be/UNdJFEmKkJU)  |  [Alex Kotliarskyi](speakers/Alex%20Kotliarskyi.md)  |    |
 | [Brief Intro to Styled Components](https://youtu.be/BYxf3lRD0Q4)  |  [Dmitry Barabash](speakers/Dmitry%20Barabash.md)  |    |
 | [Dirty animations in the stateful world](https://youtu.be/bn3je3u-UIo)  |  [Alexey Taktarov](speakers/Alexey%20Taktarov.md)  | [:notebook:](http://molefrog.com/stateful-animations/) [:octocat:](https://github.com/molefrog/stateful-animations)  |
-| [Q&amp;A Panel – React Kyiv March](https://youtu.be/Vokq8ndgd5c)  |  [?](speakers/?.md)  |    |
-## React Kyiv - Workshop &quot;TDD in React&quot; - 2018 Mar 10 
+| [Q&amp;A Panel – React Kyiv March](https://youtu.be/Vokq8ndgd5c)  |  [Unknown](speakers/Unknown.md)  |    |
+## React Kyiv - TDD in React [Workshop] - 2018 Mar 10 [:movie_camera:](https://www.youtube.com/playlist?list=PL4x5O16mMH3bLH5rJKCNNmT_pCFEbKKAR)
 | | | |
 | --- | :---: | --- |
-| [TDD in React workshop – Part I](https://youtu.be/ywCG8SN0Ci0) [en] |  [Yaniv Efraim](speakers/Yaniv%20Efraim.md)  |  [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example)  |
-| [TDD in React workshop – Part II](https://youtu.be/aQdCPumW5iY) [en] |  [Yaniv Efraim](speakers/Yaniv%20Efraim.md)  |  [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example)  |
-| [TDD in React workshop – Part III](https://youtu.be/b39M5yMkIkI) [en] |  [Yaniv Efraim](speakers/Yaniv%20Efraim.md)  |  [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example)  |
+| [TDD in React workshop](https://www.youtube.com/playlist?list=PL4x5O16mMH3bLH5rJKCNNmT_pCFEbKKAR) [en] |  [Yaniv Efraim](speakers/Yaniv%20Efraim.md)  |  [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example)  |

@@ -92,7 +92,7 @@
 | [Flow, why should fall in love with it](https://www.youtube.com/watch?v=GEo3XIJw8HM) [en] |  [Илья Климов](speakers/Илья%20Климов.md)  |    |
 | [Advanced webpack](https://www.youtube.com/watch?v=sWzTtYKDCnE) [en] |  [Juho Vepsäläinen](speakers/Juho%20Vepsäläinen.md)  |    |
 | [Better Web Components with membranes](https://www.youtube.com/watch?v=TgFFsaETKrA) [en] |  [Aleksey Shvaika](speakers/Aleksey%20Shvaika.md)  |    |
-| [QA session](https://www.youtube.com/watch?v=HCQkJQg-deo) [en] |  [?](speakers/?.md)  |    |
+| [QA session](https://www.youtube.com/watch?v=HCQkJQg-deo) [en] |  [Unknown](speakers/Unknown.md)  |    |
 | [Porting Web Application to Virtual Reality](https://www.youtube.com/watch?v=Fen3AS7SAPk) [en] |  [Денис Радин](speakers/Денис%20Радин.md)  |    |
 | [Next](https://www.youtube.com/watch?v=Z37W65etPg4) [en] |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |
 | [Testing well. Stop shooting yourself in the foot.](https://www.youtube.com/watch?v=qNdHchzY-dQ)  |  [Max Onufriienko](speakers/Max%20Onufriienko.md)  |    |

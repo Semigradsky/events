@@ -11,7 +11,7 @@
 | [На вершине стиля](https://www.youtube.com/watch?v=edcRISVmMxY)  |  [Артур Кенжаев](speakers/Артур%20Кенжаев.md)  |    |
 | [Изолированная разработка - от дизайн-систем до сложных приложений](https://www.youtube.com/watch?v=m-dNun9XPPY&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=3&t=0s)  |  [Игорь Проскурин](speakers/Игорь%20Проскурин.md)  |    |
 | [Изоморфный React на микрофронтендах](https://www.youtube.com/watch?v=Kz4KRsb3JfU&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=4&t=0s)  |  [Роман Соколов](speakers/Роман%20Соколов.md)  |    |
-| [Вебпак, вид сквозь монокль](https://www.youtube.com/watch?v=WI7lB27ZslQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=10&t=0s)  |  [Антон Кастриицкий](speakers/Антон%20Кастриицкий.md)  |    |
+| [Вебпак, вид сквозь монокль](https://www.youtube.com/watch?v=WI7lB27ZslQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=10&t=0s)  |  [Антон Кастрицкий](speakers/Антон%20Кастрицкий.md)  |    |
 | [Как я преодолел &quot;синдром Фронтендера&quot; с React и Firebase](https://www.youtube.com/watch?v=Sd0_L4OxCsQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=5&t=0s)  |  [Илья Кузнецов](speakers/Илья%20Кузнецов.md)  |    |
 | [FP для бедных, или как я полюбил reduce](https://www.youtube.com/watch?v=dTjQXOjOJWs&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=11&t=0s)  |  [Василий Стяжкин](speakers/Василий%20Стяжкин.md)  |    |
 | [Микросервисный фронтенд](https://www.youtube.com/watch?v=A5zoWPRcn7Y&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=2&t=0s)  |  [Александр Китов](speakers/Александр%20Китов.md)  |    |

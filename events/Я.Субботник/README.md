@@ -26,13 +26,13 @@
 ## Я.Субботник по разработке интерфейсов - 2019 Mar 23 
 | | | |
 | --- | :---: | --- |
-| [Технологии во фронтенде Яндекса](https://events.yandex.ru/lib/talks/7108/)  |  [?](speakers/?.md)  |    |
-| [ШРИ — что внутри?](https://events.yandex.ru/lib/talks/7109/)  |  [?](speakers/?.md)  |    |
-| [Гарантия качества](https://events.yandex.ru/lib/talks/7112/)  |  [?](speakers/?.md)  |    |
-| [Модульный фронтенд](https://events.yandex.ru/lib/talks/7113/)  |  [?](speakers/?.md)  |    |
-| [Как не писать код самому: делегируем наши проблемы AST](https://events.yandex.ru/lib/talks/7105/)  |  [?](speakers/?.md)  |    |
-| [Вебпак: вид через монокль](https://events.yandex.ru/lib/talks/7106/)  |  [?](speakers/?.md)  |    |
-| [Про React-хуки](https://events.yandex.ru/lib/talks/7110/)  |  [?](speakers/?.md)  |    |
+| [Технологии во фронтенде Яндекса](https://events.yandex.ru/lib/talks/7108/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [ШРИ — что внутри?](https://events.yandex.ru/lib/talks/7109/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Гарантия качества](https://events.yandex.ru/lib/talks/7112/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Модульный фронтенд](https://events.yandex.ru/lib/talks/7113/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Как не писать код самому: делегируем наши проблемы AST](https://events.yandex.ru/lib/talks/7105/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Вебпак: вид через монокль](https://events.yandex.ru/lib/talks/7106/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Про React-хуки](https://events.yandex.ru/lib/talks/7110/)  |  [Unknown](speakers/Unknown.md)  |    |
 ## Я.Субботник по разработке интерфейсов - 2018 Nov 10 
 | | | |
 | --- | :---: | --- |
@@ -273,7 +273,7 @@
 | [Одностраничные приложения на БЭМ и Node.js](https://events.yandex.ru/lib/talks/840/)  |  [Евгений Филатов](speakers/Евгений%20Филатов.md)  |    |
 | [Яндекс.Поиск. Разработка интерфейсов в распределенной команде](https://events.yandex.ru/lib/talks/842/)  |  [Сергей Пузанков](speakers/Сергей%20Пузанков.md)  |    |
 | [Менеджмент кода, или Почему SCM](https://events.yandex.ru/lib/talks/844/)  |  [Сергей Сергеев](speakers/Сергей%20Сергеев.md)  |    |
-| [Вопросы и ответы](https://events.yandex.ru/lib/talks/845/)  |  [?](speakers/?.md)  |    |
+| [Вопросы и ответы](https://events.yandex.ru/lib/talks/845/)  |  [Unknown](speakers/Unknown.md)  |    |
 ## Я.Субботник по фронтенду - 2013 Apr 06 
 | | | |
 | --- | :---: | --- |
@@ -287,7 +287,7 @@
 | [Инкрементальные обновления на клиенте. Ловкость рук и никакой магии](https://events.yandex.ru/lib/talks/774/)  |  [Алексей Андросов](speakers/Алексей%20Андросов.md)  |    |
 | [Что помогает нам писать качественный JavaScript-код?](https://events.yandex.ru/lib/talks/695/)  |  [Дмитрий Щадей](speakers/Дмитрий%20Щадей.md)  |    |
 | [Тестирование фронтенда с HtmlElements: разработка быстрее, поддержка – проще](https://events.yandex.ru/lib/talks/696/)  |  [Артём Кошелев](speakers/Артём%20Кошелев.md)  |    |
-| [Вопросы и ответы](https://events.yandex.ru/lib/talks/697/)  |  [?](speakers/?.md)  |    |
+| [Вопросы и ответы](https://events.yandex.ru/lib/talks/697/)  |  [Unknown](speakers/Unknown.md)  |    |
 ## Я.Субботник - 2012 Dec 01 
 | | | |
 | --- | :---: | --- |

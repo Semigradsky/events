@@ -25,7 +25,7 @@
 | | | |
 | --- | :---: | --- |
 | [ThemeForest: Как пробиться и стоит ли игра свеч?](https://youtu.be/2hXgLQ2MloA)  |  [Роман Пшеничный](speakers/Роман%20Пшеничный.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/themeforest-odessafrontend-meetup-9)   |
-| [Да что такого в этом Vue.js?](https://youtu.be/_UUDoSbbuT0)  |  [?](speakers/?.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9)   |
+| [Да что такого в этом Vue.js?](https://youtu.be/_UUDoSbbuT0)  |  [Unknown](speakers/Unknown.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9)   |
 | [Back to Basics — Как подружить верстку с логикой?](https://youtu.be/m1TUU-OYK2s)  |  [Константин Кулаксыз](speakers/Константин%20Кулаксыз.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/back-to-basics-odessafrontend-meetup-9)   |
 ## OdessaFrontend Meetup 8 - 2018 Oct 18 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0thXe7oZUh_Imwd2oBCE1eu)
 | | | |

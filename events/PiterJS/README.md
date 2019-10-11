@@ -20,7 +20,7 @@
 | --- | :---: | --- |
 | [Как правильно обучаться в большом потоке информации](https://youtu.be/-JNxSFx-aOg?t=448)  |  [Николай Шабалин](speakers/Николай%20Шабалин.md)  |    |
 | [Ember: Мифы](https://youtu.be/-JNxSFx-aOg?t=3527)  |  [Александр Канунников](speakers/Александр%20Канунников.md)  |    |
-| Доклад-сюрприз  |  [?](speakers/?.md)  |    |
+| Доклад-сюрприз  |  [Unknown](speakers/Unknown.md)  |    |
 ## PiterJS Tour 1 - 2019 Apr 26 [:movie_camera:](https://www.youtube.com/watch?v=MueYSY2ZO4Y)
 | | | |
 | --- | :---: | --- |
@@ -93,8 +93,8 @@
 | --- | :---: | --- |
 | [Web Components для практичных людей](https://youtu.be/OVQCN_bUkZM)  |  [Артём Пендюрин](speakers/Артём%20Пендюрин.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/23/web-components.pdf)   |
 | [Зависимости в приложении](https://youtu.be/xtcwpACFtKc)  |  [Евгений Щепотьев](speakers/Евгений%20Щепотьев.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/23/deps.pdf)   |
-| [PiterJS #23 - Дебаты 1 часть](https://youtu.be/vJ-4TUKmMr8)  |  [?](speakers/?.md)  |    |
-| [PiterJS #23 - Дебаты 2 часть](https://youtu.be/mTHMKWxjo8E)  |  [?](speakers/?.md)  |    |
+| [PiterJS #23 - Дебаты 1 часть](https://youtu.be/vJ-4TUKmMr8)  |  [Unknown](speakers/Unknown.md)  |    |
+| [PiterJS #23 - Дебаты 2 часть](https://youtu.be/mTHMKWxjo8E)  |  [Unknown](speakers/Unknown.md)  |    |
 ## PiterJS 22 - 2018 Feb 15 
 | | | |
 | --- | :---: | --- |
@@ -155,7 +155,7 @@
 | | | |
 | --- | :---: | --- |
 | [Нужен ли мне TypeScript?](https://www.youtube.com/watch?v=0lu3WYLW4ps)  |  [Александр Баумгертнер](speakers/Александр%20Баумгертнер.md)  | [:notebook:](https://easy-deep-learning.github.io/types-sugar-in-javascript/)   |
-| Re-imagining webpack [?] |  [Andrey Gurylev Juho Vepsäläinen](speakers/Andrey%20Gurylev%20Juho%20Vepsäläinen.md)  |    |
+| Re-imagining webpack [Unknown] |  [Andrey Gurylev Juho Vepsäläinen](speakers/Andrey%20Gurylev%20Juho%20Vepsäläinen.md)  |    |
 | Документация кода в JS  |  [Вадим Горбачев](speakers/Вадим%20Горбачев.md)  |    |
 ## PiterJS 12 - 2017 Feb 09 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxivzOLgC98hYjyCYDFghxzU)
 | | | |

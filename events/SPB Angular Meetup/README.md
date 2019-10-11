@@ -6,9 +6,9 @@
 ## SPB Angular Meetup 2 - 2018 May 31 
 | | | |
 | --- | :---: | --- |
-| [Андрей Советкин - Есть ли JavaScript без Angular?](https://youtu.be/pk6hu4lnzoE)  |  [?](speakers/?.md)  |    |
-| [Мария Кононенко - Angular, Express, WebSocket и как сделать так, чтобы это всё работало](https://youtu.be/41yE3Gczgso)  |  [?](speakers/?.md)  |    |
-| [Александр Коротаев - Коварные улыбки или Не Ангуляром единым](https://youtu.be/ckk_cBtq30U)  |  [?](speakers/?.md)  | [:notebook:](http://lekzd.ru/presentations/emoji/#)   |
+| [Андрей Советкин - Есть ли JavaScript без Angular?](https://youtu.be/pk6hu4lnzoE)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Мария Кононенко - Angular, Express, WebSocket и как сделать так, чтобы это всё работало](https://youtu.be/41yE3Gczgso)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Александр Коротаев - Коварные улыбки или Не Ангуляром единым](https://youtu.be/ckk_cBtq30U)  |  [Unknown](speakers/Unknown.md)  | [:notebook:](http://lekzd.ru/presentations/emoji/#)   |
 ## SPB Angular Meetup - 2018 Mar 22 
 | | | |
 | --- | :---: | --- |

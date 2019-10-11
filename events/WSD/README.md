@@ -455,7 +455,7 @@
 | [CSS-менеджмент. Три года спустя](https://www.youtube.com/watch?v=F_n_aSF1Y50)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://wsd.events/2010/05/22/pres/css-management/)   |
 | Средства для разработчиков — какое вкуснее?  |  [Михаил Баранов](speakers/Михаил%20Баранов.md)  | [:notebook:](https://wsd.events/2010/05/22/pres/extensions.pdf)   |
 | Lean Startup. От идеи до миллиона  |  [Максим Берёза](speakers/Максим%20Берёза.md)  | [:notebook:](https://wsd.events/2010/05/22/pres/lean-startup.pdf)   |
-| Круглый стол «Веб-стандарты vs. Rich Internet Applications»  |  [?](speakers/?.md)  |    |
+| Круглый стол «Веб-стандарты vs. Rich Internet Applications»  |  [Unknown](speakers/Unknown.md)  |    |
 ## WSD 2009 - Минск - 2009 Nov 28 
 | | | |
 | --- | :---: | --- |

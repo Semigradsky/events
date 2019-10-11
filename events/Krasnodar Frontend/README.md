@@ -79,5 +79,5 @@
 | [a11y. Доступно о доступности](https://www.youtube.com/watch?v=k_tPPP6kb7I)  |  [Николай Марченко](speakers/Николай%20Марченко.md)  | [:notebook:](http://neonick.ru/a11y-2016.pdf)   |
 | [Фантастические технологии и где они обитают](https://www.youtube.com/watch?v=Q5Dt-VZktHA)  |  [Павел Орлов](speakers/Павел%20Орлов.md)  | [:notebook:](https://www.slideshare.net/PavelOrlov8/ss-70068486)   |
 | [&quot;Swift&quot; или как программировать мышкой](https://www.youtube.com/watch?v=eSNj97scLbc)  |  [Герман Поляцкий](speakers/Герман%20Поляцкий.md)  |    |
-| [Введение в архитектуру VIPER](https://www.youtube.com/watch?v=d-aDhLv_mfo)  |  [?](speakers/?.md)  |    |
+| [Введение в архитектуру VIPER](https://www.youtube.com/watch?v=d-aDhLv_mfo)  |  [Unknown](speakers/Unknown.md)  |    |
 | [Введение в Reactive programming под Android](https://www.youtube.com/watch?v=EaBKD9xi3IA)  |  [Тимофей](speakers/Тимофей.md)  |    |

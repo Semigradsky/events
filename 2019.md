@@ -199,7 +199,7 @@
 | [На вершине стиля](https://www.youtube.com/watch?v=edcRISVmMxY)  |  [Артур Кенжаев](speakers/Артур%20Кенжаев.md)  |    |
 | [Изолированная разработка - от дизайн-систем до сложных приложений](https://www.youtube.com/watch?v=m-dNun9XPPY&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=3&t=0s)  |  [Игорь Проскурин](speakers/Игорь%20Проскурин.md)  |    |
 | [Изоморфный React на микрофронтендах](https://www.youtube.com/watch?v=Kz4KRsb3JfU&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=4&t=0s)  |  [Роман Соколов](speakers/Роман%20Соколов.md)  |    |
-| [Вебпак, вид сквозь монокль](https://www.youtube.com/watch?v=WI7lB27ZslQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=10&t=0s)  |  [Антон Кастриицкий](speakers/Антон%20Кастриицкий.md)  |    |
+| [Вебпак, вид сквозь монокль](https://www.youtube.com/watch?v=WI7lB27ZslQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=10&t=0s)  |  [Антон Кастрицкий](speakers/Антон%20Кастрицкий.md)  |    |
 | [Как я преодолел &quot;синдром Фронтендера&quot; с React и Firebase](https://www.youtube.com/watch?v=Sd0_L4OxCsQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=5&t=0s)  |  [Илья Кузнецов](speakers/Илья%20Кузнецов.md)  |    |
 | [FP для бедных, или как я полюбил reduce](https://www.youtube.com/watch?v=dTjQXOjOJWs&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=11&t=0s)  |  [Василий Стяжкин](speakers/Василий%20Стяжкин.md)  |    |
 | [Микросервисный фронтенд](https://www.youtube.com/watch?v=A5zoWPRcn7Y&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=2&t=0s)  |  [Александр Китов](speakers/Александр%20Китов.md)  |    |
@@ -266,7 +266,7 @@
 | --- | :---: | --- |
 | [Как правильно обучаться в большом потоке информации](https://youtu.be/-JNxSFx-aOg?t=448)  |  [Николай Шабалин](speakers/Николай%20Шабалин.md)  |    |
 | [Ember: Мифы](https://youtu.be/-JNxSFx-aOg?t=3527)  |  [Александр Канунников](speakers/Александр%20Канунников.md)  |    |
-| Доклад-сюрприз  |  [?](speakers/?.md)  |    |
+| Доклад-сюрприз  |  [Unknown](speakers/Unknown.md)  |    |
 ## OdessaFrontend Meetup 12 - May 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0tXnthiyjZYqQgowaH-YnwD)
 | | | |
 | --- | :---: | --- |
@@ -416,13 +416,13 @@
 ## Я.Субботник по разработке интерфейсов - Mar 23 
 | | | |
 | --- | :---: | --- |
-| [Технологии во фронтенде Яндекса](https://events.yandex.ru/lib/talks/7108/)  |  [?](speakers/?.md)  |    |
-| [ШРИ — что внутри?](https://events.yandex.ru/lib/talks/7109/)  |  [?](speakers/?.md)  |    |
-| [Гарантия качества](https://events.yandex.ru/lib/talks/7112/)  |  [?](speakers/?.md)  |    |
-| [Модульный фронтенд](https://events.yandex.ru/lib/talks/7113/)  |  [?](speakers/?.md)  |    |
-| [Как не писать код самому: делегируем наши проблемы AST](https://events.yandex.ru/lib/talks/7105/)  |  [?](speakers/?.md)  |    |
-| [Вебпак: вид через монокль](https://events.yandex.ru/lib/talks/7106/)  |  [?](speakers/?.md)  |    |
-| [Про React-хуки](https://events.yandex.ru/lib/talks/7110/)  |  [?](speakers/?.md)  |    |
+| [Технологии во фронтенде Яндекса](https://events.yandex.ru/lib/talks/7108/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [ШРИ — что внутри?](https://events.yandex.ru/lib/talks/7109/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Гарантия качества](https://events.yandex.ru/lib/talks/7112/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Модульный фронтенд](https://events.yandex.ru/lib/talks/7113/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Как не писать код самому: делегируем наши проблемы AST](https://events.yandex.ru/lib/talks/7105/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Вебпак: вид через монокль](https://events.yandex.ru/lib/talks/7106/)  |  [Unknown](speakers/Unknown.md)  |    |
+| [Про React-хуки](https://events.yandex.ru/lib/talks/7110/)  |  [Unknown](speakers/Unknown.md)  |    |
 ## WebDev Meetup 9 - Mar 23 
 | | | |
 | --- | :---: | --- |
@@ -501,7 +501,7 @@
 ## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - Mar 02 
 | | | |
 | --- | :---: | --- |
-| Мутационное тестирование  |  [?](speakers/?.md)  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)   |
+| Мутационное тестирование  |  [Unknown](speakers/Unknown.md)  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)   |
 | Внедрение зависимостей в веб-компонентах  |  [Александр Волков](speakers/Александр%20Волков.md)  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/dependency-injection-via-dom_yjApk29.pdf)   |
 ## JSNN 12 - Mar 02 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLY-gw0IiDtxpNTfxGt2Wn-8vQDzHTf4l1)
 | | | |

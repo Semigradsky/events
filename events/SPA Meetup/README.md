@@ -18,7 +18,7 @@
 | [Архитектура фронтенда крупного проекта, как она есть](https://youtu.be/J08UOAJdjWc)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  | [:notebook:](https://rubaxa.github.io/octavius/2017/avito.html#)   |
 | [Атомарные SPA](https://youtu.be/pkHWttaktWk)  |  [Александр Китов](speakers/Александр%20Китов.md)  | [:notebook:](https://www.icloud.com/keynote/0nE1tZ3A33I0xIVROIToxF0Eg#Avito_04.2018)   |
 | [Масштабируемая архитектура фронтенда](https://youtu.be/z9y6PNC2FL0)  |  [Роман Дворнов](speakers/Роман%20Дворнов.md)  | [:notebook:](https://speakerdeck.com/avitotech/masshtabiruiemaia-arkhitiektura-frontienda-roman-dvornov-avito)   |
-| [Дискуссионная панель &quot;SPA сегодня — каким оно должно быть?&quot;](https://youtu.be/BezEWFL5WKk)  |  [?](speakers/?.md)  |    |
+| [Дискуссионная панель &quot;SPA сегодня — каким оно должно быть?&quot;](https://youtu.be/BezEWFL5WKk)  |  [Unknown](speakers/Unknown.md)  |    |
 ## SPA Meetup 3 - 2017 Apr 08 [:movie_camera:](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHl50Q_aHQ9RCRdRf5a3NrP)
 | | | |
 | --- | :---: | --- |

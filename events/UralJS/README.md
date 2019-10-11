@@ -35,7 +35,7 @@
 | [Интернационализация приложений и gettext​](https://www.youtube.com/watch?v=UIUXbzk273s)  |  [Илья Сухоплюев](speakers/Илья%20Сухоплюев.md)  | [:notebook:](https://docs.google.com/presentation/d/1eZlUdFqDwNtLSDDY2ksaSDYYDCh7UkRh_qcvedow2hI)   |
 | [Декораторы в JS](https://www.youtube.com/watch?v=qRlMzRcToNE)  |  [Владимир Санников](speakers/Владимир%20Санников.md)  | [:notebook:](http://slides.com/vhaldemario/jsdecorators#/)   |
 | [React-DnD](https://www.youtube.com/watch?v=amhSyi_NQ4s)  |  [Теймураз Хазамов](speakers/Теймураз%20Хазамов.md)  | [:notebook:](https://slides.com/t1mmaas/react-dnd/)   |
-| [Открытый микрофон](https://www.youtube.com/watch?v=dz4I39TrvGs)  |  [?](speakers/?.md)  |    |
+| [Открытый микрофон](https://www.youtube.com/watch?v=dz4I39TrvGs)  |  [Unknown](speakers/Unknown.md)  |    |
 ## UralJS 4 - 2017 Jul 02 [:movie_camera:](https://www.youtube.com/playlist?list=PLVxsRDo37_ZfbNk4jDu5eXJINyLCWiXmE)
 | | | |
 | --- | :---: | --- |
@@ -48,7 +48,7 @@
 | [Фантастический WebAudio и где его искать](https://www.youtube.com/watch?v=EXX5HmD_5lU)  |  [Максим Сырых](speakers/Максим%20Сырых.md)  | [:notebook:](https://slogger.github.io/webaudio-uraljs/)   |
 | [Трудности перехода](https://www.youtube.com/watch?v=O-GBvIrKEA0)  |  [Вячеслав Бухарин](speakers/Вячеслав%20Бухарин.md)  [Денис Омельков](speakers/Денис%20Омельков.md)  | [:notebook:](http://slides.com/denisomelkov/deck/)   |
 | [Как перестать бояться и использовать Vue.js](https://www.youtube.com/watch?v=r45EorOK7MA)  |  [Владислав Килин](speakers/Владислав%20Килин.md)  | [:notebook:](https://drive.google.com/file/d/0B5Ws8A4Wj25DZUFad2ZFUHV4RWM/view?usp=sharing)   |
-| [Открытый микрофон](https://www.youtube.com/watch?v=0JOsoNzi6KY)  |  [?](speakers/?.md)  |    |
+| [Открытый микрофон](https://www.youtube.com/watch?v=0JOsoNzi6KY)  |  [Unknown](speakers/Unknown.md)  |    |
 ## UralJS 2 - 2017 Feb 13 [:movie_camera:](https://www.youtube.com/playlist?list=PLVxsRDo37_ZfqxewKTTSYwpeUarJMmIql)
 | | | |
 | --- | :---: | --- |
