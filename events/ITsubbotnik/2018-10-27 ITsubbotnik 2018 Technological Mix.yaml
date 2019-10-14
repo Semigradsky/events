@@ -1,0 +1,20 @@
+name: ITsubbotnik 2018 Technological Mix
+date: 2018-10-27
+videos: https://www.youtube.com/playlist?list=PLKZ-qTShAAPxQ-MlX_R0dN2MmnRW5N1c6
+talks:
+  - name: Модульный React-проект на практике
+    speaker: Андрей Парамошкин
+    video: https://www.youtube.com/watch?v=FTBPBY6sad0
+    presentation: 
+  - name: Cache it right
+    speaker: Семён Целищев
+    video: https://www.youtube.com/watch?v=BKehOPPDIGk
+    presentation: 
+  - name: Event loop в Node.js
+    speaker: Сергей Аванесян
+    video: https://www.youtube.com/watch?v=7f787SsgknA
+    presentation: 
+  - name: Пора убить lifecycle!
+    speaker: Александр Шушунов
+    video: https://www.youtube.com/watch?v=ybu9BlEKS9c
+    presentation: 

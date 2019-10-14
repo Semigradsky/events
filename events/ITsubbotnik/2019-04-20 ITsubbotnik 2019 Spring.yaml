@@ -1,0 +1,20 @@
+name: ITsubbotnik 2019 Spring
+date: 2019-04-20
+videos: https://www.youtube.com/playlist?list=PLKZ-qTShAAPyf99Q0h5tLAAVTvqLFooaN
+talks:
+  - name: Ещё один взгляд на типы
+    speaker: Сергей Якименко
+    video: https://www.youtube.com/watch?v=mPDKg-ApY5E
+    presentation: 
+  - name: Оптимизация производительности. Техники для React-приложений
+    speaker: Сергей Набоков
+    video: https://www.youtube.com/watch?v=1NVjJBrG4gQ
+    presentation: 
+  - name: Первый взгляд на Svelte
+    speaker: Александр Шушунов
+    video: https://www.youtube.com/watch?v=zn0aNihceDk
+    presentation: 
+  - name: Machine learning в JavaScript. Библиотеки и решения
+    speaker: Максим Северухин
+    video: https://www.youtube.com/watch?v=GzPpc6TAS5A
+    presentation: 
