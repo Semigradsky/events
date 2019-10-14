@@ -1,0 +1,36 @@
+name: DUMP КАЗАНЬ 2019
+date: 2019-11-08
+videos: 
+talks:
+  - name: Кровь, пот, микрофронтенды и монолит
+    speaker: Денис Колесников
+    video: 
+    presentation: 
+  - name: (не)идеальные картинки и другая пиксельная магия
+    speaker: Полина Гуртовая
+    video: 
+    presentation: 
+  - name: Как мы монорепозитировали это
+    speaker: Иван Ботанов
+    video: 
+    presentation: 
+  - name: State of SvelteJS
+    speaker: Павел Малышев
+    video: 
+    presentation: 
+  - name: Видео в вебе от Flash до MSE или как написать свой видеоплеер
+    speaker: Алексей Гусев
+    video: 
+    presentation: 
+  - name: Тестируем интерфейсы в Web
+    speaker: Альберт Файзуллин
+    video: 
+    presentation: 
+  - name: Введение в машинное обучение для фронтенд-разработчика
+    speaker: Максим Северухин
+    video: 
+    presentation: 
+  - name: Эволюция отрисовки текста на Canvas. Про Flash, IE 11, дизайнеров и клинопись
+    speaker: Андрей Чураков
+    video: 
+    presentation: 

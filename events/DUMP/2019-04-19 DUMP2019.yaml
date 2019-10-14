@@ -1,0 +1,36 @@
+name: DUMP2019
+date: 2019-04-19
+videos: https://www.youtube.com/playlist?list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb
+talks:
+  - name: Как внедрить стандарты разработки, чтобы никто не пострадал
+    speaker: Александра Шинкевич
+    video: https://www.youtube.com/watch?v=t7wA0ABNxY0&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=2&t=0s
+    presentation: 
+  - name: React Native vs Cordova Альтернативный взгляд на мобильную разработку
+    speaker: Артём Кузвесов
+    video: https://www.youtube.com/watch?v=sNjef7hhd1o&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=2
+    presentation: 
+  - name: Реактивное программирование. Как мыслить реактивно, а не проактивно
+    speaker: Виталий Дмитриев
+    video: https://www.youtube.com/watch?v=8bM4j-BePeM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=3
+    presentation: 
+  - name: Angular Elements
+    speaker: Сергей Цветков
+    video: https://www.youtube.com/watch?v=uuQ7V0bFcxE&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=4
+    presentation: 
+  - name: Эффективное тестирование FE проектов
+    speaker: Максим Соснов
+    video: https://www.youtube.com/watch?v=sgLvPkkG2ok&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=5
+    presentation: 
+  - name: Поддержка API Как развивать продукт и прекратить кормить динозавров
+    speaker: Александр Иосса
+    video: https://www.youtube.com/watch?v=5tQyvZAoI-E&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=6
+    presentation: 
+  - name: WebGL и 2D простой как Web
+    speaker: Александр Коротаев
+    video: https://www.youtube.com/watch?v=PKNrhSe7ATM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=7
+    presentation: 
+  - name: Делайте из слона муху
+    speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=NCLMjGHePsQ&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=8
+    presentation: 
