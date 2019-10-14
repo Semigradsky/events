@@ -1,0 +1,28 @@
+name: Юбилейный Я.Субботник по разработке интерфейсов
+date: 2019-10-26
+videos: 
+talks:
+  - name: История развития фронтенда в Яндексе за 10 лет
+    speaker: Владимир Гриненко
+    video: 
+    presentation: 
+  - name: Эксперименты на людях
+    speaker: Антон Виноградов
+    video: 
+    presentation: 
+  - name: <⁣a⁣>
+    speaker: Никита Дубко
+    video: 
+    presentation: 
+  - name: await video.play(). Как мы начали раздавать ES2017 в продакшене
+    speaker: Максим Сысоев
+    video: 
+    presentation: 
+  - name: Кодовые войны. Атака клонов
+    speaker: Никита Сидоров
+    video: 
+    presentation: 
+  - name: Мониторинг и повышение стабильности загрузки веб-сервисов
+    speaker: Юрий Пузыня
+    video: 
+    presentation: 
