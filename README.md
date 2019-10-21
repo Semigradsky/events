@@ -3,6 +3,17 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## WSD 2019 - Екатеринбург - Oct 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;DsfnFrwKksA)
+| | | |
+| --- | :---: | --- |
+| [Как проверка UX поможет разработчику жить проще?](https://www.youtube.com/watch?v=DsfnFrwKksA&t=2155s)  |  [Сергей Свердлов](speakers/Сергей%20Свердлов.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/ux-testing.pdf)   |
+| [Гарри Поттер и скриншотные тесты](https://www.youtube.com/watch?v=DsfnFrwKksA&t=4337s)  |  [Дмитрий Лазарев](speakers/Дмитрий%20Лазарев.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/screenshot-test/)   |
+| [_ ___ ______?](https://www.youtube.com/watch?v=DsfnFrwKksA&t=8132s)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/where-are-fonts/)   |
+| [Программисты, которые играют в игры](https://www.youtube.com/watch?v=DsfnFrwKksA&t=10702s)  |  [Вероника Самохина](speakers/Вероника%20Самохина.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/programmer-games/)   |
+| [Священный грааль: запуск React в Java](https://www.youtube.com/watch?v=DsfnFrwKksA&t=18324s)  |  [Олег Коровин](speakers/Олег%20Коровин.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/react-java.pdf)   |
+| [Жизнь до Runtime](https://www.youtube.com/watch?v=DsfnFrwKksA&t=20748s)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/before-runtime.pdf)   |
+| [Понимание как основа устойчивости к ошибкам](https://www.youtube.com/watch?v=DsfnFrwKksA&t=24261s)  |  [Мария Гришкевич](speakers/Мария%20Гришкевич.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/error-proof/)   |
+| [Как написать поддержку фреймворка?](https://www.youtube.com/watch?v=DsfnFrwKksA&t=26530s)  |  [Андрей Старовойт](speakers/Андрей%20Старовойт.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/framework-ide.pdf)   |
 ## Angular Belarus 2 - Oct 10 
 | | | |
 | --- | :---: | --- |
