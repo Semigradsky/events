@@ -1,4 +1,36 @@
 name: WSD 2019 - Екатеринбург
 date: 2019-10-19
-videos: ''
-talks: []
+videos: https://www.youtube.com/watch?v=DsfnFrwKksA
+talks:
+  - name: Как проверка UX поможет разработчику жить проще?
+    speaker: Сергей Свердлов
+    video: https://www.youtube.com/watch?v=DsfnFrwKksA&t=2155s
+    presentation: https://wsd.events/2019/10/19/pres/ux-testing.pdf
+  - name: Гарри Поттер и скриншотные тесты
+    speaker: Дмитрий Лазарев
+    video: https://www.youtube.com/watch?v=DsfnFrwKksA&t=4337s
+    presentation: https://wsd.events/2019/10/19/pres/screenshot-test/
+  - name: '_ ___ ______?'
+    speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=DsfnFrwKksA&t=8132s
+    presentation: https://wsd.events/2019/10/19/pres/where-are-fonts/
+  - name: Программисты, которые играют в игры
+    speaker: Вероника Самохина
+    video: https://www.youtube.com/watch?v=DsfnFrwKksA&t=10702s
+    presentation: https://wsd.events/2019/10/19/pres/programmer-games/
+  - name: "Священный грааль: запуск React в Java"
+    speaker: Олег Коровин
+    video: https://www.youtube.com/watch?v=DsfnFrwKksA&t=18324s
+    presentation: https://wsd.events/2019/10/19/pres/react-java.pdf
+  - name: Жизнь до Runtime
+    speaker: Никита Сидоров
+    video: https://www.youtube.com/watch?v=DsfnFrwKksA&t=20748s
+    presentation: https://wsd.events/2019/10/19/pres/before-runtime.pdf
+  - name: Понимание как основа устойчивости к ошибкам
+    speaker: Мария Гришкевич
+    video: https://www.youtube.com/watch?v=DsfnFrwKksA&t=24261s
+    presentation: https://wsd.events/2019/10/19/pres/error-proof/
+  - name: Как написать поддержку фреймворка?
+    speaker: Андрей Старовойт
+    video: https://www.youtube.com/watch?v=DsfnFrwKksA&t=26530s
+    presentation: https://wsd.events/2019/10/19/pres/framework-ide.pdf
