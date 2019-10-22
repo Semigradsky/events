@@ -14,6 +14,12 @@
 | [Жизнь до Runtime](https://www.youtube.com/watch?v=DsfnFrwKksA&t=20748s)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/before-runtime.pdf)   |
 | [Понимание как основа устойчивости к ошибкам](https://www.youtube.com/watch?v=DsfnFrwKksA&t=24261s)  |  [Мария Гришкевич](speakers/Мария%20Гришкевич.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/error-proof/)   |
 | [Как написать поддержку фреймворка?](https://www.youtube.com/watch?v=DsfnFrwKksA&t=26530s)  |  [Андрей Старовойт](speakers/Андрей%20Старовойт.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/framework-ide.pdf)   |
+## PiterJS 41 - Oct 10 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;J0RLSBGorMY)
+| | | |
+| --- | :---: | --- |
+| [React + SSR там, где их уже не ждали](https://youtu.be/J0RLSBGorMY?t=650)  |  [Александр Зонов](speakers/Александр%20Зонов.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=react-ssr-wat.pdf)   |
+| [BDD e2e тестирование](https://youtu.be/J0RLSBGorMY?t=3647)  |  [Александр Иосса](speakers/Александр%20Иосса.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=bdd-e2e.pdf)   |
+| Event-Driven Architecture: детали реализаций Event Loop  |  [Вадим Горбачев](speakers/Вадим%20Горбачев.md)  |    |
 ## Angular Belarus 2 - Oct 10 
 | | | |
 | --- | :---: | --- |

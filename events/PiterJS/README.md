@@ -3,6 +3,12 @@
 
 # PiterJS
 
+## PiterJS 41 - 2019 Oct 10 [:movie_camera:](https://www.youtube.com/watch?v=J0RLSBGorMY)
+| | | |
+| --- | :---: | --- |
+| [React + SSR там, где их уже не ждали](https://youtu.be/J0RLSBGorMY?t=650)  |  [Александр Зонов](speakers/Александр%20Зонов.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=react-ssr-wat.pdf)   |
+| [BDD e2e тестирование](https://youtu.be/J0RLSBGorMY?t=3647)  |  [Александр Иосса](speakers/Александр%20Иосса.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=bdd-e2e.pdf)   |
+| Event-Driven Architecture: детали реализаций Event Loop  |  [Вадим Горбачев](speakers/Вадим%20Горбачев.md)  |    |
 ## PiterJS 40 - 2019 Aug 16 [:movie_camera:](https://www.youtube.com/watch?v=4giWGkd7WSQ)
 | | | |
 | --- | :---: | --- |
