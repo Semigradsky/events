@@ -1,0 +1,20 @@
+name: AstanaJS 2
+date: 2018-12-22
+videos: 
+talks:
+  - name: PostCSS в современном мире web разработки
+    speaker: Сергей Смирнов
+    video: 
+    presentation: 
+  - name: Как не нужно создавать компоненты в большом приложении
+    speaker: Дарья Пушкарская
+    video: 
+    presentation: 
+  - name: WebAssembly — новый герой
+    speaker: Николай Говоров
+    video: 
+    presentation: 
+  - name: Семантика для циников
+    speaker: Вадим Макеев
+    video: 
+    presentation: 

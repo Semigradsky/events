@@ -1,0 +1,24 @@
+name: AstanaJS 3
+date: 2019-06-15
+videos: 
+talks:
+  - name: GraphQL на сервере, GraphQL на клиенте – раскладываю по полочкам
+    speaker: Павел Черторогов
+    video: 
+    presentation: 
+  - name: Best Friends Forever — когда фронтендер немножко бэкендер
+    speaker: Андрей Мелихов
+    video: 
+    presentation: 
+  - name: Как использовать всю мощь webGL без боли на примере PIXI.js
+    speaker: Юрий Абайтов
+    video: 
+    presentation: 
+  - name: Почему фронтенд это круто
+    speaker: Роман Дворнов
+    video: 
+    presentation: 
+  - name: Пора переходить на Svelte?
+    speaker: Илья Климов
+    video: 
+    presentation: 

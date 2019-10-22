@@ -1,0 +1,16 @@
+name: AstanaJS 1
+date: 2018-09-13
+videos: 
+talks:
+  - name: Google Apps Script в 2018
+    speaker: Гордей Левченко
+    video: 
+    presentation: 
+  - name: Кросс-доменное браузерное хранилище на основе iframe-ов
+    speaker: Сергей Фролов
+    video: 
+    presentation: 
+  - name: Sketch + Zeplin VS Figma
+    speaker: Алдияр Айдаш
+    video: 
+    presentation: 

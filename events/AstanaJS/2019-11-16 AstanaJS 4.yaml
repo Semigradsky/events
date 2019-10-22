@@ -1,0 +1,32 @@
+name: AstanaJS 4
+date: 2019-11-16
+videos: 
+talks:
+  - name: Про Lighthouse
+    speaker: Сергей Попов
+    video: 
+    presentation: 
+  - name: Анализируем и оптимизируем React bundle
+    speaker: Сакен Алимбаев
+    video: 
+    presentation: 
+  - name: "JSON:api или как фронтенд и бекенд разработчикам перестать спорить о формате api"
+    speaker: Антон Оленин
+    video: 
+    presentation: 
+  - name: Как и зачем разрабатывать свой скилл для Алисы
+    speaker: Виталий Потапов
+    video: 
+    presentation: 
+  - name: Как я познал дзен в интервьюинге
+    speaker: Даурен Бекжанов
+    video: 
+    presentation: 
+  - name: Фантастические уязвимости и места их обитания
+    speaker: Татьяна Новикова
+    video: 
+    presentation: 
+  - name: "Soft Effect: исследование развития навыков"
+    speaker: Андрей Смирнов
+    video: 
+    presentation: 
