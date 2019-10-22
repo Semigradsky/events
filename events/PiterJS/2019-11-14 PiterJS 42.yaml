@@ -1,0 +1,16 @@
+name: PiterJS 42
+date: 2019-11-14
+videos: 
+talks:
+  - name: Логирование на JS
+    speaker: Кирилл Сергеев
+    video: 
+    presentation: 
+  - name: Документация к API — делай это понятно
+    speaker: Светлана Авдей
+    video: 
+    presentation: 
+  - name: Взаимодействие с iBeacons в React Native
+    speaker: Максим Ерехинский
+    video: 
+    presentation: 
