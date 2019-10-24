@@ -57,10 +57,10 @@
 | [WebRTC-шная тема](https://www.youtube.com/watch?v=nqigzFbAYM0)  |  [Дмитрий Пацура](speakers/Дмитрий%20Пацура.md)  | [:notebook:](https://cloud.mail.ru/public/8Cts/eLoH5k7i7)   |
 | [Погружение в SSR](https://www.youtube.com/watch?v=uB7Yz4nH8nc)  |  [Дмитрий Зачесов](speakers/Дмитрий%20Зачесов.md)  | [:notebook:](https://cloud.mail.ru/public/LH9C/cAgdAzQp5)   |
 | [Немного о worker&#39;аx](https://www.youtube.com/watch?v=-9NavsFidOA)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  | [:notebook:](https://docs.google.com/presentation/d/1raeAATCefDfrcvPUXUnzjNcVJYcNYJVr3U6QxpFgu88/edit#slide=id.g296f635916_0_99)   |
-## MoscowJS 38 - 2017 Jul 27 
+## MoscowJS 38 - 2017 Jul 27 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpErucQAp6BhGIH1eMWu8VvR)
 | | | |
 | --- | :---: | --- |
-| [Фатальный недостаток Node.js](https://www.youtube.com/watch?v=GgeshciU68c)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  | [:notebook:](https://cloud.mail.ru/public/KWDA/G7DxXmymJ)   |
+| [Фатальный недостаток Node.js](https://www.youtube.com/watch?v=BmmBx9r9Sro)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  | [:notebook:](https://cloud.mail.ru/public/KWDA/G7DxXmymJ)   |
 | [Фронтенд в большой компании. Как отмасштабировать и поддерживать инфраструктуру фронтенда на 30+ команд.](https://www.youtube.com/watch?v=2oxNG1uM11E)  |  [Александр Китов](speakers/Александр%20Китов.md)  | [:notebook:](https://cloud.mail.ru/public/DWYk/w8VWCDHVn)   |
 | [Как сделать Public API, которым будут пользоваться](https://www.youtube.com/watch?v=MB8kUojYljY)  |  [Евгений Успенский](speakers/Евгений%20Успенский.md)  | [:notebook:](https://cloud.mail.ru/public/MYgT/rUFNT3eoj)   |
 | [Обьектно ориентированный диабет](https://www.youtube.com/watch?v=9Cs2fhWfnBQ)  |  [Александр Федотов](speakers/Александр%20Федотов.md)  | [:notebook:](https://cloud.mail.ru/public/7GFJ/6KtGrcEpt)   |
