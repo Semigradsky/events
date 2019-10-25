@@ -1,0 +1,26 @@
+name: Стачка 2018
+date:
+  - 2018-04-06
+  - 2018-04-07
+videos: 
+talks:
+  - name: Хватит врать про Grid Layout!
+    speaker: Сергей Попов
+    video: https://youtu.be/6ppwhIHMWr4
+    presentation: http://sergeypopov.site/presentation/stop-grid-2.pdf
+  - name: Превозмогая Трудности
+    speaker: Андрей Морозов
+    video: 
+    presentation: 
+  - name: "Логирование событий в браузере: ошибки, телеметрия, производительность"
+    speaker: Артём Нечунаев
+    video: https://youtu.be/dFKfYSfPH7c
+    presentation: 
+  - name: RxJS — доступно, в деталях и на практике
+    speaker: Андрей Алексеев
+    video: https://youtu.be/MnY7RwUrgqI
+    presentation: 
+  - name: Progressive Web Apps
+    speaker: Олег Орлов
+    video: 
+    presentation: 

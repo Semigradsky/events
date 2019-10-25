@@ -58,7 +58,7 @@ talks:
   - name: 'Excuse me, I have to assemble Frontend'
     speaker: Андрей Михайлюк
     video: 'https://youtu.be/lqzzn4Z3krY'
-  - name: Houdini - CSS which is JavaScrip
+  - name: Houdini — CSS, который JavaScript
     speaker: Никита Дубко
     video: 'https://youtu.be/MPaD8N9BrFA'
   - name: OK Google. What's next?

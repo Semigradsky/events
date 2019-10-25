@@ -1,0 +1,42 @@
+name: Стачка 2019 (осень)
+date:
+  - 2019-10-12
+  - 2019-10-13
+videos: 
+talks:
+  - name: CSS — язык программирования
+    speaker: Никита Дубко
+    video: 
+    presentation: 
+  - name: Автоматический рефакторинг кода с помощью codemodes
+    speaker: Александр Мышов
+    video: 
+    presentation: 
+  - name: "Как построить Гексагон: прагматичная архитектура для клиентских приложений"
+    speaker: Александр Мадьянкин
+    video: 
+    presentation: https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Madyankin.pdf
+  - name: Архитектура SPA и управление состоянием с помощью MST
+    speaker: Михаил Синяков
+    video: 
+    presentation: 
+  - name: DI как способ масштабирования всего
+    speaker: Алексей Попков
+    video: 
+    presentation: https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Popkov.pdf
+  - name: Прекрасный мир графики
+    speaker: Полина Гуртовая
+    video: 
+    presentation: https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Gurtovaya.pdf
+  - name: Как правильно собирать npm-пакет в 2к19 году
+    speaker: Денис Красновский
+    video: 
+    presentation: https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Krasnovskiy.pdf
+  - name: BDD тестирование веб-приложений
+    speaker: Александр Иосса
+    video: 
+    presentation: https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Iossa.pptx
+  - name: Оптимизация или как не выстрелить себе в ногу
+    speaker: Дмитрий Ивко
+    video: 
+    presentation: https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Ivko.pptx

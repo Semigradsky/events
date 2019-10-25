@@ -1,0 +1,30 @@
+name: Стачка 2019 (весна)
+date:
+  - 2019-04-26
+  - 2019-04-27
+videos: https://www.youtube.com/playlist?list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg
+talks:
+  - name: "WebGL и 2D: простой как Web"
+    speaker: Александр Коротаев
+    video: https://www.youtube.com/watch?v=7cbshfHfULs&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2&t=0s
+    presentation: 
+  - name: Использование Closure Compiler в современном фронтенде
+    speaker: Ильяс Кабиров
+    video: 
+    presentation: 
+  - name: Вам не нужен SPA
+    speaker: Алексей Попков
+    video: https://www.youtube.com/watch?v=LsGqLWXvMN8&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2
+    presentation: 
+  - name: Тра-та-та. Конечный автомат с двумя рожкАми для фронтенда
+    speaker: Алексей Наумов
+    video: 
+    presentation: 
+  - name: Хайповые js или задачи клиентов?
+    speaker: Александр Погорелов
+    video: https://www.youtube.com/watch?v=hqLApt7pfpI&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=3
+    presentation: 
+  - name: Использование vue.js c коробочными решениями
+    speaker: Иван Сергеев
+    video: https://www.youtube.com/watch?v=dZ2042mJksg&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=4
+    presentation: 
