@@ -12,7 +12,7 @@
 | [Angular Elements](https://www.youtube.com/watch?v=uuQ7V0bFcxE&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=4)  |  [Сергей Цветков](speakers/Сергей%20Цветков.md)  |    |
 | [Эффективное тестирование FE проектов](https://www.youtube.com/watch?v=sgLvPkkG2ok&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=5)  |  [Максим Соснов](speakers/Максим%20Соснов.md)  |    |
 | [Поддержка API Как развивать продукт и прекратить кормить динозавров](https://www.youtube.com/watch?v=5tQyvZAoI-E&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=6)  |  [Александр Иосса](speakers/Александр%20Иосса.md)  |    |
-| [WebGL и 2D простой как Web](https://www.youtube.com/watch?v=PKNrhSe7ATM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=7)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
+| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=PKNrhSe7ATM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=7)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
 | [Делайте из слона муху](https://www.youtube.com/watch?v=NCLMjGHePsQ&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=8)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
 ## DUMP2018 - 2018 Apr 13 [:movie_camera:](https://www.youtube.com/playlist?list=PLRdS-n5seLRoyY8tjEUDzvxr19JtTLFUf)
 | | | |

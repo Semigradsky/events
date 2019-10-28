@@ -80,7 +80,7 @@
 | [Bot Building: channels, platforms, NLU](https://youtu.be/VIlbw9gvyWs)  |  [Валентин Мезенцев](speakers/Валентин%20Мезенцев.md)  [Глеб Добжанский](speakers/Глеб%20Добжанский.md)  [Виталий Гурин](speakers/Виталий%20Гурин.md)  |    |
 | [Redux-cornell](https://youtu.be/LmhtTzY3nms) [en] |  [Eyal Eizenberg](speakers/Eyal%20Eizenberg.md)  |    |
 | [Excuse me, I have to assemble Frontend](https://youtu.be/lqzzn4Z3krY)  |  [Андрей Михайлюк](speakers/Андрей%20Михайлюк.md)  |    |
-| [Houdini - CSS which is JavaScrip](https://youtu.be/MPaD8N9BrFA)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [Houdini — CSS, который JavaScript](https://youtu.be/MPaD8N9BrFA)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
 | [OK Google. What&#39;s next?](https://youtu.be/ABYnHK8h7VQ)  |  [Филипп Шурпик](speakers/Филипп%20Шурпик.md)  |    |
 | [JavaScript without javascript](https://youtu.be/QJM538gMc7M) [en] |  [Patrick Kettner](speakers/Patrick%20Kettner.md)  |    |
 | [Unleash the power of the higher-order components](https://youtu.be/P-3Oxb0nA5A) [en] |  [David Kopal](speakers/David%20Kopal.md)  |    |

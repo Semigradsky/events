@@ -3,6 +3,14 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Юбилейный Я.Субботник по разработке интерфейсов - Oct 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;CKbOHn1lJWw)
+| | | |
+| --- | :---: | --- |
+| [История развития фронтенда в Яндексе за 10 лет](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=713s)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+| [Эксперименты на людях](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=3541s)  |  [Антон Виноградов](speakers/Антон%20Виноградов.md)  |    |
+| [await video.play(). Как мы начали раздавать ES2017 в продакшене](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=7941s)  |  [Максим Сысоев](speakers/Максим%20Сысоев.md)  |    |
+| [Мониторинг и повышение стабильности загрузки веб-сервисов](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=10298s)  |  [Юрий Пузыня](speakers/Юрий%20Пузыня.md)  |    |
+| [&lt;⁣a⁣&gt;](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=13900s)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
 ## WSD 2019 - Екатеринбург - Oct 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;DsfnFrwKksA)
 | | | |
 | --- | :---: | --- |
@@ -14,6 +22,18 @@
 | [Жизнь до Runtime](https://www.youtube.com/watch?v=DsfnFrwKksA&t=20748s)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/before-runtime.pdf)   |
 | [Понимание как основа устойчивости к ошибкам](https://www.youtube.com/watch?v=DsfnFrwKksA&t=24261s)  |  [Мария Гришкевич](speakers/Мария%20Гришкевич.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/error-proof/)   |
 | [Как написать поддержку фреймворка?](https://www.youtube.com/watch?v=DsfnFrwKksA&t=26530s)  |  [Андрей Старовойт](speakers/Андрей%20Старовойт.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/framework-ide.pdf)   |
+## Стачка 2019 (осень) - Oct 12-13 
+| | | |
+| --- | :---: | --- |
+| CSS — язык программирования  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| Автоматический рефакторинг кода с помощью codemodes  |  [Александр Мышов](speakers/Александр%20Мышов.md)  |    |
+| Как построить Гексагон: прагматичная архитектура для клиентских приложений  |  [Александр Мадьянкин](speakers/Александр%20Мадьянкин.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Madyankin.pdf)   |
+| Архитектура SPA и управление состоянием с помощью MST  |  [Михаил Синяков](speakers/Михаил%20Синяков.md)  |    |
+| DI как способ масштабирования всего  |  [Алексей Попков](speakers/Алексей%20Попков.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Popkov.pdf)   |
+| Прекрасный мир графики  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Gurtovaya.pdf)   |
+| Как правильно собирать npm-пакет в 2к19 году  |  [Денис Красновский](speakers/Денис%20Красновский.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Krasnovskiy.pdf)   |
+| BDD тестирование веб-приложений  |  [Александр Иосса](speakers/Александр%20Иосса.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Iossa.pptx)   |
+| Оптимизация или как не выстрелить себе в ногу  |  [Дмитрий Ивко](speakers/Дмитрий%20Ивко.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Ivko.pptx)   |
 ## PiterJS 41 - Oct 10 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;J0RLSBGorMY)
 | | | |
 | --- | :---: | --- |
@@ -341,6 +361,15 @@
 | [Жизнь до Runtime](https://events.yandex.ru/lib/talks/7255/)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |
 | [Приключения в отдельном потоке](https://events.yandex.ru/lib/talks/7257/)  |  [Павел Смирнов](speakers/Павел%20Смирнов.md)  |    |
 | [Полный цикл тестирования React-приложений](https://events.yandex.ru/lib/talks/7258/)  |  [Наталья Стусь](speakers/Наталья%20Стусь.md)  [Алексей Андросов](speakers/Алексей%20Андросов.md)  |    |
+## Стачка 2019 (весна) - Apr 26-27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg)
+| | | |
+| --- | :---: | --- |
+| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=7cbshfHfULs&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2&t=0s)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
+| Использование Closure Compiler в современном фронтенде  |  [Ильяс Кабиров](speakers/Ильяс%20Кабиров.md)  |    |
+| [Вам не нужен SPA](https://www.youtube.com/watch?v=LsGqLWXvMN8&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
+| Тра-та-та. Конечный автомат с двумя рожкАми для фронтенда  |  [Алексей Наумов](speakers/Алексей%20Наумов.md)  |    |
+| [Хайповые js или задачи клиентов?](https://www.youtube.com/watch?v=hqLApt7pfpI&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=3)  |  [Александр Погорелов](speakers/Александр%20Погорелов.md)  |    |
+| [Использование vue.js c коробочными решениями](https://www.youtube.com/watch?v=dZ2042mJksg&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=4)  |  [Иван Сергеев](speakers/Иван%20Сергеев.md)  |    |
 ## PiterJS Tour 1 - Apr 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y)
 | | | |
 | --- | :---: | --- |
@@ -370,7 +399,7 @@
 | [Angular Elements](https://www.youtube.com/watch?v=uuQ7V0bFcxE&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=4)  |  [Сергей Цветков](speakers/Сергей%20Цветков.md)  |    |
 | [Эффективное тестирование FE проектов](https://www.youtube.com/watch?v=sgLvPkkG2ok&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=5)  |  [Максим Соснов](speakers/Максим%20Соснов.md)  |    |
 | [Поддержка API Как развивать продукт и прекратить кормить динозавров](https://www.youtube.com/watch?v=5tQyvZAoI-E&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=6)  |  [Александр Иосса](speakers/Александр%20Иосса.md)  |    |
-| [WebGL и 2D простой как Web](https://www.youtube.com/watch?v=PKNrhSe7ATM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=7)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
+| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=PKNrhSe7ATM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=7)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
 | [Делайте из слона муху](https://www.youtube.com/watch?v=NCLMjGHePsQ&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=8)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
 ## Tver.io Radio Meetup - Apr 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLiOxDlmyqigw-yetl9zWckO3mGPxbZ8hX)
 | | | |

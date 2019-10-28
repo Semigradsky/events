@@ -65,7 +65,7 @@
 | | | |
 | --- | :---: | --- |
 | [JavaScript parsing, transformations, transpilation.](https://www.youtube.com/watch?v=dnsW3JtQXrk) [en] |  [Ингвар Степанян](speakers/Ингвар%20Степанян.md)  |    |
-| [Использование File API в Конструкторе Яндекс.Карт.](https://www.youtube.com/watch?v=VeaRqoJGnWY)  |  [Всеволод Шмыров](speakers/Всеволод%20Шмыров.md)  |    |
+| [Использование File API в Конструкторе Яндекс.Карт](https://www.youtube.com/watch?v=VeaRqoJGnWY)  |  [Всеволод Шмыров](speakers/Всеволод%20Шмыров.md)  |    |
 | [WebRTC from Zero to Hero](https://www.youtube.com/watch?v=DOg3XPAgZwE) [en] |  [Gabriel Mičko](speakers/Gabriel%20Mičko.md)  |    |
 | [TauCharts and data visualization](https://www.youtube.com/watch?v=TrEXCxOuLXY)  |  [Vladimir Petriko](speakers/Vladimir%20Petriko.md)  |    |
 | [WebRTC in Action!](https://www.youtube.com/watch?v=V3pBE-wVciU) [en] |  [Nastassia Kiseleva](speakers/Nastassia%20Kiseleva.md)  [Konstantin Leyer](speakers/Konstantin%20Leyer.md)  |    |
