@@ -1,0 +1,26 @@
+name: Стачка 2014
+date:
+  - 2014-04-11
+  - 2014-04-12
+videos: 
+talks:
+  - name: Применение BackboneJS для рефакторинга фронтэнда веб-приложения
+    speaker: Алексей Авдеев
+    video: 
+    presentation: 
+  - name: Новый Онлайн и всеядный JavaScript
+    speaker: Влад Семенов
+    video: 
+    presentation: 
+  - name: Быстрая веб-разработка на Котлине
+    speaker: Филипп Торчинский
+    video: 
+    presentation: 
+  - name: "API Яндекс.Карт: Сумеречная зона"
+    speaker: Антон Корзунов
+    video: 
+    presentation: 
+  - name: Frontend development for the win!
+    speaker: Антон Плешивцев
+    video: 
+    presentation: 

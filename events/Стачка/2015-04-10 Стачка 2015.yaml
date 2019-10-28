@@ -1,0 +1,50 @@
+name: Стачка 2015
+date:
+  - 2015-04-10
+  - 2015-04-11
+videos: 
+talks:
+  - name: Электронная подпись и строгая аутентификация для web-порталов
+    speaker: Виктор Ткаченко
+    video: 
+    presentation: 
+  - name: Скрип и дребезг в веб-приложениях
+    speaker: Тимофей Чаптыков
+    video: 
+    presentation: 
+  - name: как хттп респонз заголовки влияют на (не)безопасность вашего веб-сервиса
+    speaker: Александр Дельва
+    video: 
+    presentation: 
+  - name: OpenStreetMap в Спутник.Картах
+    speaker: Максим Дементьев
+    video: 
+    presentation: https://www.slideshare.net/MaximDementyev/presentation-46900231
+  - name: Современное состояние видео в браузерах
+    speaker: Макс Лапшин
+    video: 
+    presentation: 
+  - name: Дмитрий Вислов
+    speaker: Your site need… need for speed
+    video: 
+    presentation: 
+  - name: "PostCSS: будущее после Sass и Less"
+    speaker: Андрей Ситник
+    video: 
+    presentation: 
+  - name: Практическое использование Pointer Events в API Яндекс.Карт
+    speaker: Всеволод Шмыров
+    video: 
+    presentation: 
+  - name: Землю крестьянам, заводы рабочим, а верстку верстальщикам
+    speaker: Егор Баранов
+    video: 
+    presentation: 
+  - name: Строим сайт из кубиков
+    speaker: Айзи Гараева
+    video: 
+    presentation: 
+  - name: "Code Review: Необходимая инженерная практика, или пустая трата времени?"
+    speaker: Анар Мехтиев
+    video: 
+    presentation: 

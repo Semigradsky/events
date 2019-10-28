@@ -7,7 +7,7 @@ talks:
     speaker: Ингвар Степанян
     video: https://www.youtube.com/watch?v=dnsW3JtQXrk
     lang: en
-  - name: "Использование File API в Конструкторе Яндекс.Карт."
+  - name: "Использование File API в Конструкторе Яндекс.Карт"
     speaker: Всеволод Шмыров
     video: https://www.youtube.com/watch?v=VeaRqoJGnWY
   - name: "WebRTC from Zero to Hero"

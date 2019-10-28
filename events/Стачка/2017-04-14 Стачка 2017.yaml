@@ -1,0 +1,46 @@
+name: Стачка 2017
+date:
+  - 2017-04-14
+  - 2017-04-15
+videos: https://www.youtube.com/playlist?list=PL8EJzNcJZNp2x5jYzUwqPFEAc0xd4sxvf
+talks:
+  - name: Angular2. Чувствую себя отлично.
+    speaker: Андрей Ваганов
+    video: https://www.youtube.com/watch?v=JgaPXMEymPU
+    presentation: 
+  - name: Offline SPA - это больно!?
+    speaker: Николай Чубаров
+    video: https://www.youtube.com/watch?v=HHKsZuGKhdY
+    presentation: 
+  - name: Использование строгой типизации при разработке SPA приложения на PHP + React
+    speaker: Артур Эшенбренер
+    video: https://www.youtube.com/watch?v=H3y5b_ixNkI
+    presentation: 
+  - name: Архитектура в сложных React-приложениях
+    speaker: Павел Силин
+    video: https://www.youtube.com/watch?v=mYIMQBALGtk
+    presentation: 
+  - name: AMP для e-comerce и журналистики
+    speaker: Игорь Шеко
+    video: https://www.youtube.com/watch?v=x9jySsNg1E4
+    presentation: 
+  - name: Как отрефакторить миллион строк кода и не сойти с ума
+    speaker: Алексей Золотых
+    video: https://www.youtube.com/watch?v=qDYxrg1UNxo
+    presentation: 
+  - name: Автоматизация тестирования верстки веб приложений основанная на скриншотах
+    speaker: Эмиль Хуснетдинов
+    video: 
+    presentation: 
+  - name: Профессиональный e-commerce frontend
+    speaker: Артём Дикмаров
+    video: 
+    presentation: 
+  - name: Разработка React компонентов
+    speaker: Павел Силин
+    video: 
+    presentation: 
+  - name: Как повысить качество верстки без тестирования
+    speaker: Кирилл Чистобородов
+    video: 
+    presentation: 
