@@ -21,7 +21,7 @@ talks:
     lang: en
   - name: "Очень странное тестирование"
     speaker: Назим Гафаров
-    video:
+    video: https://youtu.be/H-cBhNMxlCw
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/5brr3qLfo8lTUUQtbOW4CO/3d99f76706c79ea8f404e4137e3a35c6/Nazim_Gafarov_Ochen_strannoye_testirovaniye.pdf
     lang: ru
   - name: "Протокол Chrome DevTools"
