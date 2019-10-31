@@ -399,6 +399,16 @@
 | [Серверный рендеринг React](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1160s)  |  [Николай Говоров](speakers/Николай%20Говоров.md)  |    |
 | [Компонентный WebGL](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1210s)  |  [Евгений Кувшинов](speakers/Евгений%20Кувшинов.md)  |    |
 | [Формальная и интуитивная семантика языка программирования на примерах JS и JSX](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1260s)  |  [Артём Арутюнян](speakers/Артём%20Арутюнян.md)  |    |
+## KharkivCSS 4 - Apr 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ5NW5T60UpgJIZ53Syoy79JKPHcU0zPa)
+| | | |
+| --- | :---: | --- |
+| [The Web Design Cheat Code: Using SVG to bridge CSS’ gaps](https://www.youtube.com/watch?v=PNVygpWE4lI) [en] |  [Lea Verou](speakers/Lea%20Verou.md)  |    |
+| [WCAG: изучаем основы веб-доступности на практике](https://www.youtube.com/watch?v=5yc42rjnYtQ)  |  [Дмитро Попов](speakers/Дмитро%20Попов.md)  |    |
+| [Логування продуктивності відповідно до стандартів](https://www.youtube.com/watch?v=TarJKIJFlgA)  |  [Антон Немцев](speakers/Антон%20Немцев.md)  |    |
+| [Houdini — CSS, который JavaScript](https://www.youtube.com/watch?v=xFXCfTHTmoA)  |  [Микита Дубко](speakers/Микита%20Дубко.md)  |    |
+| Framer X. Ще один крок до порозуміння між дизайнерами і програмістами  |  [Валерій Сорокобатько](speakers/Валерій%20Сорокобатько.md)  |    |
+| [UX як основа усвідомленої верстки](https://www.youtube.com/watch?v=XRtSLTg_q-g)  |  [Олена Шпілевська](speakers/Олена%20Шпілевська.md)  |    |
+| [WebFonts in 2019: Everything Changes](https://www.youtube.com/watch?v=Nb0C8veF_XE) [en] |  [Chris Lilley](speakers/Chris%20Lilley.md)  |    |
 ## ITsubbotnik 2019 Spring - Apr 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKZ-qTShAAPyf99Q0h5tLAAVTvqLFooaN)
 | | | |
 | --- | :---: | --- |
