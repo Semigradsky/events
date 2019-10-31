@@ -22,6 +22,12 @@
 | [Жизнь до Runtime](https://www.youtube.com/watch?v=DsfnFrwKksA&t=20748s)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/before-runtime.pdf)   |
 | [Понимание как основа устойчивости к ошибкам](https://www.youtube.com/watch?v=DsfnFrwKksA&t=24261s)  |  [Мария Гришкевич](speakers/Мария%20Гришкевич.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/error-proof/)   |
 | [Как написать поддержку фреймворка?](https://www.youtube.com/watch?v=DsfnFrwKksA&t=26530s)  |  [Андрей Старовойт](speakers/Андрей%20Старовойт.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/framework-ide.pdf)   |
+## Angular Minsk 4 - Oct 15 
+| | | |
+| --- | :---: | --- |
+| [The nature of Service Workers and how to use them in Angular apps](https://youtu.be/lcagPZcPq38)  |  [Дмитрий Грачёв](speakers/Дмитрий%20Грачёв.md)  |    |
+| [The functional nature of RxJS](https://youtu.be/qOl8WKpdRlI)  |  [Александр Рудый](speakers/Александр%20Рудый.md)  |    |
+| [Quiz по мотивам Angular Connect 2019](https://youtu.be/dZuLBjFu2Is)  |  [?](speakers/?.md)  |    |
 ## Стачка 2019 (осень) - Oct 12-13 
 | | | |
 | --- | :---: | --- |
