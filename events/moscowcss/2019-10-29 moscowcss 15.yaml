@@ -6,11 +6,11 @@ talks:
     speaker: Мария Стогова
     video: 
     presentation: 
-  - name:
-    speaker:
+  - name: SPA на чистом CSS
+    speaker: Иван Бабков
     video: 
     presentation: 
-  - name:
-    speaker:
+  - name: Система именования переменных в css
+    speaker: Мария Нагорных
     video: 
     presentation: 
