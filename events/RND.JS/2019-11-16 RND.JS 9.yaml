@@ -2,7 +2,23 @@ name: RND.JS 9
 date: 2019-11-16
 videos: 
 talks:
-  - name: 
-    speaker: 
+  - name: "Путь к монаде: (не)сложная теория и полезная практика"
+    speaker: Эдуард Ковнацкий
+    video: 
+    presentation: 
+  - name: Автоматический рефакторинг кода с помощью codemodes
+    speaker: Александр Мышов
+    video: 
+    presentation: 
+  - name: Как работает React
+    speaker: Дмитрий Ивахненко
+    video: 
+    presentation: 
+  - name: Angular + NativeScript is Love
+    speaker: Владимир Гайдуков
+    video: 
+    presentation: 
+  - name: Reatom. Переосмысливая Redux
+    speaker: Белозёрцев Сергей
     video: 
     presentation: 
