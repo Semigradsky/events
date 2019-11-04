@@ -1,0 +1,150 @@
+name: HolyJS 2019 Moscow
+date:
+  - 2019-11-08
+  - 2019-11-09
+videos: 
+talks:
+  - name: Сам себе бэкендер [Workshop]
+    speaker: Андрей Мелихов
+    video: 
+    presentation: 
+  - name: Делаем React-приложения быстрее [Workshop]
+    speaker: Иван Акулов
+    video: 
+    presentation: 
+  - name: Client rendering, server rendering, pre rendering. The full spectrum of JS website and application performance delivery
+    speaker: Guillermo Rauch
+    lang: en
+    video: 
+    presentation: 
+  - name: "GraphQL-фрагменты на клиенте: История появления, ошибки использования"
+    speaker: Павел Черторогов
+    video: 
+    presentation: 
+  - name: "React rendering strategies: Get the most out of performance, keep bots happy"
+    speaker: Miguel Angel Duran Garcia
+    lang: en
+    video: 
+    presentation: 
+  - name: Transpile anything to everything!
+    speaker: Anna Herlihy
+    lang: en
+    video: 
+    presentation: 
+  - name: История одной оптимизации производительности Node.js-библиотеки
+    speaker: Андрей Печкуров
+    video: 
+    presentation: 
+  - name: TC39 Panel
+    speaker: TC39 delegates
+    lang: en
+    video: 
+    presentation: 
+  - name: Get ready for Ivy — Angular 3rd generation renderer engine
+    speaker: Eliran Eliassy
+    lang: en
+    video: 
+    presentation: 
+  - name: From code to pixels in a Blink
+    speaker: Prashant Palikhe
+    lang: en
+    video: 
+    presentation: 
+  - name: "@babel/how-to"
+    speaker: Nicolò Ribaudo
+    lang: en
+    video: 
+    presentation: 
+  - name: NestJS. Tried to Shift in 80 hours
+    speaker: Александра Калинина
+    video: 
+    presentation: 
+  - name: From specification to implementation
+    speaker: Yulia Startsev
+    lang: en
+    video: 
+    presentation: 
+  - name: "Soft Effect: Исследование развития навыков"
+    speaker: Андрей Смирнов
+    video: 
+    presentation: 
+  - name: "Чем мы платим за переход от <div> к WebGL и что получаем (профит!), на примерах PixiJS"
+    speaker: Иван Попелышев
+    video: 
+    presentation: 
+  - name: Может ли компьютер молиться на благо всех живых существ? Молитва на JavaScript и WebGL
+    speaker: Денис Радин
+    video: 
+    presentation: 
+  - name: Разработка компилятора для TypeScript на TypeScript на базе LLVM
+    speaker: Дмитрий Пацура
+    video: 
+    presentation: 
+  - name: WebAssembly без купюр
+    speaker: Андрей Роенко
+    video: 
+    presentation: 
+  - name: End to end testing a world of web, mobile & desktop apps
+    speaker: Mathieu Henri
+    lang: en
+    video: 
+    presentation: 
+  - name: CSS definition syntax
+    speaker: Роман Дворнов
+    video: 
+    presentation: 
+  - name: The art of explicit and consistent user interfaces
+    speaker: Farzad YousefZadeh
+    lang: en
+    video: 
+    presentation: 
+  - name: "Figma to React: доставка дизайна в код"
+    speaker: Зар Захаров, Александр Каменяр
+    video: 
+    presentation: 
+  - name: JavaScriptCore, many compilers make this engine perform
+    speaker: Michael Saboff
+    lang: en
+    video: 
+    presentation: 
+  - name: Resilient Component Libraries with React
+    speaker: Андрей Оконечников
+    lang: en
+    video: 
+    presentation: 
+  - name: Контрактное программирование как средство, а не цель
+    speaker: Артём Арутюнян
+    video: 
+    presentation: 
+  - name: Computability, types, tests, and why flat-earthers are bad at QA
+    speaker: Lucas Fernandes da Costa
+    lang: en
+    video: 
+    presentation: 
+  - name: Я заберу у тебя все данные и ты об этом даже не узнаешь. Я — браузерное расширение
+    speaker: Никита Мостовой
+    video: 
+    presentation: 
+  - name: i18n the principles for an accessible web
+    speaker: Romulo Cintra
+    lang: en
+    video: 
+    presentation: 
+  - name: JavaScript на службе у теоретической информатики
+    speaker: Виталий Брагилевский
+    video: 
+    presentation: 
+  - name: The battle of the event loops
+    speaker: Ujjwal Sharma
+    lang: en
+    video: 
+    presentation: 
+  - name: Advanced geospatial visualization with JavaScript
+    speaker: Nicolas Belmonte
+    lang: en
+    video: 
+    presentation: 
+  - name: Карьерная эффективность и карьерный путь в ИТ
+    speaker: Дмитрий Волошин
+    video: 
+    presentation: 

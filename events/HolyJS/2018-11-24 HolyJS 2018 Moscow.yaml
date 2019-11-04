@@ -1,0 +1,139 @@
+name: HolyJS 2018 Moscow
+date:
+  - 2018-11-24
+  - 2018-11-25
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8JoTXuB47RLJthvyiZ94238
+talks:
+  - name: State management beyond the libraries
+    speaker: Michel Weststrate
+    lang: en
+    video: https://www.youtube.com/watch?v=JKaJ9r3xYN4
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/Ezk73ofhW8sCC8wuIA4iE/f6c12f39312901e55889a5fda0d410e9/Michel_Weststrate_State_management_beyond_libraries.pdf
+  - name: JavaScript ❤ binary data
+    speaker: Кирилл Черкашин
+    video: https://www.youtube.com/watch?v=BN02zpuPGoY
+    presentation: https://kirjs.com/binary/intro
+  - name: Голая правда про файлы
+    speaker: Егор Малькевич
+    video: https://www.youtube.com/watch?v=2r2yj2nGJi8
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/6YB3HXOGzeyMQ4M0cm0Img/3cd63548e8a84875cbba35e4962a5446/Egor_Malkevich_Naked_truth_about_files_at_Web.pdf
+  - name: "Revealing framework fundamentals: NestJS behind the curtain"
+    speaker: Kamil Myśliwiec
+    lang: en
+    video: https://www.youtube.com/watch?v=jo-1EUxMmxc
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/3So323TYJO080w2g4oA8QC/dbcdea22f11ffea831cdb1cbe2b9f2f3/Kamil_Mysliwiec_Revealing_framework_fundamentals__NestJS_behind_the_curtain.pdf
+  - name: "Сервис-воркеры: используем накопленный опыт и смотрим в будущее"
+    speaker: Максим Сальников
+    video: https://www.youtube.com/watch?v=sly5O_f6w6g
+    presentation: https://slides.com/webmax/serviceworker-holyjs/
+  - name: Глубокое погружение в webpack
+    speaker: Стас Курилов
+    video: https://www.youtube.com/watch?v=aiYkJOPD9v8
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/4AS3hkBXbi6wSOYUoa444y/dd811bfc6d3b37a0e63e6e3d3eb5b35d/Stas_Kurilov_Glubokoye_pogruzheniye_v_webpack.pdf
+  - name: An introduction to distributed tracing
+    speaker: Thomas Watson
+    lang: en
+    video: https://www.youtube.com/watch?v=g7XSEdriSFM
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/5aPRuBSqEosCsCqsKQ8aAk/85c176bb7683ba139a105ce1df43bd0a/Thomas_Watson_An_introduction_to_distributed_tracing.pdf
+  - name: Строим GraphQL-сервер
+    speaker: Павел Черторогов
+    video: https://www.youtube.com/watch?v=NnnvOPdstzg
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/1EyPLtP3Qcc6wUYOEmsuIg/a503c12215254823f41311baf194700a/Pavel_Chertorogov_Building_GraphQL_Server.pdf
+  - name: Paranoid Service Worker
+    speaker: Всеволод Родионов
+    video: https://www.youtube.com/watch?v=lXQTSXfGfbo
+    presentation: https://slides.com/jabher/paranoid-service-worker-holyjs/#/
+  - name: Bringing mixed reality to the web
+    speaker: Marko Letic
+    lang: en
+    video: https://www.youtube.com/watch?v=XumBgejSxKs
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/5NZEeYNtvygS8YeaaIgYIe/e88c1c7b4ef6e94ccc7009f9cf7947e0/Marko_Letic_Bringing_mixed_reality_to_the_web.pdf
+  - name: "JS-битва: как я написал свой eval()"
+    speaker: Александр Коротаев
+    video: https://www.youtube.com/watch?v=TJ7TGk5WJ5k
+    presentation: http://lekzd.ru/presentations/js_battle_holy/
+  - name: Асинхронный ноль
+    speaker: Виктор Вершанский
+    video: https://www.youtube.com/watch?v=6Tg2UA4XaQY
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/4JG7XeeyTucWioeuYsqqcy/1fa3d2f3b2d7feb297ca4ffe2fea5f22/Viktor_Vershanskiy_Asinkhronnyy_nol.pdf
+  - name: A11Y IRL (Accessibility in real life)
+    speaker: Theodore Vorillas
+    lang: en
+    video: https://www.youtube.com/watch?v=1A2Q-nos2hc
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/E7jAy6u7Mk86gqkYk8gyK/2e257b856ea8dbe65207b7e9fe16616f/Theodore_Vorillas_A11Y_IRL__Accessibility_in_real_life_.pdf
+  - name: Surviving death by complexity (*offline only)
+    speaker: Mattias Petter Johansson
+    lang: en
+    video: https://www.youtube.com/watch?v=ulggVz2ySzQ
+    presentation: 
+  - name: Децентрализованный веб
+    speaker: Виктор Грищенко
+    video: https://www.youtube.com/watch?v=lROd9NUBP5Q
+    presentation: 
+  - name: Visualising third-party website trackers
+    speaker: Princiya Sequeira
+    lang: en
+    video: https://www.youtube.com/watch?v=_nrezLQrHZ8
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/4koDfwrY4ww6m8aWomk4wG/20dd7cd7fddca3456bd0c0360c205988/Princiya_Sequeira_Visualising_third-party_website_trackers.pdf
+  - name: Turn your smartphone into Nintendo Wii-like controller with JavaScript and machine learning
+    speaker: Bartosz Pietrucha
+    lang: en
+    video: https://www.youtube.com/watch?v=MtpcOghiMkk
+    presentation: 
+  - name: There is a bluebird in my talk that wants to get out
+    speaker: Lucas da Costa
+    lang: en
+    video: https://www.youtube.com/watch?v=rqZuNAjT2nI
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/6s9d9TYgeWICAICKEigOIc/a37aec636258d39be95ee9a2cf157f64/Lucas_da_Costa_There_is_a_bluebird_in_my_talk_that_wants_to_get_out.pdf
+  - name: What if Picasso was a robot? Teaching art to the machine
+    speaker: Isa Silveira
+    lang: en
+    video: https://www.youtube.com/watch?v=5sAL5_pi6cs
+    presentation: 
+  - name: "Разработка под WebAssembly: реальные грабли и примеры"
+    speaker: Андрей Нагих
+    video: https://www.youtube.com/watch?v=uqG9DiT80UE
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/6x7SlpJ7TqwWsAmK0AUkCW/0213f29f4d8123a578e6f6faa61a312d/Andrey_Nagikh_Razrabotka_pod_WebAssembly__realnyye_grabli_i_primery.pdf
+  - name: Системы типов в двух словах
+    speaker: Вячеслав Шебанов
+    video: https://www.youtube.com/watch?v=nFtO6419A5k
+    presentation: https://slides.com/slavashebanov/typesystems
+  - name: The Universal Serial Web
+    speaker: Sebastian Golasch
+    lang: en
+    video: https://www.youtube.com/watch?v=qXwO5N_xmUo
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/5mwoMzLOqAumsiEscKoIKs/03623993840d8689717f3e267ea0ce2f/Sebastian_Golasch_The_Universal_Serial_Web.pdf
+  - name: Рендерим 3D по-взрослому
+    speaker: Артем Кунец
+    video: https://www.youtube.com/watch?v=2ptADWLEk6w
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/2HOMiamMRGCuQIo40scWqe/f3a501094513a89783d472665fe76d2b/Artem_Kunets_Renderim_3D_po-vzroslomu.pdf
+  - name: "Final Form: Form state management via Observers"
+    speaker: Erik Rasmussen
+    video: https://www.youtube.com/watch?v=fxEW4jgoX-4
+    presentation: 
+  - name: Микросервисная архитектура
+    speaker: Дмитрий Пацура
+    video: https://www.youtube.com/watch?v=wXaoKroEnp4
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/6ctXGTntFSAUIeaSymC8uG/d67d6379d4880dba71ab0ade0db5e480/Dmitriy_Patsura_Mikroservisnaya_arkhitektura.pdf
+  - name: Разработка доступных графиков
+    speaker: Сергей Кригер
+    video: https://www.youtube.com/watch?v=TvjRAwp4qSs
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/qTnEDmP1yocwOEuIs8GUE/e14985bdd5920b75904d625184efa754/Sergey_Kriger_Razrabotka_dostupnykh_grafikov.pdf
+  - name: "Надежный JavaScript: в погоне за мифом"
+    speaker: Илья Климов
+    video: https://www.youtube.com/watch?v=o9zh5EHrpQA
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/55vEG1RMOQGWcwGUOIcCsc/cb364415978ff1b111369eba8d323c18/Ilya_Klimov_Nadezhnyy_JavaScript__v_pogone_za_mifom.pdf
+  - name: State of crypto in Node.js
+    speaker: Ujjwal Sharma
+    lang: en
+    video: https://www.youtube.com/watch?v=8oWCX1dqZ-k
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/41ds97ACOkSouGWAUecqeI/3dae96801e0d7ea60d334c27a8db6844/Ujjwal_Sharma_State_of_crypto_in_Node.js.pdf
+  - name: Building cross-platform mobile apps with Flutter.io
+    speaker: Ari Lerner
+    lang: en
+    video: https://www.youtube.com/watch?v=HRELNstRkKc
+    presentation: 
+  - name: Маленький Data Science для большого фронтенда
+    speaker: Роман Дворнов
+    video: https://www.youtube.com/watch?v=ltV7zyEr4vQ
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3bj4XaKAKAiyMkeeMKSy0/5c73a6f6e7d39d68c70a1643f966b3e6/Roman_Dvornov_Little_Data_Science_for_the_big_front-end.pdf
