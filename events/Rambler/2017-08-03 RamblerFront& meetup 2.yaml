@@ -1,0 +1,16 @@
+name: RamblerFront& meetup 2
+date: 2017-08-03
+videos: https://www.facebook.com/afishamansarda/videos/ramblerfront-meetup-2/1655421351148577/
+talks:
+  - name: Снова ошибки
+    speaker: Денис Денисов
+    video: https://www.facebook.com/afishamansarda/videos/ramblerfront-meetup-2/1655421351148577/
+    presentation: 
+  - name: TDD адаптивной верстки c применением Galen Framework
+    speaker: Павел Карев
+    video: https://www.facebook.com/afishamansarda/videos/ramblerfront-meetup-2/1655421351148577/
+    presentation: 
+  - name: Оптимизация изоморфных приложений на React
+    speaker: Михаил Погорельских
+    video: https://www.facebook.com/afishamansarda/videos/ramblerfront-meetup-2/1655421351148577/
+    presentation: 

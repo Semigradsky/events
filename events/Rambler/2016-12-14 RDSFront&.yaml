@@ -1,0 +1,12 @@
+name: RDSFront&
+date: 2016-12-14
+videos: 
+talks:
+  - name: Оптимизация загрузки web
+    speaker: Евгений Балашов
+    video: 
+    presentation: 
+  - name: RSHIP. Инструмент для проектирования и разработки изоморфных приложений
+    speaker: Михаил Чернобров
+    video: 
+    presentation: 

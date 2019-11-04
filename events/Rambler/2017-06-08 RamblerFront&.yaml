@@ -1,0 +1,20 @@
+name: RamblerFront&
+date: 2017-06-08
+videos: 
+talks:
+  - name: React Rest Adapter
+    speaker: Максим Чекрышов
+    video: 
+    presentation: 
+  - name: Счетчик — это легко
+    speaker: Алексей Мелик-Заде
+    video: 
+    presentation: 
+  - name: Разработка кросспроектной библиотеки компонент на React.js
+    speaker: Сергей Перескоков
+    video: 
+    presentation: 
+  - name: "SSP: Рефакторинг в боевых условиях"
+    speaker: Сергей Ястребов
+    video: 
+    presentation: 
