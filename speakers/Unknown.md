@@ -39,6 +39,10 @@
 - 2018 Apr 07 -- [SPA Meetup 4](https://youtu.be/BezEWFL5WKk)    
 ## Q&amp;A Panel – React Kyiv March
 - 2018 Mar 23 -- [React Kyiv March Meetup](https://youtu.be/Vokq8ndgd5c)    
+## Адаптивный веб-дизайн — как сделать интернет лучше
+- 2012 Oct 06-07 -- 404fest 2012    
+## QA session
+- 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
 ## PiterJS #23 — Дебаты 1 часть
 - 2018 Mar 17 -- [PiterJS 23 (IT Global Meetup 12)](https://youtu.be/vJ-4TUKmMr8)    
 ## PiterJS #23 — Дебаты 2 часть
@@ -48,10 +52,6 @@
 - 2017 Apr 06 -- [UralJS 3](https://www.youtube.com/watch?v=0JOsoNzi6KY)    
 ## Введение в архитектуру VIPER
 - 2016 Dec 10 -- [Krasnodar Dev Days 1](https://www.youtube.com/watch?v=d-aDhLv_mfo)    
-## Адаптивный веб-дизайн — как сделать интернет лучше
-- 2012 Oct 06-07 -- 404fest 2012    
-## QA session
-- 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
 ## Вопросы и ответы
 - 2013 Apr 27 -- [Я.Субботник](https://events.yandex.ru/lib/talks/845/)    
 - 2013 Apr 06 -- [Я.Субботник по фронтенду](https://events.yandex.ru/lib/talks/697/)    
