@@ -1,0 +1,24 @@
+name: Angular Minsk 5
+date: 2019-11-12
+videos: 
+talks:
+  - name: Angular at Scale — How we made our work much easier
+    speaker: Leonard Thiele
+    video: 
+    presentation: 
+  - name: Let’s automate with npm scripts
+    speaker: Константин Маликов
+    video: 
+    presentation: 
+  - name: How to choose your Angular testing tools
+    speaker: Артем Руденко
+    video: 
+    presentation: 
+  - name: 3 tips to improve your Angular app performance
+    speaker: Илья Рябчинский
+    video: 
+    presentation: 
+  - name: Code sharing via Angular library like a pro
+    speaker: Олег Васильев
+    video: 
+    presentation: 
