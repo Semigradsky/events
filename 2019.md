@@ -60,6 +60,12 @@
 | --- | :---: | --- |
 | [Angular Universal Wars](https://www.youtube.com/watch?v=GAKsNdK8Q9Q)  |  [Константин Маликов](speakers/Константин%20Маликов.md)  | [:notebook:](https://drive.google.com/file/d/1LUixBgI6Q_syLBsdqMC5GZPtrZc1C6dn)   |
 | Angular App Architecture and Project Structure for Scale  |  [Юрий Татенко](speakers/Юрий%20Татенко.md)  | [:notebook:](https://docs.google.com/presentation/d/1Ar5kQ2zT-Sn6N6UlRbIoN1Kh15OEK60g-tZFsX4PXRQ)   |
+## Angular Moscow 15 - Sep 11 
+| | | |
+| --- | :---: | --- |
+| [Монорепозитируй это!](https://youtu.be/n0c7kIJQZqE)  |  [Иван Ботанов](speakers/Иван%20Ботанов.md)  |    |
+| [Unit тестирование с Jest и ts-mockito](https://youtu.be/j9HVtKs7FKA)  |  [Климент Рудниченко](speakers/Климент%20Рудниченко.md)  |    |
+| [Как построить Front-end команду на базе Angular](https://youtu.be/y8HxHGT920U)  |  [Алексей Ольховой](speakers/Алексей%20Ольховой.md)  |    |
 ## AngularNYC meetup - Aug 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rse7-kzxetQ)
 | | | |
 | --- | :---: | --- |
@@ -479,6 +485,11 @@
 | [Why Redux sucks?](https://www.youtube.com/watch?v=YDs5yQhyrhg)  |  [Антон Разгуляев](speakers/Антон%20Разгуляев.md)  | [:notebook:](https://slides.com/avernikoz/deck-1#/)   |
 | [Приключения обезьяны, таракашек и панического монстра](https://www.youtube.com/watch?v=WB7zDr2SCUc)  |  [Владимир Рубин](speakers/Владимир%20Рубин.md)  | [:notebook:](https://drive.google.com/file/d/1IIOuDVj9VUfrhnDsueRqSR2iwxHJD-b_/view)   |
 | [Оптимизации в web](https://www.youtube.com/watch?v=vw5wUcj7U-0)  |  [Михаил Деркач](speakers/Михаил%20Деркач.md)  | [:notebook:](https://drive.google.com/file/d/1s2ePXjEqE0wWsy5bxKgA8Z8XhbV5N2hq/view)   |
+## KOLESA Conf - Apr 12 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL3q8gXVayhpce3HUbWd_k_XaIjj8Gepre)
+| | | |
+| --- | :---: | --- |
+| [Server-side Rendering на Vue.js: просто о сложном](https://www.youtube.com/watch?v=k5_hpKwnSKM)  |  [Алексей Павлов](speakers/Алексей%20Павлов.md)  |  [:octocat:](https://github.com/AlexPavlof/vue-ssr-sample)  |
+| [Окей, гугл, я хочу все успевать](https://www.youtube.com/watch?v=yOHfFYRGNdc)  |  [Анна Василенко](speakers/Анна%20Василенко.md)  |    |
 ## MinskCSS 6 - Apr 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL3uk4LxG9Zzl9LTp0yLfaXhIu7-xoUHQN)
 | | | |
 | --- | :---: | --- |

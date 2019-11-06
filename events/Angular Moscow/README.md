@@ -3,6 +3,12 @@
 
 # Angular Moscow
 
+## Angular Moscow 15 - 2019 Sep 11 
+| | | |
+| --- | :---: | --- |
+| [Монорепозитируй это!](https://youtu.be/n0c7kIJQZqE)  |  [Иван Ботанов](speakers/Иван%20Ботанов.md)  |    |
+| [Unit тестирование с Jest и ts-mockito](https://youtu.be/j9HVtKs7FKA)  |  [Климент Рудниченко](speakers/Климент%20Рудниченко.md)  |    |
+| [Как построить Front-end команду на базе Angular](https://youtu.be/y8HxHGT920U)  |  [Алексей Ольховой](speakers/Алексей%20Ольховой.md)  |    |
 ## AngularNYC meetup - 2019 Aug 22 [:movie_camera:](https://www.youtube.com/watch?v=rse7-kzxetQ)
 | | | |
 | --- | :---: | --- |
