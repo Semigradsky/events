@@ -1,0 +1,20 @@
+name: Angular Moscow 16
+date: 2019-11-28
+videos: 
+talks:
+  - name: Angular CDK-based CDK
+    speaker: Юрий Масьян
+    video: 
+    presentation: 
+  - name: Modern сборка. 80% пользователей вдохнут полной грудью
+    speaker: Иван Ишмаметьев
+    video: 
+    presentation: 
+  - name: Модульность в проекте
+    speaker: Леонид Кулинчик
+    video: 
+    presentation: 
+  - name: Angular Universal Advanced
+    speaker: 'Unknown'
+    video: 
+    presentation: 

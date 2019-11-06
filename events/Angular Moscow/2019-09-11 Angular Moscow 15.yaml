@@ -4,13 +4,13 @@ videos: ''
 talks:
   - name: Монорепозитируй это!
     speaker: Иван Ботанов
-    video:
+    video: https://youtu.be/n0c7kIJQZqE
     presentation:
   - name: Unit тестирование с Jest и ts-mockito
     speaker: Климент Рудниченко
-    video:
+    video: https://youtu.be/j9HVtKs7FKA
     presentation:
   - name: Как построить Front-end команду на базе Angular
     speaker: Алексей Ольховой
-    video:
+    video: https://youtu.be/y8HxHGT920U
     presentation:
