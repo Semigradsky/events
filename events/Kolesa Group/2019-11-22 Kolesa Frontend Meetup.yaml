@@ -1,0 +1,16 @@
+name: Kolesa Frontend Meetup
+date: 2019-11-22
+videos: 
+talks:
+  - name: Погружение в z-index
+    speaker: Виталий Цой
+    video: 
+    presentation: 
+  - name: Мониторинг производительности фронтенда
+    speaker: Аскар Алимов
+    video: 
+    presentation: 
+  - name: "«Типичный» JavaScript. Плюсы и минусы статической типизации"
+    speaker: Алексей Павлов
+    video: 
+    presentation: 

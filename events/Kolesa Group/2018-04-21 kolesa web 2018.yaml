@@ -1,0 +1,12 @@
+name: kolesa/web 2018
+date: 2018-04-21
+videos: https://www.youtube.com/playlist?list=PL3q8gXVayhpc6c_ZVoyHkq8okx5KSgqIN
+talks:
+  - name: Быстрый фронтенд это просто
+    speaker: Манченко Вадим
+    video: https://www.youtube.com/watch?v=bJJekBTwjUs
+    presentation: 
+  - name: Программист 80-го уровня
+    speaker: Анна Василенко
+    video: https://www.youtube.com/watch?v=dAXU81YNziw
+    presentation: 

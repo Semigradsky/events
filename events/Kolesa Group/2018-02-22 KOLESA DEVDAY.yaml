@@ -1,0 +1,8 @@
+name: KOLESA DEVDAY
+date: 2018-02-22
+videos: 
+talks:
+  - name: Переезд на webpack
+    speaker: Алексей Павлов
+    video: https://www.youtube.com/watch?v=XWUTrLILQIA&t=3685s
+    presentation: 

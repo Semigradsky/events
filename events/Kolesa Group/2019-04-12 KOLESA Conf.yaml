@@ -1,0 +1,13 @@
+name: KOLESA Conf
+date: 2019-04-12
+videos: https://www.youtube.com/playlist?list=PL3q8gXVayhpce3HUbWd_k_XaIjj8Gepre
+talks:
+  - name: "Server-side Rendering на Vue.js: просто о сложном"
+    speaker: Алексей Павлов
+    video: https://www.youtube.com/watch?v=k5_hpKwnSKM
+    presentation: 
+    code: https://github.com/AlexPavlof/vue-ssr-sample
+  - name: "Окей, гугл, я хочу все успевать"
+    speaker: Анна Василенко
+    video: https://www.youtube.com/watch?v=yOHfFYRGNdc
+    presentation: 
