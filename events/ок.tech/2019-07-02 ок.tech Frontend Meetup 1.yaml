@@ -1,0 +1,20 @@
+name: ок.tech Frontend Meetup 1
+date: 2019-07-02
+videos: 
+talks:
+  - name: Очень странное тестирование
+    speaker: Назим Гафаров
+    video: 
+    presentation: 
+  - name: Первый взгляд на EndorphinJS
+    speaker: Сергей Чикуёнок
+    video: 
+    presentation: 
+  - name: Тексты в веб-приложениях
+    speaker: Олег Коровин
+    video: 
+    presentation: 
+  - name: Как мы переводим поисковые сервисы Яндекса на React
+    speaker: Антон Виноградов
+    video: 
+    presentation: 

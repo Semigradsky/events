@@ -1,0 +1,16 @@
+name: ок.tech Frontend Meetup 2
+date: 2019-11-26
+videos: 
+talks:
+  - name: "React: Lifting state up is killing your app"
+    speaker: Андрей Гончаров
+    video: 
+    presentation: 
+  - name: "Священный грааль: запуск React в Java"
+    speaker: Олег Коровин
+    video: 
+    presentation: 
+  - name: Баги, которые вы никогда не встретите
+    speaker: Тим Чаптыков
+    video: 
+    presentation: 
