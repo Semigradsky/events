@@ -1,4 +1,16 @@
 name: MSK VUE.JS 3
 date: 2019-09-19
 videos: ''
-talks: []
+talks: 
+  - name: Специфика рендеринга vue.js-приложений на сервере
+    speaker: Алексей Клюев
+    video: 
+    presentation: 
+  - name: Nuxt.js from the Core
+    speaker: Дмитрий Молотков
+    video: 
+    presentation: 
+  - name: Организация работы с API на Vue.js.
+    speaker: Копачёв Виталий
+    video: 
+    presentation: 
