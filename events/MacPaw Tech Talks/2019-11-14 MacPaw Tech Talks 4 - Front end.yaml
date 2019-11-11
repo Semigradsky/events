@@ -1,0 +1,16 @@
+name: MacPaw Tech Talks 4 - Front end
+date: 2019-11-14
+videos: 
+talks:
+  - name: Make your site fully accessible
+    speaker: Irina Mazurak
+    video: 
+    presentation: 
+  - name: Interactive office map in JS
+    speaker: Bogdan Onikienko
+    video: 
+    presentation: 
+  - name: Something about browser extensions
+    speaker: Юрий Федоренко
+    video: 
+    presentation: 
