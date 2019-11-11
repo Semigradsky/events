@@ -27,7 +27,7 @@
 | --- | :---: | --- |
 | [The nature of Service Workers and how to use them in Angular apps](https://youtu.be/lcagPZcPq38)  |  [Дмитрий Грачёв](speakers/Дмитрий%20Грачёв.md)  |    |
 | [The functional nature of RxJS](https://youtu.be/qOl8WKpdRlI)  |  [Александр Рудый](speakers/Александр%20Рудый.md)  |    |
-| [Quiz по мотивам Angular Connect 2019](https://youtu.be/dZuLBjFu2Is)  |  [?](speakers/?.md)  |    |
+| [Quiz по мотивам Angular Connect 2019](https://youtu.be/dZuLBjFu2Is)  |  [Виктория Рымкевич](speakers/Виктория%20Рымкевич.md)  |    |
 ## Стачка 2019 (осень) - Oct 12-13 
 | | | |
 | --- | :---: | --- |

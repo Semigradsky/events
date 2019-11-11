@@ -8,7 +8,6 @@
 ## Unknown
 - 2019 Sep 24 -- pitera11y_meetup 1    
 - 2019 Sep 24 -- pitera11y_meetup 1    
-- 2019 Aug 15 -- MSK VUE.JS 2    
 ## Доклад-сюрприз
 - 2019 May 20 -- PiterJS 37    
 ## Технологии во фронтенде Яндекса
