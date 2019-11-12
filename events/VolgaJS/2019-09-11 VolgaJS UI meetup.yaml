@@ -1,0 +1,12 @@
+name: VolgaJS UI meetup
+date: 2019-09-11
+videos: 
+talks:
+  - name: "Асинхронный JavaScript: от Callback-хелла до RxJS-парадайза"
+    speaker: Александр Макаренко
+    video: 
+    presentation: 
+  - name: "Tips and tricks: NgRx in action"
+    speaker: Михаил Кузнецов
+    video: 
+    presentation: 
