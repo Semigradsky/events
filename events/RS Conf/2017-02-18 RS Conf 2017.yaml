@@ -58,7 +58,7 @@ talks:
     speaker: Martin Splitt
     video: https://www.youtube.com/watch?v=PPnmdIaP4jA
     lang: en
-  - name: "My Vanilla CSS"
+  - name: "Мой ванильный CSS"
     speaker: Вадим Макеев
     video: https://www.youtube.com/watch?v=jAAVN7SWqdk
   - name: "Миграция с Angular 1 на Angular 2+"

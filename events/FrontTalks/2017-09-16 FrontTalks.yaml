@@ -6,27 +6,35 @@ link: 'https://events.yandex.ru/events/YaTalks/2017/'
 talks:
   - name: 'Lessons from the field: bringing digital products to emerging markets'
     speaker: Ally Long
+    lang: en
     url: 'https://events.yandex.ru/lib/talks/4853/'
   - name: Clientside optimization for mobile devices
     speaker: Иван Карев
+    lang: en
     url: 'https://events.yandex.ru/lib/talks/4861/'
   - name: 'Watch your back, Browser! You''re being observed.'
     speaker: Stefan Judis
+    lang: en
     url: 'https://events.yandex.ru/lib/talks/4880/'
   - name: Inner structure of webpack bundle
     speaker: Алексей Иванов
+    lang: en
     url: 'https://events.yandex.ru/lib/talks/4854/'
   - name: 8 1/2 things about serverless (with Node.js)
     speaker: Slobodan Stojanović
+    lang: en
     url: 'https://events.yandex.ru/lib/talks/4882/'
   - name: 'Time estimation: short cookbook for developers'
     speaker: Александра Шинкевич
+    lang: en
     url: 'https://events.yandex.ru/lib/talks/4883/'
   - name: Inhuman UI
     speaker: Вадим Макеев
+    lang: en
     url: 'https://events.yandex.ru/lib/talks/4885/'
   - name: Rendering performance inside out
     speaker: Martin Splitt
+    lang: en
     url: 'https://events.yandex.ru/lib/talks/4847/'
   - name: Интерактивное видео на технологиях Smart TV
     speaker: 'Амо Степанян, Виталий Потапов, Александр Олейников'
