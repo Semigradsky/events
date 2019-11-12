@@ -56,7 +56,7 @@
 | [ECMAScript 2017 and beyond](https://www.youtube.com/watch?v=5Kw4XVSb4P4) [en] |  [Dr. Axel Rauschmayer](speakers/Dr.%20Axel%20Rauschmayer.md)  |    |
 | [Service Design: Case study](https://www.youtube.com/watch?v=jPoizpg9MDE)  |  [Виталий Воронович](speakers/Виталий%20Воронович.md)  |    |
 | [Making PWAs with Polymer [WORKSHOP]](https://www.youtube.com/watch?v=PPnmdIaP4jA) [en] |  [Martin Splitt](speakers/Martin%20Splitt.md)  |    |
-| [My Vanilla CSS](https://www.youtube.com/watch?v=jAAVN7SWqdk)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
+| [Мой ванильный CSS](https://www.youtube.com/watch?v=jAAVN7SWqdk)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
 | [Миграция с Angular 1 на Angular 2+](https://www.youtube.com/watch?v=fI7VSmWqP3A)  |  [Andrei Palchys](speakers/Andrei%20Palchys.md)  |    |
 | [Service Workers, the gotchas in your path to production](https://www.youtube.com/watch?v=9L8YhkA0co4) [en] |  [Antoni Huguet Vives](speakers/Antoni%20Huguet%20Vives.md)  |    |
 | [Designing for Composability](https://www.youtube.com/watch?v=BxoJ7WCbQFE)  |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |

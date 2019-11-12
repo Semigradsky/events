@@ -25,14 +25,14 @@
 ## FrontTalks - 2017 Sep 16-17 
 | | | |
 | --- | :---: | --- |
-| [Lessons from the field: bringing digital products to emerging markets](https://events.yandex.ru/lib/talks/4853/)  |  [Ally Long](speakers/Ally%20Long.md)  |    |
-| [Clientside optimization for mobile devices](https://events.yandex.ru/lib/talks/4861/)  |  [Иван Карев](speakers/Иван%20Карев.md)  |    |
-| [Watch your back, Browser! You&#39;re being observed.](https://events.yandex.ru/lib/talks/4880/)  |  [Stefan Judis](speakers/Stefan%20Judis.md)  |    |
-| [Inner structure of webpack bundle](https://events.yandex.ru/lib/talks/4854/)  |  [Алексей Иванов](speakers/Алексей%20Иванов.md)  |    |
-| [8 1&#x2F;2 things about serverless (with Node.js)](https://events.yandex.ru/lib/talks/4882/)  |  [Slobodan Stojanović](speakers/Slobodan%20Stojanović.md)  |    |
-| [Time estimation: short cookbook for developers](https://events.yandex.ru/lib/talks/4883/)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
-| [Inhuman UI](https://events.yandex.ru/lib/talks/4885/)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
-| [Rendering performance inside out](https://events.yandex.ru/lib/talks/4847/)  |  [Martin Splitt](speakers/Martin%20Splitt.md)  |    |
+| [Lessons from the field: bringing digital products to emerging markets](https://events.yandex.ru/lib/talks/4853/) [en] |  [Ally Long](speakers/Ally%20Long.md)  |    |
+| [Clientside optimization for mobile devices](https://events.yandex.ru/lib/talks/4861/) [en] |  [Иван Карев](speakers/Иван%20Карев.md)  |    |
+| [Watch your back, Browser! You&#39;re being observed.](https://events.yandex.ru/lib/talks/4880/) [en] |  [Stefan Judis](speakers/Stefan%20Judis.md)  |    |
+| [Inner structure of webpack bundle](https://events.yandex.ru/lib/talks/4854/) [en] |  [Алексей Иванов](speakers/Алексей%20Иванов.md)  |    |
+| [8 1&#x2F;2 things about serverless (with Node.js)](https://events.yandex.ru/lib/talks/4882/) [en] |  [Slobodan Stojanović](speakers/Slobodan%20Stojanović.md)  |    |
+| [Time estimation: short cookbook for developers](https://events.yandex.ru/lib/talks/4883/) [en] |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
+| [Inhuman UI](https://events.yandex.ru/lib/talks/4885/) [en] |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
+| [Rendering performance inside out](https://events.yandex.ru/lib/talks/4847/) [en] |  [Martin Splitt](speakers/Martin%20Splitt.md)  |    |
 | [Интерактивное видео на технологиях Smart TV](https://events.yandex.ru/lib/talks/4911/)  |  [Амо Степанян](speakers/Амо%20Степанян.md)  [Виталий Потапов](speakers/Виталий%20Потапов.md)  [Александр Олейников](speakers/Александр%20Олейников.md)  |    |
 | [Демонстрация экрана в действии](https://events.yandex.ru/lib/talks/4887/)  |  [Наталья Маркитантова](speakers/Наталья%20Маркитантова.md)  [Алексей Носов](speakers/Алексей%20Носов.md)  |    |
 | [Waaaaasm?](https://events.yandex.ru/lib/talks/4851/)  |  [Валерий Кузьмин](speakers/Валерий%20Кузьмин.md)  |    |

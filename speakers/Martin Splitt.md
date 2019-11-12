@@ -22,4 +22,4 @@
 ## Making PWAs with Polymer [WORKSHOP]
 - 2017 Feb 18-19 -- [RS Conf 2017](https://www.youtube.com/watch?v=PPnmdIaP4jA) [en]   
 ## Rendering performance inside out
-- 2017 Sep 16-17 -- [FrontTalks](https://events.yandex.ru/lib/talks/4847/)    
+- 2017 Sep 16-17 -- [FrontTalks](https://events.yandex.ru/lib/talks/4847/) [en]   
