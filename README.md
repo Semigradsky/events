@@ -10,7 +10,7 @@
 | [Эксперименты на людях](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=3541s)  |  [Антон Виноградов](speakers/Антон%20Виноградов.md)  |    |
 | [await video.play(). Как мы начали раздавать ES2017 в продакшене](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=7941s)  |  [Максим Сысоев](speakers/Максим%20Сысоев.md)  |    |
 | [Мониторинг и повышение стабильности загрузки веб-сервисов](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=10298s)  |  [Юрий Пузыня](speakers/Юрий%20Пузыня.md)  |    |
-| [&lt;⁣a⁣&gt;](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=13900s)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [&lt;a&gt;](https://www.youtube.com/watch?v=CKbOHn1lJWw&t=13900s)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
 ## WSD 2019 - Екатеринбург - Oct 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;DsfnFrwKksA)
 | | | |
 | --- | :---: | --- |
