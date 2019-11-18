@@ -18,6 +18,7 @@ talks:
     speaker: Илья Рябчинский
     video: 
     presentation: 
+    code: https://github.com/eon-com/TypeScript-Snippets
   - name: Code sharing via Angular library like a pro
     speaker: Олег Васильев
     video: 

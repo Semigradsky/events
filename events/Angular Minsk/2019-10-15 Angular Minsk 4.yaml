@@ -5,12 +5,12 @@ talks:
   - name: The nature of Service Workers and how to use them in Angular apps
     speaker: Дмитрий Грачёв
     video: https://youtu.be/lcagPZcPq38
-    presentation:
+    presentation: https://docs.google.com/presentation/d/1mQLmHTkVzmYTkLW2s65yv75rSzkKTUFZE6ExECFZM9g
   - name: The functional nature of RxJS
     speaker: Александр Рудый
     video: https://youtu.be/qOl8WKpdRlI
-    presentation:
+    presentation: https://docs.google.com/presentation/d/1rf8HuV3TCRvVp4ZRr2IHc6T6HpPkWVAiYvNj-EPn-3Q
   - name: Quiz по мотивам Angular Connect 2019
     speaker: Виктория Рымкевич
     video: https://youtu.be/dZuLBjFu2Is
-    presentation:
+    presentation: https://docs.google.com/presentation/d/1BYCr0scLL_uuuJgJQzYLxSQHn07tbAswqPTXspoMojg
