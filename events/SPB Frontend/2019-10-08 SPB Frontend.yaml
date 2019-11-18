@@ -1,0 +1,16 @@
+name: SPB Frontend
+date: 2019-10-08
+videos: 
+talks:
+  - name: UserScripts — зачем нужны, чем могут помочь и где они обитают
+    speaker: Евгений Котляров
+    video: 
+    presentation: 
+  - name: Как побеждать на техническом интервью
+    speaker: Павел Франков
+    video: 
+    presentation: 
+  - name: GraphQL — всадник сингулярности
+    speaker: Вадим Царегородцев
+    video: 
+    presentation: 

@@ -1,0 +1,16 @@
+name: SPB Frontend
+date: 2019-11-19
+videos: 
+talks:
+  - name: Еще одна история про codeStyle в еще одной большой команде
+    speaker: Умяр Юсупов
+    video: 
+    presentation: 
+  - name: Проклятие обратной совместимости
+    speaker: Валентин Семирульник
+    video: 
+    presentation: 
+  - name: Система типов TypeScript как машина Тьюринга
+    speaker: Вячеслав Шебанов
+    video: 
+    presentation: 

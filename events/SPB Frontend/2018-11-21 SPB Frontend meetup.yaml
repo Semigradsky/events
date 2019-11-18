@@ -1,0 +1,19 @@
+name: SPB Frontend meetup
+date: 2018-11-21
+videos: https://www.youtube.com/playlist?list=PLI6q7lZ9ClB0Y8627Q6O5B1bQ8EDXvJDP
+talks:
+  - name: "GraphQL: basics and emotions"
+    speaker: Евгений Шкодин
+    lang: en
+    video: https://www.youtube.com/watch?v=_V45S5WrAKU
+    presentation: https://slides.com/iffjey/graphql-basics-and-emotions-en/live#/
+  - name: The voice path
+    speaker: Nelly Kam
+    lang: en
+    video: https://www.youtube.com/watch?v=CYBtAAN3--Q
+    presentation: https://docs.google.com/presentation/d/1CC5EVVTKRaYBmAKLkWk_4K33M9FuzpyZ4Xmc_HrYyzo/edit#slide=id.g47fc33c2f6_1_15
+  - name: Семантика для циников
+    speaker: Вадим Макеев
+    lang: en
+    video: https://www.youtube.com/watch?v=SvkTTvd6TGA
+    presentation: https://pepelsbey.net/pres/semantics/en/

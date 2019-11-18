@@ -1,0 +1,16 @@
+name: SPB Frontend
+date: 2018-09-18
+videos: 
+talks:
+  - name: Применение WebAssembly
+    speaker: Николай Говоров
+    video: https://www.youtube.com/watch?v=VcvCpbjyCVg
+    presentation: https://nikolay-govorov.github.io/talk__wasm/#
+  - name: Дизайн + фронтенд = ❤
+    speaker: Александр Каменяр
+    video: https://www.youtube.com/watch?v=EHThko5fj5w
+    presentation: https://goo.gl/osBknm
+  - name: REST In Peace
+    speaker: Азат Разетдинов
+    video: https://www.youtube.com/watch?v=lAvPyZjJkN8
+    presentation: http://amp.gs/yLLt

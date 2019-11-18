@@ -5,6 +5,7 @@ talks:
   - name: Серверный рендеринг React
     speaker: Николай Говоров
     video: https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1160s
+    presentation: https://nikolay-govorov.github.io/talk__react-ssr/#
   - name: Компонентный WebGL
     speaker: Евгений Кувшинов
     video: https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1210s

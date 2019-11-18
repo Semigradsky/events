@@ -12,8 +12,8 @@ talks:
     presentation: 
   - name: WebAssembly — новый герой
     speaker: Николай Говоров
-    video: 
-    presentation: 
+    video: https://www.facebook.com/BTSDigital/videos/279066159632468/
+    presentation: https://nikolay-govorov.github.io/talk__wasm-new-hero/#
   - name: Семантика для циников
     speaker: Вадим Макеев
     video: 

@@ -1,0 +1,16 @@
+name: SPB Frontend
+date: 2018-12-12
+videos: 
+talks:
+  - name: "Фронтенд: обработка ошибок"
+    speaker: Елена Правдина
+    video: 
+    presentation: 
+  - name: "Психология для айтишников: про рабочую атмосферу"
+    speaker: Дмитрий Семьюшкин
+    video: 
+    presentation: 
+  - name: "JS Битва: история побед и поражений"
+    speaker: Александр Коротаев
+    video: 
+    presentation: 

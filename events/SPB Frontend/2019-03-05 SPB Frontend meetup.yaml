@@ -1,0 +1,19 @@
+name: SPB Frontend meetup
+date: 2019-03-05
+videos: https://www.youtube.com/playlist?list=PLI6q7lZ9ClB19P854XjCb6m7aj2F5SCAg
+talks:
+  - name: Can Design Principles Make me a Better Software Engineer?
+  speaker: Алексей Тактаров
+    lang: en
+    video: https://www.youtube.com/watch?v=2rh13TqNDF4
+    presentation: https://www.dropbox.com/s/2t1aasguhmqcyas/can-design-principles-make-me-a-better-software-engineer.pdf?dl=0
+  - name: Video content protection overview for Frontend developers
+    speaker: Алексей Голубев
+    lang: en
+    video: https://www.youtube.com/watch?v=PXC4xuM1EH8
+    presentation: https://goalstudio.github.io/drm-frontend-developers.pdf
+  - name: "WebGL and 2D: simple as Web"
+    speaker: Александр Коротаев
+    lang: en
+    video: https://www.youtube.com/watch?v=56rX1gTmt_c
+    presentation: http://lekzd.ru/presentations/webgl_simple_sbp_eng/
