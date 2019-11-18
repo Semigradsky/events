@@ -8,6 +8,10 @@
 ## Unknown
 - 2019 Sep 24 -- pitera11y_meetup 1    
 - 2019 Sep 24 -- pitera11y_meetup 1    
+## Адаптивный веб-дизайн — как сделать интернет лучше
+- 2012 Oct 06-07 -- 404fest 2012    
+## QA session
+- 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
 ## Доклад-сюрприз
 - 2019 May 20 -- PiterJS 37    
 ## Технологии во фронтенде Яндекса
@@ -49,10 +53,6 @@
 - 2017 Apr 06 -- [UralJS 3](https://www.youtube.com/watch?v=0JOsoNzi6KY)    
 ## Введение в архитектуру VIPER
 - 2016 Dec 10 -- [Krasnodar Dev Days 1](https://www.youtube.com/watch?v=d-aDhLv_mfo)    
-## QA session
-- 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
-## Адаптивный веб-дизайн — как сделать интернет лучше
-- 2012 Oct 06-07 -- 404fest 2012    
 ## Вопросы и ответы
 - 2013 Apr 27 -- [Я.Субботник](https://events.yandex.ru/lib/talks/845/)    
 - 2013 Apr 06 -- [Я.Субботник по фронтенду](https://events.yandex.ru/lib/talks/697/)    

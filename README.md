@@ -3,6 +3,14 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Minsk 5 - Nov 12 
+| | | |
+| --- | :---: | --- |
+| Angular at Scale — How we made our work much easier  |  [Leonard Thiele](speakers/Leonard%20Thiele.md)  |    |
+| Let’s automate with npm scripts  |  [Константин Маликов](speakers/Константин%20Маликов.md)  |    |
+| How to choose your Angular testing tools  |  [Артем Руденко](speakers/Артем%20Руденко.md)  |    |
+| 3 tips to improve your Angular app performance  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  |  [:octocat:](https://github.com/eon-com/TypeScript-Snippets)  |
+| Code sharing via Angular library like a pro  |  [Олег Васильев](speakers/Олег%20Васильев.md)  |    |
 ## Юбилейный Я.Субботник по разработке интерфейсов - Oct 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;CKbOHn1lJWw)
 | | | |
 | --- | :---: | --- |
@@ -25,9 +33,9 @@
 ## Angular Minsk 4 - Oct 15 
 | | | |
 | --- | :---: | --- |
-| [The nature of Service Workers and how to use them in Angular apps](https://youtu.be/lcagPZcPq38)  |  [Дмитрий Грачёв](speakers/Дмитрий%20Грачёв.md)  |    |
-| [The functional nature of RxJS](https://youtu.be/qOl8WKpdRlI)  |  [Александр Рудый](speakers/Александр%20Рудый.md)  |    |
-| [Quiz по мотивам Angular Connect 2019](https://youtu.be/dZuLBjFu2Is)  |  [Виктория Рымкевич](speakers/Виктория%20Рымкевич.md)  |    |
+| [The nature of Service Workers and how to use them in Angular apps](https://youtu.be/lcagPZcPq38)  |  [Дмитрий Грачёв](speakers/Дмитрий%20Грачёв.md)  | [:notebook:](https://docs.google.com/presentation/d/1mQLmHTkVzmYTkLW2s65yv75rSzkKTUFZE6ExECFZM9g)   |
+| [The functional nature of RxJS](https://youtu.be/qOl8WKpdRlI)  |  [Александр Рудый](speakers/Александр%20Рудый.md)  | [:notebook:](https://docs.google.com/presentation/d/1rf8HuV3TCRvVp4ZRr2IHc6T6HpPkWVAiYvNj-EPn-3Q)   |
+| [Quiz по мотивам Angular Connect 2019](https://youtu.be/dZuLBjFu2Is)  |  [Виктория Рымкевич](speakers/Виктория%20Рымкевич.md)  | [:notebook:](https://docs.google.com/presentation/d/1BYCr0scLL_uuuJgJQzYLxSQHn07tbAswqPTXspoMojg)   |
 ## Стачка 2019 (осень) - Oct 12-13 
 | | | |
 | --- | :---: | --- |
@@ -402,7 +410,7 @@
 ## PiterJS Tour 1 - Apr 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y)
 | | | |
 | --- | :---: | --- |
-| [Серверный рендеринг React](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1160s)  |  [Николай Говоров](speakers/Николай%20Говоров.md)  |    |
+| [Серверный рендеринг React](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1160s)  |  [Николай Говоров](speakers/Николай%20Говоров.md)  | [:notebook:](https://nikolay-govorov.github.io/talk__react-ssr/#)   |
 | [Компонентный WebGL](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1210s)  |  [Евгений Кувшинов](speakers/Евгений%20Кувшинов.md)  |    |
 | [Формальная и интуитивная семантика языка программирования на примерах JS и JSX](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1260s)  |  [Артём Арутюнян](speakers/Артём%20Арутюнян.md)  |    |
 ## KharkivCSS 4 - Apr 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ5NW5T60UpgJIZ53Syoy79JKPHcU0zPa)

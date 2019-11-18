@@ -30,7 +30,7 @@
 ## PiterJS Tour 1 - 2019 Apr 26 [:movie_camera:](https://www.youtube.com/watch?v=MueYSY2ZO4Y)
 | | | |
 | --- | :---: | --- |
-| [Серверный рендеринг React](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1160s)  |  [Николай Говоров](speakers/Николай%20Говоров.md)  |    |
+| [Серверный рендеринг React](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1160s)  |  [Николай Говоров](speakers/Николай%20Говоров.md)  | [:notebook:](https://nikolay-govorov.github.io/talk__react-ssr/#)   |
 | [Компонентный WebGL](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1210s)  |  [Евгений Кувшинов](speakers/Евгений%20Кувшинов.md)  |    |
 | [Формальная и интуитивная семантика языка программирования на примерах JS и JSX](https://www.youtube.com/watch?v=MueYSY2ZO4Y&t=1260s)  |  [Артём Арутюнян](speakers/Артём%20Арутюнян.md)  |    |
 ## PiterJS 36 - 2019 Apr 18 [:movie_camera:](https://vk.com/video-92250781_456239080?list=4985960f459d92200a)

@@ -3,7 +3,19 @@
 
 # SPB Frontend
 
-## SPB Frontend - 2018 Jul 16 
+## SPB Frontend meetup - 2018 Nov 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLI6q7lZ9ClB0Y8627Q6O5B1bQ8EDXvJDP)
+| | | |
+| --- | :---: | --- |
+| [GraphQL: basics and emotions](https://www.youtube.com/watch?v=_V45S5WrAKU) [en] |  [Евгений Шкодин](speakers/Евгений%20Шкодин.md)  | [:notebook:](https://slides.com/iffjey/graphql-basics-and-emotions-en/live#/)   |
+| [The voice path](https://www.youtube.com/watch?v=CYBtAAN3--Q) [en] |  [Nelly Kam](speakers/Nelly%20Kam.md)  | [:notebook:](https://docs.google.com/presentation/d/1CC5EVVTKRaYBmAKLkWk_4K33M9FuzpyZ4Xmc_HrYyzo/edit#slide=id.g47fc33c2f6_1_15)   |
+| [Семантика для циников](https://www.youtube.com/watch?v=SvkTTvd6TGA) [en] |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://pepelsbey.net/pres/semantics/en/)   |
+## SPB Frontend - 2018 Sep 18 
+| | | |
+| --- | :---: | --- |
+| [Применение WebAssembly](https://www.youtube.com/watch?v=VcvCpbjyCVg)  |  [Николай Говоров](speakers/Николай%20Говоров.md)  | [:notebook:](https://nikolay-govorov.github.io/talk__wasm/#)   |
+| [Дизайн + фронтенд &#x3D; ❤](https://www.youtube.com/watch?v=EHThko5fj5w)  |  [Александр Каменяр](speakers/Александр%20Каменяр.md)  | [:notebook:](https://goo.gl/osBknm)   |
+| [REST In Peace](https://www.youtube.com/watch?v=lAvPyZjJkN8)  |  [Азат Разетдинов](speakers/Азат%20Разетдинов.md)  | [:notebook:](http://amp.gs/yLLt)   |
+## SPB Frontend - 2018 Jul 17 
 | | | |
 | --- | :---: | --- |
 | [Нейросети в JavaScript](https://youtu.be/HHuRlxVX77o?t=45s)  |  [Яна Клементьева](speakers/Яна%20Клементьева.md)  | [:notebook:](https://goo.gl/CKb51t)   |

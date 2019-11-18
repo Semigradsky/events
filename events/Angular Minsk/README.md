@@ -3,12 +3,20 @@
 
 # Angular Minsk
 
+## Angular Minsk 5 - 2019 Nov 12 
+| | | |
+| --- | :---: | --- |
+| Angular at Scale — How we made our work much easier  |  [Leonard Thiele](speakers/Leonard%20Thiele.md)  |    |
+| Let’s automate with npm scripts  |  [Константин Маликов](speakers/Константин%20Маликов.md)  |    |
+| How to choose your Angular testing tools  |  [Артем Руденко](speakers/Артем%20Руденко.md)  |    |
+| 3 tips to improve your Angular app performance  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  |  [:octocat:](https://github.com/eon-com/TypeScript-Snippets)  |
+| Code sharing via Angular library like a pro  |  [Олег Васильев](speakers/Олег%20Васильев.md)  |    |
 ## Angular Minsk 4 - 2019 Oct 15 
 | | | |
 | --- | :---: | --- |
-| [The nature of Service Workers and how to use them in Angular apps](https://youtu.be/lcagPZcPq38)  |  [Дмитрий Грачёв](speakers/Дмитрий%20Грачёв.md)  |    |
-| [The functional nature of RxJS](https://youtu.be/qOl8WKpdRlI)  |  [Александр Рудый](speakers/Александр%20Рудый.md)  |    |
-| [Quiz по мотивам Angular Connect 2019](https://youtu.be/dZuLBjFu2Is)  |  [Виктория Рымкевич](speakers/Виктория%20Рымкевич.md)  |    |
+| [The nature of Service Workers and how to use them in Angular apps](https://youtu.be/lcagPZcPq38)  |  [Дмитрий Грачёв](speakers/Дмитрий%20Грачёв.md)  | [:notebook:](https://docs.google.com/presentation/d/1mQLmHTkVzmYTkLW2s65yv75rSzkKTUFZE6ExECFZM9g)   |
+| [The functional nature of RxJS](https://youtu.be/qOl8WKpdRlI)  |  [Александр Рудый](speakers/Александр%20Рудый.md)  | [:notebook:](https://docs.google.com/presentation/d/1rf8HuV3TCRvVp4ZRr2IHc6T6HpPkWVAiYvNj-EPn-3Q)   |
+| [Quiz по мотивам Angular Connect 2019](https://youtu.be/dZuLBjFu2Is)  |  [Виктория Рымкевич](speakers/Виктория%20Рымкевич.md)  | [:notebook:](https://docs.google.com/presentation/d/1BYCr0scLL_uuuJgJQzYLxSQHn07tbAswqPTXspoMojg)   |
 ## Angular Minsk 3 - 2019 Sep 17 
 | | | |
 | --- | :---: | --- |
