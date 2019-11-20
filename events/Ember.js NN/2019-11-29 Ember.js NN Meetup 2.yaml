@@ -1,0 +1,16 @@
+name: Ember.js NN Meetup 2
+date: 2019-11-29
+videos: 
+talks:
+  - name: "Embroider: future build system for EmberJS apps"
+    speaker: Алексей Васильев
+    video: 
+    presentation: 
+  - name: "Ember Data: The Future"
+    speaker: Андрей Фель
+    video: 
+    presentation: 
+  - name: НАМ И ТАК НОРМ!(?) — Ember & Typescript
+    speaker: Александр Алявдин
+    video: 
+    presentation: 
