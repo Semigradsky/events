@@ -8,10 +8,6 @@
 ## Unknown
 - 2019 Sep 24 -- pitera11y_meetup 1    
 - 2019 Sep 24 -- pitera11y_meetup 1    
-## Адаптивный веб-дизайн — как сделать интернет лучше
-- 2012 Oct 06-07 -- 404fest 2012    
-## QA session
-- 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
 ## Доклад-сюрприз
 - 2019 May 20 -- PiterJS 37    
 ## Технологии во фронтенде Яндекса
@@ -42,6 +38,10 @@
 - 2018 Apr 26 -- Mera 20 - JS tricks &amp; Angular quick start  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx)  
 ## Дискуссионная панель &quot;SPA сегодня — каким оно должно быть?&quot;
 - 2018 Apr 07 -- [SPA Meetup 4](https://youtu.be/BezEWFL5WKk)    
+## Адаптивный веб-дизайн — как сделать интернет лучше
+- 2012 Oct 06-07 -- 404fest 2012    
+## QA session
+- 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
 ## Q&amp;A Panel – React Kyiv March
 - 2018 Mar 23 -- [React Kyiv March Meetup](https://youtu.be/Vokq8ndgd5c)    
 ## PiterJS #23 — Дебаты 1 часть

@@ -86,6 +86,12 @@
 | [Smells like Angular Spirit: NestJS as natural backend for Angular](https://www.youtube.com/watch?v=DNSwqq3jitc)  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/smells-like-angular-spirit)   |
 | [Rendering Angular applications in Terminal. Angular Platforms in-depth](https://www.youtube.com/watch?v=qFKBcit2psU)  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://slides.com/nikitapoltoratsky/rendering-angular-applications-in-terminal-2)   |
 | [Angular PWA: Make Angular app great again](https://www.youtube.com/watch?v=pgITHoKj5xQ)  |  [Ирина Бабровская](speakers/Ирина%20Бабровская.md)  | [:notebook:](https://make-angular-app-great-again.netlify.com/)   |
+## Alfa JS MeetUP SPb - Aug 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;HTmbdhMqU6M)
+| | | |
+| --- | :---: | --- |
+| [Как мы начали тестировать фронтенд с Cypress](https://www.youtube.com/watch?v=HTmbdhMqU6M&t=1220s)  |  [Александр Коробка](speakers/Александр%20Коробка.md)  |    |
+| [Docker для Node.js, или сам себе девопс-инженер](https://www.youtube.com/watch?v=HTmbdhMqU6M&t=1290s)  |  [Дмитрий Самохвалов](speakers/Дмитрий%20Самохвалов.md)  |    |
+| [Планета на WebGL](https://www.youtube.com/watch?v=HTmbdhMqU6M&t=1325s)  |  [Анна Волкова](speakers/Анна%20Волкова.md)  |    |
 ## SPA Meetup 5 - Aug 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12)
 | | | |
 | --- | :---: | --- |

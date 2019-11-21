@@ -3,6 +3,12 @@
 
 # Alfa JS
 
+## Alfa JS MeetUP SPb - 2019 Aug 22 [:movie_camera:](https://www.youtube.com/watch?v=HTmbdhMqU6M)
+| | | |
+| --- | :---: | --- |
+| [Как мы начали тестировать фронтенд с Cypress](https://www.youtube.com/watch?v=HTmbdhMqU6M&t=1220s)  |  [Александр Коробка](speakers/Александр%20Коробка.md)  |    |
+| [Docker для Node.js, или сам себе девопс-инженер](https://www.youtube.com/watch?v=HTmbdhMqU6M&t=1290s)  |  [Дмитрий Самохвалов](speakers/Дмитрий%20Самохвалов.md)  |    |
+| [Планета на WebGL](https://www.youtube.com/watch?v=HTmbdhMqU6M&t=1325s)  |  [Анна Волкова](speakers/Анна%20Волкова.md)  |    |
 ## JavaScript MeetUp - 2019 Mar 27 [:movie_camera:](https://www.youtube.com/watch?v=l8Fp1BhT5i0)
 | | | |
 | --- | :---: | --- |
