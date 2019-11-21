@@ -34,7 +34,7 @@ function getFirstDay(date) {
     return Array.isArray(date) ? date[0]: date
 }
 
-function formatTalk(talk) {
+function formatTalk(talk, level) {
     let speakers = []
 
     for (const s of talk.speaker.split(',')) {
@@ -43,13 +43,13 @@ function formatTalk(talk) {
 
     speakers = speakers.map(speaker => ({
         speaker,
-        speakerLink: 'speakers/' + speaker.replace(/ /g, '%20') + '.md',
+        speakerLink: '../'.repeat(level) + 'speakers/' + speaker.replace(/ /g, '%20') + '.md',
     }))
 
     return {
         ...talk,
         url: talk.video || talk.url,
-        lang: talk.lang,
+        lang: talk.lang === 'ru' ? undefined : talk.lang,
         speakers,
     }
 }
@@ -72,7 +72,7 @@ async function generateByYears(events) {
 
         groupedByYears.set(year, [...groupedEvents, {
             ...event,
-            talks: event.talks.map(formatTalk),
+            talks: event.talks.map(talk => formatTalk(talk, 0)),
             firstDay: getFirstDay(event.date).toISOString(),
             dateString: toDateString(event.date),
         }])
@@ -107,7 +107,7 @@ async function generateByOrganizers(events) {
 
         groupedByOrganizers.set(organizer, [...groupedEvents, {
             ...event,
-            talks: event.talks.map(formatTalk),
+            talks: event.talks.map(talk => formatTalk(talk, 2)),
             firstDay: getFirstDay(event.date).toISOString(),
             dateString: toFullDateString(event.date),
         }])

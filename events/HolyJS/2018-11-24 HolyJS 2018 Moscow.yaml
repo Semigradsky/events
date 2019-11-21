@@ -104,7 +104,7 @@ talks:
     video: https://www.youtube.com/watch?v=qXwO5N_xmUo
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/5mwoMzLOqAumsiEscKoIKs/03623993840d8689717f3e267ea0ce2f/Sebastian_Golasch_The_Universal_Serial_Web.pdf
   - name: Рендерим 3D по-взрослому
-    speaker: Артем Кунец
+    speaker: Артём Кунец
     video: https://www.youtube.com/watch?v=2ptADWLEk6w
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/2HOMiamMRGCuQIo40scWqe/f3a501094513a89783d472665fe76d2b/Artem_Kunets_Renderim_3D_po-vzroslomu.pdf
   - name: "Final Form: Form state management via Observers"
