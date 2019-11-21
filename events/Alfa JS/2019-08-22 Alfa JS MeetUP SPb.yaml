@@ -1,16 +1,16 @@
 name: Alfa JS MeetUP SPb
 date: 2019-08-22
-videos: ''
+videos: https://www.youtube.com/watch?v=HTmbdhMqU6M
 talks:
   - name: Как мы начали тестировать фронтенд с Cypress
     speaker: Александр Коробка
-    video:
+    video: https://www.youtube.com/watch?v=HTmbdhMqU6M&t=1220s
     presentation:
   - name: Docker для Node.js, или сам себе девопс-инженер
     speaker: Дмитрий Самохвалов
-    video:
+    video: https://www.youtube.com/watch?v=HTmbdhMqU6M&t=1290s
     presentation:
   - name: Планета на WebGL
     speaker: Анна Волкова
-    video:
+    video: https://www.youtube.com/watch?v=HTmbdhMqU6M&t=1325s
     presentation:
