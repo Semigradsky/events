@@ -12,11 +12,11 @@
 ## Angular Minsk 5 - Nov 12 
 | | | |
 | --- | :---: | --- |
-| Angular at Scale — How we made our work much easier  |  [Leonard Thiele](speakers/Leonard%20Thiele.md)  |    |
-| Let’s automate with npm scripts  |  [Константин Маликов](speakers/Константин%20Маликов.md)  |    |
-| How to choose your Angular testing tools  |  [Артём Руденко](speakers/Артём%20Руденко.md)  |    |
-| 3 tips to improve your Angular app performance  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  |  [:octocat:](https://github.com/eon-com/TypeScript-Snippets)  |
-| Code sharing via Angular library like a pro  |  [Олег Васильев](speakers/Олег%20Васильев.md)  |    |
+| [Angular at Scale — How we made our work much easier](https://www.youtube.com/watch?v=jSrUykMIEYg) [en] |  [Leonard Thiele](speakers/Leonard%20Thiele.md)  | [:notebook:](https://drive.google.com/file/d/1p7aNlV3fO-PlMUwT_Jq3U7OidjnrCg16/view) [:octocat:](https://github.com/eon-com/TypeScript-Snippets)  |
+| [Let’s automate with npm scripts](https://www.youtube.com/watch?v=3EXMW5565IY)  |  [Константин Маликов](speakers/Константин%20Маликов.md)  | [:notebook:](https://drive.google.com/file/d/1kUaY1DrJdK50ZbjQ0RZ5hlG58Lh7pXmA/view)   |
+| [How to choose your Angular testing tools](https://www.youtube.com/watch?v=9A84MxUNqfA)  |  [Артём Руденко](speakers/Артём%20Руденко.md)  | [:notebook:](https://drive.google.com/file/d/1vR3ae4lv94UaJRtb5NsyQGGJIvO2lYyj/view)   |
+| [3 tips to improve your Angular app performance](https://www.youtube.com/watch?v=u_QoSSef2xE)  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  | [:notebook:](https://drive.google.com/file/d/16238cX2EFFacaDwfQ4GN70VmP_-TvoM8/view)   |
+| [Code sharing via Angular library like a pro](https://www.youtube.com/watch?v=7R5NFXvswFk)  |  [Олег Васильев](speakers/Олег%20Васильев.md)  | [:notebook:](https://slides.com/olegvasilyev/angular-library)   |
 ## Юбилейный Я.Субботник по разработке интерфейсов - Oct 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;CKbOHn1lJWw)
 | | | |
 | --- | :---: | --- |
