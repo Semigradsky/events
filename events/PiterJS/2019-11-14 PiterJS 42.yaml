@@ -1,16 +1,16 @@
 name: PiterJS 42
 date: 2019-11-14
-videos: 
+videos: https://www.youtube.com/watch?v=EoMd-8w-DfA
 talks:
   - name: Логирование на JS
     speaker: Кирилл Сергеев
-    video: 
-    presentation: 
+    video: https://youtu.be/EoMd-8w-DfA?t=773
+    presentation: https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Djs-logging.pdf
   - name: Документация к API — делай это понятно
     speaker: Светлана Авдей
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=EoMd-8w-DfA&t=3970
+    presentation: https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Dapi-documenting.pdf
   - name: Взаимодействие с iBeacons в React Native
     speaker: Максим Ерехинский
-    video: 
-    presentation: 
+    video: https://youtu.be/EoMd-8w-DfA?t=6433
+    presentation: https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Dibeacon-with-react-native.pdf

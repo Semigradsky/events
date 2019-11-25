@@ -1,0 +1,20 @@
+name: PiterJS 43
+date: 2019-12-17
+videos: 
+talks:
+  - name: Программирование — это лава!
+    speaker: Антон Ляпцев
+    video: 
+    presentation: 
+  - name: Архитектура. Другой взгляд
+    speaker: Алексей Золотых
+    video: 
+    presentation: 
+  - name: Напиши ты уже эти тесты
+    speaker: Вадим Царегородцев
+    video: 
+    presentation: 
+  - name: Разработка собственного проекта
+    speaker: Дмитрий Пацура
+    video: 
+    presentation: 
