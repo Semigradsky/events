@@ -3,6 +3,12 @@
 
 # PiterJS
 
+## PiterJS 42 - 2019 Nov 14 [:movie_camera:](https://www.youtube.com/watch?v=EoMd-8w-DfA)
+| | | |
+| --- | :---: | --- |
+| [Логирование на JS](https://youtu.be/EoMd-8w-DfA?t=773)  |  [Кирилл Сергеев](../../speakers/Кирилл%20Сергеев.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Djs-logging.pdf)   |
+| [Документация к API — делай это понятно](https://www.youtube.com/watch?v=EoMd-8w-DfA&t=3970)  |  [Светлана Авдей](../../speakers/Светлана%20Авдей.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Dapi-documenting.pdf)   |
+| [Взаимодействие с iBeacons в React Native](https://youtu.be/EoMd-8w-DfA?t=6433)  |  [Максим Ерехинский](../../speakers/Максим%20Ерехинский.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Dibeacon-with-react-native.pdf)   |
 ## PiterJS 41 - 2019 Oct 10 [:movie_camera:](https://www.youtube.com/watch?v=J0RLSBGorMY)
 | | | |
 | --- | :---: | --- |
