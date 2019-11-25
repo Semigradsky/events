@@ -4,22 +4,23 @@ videos:
 talks:
   - name: Angular at Scale — How we made our work much easier
     speaker: Leonard Thiele
-    video: 
-    presentation: 
+    lang: en
+    video: https://www.youtube.com/watch?v=jSrUykMIEYg
+    presentation: https://drive.google.com/file/d/1p7aNlV3fO-PlMUwT_Jq3U7OidjnrCg16/view
+    code: https://github.com/eon-com/TypeScript-Snippets
   - name: Let’s automate with npm scripts
     speaker: Константин Маликов
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=3EXMW5565IY
+    presentation: https://drive.google.com/file/d/1kUaY1DrJdK50ZbjQ0RZ5hlG58Lh7pXmA/view
   - name: How to choose your Angular testing tools
     speaker: Артём Руденко
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=9A84MxUNqfA
+    presentation: https://drive.google.com/file/d/1vR3ae4lv94UaJRtb5NsyQGGJIvO2lYyj/view
   - name: 3 tips to improve your Angular app performance
     speaker: Илья Рябчинский
-    video: 
-    presentation: 
-    code: https://github.com/eon-com/TypeScript-Snippets
+    video: https://www.youtube.com/watch?v=u_QoSSef2xE
+    presentation: https://drive.google.com/file/d/16238cX2EFFacaDwfQ4GN70VmP_-TvoM8/view
   - name: Code sharing via Angular library like a pro
     speaker: Олег Васильев
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=7R5NFXvswFk
+    presentation: https://slides.com/olegvasilyev/angular-library
