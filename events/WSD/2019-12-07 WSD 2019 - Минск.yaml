@@ -6,31 +6,35 @@ talks:
     speaker: Никита Дубко
     video: 
     presentation: 
+  - name: Пусть всем кажется, что всё грузится быстро — скелетоны экономят время
+    speaker: Виктор Русакович
+    video: 
+    presentation: 
   - name: Фронтопс? Серьёзно?
     speaker: Анна Селезнёва
+    video: 
+    presentation: 
+  - name: Как я однажды верстал форму регистрации
+    speaker: Михаил Иванкив
     video: 
     presentation: 
   - name: "_ ___ ______?"
     speaker: Вадим Макеев
     video: 
     presentation: 
-  - name: 
-    speaker: 
+  - name: Неквадратный веб
+    speaker: Юлия Бухвалова
     video: 
     presentation: 
-  - name: 
-    speaker: 
+  - name: React Concurrent Mode
+    speaker: Павел Смолин
     video: 
     presentation: 
-  - name: 
-    speaker: 
+  - name: JAMstack — генерация статических сайтов в 2k19
+    speaker: Валентин Гиль
     video: 
     presentation: 
-  - name: 
-    speaker: 
-    video: 
-    presentation: 
-  - name: 
-    speaker: 
+  - name: Дискуссия «Как изменился веб за 10 лет — глазами очевидцев»
+    speaker: Юлия Бухвалова, Вадим Макеев, Анна Селезнёва, Никита Дубко
     video: 
     presentation: 
