@@ -47,10 +47,10 @@
 ## Открытый микрофон
 - 2017 Nov 22 -- [UralJS 5](https://www.youtube.com/watch?v=dz4I39TrvGs)    
 - 2017 Apr 06 -- [UralJS 3](https://www.youtube.com/watch?v=0JOsoNzi6KY)    
-## QA session
-- 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
 ## Адаптивный веб-дизайн — как сделать интернет лучше
 - 2012 Oct 06-07 -- 404fest 2012    
+## QA session
+- 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
 ## Введение в архитектуру VIPER
 - 2016 Dec 10 -- [Krasnodar Dev Days 1](https://www.youtube.com/watch?v=d-aDhLv_mfo)    
 ## Вопросы и ответы

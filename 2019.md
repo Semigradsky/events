@@ -63,8 +63,8 @@
 ## Angular Belarus 2 - Oct 10 
 | | | |
 | --- | :---: | --- |
-| 10x developer. A bunch of cool tips for each programmer  |  [Павел Юхнович](speakers/Павел%20Юхнович.md)  | [:notebook:](https://drive.google.com/file/d/1NEOoU5oB-AKlN5Gr8nbiGusq9hNaPHAa/view)   |
-| Angular Apps Architecture. Gentle introduction  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://slides.com/nikitapoltoratsky/angular-architecture#/)   |
+| [10x developer. A bunch of cool tips for each programmer](https://www.youtube.com/watch?v=03_RqyfMOew)  |  [Павел Юхнович](speakers/Павел%20Юхнович.md)  | [:notebook:](https://drive.google.com/file/d/1NEOoU5oB-AKlN5Gr8nbiGusq9hNaPHAa/view)   |
+| [Angular Apps Architecture. Gentle introduction](https://www.youtube.com/watch?v=nUX0M1IXQuk)  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://slides.com/nikitapoltoratsky/angular-architecture#/)   |
 ## LongestJS 1 - Sep 21 
 | | | |
 | --- | :---: | --- |
