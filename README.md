@@ -3,6 +3,11 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## GDG Minsk Web Meetup - Nov 27 
+| | | |
+| --- | :---: | --- |
+| Все знают только… (Browser API)  |  [Илья Запрцукий](speakers/Илья%20Запрцукий.md)  | [:notebook:](https://drive.google.com/open?id=1qDIkvU31NLZ1nEns2A_U_BVBlxC0Cn_r)   |
+| Реактивный вью. Заглядываем под обшивку ракеты  |  [Андрей Кучук](speakers/Андрей%20Кучук.md)  | [:notebook:](https://drive.google.com/open?id=1kS3LWvLPfeLoDdccBwLkWPign-X8oonS)   |
 ## PiterJS 42 - Nov 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;EoMd-8w-DfA)
 | | | |
 | --- | :---: | --- |
