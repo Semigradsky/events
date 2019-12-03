@@ -1,0 +1,16 @@
+name: SEMrush IT meetup 2
+date: 2019-12-11
+videos: 
+talks:
+  - name: Greet Node.js Multi-threading
+    speaker: Антон Белов
+    video: 
+    presentation: 
+  - name: React to Concurrent Mode
+    speaker: Алексей Балканский
+    video: 
+    presentation: 
+  - name: Lazy loading images
+    speaker: Денис Голубцов
+    video: 
+    presentation: 
