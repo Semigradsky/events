@@ -1,0 +1,20 @@
+name: OdessaFrontend Meetup 14
+date: 2019-12-18
+videos: 
+talks:
+  - name: Можно ли жить без Docker?
+    speaker: Юрий Чихрай
+    video: 
+    presentation: 
+  - name: Стереотипы во фронтенде
+    speaker: Екатерина Фастовец
+    video: 
+    presentation: 
+  - name: "Переменные в CSS: сколько вы ещё планируете ждать?"
+    speaker: Сергей Фомин
+    video: 
+    presentation: 
+  - name: Викторина
+    speaker: Николай Птущук
+    video: 
+    presentation: 
