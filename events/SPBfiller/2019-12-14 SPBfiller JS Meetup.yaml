@@ -1,0 +1,20 @@
+name: SPBfiller JS Meetup
+date: 2019-12-14
+videos: 
+talks:
+  - name: Переезд в монорепозиторий
+    speaker: Игорь Сачивка
+    video: 
+    presentation: 
+  - name: "Как путешествовать во времени: Undo \ redo в редакторе документов"
+    speaker: Дмитрий Коробейников
+    video: 
+    presentation: 
+  - name: Автоматический анализ производительности UI
+    speaker: Александр Пеньков
+    video: 
+    presentation: 
+  - name: Серьёзно о devtools
+    speaker: Алексей Лебедев
+    video: 
+    presentation: 
