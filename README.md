@@ -653,6 +653,12 @@
 | [Reactive Powered: RxJS with Angular Forms](https://fwdays.com/en/event/js-fwdays-2019/review/angular-forms) [en] |  [Shmuela Jacobs](speakers/Shmuela%20Jacobs.md)  |    |
 | [Solving behavioral complexity with FRP](https://fwdays.com/en/event/js-fwdays-2019/review/solving-behavioral-complexity-with-frp)  |  [Oleksii Levzhynskyi](speakers/Oleksii%20Levzhynskyi.md)  |    |
 | [Hinting at a better web](https://fwdays.com/event/js-fwdays-2019/review/hinting-at-a-better-web) [en] |  [Christian Heilmann](speakers/Christian%20Heilmann.md)  |    |
+## SPB Frontend meetup - Mar 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLI6q7lZ9ClB19P854XjCb6m7aj2F5SCAg)
+| | | |
+| --- | :---: | --- |
+| [Can Design Principles Make me a Better Software Engineer?](https://www.youtube.com/watch?v=2rh13TqNDF4) [en] |  [Алексей Тактаров](speakers/Алексей%20Тактаров.md)  | [:notebook:](https://www.dropbox.com/s/2t1aasguhmqcyas/can-design-principles-make-me-a-better-software-engineer.pdf?dl=0)   |
+| [Video content protection overview for Frontend developers](https://www.youtube.com/watch?v=PXC4xuM1EH8) [en] |  [Алексей Голубев](speakers/Алексей%20Голубев.md)  | [:notebook:](https://goalstudio.github.io/drm-frontend-developers.pdf)   |
+| [WebGL and 2D: simple as Web](https://www.youtube.com/watch?v=56rX1gTmt_c) [en] |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  | [:notebook:](http://lekzd.ru/presentations/webgl_simple_sbp_eng/)   |
 ## Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах - Mar 02 
 | | | |
 | --- | :---: | --- |
