@@ -65,6 +65,13 @@
 | [React + SSR там, где их уже не ждали](https://youtu.be/J0RLSBGorMY?t=650)  |  [Александр Зонов](speakers/Александр%20Зонов.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=react-ssr-wat.pdf)   |
 | [BDD e2e тестирование](https://youtu.be/J0RLSBGorMY?t=3647)  |  [Александр Иосса](speakers/Александр%20Иосса.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=bdd-e2e.pdf)   |
 | Event-Driven Architecture: детали реализаций Event Loop  |  [Вадим Горбачев](speakers/Вадим%20Горбачев.md)  |    |
+## OdessaFrontend Meetup 13 - Oct 10 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0v0Vh2pKSb6iR5FNFsCOJEB)
+| | | |
+| --- | :---: | --- |
+| [Как правильно делать анимацию и добиться 60fps на различных девайсах](https://www.youtube.com/watch?v=wCTc6LZO3TA)  |  [Виталий Калашников](speakers/Виталий%20Калашников.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/60fps-odessafrontend-meetup-13)   |
+| [Эффективность с большой буквы Э… или любой другой](https://www.youtube.com/watch?v=okhO5gUMYM8)  |  [Евгений Кравцов](speakers/Евгений%20Кравцов.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-13)   |
+| [Структуры данных в JavaScript](https://youtu.be/dgCsoASa8k0)  |  [Николай Громов](speakers/Николай%20Громов.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/javascript-odessafrontend-meetup-13)   |
+| [Викторина](https://www.youtube.com/watch?v=5FqAfyBUhu8)  |  [Николай Птущук](speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-13-181569680)   |
 ## Angular Belarus 2 - Oct 10 
 | | | |
 | --- | :---: | --- |

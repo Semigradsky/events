@@ -3,6 +3,13 @@
 
 # OdessaFrontend
 
+## OdessaFrontend Meetup 13 - 2019 Oct 10 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0v0Vh2pKSb6iR5FNFsCOJEB)
+| | | |
+| --- | :---: | --- |
+| [Как правильно делать анимацию и добиться 60fps на различных девайсах](https://www.youtube.com/watch?v=wCTc6LZO3TA)  |  [Виталий Калашников](../../speakers/Виталий%20Калашников.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/60fps-odessafrontend-meetup-13)   |
+| [Эффективность с большой буквы Э… или любой другой](https://www.youtube.com/watch?v=okhO5gUMYM8)  |  [Евгений Кравцов](../../speakers/Евгений%20Кравцов.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-13)   |
+| [Структуры данных в JavaScript](https://youtu.be/dgCsoASa8k0)  |  [Николай Громов](../../speakers/Николай%20Громов.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/javascript-odessafrontend-meetup-13)   |
+| [Викторина](https://www.youtube.com/watch?v=5FqAfyBUhu8)  |  [Николай Птущук](../../speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-13-181569680)   |
 ## OdessaFrontend Meetup 12 - 2019 May 18 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0tXnthiyjZYqQgowaH-YnwD)
 | | | |
 | --- | :---: | --- |
