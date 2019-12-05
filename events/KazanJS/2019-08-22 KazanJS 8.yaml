@@ -1,0 +1,16 @@
+name: KazanJS 8
+date: 2019-08-22
+videos: https://vk.com/video-161626452_456239041
+talks:
+  - name: IT на ощупь
+    speaker: Евгении Некрасов
+    video: https://www.youtube.com/watch?v=0o_mD6oYpig
+    presentation: 
+  - name: Что я думаю про React Native после 1000 часов работы с ним
+    speaker: Игорь Зиновьев
+    video: https://www.youtube.com/watch?v=fa0eJ2rdNKQ
+    presentation: 
+  - name: Практический опыт применения WebComponents и библиотеки Polymer
+    speaker: Дмитрий Бойков
+    video: https://www.youtube.com/watch?v=efXVHIbvuyA
+    presentation: 

@@ -1,0 +1,16 @@
+name: KazanJS 9
+date: 2019-12-12
+videos: 
+talks:
+  - name: История развития фронтенда в Яндексе за 10 лет
+    speaker: Владимир Гриненко
+    video: 
+    presentation: 
+  - name: Vue.js - мои впечатления после года в продакшне
+    speaker: Марат Фахреев
+    video: 
+    presentation: 
+  - name: "PWA: двигатель веба и бизнеса"
+    speaker: Антон Заладинов
+    video: 
+    presentation: 

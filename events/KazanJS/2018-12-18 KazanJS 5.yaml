@@ -1,0 +1,16 @@
+name: KazanJS 5
+date: 2018-12-18
+videos: https://vk.com/video-161626452_456239028
+talks:
+  - name: Семантика для циников
+    speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=HmMokumolFw
+    presentation: 
+  - name: Монорепозиторий поисковых сервисов Яндекса
+    speaker: Михаил Трошев
+    video: https://www.youtube.com/watch?v=IZ7YNqYj_l4
+    presentation: 
+  - name: Реактивность в JS
+    speaker: Денис Макаров
+    video: https://www.youtube.com/watch?v=ewqhpE5BQeg
+    presentation: 

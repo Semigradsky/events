@@ -1,0 +1,16 @@
+name: KazanJS 3
+date: 2018-07-24
+videos: 
+talks:
+  - name: ReasonML и React будущее веб-разработки?
+    speaker: Тимур Зарипов
+    video: https://www.youtube.com/watch?v=3ZnPT5MH3_o
+    presentation: 
+  - name: Интерфейс, usability и accessibility как наука
+    speaker: Дамир Фахрутдинов
+    video: https://www.youtube.com/watch?v=KuXamvQ6O1k
+    presentation: 
+  - name: Point of Vue
+    speaker: Альберт Фазуллин
+    video: https://www.youtube.com/watch?v=hyRVKDaYvTI
+    presentation: 

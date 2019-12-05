@@ -1,0 +1,17 @@
+name: KazanJS 6
+date: 2019-03-01
+videos: 
+talks:
+  - name: Инженерная культура
+    speaker: Кирилл Мокевнин
+    video: https://www.youtube.com/watch?v=nh3flmftHk4
+    link: https://guides.hexlet.io/check-list-of-engineering-practices/
+    presentation: 
+  - name: Функциональное программирование в веб разработке
+    speaker: Дамир Камильянов, Артур Мирзин
+    video: https://www.youtube.com/watch?v=-jP6FsLwIRI
+    presentation: https://drive.google.com/file/d/1sXsaRcvFZgupnXLNqSCslWd2yVh0a-g7/view
+  - name: Face control. Тестируем интерфейсы в Web
+    speaker: Альберт Фазуллин
+    video: https://www.youtube.com/watch?v=hQn0vRUQY20
+    presentation: https://docs.google.com/presentation/d/1ibq05jD4Rlwv-jaLxdYIG2-9aQNldAnt4ITgwd8ZPhk/edit#slide=id.p

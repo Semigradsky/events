@@ -1,0 +1,20 @@
+name: KazanJS 7
+date: 2019-05-16
+videos: https://vk.com/video-161626452_456239036
+talks:
+  - name: Продвижение опенсорс-проектов
+    speaker: Андрей Ситник
+    video: https://vk.com/video-161626452_456239040
+    presentation: 
+  - name: Как пройти собеседование в Яндекс
+    speaker: Сергей Савельев
+    video: https://vk.com/video-161626452_456239039
+    presentation: 
+  - name: TypeScript на ультрах
+    speaker: Рамиль Закиров
+    video: 
+    presentation: 
+  - name: Популярные алгоритмы на JS
+    speaker: Олеся Лазарева
+    video: 
+    presentation: 

@@ -1,0 +1,20 @@
+name: KazanJS 1
+date: 2018-03-20
+videos: 
+talks:
+  - name: Как React победил Javascript
+    speaker: Игорь Зиновьев
+    video: https://www.youtube.com/watch?v=m4z1bJwATuY
+    presentation: https://drive.google.com/file/d/1yAlyq9EK5a5r-POwuzccFdhIDNEHTkQG/view
+  - name: Приложения реального времени с FraphQL и Apollo
+    speaker: Рамиль Закиров
+    video: https://www.youtube.com/watch?v=TemTDPhtAFw
+    presentation: 
+  - name: Тестирование React приложений
+    speaker: Дмитрий Маклыгин
+    video: https://www.youtube.com/watch?v=jR5JmW2JDwQ
+    presentation: 
+  - name: Что я узнал про event loop
+    speaker: Роман Гафиатуллин
+    video: https://www.youtube.com/watch?v=b1F5luJbKts
+    presentation: 

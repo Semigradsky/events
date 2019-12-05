@@ -1,0 +1,16 @@
+name: KazanJS 4
+date: 2018-10-24
+videos: https://vk.com/video-161626452_456239027
+talks:
+  - name: Таск трекер на React + NodeJS, история, архитектура и подводные камни
+    speaker: Татьяна Бабич, Андрей Френкель
+    video: https://www.youtube.com/watch?v=09PfTLC7yus
+    presentation: 
+  - name: Kubernetes и как мы его используем в production
+    speaker: Радик Фаттахов
+    video: 
+    presentation: 
+  - name: Overvue
+    speaker: Альберт Фазуллин
+    video: 
+    presentation: 

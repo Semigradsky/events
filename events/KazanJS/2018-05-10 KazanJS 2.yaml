@@ -1,0 +1,16 @@
+name: KazanJS 2
+date: 2018-05-10
+videos: 
+talks:
+  - name: Progressive Web Application или новый подход к разработке веб-приложений
+    speaker: Ильмир Шайхутдинов
+    video: https://youtu.be/BZuZtsUbcQA
+    presentation: https://docs.google.com/presentation/d/1waId_tGyWLxCus-Ny6ED88_UyYnYgEAU_e5bVC9NWRc/edit#slide=id.p
+  - name: Обеспечение надёжности и поддерживаемости веб приложения
+    speaker: Александр Иосса
+    video: https://youtu.be/rxH6PVZYY4E
+    presentation: 
+  - name: Функциональное программирование на примере JS
+    speaker: Максим Аршинов
+    video: https://youtu.be/rddKpFTYYrI
+    presentation: https://drive.google.com/file/d/1KArK40c-GpRw_lEH-zj7RZ8THakOv1mL/view
