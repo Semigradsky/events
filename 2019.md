@@ -92,6 +92,12 @@
 | [Монорепозитируй это!](https://youtu.be/n0c7kIJQZqE)  |  [Иван Ботанов](speakers/Иван%20Ботанов.md)  |    |
 | [Unit тестирование с Jest и ts-mockito](https://youtu.be/j9HVtKs7FKA)  |  [Климент Рудниченко](speakers/Климент%20Рудниченко.md)  |    |
 | [Как построить Front-end команду на базе Angular](https://youtu.be/y8HxHGT920U)  |  [Алексей Ольховой](speakers/Алексей%20Ольховой.md)  |    |
+## KazanJS 8 - Aug 22 [:movie_camera:](https:&#x2F;&#x2F;vk.com&#x2F;video-161626452_456239041)
+| | | |
+| --- | :---: | --- |
+| [IT на ощупь](https://www.youtube.com/watch?v=0o_mD6oYpig)  |  [Евгении Некрасов](speakers/Евгении%20Некрасов.md)  |    |
+| [Что я думаю про React Native после 1000 часов работы с ним](https://www.youtube.com/watch?v=fa0eJ2rdNKQ)  |  [Игорь Зиновьев](speakers/Игорь%20Зиновьев.md)  |    |
+| [Практический опыт применения WebComponents и библиотеки Polymer](https://www.youtube.com/watch?v=efXVHIbvuyA)  |  [Дмитрий Бойков](speakers/Дмитрий%20Бойков.md)  |    |
 ## AngularNYC meetup - Aug 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;rse7-kzxetQ)
 | | | |
 | --- | :---: | --- |
@@ -400,6 +406,13 @@
 | [Обзор бандлеров в JS](https://www.youtube.com/watch?v=O8IMFHu1dG0&t=1653s)  |  [Алексей Краснобаев](speakers/Алексей%20Краснобаев.md)  |    |
 | [Практические аспекты применения Rust и взаимодествие с миром JS](https://www.youtube.com/watch?v=O8IMFHu1dG0&t=3261s)  |  [Алексей Краснобаев](speakers/Алексей%20Краснобаев.md)  [Илья Барышников](speakers/Илья%20Барышников.md)  |    |
 | [Быстрые, детерминированные и верифицируемые вычисления на WebAssembly](https://www.youtube.com/watch?v=O8IMFHu1dG0&t=4836s)  |  [Михаил Воронов](speakers/Михаил%20Воронов.md)  |    |
+## KazanJS 7 - May 16 [:movie_camera:](https:&#x2F;&#x2F;vk.com&#x2F;video-161626452_456239036)
+| | | |
+| --- | :---: | --- |
+| [Продвижение опенсорс-проектов](https://vk.com/video-161626452_456239040)  |  [Андрей Ситник](speakers/Андрей%20Ситник.md)  |    |
+| [Как пройти собеседование в Яндекс](https://vk.com/video-161626452_456239039)  |  [Сергей Савельев](speakers/Сергей%20Савельев.md)  |    |
+| TypeScript на ультрах  |  [Рамиль Закиров](speakers/Рамиль%20Закиров.md)  |    |
+| Популярные алгоритмы на JS  |  [Олеся Лазарева](speakers/Олеся%20Лазарева.md)  |    |
 ## moscowcss 12 - May 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;LHOJybXuMdc)
 | | | |
 | --- | :---: | --- |
@@ -679,6 +692,12 @@
 | [Что даёт нам Webpack: устройство бандла](https://www.youtube.com/watch?v=9qPtwaq73c8)  |  [Андрей Синицын](speakers/Андрей%20Синицын.md)  |    |
 | [Как делать крутые компоненты на Angular](https://www.youtube.com/watch?v=7MFW2A-3HG0)  |  [Александр Инкин](speakers/Александр%20Инкин.md)  |    |
 | [Sagas vs thunks](https://www.youtube.com/watch?v=ykohtx7t2yQ)  |  [Олег Хлевнов](speakers/Олег%20Хлевнов.md)  |    |
+## KazanJS 6 - Mar 01 
+| | | |
+| --- | :---: | --- |
+| [Инженерная культура](https://www.youtube.com/watch?v=nh3flmftHk4)  |  [Кирилл Мокевнин](speakers/Кирилл%20Мокевнин.md)  |    |
+| [Функциональное программирование в веб разработке](https://www.youtube.com/watch?v=-jP6FsLwIRI)  |  [Дамир Камильянов](speakers/Дамир%20Камильянов.md)  [Артур Мирзин](speakers/Артур%20Мирзин.md)  | [:notebook:](https://drive.google.com/file/d/1sXsaRcvFZgupnXLNqSCslWd2yVh0a-g7/view)   |
+| [Face control. Тестируем интерфейсы в Web](https://www.youtube.com/watch?v=hQn0vRUQY20)  |  [Альберт Фазуллин](speakers/Альберт%20Фазуллин.md)  | [:notebook:](https://docs.google.com/presentation/d/1ibq05jD4Rlwv-jaLxdYIG2-9aQNldAnt4ITgwd8ZPhk/edit#slide=id.p)   |
 ## pitercss_meetup 29 - Feb 27 
 | | | |
 | --- | :---: | --- |
