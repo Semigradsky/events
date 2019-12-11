@@ -6,7 +6,7 @@ videos: https://www.youtube.com/playlist?list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg
 talks:
   - name: "WebGL и 2D: простой как Web"
     speaker: Александр Коротаев
-    video: https://www.youtube.com/watch?v=7cbshfHfULs&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2&t=0s
+    video: https://www.youtube.com/watch?v=7cbshfHfULs
     presentation: 
   - name: Использование Closure Compiler в современном фронтенде
     speaker: Ильяс Кабиров
@@ -14,7 +14,7 @@ talks:
     presentation: 
   - name: Вам не нужен SPA
     speaker: Алексей Попков
-    video: https://www.youtube.com/watch?v=LsGqLWXvMN8&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2
+    video: https://www.youtube.com/watch?v=LsGqLWXvMN8
     presentation: 
   - name: Тра-та-та. Конечный автомат с двумя рожкАми для фронтенда
     speaker: Алексей Наумов
@@ -22,9 +22,9 @@ talks:
     presentation: 
   - name: Хайповые js или задачи клиентов?
     speaker: Александр Погорелов
-    video: https://www.youtube.com/watch?v=hqLApt7pfpI&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=3
+    video: https://www.youtube.com/watch?v=hqLApt7pfpI
     presentation: 
   - name: Использование vue.js c коробочными решениями
     speaker: Иван Сергеев
-    video: https://www.youtube.com/watch?v=dZ2042mJksg&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=4
+    video: https://www.youtube.com/watch?v=dZ2042mJksg
     presentation: 

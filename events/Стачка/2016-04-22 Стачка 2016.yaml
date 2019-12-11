@@ -6,23 +6,23 @@ videos: https://www.youtube.com/playlist?list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI
 talks:
   - name: Можно вообще всё. Раскладка по гриду
     speaker: Вадим Макеев
-    video: https://www.youtube.com/watch?v=2sIMib9co0Y&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=7&t=0s
+    video: https://www.youtube.com/watch?v=2sIMib9co0Y
     presentation: 
   - name: Визуализация данных в браузере с помощью D3.js
     speaker: Михаил Дунаев
-    video: https://www.youtube.com/watch?v=mpCvE8lhFnw&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=9&t=0s
+    video: https://www.youtube.com/watch?v=mpCvE8lhFnw
     presentation: 
   - name: "Тестирование фронтенда: миф или реальность?"
     speaker: Михаил Чернобров
-    video: https://www.youtube.com/watch?v=XRcZEofnIdw&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=34&t=0s
+    video: https://www.youtube.com/watch?v=XRcZEofnIdw
     presentation: 
   - name: В поисках идеальной аХРитектуры ui-проекта
     speaker: Татьяна Бабич
-    video: https://www.youtube.com/watch?v=bKu4RnbsTPM&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=35&t=0s
+    video: https://www.youtube.com/watch?v=bKu4RnbsTPM
     presentation: 
   - name: UX и UI - почему важно внедрять тестирование на начальных этапах
     speaker: Рамис Ваказов
-    video: https://www.youtube.com/watch?v=Imla1i-OH6U&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=36&t=0s
+    video: https://www.youtube.com/watch?v=Imla1i-OH6U
     presentation: 
   - name: Cбор отчетов об ошибках и мониторинг производительности клиентского Javascript
     speaker: Александр Иноземцев
@@ -30,29 +30,29 @@ talks:
     presentation: 
   - name: Использование File API в Конструкторе Яндекс.Карт
     speaker: Всеволод Шмыров
-    video: https://www.youtube.com/watch?v=WCY7dE7ASdY&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=39&t=0s
+    video: https://www.youtube.com/watch?v=WCY7dE7ASdY
     presentation: 
   - name: Радости и гадости регрессионного тестирования вёрстки
     speaker: Алексей Малейков
-    video: https://www.youtube.com/watch?v=nrFX3OuuqFU&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=33&t=0s
+    video: https://www.youtube.com/watch?v=nrFX3OuuqFU
     presentation: 
   - name: Ренессанс клиентской графики
     speaker: Антон Корзунов
-    video: https://www.youtube.com/watch?v=ZCN7m2nqf2s&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=38&t=0s
+    video: https://www.youtube.com/watch?v=ZCN7m2nqf2s
     presentation: 
   - name: CSS-в-JS, HTML-в-JS, ВСЁ-в-JS. Когда всё вокруг JavaScript жить становится гораздо проще
     speaker: Алексей Иванов
-    video: https://www.youtube.com/watch?v=pPR0M-6eP20&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=8&t=0s
+    video: https://www.youtube.com/watch?v=pPR0M-6eP20
     presentation: 
   - name: Функциональное реактивное программирование глазами frontend-разработчика
     speaker: Вячеслав Шебанов
-    video: https://www.youtube.com/watch?v=NofY-NnW7tk&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=4&t=0s
+    video: https://www.youtube.com/watch?v=NofY-NnW7tk
     presentation: 
   - name: Как стать фрилансером в 14 лет
     speaker: Артём Дикмаров
-    video: https://www.youtube.com/watch?v=KqbdVGxIROQ&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=40&t=0s
+    video: https://www.youtube.com/watch?v=KqbdVGxIROQ
     presentation: 
   - name: Увидеть больше
     speaker: Николай Беликов
-    video: https://www.youtube.com/watch?v=hNDOLBXA0M8&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=37&t=0s
+    video: https://www.youtube.com/watch?v=hNDOLBXA0M8
     presentation: 

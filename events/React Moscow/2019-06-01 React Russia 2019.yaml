@@ -4,11 +4,11 @@ videos: https://www.youtube.com/watch?v=SF0ovSvOcgE
 talks:
   - name: Быстрее, стройнее, умнее
     speaker: Денис Красновский
-    video: https://www.youtube.com/watch?v=qiZ93lZ_Zug&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=7&t=0s
+    video: https://www.youtube.com/watch?v=qiZ93lZ_Zug
     presentation:
   - name: Отзывчивый React Native
     speaker: Таиф Алимов
-    video: https://www.youtube.com/watch?v=UnxnAnwpCuE&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=8&t=0s
+    video: https://www.youtube.com/watch?v=UnxnAnwpCuE
     presentation:
   - name: На вершине стиля
     speaker: Артур Кенжаев
@@ -16,31 +16,31 @@ talks:
     presentation:
   - name: Изолированная разработка - от дизайн-систем до сложных приложений
     speaker: Игорь Проскурин
-    video: https://www.youtube.com/watch?v=m-dNun9XPPY&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=3&t=0s
+    video: https://www.youtube.com/watch?v=m-dNun9XPPY
     presentation:
   - name: Изоморфный React на микрофронтендах
     speaker: Роман Соколов
-    video: https://www.youtube.com/watch?v=Kz4KRsb3JfU&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=4&t=0s
+    video: https://www.youtube.com/watch?v=Kz4KRsb3JfU
     presentation:
   - name: Вебпак, вид сквозь монокль
     speaker: Антон Кастрицкий
-    video: https://www.youtube.com/watch?v=WI7lB27ZslQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=10&t=0s
+    video: https://www.youtube.com/watch?v=WI7lB27ZslQ
     presentation:
   - name: Как я преодолел "синдром Фронтендера" с React и Firebase
     speaker: Илья Кузнецов
-    video: https://www.youtube.com/watch?v=Sd0_L4OxCsQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=5&t=0s
+    video: https://www.youtube.com/watch?v=Sd0_L4OxCsQ
     presentation:
   - name: FP для бедных, или как я полюбил reduce
     speaker: Василий Стяжкин
-    video: https://www.youtube.com/watch?v=dTjQXOjOJWs&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=11&t=0s
+    video: https://www.youtube.com/watch?v=dTjQXOjOJWs
     presentation:
   - name: Микросервисный фронтенд
     speaker: Александр Китов
-    video: https://www.youtube.com/watch?v=A5zoWPRcn7Y&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=2&t=0s
+    video: https://www.youtube.com/watch?v=A5zoWPRcn7Y
     presentation:
   - name: Concurrent React. Что нас ждет?
     speaker: Екатерина Анишкина
-    video: https://www.youtube.com/watch?v=S7I-2fy4Qck&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=9&t=0s
+    video: https://www.youtube.com/watch?v=S7I-2fy4Qck
     presentation:
   - name: Особенности разработки высоконагруженных клиентских приложений
     speaker: Александр Руденко
@@ -48,5 +48,5 @@ talks:
     presentation:
   - name: "React Hooks: The Missing Link"
     speaker: Павел Ремизов
-    video: https://www.youtube.com/watch?v=cRtAjTFM7M4&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=6&t=0s
+    video: https://www.youtube.com/watch?v=cRtAjTFM7M4
     presentation:

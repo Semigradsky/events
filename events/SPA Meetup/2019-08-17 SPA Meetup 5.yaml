@@ -4,25 +4,25 @@ videos: https://www.youtube.com/playlist?list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12
 talks:
   - name: Жесть для Jest
     speaker: Сергей Мелюков
-    video: https://www.youtube.com/watch?v=8_6Kuo5jFpU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=1
+    video: https://www.youtube.com/watch?v=8_6Kuo5jFpU
     presentation:
   - name: DI как способ масштабирования всего
     speaker: Алексей Попков
-    video: https://www.youtube.com/watch?v=UgCCksb0VdM&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=2
+    video: https://www.youtube.com/watch?v=UgCCksb0VdM
     presentation:
   - name: UIKit, который точно сможет
     speaker: Константин Лебедев
-    video: https://www.youtube.com/watch?v=nhNrSiMOTjo&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=3
+    video: https://www.youtube.com/watch?v=nhNrSiMOTjo
     presentation:
   - name: Куда растут библиотеки компонентов
     speaker: Тим Чаптыков
-    video: https://www.youtube.com/watch?v=1utWz-CYiLU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=4
+    video: https://www.youtube.com/watch?v=1utWz-CYiLU
     presentation:
   - name: "Платформенная команда: пособие по применению"
     speaker: Александр Казаченко
-    video: https://www.youtube.com/watch?v=Y61bQAfgW70&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=5
+    video: https://www.youtube.com/watch?v=Y61bQAfgW70
     presentation:
   - name: "Панельная сессия: «Платформенные команды – сказка или реальность?»"
     speaker: Константин Лебедев, Денис Колесников, Тим Чаптыков, Алексей Попков, Александр Казаченко
-    video: https://www.youtube.com/watch?v=mEpwFo4R43w&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=6
+    video: https://www.youtube.com/watch?v=mEpwFo4R43w
     presentation:
