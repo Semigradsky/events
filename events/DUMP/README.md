@@ -6,14 +6,14 @@
 ## DUMP2019 - 2019 Apr 19 [:movie_camera:](https://www.youtube.com/playlist?list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb)
 | | | |
 | --- | :---: | --- |
-| [Как внедрить стандарты разработки, чтобы никто не пострадал](https://www.youtube.com/watch?v=t7wA0ABNxY0&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=2&t=0s)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  |    |
-| [React Native vs Cordova Альтернативный взгляд на мобильную разработку](https://www.youtube.com/watch?v=sNjef7hhd1o&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=2)  |  [Артём Кузвесов](../../speakers/Артём%20Кузвесов.md)  |    |
-| [Реактивное программирование. Как мыслить реактивно, а не проактивно](https://www.youtube.com/watch?v=8bM4j-BePeM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=3)  |  [Виталий Дмитриев](../../speakers/Виталий%20Дмитриев.md)  |    |
-| [Angular Elements](https://www.youtube.com/watch?v=uuQ7V0bFcxE&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=4)  |  [Сергей Цветков](../../speakers/Сергей%20Цветков.md)  |    |
-| [Эффективное тестирование FE проектов](https://www.youtube.com/watch?v=sgLvPkkG2ok&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=5)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  |    |
-| [Поддержка API Как развивать продукт и прекратить кормить динозавров](https://www.youtube.com/watch?v=5tQyvZAoI-E&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=6)  |  [Александр Иосса](../../speakers/Александр%20Иосса.md)  |    |
-| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=PKNrhSe7ATM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=7)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  |    |
-| [Делайте из слона муху](https://www.youtube.com/watch?v=NCLMjGHePsQ&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=8)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
+| [Как внедрить стандарты разработки, чтобы никто не пострадал](https://www.youtube.com/watch?v=t7wA0ABNxY0)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  |    |
+| [React Native vs Cordova Альтернативный взгляд на мобильную разработку](https://www.youtube.com/watch?v=sNjef7hhd1o)  |  [Артём Кузвесов](../../speakers/Артём%20Кузвесов.md)  |    |
+| [Реактивное программирование. Как мыслить реактивно, а не проактивно](https://www.youtube.com/watch?v=8bM4j-BePeM)  |  [Виталий Дмитриев](../../speakers/Виталий%20Дмитриев.md)  |    |
+| [Angular Elements](https://www.youtube.com/watch?v=uuQ7V0bFcxE)  |  [Сергей Цветков](../../speakers/Сергей%20Цветков.md)  |    |
+| [Эффективное тестирование FE проектов](https://www.youtube.com/watch?v=sgLvPkkG2ok)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  |    |
+| [Поддержка API Как развивать продукт и прекратить кормить динозавров](https://www.youtube.com/watch?v=5tQyvZAoI-E)  |  [Александр Иосса](../../speakers/Александр%20Иосса.md)  |    |
+| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=PKNrhSe7ATM)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  |    |
+| [Делайте из слона муху](https://www.youtube.com/watch?v=NCLMjGHePsQ)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
 ## DUMP2018 - 2018 Apr 13 [:movie_camera:](https://www.youtube.com/playlist?list=PLRdS-n5seLRoyY8tjEUDzvxr19JtTLFUf)
 | | | |
 | --- | :---: | --- |

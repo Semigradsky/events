@@ -18,12 +18,12 @@
 ## Стачка 2019 (весна) - 2019 Apr 26-27 [:movie_camera:](https://www.youtube.com/playlist?list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg)
 | | | |
 | --- | :---: | --- |
-| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=7cbshfHfULs&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2&t=0s)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  |    |
+| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=7cbshfHfULs)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  |    |
 | Использование Closure Compiler в современном фронтенде  |  [Ильяс Кабиров](../../speakers/Ильяс%20Кабиров.md)  |    |
-| [Вам не нужен SPA](https://www.youtube.com/watch?v=LsGqLWXvMN8&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2)  |  [Алексей Попков](../../speakers/Алексей%20Попков.md)  |    |
+| [Вам не нужен SPA](https://www.youtube.com/watch?v=LsGqLWXvMN8)  |  [Алексей Попков](../../speakers/Алексей%20Попков.md)  |    |
 | Тра-та-та. Конечный автомат с двумя рожкАми для фронтенда  |  [Алексей Наумов](../../speakers/Алексей%20Наумов.md)  |    |
-| [Хайповые js или задачи клиентов?](https://www.youtube.com/watch?v=hqLApt7pfpI&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=3)  |  [Александр Погорелов](../../speakers/Александр%20Погорелов.md)  |    |
-| [Использование vue.js c коробочными решениями](https://www.youtube.com/watch?v=dZ2042mJksg&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=4)  |  [Иван Сергеев](../../speakers/Иван%20Сергеев.md)  |    |
+| [Хайповые js или задачи клиентов?](https://www.youtube.com/watch?v=hqLApt7pfpI)  |  [Александр Погорелов](../../speakers/Александр%20Погорелов.md)  |    |
+| [Использование vue.js c коробочными решениями](https://www.youtube.com/watch?v=dZ2042mJksg)  |  [Иван Сергеев](../../speakers/Иван%20Сергеев.md)  |    |
 ## Стачка 2018 - 2018 Apr 06-07 
 | | | |
 | --- | :---: | --- |
@@ -48,19 +48,19 @@
 ## Стачка 2016 - 2016 Apr 22-23 [:movie_camera:](https://www.youtube.com/playlist?list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI)
 | | | |
 | --- | :---: | --- |
-| [Можно вообще всё. Раскладка по гриду](https://www.youtube.com/watch?v=2sIMib9co0Y&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=7&t=0s)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
-| [Визуализация данных в браузере с помощью D3.js](https://www.youtube.com/watch?v=mpCvE8lhFnw&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=9&t=0s)  |  [Михаил Дунаев](../../speakers/Михаил%20Дунаев.md)  |    |
-| [Тестирование фронтенда: миф или реальность?](https://www.youtube.com/watch?v=XRcZEofnIdw&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=34&t=0s)  |  [Михаил Чернобров](../../speakers/Михаил%20Чернобров.md)  |    |
-| [В поисках идеальной аХРитектуры ui-проекта](https://www.youtube.com/watch?v=bKu4RnbsTPM&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=35&t=0s)  |  [Татьяна Бабич](../../speakers/Татьяна%20Бабич.md)  |    |
-| [UX и UI - почему важно внедрять тестирование на начальных этапах](https://www.youtube.com/watch?v=Imla1i-OH6U&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=36&t=0s)  |  [Рамис Ваказов](../../speakers/Рамис%20Ваказов.md)  |    |
+| [Можно вообще всё. Раскладка по гриду](https://www.youtube.com/watch?v=2sIMib9co0Y)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
+| [Визуализация данных в браузере с помощью D3.js](https://www.youtube.com/watch?v=mpCvE8lhFnw)  |  [Михаил Дунаев](../../speakers/Михаил%20Дунаев.md)  |    |
+| [Тестирование фронтенда: миф или реальность?](https://www.youtube.com/watch?v=XRcZEofnIdw)  |  [Михаил Чернобров](../../speakers/Михаил%20Чернобров.md)  |    |
+| [В поисках идеальной аХРитектуры ui-проекта](https://www.youtube.com/watch?v=bKu4RnbsTPM)  |  [Татьяна Бабич](../../speakers/Татьяна%20Бабич.md)  |    |
+| [UX и UI - почему важно внедрять тестирование на начальных этапах](https://www.youtube.com/watch?v=Imla1i-OH6U)  |  [Рамис Ваказов](../../speakers/Рамис%20Ваказов.md)  |    |
 | Cбор отчетов об ошибках и мониторинг производительности клиентского Javascript  |  [Александр Иноземцев](../../speakers/Александр%20Иноземцев.md)  |    |
-| [Использование File API в Конструкторе Яндекс.Карт](https://www.youtube.com/watch?v=WCY7dE7ASdY&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=39&t=0s)  |  [Всеволод Шмыров](../../speakers/Всеволод%20Шмыров.md)  |    |
-| [Радости и гадости регрессионного тестирования вёрстки](https://www.youtube.com/watch?v=nrFX3OuuqFU&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=33&t=0s)  |  [Алексей Малейков](../../speakers/Алексей%20Малейков.md)  |    |
-| [Ренессанс клиентской графики](https://www.youtube.com/watch?v=ZCN7m2nqf2s&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=38&t=0s)  |  [Антон Корзунов](../../speakers/Антон%20Корзунов.md)  |    |
-| [CSS-в-JS, HTML-в-JS, ВСЁ-в-JS. Когда всё вокруг JavaScript жить становится гораздо проще](https://www.youtube.com/watch?v=pPR0M-6eP20&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=8&t=0s)  |  [Алексей Иванов](../../speakers/Алексей%20Иванов.md)  |    |
-| [Функциональное реактивное программирование глазами frontend-разработчика](https://www.youtube.com/watch?v=NofY-NnW7tk&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=4&t=0s)  |  [Вячеслав Шебанов](../../speakers/Вячеслав%20Шебанов.md)  |    |
-| [Как стать фрилансером в 14 лет](https://www.youtube.com/watch?v=KqbdVGxIROQ&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=40&t=0s)  |  [Артём Дикмаров](../../speakers/Артём%20Дикмаров.md)  |    |
-| [Увидеть больше](https://www.youtube.com/watch?v=hNDOLBXA0M8&list=PL8EJzNcJZNp19Edpjwv-8eHWdm3RpLsNI&index=37&t=0s)  |  [Николай Беликов](../../speakers/Николай%20Беликов.md)  |    |
+| [Использование File API в Конструкторе Яндекс.Карт](https://www.youtube.com/watch?v=WCY7dE7ASdY)  |  [Всеволод Шмыров](../../speakers/Всеволод%20Шмыров.md)  |    |
+| [Радости и гадости регрессионного тестирования вёрстки](https://www.youtube.com/watch?v=nrFX3OuuqFU)  |  [Алексей Малейков](../../speakers/Алексей%20Малейков.md)  |    |
+| [Ренессанс клиентской графики](https://www.youtube.com/watch?v=ZCN7m2nqf2s)  |  [Антон Корзунов](../../speakers/Антон%20Корзунов.md)  |    |
+| [CSS-в-JS, HTML-в-JS, ВСЁ-в-JS. Когда всё вокруг JavaScript жить становится гораздо проще](https://www.youtube.com/watch?v=pPR0M-6eP20)  |  [Алексей Иванов](../../speakers/Алексей%20Иванов.md)  |    |
+| [Функциональное реактивное программирование глазами frontend-разработчика](https://www.youtube.com/watch?v=NofY-NnW7tk)  |  [Вячеслав Шебанов](../../speakers/Вячеслав%20Шебанов.md)  |    |
+| [Как стать фрилансером в 14 лет](https://www.youtube.com/watch?v=KqbdVGxIROQ)  |  [Артём Дикмаров](../../speakers/Артём%20Дикмаров.md)  |    |
+| [Увидеть больше](https://www.youtube.com/watch?v=hNDOLBXA0M8)  |  [Николай Беликов](../../speakers/Николай%20Беликов.md)  |    |
 ## Стачка 2015 - 2015 Apr 10-11 
 | | | |
 | --- | :---: | --- |

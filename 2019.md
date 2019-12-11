@@ -8,6 +8,12 @@
 | --- | :---: | --- |
 | Все знают только… (Browser API)  |  [Илья Запрцукий](speakers/Илья%20Запрцукий.md)  | [:notebook:](https://drive.google.com/open?id=1qDIkvU31NLZ1nEns2A_U_BVBlxC0Cn_r)   |
 | Реактивный вью. Заглядываем под обшивку ракеты  |  [Андрей Кучук](speakers/Андрей%20Кучук.md)  | [:notebook:](https://drive.google.com/open?id=1kS3LWvLPfeLoDdccBwLkWPign-X8oonS)   |
+## MSK VUE.JS 5 - Nov 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLOviqqLrTTvPqE1RR9v5VPUi65XccEtof)
+| | | |
+| --- | :---: | --- |
+| [Микросервисный фронтенд. Как подружить vue.js и react](https://www.youtube.com/watch?v=XD02n4GXjU8)  |  [Александр Шамшурин](speakers/Александр%20Шамшурин.md)  |    |
+| [VueJS + NUDE Elements: от прототипа до продакшена](https://www.youtube.com/watch?v=CNql0mU9DRM)  |  [Андрей Яманов](speakers/Андрей%20Яманов.md)  | [:notebook:](https://nude-vuejs-talk.tenphi.now.sh/) [:octocat:](https://nude-playground.tenphi.now.sh/)  |
+| [Место css во vue.js](https://www.youtube.com/watch?v=KqGsPPtMCPU)  |  [Нагорных Мария](speakers/Нагорных%20Мария.md)  |    |
 ## PiterJS 42 - Nov 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;EoMd-8w-DfA)
 | | | |
 | --- | :---: | --- |
@@ -41,6 +47,12 @@
 | [Жизнь до Runtime](https://www.youtube.com/watch?v=DsfnFrwKksA&t=20748s)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/before-runtime.pdf)   |
 | [Понимание как основа устойчивости к ошибкам](https://www.youtube.com/watch?v=DsfnFrwKksA&t=24261s)  |  [Мария Гришкевич](speakers/Мария%20Гришкевич.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/error-proof/)   |
 | [Как написать поддержку фреймворка?](https://www.youtube.com/watch?v=DsfnFrwKksA&t=26530s)  |  [Андрей Старовойт](speakers/Андрей%20Старовойт.md)  | [:notebook:](https://wsd.events/2019/10/19/pres/framework-ide.pdf)   |
+## MSK VUE.JS 4 - Oct 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLOviqqLrTTvPupmq8diRKhqRDIQR1jGBp)
+| | | |
+| --- | :---: | --- |
+| [Vue Composition (Function) API](https://www.youtube.com/watch?v=qia9rE6rUj0)  |  [Тихон Соколов](speakers/Тихон%20Соколов.md)  |    |
+| [Как сколотить состояние на Vue](https://www.youtube.com/watch?v=kr_wOYfUojQ)  |  [Арсений Кутузов](speakers/Арсений%20Кутузов.md)  |    |
+| [Запись аудио в браузерах](https://www.youtube.com/watch?v=-pjQGpK_nGw)  |  [Ольга Маланова](speakers/Ольга%20Маланова.md)  |    |
 ## Angular Minsk 4 - Oct 15 
 | | | |
 | --- | :---: | --- |
@@ -81,6 +93,12 @@
 | | | |
 | --- | :---: | --- |
 | [npm understand --with-improves](https://www.youtube.com/watch?v=Cz6bQw1f23s)  |  [Денис Колесников](speakers/Денис%20Колесников.md)  | [:notebook:](http://longestjs.org/slides/01_LongestJS_Denis_Kolesnokiv_npm_understand.pdf)   |
+## MSK VUE.JS 3 - Sep 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLOviqqLrTTvN1lJJN5hHuuaGZaMQ3hpge)
+| | | |
+| --- | :---: | --- |
+| [Специфика рендеринга vue.js-приложений на сервере](https://www.youtube.com/watch?v=xot0SjunN2U)  |  [Алексей Клюев](speakers/Алексей%20Клюев.md)  |    |
+| [Nuxt.js from the Core](https://www.youtube.com/watch?v=Ynhk9GqSsZI)  |  [Дмитрий Молотков](speakers/Дмитрий%20Молотков.md)  |    |
+| [Организация работы с API на Vue.js.](https://www.youtube.com/watch?v=gO5vwf7g0hQ)  |  [Копачёв Виталий](speakers/Копачёв%20Виталий.md)  |    |
 ## Angular Minsk 3 - Sep 17 
 | | | |
 | --- | :---: | --- |
@@ -119,18 +137,23 @@
 ## SPA Meetup 5 - Aug 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12)
 | | | |
 | --- | :---: | --- |
-| [Жесть для Jest](https://www.youtube.com/watch?v=8_6Kuo5jFpU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=1)  |  [Сергей Мелюков](speakers/Сергей%20Мелюков.md)  |    |
-| [DI как способ масштабирования всего](https://www.youtube.com/watch?v=UgCCksb0VdM&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=2)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
-| [UIKit, который точно сможет](https://www.youtube.com/watch?v=nhNrSiMOTjo&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=3)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  |    |
-| [Куда растут библиотеки компонентов](https://www.youtube.com/watch?v=1utWz-CYiLU&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=4)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
-| [Платформенная команда: пособие по применению](https://www.youtube.com/watch?v=Y61bQAfgW70&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=5)  |  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
-| [Панельная сессия: «Платформенные команды – сказка или реальность?»](https://www.youtube.com/watch?v=mEpwFo4R43w&list=PLknJ4Vr6efQHOdSjVkBDWdlHby6v-lO12&index=6)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  [Денис Колесников](speakers/Денис%20Колесников.md)  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  [Алексей Попков](speakers/Алексей%20Попков.md)  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
+| [Жесть для Jest](https://www.youtube.com/watch?v=8_6Kuo5jFpU)  |  [Сергей Мелюков](speakers/Сергей%20Мелюков.md)  |    |
+| [DI как способ масштабирования всего](https://www.youtube.com/watch?v=UgCCksb0VdM)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
+| [UIKit, который точно сможет](https://www.youtube.com/watch?v=nhNrSiMOTjo)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  |    |
+| [Куда растут библиотеки компонентов](https://www.youtube.com/watch?v=1utWz-CYiLU)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
+| [Платформенная команда: пособие по применению](https://www.youtube.com/watch?v=Y61bQAfgW70)  |  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
+| [Панельная сессия: «Платформенные команды – сказка или реальность?»](https://www.youtube.com/watch?v=mEpwFo4R43w)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  [Денис Колесников](speakers/Денис%20Колесников.md)  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  [Алексей Попков](speakers/Алексей%20Попков.md)  [Александр Казаченко](speakers/Александр%20Казаченко.md)  |    |
 ## PiterJS 40 - Aug 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4giWGkd7WSQ)
 | | | |
 | --- | :---: | --- |
 | [Презентация приложения для проведения презентаций](https://youtu.be/4giWGkd7WSQ?t=2282)  |  [Дмитрий Карловский](speakers/Дмитрий%20Карловский.md)  |    |
 | [Планета на WebGL](https://youtu.be/4giWGkd7WSQ?t=4609)  |  [Анна Волкова](speakers/Анна%20Волкова.md)  |    |
 | [Типы данных в CSS](https://youtu.be/4giWGkd7WSQ?t=7292)  |  [София Валитова](speakers/София%20Валитова.md)  |    |
+## MSK VUE.JS 2 - Aug 15 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLOviqqLrTTvMZdj8bM9wUeLLO2naYdKm_)
+| | | |
+| --- | :---: | --- |
+| [10 вещей о Vue, которые вам стоит знать](https://www.youtube.com/watch?v=nh6dH6OzmXE)  |  [Арсений Кутузов](speakers/Арсений%20Кутузов.md)  |    |
+| [Проектирование компонентов Vue.js](https://www.youtube.com/watch?v=p1EEz47BIwg)  |  [Алексей Иванов](speakers/Алексей%20Иванов.md)  |    |
 ## Rostov Angular meetup 1 - Aug 10 
 | | | |
 | --- | :---: | --- |
@@ -303,18 +326,18 @@
 ## React Russia 2019 - Jun 01 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SF0ovSvOcgE)
 | | | |
 | --- | :---: | --- |
-| [Быстрее, стройнее, умнее](https://www.youtube.com/watch?v=qiZ93lZ_Zug&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=7&t=0s)  |  [Денис Красновский](speakers/Денис%20Красновский.md)  |    |
-| [Отзывчивый React Native](https://www.youtube.com/watch?v=UnxnAnwpCuE&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=8&t=0s)  |  [Таиф Алимов](speakers/Таиф%20Алимов.md)  |    |
+| [Быстрее, стройнее, умнее](https://www.youtube.com/watch?v=qiZ93lZ_Zug)  |  [Денис Красновский](speakers/Денис%20Красновский.md)  |    |
+| [Отзывчивый React Native](https://www.youtube.com/watch?v=UnxnAnwpCuE)  |  [Таиф Алимов](speakers/Таиф%20Алимов.md)  |    |
 | [На вершине стиля](https://www.youtube.com/watch?v=edcRISVmMxY)  |  [Артур Кенжаев](speakers/Артур%20Кенжаев.md)  |    |
-| [Изолированная разработка - от дизайн-систем до сложных приложений](https://www.youtube.com/watch?v=m-dNun9XPPY&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=3&t=0s)  |  [Игорь Проскурин](speakers/Игорь%20Проскурин.md)  |    |
-| [Изоморфный React на микрофронтендах](https://www.youtube.com/watch?v=Kz4KRsb3JfU&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=4&t=0s)  |  [Роман Соколов](speakers/Роман%20Соколов.md)  |    |
-| [Вебпак, вид сквозь монокль](https://www.youtube.com/watch?v=WI7lB27ZslQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=10&t=0s)  |  [Антон Кастрицкий](speakers/Антон%20Кастрицкий.md)  |    |
-| [Как я преодолел &quot;синдром Фронтендера&quot; с React и Firebase](https://www.youtube.com/watch?v=Sd0_L4OxCsQ&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=5&t=0s)  |  [Илья Кузнецов](speakers/Илья%20Кузнецов.md)  |    |
-| [FP для бедных, или как я полюбил reduce](https://www.youtube.com/watch?v=dTjQXOjOJWs&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=11&t=0s)  |  [Василий Стяжкин](speakers/Василий%20Стяжкин.md)  |    |
-| [Микросервисный фронтенд](https://www.youtube.com/watch?v=A5zoWPRcn7Y&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=2&t=0s)  |  [Александр Китов](speakers/Александр%20Китов.md)  |    |
-| [Concurrent React. Что нас ждет?](https://www.youtube.com/watch?v=S7I-2fy4Qck&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=9&t=0s)  |  [Екатерина Анишкина](speakers/Екатерина%20Анишкина.md)  |    |
+| [Изолированная разработка - от дизайн-систем до сложных приложений](https://www.youtube.com/watch?v=m-dNun9XPPY)  |  [Игорь Проскурин](speakers/Игорь%20Проскурин.md)  |    |
+| [Изоморфный React на микрофронтендах](https://www.youtube.com/watch?v=Kz4KRsb3JfU)  |  [Роман Соколов](speakers/Роман%20Соколов.md)  |    |
+| [Вебпак, вид сквозь монокль](https://www.youtube.com/watch?v=WI7lB27ZslQ)  |  [Антон Кастрицкий](speakers/Антон%20Кастрицкий.md)  |    |
+| [Как я преодолел &quot;синдром Фронтендера&quot; с React и Firebase](https://www.youtube.com/watch?v=Sd0_L4OxCsQ)  |  [Илья Кузнецов](speakers/Илья%20Кузнецов.md)  |    |
+| [FP для бедных, или как я полюбил reduce](https://www.youtube.com/watch?v=dTjQXOjOJWs)  |  [Василий Стяжкин](speakers/Василий%20Стяжкин.md)  |    |
+| [Микросервисный фронтенд](https://www.youtube.com/watch?v=A5zoWPRcn7Y)  |  [Александр Китов](speakers/Александр%20Китов.md)  |    |
+| [Concurrent React. Что нас ждет?](https://www.youtube.com/watch?v=S7I-2fy4Qck)  |  [Екатерина Анишкина](speakers/Екатерина%20Анишкина.md)  |    |
 | [Особенности разработки высоконагруженных клиентских приложений](https://www.youtube.com/watch?v=t_Zp2ZVKpU0)  |  [Александр Руденко](speakers/Александр%20Руденко.md)  |    |
-| [React Hooks: The Missing Link](https://www.youtube.com/watch?v=cRtAjTFM7M4&list=PLxa0i_ba1uugnX3ZKdzxgtnWdpMuePZh6&index=6&t=0s)  |  [Павел Ремизов](speakers/Павел%20Ремизов.md)  |    |
+| [React Hooks: The Missing Link](https://www.youtube.com/watch?v=cRtAjTFM7M4)  |  [Павел Ремизов](speakers/Павел%20Ремизов.md)  |    |
 ## DINS - JavaScript EVENING - May 29 
 | | | |
 | --- | :---: | --- |
@@ -438,12 +461,12 @@
 ## Стачка 2019 (весна) - Apr 26-27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg)
 | | | |
 | --- | :---: | --- |
-| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=7cbshfHfULs&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2&t=0s)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
+| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=7cbshfHfULs)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
 | Использование Closure Compiler в современном фронтенде  |  [Ильяс Кабиров](speakers/Ильяс%20Кабиров.md)  |    |
-| [Вам не нужен SPA](https://www.youtube.com/watch?v=LsGqLWXvMN8&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=2)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
+| [Вам не нужен SPA](https://www.youtube.com/watch?v=LsGqLWXvMN8)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
 | Тра-та-та. Конечный автомат с двумя рожкАми для фронтенда  |  [Алексей Наумов](speakers/Алексей%20Наумов.md)  |    |
-| [Хайповые js или задачи клиентов?](https://www.youtube.com/watch?v=hqLApt7pfpI&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=3)  |  [Александр Погорелов](speakers/Александр%20Погорелов.md)  |    |
-| [Использование vue.js c коробочными решениями](https://www.youtube.com/watch?v=dZ2042mJksg&list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg&index=4)  |  [Иван Сергеев](speakers/Иван%20Сергеев.md)  |    |
+| [Хайповые js или задачи клиентов?](https://www.youtube.com/watch?v=hqLApt7pfpI)  |  [Александр Погорелов](speakers/Александр%20Погорелов.md)  |    |
+| [Использование vue.js c коробочными решениями](https://www.youtube.com/watch?v=dZ2042mJksg)  |  [Иван Сергеев](speakers/Иван%20Сергеев.md)  |    |
 ## PiterJS Tour 1 - Apr 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MueYSY2ZO4Y)
 | | | |
 | --- | :---: | --- |
@@ -477,14 +500,14 @@
 ## DUMP2019 - Apr 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb)
 | | | |
 | --- | :---: | --- |
-| [Как внедрить стандарты разработки, чтобы никто не пострадал](https://www.youtube.com/watch?v=t7wA0ABNxY0&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=2&t=0s)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
-| [React Native vs Cordova Альтернативный взгляд на мобильную разработку](https://www.youtube.com/watch?v=sNjef7hhd1o&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=2)  |  [Артём Кузвесов](speakers/Артём%20Кузвесов.md)  |    |
-| [Реактивное программирование. Как мыслить реактивно, а не проактивно](https://www.youtube.com/watch?v=8bM4j-BePeM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=3)  |  [Виталий Дмитриев](speakers/Виталий%20Дмитриев.md)  |    |
-| [Angular Elements](https://www.youtube.com/watch?v=uuQ7V0bFcxE&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=4)  |  [Сергей Цветков](speakers/Сергей%20Цветков.md)  |    |
-| [Эффективное тестирование FE проектов](https://www.youtube.com/watch?v=sgLvPkkG2ok&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=5)  |  [Максим Соснов](speakers/Максим%20Соснов.md)  |    |
-| [Поддержка API Как развивать продукт и прекратить кормить динозавров](https://www.youtube.com/watch?v=5tQyvZAoI-E&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=6)  |  [Александр Иосса](speakers/Александр%20Иосса.md)  |    |
-| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=PKNrhSe7ATM&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=7)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
-| [Делайте из слона муху](https://www.youtube.com/watch?v=NCLMjGHePsQ&list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb&index=8)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
+| [Как внедрить стандарты разработки, чтобы никто не пострадал](https://www.youtube.com/watch?v=t7wA0ABNxY0)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
+| [React Native vs Cordova Альтернативный взгляд на мобильную разработку](https://www.youtube.com/watch?v=sNjef7hhd1o)  |  [Артём Кузвесов](speakers/Артём%20Кузвесов.md)  |    |
+| [Реактивное программирование. Как мыслить реактивно, а не проактивно](https://www.youtube.com/watch?v=8bM4j-BePeM)  |  [Виталий Дмитриев](speakers/Виталий%20Дмитриев.md)  |    |
+| [Angular Elements](https://www.youtube.com/watch?v=uuQ7V0bFcxE)  |  [Сергей Цветков](speakers/Сергей%20Цветков.md)  |    |
+| [Эффективное тестирование FE проектов](https://www.youtube.com/watch?v=sgLvPkkG2ok)  |  [Максим Соснов](speakers/Максим%20Соснов.md)  |    |
+| [Поддержка API Как развивать продукт и прекратить кормить динозавров](https://www.youtube.com/watch?v=5tQyvZAoI-E)  |  [Александр Иосса](speakers/Александр%20Иосса.md)  |    |
+| [WebGL и 2D: простой как Web](https://www.youtube.com/watch?v=PKNrhSe7ATM)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
+| [Делайте из слона муху](https://www.youtube.com/watch?v=NCLMjGHePsQ)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
 ## Tver.io Radio Meetup - Apr 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLiOxDlmyqigw-yetl9zWckO3mGPxbZ8hX)
 | | | |
 | --- | :---: | --- |
