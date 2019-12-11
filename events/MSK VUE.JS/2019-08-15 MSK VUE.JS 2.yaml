@@ -1,12 +1,12 @@
 name: MSK VUE.JS 2
 date: 2019-08-15
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLOviqqLrTTvMZdj8bM9wUeLLO2naYdKm_
 talks:
   - name: 10 вещей о Vue, которые вам стоит знать
     speaker: Арсений Кутузов
-    video:
+    video: https://www.youtube.com/watch?v=nh6dH6OzmXE
     presentation:
   - name: Проектирование компонентов Vue.js
     speaker: Алексей Иванов
-    video:
+    video: https://www.youtube.com/watch?v=p1EEz47BIwg
     presentation:
