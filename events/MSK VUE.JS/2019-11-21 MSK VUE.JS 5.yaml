@@ -1,16 +1,17 @@
 name: MSK VUE.JS 5
 date: 2019-11-21
-videos: 
+videos: https://www.youtube.com/playlist?list=PLOviqqLrTTvPqE1RR9v5VPUi65XccEtof
 talks:
   - name: Микросервисный фронтенд. Как подружить vue.js и react
     speaker: Александр Шамшурин
-    video: 
+    video: https://www.youtube.com/watch?v=XD02n4GXjU8
     presentation: 
   - name: "VueJS + NUDE Elements: от прототипа до продакшена"
     speaker: Андрей Яманов
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=CNql0mU9DRM
+    presentation: https://nude-vuejs-talk.tenphi.now.sh/
+    code: https://nude-playground.tenphi.now.sh/
   - name: Место css во vue.js
     speaker: Нагорных Мария
-    video: 
+    video: https://www.youtube.com/watch?v=KqGsPPtMCPU
     presentation: 

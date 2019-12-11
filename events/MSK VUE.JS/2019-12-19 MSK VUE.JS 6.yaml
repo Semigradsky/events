@@ -1,0 +1,16 @@
+name: MSK VUE.JS 6
+date: 2019-12-19
+videos: 
+talks:
+  - name: ФП c Vue и Vuex. Сильные стороны. Наиболее эффективные точки применения
+    speaker: Сергей Колесников
+    video: 
+    presentation: 
+  - name: Используем конечные автоматы вместе с Composition API
+    speaker: Евгений Гаврилов
+    video: 
+    presentation: 
+  - name: Vue.js-like без единой строчки js (Golang)
+    speaker: Игорь Шеко
+    video: 
+    presentation: 

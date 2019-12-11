@@ -1,16 +1,16 @@
 name: MSK VUE.JS 4
 date: 2019-10-17
-videos: 
+videos: https://www.youtube.com/playlist?list=PLOviqqLrTTvPupmq8diRKhqRDIQR1jGBp
 talks:
   - name: Vue Composition (Function) API
     speaker: Тихон Соколов
-    video: 
+    video: https://www.youtube.com/watch?v=qia9rE6rUj0
     presentation: 
   - name: Как сколотить состояние на Vue
     speaker: Арсений Кутузов
-    video: 
+    video: https://www.youtube.com/watch?v=kr_wOYfUojQ
     presentation: 
   - name: Запись аудио в браузерах
     speaker: Ольга Маланова
-    video: 
+    video: https://www.youtube.com/watch?v=-pjQGpK_nGw
     presentation: 
