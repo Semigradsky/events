@@ -1,0 +1,24 @@
+name: Simferopol Frontend 4
+date: 2019-12-19
+videos: 
+talks:
+  - name: SSR — Подготовка к production
+    speaker: Никита Юстовский
+    video: 
+    presentation: 
+  - name: STM — State Tree Manager
+    speaker: Дмитрий Коханюк
+    video: 
+    presentation: 
+  - name: Голосовые интерфейсы — это про нас?
+    speaker: Руслан Муфтиев
+    video: 
+    presentation: 
+  - name: Всё, что вы хотели знать про метрики
+    speaker: Ростислав Штанько
+    video: 
+    presentation: 
+  - name: Используем ESLint на полную
+    speaker: Виктор Гвоздев
+    video: 
+    presentation: 

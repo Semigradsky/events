@@ -4,13 +4,13 @@ videos: ''
 talks:
   - name: Монорепозитории и где они обитают
     speaker: Михаил Трошев
-    video:
+    video: https://www.youtube.com/watch?v=yW2pg7__a0o
     presentation:
   - name: Houdini — полная власть над браузером
     speaker: Илья Гриненко
-    video:
+    video: https://www.youtube.com/watch?v=-wux_KTf8NY
     presentation:
   - name: Поиск глазами браузера
     speaker: Руслан Муфтиев
-    video:
+    video: https://www.youtube.com/watch?v=Fx2o3lV-eD4
     presentation:
