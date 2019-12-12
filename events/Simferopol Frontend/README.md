@@ -3,6 +3,12 @@
 
 # Simferopol Frontend
 
+## Simferopol Frontend 3 - 2019 May 25 
+| | | |
+| --- | :---: | --- |
+| [Монорепозитории и где они обитают](https://www.youtube.com/watch?v=yW2pg7__a0o)  |  [Михаил Трошев](../../speakers/Михаил%20Трошев.md)  |    |
+| [Houdini — полная власть над браузером](https://www.youtube.com/watch?v=-wux_KTf8NY)  |  [Илья Гриненко](../../speakers/Илья%20Гриненко.md)  |    |
+| [Поиск глазами браузера](https://www.youtube.com/watch?v=Fx2o3lV-eD4)  |  [Руслан Муфтиев](../../speakers/Руслан%20Муфтиев.md)  |    |
 ## Simferopol Frontend 2 - 2019 Mar 22 [:movie_camera:](https://www.youtube.com/watch?v=H7Ad1d2-UyA)
 | | | |
 | --- | :---: | --- |

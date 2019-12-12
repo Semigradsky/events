@@ -380,6 +380,12 @@
 | [From bloody to sweety Enterprise](https://www.youtube.com/watch?v=2FN2A8zYqt0)  |  [Зар Захаров](speakers/Зар%20Захаров.md)  | [:notebook:](https://www.dropbox.com/sh/kg71jju3yvj5jqw/AAC16ZpiVLuI6ohgENtl_-N2a/FC.%20%D0%94%D0%B5%D0%BB%D0%B8%2B%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D1%82%D1%82%D0%B0/28.05/7.From%20bloody%20to%20sweety%20Enterprise_%D0%97%D0%B0%D1%80%20%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2_%D0%B2%D0%B5%D1%80.1.pdf?dl=0)   |
 | [Эмоциональное выгорание. История успеха](https://www.youtube.com/watch?v=OwR6l9t3bJc)  |  [Анна Селезнёва](speakers/Анна%20Селезнёва.md)  | [:notebook:](https://www.dropbox.com/sh/kg71jju3yvj5jqw/AADTbvta42VdsP-3mA-oECzQa/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D1%85%D0%BE%D0%BB%D0%BB/28.05/7.%D0%AD%D0%BC%D0%BE%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%8B%D0%B3%D0%BE%D1%80%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D1%83%D1%81%D0%BF%D0%B5%D1%85%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0%20%D0%A1%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%91%D0%B2%D0%B0_%D0%B2%D0%B5%D1%80.2.pptx?dl=0)   |
 | [Разработка UI для банкоматов](https://www.youtube.com/watch?v=F9klrfzXHXY)  |  [Дмитрий Королев](speakers/Дмитрий%20Королев.md)  | [:notebook:](https://dmitry-korolev.github.io/talks/atm-frontconf-2019/#/)   |
+## Simferopol Frontend 3 - May 25 
+| | | |
+| --- | :---: | --- |
+| [Монорепозитории и где они обитают](https://www.youtube.com/watch?v=yW2pg7__a0o)  |  [Михаил Трошев](speakers/Михаил%20Трошев.md)  |    |
+| [Houdini — полная власть над браузером](https://www.youtube.com/watch?v=-wux_KTf8NY)  |  [Илья Гриненко](speakers/Илья%20Гриненко.md)  |    |
+| [Поиск глазами браузера](https://www.youtube.com/watch?v=Fx2o3lV-eD4)  |  [Руслан Муфтиев](speakers/Руслан%20Муфтиев.md)  |    |
 ## HolyJS 2019 Piter - May 24-25 
 | | | |
 | --- | :---: | --- |
