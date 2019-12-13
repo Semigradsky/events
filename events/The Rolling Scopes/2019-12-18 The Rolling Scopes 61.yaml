@@ -2,7 +2,15 @@ name: The Rolling Scopes 61
 date: 2019-12-18
 videos: 
 talks:
-  - name: Хороший, плохой, конструктивный
-    speaker: Владимир Пантелеев
+  - name: "Производительность JS: чтобы улучшить, надо измерить"
+    speaker: Виктор Хомяков
+    video: 
+    presentation: 
+  - name: JS Framework. Who’s That Pokemon?
+    speaker: Денис Пучко​
+    video: 
+    presentation: 
+  - name: '?'
+    speaker: Андрей Лесницкий
     video: 
     presentation: 
