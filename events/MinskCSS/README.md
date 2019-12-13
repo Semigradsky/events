@@ -3,6 +3,12 @@
 
 # MinskCSS
 
+## MinskCSS 7 - 2019 Dec 12 [:movie_camera:](https://www.youtube.com/watch?v=Hgc3evYQnjE)
+| | | |
+| --- | :---: | --- |
+| Grid Layout + IE &#x3D; &lt;3  |  [Юлия Долгун](../../speakers/Юлия%20Долгун.md)  | [:notebook:](http://grid-in-ie.surge.sh/#1)   |
+| Обтекай!  |  [Захар Авсиевич](../../speakers/Захар%20Авсиевич.md)  | [:notebook:](https://zavsievich.github.io/FloatPres/)   |
+| 10 глупых вопросов дизайнеру  |  [Дмитрий Осипов](../../speakers/Дмитрий%20Осипов.md)  |    |
 ## MinskCSS 6 - 2019 Apr 11 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9Zzl9LTp0yLfaXhIu7-xoUHQN)
 | | | |
 | --- | :---: | --- |
