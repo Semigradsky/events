@@ -1,0 +1,16 @@
+name: MinskCSS 7
+date: 2019-12-12
+videos: https://www.youtube.com/watch?v=Hgc3evYQnjE
+talks:
+  - name: Grid Layout + IE = <3
+    speaker: Юлия Долгун
+    video: 
+    presentation: http://grid-in-ie.surge.sh/#1
+  - name: Обтекай!
+    speaker: Захар Авсиевич
+    video: 
+    presentation: https://zavsievich.github.io/FloatPres/
+  - name: 10 глупых вопросов дизайнеру
+    speaker: Дмитрий Осипов
+    video: 
+    presentation: 
