@@ -1,0 +1,37 @@
+name: FrontHub 2016
+date: 2016-11-12
+videos: https://www.youtube.com/playlist?list=PLOaBrDEMBndyvjAHZTa3Fydts8V_xgF4a
+talks:
+  - name: СSS Моdulеs
+    speaker: Олег Наянов
+    video: https://www.youtube.com/watch?v=ip3HBCW56V4
+    presentation: 
+  - name: Оптимальный во всех смыслах
+    speaker: Роман Фазульянов, Татьяна Бабич
+    video: https://www.youtube.com/watch?v=eMeKnPOIxEM
+    presentation: 
+  - name: Не быстрый старт с Angular 2
+    speaker: Константин Макарычев
+    video: https://www.youtube.com/watch?v=L8oAfSpWS5U
+    presentation: https://www.slideshare.net/Provectus/fronthub-2016-angular-2
+    code: https://github.com/mkf-simpson/fronthub-2016
+  - name: Типографика — такая страшная или прекрасная
+    speaker: Ярослав Трегубов
+    video: https://www.youtube.com/watch?v=27bnYvQruAM
+    presentation: 
+  - name: Общий язык с дизайнером. Ритм!
+    speaker: Михаил Синяков
+    video: https://www.youtube.com/watch?v=cNcTEv2kzsE
+    presentation: 
+  - name: "Сверхбыстрая вёрстка: от макета до Production"
+    speaker: Артём Дикмаров
+    video: https://www.youtube.com/watch?v=Af2idJDwxo4
+    presentation: 
+  - name: Немного о сжатии изображений
+    speaker: Николай Беликов
+    video: https://www.youtube.com/watch?v=HMbaed3Xf6A
+    presentation: 
+  - name: Путь падавана. Как стать web-разработчиком и не поседеть?
+    speaker: Денис Ежков
+    video: https://www.youtube.com/watch?v=JN4x52Lgh-k
+    presentation: 

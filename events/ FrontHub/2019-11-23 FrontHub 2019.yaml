@@ -1,0 +1,36 @@
+name: FrontHub 2019
+date: 2019-11-23
+videos: https://www.youtube.com/watch?v=VVR33MZHKjQ
+talks:
+  - name: Svelte - уже можно или еще рано?
+    speaker: Денис Ежков
+    video: 
+    presentation: 
+  - name: Тестирование скриншотами
+    speaker: Андрей Фатюк
+    video: 
+    presentation: 
+  - name: Оптимизация или как не выстрелить себе в ногу
+    speaker: Дмитрий Ивко
+    video: 
+    presentation: 
+  - name: Put your cards on a table
+    speaker: Алёна Батицкая
+    video: 
+    presentation: 
+  - name: Your first VS Code extension
+    speaker: Андрей Воронин
+    video: 
+    presentation: 
+  - name: "Exotic SPA: фронтенд на ЯП, о котором вы не слышали"
+    speaker: Костя Молчанов
+    video: 
+    presentation: 
+  - name: "GraphQL больше не нужен: так ли это?"
+    speaker: Евгений Дементьев
+    video: 
+    presentation: 
+  - name: Срам, скрамно, и ещё 8 способов убить команду
+    speaker: Денис Ермаков
+    video: 
+    presentation: 

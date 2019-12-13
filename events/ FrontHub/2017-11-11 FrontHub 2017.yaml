@@ -1,0 +1,36 @@
+name: FrontHub 2017
+date: 2019-11-11
+videos: https://www.youtube.com/playlist?list=PLOaBrDEMBndwFivNP1_KM3N1pEsd_mZXb
+talks:
+  - name: Webpack. Жизнь без спагетти
+    speaker: Денис Ежков
+    video: https://www.youtube.com/watch?v=7bAIGRol8ms
+    presentation: 
+  - name: Инструменты дизайнера и чем они могут помочь фронтендерам
+    speaker: Вадим Марьин
+    video: https://www.youtube.com/watch?v=ykJyj7gjl6I
+    presentation: 
+  - name: Состояние Состояния
+    speaker: Алексей Охрименко
+    video: https://www.youtube.com/watch?v=5ocaQYZF-Os
+    presentation: 
+  - name: Веб-разработка на Elm
+    speaker: Василий Васильков
+    video: https://www.youtube.com/watch?v=aDmDzWBOsjw
+    presentation: 
+  - name: Как внедрить новый Angular без ведома работодателя
+    speaker: Алена Алексеева
+    video: https://www.youtube.com/watch?v=HMUVKCFcFAM
+    presentation: 
+  - name: Веб-сокеты в Angular-приложениях
+    speaker: Алексей Синдюков
+    video: https://www.youtube.com/watch?v=axuDqqqstf4
+    presentation: 
+  - name: λ в js без фанатизма
+    speaker: Михаил Синяков
+    video: https://www.youtube.com/watch?v=Hd_hmmGQl64
+    presentation: 
+  - name: Какой стек выбрать джуниору, чтобы заработать денег, принести пользу и сохранить карму
+    speaker: Денис Ермаков
+    video: https://www.youtube.com/watch?v=NoFCaJWTGjE
+    presentation: 

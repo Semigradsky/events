@@ -1,0 +1,29 @@
+name: FrontHub 2014
+date: 2014-11-08
+videos: https://www.youtube.com/playlist?list=PLOaBrDEMBndwPbW9vdg2P-Sffiwu0x9fy
+talks:
+  - name: Препроцессор как новый супер герой!
+    speaker: Михаил Синяков
+    video: https://www.youtube.com/watch?v=Luoh0GWaOWs
+    presentation: 
+  - name: Ленивая верстка
+    speaker: Николай Беликов
+    video: https://www.youtube.com/watch?v=MOgszq7ggwo
+    text: http://nikbelikov.github.io/2014/06/22/photoshop-workflow.html
+    presentation: http://front-end.su/presentations/2014/nikbelikov/
+  - name: «g» или «g»?
+    speaker: Дмитрий Вислов
+    video: https://www.youtube.com/watch?v=U9F0xD7vhVQ
+    presentation: 
+  - name: Документируй это
+    speaker: Олег Наянов
+    video: https://www.youtube.com/watch?v=dak6U2Sft7o
+    presentation: 
+  - name: "Производительность верстки: highload style"
+    speaker: Сергей Двоскин
+    video: https://www.youtube.com/watch?v=3OjeHN2d9iE
+    presentation: 
+  - name: Smacss поможет взять верх над монструозным CSS
+    speaker: Олег Ларькин
+    video: https://www.youtube.com/watch?v=9-BArc8eCNw
+    presentation: 

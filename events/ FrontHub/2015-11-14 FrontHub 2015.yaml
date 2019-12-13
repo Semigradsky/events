@@ -1,0 +1,40 @@
+name: FrontHub 2015
+date: 2015-11-14
+videos: https://www.youtube.com/playlist?list=PLOaBrDEMBndy46YxIGkHOt5d_kA4lUt3B
+talks:
+  - name: Почему сложно программировать UI
+    speaker: Кирилл Мокевнин
+    video: https://www.youtube.com/watch?v=WaIff6Cs1gs
+    presentation: 
+  - name: CSS, JS & Bitrix
+    speaker: Артём Хлебников
+    video: https://www.youtube.com/watch?v=Px9hiFgOKR0
+    presentation: 
+  - name: PostHTML
+    speaker: Олег Наянов
+    video: https://www.youtube.com/watch?v=Zq12MQSesWc
+    presentation: 
+  - name: Жизнь после js-фреймворков
+    speaker: Андрей Ваганов
+    video: https://www.youtube.com/watch?v=-W7kFbCXVqw
+    presentation: 
+  - name: Чо там у шрифтов?
+    speaker: Дмитрий Вислов
+    video: https://www.youtube.com/watch?v=9CA33auBgwU
+    presentation: 
+  - name: Мы вставили сайт в ваш email
+    speaker: Михаил Синяков
+    video: https://www.youtube.com/watch?v=CErSXO0GQdc
+    presentation: 
+  - name: Увидеть больше
+    speaker: Николай Беликов
+    video: https://www.youtube.com/watch?v=7mH0X2Fg_44
+    presentation: 
+  - name: Custom vs. Native
+    speaker: Денис Ежков
+    video: https://www.youtube.com/watch?v=L4_tjYbYd_I
+    presentation: 
+  - name: Дизайн для front-end
+    speaker: Ярослав Трегубов
+    video: https://www.youtube.com/watch?v=v5rnTb99TDw
+    presentation: 

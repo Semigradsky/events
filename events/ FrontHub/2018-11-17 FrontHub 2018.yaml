@@ -1,0 +1,32 @@
+name: FrontHub 2018
+date: 2019-11-17
+videos: 
+talks:
+  - name: JS-in-CSS, или о том как программировать в стилях
+    speaker: Алёна Тикунова
+    video: 
+    presentation: 
+  - name: Почему хорошие парни делают шоколадное мороженое
+    speaker: Денис Ермаков
+    video: 
+    presentation: 
+  - name: Воркеры. Когда одного потока мало
+    speaker: Богдан Руденко
+    video: 
+    presentation: 
+  - name: Начинаем писать тесты (правильно)
+    speaker: Кирилл Мокевнин
+    video: 
+    presentation: 
+  - name: Разочарование в программировании
+    speaker: Никита Прокопов
+    video: 
+    presentation: 
+  - name: Доклад о сайд-эффектах в редаксе номер 154
+    speaker: Анастасия Лопатина
+    video: 
+    presentation: 
+  - name: Что нам стоит stage построить?
+    speaker: Валентин Семирульник
+    video: 
+    presentation: 
