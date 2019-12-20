@@ -3,12 +3,22 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Minsk 6 - Dec 16 
+| | | |
+| --- | :---: | --- |
+| TypeScript Conditional Types [en] |  [Gregor Woiwode](speakers/Gregor%20Woiwode.md)  | [:notebook:](https://speakerdeck.com/gregonnet/minsk-19-12-16)   |
+| Квиз по мотивам Angular 9 Release  |  [Виктория Рымкевич](speakers/Виктория%20Рымкевич.md)  | [:notebook:](https://docs.google.com/presentation/d/109d-TPglwRAFBCw-zUCa0ZSoKIaQpvQ0A7worwHb9FI/edit#slide=id.p)   |
 ## MinskCSS 7 - Dec 12 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Hgc3evYQnjE)
 | | | |
 | --- | :---: | --- |
 | Grid Layout + IE &#x3D; &lt;3  |  [Юлия Долгун](speakers/Юлия%20Долгун.md)  | [:notebook:](http://grid-in-ie.surge.sh/#1)   |
 | Обтекай!  |  [Захар Авсиевич](speakers/Захар%20Авсиевич.md)  | [:notebook:](https://zavsievich.github.io/FloatPres/)   |
 | 10 глупых вопросов дизайнеру  |  [Дмитрий Осипов](speakers/Дмитрий%20Осипов.md)  |    |
+## Angular Belarus 3 - Dec 05 
+| | | |
+| --- | :---: | --- |
+| [TDD &#x2F; BDD methodology - as a way to improve product quality](https://www.youtube.com/watch?v=ljqkdzTFKFY)  |  [Сергей Рожков](speakers/Сергей%20Рожков.md)  |    |
+| [Асинхронный Javascript](https://www.youtube.com/watch?v=Mw5BCF1eL04)  |  [Александр Логинов](speakers/Александр%20Логинов.md)  |    |
 ## GDG Minsk Web Meetup - Nov 27 
 | | | |
 | --- | :---: | --- |

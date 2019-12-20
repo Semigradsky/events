@@ -3,6 +3,11 @@
 
 # Angular Belarus
 
+## Angular Belarus 3 - 2019 Dec 05 
+| | | |
+| --- | :---: | --- |
+| [TDD &#x2F; BDD methodology - as a way to improve product quality](https://www.youtube.com/watch?v=ljqkdzTFKFY)  |  [Сергей Рожков](../../speakers/Сергей%20Рожков.md)  |    |
+| [Асинхронный Javascript](https://www.youtube.com/watch?v=Mw5BCF1eL04)  |  [Александр Логинов](../../speakers/Александр%20Логинов.md)  |    |
 ## Angular Belarus 2 - 2019 Oct 10 
 | | | |
 | --- | :---: | --- |
