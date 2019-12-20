@@ -4,9 +4,9 @@ videos:
 talks:
   - name: TDD / BDD methodology - as a way to improve product quality
     speaker: Сергей Рожков
-    video: 
+    video: https://www.youtube.com/watch?v=ljqkdzTFKFY
     presentation: 
   - name: Асинхронный Javascript
     speaker: Александр Логинов
-    video: 
+    video: https://www.youtube.com/watch?v=Mw5BCF1eL04
     presentation: 
