@@ -10,7 +10,11 @@ talks:
     speaker: Андрей Гончаров
     video: 
     presentation: 
-  - name: 
-    speaker: 
+  - name: "Темизация UI kit: экономим 400+ часов времени и используем преимущества CSS variables & SASS"
+    speaker: Виталий Евтехов
+    video: 
+    presentation: 
+  - name: Через тернии к почти идеальным таблицам
+    speaker: Дмитрий Ивко
     video: 
     presentation: 
