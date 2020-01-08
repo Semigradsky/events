@@ -1,16 +1,16 @@
 name: moscowcss 15
 date: 2019-10-29
-videos: 
+videos: https://www.youtube.com/playlist?list=PLAf_MJ7SOshH-JE__MVZCCypMOU3-pTDI
 talks:
   - name: Расширение возможностей CSS с Houdini
     speaker: Мария Стогова
-    video: 
+    video: https://youtu.be/x0nD8VUScmc
     presentation: 
   - name: SPA на чистом CSS
     speaker: Иван Бабков
-    video: 
-    presentation: 
+    video: https://youtu.be/o5nOs4n18xY
+    presentation: https://ibabkov.github.io/css_spa_presentation/
   - name: Система именования переменных в css
     speaker: Мария Нагорных
-    video: 
-    presentation: 
+    video: https://youtu.be/5QVnY8lJ6d8
+    presentation: https://drive.google.com/file/d/1h_1_H2C9rM7y3zrB1FDm-3xkKMyCnZT6/view
