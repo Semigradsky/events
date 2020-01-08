@@ -4,11 +4,11 @@ videos:
 talks:
   - name: ФП c Vue и Vuex. Сильные стороны. Наиболее эффективные точки применения
     speaker: Сергей Колесников
-    video: 
+    video: https://youtu.be/Rz_RynHNZKg
     presentation: 
   - name: Используем конечные автоматы вместе с Composition API
     speaker: Евгений Гаврилов
-    video: 
+    video: https://youtu.be/ussNb7tM7Mg
     presentation: 
   - name: Vue.js-like без единой строчки js (Golang)
     speaker: Игорь Шеко
