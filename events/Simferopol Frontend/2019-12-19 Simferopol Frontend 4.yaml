@@ -1,24 +1,32 @@
 name: Simferopol Frontend 4
 date: 2019-12-19
-videos: 
+videos: https://www.youtube.com/playlist?list=PL4SGMxXO_T78pjhn27A4XIgwAIO2sKXlA
 talks:
   - name: SSR — Подготовка к production
     speaker: Никита Юстовский
-    video: 
+    video: https://youtu.be/GOPJJEdGrtU
     presentation: 
   - name: STM — State Tree Manager
     speaker: Дмитрий Коханюк
-    video: 
+    video: https://youtu.be/GLD7H9Bj5xo
     presentation: 
   - name: Голосовые интерфейсы — это про нас?
     speaker: Руслан Муфтиев
-    video: 
+    video: https://youtu.be/0wD1hAYYkEY
     presentation: 
   - name: Всё, что вы хотели знать про метрики
     speaker: Ростислав Штанько
-    video: 
+    video: https://youtu.be/UibnxSD9Suw
     presentation: 
   - name: Используем ESLint на полную
     speaker: Виктор Гвоздев
-    video: 
+    video: https://youtu.be/CeqXXqEsCrY
+    presentation: 
+  - name: Football-chat-bot-2
+    speaker: Андрей Кузнецов
+    video: https://youtu.be/MZDC-F0lDeM
+    presentation: 
+  - name: Голосовые интерфейсы в браузере
+    speaker: Владимир Гриненко
+    video: https://youtu.be/kgnoWzIgNaI
     presentation: 
