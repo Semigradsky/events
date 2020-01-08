@@ -3,6 +3,12 @@
 
 # MSK VUE.JS
 
+## MSK VUE.JS 6 - 2019 Dec 19 
+| | | |
+| --- | :---: | --- |
+| [ФП c Vue и Vuex. Сильные стороны. Наиболее эффективные точки применения](https://youtu.be/Rz_RynHNZKg)  |  [Сергей Колесников](../../speakers/Сергей%20Колесников.md)  |    |
+| [Используем конечные автоматы вместе с Composition API](https://youtu.be/ussNb7tM7Mg)  |  [Евгений Гаврилов](../../speakers/Евгений%20Гаврилов.md)  |    |
+| Vue.js-like без единой строчки js (Golang)  |  [Игорь Шеко](../../speakers/Игорь%20Шеко.md)  |    |
 ## MSK VUE.JS 5 - 2019 Nov 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLOviqqLrTTvPqE1RR9v5VPUi65XccEtof)
 | | | |
 | --- | :---: | --- |

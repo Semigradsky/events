@@ -3,6 +3,13 @@
 
 # OdessaFrontend
 
+## OdessaFrontend Meetup 14 - 2019 Dec 18 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0upfo2XGtCnVuCf8lQGqgD-)
+| | | |
+| --- | :---: | --- |
+| [Можно ли жить без Docker?](https://youtu.be/vycFpNfvYoc)  |  [Юрий Чихрай](../../speakers/Юрий%20Чихрай.md)  | [:notebook:](https://odessafrontend.github.io/docker/#/)   |
+| [Стереотипы во фронтенде](https://youtu.be/eLtHCZuglQ8)  |  [Екатерина Фастовец](../../speakers/Екатерина%20Фастовец.md)  | [:notebook:](https://odessafrontend.github.io/stereotypes/)   |
+| [Переменные в CSS: сколько вы ещё планируете ждать?](https://youtu.be/roYQ9pJmopQ)  |  [Сергей Фомин](../../speakers/Сергей%20Фомин.md)  | [:notebook:](https://odessafrontend.github.io/custom-properties/)   |
+| [Викторина](https://youtu.be/T3PNKaUXBGo)  |  [Николай Птущук](../../speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-14)   |
 ## OdessaFrontend Meetup 13 - 2019 Oct 10 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0v0Vh2pKSb6iR5FNFsCOJEB)
 | | | |
 | --- | :---: | --- |

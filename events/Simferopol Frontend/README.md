@@ -3,6 +3,16 @@
 
 # Simferopol Frontend
 
+## Simferopol Frontend 4 - 2019 Dec 19 [:movie_camera:](https://www.youtube.com/playlist?list=PL4SGMxXO_T78pjhn27A4XIgwAIO2sKXlA)
+| | | |
+| --- | :---: | --- |
+| [SSR — Подготовка к production](https://youtu.be/GOPJJEdGrtU)  |  [Никита Юстовский](../../speakers/Никита%20Юстовский.md)  |    |
+| [STM — State Tree Manager](https://youtu.be/GLD7H9Bj5xo)  |  [Дмитрий Коханюк](../../speakers/Дмитрий%20Коханюк.md)  |    |
+| [Голосовые интерфейсы — это про нас?](https://youtu.be/0wD1hAYYkEY)  |  [Руслан Муфтиев](../../speakers/Руслан%20Муфтиев.md)  |    |
+| [Всё, что вы хотели знать про метрики](https://youtu.be/UibnxSD9Suw)  |  [Ростислав Штанько](../../speakers/Ростислав%20Штанько.md)  |    |
+| [Используем ESLint на полную](https://youtu.be/CeqXXqEsCrY)  |  [Виктор Гвоздев](../../speakers/Виктор%20Гвоздев.md)  |    |
+| [Football-chat-bot-2](https://youtu.be/MZDC-F0lDeM)  |  [Андрей Кузнецов](../../speakers/Андрей%20Кузнецов.md)  |    |
+| [Голосовые интерфейсы в браузере](https://youtu.be/kgnoWzIgNaI)  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  |    |
 ## Simferopol Frontend 3 - 2019 May 25 
 | | | |
 | --- | :---: | --- |

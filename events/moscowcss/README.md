@@ -3,6 +3,19 @@
 
 # moscowcss
 
+## moscowcss 16 - 2019 Dec 03 [:movie_camera:](https://www.youtube.com/playlist?list=PLAf_MJ7SOshFwQk3agupqfCAfSixX2fQU)
+| | | |
+| --- | :---: | --- |
+| [BRAND х UI](https://youtu.be/nXMAMXzNb2c)  |  [Никита Морозов](../../speakers/Никита%20Морозов.md)  [Николай Коробов](../../speakers/Николай%20Коробов.md)  |    |
+| [Рецепт востребованного верстальщика: дизайн + код](https://youtu.be/0T9NIqp4W9o)  |  [Анна Блок](../../speakers/Анна%20Блок.md)  |    |
+| [Разработка универсальных библиотек компонентов для платформы по созданию сайтов](https://youtu.be/5gfcWaKJEUY)  |  [Игорь Лесневский](../../speakers/Игорь%20Лесневский.md)  |    |
+| [В погоне за перфомансом](https://youtu.be/wbTEDA8A4xY)  |  [Даниил Крохмаль](../../speakers/Даниил%20Крохмаль.md)  |    |
+## moscowcss 15 - 2019 Oct 29 [:movie_camera:](https://www.youtube.com/playlist?list=PLAf_MJ7SOshH-JE__MVZCCypMOU3-pTDI)
+| | | |
+| --- | :---: | --- |
+| [Расширение возможностей CSS с Houdini](https://youtu.be/x0nD8VUScmc)  |  [Мария Стогова](../../speakers/Мария%20Стогова.md)  |    |
+| [SPA на чистом CSS](https://youtu.be/o5nOs4n18xY)  |  [Иван Бабков](../../speakers/Иван%20Бабков.md)  | [:notebook:](https://ibabkov.github.io/css_spa_presentation/)   |
+| [Система именования переменных в css](https://youtu.be/5QVnY8lJ6d8)  |  [Мария Нагорных](../../speakers/Мария%20Нагорных.md)  | [:notebook:](https://drive.google.com/file/d/1h_1_H2C9rM7y3zrB1FDm-3xkKMyCnZT6/view)   |
 ## moscowcss 14 - 2019 Jul 25 [:movie_camera:](https://www.youtube.com/playlist?list=PLAf_MJ7SOshE2s8LfBL5kyKcXox-HzuVd)
 | | | |
 | --- | :---: | --- |
