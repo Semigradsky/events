@@ -4,13 +4,13 @@ videos:
 talks:
   - name: История развития фронтенда в Яндексе за 10 лет
     speaker: Владимир Гриненко
-    video: 
+    video: https://youtu.be/BRHpQzVeLV0
     presentation: 
   - name: Vue.js - мои впечатления после года в продакшне
     speaker: Марат Фахреев
-    video: 
+    video: https://youtu.be/dFD1L8wGAhs
     presentation: 
   - name: "PWA: двигатель веба и бизнеса"
     speaker: Антон Заладинов
-    video: 
+    video: https://youtu.be/JyFUNATQZeU
     presentation: 
