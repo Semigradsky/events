@@ -3,6 +3,13 @@
 
 # MoscowJS
 
+## MoscowJS 46 - 2019 Dec 05 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpGXVZWXNjhj0RghE2GBp4BY)
+| | | |
+| --- | :---: | --- |
+| [Опыт использования FinalForm](https://youtu.be/CpB7cIFBwiY)  |  [Дмитрий Деханов](../../speakers/Дмитрий%20Деханов.md)  |    |
+| [Схемы рекурсии, или как мы решали задачу управления фронтом с бэка](https://youtu.be/MD49vFaQ4QA)  |  [Юрий Богомолов](../../speakers/Юрий%20Богомолов.md)  |    |
+| [CI &#x2F; CD теория и практика](https://youtu.be/St-IYjTlDrU)  |  [Дмитрий Захаров](../../speakers/Дмитрий%20Захаров.md)  |    |
+| [Procrastinate’n’dev](https://youtu.be/LYo6l120pjk)  |  [Ян Лаврюшев](../../speakers/Ян%20Лаврюшев.md)  |    |
 ## MoscowJS Geo Meetup - 2019 Apr 10 
 | | | |
 | --- | :---: | --- |

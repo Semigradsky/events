@@ -7,10 +7,6 @@
 - 2012 Oct 06-07 -- 404fest 2012    
 ## Angular Universal Advanced
 - 2019 Nov 28 -- Angular Moscow 16    
-## Мутационное тестирование
-- 2019 Mar 02 -- Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)  
-## Angular и Typescript. Основы. Примеры.
-- 2018 Apr 26 -- Mera 20 - JS tricks &amp; Angular quick start  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx)  
 ## QA session
 - 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
 ## Введение в архитектуру VIPER
@@ -19,6 +15,10 @@
 - 2018 Dec 12 -- [OdessaFrontend Meetup 9](https://youtu.be/_UUDoSbbuT0)  | [:notebook:](https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9)  
 ## Доклад-сюрприз
 - 2019 May 20 -- PiterJS 37    
+## Мутационное тестирование
+- 2019 Mar 02 -- Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)  
+## Angular и Typescript. Основы. Примеры.
+- 2018 Apr 26 -- Mera 20 - JS tricks &amp; Angular quick start  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx)  
 ## Q&amp;A Panel – React Kyiv March
 - 2018 Mar 23 -- [React Kyiv March Meetup](https://youtu.be/Vokq8ndgd5c)    
 ## PiterJS #23 — Дебаты 1 часть
