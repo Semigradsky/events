@@ -5,9 +5,9 @@ talks:
   - name: TypeScript Conditional Types
     speaker: Gregor Woiwode
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=WVdpv4n1jdc
     presentation: https://speakerdeck.com/gregonnet/minsk-19-12-16
   - name: Квиз по мотивам Angular 9 Release
     speaker: Виктория Рымкевич
-    video: 
+    video: https://www.youtube.com/watch?v=0MwzQRSRTvU
     presentation: https://docs.google.com/presentation/d/109d-TPglwRAFBCw-zUCa0ZSoKIaQpvQ0A7worwHb9FI/edit#slide=id.p
