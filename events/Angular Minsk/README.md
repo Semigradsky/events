@@ -6,8 +6,8 @@
 ## Angular Minsk 6 - 2019 Dec 16 
 | | | |
 | --- | :---: | --- |
-| TypeScript Conditional Types [en] |  [Gregor Woiwode](../../speakers/Gregor%20Woiwode.md)  | [:notebook:](https://speakerdeck.com/gregonnet/minsk-19-12-16)   |
-| Квиз по мотивам Angular 9 Release  |  [Виктория Рымкевич](../../speakers/Виктория%20Рымкевич.md)  | [:notebook:](https://docs.google.com/presentation/d/109d-TPglwRAFBCw-zUCa0ZSoKIaQpvQ0A7worwHb9FI/edit#slide=id.p)   |
+| [TypeScript Conditional Types](https://www.youtube.com/watch?v=WVdpv4n1jdc) [en] |  [Gregor Woiwode](../../speakers/Gregor%20Woiwode.md)  | [:notebook:](https://speakerdeck.com/gregonnet/minsk-19-12-16)   |
+| [Квиз по мотивам Angular 9 Release](https://www.youtube.com/watch?v=0MwzQRSRTvU)  |  [Виктория Рымкевич](../../speakers/Виктория%20Рымкевич.md)  | [:notebook:](https://docs.google.com/presentation/d/109d-TPglwRAFBCw-zUCa0ZSoKIaQpvQ0A7worwHb9FI/edit#slide=id.p)   |
 ## Angular Minsk 5 - 2019 Nov 12 
 | | | |
 | --- | :---: | --- |
