@@ -1,4 +1,20 @@
 name: MoscowJS 46
 date: 2019-12-05
-videos: 
-talks: []
+videos: https://www.youtube.com/playlist?list=PL95OM-7UObpGXVZWXNjhj0RghE2GBp4BY
+talks:
+  - name: Опыт использования FinalForm
+    speaker: Дмитрий Деханов
+    video: https://youtu.be/CpB7cIFBwiY
+    presentation: 
+  - name: Схемы рекурсии, или как мы решали задачу управления фронтом с бэка
+    speaker: Юрий Богомолов
+    video: https://youtu.be/MD49vFaQ4QA
+    presentation: 
+  - name: CI / CD теория и практика
+    speaker: Дмитрий Захаров
+    video: https://youtu.be/St-IYjTlDrU
+    presentation: 
+  - name: Procrastinate’n’dev
+    speaker: Ян Лаврюшев
+    video: https://youtu.be/LYo6l120pjk
+    presentation: 
