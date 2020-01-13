@@ -1,20 +1,20 @@
 name: Storm The Front Meetup 6
 date: 2019-07-27
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLX3qbfL4pq9AlGYjMu2yh4Zlcol89v8sC
 talks:
   - name: Введение в веб-компоненты
     speaker: Андрей Космыков
-    video:
-    presentation:
+    video: https://youtu.be/PS8gxwSYREA
+    presentation: https://drive.google.com/file/d/1Nk6VQlaBRUOf25Olr_aQ_PO7J9aAyZu-/view
   - name: Функциональный функционирует
     speaker: Александр Загорский
-    video:
+    video: https://youtu.be/_4a5mfy9B_o
     presentation:
   - name: Все, что вы хотели знать про удаленную работу, но стеснялись спросить
     speaker: Сергей Корж
-    video:
-    presentation:
+    video: https://youtu.be/DFGkK0g3IUs
+    presentation: https://drive.google.com/file/d/1n16P-0IEAmOld6srB7qO4nawsu1i0Tri/view
   - name: Доступность в веб
     speaker: Павел Дроздов
-    video:
-    presentation:
+    video: https://youtu.be/yr9ou_XgO58
+    presentation: https://slides.com/werinolic/accessibility#/
