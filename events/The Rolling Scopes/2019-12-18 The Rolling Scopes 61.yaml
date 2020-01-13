@@ -1,16 +1,16 @@
 name: The Rolling Scopes 61
 date: 2019-12-18
-videos: 
+videos: https://www.youtube.com/watch?v=NxIiW_LFEfg
 talks:
   - name: "Производительность JS: чтобы улучшить, надо измерить"
     speaker: Виктор Хомяков
-    video: 
+    video: https://www.youtube.com/watch?v=NxIiW_LFEfg
     presentation: 
   - name: JS Framework. Who’s That Pokemon?
     speaker: Денис Пучко​
-    video: 
+    video: https://youtu.be/NxIiW_LFEfg?t=3708
     presentation: 
-  - name: '?'
+  - name: Есть ли жизнь после фултайма?
     speaker: Андрей Лесницкий
     video: 
     presentation: 
