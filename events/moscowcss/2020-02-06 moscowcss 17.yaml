@@ -2,15 +2,15 @@ name: moscowcss 17
 date: 2020-02-06
 videos: 
 talks:
-  - name: '?'
-    speaker: '?'
+  - name: Как понять дизайнера и больше погрузиться в продукт?
+    speaker: Ксения Майорова
     video: 
     presentation: 
   - name: Особенности стилизации веб-компонентов, построенных с помощью Shadow DOM
     speaker: Артём Гусев
     video: 
     presentation: 
-  - name: '?'
-    speaker: '?'
+  - name: Custom property можем использовать уже сегодня?
+    speaker: Мария Нагорных
     video: 
     presentation: 
