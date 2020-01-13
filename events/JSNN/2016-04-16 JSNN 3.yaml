@@ -4,18 +4,24 @@ link: 'https://www.it52.info/events/2016-04-16-go-js-1'
 talks:
   - name: Про Middleman и простое создание статических сайтов
     speaker: Алексей Авдеев
+    video: https://youtu.be/zGsGS9rfriU
     presentation: http://www.slideshare.net/AlexeyAvdeev1/middleman-61006895
   - name: GSAP SVG Animations
     speaker: Дмитрий Шлюгаев
+    video: https://youtu.be/Wo36IdGbrXU
     presentation: http://www.slideshare.net/DmitryShlyugaev/gsap-svg
   - name: NPM scripts
     speaker: Андрей Макаров
+    video: https://youtu.be/NbaQDjzva3I
     presentation: http://r3nya.ru/npm/
   - name: Про сахар для Ionic и автосборку под все платформы
     speaker: Николай Кугаевский
+    video: https://youtu.be/NJHC6x-RJFU
   - name: Как не потеряться в экосистеме React?
     speaker: Сергей Смышляев
+    video: https://youtu.be/TFcDTq3auec
     presentation: http://slides.com/sergeysmyshlyaev/deck-3#/
   - name: Разработка микровиджетов с использованием реактивных микро-фреймворков на примере Mithril
     speaker: Антон Шрамко
+    video: https://youtu.be/99VHctZ5_tI
     presentation: http://slides.com/friktor/deck#/
