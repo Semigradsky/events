@@ -6,11 +6,11 @@ talks:
     speaker: Сергей Кригер
     video:
     presentation:
-  - name: 'Unknown'
-    speaker: 'Unknown'
+  - name: "Тестирование доступности: что это, зачем и как"
+    speaker: Анастасия Заречнева
     video:
     presentation:
-  - name: 'Unknown'
-    speaker: 'Unknown'
+  - name: Автоматизируем проверку доступности
+    speaker: Никита Соболев
     video:
     presentation:
