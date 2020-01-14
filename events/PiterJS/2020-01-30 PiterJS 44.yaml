@@ -1,0 +1,16 @@
+name: PiterJS 44
+date: 2020-01-30
+videos: 
+talks:
+  - name: Express API — Essentials with TypeScript
+    speaker: Павел Якупов
+    video: 
+    presentation: 
+  - name: Если нужен тест, пусть он будет интеграционным
+    speaker: Василий Малыхин
+    video: 
+    presentation: 
+  - name: Функциональная обработка ошибок в TypeScript
+    speaker: Александр Шарихин
+    video: 
+    presentation: 
