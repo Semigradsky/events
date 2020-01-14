@@ -3,6 +3,13 @@
 
 # Storm The Front
 
+## Storm The Front Meetup 6 - 2019 Jul 27 [:movie_camera:](https://www.youtube.com/playlist?list=PLX3qbfL4pq9AlGYjMu2yh4Zlcol89v8sC)
+| | | |
+| --- | :---: | --- |
+| [Введение в веб-компоненты](https://youtu.be/PS8gxwSYREA)  |  [Андрей Космыков](../../speakers/Андрей%20Космыков.md)  | [:notebook:](https://drive.google.com/file/d/1Nk6VQlaBRUOf25Olr_aQ_PO7J9aAyZu-/view)   |
+| [Функциональный функционирует](https://youtu.be/_4a5mfy9B_o)  |  [Александр Загорский](../../speakers/Александр%20Загорский.md)  |    |
+| [Все, что вы хотели знать про удаленную работу, но стеснялись спросить](https://youtu.be/DFGkK0g3IUs)  |  [Сергей Корж](../../speakers/Сергей%20Корж.md)  | [:notebook:](https://drive.google.com/file/d/1n16P-0IEAmOld6srB7qO4nawsu1i0Tri/view)   |
+| [Доступность в веб](https://youtu.be/yr9ou_XgO58)  |  [Павел Дроздов](../../speakers/Павел%20Дроздов.md)  | [:notebook:](https://slides.com/werinolic/accessibility#/)   |
 ## Storm The Front Meetup 5 - 2019 Apr 13 [:movie_camera:](https://www.youtube.com/playlist?list=PLX3qbfL4pq9CJXgO4_aizriYJrbErJvDh)
 | | | |
 | --- | :---: | --- |

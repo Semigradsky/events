@@ -3,6 +3,12 @@
 
 # The Rolling Scopes
 
+## The Rolling Scopes 61 - 2019 Dec 18 [:movie_camera:](https://www.youtube.com/watch?v=NxIiW_LFEfg)
+| | | |
+| --- | :---: | --- |
+| [Производительность JS: чтобы улучшить, надо измерить](https://www.youtube.com/watch?v=NxIiW_LFEfg)  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |    |
+| [JS Framework. Who’s That Pokemon?](https://youtu.be/NxIiW_LFEfg?t=3708)  |  [Денис Пучко​](../../speakers/Денис%20Пучко​.md)  |    |
+| Есть ли жизнь после фултайма?  |  [Андрей Лесницкий](../../speakers/Андрей%20Лесницкий.md)  |    |
 ## The Rolling Scopes &amp; MobilePeople - 2019 Feb 19 [:movie_camera:](https://www.youtube.com/watch?v=uwROYy4LPf4)
 | | | |
 | --- | :---: | --- |

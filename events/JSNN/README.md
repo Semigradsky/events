@@ -71,15 +71,15 @@
 | Автоматическое тестирование front-end приложения  |  [Ангелов Михаил](../../speakers/Ангелов%20Михаил.md)  | [:notebook:](https://mikhail-angelov.github.io/presentation-test-front-end/)   |
 | Что осталось от MeteorJS  |  [Павел Шалаев](../../speakers/Павел%20Шалаев.md)  | [:notebook:](http://slides.com/lawrentiy/historyofmeteorjs#/)   |
 | Работа с анимациями в React Native  |  [Шрамко Антон](../../speakers/Шрамко%20Антон.md)  | [:notebook:](http://slides.com/friktor/react-native-animations#/) [:octocat:](https://github.com/friktor/react-animations-example-it52-jsnn-4)  |
-## JSNN 3 - 2016 Apr 16 
+## JSNN 3 - 2016 Apr 16 [:movie_camera:](https://www.youtube.com/playlist?list=PLYoGwSPm63L14AWdayq4EIAlnE4VsdRge)
 | | | |
 | --- | :---: | --- |
-| Про Middleman и простое создание статических сайтов  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  | [:notebook:](http://www.slideshare.net/AlexeyAvdeev1/middleman-61006895)   |
-| GSAP SVG Animations  |  [Дмитрий Шлюгаев](../../speakers/Дмитрий%20Шлюгаев.md)  | [:notebook:](http://www.slideshare.net/DmitryShlyugaev/gsap-svg)   |
-| NPM scripts  |  [Андрей Макаров](../../speakers/Андрей%20Макаров.md)  | [:notebook:](http://r3nya.ru/npm/)   |
-| Про сахар для Ionic и автосборку под все платформы  |  [Николай Кугаевский](../../speakers/Николай%20Кугаевский.md)  |    |
-| Как не потеряться в экосистеме React?  |  [Сергей Смышляев](../../speakers/Сергей%20Смышляев.md)  | [:notebook:](http://slides.com/sergeysmyshlyaev/deck-3#/)   |
-| Разработка микровиджетов с использованием реактивных микро-фреймворков на примере Mithril  |  [Антон Шрамко](../../speakers/Антон%20Шрамко.md)  | [:notebook:](http://slides.com/friktor/deck#/)   |
+| [Про Middleman и простое создание статических сайтов](https://youtu.be/zGsGS9rfriU)  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  | [:notebook:](https://www.slideshare.net/AlexeyAvdeev1/middleman-61006895)   |
+| [GSAP SVG Animations](https://youtu.be/Wo36IdGbrXU)  |  [Дмитрий Шлюгаев](../../speakers/Дмитрий%20Шлюгаев.md)  | [:notebook:](http://www.slideshare.net/DmitryShlyugaev/gsap-svg)   |
+| [NPM scripts](https://youtu.be/NbaQDjzva3I)  |  [Андрей Макаров](../../speakers/Андрей%20Макаров.md)  | [:notebook:](http://r3nya.ru/npm/)   |
+| [Про сахар для Ionic и автосборку под все платформы](https://youtu.be/NJHC6x-RJFU)  |  [Николай Кугаевский](../../speakers/Николай%20Кугаевский.md)  |    |
+| [Как не потеряться в экосистеме React?](https://youtu.be/TFcDTq3auec)  |  [Сергей Смышляев](../../speakers/Сергей%20Смышляев.md)  | [:notebook:](http://slides.com/sergeysmyshlyaev/deck-3#/)   |
+| [Разработка микровиджетов с использованием реактивных микро-фреймворков на примере Mithril](https://youtu.be/99VHctZ5_tI)  |  [Антон Шрамко](../../speakers/Антон%20Шрамко.md)  | [:notebook:](http://slides.com/friktor/deck#/)   |
 ## JSNN 2 - 2016 Feb 27 
 | | | |
 | --- | :---: | --- |

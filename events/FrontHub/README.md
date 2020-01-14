@@ -1,7 +1,7 @@
 ## [Events](../README.md) > [Speakers](../speakers.md)
 ---
 
-#  FrontHub
+# FrontHub
 
 ## FrontHub 2017 - 2019 Nov 11 [:movie_camera:](https://www.youtube.com/playlist?list=PLOaBrDEMBndwFivNP1_KM3N1pEsd_mZXb)
 | | | |
