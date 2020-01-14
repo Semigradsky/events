@@ -1,6 +1,7 @@
 name: JSNN 3
 date: 2016-04-16
-link: 'https://www.it52.info/events/2016-04-16-go-js-1'
+link: https://www.it52.info/events/2016-04-16-go-js-1
+videos: https://www.youtube.com/playlist?list=PLYoGwSPm63L14AWdayq4EIAlnE4VsdRge
 talks:
   - name: Про Middleman и простое создание статических сайтов
     speaker: Алексей Авдеев
