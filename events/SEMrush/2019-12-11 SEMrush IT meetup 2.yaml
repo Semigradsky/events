@@ -1,16 +1,17 @@
 name: SEMrush IT meetup 2
 date: 2019-12-11
-videos: 
+videos: https://www.youtube.com/watch?v=8xm5R-wEfmk
 talks:
   - name: Greet Node.js Multi-threading
     speaker: Антон Белов
-    video: 
+    video: https://www.youtube.com/watch?v=8xm5R-wEfmk
+    code: https://github.com/cerberus-ab/js-multi-threading-demo
     presentation: 
   - name: React to Concurrent Mode
     speaker: Алексей Балканский
-    video: 
+    video: https://youtu.be/8xm5R-wEfmk?t=3430
     presentation: 
   - name: Lazy loading images
     speaker: Денис Голубцов
-    video: 
+    video: https://youtu.be/8xm5R-wEfmk?t=5303
     presentation: 
