@@ -2,7 +2,27 @@ name: Panda Meetup 35 Frontend
 date: 2020-01-18
 videos: 
 talks:
+  - name: i18n & L10n in Vue.js
+    speaker: Мария Нагорных
+    video: 
+    presentation: 
+  - name: Vuejs API mocks
+    speaker: Владислав Прусов
+    video: 
+    presentation: 
+  - name: Оптимизация большого приложения на vue.js
+    speaker: Игорь Шеко
+    video: 
+    presentation: 
+  - name: "Священный грааль: запуск React в Java"
+    speaker: Олег Коровин
+    video: 
+    presentation: 
   - name: Когда стоит переписать приложение с нуля, и как убедить в этом бизнес
     speaker: Алексей Пыжьянов
+    video: 
+    presentation: 
+  - name: Runtime проверка типов в Typescript
+    speaker: Ирина Ламарр
     video: 
     presentation: 

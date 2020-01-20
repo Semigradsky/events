@@ -1,20 +1,20 @@
 name: Panda Meetup 31 Frontend
 date: 2019-11-20
-videos: 
+videos: https://www.youtube.com/playlist?list=PLpFuVynD9rDkrDAL2jg1rhay0rbzMWDjW
 talks:
   - name: GraphQL Introduction
     speaker: Дмитрий Григоров
-    video: 
+    video: https://www.youtube.com/watch?v=mkjvBYTAaXs
     presentation: 
   - name: "Поднятие состояния в React: когда официальная документация лжет"
     speaker: Андрей Гончаров
-    video: 
+    video: https://www.youtube.com/watch?v=xFQf7ULcaT8
     presentation: 
   - name: "Темизация UI kit: экономим 400+ часов времени и используем преимущества CSS variables & SASS"
     speaker: Виталий Евтехов
-    video: 
+    video: https://www.youtube.com/watch?v=Gd42g6QomUk
     presentation: 
   - name: Через тернии к почти идеальным таблицам
     speaker: Дмитрий Ивко
-    video: 
+    video: https://www.youtube.com/watch?v=44kyPm0S4_4
     presentation: 
