@@ -3,6 +3,13 @@
 
 # Panda Meetup
 
+## Panda Meetup 31 Frontend - 2019 Nov 20 [:movie_camera:](https://www.youtube.com/playlist?list=PLpFuVynD9rDkrDAL2jg1rhay0rbzMWDjW)
+| | | |
+| --- | :---: | --- |
+| [GraphQL Introduction](https://www.youtube.com/watch?v=mkjvBYTAaXs)  |  [Дмитрий Григоров](../../speakers/Дмитрий%20Григоров.md)  |    |
+| [Поднятие состояния в React: когда официальная документация лжет](https://www.youtube.com/watch?v=xFQf7ULcaT8)  |  [Андрей Гончаров](../../speakers/Андрей%20Гончаров.md)  |    |
+| [Темизация UI kit: экономим 400+ часов времени и используем преимущества CSS variables &amp; SASS](https://www.youtube.com/watch?v=Gd42g6QomUk)  |  [Виталий Евтехов](../../speakers/Виталий%20Евтехов.md)  |    |
+| [Через тернии к почти идеальным таблицам](https://www.youtube.com/watch?v=44kyPm0S4_4)  |  [Дмитрий Ивко](../../speakers/Дмитрий%20Ивко.md)  |    |
 ## Panda Meetup 22 Frontend - 2019 Jul 06 [:movie_camera:](https://www.youtube.com/playlist?list=PLknJ4Vr6efQGs2U0c5-jf1VwOaDs-arGq)
 | | | |
 | --- | :---: | --- |
