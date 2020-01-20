@@ -1,0 +1,12 @@
+name: PenzaJs 4
+date: 2016-12-02
+videos: 
+talks:
+  - name: DevTools для CSS-анимации
+    speaker: Стас Мельников
+    video: https://www.youtube.com/watch?v=cp5151tHwIo
+    presentation: http://slides.com/stasmelnikov/chrome-devtools-css-animation-penzajs#/
+  - name: PhoneGap, плюсы, минусы, подводные камни
+    speaker: Артем Андреев
+    video: https://www.youtube.com/watch?v=C6N9CUy1nKU
+    presentation: http://slides.com/grachpower/deck#/

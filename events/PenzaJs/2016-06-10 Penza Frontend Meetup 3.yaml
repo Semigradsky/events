@@ -1,0 +1,12 @@
+name: Penza Frontend Meetup 3
+date: 2016-06-10
+videos: 
+talks:
+  - name: Новый мир с PostCss
+    speaker: Андрей Лебедев
+    video: https://www.youtube.com/watch?v=cznkJluhIsw
+    presentation: 
+  - name: Почему реакт - лучшее, что случилось с фронтэндом
+    speaker: Денис Соколов
+    video: 
+    presentation: 

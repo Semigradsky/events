@@ -1,0 +1,12 @@
+name: Penza Frontend Meetup 2
+date: 2016-04-14
+videos: 
+talks:
+  - name: Selenium тесты
+    speaker: Александр Павлов
+    video: https://www.youtube.com/watch?v=RX_AAL5zJV8
+    presentation: http://slides.com/alexpts/selenium#/
+  - name: API. Средства разработки
+    speaker: Сергей Маковеев
+    video: https://www.youtube.com/watch?v=XnPNmbWXoDk
+    presentation: http://sergey.makoveev.info/2016/03/api.presentation/#/

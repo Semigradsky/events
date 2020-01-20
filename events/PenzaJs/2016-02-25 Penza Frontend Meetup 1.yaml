@@ -1,0 +1,16 @@
+name: Penza Frontend Meetup 1
+date: 2016-02-25
+videos: 
+talks:
+  - name: Адаптивный дизайн. Свежий взгляд
+    speaker: Стас Мельников
+    video: https://www.youtube.com/watch?v=fV9NJ4flof8
+    presentation: http://slides.com/stasmelnikov/new_responsive_units#/
+  - name: Flexbox в production
+    speaker: Александр Павлов
+    video: https://www.youtube.com/watch?v=LtONY73StRM
+    presentation: https://slides.com/alexpts/flexbox_in_production/#/
+  - name: Развитие ES. О том, что есть сейчас и чего следует ожидать
+    speaker: Дмитрий Ермаков
+    video: https://www.youtube.com/watch?v=Ow2aUJC0Dyk
+    presentation: http://slides.com/ermakov/es6/
