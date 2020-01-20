@@ -11,11 +11,11 @@ talks:
     video: https://www.youtube.com/watch?v=rv-5FtJxNic
     presentation: https://docs.google.com/presentation/d/1FN0T2hFYmPh-A1OEpM6S8P4pIOSL8lClkxYMfx1jqXw/edit#slide=id.g26f9308039_0_24
   - name: Cache Already Done
-    speaker: Anton Verinov
+    speaker: Антон Веринов
     video: https://www.youtube.com/watch?v=rv-5FtJxNic
     presentation: http://anton.codes/talks/cache/
   - name: Create your site with Gatsby
-    speaker: Dmitry Barabash
+    speaker: Дмитрий Барабаш
     video: https://www.youtube.com/watch?v=rv-5FtJxNic
   - name: Cheap & Efficient Data Models for Your Frontend
     speaker: Алексей Распопов

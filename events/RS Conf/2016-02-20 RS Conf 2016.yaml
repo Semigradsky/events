@@ -36,7 +36,7 @@ talks:
     video: https://www.youtube.com/watch?v=ocjCbVe89Kw
     lang: en
   - name: "Forms are boring"
-    speaker: Kseniya Koltun
+    speaker: Ксения Колтун
     video: https://www.youtube.com/watch?v=vXha84Pk8PE
   - name: "Качество. Как делать свою работу хорошо"
     speaker: Андрей Листочкин
@@ -46,7 +46,7 @@ talks:
     video: https://www.youtube.com/watch?v=R-n_E0U1zC4
     presentation: https://www.youtube.com/watch?v=VVnvFAOXZvo
   - name: "Music of React Native"
-    speaker: Ilja Satchok
+    speaker: Илья Сачок
     video: https://www.youtube.com/watch?v=Ovq-cNzv5H8
     tags:
       - mobile

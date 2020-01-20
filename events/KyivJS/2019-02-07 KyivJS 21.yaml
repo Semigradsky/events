@@ -3,7 +3,7 @@ date: 2019-02-07
 videos: https://www.youtube.com/playlist?list=PLxw9RJPDS60riQwoR-WpcUuSqRVeGeSny
 talks:
   - name: Making Vue app reactive with RxJS
-    speaker: Natalia Tepluhina
+    speaker: Наталья Теплухина
     video: https://www.youtube.com/watch?v=Ny1_s9OHg1M
     presentation: https://slides.com/superdiana/making-your-vue-app-reactive-with-rxjs#/
     tags:
@@ -17,7 +17,7 @@ talks:
     video: https://www.youtube.com/watch?v=kNpBcA5GrcU
     presentation: https://docs.google.com/presentation/d/1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U/edit
   - name: npm explore npm
-    speaker: Anton Verinov
+    speaker: Антон Веринов
     video: https://www.youtube.com/watch?v=RRAQXLaBCEk
     presentation: https://drive.google.com/file/d/1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk/view
   - name: Эстимирование

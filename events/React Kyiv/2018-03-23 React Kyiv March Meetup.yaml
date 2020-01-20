@@ -7,10 +7,10 @@ talks:
     speaker: Alex Kotliarskyi
     video: https://youtu.be/UNdJFEmKkJU
   - name: "Brief Intro to Styled Components"
-    speaker: Dmitry Barabash
+    speaker: Дмитрий Барабаш
     video: https://youtu.be/BYxf3lRD0Q4
   - name: "Dirty animations in the stateful world"
-    speaker: Alexey Taktarov
+    speaker: Алексей Тактаров
     video: https://youtu.be/bn3je3u-UIo
     presentation: http://molefrog.com/stateful-animations/
     code: 'https://github.com/molefrog/stateful-animations'

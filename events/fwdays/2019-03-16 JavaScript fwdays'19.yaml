@@ -6,10 +6,10 @@ talks:
     lang: en
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/technical-seo-for-javascript-developers'
   - name: The State of Modern JavaScript and Web in 2020 - Real use cases
-    speaker: Alexey Kupriyanenko
+    speaker: Алексей Куприяненко
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/the-state-of-modern-js-and-web-in-2020'
   - name: Why are Angular and React so fast?
-    speaker: Max Koretskyi
+    speaker: Максим Корецкий
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/why-are-angular-and-react-so-fast'
   - name: A short history of the web
     speaker: Martin Splitt
@@ -23,7 +23,7 @@ talks:
     speaker: Тимофей Лавренюк
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/how-we-have-been-developing-an-offline-first-application'
   - name: How to train your Vue CLI plugin
-    speaker: Natalia Tepluhina
+    speaker: Наталья Теплухина
     lang: en
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/how-to-train-your-vue-cli-plugin'
   - name: One simple animation explained
@@ -51,6 +51,7 @@ talks:
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql'
   - name: The Almighty Rabbit Hole
     speaker: Christopher Gannon
+    lang: en
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole'
   - name: Beyond The Limitations of Frontend—Onto Fullstack Journey!
     speaker: Ilona Demidenko

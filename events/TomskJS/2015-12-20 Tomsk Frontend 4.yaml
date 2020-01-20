@@ -3,7 +3,7 @@ date: 2015-12-20
 videos: ''
 talks:
   - name: Promises — всё, я обещаю
-    speaker: Алексей Красноперов
+    speaker: Алексей Краснопёров
     video: http://www.youtube.com/watch?v=P57RJvs8lbk
     presentation: https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.12.20-promise-bem-npm/promises.pdf
   - name: Как мы дошли до БЭМ

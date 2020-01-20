@@ -24,8 +24,8 @@ talks:
     speaker: Макс Лапшин
     video: 
     presentation: 
-  - name: Дмитрий Вислов
-    speaker: Your site need… need for speed
+  - name: Your site need… need for speed
+    speaker: Дмитрий Вислов
     video: 
     presentation: 
   - name: "PostCSS: будущее после Sass и Less"
