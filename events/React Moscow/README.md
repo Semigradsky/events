@@ -28,6 +28,6 @@
 | | | |
 | --- | :---: | --- |
 | Как быть реактивным?  |  [Григорий Шехет](../../speakers/Григорий%20Шехет.md)  | [:notebook:](https://yadi.sk/i/eHEqj5oL3SDRqZ)   |
-| Превозмогая трудности  |  [Андрей Морозов](../../speakers/Андрей%20Морозов.md)  | [:notebook:](https://yadi.sk/i/KfkYsLUm3SDPyc)   |
+| Превозмогая Трудности  |  [Андрей Морозов](../../speakers/Андрей%20Морозов.md)  | [:notebook:](https://yadi.sk/i/KfkYsLUm3SDPyc)   |
 | Проектирование State приложения  |  [Павел Масальский](../../speakers/Павел%20Масальский.md)  | [:notebook:](https://yadi.sk/i/J9VKJEUe3SDRBV)   |
 | GraphQL сегодня и завтра  |  [Макар Стеценко](../../speakers/Макар%20Стеценко.md)  | [:notebook:](https://yadi.sk/i/pntYfW6F3SDRsR)   |
