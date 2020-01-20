@@ -14,10 +14,10 @@
 ## KyivJS 21 - 2019 Feb 07 [:movie_camera:](https://www.youtube.com/playlist?list=PLxw9RJPDS60riQwoR-WpcUuSqRVeGeSny)
 | | | |
 | --- | :---: | --- |
-| [Making Vue app reactive with RxJS](https://www.youtube.com/watch?v=Ny1_s9OHg1M)  |  [Natalia Tepluhina](../../speakers/Natalia%20Tepluhina.md)  | [:notebook:](https://slides.com/superdiana/making-your-vue-app-reactive-with-rxjs#/)   |
+| [Making Vue app reactive with RxJS](https://www.youtube.com/watch?v=Ny1_s9OHg1M)  |  [Наталья Теплухина](../../speakers/Наталья%20Теплухина.md)  | [:notebook:](https://slides.com/superdiana/making-your-vue-app-reactive-with-rxjs#/)   |
 | [Yet another JSON RPC library?](https://www.youtube.com/watch?v=84Y5n32tX5E)  |  [Виктор Турский](../../speakers/Виктор%20Турский.md)  | [:notebook:](https://docs.google.com/presentation/d/1bvlsG5nBEVwMGm7rBh4zmfrGDLUIjpv_t4rxFS2_uMw/edit)   |
 | [Building quick apps in 2019](https://www.youtube.com/watch?v=kNpBcA5GrcU)  |  [Иван Акулов](../../speakers/Иван%20Акулов.md)  | [:notebook:](https://docs.google.com/presentation/d/1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U/edit)   |
-| [npm explore npm](https://www.youtube.com/watch?v=RRAQXLaBCEk)  |  [Anton Verinov](../../speakers/Anton%20Verinov.md)  | [:notebook:](https://drive.google.com/file/d/1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk/view)   |
+| [npm explore npm](https://www.youtube.com/watch?v=RRAQXLaBCEk)  |  [Антон Веринов](../../speakers/Антон%20Веринов.md)  | [:notebook:](https://drive.google.com/file/d/1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk/view)   |
 | [Эстимирование](https://www.youtube.com/watch?v=xu7cBk-STx4)  |  [Григорий Шехет](../../speakers/Григорий%20Шехет.md)  | [:notebook:](https://drive.google.com/file/d/1F-5hei901Z8m26F53gigWlkbjTdgejP7/view)   |
 ## KyivJS 20 - 2018 Oct 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLxw9RJPDS60pAakpyewUFg7fV46A0bUAf)
 | | | |
@@ -50,8 +50,8 @@
 | --- | :---: | --- |
 | [Holywars in a typings world](https://www.youtube.com/watch?v=rv-5FtJxNic)  |  [Григорий Шехет](../../speakers/Григорий%20Шехет.md)  | [:notebook:](https://drive.google.com/file/d/0B4xFRFS363tpZXJRX2V4Z25WaTQ/view)   |
 | [Why do we make our video player?](https://www.youtube.com/watch?v=rv-5FtJxNic)  |  [Алексей Макодзеба](../../speakers/Алексей%20Макодзеба.md)  | [:notebook:](https://docs.google.com/presentation/d/1FN0T2hFYmPh-A1OEpM6S8P4pIOSL8lClkxYMfx1jqXw/edit#slide=id.g26f9308039_0_24)   |
-| [Cache Already Done](https://www.youtube.com/watch?v=rv-5FtJxNic)  |  [Anton Verinov](../../speakers/Anton%20Verinov.md)  | [:notebook:](http://anton.codes/talks/cache/)   |
-| [Create your site with Gatsby](https://www.youtube.com/watch?v=rv-5FtJxNic)  |  [Dmitry Barabash](../../speakers/Dmitry%20Barabash.md)  |    |
+| [Cache Already Done](https://www.youtube.com/watch?v=rv-5FtJxNic)  |  [Антон Веринов](../../speakers/Антон%20Веринов.md)  | [:notebook:](http://anton.codes/talks/cache/)   |
+| [Create your site with Gatsby](https://www.youtube.com/watch?v=rv-5FtJxNic)  |  [Дмитрий Барабаш](../../speakers/Дмитрий%20Барабаш.md)  |    |
 | [Cheap &amp; Efficient Data Models for Your Frontend](https://www.youtube.com/watch?v=rv-5FtJxNic)  |  [Алексей Распопов](../../speakers/Алексей%20Распопов.md)  |    |
 | [Нетворкинг для чайников](https://www.youtube.com/watch?v=rv-5FtJxNic)  |  [Andrew Kryshtal](../../speakers/Andrew%20Kryshtal.md)  |    |
 ## KyivJS 14 - 2017 Aug 17 [:movie_camera:](https://www.youtube.com/watch?v=SJ5bBP6L_AU)

@@ -28,7 +28,7 @@
 | [How developers can upgrade their visual design skills for better front end development](https://youtu.be/V5enef11Bjw) [en] |  [Tomasz Jonasz Kujawski](../../speakers/Tomasz%20Jonasz%20Kujawski.md)  | [:notebook:](https://bit.ly/2Ejh2Co)   |
 | [Когда продуктов много, а дизайнеров чуть-чуть](https://youtu.be/_qBJvY_kbyU)  |  [Vitali Novikau](../../speakers/Vitali%20Novikau.md)  |    |
 | [DI: DIY](https://youtu.be/qQnzVTOqzio)  |  [James Akwuh](../../speakers/James%20Akwuh.md)  |    |
-| [The elegance of decorated Redux](https://youtu.be/NaEiH3Z1qqI) [en] |  [Ilja Satchok](../../speakers/Ilja%20Satchok.md)  |    |
+| [The elegance of decorated Redux](https://youtu.be/NaEiH3Z1qqI) [en] |  [Илья Сачок](../../speakers/Илья%20Сачок.md)  |    |
 | [Ресерчили-ресерчили, да не выресерчавали](https://youtu.be/hMNys-hRrmI)  |  [Dzmitry Vanitski](../../speakers/Dzmitry%20Vanitski.md)  | [:notebook:](https://www.dropbox.com/s/a4rh08n5mjwyrsm/RS_Gap_presentation.pdf?dl=0)   |
 | [How to improve test coverage up to 80% with generated unit testing approach and be calm.](https://youtu.be/V-6hEsziY8M)  |  [Aliaksandr Pasynkau](../../speakers/Aliaksandr%20Pasynkau.md)  |  [:octocat:](https://github.com/aliaksandr-master/react-master-boilerplate)  |
 | [И снова телевизоры!](https://youtu.be/g7OBtXP69oQ)  |  [Егор Малькевич](../../speakers/Егор%20Малькевич.md)  |    |
@@ -73,10 +73,10 @@
 | [ES2015 in the browser: beyond the polyfillable](https://www.youtube.com/watch?v=g3UeAsiW88U) [en] |  [Seth Thompson](../../speakers/Seth%20Thompson.md)  |    |
 | [Typography: from metal to pixels](https://www.youtube.com/watch?v=EuXrh_T2aLg)  |  [Роман Прудников](../../speakers/Роман%20Прудников.md)  |    |
 | [Life of a pixel: Computer Graphics for JavaScript Developers](https://www.youtube.com/watch?v=ocjCbVe89Kw) [en] |  [Martin Naumann](../../speakers/Martin%20Naumann.md)  |    |
-| [Forms are boring](https://www.youtube.com/watch?v=vXha84Pk8PE)  |  [Kseniya Koltun](../../speakers/Kseniya%20Koltun.md)  |    |
+| [Forms are boring](https://www.youtube.com/watch?v=vXha84Pk8PE)  |  [Ксения Колтун](../../speakers/Ксения%20Колтун.md)  |    |
 | [Качество. Как делать свою работу хорошо](https://www.youtube.com/watch?v=Mx22NaWmFhk)  |  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  |    |
 | [Dirty Little Tricks From The Dark Corners of eCommerce](https://www.youtube.com/watch?v=R-n_E0U1zC4)  |  [Виталий Фридман](../../speakers/Виталий%20Фридман.md)  | [:notebook:](https://www.youtube.com/watch?v=VVnvFAOXZvo)   |
-| [Music of React Native](https://www.youtube.com/watch?v=Ovq-cNzv5H8)  |  [Ilja Satchok](../../speakers/Ilja%20Satchok.md)  |    |
+| [Music of React Native](https://www.youtube.com/watch?v=Ovq-cNzv5H8)  |  [Илья Сачок](../../speakers/Илья%20Сачок.md)  |    |
 | [Shaders - unlocking the GPU with JavaScript](https://www.youtube.com/watch?v=dugISU2d4SM&t=2598s) [en] |  [Martin Naumann](../../speakers/Martin%20Naumann.md)  |    |
 | [Проектирование в тестировании](https://www.youtube.com/watch?v=lS8EFtdKCUY&t=1076s)  |  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  |    |
 ## RS Conf 2015 - 2015 Feb 01 

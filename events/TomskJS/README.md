@@ -14,7 +14,7 @@
 ## Tomsk Frontend 4 - 2015 Dec 20 
 | | | |
 | --- | :---: | --- |
-| [Promises — всё, я обещаю](http://www.youtube.com/watch?v=P57RJvs8lbk)  |  [Алексей Красноперов](../../speakers/Алексей%20Красноперов.md)  | [:notebook:](https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.12.20-promise-bem-npm/promises.pdf)   |
+| [Promises — всё, я обещаю](http://www.youtube.com/watch?v=P57RJvs8lbk)  |  [Алексей Краснопёров](../../speakers/Алексей%20Краснопёров.md)  | [:notebook:](https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.12.20-promise-bem-npm/promises.pdf)   |
 | [Как мы дошли до БЭМ](http://www.youtube.com/watch?v=8VrDLTxn6YM)  |  [Сергей Андреев](../../speakers/Сергей%20Андреев.md)  | [:notebook:](http://slides.com/sergeyandreev/bem/)   |
 | [NPM в подробностях](http://www.youtube.com/watch?v=hs_J31yaFkM)  |  [Вячеслав Зайцев](../../speakers/Вячеслав%20Зайцев.md)  | [:notebook:](https://github.com/ifaced/tomsk-front-end-meetup/blob/master/2015.12.20-promise-bem-npm/npm.pdf)   |
 ## Tomsk Frontend 3 - 2015 Oct 10 

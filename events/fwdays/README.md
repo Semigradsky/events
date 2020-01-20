@@ -7,12 +7,12 @@
 | | | |
 | --- | :---: | --- |
 | [Technical SEO for JavaScript developers](https://fwdays.com/en/event/js-fwdays-2019/review/technical-seo-for-javascript-developers) [en] |  [Martin Splitt](../../speakers/Martin%20Splitt.md)  |    |
-| [The State of Modern JavaScript and Web in 2020 - Real use cases](https://fwdays.com/en/event/js-fwdays-2019/review/the-state-of-modern-js-and-web-in-2020)  |  [Alexey Kupriyanenko](../../speakers/Alexey%20Kupriyanenko.md)  |    |
-| [Why are Angular and React so fast?](https://fwdays.com/en/event/js-fwdays-2019/review/why-are-angular-and-react-so-fast)  |  [Max Koretskyi](../../speakers/Max%20Koretskyi.md)  |    |
+| [The State of Modern JavaScript and Web in 2020 - Real use cases](https://fwdays.com/en/event/js-fwdays-2019/review/the-state-of-modern-js-and-web-in-2020)  |  [Алексей Куприяненко](../../speakers/Алексей%20Куприяненко.md)  |    |
+| [Why are Angular and React so fast?](https://fwdays.com/en/event/js-fwdays-2019/review/why-are-angular-and-react-so-fast)  |  [Максим Корецкий](../../speakers/Максим%20Корецкий.md)  |    |
 | [A short history of the web](https://fwdays.com/en/event/js-fwdays-2019/review/a-short-history-of-the-web) [en] |  [Martin Splitt](../../speakers/Martin%20Splitt.md)  |    |
 | [HTTP headers for the responsible developer](https://fwdays.com/en/event/js-fwdays-2019/review/http-headers-for-the-responsible-developer) [en] |  [Stefan Judis](../../speakers/Stefan%20Judis.md)  |    |
 | [How we have been developing an Offline First application using Persistent Storage](https://fwdays.com/en/event/js-fwdays-2019/review/how-we-have-been-developing-an-offline-first-application)  |  [Тимофей Лавренюк](../../speakers/Тимофей%20Лавренюк.md)  |    |
-| [How to train your Vue CLI plugin](https://fwdays.com/en/event/js-fwdays-2019/review/how-to-train-your-vue-cli-plugin) [en] |  [Natalia Tepluhina](../../speakers/Natalia%20Tepluhina.md)  |    |
+| [How to train your Vue CLI plugin](https://fwdays.com/en/event/js-fwdays-2019/review/how-to-train-your-vue-cli-plugin) [en] |  [Наталья Теплухина](../../speakers/Наталья%20Теплухина.md)  |    |
 | [One simple animation explained](https://fwdays.com/en/event/js-fwdays-2019/review/one-simple-animation-explained)  |  [Юрий Артюх](../../speakers/Юрий%20Артюх.md)  |    |
 | [Server-side rendering with Angular—be faster and more SEO, CDN and user-friendly!](https://fwdays.com/en/event/js-fwdays-2019/review/server-side-rendering-with-angular) [en] |  [Maciej Treder](../../speakers/Maciej%20Treder.md)  |    |
 | [Делайте из слона муху](https://fwdays.com/en/event/js-fwdays-2019/review/shrink-an-elephant-into-a-fly)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
@@ -20,7 +20,7 @@
 | [Web Performance in modern JavaScript world](https://fwdays.com/en/event/js-fwdays-2019/review/web-performance-in-modern-javascript-world) [en] |  [Filip Rakowski](../../speakers/Filip%20Rakowski.md)  |    |
 | [Lost in Space: Web Apps and A11Y](https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space)  |  [Виталий Бобров](../../speakers/Виталий%20Бобров.md)  |    |
 | [Looking for the right tech stack for GraphQL application](https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql)  |  [Никита Галкин](../../speakers/Никита%20Галкин.md)  |    |
-| [The Almighty Rabbit Hole](https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole)  |  [Christopher Gannon](../../speakers/Christopher%20Gannon.md)  |    |
+| [The Almighty Rabbit Hole](https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole) [en] |  [Christopher Gannon](../../speakers/Christopher%20Gannon.md)  |    |
 | [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https://fwdays.com/en/event/js-fwdays-2019/review/beyond-the-limitations-of-frontend)  |  [Ilona Demidenko](../../speakers/Ilona%20Demidenko.md)  |    |
 | [REPL, do you speak it](https://fwdays.com/en/event/js-fwdays-2019/review/repl)  |  [Александр Соловьев](../../speakers/Александр%20Соловьев.md)  |    |
 | [Reactive Powered: RxJS with Angular Forms](https://fwdays.com/en/event/js-fwdays-2019/review/angular-forms) [en] |  [Shmuela Jacobs](../../speakers/Shmuela%20Jacobs.md)  |    |

@@ -21,8 +21,8 @@
 | | | |
 | --- | :---: | --- |
 | [Facebook product Infrastructure](https://youtu.be/UNdJFEmKkJU)  |  [Alex Kotliarskyi](../../speakers/Alex%20Kotliarskyi.md)  |    |
-| [Brief Intro to Styled Components](https://youtu.be/BYxf3lRD0Q4)  |  [Dmitry Barabash](../../speakers/Dmitry%20Barabash.md)  |    |
-| [Dirty animations in the stateful world](https://youtu.be/bn3je3u-UIo)  |  [Alexey Taktarov](../../speakers/Alexey%20Taktarov.md)  | [:notebook:](http://molefrog.com/stateful-animations/) [:octocat:](https://github.com/molefrog/stateful-animations)  |
+| [Brief Intro to Styled Components](https://youtu.be/BYxf3lRD0Q4)  |  [Дмитрий Барабаш](../../speakers/Дмитрий%20Барабаш.md)  |    |
+| [Dirty animations in the stateful world](https://youtu.be/bn3je3u-UIo)  |  [Алексей Тактаров](../../speakers/Алексей%20Тактаров.md)  | [:notebook:](http://molefrog.com/stateful-animations/) [:octocat:](https://github.com/molefrog/stateful-animations)  |
 | [Q&amp;A Panel – React Kyiv March](https://youtu.be/Vokq8ndgd5c)  |  [Unknown](../../speakers/Unknown.md)  |    |
 ## React Kyiv - TDD in React [Workshop] - 2018 Mar 10 [:movie_camera:](https://www.youtube.com/playlist?list=PL4x5O16mMH3bLH5rJKCNNmT_pCFEbKKAR)
 | | | |

@@ -3,12 +3,12 @@
 
 # MinskCSS
 
-## MinskCSS 7 - 2019 Dec 12 [:movie_camera:](https://www.youtube.com/watch?v=Hgc3evYQnjE)
+## MinskCSS 7 - 2019 Dec 12 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9ZzkpS9Pp6jc6V7AZWwLz22oZ)
 | | | |
 | --- | :---: | --- |
-| Grid Layout + IE &#x3D; &lt;3  |  [Юлия Долгун](../../speakers/Юлия%20Долгун.md)  | [:notebook:](http://grid-in-ie.surge.sh/#1)   |
-| Обтекай!  |  [Захар Авсиевич](../../speakers/Захар%20Авсиевич.md)  | [:notebook:](https://zavsievich.github.io/FloatPres/)   |
-| 10 глупых вопросов дизайнеру  |  [Дмитрий Осипов](../../speakers/Дмитрий%20Осипов.md)  |    |
+| [Grid Layout + IE &#x3D; &lt;3](https://www.youtube.com/watch?v=rw25lqOtHAI)  |  [Юлия Долгун](../../speakers/Юлия%20Долгун.md)  | [:notebook:](http://grid-in-ie.surge.sh/#1)   |
+| [Обтекай!](https://www.youtube.com/watch?v=xQePyj_wwEQ)  |  [Захар Авсиевич](../../speakers/Захар%20Авсиевич.md)  | [:notebook:](https://zavsievich.github.io/FloatPres/)   |
+| [10 глупых вопросов дизайнеру](https://www.youtube.com/watch?v=JWUDroW3tQ8)  |  [Дмитрий Осипов](../../speakers/Дмитрий%20Осипов.md)  | [:notebook:](https://drive.google.com/file/d/1haT6uzWllRWWzCACUx7q5Q14phlADVFO/view)   |
 ## MinskCSS 6 - 2019 Apr 11 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9Zzl9LTp0yLfaXhIu7-xoUHQN)
 | | | |
 | --- | :---: | --- |

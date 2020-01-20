@@ -3,6 +3,18 @@
 
 # WSD
 
+## WSD 2019 - Минск - 2019 Dec 07 [:movie_camera:](https://www.youtube.com/playlist?list=PLMBnwIwFEFHdMiEG-wHDouG1A0LQeAEJl)
+| | | |
+| --- | :---: | --- |
+| [&lt;a&gt;](https://www.youtube.com/watch?v=_UmMLsIeK9k)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/anchor/)   |
+| [Пусть всем кажется, что всё грузится быстро — скелетоны экономят время](https://www.youtube.com/watch?v=JRlCIPkwheA)  |  [Виктор Русакович](../../speakers/Виктор%20Русакович.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/fake-loading.pdf)   |
+| [Фронтопс? Серьёзно?](https://www.youtube.com/watch?v=yWPAW59e1AU)  |  [Анна Селезнёва](../../speakers/Анна%20Селезнёва.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/frontops-really/)   |
+| [Как я однажды верстал форму регистрации](https://www.youtube.com/watch?v=C5vIEHHG1aA)  |  [Михаил Иванкив](../../speakers/Михаил%20Иванкив.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/registration-form/)   |
+| [_ ___ ______?](https://www.youtube.com/watch?v=uI3Q5m9xkkw)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/where-are-fonts/)   |
+| [Неквадратный веб](https://www.youtube.com/watch?v=coq1N7JW6sQ)  |  [Юлия Бухвалова](../../speakers/Юлия%20Бухвалова.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/non-square-web/)   |
+| [React Concurrent Mode](https://www.youtube.com/watch?v=5JGrm9O5MsM)  |  [Павел Смолин](../../speakers/Павел%20Смолин.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/concurrent-mode.pdf)   |
+| [JAMstack — генерация статических сайтов в 2k19](https://www.youtube.com/watch?v=JEYrIGLLIl0)  |  [Валентин Гиль](../../speakers/Валентин%20Гиль.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/jamstack-2019.pdf)   |
+| [Дискуссия «Как изменился веб за 10 лет — глазами очевидцев»](https://www.youtube.com/watch?v=8MxhLXJi410)  |  [Юлия Бухвалова](../../speakers/Юлия%20Бухвалова.md)  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  [Анна Селезнёва](../../speakers/Анна%20Селезнёва.md)  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/10-years/)   |
 ## WSD 2019 - Екатеринбург - 2019 Oct 19 [:movie_camera:](https://www.youtube.com/watch?v=DsfnFrwKksA)
 | | | |
 | --- | :---: | --- |

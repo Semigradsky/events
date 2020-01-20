@@ -112,7 +112,7 @@
 | --- | :---: | --- |
 | [SvelteJS - &quot;Магический&quot; фреймворк](https://youtu.be/H8FCVTSJ3u8)  |  [Тим Маринин](../../speakers/Тим%20Маринин.md)  | [:notebook:](https://marinin.xyz/slides/svelte/assets/player/KeynoteDHTMLPlayer.html#0)   |
 | [Рефакторинг](https://youtu.be/hfmHymOCIA0)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  | [:notebook:](https://zolotyh.github.io/refactoring2/#/)   |
-| [ES2018?](https://www.youtube.com/watch?v=R5_TkQWzTpc)  |  [Mikhail Poluboyarinov](../../speakers/Mikhail%20Poluboyarinov.md)  |    |
+| [ES2018?](https://www.youtube.com/watch?v=R5_TkQWzTpc)  |  [Михаил Полубояринов](../../speakers/Михаил%20Полубояринов.md)  |    |
 ## PiterJS 21 - 2018 Jan 18 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxh7YjSaB7N15P3zbhhLEJkH)
 | | | |
 | --- | :---: | --- |
@@ -177,9 +177,9 @@
 ## PiterJS 11 - 2016 Dec 03 
 | | | |
 | --- | :---: | --- |
-| React vs Angular 2: сравнение фреймворков без холивара  |  [Maxim Grebenshikov](../../speakers/Maxim%20Grebenshikov.md)  | [:notebook:](http://amp.gs/zOvY)   |
-| Просто о WebRTC: как сделать видеочат  |  [Arseny Vasilev](../../speakers/Arseny%20Vasilev.md)  | [:notebook:](https://docs.google.com/presentation/d/1WkUjySEost61dtFwXEc8vRz_n8r1sfZ9wgWSWk3KuHk/edit#slide=id.gf976b20d0_1_20)   |
-| Обещание JavaScript &#x3D; Promise HELL  |  [Mikhail Poluboyarinov](../../speakers/Mikhail%20Poluboyarinov.md)  |    |
+| React vs Angular 2: сравнение фреймворков без холивара  |  [Максим Гребенщиков](../../speakers/Максим%20Гребенщиков.md)  | [:notebook:](http://amp.gs/zOvY)   |
+| Просто о WebRTC: как сделать видеочат  |  [Арсений Васильев](../../speakers/Арсений%20Васильев.md)  | [:notebook:](https://docs.google.com/presentation/d/1WkUjySEost61dtFwXEc8vRz_n8r1sfZ9wgWSWk3KuHk/edit#slide=id.gf976b20d0_1_20)   |
+| Обещание JavaScript &#x3D; Promise HELL  |  [Михаил Полубояринов](../../speakers/Михаил%20Полубояринов.md)  |    |
 ## PiterJS 10 - 2016 Nov 03 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjn9AJ5olsSFanepYyTdSp6)
 | | | |
 | --- | :---: | --- |
