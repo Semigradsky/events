@@ -1,0 +1,76 @@
+name: FrontDays 2017
+date: 2017-05-20
+videos: 
+talks:
+  - name: Деоптимизация JavaScript
+    speaker: Игорь Лобанов
+    video: https://youtu.be/_PxmMMmwBxw
+    presentation: 
+  - name: Идем к синхронному flow в асинхронном мире nodeJs
+    speaker: Александр Павлов
+    video: https://youtu.be/i43IugtWLZg
+    presentation: 
+  - name: Мист. Сервис для работы с Apache Spark
+    speaker: Леонид Блохин
+    video: https://youtu.be/UWHMJX4xlIQ
+    presentation: 
+  - name: Прогрессивные методы ускорения
+    speaker: Артём Белов
+    video: https://youtu.be/q2jrUxqkQcE
+    presentation: 
+  - name: Особенности разработки API
+    speaker: Всеволод Шмыров
+    video: https://youtu.be/14ly5PvMYZg
+    presentation: 
+  - name: AMP для e-commerce и журналистики
+    speaker: Игорь Шеко
+    video: https://youtu.be/wmjWN4MvGXc
+    presentation: 
+  - name: Как мы уменьшили время релиза с 4 месяцев до 30 минут
+    speaker: Алексей Букин
+    video: https://youtu.be/LqrIzh8YMNA
+    presentation: 
+  - name: REACTивные терминалы оплаты. Да, так тоже можно!
+    speaker: Дмитрий Тупалов
+    video: https://youtu.be/lcE3_gi98Ow
+    presentation: 
+  - name: λ в js без фанатизма
+    speaker: Михаил Синяков
+    video: 
+    presentation: 
+  - name: Весна. Время почистить код!
+    speaker: Виталий Потапов
+    video: https://youtu.be/JyYpCnFXpqc
+    presentation: 
+  - name: Регрессионное тестирование верстки с помощью gemini
+    speaker: Сергей Савельев
+    video: https://youtu.be/YHSUHtKE4Cs
+    presentation: 
+  - name: Документация REST API
+    speaker: Артём Кузвесов
+    video: https://youtu.be/MMgYJucTkjU
+    presentation: 
+  - name: CSS-методологии от О до Б
+    speaker: Алексей Охрименко
+    video: https://youtu.be/pAFl98Fx3uE
+    presentation: 
+  - name: Фронтенд для миллионов
+    speaker: Анастасия Горячева
+    video: https://youtu.be/BbNLOLvsKpM
+    presentation: 
+  - name: "WebRTC: почему рано хоронить Flash"
+    speaker: Игорь Шеко
+    video: https://youtu.be/FKtjHP9pInI
+    presentation: 
+  - name: Оптимизация сборки Webpack
+    speaker: Алексей Иванов
+    video: https://youtu.be/lgPs_hnIA_M
+    presentation: 
+  - name: Погружение в Service Worker
+    speaker: Олег Наянов
+    video: https://youtu.be/Tiv_9uweA7w
+    presentation: 
+  - name: Как подружить дизайнеров с разработчиками? Прототипирование на основе WebComponents
+    speaker: Виталий Грин
+    video: https://youtu.be/e8W5YzMPDJc
+    presentation: 

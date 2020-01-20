@@ -1,0 +1,32 @@
+name: FrontDays 2016
+date: 2016-12-17
+videos: 
+talks:
+  - name: Изоморфные приложения на Angular 2
+    speaker: Константин Макарычев
+    video: https://www.youtube.com/watch?v=W0hy_2dciEI
+    presentation: 
+  - name: Инструментарий разработчика — пора идти в облако
+    speaker: Артём Лисовский
+    video: https://www.youtube.com/watch?v=5ojIuP9aFcA
+    presentation: 
+  - name: Здесь и сейчас
+    speaker: Николай Руфеев
+    video: https://www.youtube.com/watch?v=fr8POe_pXJU
+    presentation: 
+  - name: Как сделать так, чтобы бэкендер полюбил фронтендера
+    speaker: Алексей Дацков
+    video: https://www.youtube.com/watch?v=mtWVGpg79pA
+    presentation: 
+  - name: «PostCSS» как метод написания CSS будущего, находясь в настоящем
+    speaker: Артём Белов
+    video: https://www.youtube.com/watch?v=GHHp_z9D9T4
+    presentation: http://artbelov-postcss.surge.sh/
+  - name: Ботоведение. Как и зачем делать ботов?
+    speaker: Дмитрий Власов
+    video: https://www.youtube.com/watch?v=p12-3wQ13Lk
+    presentation: 
+  - name: Проектирование интерфейсов от сохи
+    speaker: Илья Якямсев
+    video: https://www.youtube.com/watch?v=mIT3POj3TKQ
+    presentation: 

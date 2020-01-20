@@ -1,0 +1,88 @@
+name: FrontDays 2019
+date: 2019-10-26
+videos: 
+talks:
+  - name: Оптимизация большого приложения на vue.js
+    speaker: Игорь Шеко
+    video: 
+    presentation: 
+  - name: Непостоянный фронтенд. Как тестировать то, чему нужны данные?
+    speaker: Алексей Попков
+    video: 
+    presentation: 
+  - name: "Священный грааль: запуск React в Java"
+    speaker: Олег Коровин
+    video: 
+    presentation: 
+  - name: Обратная сторона фронтенда, цена хайпа
+    speaker: Погорелов Александр
+    video: 
+    presentation: 
+  - name: «Неопределённый» React
+    speaker: Артём Белов
+    video: 
+    presentation: 
+  - name: Организация работы с API на Vue.js
+    speaker: Виталий Копачёв
+    video: 
+    presentation: 
+  - name: Запись аудио в браузерах
+    speaker: Ольга Маланова
+    video: 
+    presentation: 
+  - name: Сравнение фронтовых инструментов для реализации проектов или как не стрелять из пушки по воробьям
+    speaker: Дмитрий Ивко
+    video: 
+    presentation: 
+  - name: "React: lifting state up is killing your app"
+    speaker: Андрей Гончаров
+    video: 
+    presentation: 
+  - name: "Подмастерье и Драконы: как интерну стать частью партии, получать опыт и побеждать монстров"
+    speaker: Игорь Зубов
+    video: 
+    presentation: 
+  - name: Еще один большой проект с SSR и кучей технологий
+    speaker: Андрей Френкель
+    video: 
+    presentation: 
+  - name: Зачем фронтендеру Docker
+    speaker: Влад Минаев
+    video: 
+    presentation: 
+  - name: Plain-css vs css-modules vs css-in-js
+    speaker: Александр Горкунов
+    video: 
+    presentation: 
+  - name: BFF (Backend-For-Frontend). Зачем нам прослойка между фронтом и беком
+    speaker: Сергей Левин
+    video: 
+    presentation: 
+  - name: Вверх в карьере, а не вниз в карьер
+    speaker: Татьяна Бабич
+    video: 
+    presentation: 
+  - name: Грабли на пути к своему первому TWA приложению
+    speaker: Александр Павлов
+    video: 
+    presentation: 
+  - name: Не кантовать, или переносим интернет-магазин бережно
+    speaker: Евгений Булгаков
+    video: 
+    presentation: 
+  - name: Про Бога и атомный крейсер
+    speaker: Василий Корянов
+    video: 
+    presentation: 
+  - name: Что такое Джуность?
+    speaker: Николай Сладкий
+    video: 
+    presentation: 
+  - name: Собеседование по методике STAR
+    speaker: Антон Усков
+    video: 
+    presentation: 
+  - name: Netlify - хостинг без боли для фронтенда
+    speaker: Александр Горкунов
+    video: 
+    presentation: 

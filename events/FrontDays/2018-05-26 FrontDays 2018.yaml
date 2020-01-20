@@ -1,0 +1,84 @@
+name: FrontDays 2018
+date: 2018-05-26
+videos: 
+talks:
+  - name: "Сервис воркеры: используем накопленные знания для светлого будущего PWA"
+    speaker: Максим Сальников
+    video: https://www.youtube.com/watch?v=MlvkwBvn3jw
+    presentation: 
+  - name: Frontend в аутсорс компании
+    speaker: Александр Павлов
+    video: https://www.youtube.com/watch?v=uWaLOr9Pq3s
+    presentation: 
+  - name: Урок биологии. Angular Redux
+    speaker: Максим Терешин
+    video: https://www.youtube.com/watch?v=eHQSBwgqDSg
+    presentation: 
+  - name: Превозмогая Трудности
+    speaker: Андрей Морозов
+    video: https://www.youtube.com/watch?v=-wwfsh7VJa4
+    presentation: 
+  - name: Cerebral - декларативное управление состоянием приложения
+    speaker: Алексей Гурьянов
+    video: 
+    presentation: 
+  - name: Атомарные SPA
+    speaker: Александр Китов
+    video: https://www.youtube.com/watch?v=Zt4Q4m4-oKU
+    presentation: 
+  - name: Middleware и асинхронный подход к организации кода
+    speaker: Иван Соболев
+    video: https://www.youtube.com/watch?v=2xoEGHNM5GI
+    presentation: 
+  - name: "Vue.js: как уйти от jQuery без всего этого JSX"
+    speaker: Игорь Шеко
+    video: https://www.youtube.com/watch?v=v841xHMOF54
+    presentation: 
+  - name: Current state of Web Components
+    speaker: Влад Минаев
+    video: https://www.youtube.com/watch?v=o32_jLsJjOU
+    presentation: 
+  - name: Компоненты высшего порядка с использованием Recompose
+    speaker: Дмитрий Григоров
+    video: https://www.youtube.com/watch?v=--ZH0yBnK7s
+    presentation: 
+  - name: JS-in-CSS wat?
+    speaker: Елена Тикунова
+    video: https://www.youtube.com/watch?v=GSVGWDtT37s
+    presentation: 
+  - name: "Vuex: разработка жизнеспособного проекта с нуля без опыта frontend разработки"
+    speaker: Михаил Леванов
+    video: https://www.youtube.com/watch?v=9aN55unksGE
+    presentation: 
+  - name: Высоко-производительный React
+    speaker: Вячеслав Лукьянов
+    video: https://www.youtube.com/watch?v=anIFdaQj-vg
+    presentation: 
+  - name: React-native для чайников
+    speaker: Дмитрий Тупалов
+    video: https://www.youtube.com/watch?v=U0RSLBUqTO0
+    presentation: 
+  - name: React.setState Machine
+    speaker: Андрей Захаров
+    video: https://www.youtube.com/watch?v=i2vnkpAmakc
+    presentation: 
+  - name: React Native разработка и её взаимодействие с нативной стороной
+    speaker: Артемий Луньков
+    video: 
+    presentation: 
+  - name: Использование Google Lighthouse для генерации отчетов
+    speaker: Дмитрий Самохвалов
+    video: https://www.youtube.com/watch?v=lfwCORXc0D8
+    presentation: 
+  - name: От AngularJs к Angular5
+    speaker: Евгений Сарычев
+    video: 
+    presentation: 
+  - name: React Performance On Real Project
+    speaker: Александр Погорелов
+    video: https://www.youtube.com/watch?v=vYEmZeuwLfQ
+    presentation: 
+  - name: Войти в IT через frontend
+    speaker: Николай Сладкий
+    video: 
+    presentation: 
