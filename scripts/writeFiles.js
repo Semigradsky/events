@@ -5,14 +5,13 @@ const path = require('path')
 
 const PATH_SPEAKERS = path.resolve(__dirname, '../speakers')
 const PATH_EVENTS = path.resolve(__dirname, '../events')
-const CURRENT_YEAR = new Date().getFullYear()
 
 const writeFile = pify(fs.writeFile)
 const readdir = pify(fs.readdir)
 const unlink = pify(fs.unlink)
 
-async function writeYearFile(year, content) {
-    if (year === CURRENT_YEAR) {
+async function writeYearFile(maxYear, year, content) {
+    if (year === maxYear) {
         await writeFile('README.md', content)
     }
 
@@ -38,8 +37,10 @@ async function writeFiles(groupedByYears, groupedByOrganizers, groupedBySpeakers
         await unlink(path.join(PATH_SPEAKERS, file))
     }
 
+    const maxYear = Math.max(...groupedByYears.keys())
+
     return Promise.all([
-        ...[...groupedByYears.entries()].map(entry => writeYearFile(...entry)),
+        ...[...groupedByYears.entries()].map(entry => writeYearFile(maxYear, ...entry)),
         ...[...groupedByOrganizers.entries()].map(entry => writeOrganizerFile(...entry)),
         ...[...groupedBySpeakers.entries()].map(entry => writeSpeakerFile(...entry)),
         writeAllSpeakersFile(allSpeakers),
