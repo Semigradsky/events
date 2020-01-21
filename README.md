@@ -3,22 +3,89 @@
 
 # Events / 2019 / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Simferopol Frontend 4 - Dec 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL4SGMxXO_T78pjhn27A4XIgwAIO2sKXlA)
+| | | |
+| --- | :---: | --- |
+| [SSR — Подготовка к production](https://youtu.be/GOPJJEdGrtU)  |  [Никита Юстовский](speakers/Никита%20Юстовский.md)  |    |
+| [STM — State Tree Manager](https://youtu.be/GLD7H9Bj5xo)  |  [Дмитрий Коханюк](speakers/Дмитрий%20Коханюк.md)  |    |
+| [Голосовые интерфейсы — это про нас?](https://youtu.be/0wD1hAYYkEY)  |  [Руслан Муфтиев](speakers/Руслан%20Муфтиев.md)  |    |
+| [Всё, что вы хотели знать про метрики](https://youtu.be/UibnxSD9Suw)  |  [Ростислав Штанько](speakers/Ростислав%20Штанько.md)  |    |
+| [Используем ESLint на полную](https://youtu.be/CeqXXqEsCrY)  |  [Виктор Гвоздев](speakers/Виктор%20Гвоздев.md)  |    |
+| [Football-chat-bot-2](https://youtu.be/MZDC-F0lDeM)  |  [Андрей Кузнецов](speakers/Андрей%20Кузнецов.md)  |    |
+| [Голосовые интерфейсы в браузере](https://youtu.be/kgnoWzIgNaI)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+## MSK VUE.JS 6 - Dec 19 
+| | | |
+| --- | :---: | --- |
+| [ФП c Vue и Vuex. Сильные стороны. Наиболее эффективные точки применения](https://youtu.be/Rz_RynHNZKg)  |  [Сергей Колесников](speakers/Сергей%20Колесников.md)  |    |
+| [Используем конечные автоматы вместе с Composition API](https://youtu.be/ussNb7tM7Mg)  |  [Евгений Гаврилов](speakers/Евгений%20Гаврилов.md)  |    |
+| Vue.js-like без единой строчки js (Golang)  |  [Игорь Шеко](speakers/Игорь%20Шеко.md)  |    |
+## The Rolling Scopes 61 - Dec 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;NxIiW_LFEfg)
+| | | |
+| --- | :---: | --- |
+| [Производительность JS: чтобы улучшить, надо измерить](https://www.youtube.com/watch?v=NxIiW_LFEfg)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |    |
+| [JS Framework. Who’s That Pokemon?](https://youtu.be/NxIiW_LFEfg?t=3708)  |  [Денис Пучко​](speakers/Денис%20Пучко​.md)  |    |
+| Есть ли жизнь после фултайма?  |  [Андрей Лесницкий](speakers/Андрей%20Лесницкий.md)  |    |
+## OdessaFrontend Meetup 14 - Dec 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0upfo2XGtCnVuCf8lQGqgD-)
+| | | |
+| --- | :---: | --- |
+| [Можно ли жить без Docker?](https://youtu.be/vycFpNfvYoc)  |  [Юрий Чихрай](speakers/Юрий%20Чихрай.md)  | [:notebook:](https://odessafrontend.github.io/docker/#/)   |
+| [Стереотипы во фронтенде](https://youtu.be/eLtHCZuglQ8)  |  [Екатерина Фастовец](speakers/Екатерина%20Фастовец.md)  | [:notebook:](https://odessafrontend.github.io/stereotypes/)   |
+| [Переменные в CSS: сколько вы ещё планируете ждать?](https://youtu.be/roYQ9pJmopQ)  |  [Сергей Фомин](speakers/Сергей%20Фомин.md)  | [:notebook:](https://odessafrontend.github.io/custom-properties/)   |
+| [Викторина](https://youtu.be/T3PNKaUXBGo)  |  [Николай Птущук](speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-14)   |
 ## Angular Minsk 6 - Dec 16 
 | | | |
 | --- | :---: | --- |
-| TypeScript Conditional Types [en] |  [Gregor Woiwode](speakers/Gregor%20Woiwode.md)  | [:notebook:](https://speakerdeck.com/gregonnet/minsk-19-12-16)   |
-| Квиз по мотивам Angular 9 Release  |  [Виктория Рымкевич](speakers/Виктория%20Рымкевич.md)  | [:notebook:](https://docs.google.com/presentation/d/109d-TPglwRAFBCw-zUCa0ZSoKIaQpvQ0A7worwHb9FI/edit#slide=id.p)   |
-## MinskCSS 7 - Dec 12 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Hgc3evYQnjE)
+| [TypeScript Conditional Types](https://www.youtube.com/watch?v=WVdpv4n1jdc) [en] |  [Gregor Woiwode](speakers/Gregor%20Woiwode.md)  | [:notebook:](https://speakerdeck.com/gregonnet/minsk-19-12-16)   |
+| [Квиз по мотивам Angular 9 Release](https://www.youtube.com/watch?v=0MwzQRSRTvU)  |  [Виктория Рымкевич](speakers/Виктория%20Рымкевич.md)  | [:notebook:](https://docs.google.com/presentation/d/109d-TPglwRAFBCw-zUCa0ZSoKIaQpvQ0A7worwHb9FI/edit#slide=id.p)   |
+## MinskCSS 7 - Dec 12 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL3uk4LxG9ZzkpS9Pp6jc6V7AZWwLz22oZ)
 | | | |
 | --- | :---: | --- |
-| Grid Layout + IE &#x3D; &lt;3  |  [Юлия Долгун](speakers/Юлия%20Долгун.md)  | [:notebook:](http://grid-in-ie.surge.sh/#1)   |
-| Обтекай!  |  [Захар Авсиевич](speakers/Захар%20Авсиевич.md)  | [:notebook:](https://zavsievich.github.io/FloatPres/)   |
-| 10 глупых вопросов дизайнеру  |  [Дмитрий Осипов](speakers/Дмитрий%20Осипов.md)  |    |
+| [Grid Layout + IE &#x3D; &lt;3](https://www.youtube.com/watch?v=rw25lqOtHAI)  |  [Юлия Долгун](speakers/Юлия%20Долгун.md)  | [:notebook:](http://grid-in-ie.surge.sh/#1)   |
+| [Обтекай!](https://www.youtube.com/watch?v=xQePyj_wwEQ)  |  [Захар Авсиевич](speakers/Захар%20Авсиевич.md)  | [:notebook:](https://zavsievich.github.io/FloatPres/)   |
+| [10 глупых вопросов дизайнеру](https://www.youtube.com/watch?v=JWUDroW3tQ8)  |  [Дмитрий Осипов](speakers/Дмитрий%20Осипов.md)  | [:notebook:](https://drive.google.com/file/d/1haT6uzWllRWWzCACUx7q5Q14phlADVFO/view)   |
+## KazanJS 9 - Dec 12 
+| | | |
+| --- | :---: | --- |
+| [История развития фронтенда в Яндексе за 10 лет](https://youtu.be/BRHpQzVeLV0)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+| [Vue.js - мои впечатления после года в продакшне](https://youtu.be/dFD1L8wGAhs)  |  [Марат Фахреев](speakers/Марат%20Фахреев.md)  |    |
+| [PWA: двигатель веба и бизнеса](https://youtu.be/JyFUNATQZeU)  |  [Антон Заладинов](speakers/Антон%20Заладинов.md)  |    |
+## SEMrush IT meetup 2 - Dec 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;8xm5R-wEfmk)
+| | | |
+| --- | :---: | --- |
+| [Greet Node.js Multi-threading](https://www.youtube.com/watch?v=8xm5R-wEfmk)  |  [Антон Белов](speakers/Антон%20Белов.md)  |  [:octocat:](https://github.com/cerberus-ab/js-multi-threading-demo)  |
+| [React to Concurrent Mode](https://youtu.be/8xm5R-wEfmk?t=3430)  |  [Алексей Балканский](speakers/Алексей%20Балканский.md)  |    |
+| [Lazy loading images](https://youtu.be/8xm5R-wEfmk?t=5303)  |  [Денис Голубцов](speakers/Денис%20Голубцов.md)  |    |
+## WSD 2019 - Минск - Dec 07 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLMBnwIwFEFHdMiEG-wHDouG1A0LQeAEJl)
+| | | |
+| --- | :---: | --- |
+| [&lt;a&gt;](https://www.youtube.com/watch?v=_UmMLsIeK9k)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/anchor/)   |
+| [Пусть всем кажется, что всё грузится быстро — скелетоны экономят время](https://www.youtube.com/watch?v=JRlCIPkwheA)  |  [Виктор Русакович](speakers/Виктор%20Русакович.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/fake-loading.pdf)   |
+| [Фронтопс? Серьёзно?](https://www.youtube.com/watch?v=yWPAW59e1AU)  |  [Анна Селезнёва](speakers/Анна%20Селезнёва.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/frontops-really/)   |
+| [Как я однажды верстал форму регистрации](https://www.youtube.com/watch?v=C5vIEHHG1aA)  |  [Михаил Иванкив](speakers/Михаил%20Иванкив.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/registration-form/)   |
+| [_ ___ ______?](https://www.youtube.com/watch?v=uI3Q5m9xkkw)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/where-are-fonts/)   |
+| [Неквадратный веб](https://www.youtube.com/watch?v=coq1N7JW6sQ)  |  [Юлия Бухвалова](speakers/Юлия%20Бухвалова.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/non-square-web/)   |
+| [React Concurrent Mode](https://www.youtube.com/watch?v=5JGrm9O5MsM)  |  [Павел Смолин](speakers/Павел%20Смолин.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/concurrent-mode.pdf)   |
+| [JAMstack — генерация статических сайтов в 2k19](https://www.youtube.com/watch?v=JEYrIGLLIl0)  |  [Валентин Гиль](speakers/Валентин%20Гиль.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/jamstack-2019.pdf)   |
+| [Дискуссия «Как изменился веб за 10 лет — глазами очевидцев»](https://www.youtube.com/watch?v=8MxhLXJi410)  |  [Юлия Бухвалова](speakers/Юлия%20Бухвалова.md)  [Вадим Макеев](speakers/Вадим%20Макеев.md)  [Анна Селезнёва](speakers/Анна%20Селезнёва.md)  [Никита Дубко](speakers/Никита%20Дубко.md)  | [:notebook:](https://wsd.events/2019/12/07/pres/10-years/)   |
+## MoscowJS 46 - Dec 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL95OM-7UObpGXVZWXNjhj0RghE2GBp4BY)
+| | | |
+| --- | :---: | --- |
+| [Опыт использования FinalForm](https://youtu.be/CpB7cIFBwiY)  |  [Дмитрий Деханов](speakers/Дмитрий%20Деханов.md)  |    |
+| [Схемы рекурсии, или как мы решали задачу управления фронтом с бэка](https://youtu.be/MD49vFaQ4QA)  |  [Юрий Богомолов](speakers/Юрий%20Богомолов.md)  |    |
+| [CI &#x2F; CD теория и практика](https://youtu.be/St-IYjTlDrU)  |  [Дмитрий Захаров](speakers/Дмитрий%20Захаров.md)  |    |
+| [Procrastinate’n’dev](https://youtu.be/LYo6l120pjk)  |  [Ян Лаврюшев](speakers/Ян%20Лаврюшев.md)  |    |
 ## Angular Belarus 3 - Dec 05 
 | | | |
 | --- | :---: | --- |
 | [TDD &#x2F; BDD methodology - as a way to improve product quality](https://www.youtube.com/watch?v=ljqkdzTFKFY)  |  [Сергей Рожков](speakers/Сергей%20Рожков.md)  |    |
 | [Асинхронный Javascript](https://www.youtube.com/watch?v=Mw5BCF1eL04)  |  [Александр Логинов](speakers/Александр%20Логинов.md)  |    |
+## moscowcss 16 - Dec 03 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLAf_MJ7SOshFwQk3agupqfCAfSixX2fQU)
+| | | |
+| --- | :---: | --- |
+| [BRAND х UI](https://youtu.be/nXMAMXzNb2c)  |  [Никита Морозов](speakers/Никита%20Морозов.md)  [Николай Коробов](speakers/Николай%20Коробов.md)  |    |
+| [Рецепт востребованного верстальщика: дизайн + код](https://youtu.be/0T9NIqp4W9o)  |  [Анна Блок](speakers/Анна%20Блок.md)  |    |
+| [Разработка универсальных библиотек компонентов для платформы по созданию сайтов](https://youtu.be/5gfcWaKJEUY)  |  [Игорь Лесневский](speakers/Игорь%20Лесневский.md)  |    |
+| [В погоне за перфомансом](https://youtu.be/wbTEDA8A4xY)  |  [Даниил Крохмаль](speakers/Даниил%20Крохмаль.md)  |    |
 ## GDG Minsk Web Meetup - Nov 27 
 | | | |
 | --- | :---: | --- |
@@ -30,6 +97,13 @@
 | [Микросервисный фронтенд. Как подружить vue.js и react](https://www.youtube.com/watch?v=XD02n4GXjU8)  |  [Александр Шамшурин](speakers/Александр%20Шамшурин.md)  |    |
 | [VueJS + NUDE Elements: от прототипа до продакшена](https://www.youtube.com/watch?v=CNql0mU9DRM)  |  [Андрей Яманов](speakers/Андрей%20Яманов.md)  | [:notebook:](https://nude-vuejs-talk.tenphi.now.sh/) [:octocat:](https://nude-playground.tenphi.now.sh/)  |
 | [Место css во vue.js](https://www.youtube.com/watch?v=KqGsPPtMCPU)  |  [Нагорных Мария](speakers/Нагорных%20Мария.md)  |    |
+## Panda Meetup 31 Frontend - Nov 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLpFuVynD9rDkrDAL2jg1rhay0rbzMWDjW)
+| | | |
+| --- | :---: | --- |
+| [GraphQL Introduction](https://www.youtube.com/watch?v=mkjvBYTAaXs)  |  [Дмитрий Григоров](speakers/Дмитрий%20Григоров.md)  |    |
+| [Поднятие состояния в React: когда официальная документация лжет](https://www.youtube.com/watch?v=xFQf7ULcaT8)  |  [Андрей Гончаров](speakers/Андрей%20Гончаров.md)  |    |
+| [Темизация UI kit: экономим 400+ часов времени и используем преимущества CSS variables &amp; SASS](https://www.youtube.com/watch?v=Gd42g6QomUk)  |  [Виталий Евтехов](speakers/Виталий%20Евтехов.md)  |    |
+| [Через тернии к почти идеальным таблицам](https://www.youtube.com/watch?v=44kyPm0S4_4)  |  [Дмитрий Ивко](speakers/Дмитрий%20Ивко.md)  |    |
 ## PiterJS 42 - Nov 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;EoMd-8w-DfA)
 | | | |
 | --- | :---: | --- |
@@ -55,6 +129,12 @@
 | [Веб-сокеты в Angular-приложениях](https://www.youtube.com/watch?v=axuDqqqstf4)  |  [Алексей Синдюков](speakers/Алексей%20Синдюков.md)  |    |
 | [λ в js без фанатизма](https://www.youtube.com/watch?v=Hd_hmmGQl64)  |  [Михаил Синяков](speakers/Михаил%20Синяков.md)  |    |
 | [Какой стек выбрать джуниору, чтобы заработать денег, принести пользу и сохранить карму](https://www.youtube.com/watch?v=NoFCaJWTGjE)  |  [Денис Ермаков](speakers/Денис%20Ермаков.md)  |    |
+## moscowcss 15 - Oct 29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLAf_MJ7SOshH-JE__MVZCCypMOU3-pTDI)
+| | | |
+| --- | :---: | --- |
+| [Расширение возможностей CSS с Houdini](https://youtu.be/x0nD8VUScmc)  |  [Мария Стогова](speakers/Мария%20Стогова.md)  |    |
+| [SPA на чистом CSS](https://youtu.be/o5nOs4n18xY)  |  [Иван Бабков](speakers/Иван%20Бабков.md)  | [:notebook:](https://ibabkov.github.io/css_spa_presentation/)   |
+| [Система именования переменных в css](https://youtu.be/5QVnY8lJ6d8)  |  [Мария Нагорных](speakers/Мария%20Нагорных.md)  | [:notebook:](https://drive.google.com/file/d/1h_1_H2C9rM7y3zrB1FDm-3xkKMyCnZT6/view)   |
 ## Юбилейный Я.Субботник по разработке интерфейсов - Oct 26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;CKbOHn1lJWw)
 | | | |
 | --- | :---: | --- |
@@ -194,6 +274,13 @@
 | Modern e2e testing with Cypress.io  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  | [:notebook:](https://ilyaryabchinski.github.io/cypress-talk/)   |
 | Ivy and the future of the Angular compiler  |  [Роман Колесников](speakers/Роман%20Колесников.md)  | [:notebook:](https://docs.google.com/presentation/d/1uuCTnlr5a1V-E7htuqBlRwEY826RnS67fkqNKjT6B1k/edit?usp=sharing)   |
 | GraphQL and how to use it with Apollo Angular and Redux  |  [Дмитрий Грачёв](speakers/Дмитрий%20Грачёв.md)  | [:notebook:](https://docs.google.com/presentation/d/17jWAk3wIWgpGibr5j8TX9vSGZZvsA32zVPZujv4rooM/edit)   |
+## Storm The Front Meetup 6 - Jul 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLX3qbfL4pq9AlGYjMu2yh4Zlcol89v8sC)
+| | | |
+| --- | :---: | --- |
+| [Введение в веб-компоненты](https://youtu.be/PS8gxwSYREA)  |  [Андрей Космыков](speakers/Андрей%20Космыков.md)  | [:notebook:](https://drive.google.com/file/d/1Nk6VQlaBRUOf25Olr_aQ_PO7J9aAyZu-/view)   |
+| [Функциональный функционирует](https://youtu.be/_4a5mfy9B_o)  |  [Александр Загорский](speakers/Александр%20Загорский.md)  |    |
+| [Все, что вы хотели знать про удаленную работу, но стеснялись спросить](https://youtu.be/DFGkK0g3IUs)  |  [Сергей Корж](speakers/Сергей%20Корж.md)  | [:notebook:](https://drive.google.com/file/d/1n16P-0IEAmOld6srB7qO4nawsu1i0Tri/view)   |
+| [Доступность в веб](https://youtu.be/yr9ou_XgO58)  |  [Павел Дроздов](speakers/Павел%20Дроздов.md)  | [:notebook:](https://slides.com/werinolic/accessibility#/)   |
 ## moscowcss 14 - Jul 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLAf_MJ7SOshE2s8LfBL5kyKcXox-HzuVd)
 | | | |
 | --- | :---: | --- |
@@ -710,12 +797,12 @@
 | | | |
 | --- | :---: | --- |
 | [Technical SEO for JavaScript developers](https://fwdays.com/en/event/js-fwdays-2019/review/technical-seo-for-javascript-developers) [en] |  [Martin Splitt](speakers/Martin%20Splitt.md)  |    |
-| [The State of Modern JavaScript and Web in 2020 - Real use cases](https://fwdays.com/en/event/js-fwdays-2019/review/the-state-of-modern-js-and-web-in-2020)  |  [Alexey Kupriyanenko](speakers/Alexey%20Kupriyanenko.md)  |    |
-| [Why are Angular and React so fast?](https://fwdays.com/en/event/js-fwdays-2019/review/why-are-angular-and-react-so-fast)  |  [Max Koretskyi](speakers/Max%20Koretskyi.md)  |    |
+| [The State of Modern JavaScript and Web in 2020 - Real use cases](https://fwdays.com/en/event/js-fwdays-2019/review/the-state-of-modern-js-and-web-in-2020)  |  [Алексей Куприяненко](speakers/Алексей%20Куприяненко.md)  |    |
+| [Why are Angular and React so fast?](https://fwdays.com/en/event/js-fwdays-2019/review/why-are-angular-and-react-so-fast)  |  [Максим Корецкий](speakers/Максим%20Корецкий.md)  |    |
 | [A short history of the web](https://fwdays.com/en/event/js-fwdays-2019/review/a-short-history-of-the-web) [en] |  [Martin Splitt](speakers/Martin%20Splitt.md)  |    |
 | [HTTP headers for the responsible developer](https://fwdays.com/en/event/js-fwdays-2019/review/http-headers-for-the-responsible-developer) [en] |  [Stefan Judis](speakers/Stefan%20Judis.md)  |    |
 | [How we have been developing an Offline First application using Persistent Storage](https://fwdays.com/en/event/js-fwdays-2019/review/how-we-have-been-developing-an-offline-first-application)  |  [Тимофей Лавренюк](speakers/Тимофей%20Лавренюк.md)  |    |
-| [How to train your Vue CLI plugin](https://fwdays.com/en/event/js-fwdays-2019/review/how-to-train-your-vue-cli-plugin) [en] |  [Natalia Tepluhina](speakers/Natalia%20Tepluhina.md)  |    |
+| [How to train your Vue CLI plugin](https://fwdays.com/en/event/js-fwdays-2019/review/how-to-train-your-vue-cli-plugin) [en] |  [Наталья Теплухина](speakers/Наталья%20Теплухина.md)  |    |
 | [One simple animation explained](https://fwdays.com/en/event/js-fwdays-2019/review/one-simple-animation-explained)  |  [Юрий Артюх](speakers/Юрий%20Артюх.md)  |    |
 | [Server-side rendering with Angular—be faster and more SEO, CDN and user-friendly!](https://fwdays.com/en/event/js-fwdays-2019/review/server-side-rendering-with-angular) [en] |  [Maciej Treder](speakers/Maciej%20Treder.md)  |    |
 | [Делайте из слона муху](https://fwdays.com/en/event/js-fwdays-2019/review/shrink-an-elephant-into-a-fly)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
@@ -723,7 +810,7 @@
 | [Web Performance in modern JavaScript world](https://fwdays.com/en/event/js-fwdays-2019/review/web-performance-in-modern-javascript-world) [en] |  [Filip Rakowski](speakers/Filip%20Rakowski.md)  |    |
 | [Lost in Space: Web Apps and A11Y](https://fwdays.com/en/event/js-fwdays-2019/review/lost-in-space)  |  [Виталий Бобров](speakers/Виталий%20Бобров.md)  |    |
 | [Looking for the right tech stack for GraphQL application](https://fwdays.com/en/event/js-fwdays-2019/review/looking-for-the-right-tech-stack-for-graphql)  |  [Никита Галкин](speakers/Никита%20Галкин.md)  |    |
-| [The Almighty Rabbit Hole](https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole)  |  [Christopher Gannon](speakers/Christopher%20Gannon.md)  |    |
+| [The Almighty Rabbit Hole](https://fwdays.com/en/event/js-fwdays-2019/review/the-almighty-rabbit-hole) [en] |  [Christopher Gannon](speakers/Christopher%20Gannon.md)  |    |
 | [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https://fwdays.com/en/event/js-fwdays-2019/review/beyond-the-limitations-of-frontend)  |  [Ilona Demidenko](speakers/Ilona%20Demidenko.md)  |    |
 | [REPL, do you speak it](https://fwdays.com/en/event/js-fwdays-2019/review/repl)  |  [Александр Соловьев](speakers/Александр%20Соловьев.md)  |    |
 | [Reactive Powered: RxJS with Angular Forms](https://fwdays.com/en/event/js-fwdays-2019/review/angular-forms) [en] |  [Shmuela Jacobs](speakers/Shmuela%20Jacobs.md)  |    |
@@ -812,10 +899,10 @@
 ## KyivJS 21 - Feb 07 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLxw9RJPDS60riQwoR-WpcUuSqRVeGeSny)
 | | | |
 | --- | :---: | --- |
-| [Making Vue app reactive with RxJS](https://www.youtube.com/watch?v=Ny1_s9OHg1M)  |  [Natalia Tepluhina](speakers/Natalia%20Tepluhina.md)  | [:notebook:](https://slides.com/superdiana/making-your-vue-app-reactive-with-rxjs#/)   |
+| [Making Vue app reactive with RxJS](https://www.youtube.com/watch?v=Ny1_s9OHg1M)  |  [Наталья Теплухина](speakers/Наталья%20Теплухина.md)  | [:notebook:](https://slides.com/superdiana/making-your-vue-app-reactive-with-rxjs#/)   |
 | [Yet another JSON RPC library?](https://www.youtube.com/watch?v=84Y5n32tX5E)  |  [Виктор Турский](speakers/Виктор%20Турский.md)  | [:notebook:](https://docs.google.com/presentation/d/1bvlsG5nBEVwMGm7rBh4zmfrGDLUIjpv_t4rxFS2_uMw/edit)   |
 | [Building quick apps in 2019](https://www.youtube.com/watch?v=kNpBcA5GrcU)  |  [Иван Акулов](speakers/Иван%20Акулов.md)  | [:notebook:](https://docs.google.com/presentation/d/1GAc1-lY-uqTnzoIN8lWeQpbaBG3zh_eolAHNwAfqE4U/edit)   |
-| [npm explore npm](https://www.youtube.com/watch?v=RRAQXLaBCEk)  |  [Anton Verinov](speakers/Anton%20Verinov.md)  | [:notebook:](https://drive.google.com/file/d/1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk/view)   |
+| [npm explore npm](https://www.youtube.com/watch?v=RRAQXLaBCEk)  |  [Антон Веринов](speakers/Антон%20Веринов.md)  | [:notebook:](https://drive.google.com/file/d/1Jgej6L44BeaOofCqr5Kwr7kLxivrQDjk/view)   |
 | [Эстимирование](https://www.youtube.com/watch?v=xu7cBk-STx4)  |  [Григорий Шехет](speakers/Григорий%20Шехет.md)  | [:notebook:](https://drive.google.com/file/d/1F-5hei901Z8m26F53gigWlkbjTdgejP7/view)   |
 ## The Rolling Scopes &amp; {Minsk} JSON - Feb 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;gdpMFxWDwJg)
 | | | |
