@@ -1,0 +1,132 @@
+name: HolyJS 2018 Piter
+date:
+  - 2018-05-19
+  - 2018-05-20
+videos: 
+talks:
+  - name: New adventures in frontend, Season 2
+    speaker: Виталий Фридман
+    video: https://youtu.be/wuTPzW6aK0Q
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/258nBVG8gIoqgU6Gc2ymGQ/321f64509d556f34ebc8a050e1b90891/holyjs-opening.pdf
+  - name: Solution architecture и JavaScript
+    speaker: Алексей Богачук
+    video: https://youtu.be/UVRi9LoFyfI
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/39cPKuUZ5CCkGwIgsoiAQS/380323d6acca8609260860fc1574ca8a/Aliaksei_Bahachuk_-_JavaScript_and_Solution_Architecture.pdf
+  - name: Serverless и React 2 (ловкость рук и никакого мошенничества)
+    speaker: Марина Миронович
+    video: https://youtu.be/wJcXVjemrEY
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/2prL4EWA8ww2uWG26E2K22/417da3e92118c2fad465cbc75791b0ff/Marina_Miranovich_Serverless____React_2__________________________________________________________________________.pdf
+  - name: "Web Annotation: the web’s conversation layer"
+    speaker: Lyza Danger Gardner
+    video: https://youtu.be/KFNeplO4aHk
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/5GilJ41BWooEGwoaAKuGoc/d77dd19c65d4f2f68ec2e929fda73921/Lyza_Gardner_Web_Annotation.pdf
+    lang: en
+  - name: Архитектура React Native для JS-разработчика
+    speaker: Дмитрий Пацура
+    video: https://youtu.be/v4MnR41SHZc
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/4as61mVuDmKK8WmeqkqWmk/c143a714e75cb61f9cd924a6cf37d9af/Dmitry_ReactNative.pdf
+  - name: "RxJS: производительность и утечки памяти в большом приложении"
+    speaker: Евгений Поздняков
+    video: https://youtu.be/7806msvJ1HE
+    presentation: 
+  - name: Generated REST API documentation in Node.js
+    speaker: Sebastien Chopin Atinux
+    video: https://youtu.be/jgUHyW84Dpg
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3WwSxOUDnaKkiuyqKMoWsu/dcc1f463ed6856bbb2155f753dbe414e/Sebastien_Chopin_-_REST_API_documentation_in_Node.pdf
+    lang: en
+  - name: "Майним крипту в браузере: WebWorkers, GPU, WebAssembly и другие хорошие вещи"
+    speaker: Денис Радин
+    video: https://youtu.be/Ngrsx_8yfds
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3nNdltiwhOykGOICks6U6E/9e547c6c30222317cb3661a9c1ecebcc/Mining-crypto-in-browser_-GPU-WebAssembly-and-all-the-good-things-to-try.pdf
+  - name: "Системный подход к скорости во фронтенде: онлайн-измерения"
+    speaker: Андрей Прокопюк
+    video: https://youtu.be/Whm2FMBIgA0
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/5JoTEYnAGIGSY8YYyWkMyu/483f47ff09102e02fc4c174e617743bb/Andrey_Prokopyuk_Velocity_Online_Measurements.pdf
+  - name: Wallaby.js & Quokka.js. Быстро. Красиво. Качественно.
+    speaker: Дмитрий Махнёв
+    video: https://youtu.be/5UILmcIdkt8
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3UXp2o6r1uECkKUY2eSYsW/f3f82a779c5ca40720a748baa3cee467/Dmitry_Makhnev_____Wallaby.js___Quokka.js._Fast._Wonderful._Qualitatively..pdf
+  - name: Декомпозиция Main Thread в Node.js для увеличения пропускной способности
+    speaker: Николай Матвиенко
+    video: https://youtu.be/Mfz1_blLl9Q
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3xtKFHSuissgAqMIMmaQ4w/52e391982259a4244a231cb8a5460dc6/Nikolay_Matvienko_Decomposition_of_the_Main_Thread.pdf
+  - name: "Системный подход к скорости во фронтенде: оффлайн-измерения"
+    speaker: Алексей Калмаков
+    video: https://youtu.be/TzCMDlYMydA
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/gYzskQG7cIMEcwq4qU6MS/6a16289ec84f6b22298e7450e32bc045/Alexey_Kalmakov_offline_measurements.pdf
+  - name: EME? CDM? DRM? CENC? IDK!
+    speaker: Sebastian Golasch
+    video: https://youtu.be/3Y3R_snaDDc
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/3cee4odqrCyuUqm6YYC8Ga/bf153bf0e98e15307326ecfbe225994f/Sebastian_Golasch_-_EME__CDM__DRM__CENC__IDK_.pdf
+    lang: en
+  - name: Мерцание технологий, или Инжиниринг 21-го века
+    speaker: Максим Юзва
+    video: https://youtu.be/MzTng78DCm4
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3t7RLg6CIg0w8k6myekMwu/8a9832d378568ebe478c6c8b9b6ed084/Yuzva_technology_flashing_.pdf
+  - name: Bringing mobile web back to life
+    speaker: Imad Elyafi
+    video: https://youtu.be/iQLwbBOYabo
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/6LFlknbgTCgSW62oI62oOk/65402561639582669a23c372a183435b/Imad_Elyafi_Bringing_Mobile_Web_Back_to_Life.pdf
+    lang: en
+  - name: Работаем с абстрактными синтаксическими деревьями JavaScript
+    speaker: Кирилл Черкашин
+    video: https://youtu.be/ILSpvViUlPU
+    presentation: https://codelab.fun/ast/intro
+  - name: Yew — Rust&WebAssembly — фреймворк для фронтенда
+    speaker: Денис Колодин
+    video: https://youtu.be/OqFOXMIwzTc
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3bjvSmSNfqqcQ6GEImg6ik/2e0983d91ebb41b653cd18f71eb3efe0/Yew_HolyJS_v9.pdf
+  - name: "Каталог компонентов: переосмысление"
+    speaker: Роман Дворнов
+    video: https://youtu.be/zZUbXAVV-HA
+    presentation: https://www.icloud.com/keynote/0iNlJ8ydX3WYlaQkPzl6BSGXQ#Component_catalogue_-_rethinking_(Holy.js_Spb_2018)
+  - name: Dirty little tricks from the dark corners of eCommerce
+    speaker: Виталий Фридман
+    video: https://youtu.be/JZQsvPXMuJM
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/2sw2xzK7c8qeW4UeW6ugsC/c12e156572aaf355308dcd5d0a89e3f8/holy-dirty-little-tricks.pdf
+    lang: en
+  - name: Портирование JS на Эльбрус
+    speaker: Дмитрий Бежецков, Владимир Ануфриенко
+    video: https://youtu.be/mPCTpCJ26zs
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/1nWkRMc3fukKg84oOaeI0W/a708d7b9a340fb861d0433e4e238439e/ElbrusAnufrienkoBezhetskov.pdf
+  - name: "Бешеные псы, сезон 2: React vs. Vue"
+    speaker: Евгений (Кот) Гусев, Илья Таратухин
+    video: https://youtu.be/LHvxXKirOZg
+    presentation: https://bunopus.github.io/presentation-vue-vs-react/#/
+  - name: Make frontend «backend» again
+    speaker: Николай Рыжиков
+    video: https://youtu.be/XBfi3Q74BnE
+    presentation: https://niquola.github.io/holyjs-slides-2018/#/
+  - name: Квантовая механика вычислений
+    speaker: Дмитрий Карловский
+    video: https://youtu.be/2BJu_6OsO08
+    presentation: https://nin-jin.github.io/slides/fibers/
+  - name: Обретение навыков
+    speaker: Никита Прокопов
+    video: https://youtu.be/f6LsU1zotPI
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/67BsqZskIEA0IsIc8sKKKo/33f797cddc362a5c89f25ee4bc46f66a/Nikita_Prokopov_Skill_Acquisition.pdf
+  - name: "Эволюция TypeScript: всё чудесатее и чудесатее"
+    speaker: Андрей Старовойт
+    video: https://youtu.be/srqqwuqzYMM
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/745Yp0RLkAm6gcg6m6kMwE/4df2f247de5926d2be5b277715122a4f/Andrey_Starovoyt_Evolution_of_TypeScript.pdf
+  - name: Building Alexa Skills with Node.js
+    speaker: Taylor Lovett
+    video: https://youtu.be/4pJ8ykDsT0I
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/7yTIdML80EGqkS4o0CCA4q/889dca16850764e14bcdec7043a24d3f/building-alexa-skills-with-node_-_Taylor_Lovett.pdf
+    lang: en
+  - name: Чего ждать от JavaScript в 2018 году?
+    speaker: Михаил Полубояринов
+    video: https://youtu.be/Hf0zHNYS4Fg
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/SHKeaCFt4YMaIyAQ2GAeK/39e786dce1e6d95b7688a9a6888982df/ES2018.pdf
+  - name: Отладка JS на примере Chrome DevTools
+    speaker: Алексей Козятинский
+    video: https://youtu.be/kBHUEFYawTk
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/4xMrdqUlTGsua0QwUig0QS/386536648d0bd671ee4894eb4e6cec34/Aleksey_Kozyatinskiy_JavaScript_debugger.pdf
+  - name: "Тонкости Mongoose: виртуальные поля, вложенные схемы, дискриминаторы"
+    speaker: Виктор Вершанский
+    video: https://youtu.be/Zc3CDFUfHUA
+    presentation: http://mongooser.com/holyjs.html
+  - name: "30: слишком много JavaScript"
+    speaker: Илья Климов
+    video: https://youtu.be/ZCQuIV4sftI
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/5atzdSm2BaQiiE4K8YSkyk/0223bac6e570274836e9b47ac9d148c9/Illya_Klymov_30_2.pdf

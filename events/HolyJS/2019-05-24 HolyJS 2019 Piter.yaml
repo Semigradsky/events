@@ -31,7 +31,7 @@ talks:
     lang: ru
   - name: "Scaling a React component library — building a design language for 500+ web applications"
     speaker: Nadiia Dmytrenko
-    video:
+    video: https://youtu.be/mlLTA1fjSew
     presentation:
     lang: en
   - name: "Реактивная печать PDF 🚀"
@@ -74,3 +74,75 @@ talks:
     video: https://youtu.be/SbgqR79nPd0
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/7Fn6u1WpheLSSSbvx3Moeu/2b922c1809afed8fb6c50fdf334f2a92/Andrey_Sitnik_Prodvizheniye_opensors-proyektov.pdf
     lang: ru
+  - name: Technical SEO 101 for web developers
+    speaker: Martin Splitt
+    video: https://youtu.be/XF08jiOKaiQ
+    presentation: 
+    lang: en
+  - name: Переводим React-приложение на SSR, используя Next.js
+    speaker: Наталия Короткова
+    video: https://youtu.be/GKSDZMlNHt0
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/6bi9Dv2LlZOve0UhCKRjnh/3304c9c7c4ddac88b09e3ad7a36c5ece/Nataliya_Korotkova_Perevodim_React-prilozheniye_na_SSR_ispolzuya_Next.js.pdf
+  - name: Embedding V8 in the real world
+    speaker: Stanimira Vlaeva, Vladimir Mutafov
+    video: https://youtu.be/sQ8UyltZGRQ
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/2hYwwSyz40cgu2PsSUGnRQ/2b9cdd2ef3746de31c04d0a862dea0fa/Stanimira_Vlaeva_Vladimir_Mutafov_Embedding_V8_in_the_real_world.pdf
+    lang: en
+  - name: Modern web testing and automation with Puppeteer
+    speaker: Andrey Lushnikov
+    video: https://youtu.be/r-2a8G0hXKc
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/3BL3mW29fORsvWhJLJdy3T/5dc36c212e25a971b2019359c2d580cb/Andrey_Lushnikov_Modern_web_testing_and_automation_with_Puppeteer.pdf
+    lang: en
+  - name: Алгоритмы на графах
+    speaker: Марина Миронович
+    video: https://youtu.be/Q61wpfFnYYo
+    presentation: 
+  - name: Google Closure Compiler — принцип работы и использование в современном фронтенде
+    speaker: Ильяс Кабиров
+    video: https://youtu.be/TodYDWUKlWI
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/5Hr9RXpCHjlPxIT8aW8dAH/df83d65d5c657ca0ee2c30aadf8c3fb9/Ilyas_Kabirov_Google_Closure_Compiler__printsip_raboty_i_ispolzovaniye_v_sovremennom_frontende.pdf
+  - name: Обработка озера данных на Node.js в serverless-архитектуре
+    speaker: Николай Матвиенко
+    video: https://youtu.be/FOCDEk-OLTI
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/v0DvUwICec13eSHre64Kg/91c6f3bc63f1ab9e6ff0344ecf81716e/Nikolay_Matviyenko_Obrabotka_ozera_dannykh_na_Node.js_v_serverless-arkhitekture.pdf
+  - name: MobX and the unique symbiosis of predictability and speed
+    speaker: Michel Weststrate
+    video: https://youtu.be/NBYbBbjZeX4
+    presentation: 
+    lang: en
+  - name: Как и зачем я пишу свой статический типизатор
+    speaker: Артём Кобзарь
+    video: https://youtu.be/GIHrPm_YAIc
+    presentation: 
+  - name: Ламповый CI/CD. Как и с чего начать
+    speaker: Илья Климов
+    video: https://youtu.be/CwU-OiS_PEQ
+    presentation: 
+  - name: The visual future of reactive applications with statecharts
+    speaker: David Khourshid
+    video: https://youtu.be/o84Xw8qiTCw
+    presentation: 
+    lang: en
+  - name: "To ESM is human: Module systems in Node.js"
+    speaker: Ujjwal Sharma
+    video: https://youtu.be/LJbOQ4m3_oM
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/KnwMpDa0JMqmawXnBx0Ky/3f45eb73894fcdf5ac24eead2301a085/Ujjwal_Sharma_To_ESM_is_human_Module_systems_in_Node.js.pdf
+    lang: en
+  - name: "Я создал Франкенштейна: 3 истории миграции"
+    speaker: Денис Мишунов
+    video: https://youtu.be/CaP5eAylYpI
+    presentation: https://speaking.mishunov.me/03EExr
+  - name: "Node.js: так же быстро, выше, сильнее с GraalVM"
+    speaker: Олег Шелаев
+    video: https://youtu.be/sKS4A9I8xb8
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3ikVcsgxK74tvM549EUwwm/9cbc372ae901fe0f1e8c1d6896216fcf/Oleg_Shelayev_Node.js_tak_zhe_bystro_vyshe_silneye_s_GraalVM.pdf
+  - name: You can't read this sentence — A11y automation
+    speaker: Mauricio Palma
+    video: https://youtu.be/2UZXyisKs18
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/39rMx5uzeAc1DqBTDSBZx5/0de03163ac1afced6a580ddb6703ac3b/Mauricio_Palma_You_cant_read_this_sentence__A11y_automation.pdf
+    lang: en
+  - name: "MAAS: Mind as a Service"
+    speaker: Alex Castillo
+    video: https://youtu.be/hvTchNNDSes
+    presentation: 
+    lang: en
