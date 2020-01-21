@@ -4,4 +4,4 @@
 # Guillermo Rauch
 
 ## Client rendering, server rendering, pre rendering. The full spectrum of JS website and application performance delivery
-- 2019 Nov 08-09 -- HolyJS 2019 Moscow [en]   
+- 2019 Nov 08-09 -- [HolyJS 2019 Moscow](https://www.youtube.com/watch?v=impcGrPD0xQ) [en]   
