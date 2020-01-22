@@ -3,7 +3,7 @@
 
 # FrontHub
 
-## FrontHub 2017 - 2019 Nov 11 [:movie_camera:](https://www.youtube.com/playlist?list=PLOaBrDEMBndwFivNP1_KM3N1pEsd_mZXb)
+## FrontHub 2017 - 2017 Nov 11 [:movie_camera:](https://www.youtube.com/playlist?list=PLOaBrDEMBndwFivNP1_KM3N1pEsd_mZXb)
 | | | |
 | --- | :---: | --- |
 | [Webpack. Жизнь без спагетти](https://www.youtube.com/watch?v=7bAIGRol8ms)  |  [Денис Ежков](../../speakers/Денис%20Ежков.md)  |    |

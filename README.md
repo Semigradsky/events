@@ -118,17 +118,6 @@
 | [How to choose your Angular testing tools](https://www.youtube.com/watch?v=9A84MxUNqfA)  |  [Артём Руденко](speakers/Артём%20Руденко.md)  | [:notebook:](https://drive.google.com/file/d/1vR3ae4lv94UaJRtb5NsyQGGJIvO2lYyj/view)   |
 | [3 tips to improve your Angular app performance](https://www.youtube.com/watch?v=u_QoSSef2xE)  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  | [:notebook:](https://drive.google.com/file/d/16238cX2EFFacaDwfQ4GN70VmP_-TvoM8/view)   |
 | [Code sharing via Angular library like a pro](https://www.youtube.com/watch?v=7R5NFXvswFk)  |  [Олег Васильев](speakers/Олег%20Васильев.md)  | [:notebook:](https://slides.com/olegvasilyev/angular-library)   |
-## FrontHub 2017 - Nov 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLOaBrDEMBndwFivNP1_KM3N1pEsd_mZXb)
-| | | |
-| --- | :---: | --- |
-| [Webpack. Жизнь без спагетти](https://www.youtube.com/watch?v=7bAIGRol8ms)  |  [Денис Ежков](speakers/Денис%20Ежков.md)  |    |
-| [Инструменты дизайнера и чем они могут помочь фронтендерам](https://www.youtube.com/watch?v=ykJyj7gjl6I)  |  [Вадим Марьин](speakers/Вадим%20Марьин.md)  |    |
-| [Состояние Состояния](https://www.youtube.com/watch?v=5ocaQYZF-Os)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
-| [Веб-разработка на Elm](https://www.youtube.com/watch?v=aDmDzWBOsjw)  |  [Василий Васильков](speakers/Василий%20Васильков.md)  |    |
-| [Как внедрить новый Angular без ведома работодателя](https://www.youtube.com/watch?v=HMUVKCFcFAM)  |  [Алена Алексеева](speakers/Алена%20Алексеева.md)  |    |
-| [Веб-сокеты в Angular-приложениях](https://www.youtube.com/watch?v=axuDqqqstf4)  |  [Алексей Синдюков](speakers/Алексей%20Синдюков.md)  |    |
-| [λ в js без фанатизма](https://www.youtube.com/watch?v=Hd_hmmGQl64)  |  [Михаил Синяков](speakers/Михаил%20Синяков.md)  |    |
-| [Какой стек выбрать джуниору, чтобы заработать денег, принести пользу и сохранить карму](https://www.youtube.com/watch?v=NoFCaJWTGjE)  |  [Денис Ермаков](speakers/Денис%20Ермаков.md)  |    |
 ## HolyJS 2019 Moscow - Nov 08-09 
 | | | |
 | --- | :---: | --- |
