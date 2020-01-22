@@ -1,0 +1,16 @@
+name: AST Frontend meetup 1
+date: 2016-06-04
+videos: 
+talks:
+  - name: "Вёрстка: правила хорошего тона"
+    speaker: Талгат Успанов
+    video: 
+    presentation: http://goo.gl/rkyOQQ
+  - name: Знакомство с Angular 2
+    speaker: Жандос Бермухамбетов
+    video: 
+    presentation: http://goo.gl/RUUNel
+  - name: Фронтенд разработка — взгляд со сторон
+    speaker: Таир Сабыргалиев
+    video: 
+    presentation: http://goo.gl/vzayLT
