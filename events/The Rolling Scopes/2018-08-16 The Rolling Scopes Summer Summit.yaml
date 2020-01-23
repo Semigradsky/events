@@ -4,11 +4,11 @@ talks:
   - name: "WebGL Воркшоп"
     speaker: Андрей Лесницкий
   - name: "Настало время офигительных историй"
-    speaker: Dzmitry Vanitski
+    speaker: Дмитрий Ваницкий
   - name: "Истории из жизни дизайнера"
     speaker: Светлана Желток
   - name: "По следам волшебного Друзя"
-    speaker: 'Dzmitry Vanitski, Светлана Желток, Никита Зенченко'
+    speaker: 'Дмитрий Ваницкий, Светлана Желток, Никита Зенченко'
   - name: "Real-world applications for Blockchain technology (EN)"
     speaker: Fernando Martinho
   - name: "UI optimizations borrowed from 3d graphics engines"

@@ -5,7 +5,7 @@ talks:
   - name: 'Привет, Алиса!'
     speaker: Владимир Гриненко
     url: 'https://events.yandex.ru/lib/talks/5737/'
-  - name: Анимация в браузере
+  - name: Анимация в браузере, или как добиться 60 кадров в секунду на слабых устройствах
     speaker: Антон Кастрицкий
     url: 'https://events.yandex.ru/lib/talks/5738/'
   - name: Расчёт метрик скорости в Яндексе

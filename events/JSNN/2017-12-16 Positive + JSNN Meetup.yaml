@@ -6,7 +6,7 @@ talks:
   - name: Краткий экскурс в технологию WebRTC
     speaker: Леонид Вайцехович
     video: https://www.youtube.com/watch?v=3j0bZg3ZvAQ
-  - name: Анимация в браузере
+  - name: Анимация в браузере, или как добиться 60 кадров в секунду на слабых устройствах
     speaker: Антон Кастрицкий
     video: https://www.youtube.com/watch?v=w0FiCUP9tD8
   - name: "Angular Hybrid Application: что это, зачем, а главное как"

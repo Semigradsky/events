@@ -96,7 +96,7 @@ talks:
     video: https://youtu.be/NaEiH3Z1qqI
     lang: en
   - name: "Ресерчили-ресерчили, да не выресерчавали"
-    speaker: Dzmitry Vanitski
+    speaker: Дмитрий Ваницкий
     video: https://youtu.be/hMNys-hRrmI
     presentation: https://www.dropbox.com/s/a4rh08n5mjwyrsm/RS_Gap_presentation.pdf?dl=0
   - name: "How to improve test coverage up to 80% with generated unit testing approach and be calm."
