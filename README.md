@@ -89,7 +89,7 @@
 ## GDG Minsk Web Meetup - Nov 27 
 | | | |
 | --- | :---: | --- |
-| Все знают только… (Browser API)  |  [Илья Запрцукий](speakers/Илья%20Запрцукий.md)  | [:notebook:](https://drive.google.com/open?id=1qDIkvU31NLZ1nEns2A_U_BVBlxC0Cn_r)   |
+| Все знают только… (Browser API)  |  [Илья Запруцкий](speakers/Илья%20Запруцкий.md)  | [:notebook:](https://drive.google.com/open?id=1qDIkvU31NLZ1nEns2A_U_BVBlxC0Cn_r)   |
 | Реактивный вью. Заглядываем под обшивку ракеты  |  [Андрей Кучук](speakers/Андрей%20Кучук.md)  | [:notebook:](https://drive.google.com/open?id=1kS3LWvLPfeLoDdccBwLkWPign-X8oonS)   |
 ## MSK VUE.JS 5 - Nov 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLOviqqLrTTvPqE1RR9v5VPUi65XccEtof)
 | | | |
@@ -929,6 +929,17 @@
 | [The better REST для разработки сложных Веб-приложений](https://www.youtube.com/watch?v=54iOZH6Fxig)  |  [Яссин Зарир](speakers/Яссин%20Зарир.md)  | [:notebook:](https://www.mera.ru/media/attachments/2019/02/18/graphql-the-better-rest_yBfz9kB.pdf)   |
 | [Подходы построения GraphQL-сервера в NodeJS](https://www.youtube.com/watch?v=bZ4Rwz7Dsgk)  |  [Павел Черторогов](speakers/Павел%20Черторогов.md)  | [:notebook:](https://nodkz.github.io/conf-talks/talks/2019.02.16-mera-nizhniy-novgorod/index.html#/5)   |
 | [GraphQL — новый Redux](https://youtu.be/lDIb5DIPcGg)  |  [Алексей Золотых](speakers/Алексей%20Золотых.md)  | [:notebook:](https://zolotyh.github.io/graphql-meetup/#/)   |
+## Я ❤ Frontend 2019 - Feb 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SQuhSpooDiNrIIPqeLY3mCp)
+| | | |
+| --- | :---: | --- |
+| [О настоящем и будущем браузера](https://www.youtube.com/watch?v=6OLVN_gprow)  |  [Константин Крамлих](speakers/Константин%20Крамлих.md)  | [:notebook:](https://yadi.sk/i/JH5CHqg91MUcmA)   |
+| [Дом света](https://www.youtube.com/watch?v=x7hjgkfk3nY)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  | [:notebook:](https://yadi.sk/i/ZoTrr3yp2tLziQ)   |
+| [Вебпак, вид сквозь монокль](https://www.youtube.com/watch?v=Tg8IVbvturM)  |  [Антон Кастрицкий](speakers/Антон%20Кастрицкий.md)  | [:notebook:](https://yadi.sk/i/9oydqY8iwcY__A)   |
+| [Разрываем монолит](https://www.youtube.com/watch?v=4hojifgc4wA)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  [Роман Бабанов](speakers/Роман%20Бабанов.md)  | [:notebook:](https://yadi.sk/i/DI_LU9KyRto3GQ)   |
+| [SVG-фильтры](https://www.youtube.com/watch?v=gZPUBDu6DOo)  |  [Юлия Бухвалова](speakers/Юлия%20Бухвалова.md)  | [:notebook:](https://yadi.sk/d/NhnpVXsEgnGcgg)   |
+| [Чиним &lt;img &#x2F;&amp;gt](https://www.youtube.com/watch?v=zyzXgjEyi2M)  |  [Дмитрий Махнёв](speakers/Дмитрий%20Махнёв.md)  | [:notebook:](https://yadi.sk/i/bsqPZPXjask4NQ)   |
+| [Делайте из слона муху](https://www.youtube.com/watch?v=JPbFcQMyzaY)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://yadi.sk/i/UtVlJJGRQQ7ltA)   |
+| [Что стоит за дизайн-системой Яндекс.Маркета?](https://www.youtube.com/watch?v=emqXam-SPU8)  |  [Артур Кенжаев](speakers/Артур%20Кенжаев.md)  | [:notebook:](https://yadi.sk/i/ftGS3nB4x9xLSA)   |
 ## Storm The Front Meetup 4 - Feb 07 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLX3qbfL4pq9BiW4fRzozJTw2zpvyFYMV9)
 | | | |
 | --- | :---: | --- |

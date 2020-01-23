@@ -29,7 +29,7 @@
 | [Когда продуктов много, а дизайнеров чуть-чуть](https://youtu.be/_qBJvY_kbyU)  |  [Vitali Novikau](../../speakers/Vitali%20Novikau.md)  |    |
 | [DI: DIY](https://youtu.be/qQnzVTOqzio)  |  [James Akwuh](../../speakers/James%20Akwuh.md)  |    |
 | [The elegance of decorated Redux](https://youtu.be/NaEiH3Z1qqI) [en] |  [Илья Сачок](../../speakers/Илья%20Сачок.md)  |    |
-| [Ресерчили-ресерчили, да не выресерчавали](https://youtu.be/hMNys-hRrmI)  |  [Dzmitry Vanitski](../../speakers/Dzmitry%20Vanitski.md)  | [:notebook:](https://www.dropbox.com/s/a4rh08n5mjwyrsm/RS_Gap_presentation.pdf?dl=0)   |
+| [Ресерчили-ресерчили, да не выресерчавали](https://youtu.be/hMNys-hRrmI)  |  [Дмитрий Ваницкий](../../speakers/Дмитрий%20Ваницкий.md)  | [:notebook:](https://www.dropbox.com/s/a4rh08n5mjwyrsm/RS_Gap_presentation.pdf?dl=0)   |
 | [How to improve test coverage up to 80% with generated unit testing approach and be calm.](https://youtu.be/V-6hEsziY8M)  |  [Aliaksandr Pasynkau](../../speakers/Aliaksandr%20Pasynkau.md)  |  [:octocat:](https://github.com/aliaksandr-master/react-master-boilerplate)  |
 | [И снова телевизоры!](https://youtu.be/g7OBtXP69oQ)  |  [Егор Малькевич](../../speakers/Егор%20Малькевич.md)  |    |
 | [Codemods и трансформация JavaScript кода](https://youtu.be/p8F-UIzuJtA)  |  [Михаил Гатилов](../../speakers/Михаил%20Гатилов.md)  | [:notebook:](https://drive.google.com/file/d/1Q6lGvwp8EXmrRXZ55IdVW3U39fo2J9ED/view,https://docs.google.com/document/d/1-vjXp3NApU0YGiClv7shzNBRxH78qnc91e72tX5DjO8/edit)[:notebook:](https://drive.google.com/file/d/1Q6lGvwp8EXmrRXZ55IdVW3U39fo2J9ED/view,https://docs.google.com/document/d/1-vjXp3NApU0YGiClv7shzNBRxH78qnc91e72tX5DjO8/edit)   |
