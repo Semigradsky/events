@@ -1,0 +1,36 @@
+name: Я ❤ Frontend 2020
+date: 2020-02-29
+videos: 
+talks:
+  - name: Глазные интерфейсы
+    speaker: Иван Бакаидов
+    video: 
+    presentation: 
+  - name: Роутер как у сына маминой подруги
+    speaker: Павел Малышев
+    video: 
+    presentation: 
+  - name: "HTML: The Good Parts"
+    speaker: Вадим Макеев
+    video: 
+    presentation: 
+  - name: Картинки как коробки. Что же там внутри?
+    speaker: Полина Гуртовая
+    video: 
+    presentation: 
+  - name: Как сделать редактор майндмэпов
+    speaker: Тим Чаптыков
+    video: 
+    presentation: 
+  - name: ApolloClient 3 — прощаемся с Redux, REST API и Relay
+    speaker: Павел Черторогов
+    video: 
+    presentation: 
+  - name: BFCache, или Туда и обратно
+    speaker: Виктор Хомяков
+    video: 
+    presentation: 
+  - name: Итак, вы ментор. Что дальше?
+    speaker: Мария Нагорных
+    video: 
+    presentation: 

@@ -1,0 +1,36 @@
+name: Я ❤ Frontend 2019
+date: 2019-02-09
+videos: https://www.youtube.com/playlist?list=PLKaafC45L_SQuhSpooDiNrIIPqeLY3mCp
+talks:
+  - name: О настоящем и будущем браузера
+    speaker: Константин Крамлих
+    video: https://www.youtube.com/watch?v=6OLVN_gprow
+    presentation: https://yadi.sk/i/JH5CHqg91MUcmA
+  - name: Дом света
+    speaker: Сергей Попов
+    video: https://www.youtube.com/watch?v=x7hjgkfk3nY
+    presentation: https://yadi.sk/i/ZoTrr3yp2tLziQ
+  - name: Вебпак, вид сквозь монокль
+    speaker: Антон Кастрицкий
+    video: https://www.youtube.com/watch?v=Tg8IVbvturM
+    presentation: https://yadi.sk/i/9oydqY8iwcY__A
+  - name: Разрываем монолит
+    speaker: Андрей Мелихов, Роман Бабанов
+    video: https://www.youtube.com/watch?v=4hojifgc4wA
+    presentation: https://yadi.sk/i/DI_LU9KyRto3GQ
+  - name: SVG-фильтры
+    speaker: Юлия Бухвалова
+    video: https://www.youtube.com/watch?v=gZPUBDu6DOo
+    presentation: https://yadi.sk/d/NhnpVXsEgnGcgg
+  - name: "Чиним <img /&gt"
+    speaker: Дмитрий Махнёв
+    video: https://www.youtube.com/watch?v=zyzXgjEyi2M
+    presentation: https://yadi.sk/i/bsqPZPXjask4NQ
+  - name: Делайте из слона муху
+    speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=JPbFcQMyzaY
+    presentation: https://yadi.sk/i/UtVlJJGRQQ7ltA
+  - name: Что стоит за дизайн-системой Яндекс.Маркета?
+    speaker: Артур Кенжаев
+    video: https://www.youtube.com/watch?v=emqXam-SPU8
+    presentation: https://yadi.sk/i/ftGS3nB4x9xLSA
