@@ -4,9 +4,9 @@ videos:
 talks:
   - name: Anatomy of Angular Forms
     speaker: Шохрух Давлатов
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=ldg7W0pmv2U
+    presentation: https://drive.google.com/file/d/17MlyuJCIEJ8y-OIqfyGrSdyk8xSlr_Eo/view
   - name: Ivy potential in Anguar 9. The enabler
     speaker: Константин Маликов
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=aNcAqun3NAo
+    presentation: https://slides.com/kostyamalikov/angular-future-with-ivy#/
