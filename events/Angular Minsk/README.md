@@ -3,6 +3,11 @@
 
 # Angular Minsk
 
+## Angular Minsk 7 - 2020 Jan 16 
+| | | |
+| --- | :---: | --- |
+| [Anatomy of Angular Forms](https://www.youtube.com/watch?v=ldg7W0pmv2U)  |  [Шохрух Давлатов](../../speakers/Шохрух%20Давлатов.md)  | [:notebook:](https://drive.google.com/file/d/17MlyuJCIEJ8y-OIqfyGrSdyk8xSlr_Eo/view)   |
+| [Ivy potential in Anguar 9. The enabler](https://www.youtube.com/watch?v=aNcAqun3NAo)  |  [Константин Маликов](../../speakers/Константин%20Маликов.md)  | [:notebook:](https://slides.com/kostyamalikov/angular-future-with-ivy#/)   |
 ## Angular Minsk 6 - 2019 Dec 16 
 | | | |
 | --- | :---: | --- |
