@@ -10,3 +10,7 @@ talks:
     speaker: Константин Маликов
     video: https://www.youtube.com/watch?v=aNcAqun3NAo
     presentation: https://slides.com/kostyamalikov/angular-future-with-ivy#/
+    code:
+      - https://github.com/malikov917/solo-component-bundle
+      - https://github.com/malikov917/angular-elements-presentation
+      - https://github.com/malikov917/ivy-lazy-loaded-component
