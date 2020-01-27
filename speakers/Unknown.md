@@ -30,12 +30,6 @@
 - 2018 Mar 17 -- [PiterJS 23 (IT Global Meetup 12)](https://youtu.be/mTHMKWxjo8E)    
 ## Полный Spectre уязвимостей
 - 2018 Jan 25 -- [MinskJS 3](https://www.youtube.com/watch?v=hGzy17Nnc38)  | [:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/)| [:notebook:](https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view)  
-## Андрей Советкин — Есть ли JavaScript без Angular?
-- 2018 May 31 -- [SPB Angular Meetup 2](https://youtu.be/pk6hu4lnzoE)    
-## Мария Кононенко — Angular, Express, WebSocket и как сделать так, чтобы это всё работало
-- 2018 May 31 -- [SPB Angular Meetup 2](https://youtu.be/41yE3Gczgso)    
-## Александр Коротаев — Коварные улыбки или Не Ангуляром единым
-- 2018 May 31 -- [SPB Angular Meetup 2](https://youtu.be/ckk_cBtq30U)  | [:notebook:](http://lekzd.ru/presentations/emoji/#)  
 ## Дискуссионная панель &quot;SPA сегодня — каким оно должно быть?&quot;
 - 2018 Apr 07 -- [SPA Meetup 4](https://youtu.be/BezEWFL5WKk)    
 ## Unknown

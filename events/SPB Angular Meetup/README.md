@@ -3,12 +3,18 @@
 
 # SPB Angular Meetup
 
+## SPB Angular Meetup 3 - 2019 Dec 04 [:movie_camera:](https://www.youtube.com/watch?v=0Fb2HjHN_J8)
+| | | |
+| --- | :---: | --- |
+| [Ivy в production?](https://www.youtube.com/watch?v=0Fb2HjHN_J8)  |  [Влад Шариков](../../speakers/Влад%20Шариков.md)  |    |
+| [Расколдовывание Angular: JIT Compiler](https://youtu.be/0Fb2HjHN_J8?t=2826)  |  [Максим Лобода](../../speakers/Максим%20Лобода.md)  |    |
+| [Зачем нужен тип &quot;true&quot; в TypeScript?](https://youtu.be/0Fb2HjHN_J8?t=5369)  |  [Андрей Старовойт](../../speakers/Андрей%20Старовойт.md)  |    |
 ## SPB Angular Meetup 2 - 2018 May 31 
 | | | |
 | --- | :---: | --- |
-| [Андрей Советкин - Есть ли JavaScript без Angular?](https://youtu.be/pk6hu4lnzoE)  |  [Unknown](../../speakers/Unknown.md)  |    |
-| [Мария Кононенко - Angular, Express, WebSocket и как сделать так, чтобы это всё работало](https://youtu.be/41yE3Gczgso)  |  [Unknown](../../speakers/Unknown.md)  |    |
-| [Александр Коротаев - Коварные улыбки или Не Ангуляром единым](https://youtu.be/ckk_cBtq30U)  |  [Unknown](../../speakers/Unknown.md)  | [:notebook:](http://lekzd.ru/presentations/emoji/#)   |
+| [Есть ли JavaScript без Angular?](https://youtu.be/pk6hu4lnzoE)  |  [Андрей Советкин](../../speakers/Андрей%20Советкин.md)  |    |
+| [Angular, Express, WebSocket и как сделать так, чтобы это всё работало](https://youtu.be/41yE3Gczgso)  |  [Мария Кононенко](../../speakers/Мария%20Кононенко.md)  |    |
+| [Коварные улыбки или Не Ангуляром единым](https://youtu.be/ckk_cBtq30U)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  | [:notebook:](http://lekzd.ru/presentations/emoji/#)   |
 ## SPB Angular Meetup - 2018 Mar 22 
 | | | |
 | --- | :---: | --- |
