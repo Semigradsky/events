@@ -20,7 +20,7 @@
 | --- | :---: | --- |
 | [Web Accessibility](https://youtu.be/mXLqpKnbaLs)  |  [Ирина Шилина](../../speakers/Ирина%20Шилина.md)  | [:notebook:](https://vk.com/doc3150028_460615461?hash=4b73130f71dfd39e05&dl=eeb58c2f4be12bc7be)   |
 | [Cerebral - декларативное управление состоянием приложения](https://youtu.be/BGF3waLMt_w)  |  [Алексей Гурьянов](../../speakers/Алексей%20Гурьянов.md)  | [:notebook:](https://vk.com/doc3150028_460615458?hash=f3d69495debfe95fa4&dl=fab3aacb21fc354b03)   |
-| [Современные Big Data и Machine Learning для чайников.](https://youtu.be/DKc2lhbXzZg)  |  [Владимир Малик](../../speakers/Владимир%20Малик.md)  | [:notebook:](https://vk.com/doc3150028_460615454?hash=ae2cc2c06905583121&dl=b90cabf4b35409b412,https://vk.com/doc3150028_460615427?hash=942bc1f31c99063fb3&dl=edfbdcc459995103f0)[:notebook:](https://vk.com/doc3150028_460615454?hash=ae2cc2c06905583121&dl=b90cabf4b35409b412,https://vk.com/doc3150028_460615427?hash=942bc1f31c99063fb3&dl=edfbdcc459995103f0)   |
+| [Современные Big Data и Machine Learning для чайников.](https://youtu.be/DKc2lhbXzZg)  |  [Владимир Малик](../../speakers/Владимир%20Малик.md)  | [:notebook:](https://vk.com/doc3150028_460615454?hash=ae2cc2c06905583121&dl=b90cabf4b35409b412)[:notebook:](https://vk.com/doc3150028_460615427?hash=942bc1f31c99063fb3&dl=edfbdcc459995103f0)   |
 ## SamaraJS 3 Backend - 2016 Feb 05 [:movie_camera:](https://www.youtube.com/playlist?list=PL2Zizi6hGuLlx7IAZR8OuLIrJWSfrYget)
 | | | |
 | --- | :---: | --- |

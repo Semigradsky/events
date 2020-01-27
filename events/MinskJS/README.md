@@ -26,7 +26,7 @@
 | --- | :---: | --- |
 | [JS Decorators — приоденьте свой код](https://www.youtube.com/watch?v=VfF7GyNItps)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/js-decorators/)   |
 | [Сага о редаксе: redux-saga](https://www.youtube.com/watch?v=R_DPcxk4ml8)  |  [Данила Дедков](../../speakers/Данила%20Дедков.md)  | [:notebook:](https://drive.google.com/file/d/1OWakTpJh6V9GkYOtJmI4VleInZqXS39V/view)   |
-| [Полный Spectre уязвимостей](https://www.youtube.com/watch?v=hGzy17Nnc38)  |  [Unknown](../../speakers/Unknown.md)  | [:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/,https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view)[:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/,https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view)   |
+| [Полный Spectre уязвимостей](https://www.youtube.com/watch?v=hGzy17Nnc38)  |  [Unknown](../../speakers/Unknown.md)  | [:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/)[:notebook:](https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view)   |
 ## MinskJS 2 - 2017 May 18 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsKLNp3J7Jg9LkWBbbx5T1Q6)
 | | | |
 | --- | :---: | --- |
