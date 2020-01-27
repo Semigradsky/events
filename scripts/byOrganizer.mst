@@ -8,6 +8,6 @@
 | | | |
 | --- | :---: | --- |
 {{#talks}}
-| {{#url}}[{{name}}]({{& url}}){{/url}}{{^url}}{{name}}{{/url}} {{#lang}}[{{lang}}]{{/lang}} | {{#speakers}} [{{speaker}}]({{& speakerLink}}) {{/speakers}} | {{#presentation}}[:notebook:]({{& presentation}}){{/presentation}} {{#code}}[:octocat:]({{& code}}){{/code}} {{#text}}[:spiral_notepad:]({{& text}}){{/text}} |
+| {{#url}}[{{name}}]({{& url}}){{/url}}{{^url}}{{name}}{{/url}} {{#lang}}[{{lang}}]{{/lang}} | {{#speakers}} [{{speaker}}]({{& speakerLink}}) {{/speakers}} | {{#presentation}}[:notebook:]({{& .}}){{/presentation}} {{#code}}[:octocat:]({{& .}}){{/code}} {{#text}}[:spiral_notepad:]({{& .}}){{/text}} |
 {{/talks}}
 {{/events}}
