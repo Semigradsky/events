@@ -1,16 +1,16 @@
 name: SPB Angular Meetup 3
 date: 2019-12-04
-videos: 
+videos: https://www.youtube.com/watch?v=0Fb2HjHN_J8
 talks:
   - name: Ivy в production?
     speaker: Влад Шариков
-    video: 
+    video: https://www.youtube.com/watch?v=0Fb2HjHN_J8
     presentation: 
   - name: "Расколдовывание Angular: JIT Compiler"
     speaker: Максим Лобода
-    video: 
+    video: https://youtu.be/0Fb2HjHN_J8?t=2826
     presentation: 
   - name: Зачем нужен тип "true" в TypeScript?
     speaker: Андрей Старовойт
-    video: 
+    video: https://youtu.be/0Fb2HjHN_J8?t=5369
     presentation: 
