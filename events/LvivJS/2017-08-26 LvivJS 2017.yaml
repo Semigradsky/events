@@ -1,0 +1,58 @@
+name: LvivJS 2017
+date: 2017-08-26
+videos: 
+talks:
+  - name: How to hack a node app?
+    speaker: Asim Hussain
+    video: https://www.youtube.com/watch?v=za9sS7QV-bw&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=2&t=0s
+    presentation: 
+  - name: lodash quickdraw
+    speaker: Александр Герасимов
+    video: https://www.youtube.com/watch?v=qCINJTBwMMs&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=2
+    presentation: 
+  - name: "TV in browsers: live cases"
+    speaker: Александр Карлович
+    video: https://www.youtube.com/watch?v=kixgmZd52xs&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=3
+    presentation: 
+  - name: Web is Secure Let's Hack It
+    speaker: Андрей Вандакуров
+    video: https://www.youtube.com/watch?v=h3NG5Mpl384&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=4
+    presentation: 
+  - name: Кодстайл и насилие
+    speaker: Антон Немцев
+    video: https://www.youtube.com/watch?v=wrZCvEXTFfQ&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=5
+    presentation: 
+  - name: Building Serverless Applications with Firebase and Google Functions
+    speaker: Артём Архипов
+    video: https://www.youtube.com/watch?v=vhKlVh9EkFg&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=6
+    presentation: 
+  - name: Evolutionary Programming on JS
+    speaker: Дмитрий Тарасенко
+    video: https://www.youtube.com/watch?v=0CIH4ul9usc&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=7
+    presentation: 
+  - name: "Serverless architecture: Functions as a Service"
+    speaker: Дмитрий Воробей
+    video: https://www.youtube.com/watch?v=G7mfnpv-BMA&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=8
+    presentation: 
+  - name: How to Track Success of Your Application
+    speaker: Игорь Фесенко
+    video: https://www.youtube.com/watch?v=4-c2v6297ak&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=9
+    presentation: 
+  - name: WebVR, The Next Frontier
+    speaker: Martin Splitt
+    lang: en
+    video: https://www.youtube.com/watch?v=_BVovrTqwPM&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=10
+    presentation: 
+  - name: "Machines Must Suffer!"
+    speaker: Александр Павлыщ
+    video: https://www.youtube.com/watch?v=sP1A4F9UvAk&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=11
+    presentation: 
+  - name: Code Transformation for Fun and Profit
+    speaker: Роман Лютиков
+    video: https://www.youtube.com/watch?v=2d3Dkjt0uBg&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=12
+    presentation: 
+  - name: Людоедский интерфейс
+    speaker: Вадим Макеев
+    lang: en
+    video: https://www.youtube.com/watch?v=9vQOy6q9XCY&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=14
+    presentation: 

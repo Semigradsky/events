@@ -1,0 +1,42 @@
+name: LvivJS 2018
+date: 2018-09-01
+videos: 
+talks:
+  - name: Channel your inner rockstar with the web audio API
+    speaker: Sam Bellen
+    lang: en
+    video: 
+    presentation: 
+  - name: Everyday AI
+    speaker: Asim Hussain
+    lang: en
+    video: 
+    presentation: 
+  - name: I got 99 problems but GraphQL ain't one
+    speaker: Sara Vieira
+    lang: en
+    video: 
+    presentation: 
+  - name: What I learned making an integration between global ecosystems
+    speaker: Игорь Фесенко
+    lang: uk
+    video: 
+    presentation: 
+  - name: How to create registration form
+    speaker: Михаил Иванкив
+    lang: uk
+    video: 
+    presentation: 
+  - name: "Fast by default: everyday algorithmic thinking for developers"
+    speaker: Владимир Агафонкин
+    video: 
+    presentation: 
+  - name: Bring 'life' to WebAssembly with Genetic Algorithms and C++
+    speaker: Сергей Дубовик
+    video: 
+    presentation: 
+  - name: The Good Project
+    speaker: Алексей Плетнёв
+    lang: uk
+    video: 
+    presentation: 
