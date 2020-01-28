@@ -3,6 +3,8 @@
 
 # Sara Vieira
 
+## I got 99 problems but GraphQL ain&#39;t one
+- 2018 Sep 01 -- LvivJS 2018 [en]   
 ## GraphQL Workshop – Part I
 - 2018 Jun 30 -- [React Kyiv - GraphQL Workshop](https://youtu.be/Ql_iiJH0whM) [en]  | [:octocat:](https://github.com/SaraVieira/graphql-workshop) 
 ## GraphQL Workshop – Part II

@@ -3,6 +3,8 @@
 
 # Sam Bellen
 
+## Channel your inner rockstar with the web audio API
+- 2018 Sep 01 -- LvivJS 2018 [en]   
 ## A deep dive into the web-audio API
 - 2017 Sep 30 -- Frontend Dev Conf 2017 [en]   
 ## I didn’t know the browser could do that!
