@@ -3,6 +3,12 @@
 
 # SPB Frontend
 
+## SPB Frontend - 2019 Nov 19 [:movie_camera:](https://www.youtube.com/watch?v=wH9LmO8sWYc)
+| | | |
+| --- | :---: | --- |
+| [Еще одна история про codeStyle в еще одной большой команде](https://youtu.be/wH9LmO8sWYc?t=516)  |  [Умяр Юсупов](../../speakers/Умяр%20Юсупов.md)  | [:notebook:](https://drive.google.com/file/d/1HAEy8LDr-neWZ--FMo4-tgrs4NM6qy16/view)   |
+| [Проклятие обратной совместимости](https://youtu.be/wH9LmO8sWYc?t=2047)  |  [Валентин Семирульник](../../speakers/Валентин%20Семирульник.md)  | [:notebook:](https://drive.google.com/file/d/1IZDVY6p3bDxSeCTEfoVO9AZ5A1YmxPcO/view)   |
+| [Система типов TypeScript как машина Тьюринга](https://youtu.be/wH9LmO8sWYc?t=5205)  |  [Вячеслав Шебанов](../../speakers/Вячеслав%20Шебанов.md)  | [:notebook:](https://drive.google.com/file/d/1mzL8tSfSJfPBed9i2JyZv19AJT_ivAoS/view)   |
 ## SPB Frontend meetup - 2019 Mar 05 [:movie_camera:](https://www.youtube.com/playlist?list=PLI6q7lZ9ClB19P854XjCb6m7aj2F5SCAg)
 | | | |
 | --- | :---: | --- |
