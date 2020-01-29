@@ -1,0 +1,16 @@
+name: SPB Frontend
+date: 2020-02-06
+videos: 
+talks:
+  - name: Как я мигрировал реакт приложение на свелт
+    speaker: Вадим Царегородцев
+    video: 
+    presentation: 
+  - name: GIF умер, кто следующий?
+    speaker: Александр Коротаев
+    video: 
+    presentation: 
+  - name: Погружение в эффектор
+    speaker: Ян Лаврюшев
+    video: 
+    presentation: 
