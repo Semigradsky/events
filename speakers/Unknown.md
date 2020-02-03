@@ -13,7 +13,6 @@
 - 2016 Dec 10 -- [Krasnodar Dev Days 1](https://www.youtube.com/watch?v=d-aDhLv_mfo)    
 ## ?
 - 2020 Feb 13 -- MinskJS 7    
-- 2020 Feb 13 -- MinskJS 7    
 ## Да что такого в этом Vue.js?
 - 2018 Dec 12 -- [OdessaFrontend Meetup 9](https://youtu.be/_UUDoSbbuT0)  | [:notebook:](https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9)  
 ## Доклад-сюрприз
