@@ -1,0 +1,24 @@
+name: Svelte Russia Meetup 1
+date: 2020-02-22
+videos: 
+talks:
+  - name: State of Svelte 2019
+    speaker: Павел Малышев
+    video: 
+    presentation: 
+  - name: Migration from React to Svelte. The almost easy way
+    speaker: Вадим Царегородцев
+    video: 
+    presentation: 
+  - name: "Svelte: как перестать беспокоиться и начать на нем программировать"
+    speaker: Руслан Кучеров
+    video: 
+    presentation: 
+  - name: Component-Based Architecture
+    speaker: Денис Куриленко
+    video: 
+    presentation: 
+  - name: Sapper. Для больших и маленьких
+    speaker: Кукушин Георгий
+    video: 
+    presentation: 
