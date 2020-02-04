@@ -6,11 +6,11 @@ talks:
     speaker: Виталий Зданевич
     video: 
     presentation: 
-  - name: Инструменты решают всё
-    speaker: Илья Запруцкий
+  - name: Безопасный input. Сбор данных пластиковой карты в iframe
+    speaker: Эдуард Титов
     video: 
     presentation: 
-  - name: '?'
-    speaker: 'Unknown'
+  - name: Инструменты решают всё
+    speaker: Илья Запруцкий
     video: 
     presentation: 
