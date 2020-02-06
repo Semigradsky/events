@@ -3,18 +3,31 @@
 
 # PiterJS
 
-## PiterJS 42 - 2019 Nov 14 [:movie_camera:](https://www.youtube.com/watch?v=EoMd-8w-DfA)
+## PiterJS 44 - 2020 Jan 30 [:movie_camera:](https://www.youtube.com/watch?v=IEZmQCJFOog)
 | | | |
 | --- | :---: | --- |
-| [Логирование на JS](https://youtu.be/EoMd-8w-DfA?t=773)  |  [Кирилл Сергеев](../../speakers/Кирилл%20Сергеев.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Djs-logging.pdf)   |
-| [Документация к API — делай это понятно](https://www.youtube.com/watch?v=EoMd-8w-DfA&t=3970)  |  [Светлана Авдей](../../speakers/Светлана%20Авдей.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Dapi-documenting.pdf)   |
-| [Взаимодействие с iBeacons в React Native](https://youtu.be/EoMd-8w-DfA?t=6433)  |  [Максим Ерехинский](../../speakers/Максим%20Ерехинский.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Dibeacon-with-react-native.pdf)   |
+| [Express API — Essentials with TypeScript](https://youtu.be/IEZmQCJFOog?t=22)  |  [Павел Якупов](../../speakers/Павел%20Якупов.md)  |    |
+| [Если нужен тест, пусть он будет интеграционным](https://youtu.be/IEZmQCJFOog?t=4102)  |  [Василий Малыхин](../../speakers/Василий%20Малыхин.md)  |    |
+| [Функциональная обработка ошибок в TypeScript](https://youtu.be/IEZmQCJFOog?t=6302)  |  [Александр Шарихин](../../speakers/Александр%20Шарихин.md)  |    |
+## PiterJS 43 - 2019 Dec 17 
+| | | |
+| --- | :---: | --- |
+| Программирование — это лава!  |  [Антон Ляпцев](../../speakers/Антон%20Ляпцев.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=43/speech=programming-is-a-lava.pdf)   |
+| Архитектура. Другой взгляд  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  |    |
+| Напиши ты уже эти тесты  |  [Вадим Царегородцев](../../speakers/Вадим%20Царегородцев.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=43/speech=write-this-tests.pdf)   |
+| Разработка собственного проекта  |  [Дмитрий Пацура](../../speakers/Дмитрий%20Пацура.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=43/speech=own-project-development.pdf)   |
+## PiterJS 42 - 2019 Nov 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxgyRARkJXL6YkaqbjYW5nXg)
+| | | |
+| --- | :---: | --- |
+| [Логирование на JS](https://www.youtube.com/watch?v=HpQfpLaIK2E)  |  [Кирилл Сергеев](../../speakers/Кирилл%20Сергеев.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Djs-logging.pdf)   |
+| [Документация к API — делай это понятно](https://www.youtube.com/watch?v=v-VXIYO5Lbs)  |  [Светлана Авдей](../../speakers/Светлана%20Авдей.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Dapi-documenting.pdf)   |
+| [Взаимодействие с iBeacons в React Native](https://www.youtube.com/watch?v=5X5UOCtYB20)  |  [Максим Ерехинский](../../speakers/Максим%20Ерехинский.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup%3D42/speech%3Dibeacon-with-react-native.pdf)   |
 ## PiterJS 41 - 2019 Oct 10 [:movie_camera:](https://www.youtube.com/watch?v=J0RLSBGorMY)
 | | | |
 | --- | :---: | --- |
 | [React + SSR там, где их уже не ждали](https://youtu.be/J0RLSBGorMY?t=650)  |  [Александр Зонов](../../speakers/Александр%20Зонов.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=react-ssr-wat.pdf)   |
 | [BDD e2e тестирование](https://youtu.be/J0RLSBGorMY?t=3647)  |  [Александр Иосса](../../speakers/Александр%20Иосса.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=bdd-e2e.pdf)   |
-| Event-Driven Architecture: детали реализаций Event Loop  |  [Вадим Горбачев](../../speakers/Вадим%20Горбачев.md)  |    |
+| [Event-Driven Architecture: детали реализаций Event Loop](https://www.youtube.com/watch?v=ctKseRpZcKQ)  |  [Вадим Горбачев](../../speakers/Вадим%20Горбачев.md)  |    |
 ## PiterJS 40 - 2019 Aug 16 [:movie_camera:](https://www.youtube.com/watch?v=4giWGkd7WSQ)
 | | | |
 | --- | :---: | --- |
