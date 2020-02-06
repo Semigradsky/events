@@ -1,0 +1,28 @@
+name: Secon 2014
+date: 2014-03-14
+videos: https://www.youtube.com/playlist?list=PLxwUX4aaSLiIC0Bl6VejbZkecHc7uV2fX
+talks:
+  - name: Верстаем без боли или grunt для самых маленьких
+    speaker: Дмитрий Вислов
+    video: https://youtu.be/YD1bL9tpxKQ
+    presentation: 
+  - name: Закладываем фундамент в JavaScript приложение
+    speaker: Артём Приходько
+    video: https://youtu.be/ykqn621JZ9I
+    presentation: https://slides.com/gensakusiya/secon-layingfoundationforjsapplication
+  - name: Тренды фронтэнда. Web components.
+    speaker: Сергей Маковеев
+    video: https://youtu.be/4kVZvvqy6cc
+    presentation: http://sergeymakoveev.herokuapp.com/2014/02/frontend.web-components.presentation
+  - name: Рассылка push-уведомлений для мобильных платформ
+    speaker: Дмитрий Швеенков
+    video: https://youtu.be/wD1RPcVLUWs
+    presentation: https://www.slideshare.net/secon2014/ss-32974185
+  - name: Производительность веб-приложений
+    speaker: Сергей Цивин
+    video: https://youtu.be/xL5Da2kcV18
+    presentation: https://www.slideshare.net/secon2014/ss-32974196
+  - name: Переход от коллбеков к событиям
+    speaker: Антон Веретенников, Илья Семаков
+    video: https://youtu.be/rGoSnw6ZiKU
+    presentation: https://www.slideshare.net/khokhlova1991/ss-33370428

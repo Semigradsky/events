@@ -1,0 +1,18 @@
+name: Secon 2018
+date:
+  - 2018-03-16
+  - 2018-03-17
+videos: https://www.youtube.com/playlist?list=PLxwUX4aaSLiKblf10mMZWNTP3yPF7yUK0
+talks:
+  - name: Что посеешь, то и пожмешь. Поучительные истории про сжатие javascript
+    speaker: Алексей Золотых
+    video: https://youtu.be/kxY7n_g8z6M
+    presentation: https://drive.google.com/file/d/1wOTSAJHkswba_lUW5X63zSa0k6HtO4J9/view?usp=sharing
+  - name: "React -> React Router -> Redux -> Redux-Observable"
+    speaker: Алексей Охрименко
+    video: https://youtu.be/AWBzyCrRrok
+    presentation: https://drive.google.com/file/d/10cS2LyVSv5s3Q84W0EaYoWfSOYgwdJLp/view?usp=sharing
+  - name: Как мы отделили фронтенд от монолитного бэкенда
+    speaker: Зарема Халилова
+    video: https://youtu.be/y5unnjRLlAU
+    presentation: https://drive.google.com/file/d/1uv8T6M-UxfqrGr4iqWjPEQyRjNPfdQzo/view?usp=sharing

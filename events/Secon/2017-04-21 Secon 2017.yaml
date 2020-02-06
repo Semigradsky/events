@@ -1,0 +1,22 @@
+name: Secon 2017
+date:
+  - 2017-04-21
+  - 2017-04-22
+videos: https://www.youtube.com/playlist?list=PLxwUX4aaSLiLVKkyxX62szB6HJo_443Em
+talks:
+  - name: Нужен ли мне диплом если я хочу стать программистом?
+    speaker: Иван Немытченко
+    video: https://youtu.be/4rvx3A8aB-w
+    presentation: https://www.slideshare.net/seconru/secon2017
+  - name: Кроссплатформенные приложения с Ionic 2 и Apache Cordova
+    speaker: Слава Жарков
+    video: https://youtu.be/HVQ-dplcE7Y
+    presentation: https://www.slideshare.net/seconru/ionic-2-apache-cordova
+  - name: "Веб-компоненты: 4 года спустя"
+    speaker: Сергей Маковеев
+    video: https://www.youtube.com/watch?v=gYqFAMdF7JU
+    presentation: http://sergey.makoveev.info/2017/02/secon.webcomponents.presentation/#/
+  - name: Elm в production
+    speaker: Василий Васильков
+    video: https://youtu.be/_EmGlJKa0nk
+    presentation: https://www.slideshare.net/seconru/secon2017-elm-production

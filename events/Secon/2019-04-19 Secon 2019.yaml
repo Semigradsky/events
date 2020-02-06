@@ -1,0 +1,38 @@
+name: Secon 2019
+date:
+  - 2019-04-19
+  - 2019-04-20
+videos: https://www.youtube.com/playlist?list=PLxwUX4aaSLiJWG2XMOSJ2NlTWIG--61md
+talks:
+  - name: Эволюция javascript. От бегущей строки до алгебраических типов.
+    speaker: Максим Гребенщиков
+    video: https://youtu.be/bOY3nv1Wo8U
+    presentation: https://drive.google.com/open?id=1vehzLeRohjTpkt0UMVVn0eI_iqBUdRod
+  - name: GraphQL — новый Redux
+    speaker: Алексей Золотых
+    video: https://youtu.be/zJdNgCk4K9M
+    presentation: https://drive.google.com/open?id=1VisGYTV0bHRZhB6TuyWsjfGkz-QnwCZi
+  - name: TDD & BDD - выходим на новый уровень
+    speaker: Сергей Рожков
+    video: https://youtu.be/p-Gk_SFXDSY
+    presentation: https://drive.google.com/open?id=1-Ko5GrHv6YYIFAEjgce8WZk3ZYvu0OiZqS_53Qd1cUE
+  - name: От монолита к монорепе
+    speaker: Алексей Охрименко
+    video: https://youtu.be/D5ByaQUH4j4
+    presentation: https://drive.google.com/open?id=19e-1gNEweBW0PyJPkQ01mV4lNw5HLLev
+  - name: "React-компоненты: классы или функции?"
+    speaker: Виктор Швецов
+    video: https://youtu.be/2QbNCcbWDfI
+    presentation: https://drive.google.com/open?id=1jZfFUnt0vRQHu552n6AdBH_dM5yc-Rug
+  - name: Погружение в глубокий офлайн - веб способен на это!
+    speaker: Максим Сальников
+    video: https://youtu.be/_CDnbqVjWkk
+    presentation: https://slides.com/webmax/offline-secon/
+  - name: "WebGL 2D: простой как Web"
+    speaker: Александр Коротаев
+    video: https://youtu.be/vQLLCKaYyW4
+    presentation: https://drive.google.com/open?id=13T6MUEX37n7dnLWsySIutClP-W2GfHDJV1VSxtv8unc
+  - name: Дом света
+    speaker: Сергей Попов
+    video: https://youtu.be/kwdx2VbSk3k
+    presentation: https://drive.google.com/open?id=1jwZ0vrSE3gUOoizSLpm5Lmoz33oTHi4O

@@ -1,0 +1,20 @@
+name: Secon 2016
+date: 2016-04-22
+videos: https://www.youtube.com/playlist?list=PLxwUX4aaSLiLamFM5qSt_3FUbMt80gtow
+talks:
+  - name: Как не запутаться в веб-разработке
+    speaker: Евгений Лексунин
+    video: https://youtu.be/xFvtlTIcDA0
+    presentation: https://www.slideshare.net/seconru/secon2016-61431568
+  - name: "Javascript-фреймворки: должен остаться только один"
+    speaker: Сергей Аверин
+    video: https://youtu.be/ZNYNyD-x27g
+    presentation: https://www.slideshare.net/seconru/secon2016-javascript-65786820
+  - name: Верстка на автопилоте. Почему я не использую flexbox
+    speaker: Денис Ежков
+    video: https://youtu.be/yZfhqw754Xc
+    presentation: https://www.slideshare.net/seconru/secon2016-flexbox
+  - name: Модульное JavaScript приложение
+    speaker: Артём Приходько
+    video: https://youtu.be/zKiC462Xnqw
+    presentation: https://slides.com/gensakusiya/js

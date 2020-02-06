@@ -1,0 +1,9 @@
+name: Secon 2015
+date: 2015-04-24
+videos: https://www.youtube.com/playlist?list=PLxwUX4aaSLiJAuWUstGuB8eaCnO-w-7ko
+talks:
+  - name: Как готовить фронтэнд, чтобы от него не пахло
+    speaker: Сообщество фронтэнд-разработчиков PenzaJS
+    video: https://youtu.be/KCrSwhkN_Uc
+    link: http://2015.secon.ru/program/technology-1/124
+    presentation: 
