@@ -12,5 +12,5 @@ talks:
     presentation: https://github.com/piterjs/slides/blob/master/meetup=41/speech=bdd-e2e.pdf
   - name: "Event-Driven Architecture: детали реализаций Event Loop"
     speaker: Вадим Горбачев
-    video:
+    video: https://www.youtube.com/watch?v=ctKseRpZcKQ
     presentation:

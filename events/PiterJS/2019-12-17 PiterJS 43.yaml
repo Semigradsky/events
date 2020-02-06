@@ -5,7 +5,7 @@ talks:
   - name: Программирование — это лава!
     speaker: Антон Ляпцев
     video: 
-    presentation: 
+    presentation: https://github.com/piterjs/slides/blob/master/meetup=43/speech=programming-is-a-lava.pdf
   - name: Архитектура. Другой взгляд
     speaker: Алексей Золотых
     video: 
@@ -13,8 +13,8 @@ talks:
   - name: Напиши ты уже эти тесты
     speaker: Вадим Царегородцев
     video: 
-    presentation: 
+    presentation: https://github.com/piterjs/slides/blob/master/meetup=43/speech=write-this-tests.pdf
   - name: Разработка собственного проекта
     speaker: Дмитрий Пацура
     video: 
-    presentation: 
+    presentation: https://github.com/piterjs/slides/blob/master/meetup=43/speech=own-project-development.pdf

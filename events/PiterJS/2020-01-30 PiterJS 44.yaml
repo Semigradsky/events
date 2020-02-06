@@ -1,16 +1,16 @@
 name: PiterJS 44
 date: 2020-01-30
-videos: 
+videos: https://www.youtube.com/watch?v=IEZmQCJFOog
 talks:
   - name: Express API — Essentials with TypeScript
     speaker: Павел Якупов
-    video: 
+    video: https://youtu.be/IEZmQCJFOog?t=22
     presentation: 
   - name: Если нужен тест, пусть он будет интеграционным
     speaker: Василий Малыхин
-    video: 
+    video: https://youtu.be/IEZmQCJFOog?t=4102
     presentation: 
   - name: Функциональная обработка ошибок в TypeScript
     speaker: Александр Шарихин
-    video: 
+    video: https://youtu.be/IEZmQCJFOog?t=6302
     presentation: 
