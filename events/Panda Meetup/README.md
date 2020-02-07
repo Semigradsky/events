@@ -3,6 +3,13 @@
 
 # Panda Meetup
 
+## Panda Meetup 36 Battle - 2020 Jan 18 [:movie_camera:](https://www.youtube.com/watch?v=1pwx8LDjve0)
+| | | |
+| --- | :---: | --- |
+| [Выгорание - фейк для хипстеров](https://www.youtube.com/watch?v=1pwx8LDjve0)  |  [Сергей Будаев](../../speakers/Сергей%20Будаев.md)  [Сергей Левин](../../speakers/Сергей%20Левин.md)  [Юлия Черемохова](../../speakers/Юлия%20Черемохова.md)  [Дмитрий Топольник](../../speakers/Дмитрий%20Топольник.md)  |    |
+| [Agile - полнейшая глупость](https://www.youtube.com/watch?v=1pwx8LDjve0)  |  [Валентина Уржумова](../../speakers/Валентина%20Уржумова.md)  [Дмитрий Ивко](../../speakers/Дмитрий%20Ивко.md)  [Никита Поселянов](../../speakers/Никита%20Поселянов.md)  [Михаил Соляков](../../speakers/Михаил%20Соляков.md)  |    |
+| [Удаленка - путь в никуда](https://www.youtube.com/watch?v=1pwx8LDjve0)  |  [Михаил Леванов](../../speakers/Михаил%20Леванов.md)  [Владислав Любомский](../../speakers/Владислав%20Любомский.md)  [Алексей Медведев](../../speakers/Алексей%20Медведев.md)  [Александр Радюшин](../../speakers/Александр%20Радюшин.md)  |    |
+| [QA не нужны](https://www.youtube.com/watch?v=1pwx8LDjve0)  |  [Илья Кучмин](../../speakers/Илья%20Кучмин.md)  [Дима Власов](../../speakers/Дима%20Власов.md)  [Елена Юрченко](../../speakers/Елена%20Юрченко.md)  [Михаил Ерёмин](../../speakers/Михаил%20Ерёмин.md)  |    |
 ## Panda Meetup 31 Frontend - 2019 Nov 20 [:movie_camera:](https://www.youtube.com/playlist?list=PLpFuVynD9rDkrDAL2jg1rhay0rbzMWDjW)
 | | | |
 | --- | :---: | --- |
