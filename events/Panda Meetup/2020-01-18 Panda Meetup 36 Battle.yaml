@@ -1,0 +1,20 @@
+name: Panda Meetup 36 Battle
+date: 2020-01-18
+videos: https://www.youtube.com/watch?v=1pwx8LDjve0
+talks:
+  - name: Выгорание - фейк для хипстеров
+    speaker: Сергей Будаев, Сергей Левин, Юлия Черемохова, Дмитрий Топольник
+    video: https://www.youtube.com/watch?v=1pwx8LDjve0
+    presentation: 
+  - name: Agile - полнейшая глупость
+    speaker: Валентина Уржумова, Дмитрий Ивко, Никита Поселянов, Михаил Соляков
+    video: https://www.youtube.com/watch?v=1pwx8LDjve0
+    presentation: 
+  - name: Удаленка - путь в никуда
+    speaker: Михаил Леванов, Владислав Любомский, Алексей Медведев, Александр Радюшин
+    video: https://www.youtube.com/watch?v=1pwx8LDjve0
+    presentation: 
+  - name: QA не нужны
+    speaker: Илья Кучмин, Дима Власов, Елена Юрченко, Михаил Ерёмин
+    video: https://www.youtube.com/watch?v=1pwx8LDjve0
+    presentation: 
