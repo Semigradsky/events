@@ -1,0 +1,12 @@
+name: Angular Belarus 4
+date: 2020-02-27
+videos: 
+talks:
+  - name: Mighty Decorators in Typescript
+    speaker: Валентин Кононов
+    video: 
+    presentation: 
+  - name: Going nuts inside Ivy
+    speaker: Никита Полторацкий
+    video: 
+    presentation: 
