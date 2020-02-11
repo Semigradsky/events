@@ -1,0 +1,12 @@
+name: Angular Minsk 8
+date: 2020-02-18
+videos: 
+talks:
+  - name: Runtime Type Safety in Typescript
+    speaker: Валентин Кононов
+    video: 
+    presentation: 
+  - name: Dependency injection in Angular
+    speaker: Илья Рябчинский
+    video: 
+    presentation: 
