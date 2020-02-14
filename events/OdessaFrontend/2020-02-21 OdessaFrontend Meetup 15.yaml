@@ -1,0 +1,20 @@
+name: OdessaFrontend Meetup 15
+date: 2020-02-21
+videos: 
+talks:
+  - name: Пощупать 3д в браузере
+    speaker: Константин Плаксивый
+    video: 
+    presentation: 
+  - name: "А/Б тестирование: Что? Как? Зачем?"
+    speaker: Сергей Полющенков
+    video: 
+    presentation: 
+  - name: "DRY’им Vuex"
+    speaker: Михаил Фарапонов
+    video: 
+    presentation: 
+  - name: Викторина
+    speaker: Николай Птущук
+    video: 
+    presentation: 
