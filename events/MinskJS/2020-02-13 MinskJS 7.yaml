@@ -1,16 +1,16 @@
 name: MinskJS 7
 date: 2020-02-13
-videos: 
+videos: https://www.youtube.com/watch?v=OkYy139PKiU
 talks:
   - name: Про браузерные расширения
     speaker: Виталий Зданевич
-    video: 
+    video: https://www.youtube.com/watch?v=OkYy139PKiU
     presentation: 
   - name: Безопасный input. Сбор данных пластиковой карты в iframe
     speaker: Эдуард Титов
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=OkYy139PKiU
+    presentation: http://ed.titov.im/minskjs-feb-2020/
   - name: Инструменты решают всё
     speaker: Илья Запруцкий
-    video: 
+    video: https://www.youtube.com/watch?v=OkYy139PKiU
     presentation: 
