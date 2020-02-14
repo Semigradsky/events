@@ -3,6 +3,12 @@
 
 # MinskJS
 
+## MinskJS 7 - 2020 Feb 13 [:movie_camera:](https://www.youtube.com/watch?v=OkYy139PKiU)
+| | | |
+| --- | :---: | --- |
+| [Про браузерные расширения](https://www.youtube.com/watch?v=OkYy139PKiU)  |  [Виталий Зданевич](../../speakers/Виталий%20Зданевич.md)  |    |
+| [Безопасный input. Сбор данных пластиковой карты в iframe](https://www.youtube.com/watch?v=OkYy139PKiU)  |  [Эдуард Титов](../../speakers/Эдуард%20Титов.md)  | [:notebook:](http://ed.titov.im/minskjs-feb-2020/)   |
+| [Инструменты решают всё](https://www.youtube.com/watch?v=OkYy139PKiU)  |  [Илья Запруцкий](../../speakers/Илья%20Запруцкий.md)  |    |
 ## MinskJS 6 - 2019 May 23 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsJMCmQclZUUGSAyTvSjuoOx)
 | | | |
 | --- | :---: | --- |
