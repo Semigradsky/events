@@ -1,0 +1,12 @@
+name: iTechMeetup Brest 6
+date: 2020-02-06
+videos: 
+talks:
+  - name: Future of React. Concurrent mode
+    speaker: Алексей Лой
+    video: https://youtu.be/tGV73xJmDzI
+    presentation: 
+  - name: "Git: назад в будущее!"
+    speaker: Николай Сасковец
+    video: https://youtu.be/5goiwYdmDnU
+    presentation: 

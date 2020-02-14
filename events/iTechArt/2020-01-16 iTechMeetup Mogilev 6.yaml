@@ -1,0 +1,12 @@
+name: iTechMeetup Mogilev 6
+date: 2020-01-16
+videos: 
+talks:
+  - name: "SEO для инженера: что нам нужно знать?"
+    speaker: Алексей Черкашин
+    video: https://youtu.be/7YncmICXpGw
+    presentation: 
+  - name: "Всё знают только…"
+    speaker: Илья Запруцкий
+    video: 
+    presentation: 

@@ -1,0 +1,12 @@
+name: iTechMeetup Vitebsk 8
+date: 2019-12-12
+videos: 
+talks:
+  - name: Как покрасить забор, если он на React
+    speaker: Виктория Тарасевич
+    video: https://youtu.be/EwpnKU7xytI
+    presentation: 
+  - name: "Всё знают только…"
+    speaker: Илья Запруцкий
+    video: https://youtu.be/S2uR8Bzhc1g
+    presentation: 
