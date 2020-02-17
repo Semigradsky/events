@@ -1,0 +1,16 @@
+name: Tech Meetup
+date: 2019-04-06
+videos: https://www.youtube.com/watch?v=zT5e3xHP-CE
+talks:
+  - name: Профессиональное пригорание
+    speaker: Сергей Рожков
+    video: https://www.youtube.com/watch?v=zT5e3xHP-CE
+    presentation: 
+  - name: Serverless on AWS
+    speaker: Иван Сорокин
+    video: https://www.youtube.com/watch?v=zT5e3xHP-CE
+    presentation: 
+  - name: Делайте из слона муху
+    speaker: Вадим Макеев
+    video: https://www.youtube.com/watch?v=zT5e3xHP-CE
+    presentation: 

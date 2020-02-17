@@ -1,0 +1,16 @@
+name: JS Meetup
+date: 2020-02-27
+videos: 
+talks:
+  - name: State of JS and why it is so important to be a Web Engineer
+    speaker: Евгений Губа
+    video: 
+    presentation: 
+  - name: Что такое PWA и как из вашего SPA сделать PWA с возможность Offline доступа
+    speaker: Олег Куценко
+    video: 
+    presentation: 
+  - name: Преимущества Angular на больших проектах
+    speaker: Кирилл Соколов
+    video: 
+    presentation: 

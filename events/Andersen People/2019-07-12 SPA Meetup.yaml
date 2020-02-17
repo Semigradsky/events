@@ -1,0 +1,16 @@
+name: SPA Meetup
+date: 2019-07-12
+videos: https://www.youtube.com/watch?v=hdc67fVJoAM
+talks:
+  - name: Angular Electron
+    speaker: Сергей Хроленок
+    video: https://www.youtube.com/watch?v=hdc67fVJoAM
+    presentation: 
+  - name: Микрофронтенд
+    speaker: Дмитрий Королев
+    video: https://www.youtube.com/watch?v=hdc67fVJoAM
+    presentation: 
+  - name: Практическое использование MobX в Angular приложении
+    speaker: Георгий Соколовский
+    video: https://www.youtube.com/watch?v=hdc67fVJoAM
+    presentation: 
