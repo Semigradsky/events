@@ -19,8 +19,6 @@
 - 2019 Mar 02 -- Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)  
 ## Angular и Typescript. Основы. Примеры.
 - 2018 Apr 26 -- Mera 20 - JS tricks &amp; Angular quick start  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx)  
-## Q&amp;A Panel – React Kyiv March
-- 2018 Mar 23 -- [React Kyiv March Meetup](https://youtu.be/Vokq8ndgd5c)    
 ## PiterJS #23 — Дебаты 1 часть
 - 2018 Mar 17 -- [PiterJS 23 (IT Global Meetup 12)](https://youtu.be/vJ-4TUKmMr8)    
 ## PiterJS #23 — Дебаты 2 часть
@@ -29,6 +27,8 @@
 - 2018 Jan 25 -- [MinskJS 3](https://www.youtube.com/watch?v=hGzy17Nnc38)  | [:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/)| [:notebook:](https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view)  
 ## Дискуссионная панель &quot;SPA сегодня — каким оно должно быть?&quot;
 - 2018 Apr 07 -- [SPA Meetup 4](https://youtu.be/BezEWFL5WKk)    
+## Q&amp;A Panel – React Kyiv March
+- 2018 Mar 23 -- [React Kyiv March Meetup](https://youtu.be/Vokq8ndgd5c)    
 ## Unknown
 - 2020 Jan 28 -- pitera11y_meetup 2    
 - 2020 Jan 28 -- pitera11y_meetup 2    
