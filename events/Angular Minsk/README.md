@@ -3,6 +3,11 @@
 
 # Angular Minsk
 
+## Angular Minsk 8 - 2020 Feb 18 
+| | | |
+| --- | :---: | --- |
+| Runtime Type Safety in Typescript  |  [Валентин Кононов](../../speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/runtime-typescript-safety) [:octocat:](https://github.com/valentinkononov/ts-runtime-checker) [:spiral_notepad:](http://www.kononov.space/runtime_type_checks_in_ts_js/) |
+| Dependency injection in Angular  |  [Илья Рябчинский](../../speakers/Илья%20Рябчинский.md)  |    |
 ## Angular Minsk 7 - 2020 Jan 16 
 | | | |
 | --- | :---: | --- |
