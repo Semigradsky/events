@@ -3,17 +3,22 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Undefined Meetup 3 - Feb 28 
+| | | |
+| --- | :---: | --- |
+| A11y: pro tips  |  [Anna Safonova](speakers/Anna%20Safonova.md)  |    |
+| Сага о библиотеке компонентов  |  [Olga Samokhvalova](speakers/Olga%20Samokhvalova.md)  |    |
 ## Angular Minsk 8 - Feb 18 
 | | | |
 | --- | :---: | --- |
 | Runtime Type Safety in Typescript  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/runtime-typescript-safety) [:octocat:](https://github.com/valentinkononov/ts-runtime-checker) [:spiral_notepad:](http://www.kononov.space/runtime_type_checks_in_ts_js/) |
 | Dependency injection in Angular  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  |    |
-## MinskJS 7 - Feb 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;OkYy139PKiU)
+## MinskJS 7 - Feb 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsL3nvC7pP69BhxdLC5JRT5B)
 | | | |
 | --- | :---: | --- |
-| [Про браузерные расширения](https://www.youtube.com/watch?v=OkYy139PKiU)  |  [Виталий Зданевич](speakers/Виталий%20Зданевич.md)  |    |
-| [Безопасный input. Сбор данных пластиковой карты в iframe](https://www.youtube.com/watch?v=OkYy139PKiU)  |  [Эдуард Титов](speakers/Эдуард%20Титов.md)  | [:notebook:](http://ed.titov.im/minskjs-feb-2020/)   |
-| [Инструменты решают всё](https://www.youtube.com/watch?v=OkYy139PKiU)  |  [Илья Запруцкий](speakers/Илья%20Запруцкий.md)  |    |
+| [Про браузерные расширения](https://www.youtube.com/watch?v=ybyAbTA7_Tw)  |  [Виталий Зданевич](speakers/Виталий%20Зданевич.md)  | [:notebook:](https://docs.google.com/presentation/d/1kAUPEl6E3y8LHoUaKE-DvO08syP9LsKywpftS2gxec4/edit)   |
+| [Безопасный input. Сбор данных пластиковой карты в iframe](https://www.youtube.com/watch?v=NaslZVdmejg)  |  [Эдуард Титов](speakers/Эдуард%20Титов.md)  | [:notebook:](http://ed.titov.im/minskjs-feb-2020/)   |
+| [Инструменты решают всё](https://www.youtube.com/watch?v=AZsXoeRs2i8)  |  [Илья Запруцкий](speakers/Илья%20Запруцкий.md)  | [:notebook:](https://drive.google.com/file/d/17AayZJjt8ehDWabd6wiOnDh7NEWjJ86t/view)   |
 ## iTechMeetup Brest 6 - Feb 06 
 | | | |
 | --- | :---: | --- |
@@ -25,6 +30,13 @@
 | [Express API — Essentials with TypeScript](https://youtu.be/IEZmQCJFOog?t=22)  |  [Павел Якупов](speakers/Павел%20Якупов.md)  |    |
 | [Если нужен тест, пусть он будет интеграционным](https://youtu.be/IEZmQCJFOog?t=4102)  |  [Василий Малыхин](speakers/Василий%20Малыхин.md)  |    |
 | [Функциональная обработка ошибок в TypeScript](https://youtu.be/IEZmQCJFOog?t=6302)  |  [Александр Шарихин](speakers/Александр%20Шарихин.md)  |    |
+## MoscowJS 47 - Jan 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL95OM-7UObpEoTxbhvG6Udnkw-xM4Ay5u)
+| | | |
+| --- | :---: | --- |
+| [Как писать код с уважением](https://www.youtube.com/watch?v=R4-uveKppV8)  |  [Владимир Лусс](speakers/Владимир%20Лусс.md)  |    |
+| [Как разработчику находить максимум багов за минимум времени](https://www.youtube.com/watch?v=L2Wi6wEEL4A)  |  [Николай Москаленко](speakers/Николай%20Москаленко.md)  |    |
+| [В погоне за перформансом vol.2](https://www.youtube.com/watch?v=Q9IKXAkDvXo)  |  [Даниил Крохмаль](speakers/Даниил%20Крохмаль.md)  |    |
+| [Путь к разработке расширяемых интерфейсов](https://www.youtube.com/watch?v=omeYq2BGYTU)  |  [Ярослав Сергиевский](speakers/Ярослав%20Сергиевский.md)  |    |
 ## Panda Meetup 36 Battle - Jan 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;1pwx8LDjve0)
 | | | |
 | --- | :---: | --- |

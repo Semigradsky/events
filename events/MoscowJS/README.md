@@ -3,6 +3,13 @@
 
 # MoscowJS
 
+## MoscowJS 47 - 2020 Jan 30 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpEoTxbhvG6Udnkw-xM4Ay5u)
+| | | |
+| --- | :---: | --- |
+| [Как писать код с уважением](https://www.youtube.com/watch?v=R4-uveKppV8)  |  [Владимир Лусс](../../speakers/Владимир%20Лусс.md)  |    |
+| [Как разработчику находить максимум багов за минимум времени](https://www.youtube.com/watch?v=L2Wi6wEEL4A)  |  [Николай Москаленко](../../speakers/Николай%20Москаленко.md)  |    |
+| [В погоне за перформансом vol.2](https://www.youtube.com/watch?v=Q9IKXAkDvXo)  |  [Даниил Крохмаль](../../speakers/Даниил%20Крохмаль.md)  |    |
+| [Путь к разработке расширяемых интерфейсов](https://www.youtube.com/watch?v=omeYq2BGYTU)  |  [Ярослав Сергиевский](../../speakers/Ярослав%20Сергиевский.md)  |    |
 ## MoscowJS 46 - 2019 Dec 05 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpGXVZWXNjhj0RghE2GBp4BY)
 | | | |
 | --- | :---: | --- |
