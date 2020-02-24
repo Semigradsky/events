@@ -1,20 +1,20 @@
 name: MoscowJS 47
 date: 2020-01-30
-videos: 
+videos: https://www.youtube.com/playlist?list=PL95OM-7UObpEoTxbhvG6Udnkw-xM4Ay5u
 talks:
   - name: Как писать код с уважением
     speaker: Владимир Лусс
-    video: 
+    video: https://www.youtube.com/watch?v=R4-uveKppV8
     presentation: 
   - name: Как разработчику находить максимум багов за минимум времени
     speaker: Николай Москаленко
-    video: 
+    video: https://www.youtube.com/watch?v=L2Wi6wEEL4A
     presentation: 
   - name: В погоне за перформансом vol.2
     speaker: Даниил Крохмаль
-    video: 
+    video: https://www.youtube.com/watch?v=Q9IKXAkDvXo
     presentation: 
   - name: Путь к разработке расширяемых интерфейсов
     speaker: Ярослав Сергиевский
-    video: 
+    video: https://www.youtube.com/watch?v=omeYq2BGYTU
     presentation: 

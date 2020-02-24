@@ -2,15 +2,15 @@ name: MoscowJS 48
 date: 2020-02-27
 videos: 
 talks:
-  - name: '?'
-    speaker: '?'
+  - name: Как разрабатывать проект, который все ненавидят
+    speaker: Алексей Попков
+    video: 
+    presentation: 
+  - name: Использование кастомных материалов в three.js
+    speaker: Леонид Винниченко
     video: 
     presentation: 
   - name: Как мы делали глубокий оффлайн
     speaker: Владислав Тарасов
-    video: 
-    presentation: 
-  - name: Как разрабатывать сервис, который все ненавидят
-    speaker: Алексей Попков
     video: 
     presentation: 
