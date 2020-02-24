@@ -1,0 +1,14 @@
+name: Undefined Meetup 2
+date: 2019-12-05
+videos: https://www.youtube.com/watch?v=XcbnioSUI3k
+talks:
+  - name: Хорошее PWA приложение
+    speaker: Danil Rostov
+    video: https://www.youtube.com/watch?v=XcbnioSUI3k
+    link: https://community-z.com/events/undefined-meetup-2/talks/1780
+    presentation: 
+  - name: Impostor syndrome или мой друг - самозванец
+    speaker: Aleksei Maratkanov
+    video: https://www.youtube.com/watch?v=XcbnioSUI3k
+    link: https://community-z.com/events/undefined-meetup-2/talks/1787
+    presentation: 
