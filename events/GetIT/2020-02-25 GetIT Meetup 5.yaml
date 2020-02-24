@@ -1,0 +1,16 @@
+name: GetIT Meetup 5
+date: 2020-02-25
+videos: 
+talks:
+  - name: Как монорепозитории помогают большим проектам
+    speaker: Надир Жумабаев
+    video: 
+    presentation: 
+  - name: Как я хотел улучшить Redux и случайно написал MobX
+    speaker: Трдат Мкртчян
+    video: 
+    presentation: 
+  - name: Развитие Front-end разработчика в 2020 году
+    speaker: Святослав Задорожный
+    video: 
+    presentation: 

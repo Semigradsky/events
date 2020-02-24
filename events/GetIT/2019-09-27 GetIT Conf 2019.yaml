@@ -1,0 +1,52 @@
+name: GetIT Conf 2019
+date: 2019-09-27
+videos: https://www.youtube.com/playlist?list=PLZUhE8rvY44vnNm7H47rC3k2RQ7s6uUeZ
+talks:
+  - name: Эффективные IT-решения в условиях девелопмента
+    speaker: Павел Гуштюк
+    video: 
+    presentation: 
+  - name: Кибернетически улучшенные Web-приложения
+    speaker: Александр Зинченко
+    video: https://www.youtube.com/watch?v=HCfRoSjqMpw
+    presentation: 
+  - name: Сайт тормозит. Что делать?
+    speaker: Никита Мостовой
+    video: https://www.youtube.com/watch?v=bZfULA8PPgE
+    presentation: 
+  - name: Место стейта в будущем vue.js
+    speaker: Игорь Шек
+    video: https://www.youtube.com/watch?v=uzVkSWVPJlU
+    presentation: 
+  - name: In-memory архитектура для веб-сервисов - технология и принцип
+    speaker: Владимир Плигин
+    video: https://www.youtube.com/watch?v=NRMFcnROTA0
+    presentation: 
+  - name: "Современный Data science: ожидания vs реальность."
+    speaker: Сергей Лавриков
+    video: https://www.youtube.com/watch?v=dvQSz5Ic9Q0
+    presentation: 
+  - name: Культура postmortems или как мы учимся на (своих) факапах
+    speaker: Александр Поломодов
+    video: https://www.youtube.com/watch?v=aCzJaVpQ7cM
+    presentation: 
+  - name: Зачем эти софт скиллы придумали?
+    speaker: Александра Куликова
+    video: https://www.youtube.com/watch?v=nX7TGi2av00
+    presentation: 
+  - name: Как выстроить процессы в команде по разработке микросервисов и не сойти с ума?
+    speaker: Всеволод Шмыров
+    video: https://www.youtube.com/watch?v=l-HzHL7BYlM
+    presentation: 
+  - name: Какое российское вино пить, или как запилить хорошую статью в технический блог
+    speaker: Антон Поляков
+    video: https://www.youtube.com/watch?v=mCTT85KKvxw
+    presentation: 
+  - name: Как перестать кодить и начать выступать
+    speaker: Максим Бабич
+    video: https://www.youtube.com/watch?v=aquIpsMvhGo
+    presentation: 
+  - name: Как повысить свою стоимость на рынке труда?
+    speaker: Юлия Спиридонова
+    video: https://www.youtube.com/watch?v=nY0HoPVC9Xc
+    presentation: 

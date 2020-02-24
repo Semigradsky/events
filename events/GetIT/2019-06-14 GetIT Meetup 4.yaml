@@ -1,0 +1,16 @@
+name: GetIT Meetup 4
+date: 2019-06-14
+videos: 
+talks:
+  - name: "Как не писать код самому: делегируем наши проблемы AST"
+    speaker: Никита Сидоров
+    video: https://www.youtube.com/watch?v=W_e6kiI05ds
+    presentation: 
+  - name: Hit Points вашего сервиса
+    speaker: Никита Мостовой
+    video: https://www.youtube.com/watch?v=b6-PEkfRz4w
+    presentation: 
+  - name: "Redux-Saga: как начать и все не испортить"
+    speaker: Трдат Мкртчян
+    video: https://www.youtube.com/watch?v=w8Ndr4R-0zA
+    presentation: 
