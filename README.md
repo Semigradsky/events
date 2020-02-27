@@ -13,6 +13,10 @@
 | --- | :---: | --- |
 | Runtime Type Safety in Typescript  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/runtime-typescript-safety) [:octocat:](https://github.com/valentinkononov/ts-runtime-checker) [:spiral_notepad:](http://www.kononov.space/runtime_type_checks_in_ts_js/) |
 | Dependency injection in Angular  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  |    |
+## it-knot - Feb 13 
+| | | |
+| --- | :---: | --- |
+| [HTML: The Good Parts](https://www.youtube.com/watch?v=tVcdeFW6CYk)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
 ## MinskJS 7 - Feb 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsL3nvC7pP69BhxdLC5JRT5B)
 | | | |
 | --- | :---: | --- |

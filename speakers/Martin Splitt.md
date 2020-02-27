@@ -8,7 +8,7 @@
 ## Technical SEO 101 for web developers
 - 2019 May 24-25 -- [HolyJS 2019 Piter](https://youtu.be/XF08jiOKaiQ) [en]   
 ## WebVR, The Next Frontier
-- 2017 Aug 26 -- [LvivJS 2017](https://www.youtube.com/watch?v=_BVovrTqwPM&list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG&index=10) [en]   
+- 2017 Aug 26 -- [LvivJS 2017](https://www.youtube.com/watch?v=_BVovrTqwPM) [en]   
 ## WARPSPEED: High performance tricks: Web Workers, GPU computing and Web Assembly
 - 2017 Feb 18-19 -- [RS Conf 2017](https://www.youtube.com/watch?v=1_lX28QWCdg) [en]   
 ## Making PWAs with Polymer [WORKSHOP]
