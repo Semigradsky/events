@@ -5,8 +5,8 @@ talks:
   - name: Mighty Decorators in Typescript
     speaker: Валентин Кононов
     video: 
-    presentation: 
+    presentation: https://slides.com/valentinkononov/typescript-decorators#/
   - name: Going nuts inside Ivy
     speaker: Никита Полторацкий
     video: 
-    presentation: 
+    presentation: https://docs.google.com/presentation/d/1MZlfS1xXq3dp_Y4ata4o0TvOThnQtGZVtTosryvnRQA/edit
