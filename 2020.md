@@ -8,6 +8,11 @@
 | --- | :---: | --- |
 | A11y: pro tips  |  [Anna Safonova](speakers/Anna%20Safonova.md)  |    |
 | Сага о библиотеке компонентов  |  [Olga Samokhvalova](speakers/Olga%20Samokhvalova.md)  |    |
+## Angular Belarus 4 - Feb 27 
+| | | |
+| --- | :---: | --- |
+| Mighty Decorators in Typescript  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/typescript-decorators#/)   |
+| Going nuts inside Ivy  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://docs.google.com/presentation/d/1MZlfS1xXq3dp_Y4ata4o0TvOThnQtGZVtTosryvnRQA/edit)   |
 ## Angular Minsk 8 - Feb 18 
 | | | |
 | --- | :---: | --- |
