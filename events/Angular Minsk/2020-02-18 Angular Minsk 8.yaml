@@ -4,11 +4,11 @@ videos:
 talks:
   - name: Runtime Type Safety in Typescript
     speaker: Валентин Кононов
-    video: 
+    video: https://www.youtube.com/watch?v=_oWpNN2lkqI
     presentation: https://slides.com/valentinkononov/runtime-typescript-safety
     code: https://github.com/valentinkononov/ts-runtime-checker
     text: http://www.kononov.space/runtime_type_checks_in_ts_js/
   - name: Dependency injection in Angular
     speaker: Илья Рябчинский
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=mQwctgBjLhs 
+    presentation: https://slides.com/ilyaryabchinski/deck
