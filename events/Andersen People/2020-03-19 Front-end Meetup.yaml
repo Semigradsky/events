@@ -1,0 +1,16 @@
+name: Front-end Meetup
+date: 2020-03-19
+videos: 
+talks:
+  - name: Безопасность в веб
+    speaker: Мария Сампир
+    video: 
+    presentation: 
+  - name: Что такое PWA и как внедрить прямо сейчас
+    speaker: Владислав Фай
+    video: 
+    presentation: 
+  - name: Волшебная таблетка Formik
+    speaker: Кристина Ландвитович
+    video: 
+    presentation: 
