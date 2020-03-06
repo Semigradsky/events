@@ -1,16 +1,17 @@
 name: moscowcss 17
 date: 2020-02-06
-videos: 
+videos: https://www.youtube.com/playlist?list=PLAf_MJ7SOshEHtFSM5rIFQ6AvXHus4dAc
 talks:
   - name: Как понять дизайнера и больше погрузиться в продукт?
     speaker: Ксения Майорова
-    video: 
+    video: https://www.youtube.com/watch?v=dif07leiGI4
     presentation: 
   - name: Особенности стилизации веб-компонентов, построенных с помощью Shadow DOM
     speaker: Артём Гусев
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=XgciQKPyMqU
+    presentation: https://drive.google.com/file/d/13t2KtVJvc2zFlDsohNrXQ_zQ1dXdrm4L/view
   - name: Custom property можем использовать уже сегодня?
     speaker: Мария Нагорных
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=rBrsm4_Dk0Y
+    presentation: https://drive.google.com/file/d/1utbaSJxJMkw1uK6y09Jrqbzf1-BTgQr-/view
+    code: https://github.com/Manyaka/css_custom_properties
