@@ -1,0 +1,20 @@
+name: Tver.io JavaScript Meetup
+date: 2020-03-19
+videos: 
+talks:
+  - name: Переизобретая асинхроность
+    speaker: Дмитрий Пацура
+    video: 
+    presentation: 
+  - name: "React Reconciler: как написать собственный рендерер"
+    speaker: Ярослав Лосев
+    video: 
+    presentation: 
+  - name: Wasm 101
+    speaker: Полина Гуртовая
+    video: 
+    presentation: 
+  - name: ML для фронтендеров
+    speaker: Максим Северухин
+    video: 
+    presentation: 
