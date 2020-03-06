@@ -3,6 +3,12 @@
 
 # moscowcss
 
+## moscowcss 17 - 2020 Feb 06 [:movie_camera:](https://www.youtube.com/playlist?list=PLAf_MJ7SOshEHtFSM5rIFQ6AvXHus4dAc)
+| | | |
+| --- | :---: | --- |
+| [Как понять дизайнера и больше погрузиться в продукт?](https://www.youtube.com/watch?v=dif07leiGI4)  |  [Ксения Майорова](../../speakers/Ксения%20Майорова.md)  |    |
+| [Особенности стилизации веб-компонентов, построенных с помощью Shadow DOM](https://www.youtube.com/watch?v=XgciQKPyMqU)  |  [Артём Гусев](../../speakers/Артём%20Гусев.md)  | [:notebook:](https://drive.google.com/file/d/13t2KtVJvc2zFlDsohNrXQ_zQ1dXdrm4L/view)   |
+| [Custom property можем использовать уже сегодня?](https://www.youtube.com/watch?v=rBrsm4_Dk0Y)  |  [Мария Нагорных](../../speakers/Мария%20Нагорных.md)  | [:notebook:](https://drive.google.com/file/d/1utbaSJxJMkw1uK6y09Jrqbzf1-BTgQr-/view) [:octocat:](https://github.com/Manyaka/css_custom_properties)  |
 ## moscowcss 16 - 2019 Dec 03 [:movie_camera:](https://www.youtube.com/playlist?list=PLAf_MJ7SOshFwQk3agupqfCAfSixX2fQU)
 | | | |
 | --- | :---: | --- |

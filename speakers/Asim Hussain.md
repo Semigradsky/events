@@ -3,8 +3,6 @@
 
 # Asim Hussain
 
-## Everyday AI
-- 2018 Sep 01 -- LvivJS 2018 [en]   
 ## Security
 - 2017 Oct 28-29 -- [KharkivJS 8 - 2017](https://www.youtube.com/watch?v=A3MPD_zl_Ms) [en]   
 ## How to hack a node app?
@@ -14,3 +12,5 @@
 - 2018 Jul 06-08 -- [OdessaJS 2018](https://youtu.be/z2WkmCeXdOo) [en]   
 ## Save the world, one line at a time
 - 2019 Jul 19-21 -- OdessaJS 2019 [en]   
+## Everyday AI
+- 2018 Sep 01 -- LvivJS 2018 [en]   

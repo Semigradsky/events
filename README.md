@@ -28,6 +28,12 @@
 | [Про браузерные расширения](https://www.youtube.com/watch?v=ybyAbTA7_Tw)  |  [Виталий Зданевич](speakers/Виталий%20Зданевич.md)  | [:notebook:](https://docs.google.com/presentation/d/1kAUPEl6E3y8LHoUaKE-DvO08syP9LsKywpftS2gxec4/edit)   |
 | [Безопасный input. Сбор данных пластиковой карты в iframe](https://www.youtube.com/watch?v=NaslZVdmejg)  |  [Эдуард Титов](speakers/Эдуард%20Титов.md)  | [:notebook:](http://ed.titov.im/minskjs-feb-2020/)   |
 | [Инструменты решают всё](https://www.youtube.com/watch?v=AZsXoeRs2i8)  |  [Илья Запруцкий](speakers/Илья%20Запруцкий.md)  | [:notebook:](https://drive.google.com/file/d/17AayZJjt8ehDWabd6wiOnDh7NEWjJ86t/view)   |
+## moscowcss 17 - Feb 06 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLAf_MJ7SOshEHtFSM5rIFQ6AvXHus4dAc)
+| | | |
+| --- | :---: | --- |
+| [Как понять дизайнера и больше погрузиться в продукт?](https://www.youtube.com/watch?v=dif07leiGI4)  |  [Ксения Майорова](speakers/Ксения%20Майорова.md)  |    |
+| [Особенности стилизации веб-компонентов, построенных с помощью Shadow DOM](https://www.youtube.com/watch?v=XgciQKPyMqU)  |  [Артём Гусев](speakers/Артём%20Гусев.md)  | [:notebook:](https://drive.google.com/file/d/13t2KtVJvc2zFlDsohNrXQ_zQ1dXdrm4L/view)   |
+| [Custom property можем использовать уже сегодня?](https://www.youtube.com/watch?v=rBrsm4_Dk0Y)  |  [Мария Нагорных](speakers/Мария%20Нагорных.md)  | [:notebook:](https://drive.google.com/file/d/1utbaSJxJMkw1uK6y09Jrqbzf1-BTgQr-/view) [:octocat:](https://github.com/Manyaka/css_custom_properties)  |
 ## iTechMeetup Brest 6 - Feb 06 
 | | | |
 | --- | :---: | --- |

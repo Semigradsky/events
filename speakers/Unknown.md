@@ -5,6 +5,8 @@
 
 ## Адаптивный веб-дизайн — как сделать интернет лучше
 - 2012 Oct 06-07 -- 404fest 2012    
+## Quiz &#39;вопросы по Angular на собеседовании&#39;
+- 2020 Mar 10 -- Angular Minsk 9    
 ## Angular Universal Advanced
 - 2019 Nov 28 -- Angular Moscow 16    
 ## QA session

@@ -3,7 +3,13 @@
 
 # Tver.io
 
-## Tver.io Girl Power Meetup - 2019 Jun 13 
+## Tver.io Frontend Meetup - 2019 Sep 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLiOxDlmyqigyWmvMY8e7GbCIB1nwptzHe)
+| | | |
+| --- | :---: | --- |
+| Про браузеры  |  [Антон Кастрицкий](../../speakers/Антон%20Кастрицкий.md)  |    |
+| [GraphQL. Понимаем, Объясняем, Внедряем.](https://www.youtube.com/watch?v=wko-uoILG_w)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://speakerdeck.com/hellsquirrel/graphql-ponimaiem-obiasniaiem-vniedriaiem)   |
+| [Жизнь до Runtime](https://www.youtube.com/watch?v=_4weYbMzr-0)  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  |    |
+## Tver.io Girl Power Meetup - 2019 Jun 13 [:movie_camera:](https://www.youtube.com/playlist?list=PLiOxDlmyqigxHie0pAnF5lMrOQhxiHrnG)
 | | | |
 | --- | :---: | --- |
 | [CSS наносит ответный удар](https://www.youtube.com/watch?v=Hv-4n5oMq8M)  |  [Людмила Мжачих](../../speakers/Людмила%20Мжачих.md)  |    |
