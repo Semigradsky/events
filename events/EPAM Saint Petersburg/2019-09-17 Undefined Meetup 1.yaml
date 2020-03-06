@@ -1,0 +1,13 @@
+name: Undefined Meetup 1
+date: 2019-09-17
+videos: 
+talks:
+  - name: Формат данных Tree
+    speaker: Дмитрий Карловский
+    video: https://www.youtube.com/watch?v=drAUwk9CBzU
+    presentation: 
+  - name: World of Enterprise React. Headless CMS
+    speaker: Семён Целищев
+    video: https://www.youtube.com/watch?v=n_jWhsUlxxg
+    link: https://events.epam.com/events/undefined-meetup-1/talks/11270
+    presentation: 
