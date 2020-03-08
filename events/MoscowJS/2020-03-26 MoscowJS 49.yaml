@@ -1,0 +1,13 @@
+name: MoscowJS 49
+date: 2020-03-26
+videos: 
+talks:
+  - name: Babel & DX
+    speaker: Павел Ремизов
+    video: 
+  - name: "Concurrent Mode: монтируй, конкурируй, обновляй"
+    speaker: Григорий Бизюкин
+    video: 
+  - name: Work-life imbalance
+    speaker: Гордей Левченко
+    video: 

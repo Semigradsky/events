@@ -1,16 +1,16 @@
 name: MoscowJS 48
 date: 2020-02-27
-videos: 
+videos: https://www.youtube.com/playlist?list=PL95OM-7UObpGiyAyygO8xBlvi7GKWHSku
 talks:
   - name: Как разрабатывать проект, который все ненавидят
     speaker: Алексей Попков
-    video: 
+    video: https://www.youtube.com/watch?v=Lh9axOjbY7Q
     presentation: 
   - name: Использование кастомных материалов в three.js
     speaker: Леонид Винниченко
-    video: 
+    video: https://www.youtube.com/watch?v=WDX_aba6FZo
     presentation: 
   - name: Как мы делали глубокий оффлайн
     speaker: Владислав Тарасов
-    video: 
+    video: https://www.youtube.com/watch?v=Sv-HJag1ri8
     presentation: 
