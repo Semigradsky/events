@@ -1,0 +1,35 @@
+name: SaratovJS
+date:
+  - 2019-06-01
+  - 2019-06-02
+videos: 
+talks:
+  - name: А ты точно frontend?
+    speaker: Экгарт Викентий
+    video: 
+    presentation: https://slides.com/vikegart/deck-6/
+  - name: True story - как совмещать тренинг-центр и учебу в ВУЗе
+    speaker: Дмитрий Гвоздев, Сергей Коваленко
+    video: 
+    presentation: 
+  - name: Workshop с Викентием - как сделать квест игру в формате чат-бота
+    speaker: Экгарт Викентий
+    video: 
+    presentation: 
+    code: https://github.com/vikegart/dent
+  - name: ES2019. Сбылись ли мечты в новом году?
+    speaker: Сергей Коваленко
+    video: 
+    presentation: https://vk.com/doc28685522_505159295?hash=6104a978ce82b67b1b&dl=0dd3e8bd26d41c1322
+  - name: Покоряем вершины с помощью React Hooks
+    speaker: Виталий Антонов
+    video: 
+    presentation: https://vk.com/doc28685522_505158938?hash=a3211365dd5b351c7d&dl=847c6007304d9cfadf
+  - name: Реактивное программирование с RxJS
+    speaker: Михаил Лежнев
+    video: 
+    presentation: https://vk.com/doc28685522_505158649?hash=4d2f3419066c9abd37&dl=bced87b2dfdcc6c4d8
+  - name: Развитие специалиста. Заблуждения и акселераторы
+    speaker: Михаил Сёмичев
+    video: 
+    presentation: https://vk.com/doc28685522_505158560?hash=ee2ce15f1af42a5b7e&dl=6964c2a7d0c1912da6

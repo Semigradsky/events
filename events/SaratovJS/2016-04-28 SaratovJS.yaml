@@ -1,0 +1,15 @@
+name: SaratovJS
+date: 2016-04-28
+videos: 
+talks:
+  - name: Архитектура и процесс c сборки с использованием Gulp, крупного AngularJS проекта
+    speaker: Михаил Сёмичев
+    video:
+      - https://www.youtube.com/watch?v=GsznJallyPk
+      - https://www.youtube.com/watch?v=A3OzUOZZuJQ
+      - https://www.youtube.com/watch?v=VZGzBietGXg
+    presentation: 
+  - name: ECMAScript 6
+    speaker: Иван Федяев
+    video: 
+    presentation: 

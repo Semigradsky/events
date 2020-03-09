@@ -1,0 +1,24 @@
+name: SaratovJS
+date: 2018-08-04
+videos: 
+talks:
+  - name: СSS in JS — право на жизнь
+    speaker: Виталий Антонов
+    video: 
+    presentation: 
+  - name: Рецепты асинхронного Javascript
+    speaker: Михаил Сёмичев
+    video: 
+    presentation: 
+  - name: Рецепты асинхронного Javascript
+    speaker: Дмитрии Иванов
+    video: 
+    presentation: 
+  - name: "MobX: путь к простоте"
+    speaker: Дмитрий Турлычкин
+    video: 
+    presentation: 
+  - name: Нелишний работник
+    speaker: Даниил Ваденеев
+    video: 
+    presentation: 

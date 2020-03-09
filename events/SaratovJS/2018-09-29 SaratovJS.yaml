@@ -1,0 +1,20 @@
+name: SaratovJS
+date: 2018-09-29
+videos: 
+talks:
+  - name: Архитектурный ад
+    speaker: Антон Ильин
+    video: 
+    presentation: 
+  - name: Semantic Web как предчувствие
+    speaker: Сергей Караулов
+    video: 
+    presentation: 
+  - name: Реактивность изнутри
+    speaker: Виталий Середнюк
+    video: 
+    presentation: 
+  - name: Тлетворное влияние загнивающего фронт-енда
+    speaker: Олег Вака
+    video: 
+    presentation: 

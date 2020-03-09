@@ -1,0 +1,14 @@
+name: SaratovJS
+date: 2015-11-26
+videos: 
+talks:
+  - name: Современная web-разработка
+    speaker: Михаил Сёмичев
+    video:
+      - https://www.youtube.com/watch?v=Rz0ilGtzoco
+      - https://www.youtube.com/watch?v=dH2GFNjSNlA
+    presentation: 
+  - name: Разработка трейдинговой системы на HTML5 и AngularJS
+    speaker: Вадим Максимов
+    video: https://www.youtube.com/watch?v=Erp6LbcEfgM
+    presentation: 

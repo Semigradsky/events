@@ -1,0 +1,16 @@
+name: SaratovJS
+date: 2018-04-12
+videos: 
+talks:
+  - name: GraphQL RESTaurant
+    speaker: Максим Коваль
+    video: 
+    presentation: 
+  - name: Обзор нововведений ES2017+
+    speaker: Виктор Цветков
+    video: 
+    presentation: 
+  - name: Чем собирать Front End в 2018 году
+    speaker: Дмитрий Жданов
+    video: 
+    presentation: 
