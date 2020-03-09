@@ -3,6 +3,12 @@
 
 # MoscowJS
 
+## MoscowJS 48 - 2020 Feb 27 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpGiyAyygO8xBlvi7GKWHSku)
+| | | |
+| --- | :---: | --- |
+| [Как разрабатывать проект, который все ненавидят](https://www.youtube.com/watch?v=Lh9axOjbY7Q)  |  [Алексей Попков](../../speakers/Алексей%20Попков.md)  |    |
+| [Использование кастомных материалов в three.js](https://www.youtube.com/watch?v=WDX_aba6FZo)  |  [Леонид Винниченко](../../speakers/Леонид%20Винниченко.md)  |    |
+| [Как мы делали глубокий оффлайн](https://www.youtube.com/watch?v=Sv-HJag1ri8)  |  [Владислав Тарасов](../../speakers/Владислав%20Тарасов.md)  |    |
 ## MoscowJS 47 - 2020 Jan 30 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpEoTxbhvG6Udnkw-xM4Ay5u)
 | | | |
 | --- | :---: | --- |

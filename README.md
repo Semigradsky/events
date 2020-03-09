@@ -8,6 +8,12 @@
 | --- | :---: | --- |
 | A11y: pro tips  |  [Anna Safonova](speakers/Anna%20Safonova.md)  |    |
 | Сага о библиотеке компонентов  |  [Olga Samokhvalova](speakers/Olga%20Samokhvalova.md)  |    |
+## MoscowJS 48 - Feb 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL95OM-7UObpGiyAyygO8xBlvi7GKWHSku)
+| | | |
+| --- | :---: | --- |
+| [Как разрабатывать проект, который все ненавидят](https://www.youtube.com/watch?v=Lh9axOjbY7Q)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
+| [Использование кастомных материалов в three.js](https://www.youtube.com/watch?v=WDX_aba6FZo)  |  [Леонид Винниченко](speakers/Леонид%20Винниченко.md)  |    |
+| [Как мы делали глубокий оффлайн](https://www.youtube.com/watch?v=Sv-HJag1ri8)  |  [Владислав Тарасов](speakers/Владислав%20Тарасов.md)  |    |
 ## Angular Belarus 4 - Feb 27 
 | | | |
 | --- | :---: | --- |
