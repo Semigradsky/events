@@ -1,0 +1,128 @@
+name: HolyJS 2017 Moscow
+date:
+  - 2017-12-10
+  - 2017-12-11
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8LOnV0s72DBt0OFBqdv9I9Y
+talks:
+  - name: The Post JavaScript Apocalypse
+    speaker: Douglas Crockford
+    lang: en
+    video: https://www.youtube.com/watch?v=Njn65eyRM0g
+    presentation: 
+  - name: Faster Angular applications
+    speaker: Minko Gechev
+    lang: en
+    video: https://www.youtube.com/watch?v=WP-d5CCuS60
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/1oYh7ZdcaQMiq0AumccsaO/a8a49b03f7aabc27a00a5ce45c9e1dfe/minko-gechev-faster-angular-applications.pdf
+  - name: "Архитектурные этюды: как не угробить архитектуру своего проекта"
+    speaker: Алексей Золотых
+    video: 
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/328nas1n9SKa8CkekcISmm/3188f125e9ae120307ec5bae560e1a23/Zolotyh.pdf
+  - name: Yarn, npm v5 или pnpm — кто круче?
+    speaker: Михаил Башуров
+    video: https://www.youtube.com/watch?v=hq-gIihAs5A
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/4GcxD9yQnY4sQ6IO8Ge06g/6163c60b2cc5ced1274345f8d6e94fb6/Michael_Bashurov_Yarn_npm_v5_or_pnpm_whats_better.pdf
+  - name: "Безопасность: уязвимости вашего приложения"
+    speaker: Алексей Богачук
+    video: https://www.youtube.com/watch?v=2gthjl2Lks4
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/28uqyOE0Wo4wooiICwS0Go/4c2d2af039ab5b564fe5feb746f336e2/Aliaksei_Bahachuk_-_Vulnerabilities.pdf
+  - name: UI-компоненты на пиксельных шейдерах, пишем ваш первый шейдер
+    speaker: Денис Радин
+    video: https://www.youtube.com/watch?v=P-OOg9z4OUg
+    presentation: 
+  - name: Real-world applications of hash functions
+    speaker: Emil Bay
+    lang: en
+    video: https://www.youtube.com/watch?v=sTkWBIUH3Eo
+    presentation: 
+  - name: "Headless browsers: что, как и почему"
+    speaker: Виталий Слободин
+    video: https://www.youtube.com/watch?v=kkP0PFeRJdQ
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/M5ZEXvLMWsk4UcuQs0gCY/30ae2e789a4a3ab5887bccdd3c989727/Slobodin_Headless_Browsers.pdf
+  - name: HyperDB — a scalable key-value store
+    speaker: Mathias Buus Madsen
+    lang: en
+    video: 
+    presentation: 
+  - name: Как победить квантовый компьютер с помощью WebAssembly?
+    speaker: Владимир Дашукевич
+    video: https://www.youtube.com/watch?v=4_lVq1-lr8g
+    presentation: http://life777.github.io/quantum/
+  - name: Поиск и устранение неисправностей Node.js-приложений под капотом
+    speaker: Николай Матвиенко
+    video: https://www.youtube.com/watch?v=_qzFJ2MPVWQ
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/2hbM69wuxeAIku0gEA0sm2/37bb6ae365df68af69c741e57df7d108/Matvienko_____Troubleshooting_Node.js_applications_under_the_hood.pdf
+  - name: Inter Windows Communication, или Как построить полноценный RPC в браузере
+    speaker: Михаил Удалов
+    video: 
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/2xgcdLIDG4WWWy0ai4ySyO/e8ddb12c228eae67c1b6c9ef267a351b/Udalov_HolyJS_v3.pdf
+  - name: Testing serverless applications
+    speaker: Slobodan Stojanovic
+    lang: en
+    video: 
+    presentation: 
+  - name: New Adventures in Responsive Web Design
+    speaker: Виталий Фридман
+    video: https://www.youtube.com/watch?v=rgHLV2fe-2I
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/1xNCNjP5xm2i4QAUeiOCuE/1ea6008676818ad1afbe8c0e281796ed/vitaly-friedman-new-adventures-in-responsive-design.pdf
+  - name: You Don’t Know Node
+    speaker: Azat Mardan
+    lang: en
+    video: 
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/eyLFJRfVAcUiYsOQGygo4/cae154ec898cf60ebf09554be4132985/Azat_Mardan__You_Don_t_Know_Node__Version_2.pdf
+  - name: TypeScript, или Зачем так сложно
+    speaker: Антон Лобов
+    video: 
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/6GXN8QUDq8i0UKqqOOEIug/680e937f96133dc75d41c3a202b63ab9/Anton_Lobov_TypeScript_why_so_complicated_upd.pdf
+  - name: Фатальный недостаток Node.js
+    speaker: Алексей Охрименко
+    video: https://www.youtube.com/watch?v=Lrs6puJ4G2Q
+    presentation: 
+  - name: "Big Bang Redesign: Smashing Magazine’s 2017 Relaunch, a Case Study"
+    speaker: Виталий Фридман
+    lang: en
+    video: https://www.youtube.com/watch?v=CQ6QqI0tV58
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/6OVnOnD0PeaqaOuEmEuyOw/8bb85a7a0fe2a728bfa2e8d6a0d3080f/smashing-redesign-big-bang-case-study.pdf
+  - name: Managing Asynchronicity with RQ
+    speaker: Douglas Crockford
+    lang: en
+    video: 
+    presentation: 
+  - name: "Игра «Герои Меча и Магии» в браузере: долго, сложно и невыносимо интересно"
+    speaker: Александр Коротаев
+    video: https://www.youtube.com/watch?v=9Ep-1GTQ2hQ
+    presentation: http://lekzd.ru/holyHeroes/
+  - name: Сколько нужно фронтендеров, чтобы написать мобильное приложение?
+    speaker: Андрей Мелихов
+    video: https://www.youtube.com/watch?v=lYnk7nxEeOk
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/1WCKJVqYeMakkUEKqwYEgu/0510ae7d09caf1e70e377e44642f8be5/Andrey_Melikhov_How_many_front-end_developers_does_it_take_to_create_a_mobile_app.pdf
+  - name: GraphQL — заключаем выгодный контракт между сервером и клиентом
+    speaker: Павел Черторогов
+    video: https://www.youtube.com/watch?v=F4vHSHzpO1g
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/5zTslHVxlY6e2wAkMQMceS/d4024a20ab5cea77a9198d5d520ef970/Pavel_Chertorogov_GraphQL_the_holy_contract-between_client_and_server_v11.pdf
+  - name: Bending time with Schedulers and RxJS 5
+    speaker: Gerard Sans
+    lang: en
+    video: https://www.youtube.com/watch?v=AL8dG1tuH40
+    presentation: 
+  - name: (--Воруем--) Добываем данные из интернета
+    speaker: Егор Малькевич
+    video: https://www.youtube.com/watch?v=Nn75sRAOlIY
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/2HZJwOFN1KcWaKE8MYcm86/5fb66d24428853dc89614bdd2fccd55d/egor-presentation-one.pdf
+  - name: "Unit-тестирование скриншотами: преодолеваем звуковой барьер"
+    speaker: Роман Дворнов
+    video: https://www.youtube.com/watch?v=ULwdj_Vr_WA
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/Eh5ZljJm48kwmU2CAQ86A/d359c0bf649f52dff71d16069f97b022/Roman_Dvornov_-_Blazing_fast_unit-testing_with_screenshots.pdf
+  - name: "Круглый стол - JS everywhere: серебряная пуля или проклятие?"
+    speaker: Андрей Мелихов, Денис Мишунов, Николай Матвиенко, Владимир Дашукевич
+    video: 
+    presentation: 
+  - name: Анимации в мире состояний
+    speaker: Алексей Тактаров
+    video: https://www.youtube.com/watch?v=Ug_dwJa07Os
+    presentation: http://molefrog.com/stateful-animations/
+  - name: "/Reg(exp){2}lained/: Demystifying Regular Expressions"
+    speaker: Lea Verou
+    lang: en
+    video: https://www.youtube.com/watch?v=M7vDtxaD7ZU
+    presentation: 
