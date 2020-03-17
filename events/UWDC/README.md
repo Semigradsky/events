@@ -23,7 +23,7 @@
 | [Flutter - мечта о быстром, удобном, кроссплатформенном фреймворке наконец исполнилась?](https://www.youtube.com/watch?v=qLHr8CB7kn4)  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  | [:notebook:](https://2018.uwdc.ru/storage/lectures/presentaions/7iQ3jDGaPzzX9hX98rmqkGMM1abXqns01tBDjxMS.pdf)   |
 | [Игра «Герои Меча и Магии» в браузере: долго, сложно и невыносимо интересно](https://www.youtube.com/watch?v=bv6MVuRbAmg)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  | [:notebook:](http://lekzd.ru/presentations/uwdc_heroes/#cover)   |
 | [Как обновить продукт за полгода, не блокируя другие команды, и при этом сохранить рассудок](https://www.youtube.com/watch?v=G4uxdypQ_xs)  |  [Олег Плотников](../../speakers/Олег%20Плотников.md)  | [:notebook:](https://2018.uwdc.ru/storage/lectures/presentaions/QirRGUywixSHH3OizKgMOOU9Co7ZakRIzdnjCRpL.pdf)   |
-| [REACT -&gt; REACT ROUTER -&gt; REDUX -&gt; REDUX-OBSERVABLE](https://www.youtube.com/watch?v=C_nCpoAiUF0)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  | [:notebook:](https://2018.uwdc.ru/storage/lectures/presentaions/2Y57zfnlKRzkFa9tYtDoBwNx5X95gHiZQCYNPPXT.pdf)   |
+| [React -&gt; React Router -&gt; Redux -&gt; Redux-Observable](https://www.youtube.com/watch?v=C_nCpoAiUF0)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  | [:notebook:](https://2018.uwdc.ru/storage/lectures/presentaions/2Y57zfnlKRzkFa9tYtDoBwNx5X95gHiZQCYNPPXT.pdf)   |
 ## UWDC 2015 - 2015 May 23 [:movie_camera:](https://www.youtube.com/playlist?list=PLVoeNl1W-7DckFCr8T1XIA5LsBTdWudr3)
 | | | |
 | --- | :---: | --- |

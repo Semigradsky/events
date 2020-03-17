@@ -3,6 +3,11 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Minsk 9 - Mar 10 
+| | | |
+| --- | :---: | --- |
+| [Type soundness in TypeScript: the missing part](https://www.youtube.com/watch?v=5j2GrY5HBoI)  |  [Артём Иванов](speakers/Артём%20Иванов.md)  | [:notebook:](https://slides.com/buggy/deck-26cbbd#/) [:octocat:](https://github.com/Buggytheclown/my-profile/tree/master/ts-type-soundness) [:spiral_notepad:](https://habr.com/ru/post/492106/) |
+| [Quiz &#39;вопросы по Angular на собеседовании&#39;](https://www.youtube.com/watch?v=jw8o8dLgFag)  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  | [:notebook:](https://docs.google.com/presentation/d/1hqqMUX6SXZ5sb96Bchdb1Q3kl9LIVwIUyCXCRh76QK4/edit)   |
 ## Undefined Meetup 3 - Feb 28 
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,11 @@
 
 # Angular Minsk
 
+## Angular Minsk 9 - 2020 Mar 10 
+| | | |
+| --- | :---: | --- |
+| [Type soundness in TypeScript: the missing part](https://www.youtube.com/watch?v=5j2GrY5HBoI)  |  [Артём Иванов](../../speakers/Артём%20Иванов.md)  | [:notebook:](https://slides.com/buggy/deck-26cbbd#/) [:octocat:](https://github.com/Buggytheclown/my-profile/tree/master/ts-type-soundness) [:spiral_notepad:](https://habr.com/ru/post/492106/) |
+| [Quiz &#39;вопросы по Angular на собеседовании&#39;](https://www.youtube.com/watch?v=jw8o8dLgFag)  |  [Илья Рябчинский](../../speakers/Илья%20Рябчинский.md)  | [:notebook:](https://docs.google.com/presentation/d/1hqqMUX6SXZ5sb96Bchdb1Q3kl9LIVwIUyCXCRh76QK4/edit)   |
 ## Angular Minsk 8 - 2020 Feb 18 
 | | | |
 | --- | :---: | --- |

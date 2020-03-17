@@ -19,8 +19,6 @@
 - 2018 Jan 25 -- [MinskJS 3](https://www.youtube.com/watch?v=hGzy17Nnc38)  | [:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/)| [:notebook:](https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view)  
 ## Адаптивный веб-дизайн — как сделать интернет лучше
 - 2012 Oct 06-07 -- 404fest 2012    
-## Quiz &#39;вопросы по Angular на собеседовании&#39;
-- 2020 Mar 10 -- Angular Minsk 9    
 ## Angular Universal Advanced
 - 2019 Nov 28 -- Angular Moscow 16    
 ## QA session
