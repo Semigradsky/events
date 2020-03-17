@@ -4,9 +4,11 @@ videos:
 talks:
   - name: "Type soundness in TypeScript: the missing part"
     speaker: Артём Иванов
-    video: 
-    presentation: 
+    text: https://habr.com/ru/post/492106/
+    video: https://www.youtube.com/watch?v=5j2GrY5HBoI
+    code: https://github.com/Buggytheclown/my-profile/tree/master/ts-type-soundness
+    presentation: https://slides.com/buggy/deck-26cbbd#/
   - name: Quiz 'вопросы по Angular на собеседовании'
-    speaker: 'Unknown'
-    video: 
-    presentation: 
+    speaker: Илья Рябчинский
+    video: https://www.youtube.com/watch?v=jw8o8dLgFag
+    presentation: https://docs.google.com/presentation/d/1hqqMUX6SXZ5sb96Bchdb1Q3kl9LIVwIUyCXCRh76QK4/edit
