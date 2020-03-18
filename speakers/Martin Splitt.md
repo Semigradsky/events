@@ -5,6 +5,8 @@
 
 ## Rendering performance inside out
 - 2017 Sep 16-17 -- [FrontTalks](https://events.yandex.ru/lib/talks/4847/) [en]   
+## Rendering performance from the ground up
+- 2017 Jun 02-03 -- [HolyJS 2017 Piter](https://www.youtube.com/watch?v=A16g16bTtjA) [en] | [:notebook:](https://assets.contentful.com/nn534z2fqr9f/TmMf1WrigKmsuAAUIO2AE/0878c78db092cc65ce59c9e139016043/Martin_Splitt_Rendering_performance_from_the_ground_up.pdf)  
 ## Technical SEO 101 for web developers
 - 2019 May 24-25 -- [HolyJS 2019 Piter](https://youtu.be/XF08jiOKaiQ) [en]   
 ## WebVR, The Next Frontier
