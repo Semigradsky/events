@@ -1,0 +1,125 @@
+name: HolyJS 2017 Piter
+date:
+  - 2017-06-02
+  - 2017-06-03
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8JDxXLMtn3EWmZWiBATL9Xu
+talks:
+  - name: Numbers
+    speaker: Douglas Crockford
+    lang: en
+    video: https://www.youtube.com/watch?v=ZMOdHCDoakY
+    presentation: https://assets.contentful.com/nn534z2fqr9f/63nhb7ENc44WckQSuEOEMK/1f7ad6130674fcacaeff03748aed7892/numbers.pdf
+  - name: "React со скоростью света: не совсем обычный серверный рендеринг"
+    speaker: Тимофей Чаптыков
+    video: 
+    presentation: https://assets.contentful.com/nn534z2fqr9f/5DpR4KB79uQM4yowEgukQu/62b6b05a66ac9e44622c3d39e11e6bb3/Timofey_Chaptykov_Fast_server_side_rendering_with_React.pdf
+  - name: 8 1/2 things about serverless (with Node.js)
+    speaker: Slobodan Stojanovic
+    lang: en
+    video: https://www.youtube.com/watch?v=-RL7OlhpqWU
+    presentation: https://downloads.contentful.com/nn534z2fqr9f/6NGdg4bq4oUa4cca4UEssK/a8eec0e17247c16b0f013257513a898a/Slobodan-Stojanovic_8-1-2-things-about-serverless.pdf
+  - name: Forgotten funky functions
+    speaker: Jakob Mattson
+    lang: en
+    video: https://www.youtube.com/watch?v=ciPh2cEGIMM
+    presentation: https://assets.contentful.com/nn534z2fqr9f/1uUK5azGpGckw42QqQwyYA/b84a6e5cfbe1de3be65676533a30fda2/Jakob_Mattsson_Forgotten_Funky_Functions.pdf
+  - name: Цена пропущенного фрейма
+    speaker: Дмитрий Шуранов
+    video: https://www.youtube.com/watch?v=E9fnfn031wk
+    presentation: https://github.com/dvshur/animation-talk
+  - name: "«Строгий» JavaScript: типы против реальности"
+    speaker: Илья Климов
+    video: https://www.youtube.com/watch?v=etKOc80-cw0
+    presentation: 
+  - name: Rendering performance from the ground up
+    speaker: Martin Splitt
+    lang: en
+    video: https://www.youtube.com/watch?v=A16g16bTtjA
+    presentation: https://assets.contentful.com/nn534z2fqr9f/TmMf1WrigKmsuAAUIO2AE/0878c78db092cc65ce59c9e139016043/Martin_Splitt_Rendering_performance_from_the_ground_up.pdf
+  - name: The Road to a Statically Typed Future
+    speaker: Patrick Stapfer
+    lang: en
+    video: 
+    presentation: https://assets.contentful.com/nn534z2fqr9f/8T70CbD3mEWwa6uEOGkCg/1de675b774b20cc2d845b584b60a1850/Patrick_Stapfer_the_road_to_a_staically_typed_future_holyjs.pdf
+  - name: "Архитектура современных JS-приложений: три фреймворка, три подхода"
+    speaker: Никита Исаев
+    video: 
+    presentation: https://assets.contentful.com/nn534z2fqr9f/mF5m1iWtUcA4gcGEGOeqE/89e695de9db5888a062a0b28abaee295/HolyJS.pdf
+  - name: "Down the Rabbit Hole: JavaScript in Wonderland"
+    speaker: Claudia Hernández
+    lang: en
+    video: https://www.youtube.com/watch?v=WY2HRwttN5U
+    presentation: https://downloads.contentful.com/nn534z2fqr9f/2OJhLEpLkk4iey4KUQEe4M/a8ed54343527d202f1fcd59623c62ee7/Claudia_Hernandez_Javascript_In_Wonderland__1_.pdf
+  - name: Kotlin как язык для разработки фронтенда
+    speaker: Залим Башоров
+    video: 
+    presentation: https://assets.contentful.com/nn534z2fqr9f/7vnMUx0CpUiKAaKEui8MYk/c7e551e4a2f4be9048056233c9a29993/Zalim_Bashorov_Kotlin_as_a_language_for_Frontend_Development.pdf
+  - name: ES2017 vs Typescript vs Dart. Сравниваем без эмоций
+    speaker: Алексей Золотых
+    video: 
+    presentation: https://zolotyh.github.io/holyjs/#/
+  - name: Offline Second
+    speaker: Алексей Богачук
+    video: https://www.youtube.com/watch?v=BwHb5o2dvFc
+    presentation: https://assets.contentful.com/nn534z2fqr9f/1KtAAeRNsY0oogOg2eWU2U/6a87521753ff4367ae96520fe7504de5/Aliaksei_Bahachuk_Offline_Second.pdf
+  - name: Migrating Pinterest profiles to React
+    speaker: Imad Elyafi
+    lang: en
+    video: https://www.youtube.com/watch?v=dx9ZlpUx59I
+    presentation: https://assets.contentful.com/nn534z2fqr9f/3RwYa1gv9SyQqsyscwws0A/be3e79ee3073cb973038395648bd249a/Imad_Elyafi_How_We_Migrated_Pinterest_Profiles_to_React.pdf
+  - name: Goto There and Back Again
+    speaker: Douglas Crockford
+    lang: en
+    video: https://www.youtube.com/watch?v=rJ-CoeWc19o
+    presentation: https://assets.contentful.com/nn534z2fqr9f/3FMe9juA2scSYEWS0uaEgC/04e96481d2d0a5ca7e001660faf587fa/goto.pdf
+  - name: V8 под капотом
+    speaker: Андрей Мелихов
+    video: https://www.youtube.com/watch?v=SNs61SwZbTI
+    presentation: https://downloads.contentful.com/nn534z2fqr9f/5CKHA7h43YKscaCGMQ0sO4/bc2c164a90b96ed0a5d887e11ae835b3/Melikhov_Andrey_V8_under_the_hood__1_.pdf
+  - name: Демонстрация экрана в действии
+    speaker: Алексей Носов
+    video: https://www.youtube.com/watch?v=05rK5fhSGEY
+    presentation: https://assets.contentful.com/nn534z2fqr9f/rxJIHVXZPqkmUYYE2Geoa/3a66c56283188010d3050c8b341865d1/Aleksei_Nosov_Screen_mirroring_in_action.pdf
+  - name: "Functional Programming in JS: What? Why? How?"
+    speaker: Anjana Vakil
+    lang: en
+    video: https://www.youtube.com/watch?v=qtsbZarFzm8
+    presentation: https://assets.contentful.com/nn534z2fqr9f/5YqZAn4MGkww8aAsSo0MIm/605847abdf60ac063335e1be5d7e6299/Functional_Programming-_What-_Why-_How-.pdf
+  - name: "React Loadable: Code Splitting with Server Side Rendering"
+    speaker: Георгий Буханов
+    video: https://www.youtube.com/watch?v=g6irpW26IVs
+    presentation: https://assets.contentful.com/nn534z2fqr9f/1F1M1wNjnicWywOWeUEuSq/17cb533027ee8412616af9f98fa9b0cf/George_Bukhanov_Code_Splitting_with_Server_Side_Rendering.pdf
+  - name: Переносим существующее web-приложение в виртуальную реальность
+    speaker: Денис Радин
+    video: https://www.youtube.com/watch?v=8FLhLWzeKG0
+    presentation: https://assets.contentful.com/nn534z2fqr9f/4YbCtcqOjeWeYGQ2QI2usC/da7e2507da77402e2b3308bef38cc790/New_Migrating_Web_apps_to_Virtual_Reality.pdf
+  - name: Внутреннее устройство бандла webpack
+    speaker: Алексей Иванов
+    video: https://www.youtube.com/watch?v=jE1ibm037Fo
+    presentation: https://assets.contentful.com/nn534z2fqr9f/6grHdTSZYkuG2iqOY82QSG/58bb4494f3b28e8470d1f7a52c63aa4e/Alexey_Ivanov_Inner_structure_of_webpack_bundle.pdf
+  - name: От фреймворков к сверхфреймворкам
+    speaker: Сергей Юферев
+    video: 
+    presentation: https://assets.contentful.com/nn534z2fqr9f/4oiH7qIrZuCEWG4aSoKU20/158785d22e69286945a8a6f1c38709bb/Sergey_Yuferev_From_frameworks_to_overframeworks.pdf
+  - name: Make More Than Music with Tiny Computers, JavaScript and MIDI
+    speaker: George Mandis
+    lang: en
+    video: https://www.youtube.com/watch?v=-Ml7J3ocqUo
+    presentation: https://downloads.contentful.com/nn534z2fqr9f/7D27swnvi06UeIk6YCGOgG/78a641b97b5862f9ccea38b253d85cb5/George_Mandis_Make_More_Than_Music_With_MIDI.pdf
+  - name: Зависимости в компонентном вебе, сделанные правильно
+    speaker: Владимир Гриненко
+    video: 
+    presentation: https://assets.contentful.com/nn534z2fqr9f/6AQaclj7gIYesm82CEeosM/030624060be5a67c59fb72f81ef374da/Grinenko_-_deps_-_holyJS_Piter.pdf
+  - name: Почему мой сайт тормозит и как это исправить
+    speaker: Игорь Алексеенко
+    video: https://www.youtube.com/watch?v=z9YG9XBwCKo
+    presentation: https://downloads.contentful.com/nn534z2fqr9f/4bRG6TLbEc24aWAyQQGeE/79bc30a4c78d8bf13ce54c128a67ac6e/Alexeenko_Why-My-Site-Lags-And-How-To-Fix-It__1_.pdf
+  - name: CSS in JS. Зачем и почему?
+    speaker: Валерий Сорокобатько
+    video: https://www.youtube.com/watch?v=gfU17b8TFYU
+    presentation: https://downloads.contentful.com/nn534z2fqr9f/73zaX85dokgYs6GUaayU8G/bff756e1e4fa2e1079c00b2c36f5fadb/CSS-in-JS_Sorokobatko.pdf
+  - name: "JS UX: Writing code for humans"
+    speaker: Lea Verou
+    lang: en
+    video: https://www.youtube.com/watch?v=gweY3L0YA1Y
+    presentation: https://leaverou.github.io/talks/jsux/
