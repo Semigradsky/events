@@ -3,6 +3,17 @@
 
 # yalovefrontend
 
+## Я ❤ Frontend 2020 - 2020 Feb 29 [:movie_camera:](https://www.youtube.com/watch?v=eLlULhNNthI)
+| | | |
+| --- | :---: | --- |
+| [Глазные интерфейсы](https://www.youtube.com/watch?v=eLlULhNNthI&t=450s)  |  [Иван Бакаидов](../../speakers/Иван%20Бакаидов.md)  |   [:spiral_notepad:](https://m.habr.com/ru/company/yandex/blog/492162/) |
+| [Роутер как у сына маминой подруги](https://www.youtube.com/watch?v=eLlULhNNthI&t=1405s)  |  [Павел Малышев](../../speakers/Павел%20Малышев.md)  |    |
+| [HTML: The Good Parts](https://www.youtube.com/watch?v=eLlULhNNthI&t=5592s)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
+| [Картинки как коробки. Что же там внутри?](https://www.youtube.com/watch?v=eLlULhNNthI&t=8828s)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  |    |
+| [Как сделать редактор майндмэпов](https://www.youtube.com/watch?v=eLlULhNNthI&t=14706s)  |  [Тим Чаптыков](../../speakers/Тим%20Чаптыков.md)  |    |
+| [ApolloClient 3 — прощаемся с Redux, REST API и Relay](https://www.youtube.com/watch?v=eLlULhNNthI&t=16880s)  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  |    |
+| [BFCache, или Туда и обратно](https://www.youtube.com/watch?v=eLlULhNNthI&t=20880s)  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |    |
+| [Итак, вы ментор. Что дальше?](https://www.youtube.com/watch?v=eLlULhNNthI&t=23323s)  |  [Мария Нагорных](../../speakers/Мария%20Нагорных.md)  |    |
 ## Я ❤ Frontend 2019 - 2019 Feb 09 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SQuhSpooDiNrIIPqeLY3mCp)
 | | | |
 | --- | :---: | --- |

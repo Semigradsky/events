@@ -8,6 +8,17 @@
 | --- | :---: | --- |
 | [Type soundness in TypeScript: the missing part](https://www.youtube.com/watch?v=5j2GrY5HBoI)  |  [Артём Иванов](speakers/Артём%20Иванов.md)  | [:notebook:](https://slides.com/buggy/deck-26cbbd#/) [:octocat:](https://github.com/Buggytheclown/my-profile/tree/master/ts-type-soundness) [:spiral_notepad:](https://habr.com/ru/post/492106/) |
 | [Quiz &#39;вопросы по Angular на собеседовании&#39;](https://www.youtube.com/watch?v=jw8o8dLgFag)  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  | [:notebook:](https://docs.google.com/presentation/d/1hqqMUX6SXZ5sb96Bchdb1Q3kl9LIVwIUyCXCRh76QK4/edit)   |
+## Я ❤ Frontend 2020 - Feb 29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;eLlULhNNthI)
+| | | |
+| --- | :---: | --- |
+| [Глазные интерфейсы](https://www.youtube.com/watch?v=eLlULhNNthI&t=450s)  |  [Иван Бакаидов](speakers/Иван%20Бакаидов.md)  |   [:spiral_notepad:](https://m.habr.com/ru/company/yandex/blog/492162/) |
+| [Роутер как у сына маминой подруги](https://www.youtube.com/watch?v=eLlULhNNthI&t=1405s)  |  [Павел Малышев](speakers/Павел%20Малышев.md)  |    |
+| [HTML: The Good Parts](https://www.youtube.com/watch?v=eLlULhNNthI&t=5592s)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
+| [Картинки как коробки. Что же там внутри?](https://www.youtube.com/watch?v=eLlULhNNthI&t=8828s)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  |    |
+| [Как сделать редактор майндмэпов](https://www.youtube.com/watch?v=eLlULhNNthI&t=14706s)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
+| [ApolloClient 3 — прощаемся с Redux, REST API и Relay](https://www.youtube.com/watch?v=eLlULhNNthI&t=16880s)  |  [Павел Черторогов](speakers/Павел%20Черторогов.md)  |    |
+| [BFCache, или Туда и обратно](https://www.youtube.com/watch?v=eLlULhNNthI&t=20880s)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |    |
+| [Итак, вы ментор. Что дальше?](https://www.youtube.com/watch?v=eLlULhNNthI&t=23323s)  |  [Мария Нагорных](speakers/Мария%20Нагорных.md)  |    |
 ## Undefined Meetup 3 - Feb 28 
 | | | |
 | --- | :---: | --- |
