@@ -1,36 +1,37 @@
 name: Я ❤ Frontend 2020
 date: 2020-02-29
-videos: 
+videos: https://www.youtube.com/watch?v=eLlULhNNthI
 talks:
   - name: Глазные интерфейсы
     speaker: Иван Бакаидов
-    video: 
+    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=450s
+    text: https://m.habr.com/ru/company/yandex/blog/492162/
     presentation: 
   - name: Роутер как у сына маминой подруги
     speaker: Павел Малышев
-    video: 
+    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=1405s
     presentation: 
   - name: "HTML: The Good Parts"
     speaker: Вадим Макеев
-    video: 
+    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=5592s
     presentation: 
   - name: Картинки как коробки. Что же там внутри?
     speaker: Полина Гуртовая
-    video: 
+    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=8828s
     presentation: 
   - name: Как сделать редактор майндмэпов
     speaker: Тим Чаптыков
-    video: 
+    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=14706s
     presentation: 
   - name: ApolloClient 3 — прощаемся с Redux, REST API и Relay
     speaker: Павел Черторогов
-    video: 
+    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=16880s
     presentation: 
   - name: BFCache, или Туда и обратно
     speaker: Виктор Хомяков
-    video: 
+    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=20880s
     presentation: 
   - name: Итак, вы ментор. Что дальше?
     speaker: Мария Нагорных
-    video: 
+    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=23323s
     presentation: 
