@@ -1,37 +1,37 @@
 name: Я ❤ Frontend 2020
 date: 2020-02-29
-videos: https://www.youtube.com/watch?v=eLlULhNNthI
+videos: https://www.youtube.com/playlist?list=PLKaafC45L_SRLlyOzp6xBMUh0kn2eQBUd
 talks:
   - name: Глазные интерфейсы
     speaker: Иван Бакаидов
-    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=450s
+    video: https://youtu.be/nyUvUyyZeEA
     text: https://m.habr.com/ru/company/yandex/blog/492162/
     presentation: 
   - name: Роутер как у сына маминой подруги
     speaker: Павел Малышев
-    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=1405s
+    video: https://youtu.be/kf5zccSyEso
     presentation: 
   - name: "HTML: The Good Parts"
     speaker: Вадим Макеев
-    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=5592s
+    video: https://youtu.be/A4tglcel7Ac
     presentation: 
   - name: Картинки как коробки. Что же там внутри?
     speaker: Полина Гуртовая
-    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=8828s
+    video: https://youtu.be/CMlXUS6e46w
     presentation: 
   - name: Как сделать редактор майндмэпов
     speaker: Тим Чаптыков
-    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=14706s
+    video: https://youtu.be/Pl1Gw14pS2I
     presentation: 
   - name: ApolloClient 3 — прощаемся с Redux, REST API и Relay
     speaker: Павел Черторогов
-    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=16880s
+    video: https://youtu.be/5h7zX45YPuQ
     presentation: 
   - name: BFCache, или Туда и обратно
     speaker: Виктор Хомяков
-    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=20880s
+    video: https://youtu.be/vz2IsHcSaKE
     presentation: 
   - name: Итак, вы ментор. Что дальше?
     speaker: Мария Нагорных
-    video: https://www.youtube.com/watch?v=eLlULhNNthI&t=23323s
+    video: https://youtu.be/yxtFgqUc_Tw
     presentation: 
