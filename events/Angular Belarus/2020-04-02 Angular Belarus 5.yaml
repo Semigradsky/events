@@ -1,0 +1,12 @@
+name: Angular Belarus 5
+date: 2020-04-02
+videos: https://www.youtube.com/watch?v=84IztzCQsl4
+talks:
+  - name: "Protractor: Automated testing of Angular apps"
+    speaker: Валерия Шоломова
+    video: https://www.youtube.com/watch?v=84IztzCQsl4
+    presentation: 
+  - name: What are Angular Reactive Forms?
+    speaker: Максим Чиркун
+    video: https://www.youtube.com/watch?v=84IztzCQsl4
+    presentation: 
