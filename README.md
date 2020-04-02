@@ -3,6 +3,11 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Belarus 5 - Apr 02 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;84IztzCQsl4)
+| | | |
+| --- | :---: | --- |
+| [Protractor: Automated testing of Angular apps](https://www.youtube.com/watch?v=84IztzCQsl4)  |  [Валерия Шоломова](speakers/Валерия%20Шоломова.md)  |    |
+| [What are Angular Reactive Forms?](https://www.youtube.com/watch?v=84IztzCQsl4)  |  [Максим Чиркун](speakers/Максим%20Чиркун.md)  |    |
 ## Angular Minsk 9 - Mar 10 
 | | | |
 | --- | :---: | --- |
@@ -14,7 +19,7 @@
 | [Глазные интерфейсы](https://youtu.be/nyUvUyyZeEA)  |  [Иван Бакаидов](speakers/Иван%20Бакаидов.md)  |   [:spiral_notepad:](https://m.habr.com/ru/company/yandex/blog/492162/) |
 | [Роутер как у сына маминой подруги](https://youtu.be/kf5zccSyEso)  |  [Павел Малышев](speakers/Павел%20Малышев.md)  |    |
 | [HTML: The Good Parts](https://youtu.be/A4tglcel7Ac)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
-| [Картинки как коробки. Что же там внутри?](https://youtu.be/CMlXUS6e46w)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  |    |
+| [Картинки как коробки. Что же там внутри?](https://youtu.be/CMlXUS6e46w)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/493616/) |
 | [Как сделать редактор майндмэпов](https://youtu.be/Pl1Gw14pS2I)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
 | [ApolloClient 3 — прощаемся с Redux, REST API и Relay](https://youtu.be/5h7zX45YPuQ)  |  [Павел Черторогов](speakers/Павел%20Черторогов.md)  |    |
 | [BFCache, или Туда и обратно](https://youtu.be/vz2IsHcSaKE)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |    |

@@ -3,6 +3,11 @@
 
 # Angular Belarus
 
+## Angular Belarus 5 - 2020 Apr 02 [:movie_camera:](https://www.youtube.com/watch?v=84IztzCQsl4)
+| | | |
+| --- | :---: | --- |
+| [Protractor: Automated testing of Angular apps](https://www.youtube.com/watch?v=84IztzCQsl4)  |  [Валерия Шоломова](../../speakers/Валерия%20Шоломова.md)  |    |
+| [What are Angular Reactive Forms?](https://www.youtube.com/watch?v=84IztzCQsl4)  |  [Максим Чиркун](../../speakers/Максим%20Чиркун.md)  |    |
 ## Angular Belarus 4 - 2020 Feb 27 
 | | | |
 | --- | :---: | --- |
