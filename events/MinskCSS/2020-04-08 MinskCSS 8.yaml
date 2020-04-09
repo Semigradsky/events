@@ -1,4 +1,20 @@
 name: MinskCSS 8
 date: 2020-04-08
-videos: 
-talks: []
+videos: https://www.youtube.com/watch?v=BRbR0wXhO38
+talks:
+  - name: Адаптируемый Web без React.js — как тебе такое, Илон Маск?
+    speaker: Егор Малькевич
+    video: https://youtu.be/BRbR0wXhO38?t=975
+    presentation: 
+  - name: Основы WAI-ARIA
+    speaker: Захар Авсиевич
+    video: https://youtu.be/BRbR0wXhO38?t=3394
+    presentation: https://zavsievich.github.io/ARIA
+  - name: Ну вот и… всплыли!
+    speaker: Глафира Жур
+    video: https://youtu.be/BRbR0wXhO38?t=5787
+    presentation: https://glafirazhur.github.io/popups-a11y/
+  - name: Трогательная вёрстка
+    speaker: Никита Дубко
+    video: https://youtu.be/BRbR0wXhO38?t=8155
+    presentation: https://mefody.dev/talks/css-for-touch/
