@@ -3,6 +3,13 @@
 
 # MinskCSS
 
+## MinskCSS 8 - 2020 Apr 08 [:movie_camera:](https://www.youtube.com/watch?v=BRbR0wXhO38)
+| | | |
+| --- | :---: | --- |
+| [Адаптируемый Web без React.js — как тебе такое, Илон Маск?](https://youtu.be/BRbR0wXhO38?t=975)  |  [Егор Малькевич](../../speakers/Егор%20Малькевич.md)  |    |
+| [Основы WAI-ARIA](https://youtu.be/BRbR0wXhO38?t=3394)  |  [Захар Авсиевич](../../speakers/Захар%20Авсиевич.md)  | [:notebook:](https://zavsievich.github.io/ARIA)   |
+| [Ну вот и… всплыли!](https://youtu.be/BRbR0wXhO38?t=5787)  |  [Глафира Жур](../../speakers/Глафира%20Жур.md)  | [:notebook:](https://glafirazhur.github.io/popups-a11y/)   |
+| [Трогательная вёрстка](https://youtu.be/BRbR0wXhO38?t=8155)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.dev/talks/css-for-touch/)   |
 ## MinskCSS 7 - 2019 Dec 12 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9ZzkpS9Pp6jc6V7AZWwLz22oZ)
 | | | |
 | --- | :---: | --- |

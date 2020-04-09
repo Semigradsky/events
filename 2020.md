@@ -3,6 +3,13 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## MinskCSS 8 - Apr 08 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;BRbR0wXhO38)
+| | | |
+| --- | :---: | --- |
+| [Адаптируемый Web без React.js — как тебе такое, Илон Маск?](https://youtu.be/BRbR0wXhO38?t=975)  |  [Егор Малькевич](speakers/Егор%20Малькевич.md)  |    |
+| [Основы WAI-ARIA](https://youtu.be/BRbR0wXhO38?t=3394)  |  [Захар Авсиевич](speakers/Захар%20Авсиевич.md)  | [:notebook:](https://zavsievich.github.io/ARIA)   |
+| [Ну вот и… всплыли!](https://youtu.be/BRbR0wXhO38?t=5787)  |  [Глафира Жур](speakers/Глафира%20Жур.md)  | [:notebook:](https://glafirazhur.github.io/popups-a11y/)   |
+| [Трогательная вёрстка](https://youtu.be/BRbR0wXhO38?t=8155)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.dev/talks/css-for-touch/)   |
 ## Angular Belarus 5 - Apr 02 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;84IztzCQsl4)
 | | | |
 | --- | :---: | --- |
@@ -24,11 +31,6 @@
 | [ApolloClient 3 — прощаемся с Redux, REST API и Relay](https://youtu.be/5h7zX45YPuQ)  |  [Павел Черторогов](speakers/Павел%20Черторогов.md)  |    |
 | [BFCache, или Туда и обратно](https://youtu.be/vz2IsHcSaKE)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |    |
 | [Итак, вы ментор. Что дальше?](https://youtu.be/yxtFgqUc_Tw)  |  [Мария Нагорных](speakers/Мария%20Нагорных.md)  |    |
-## Undefined Meetup 3 - Feb 28 
-| | | |
-| --- | :---: | --- |
-| A11y: pro tips  |  [Anna Safonova](speakers/Anna%20Safonova.md)  |    |
-| Сага о библиотеке компонентов  |  [Olga Samokhvalova](speakers/Olga%20Samokhvalova.md)  |    |
 ## MoscowJS 48 - Feb 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL95OM-7UObpGiyAyygO8xBlvi7GKWHSku)
 | | | |
 | --- | :---: | --- |
