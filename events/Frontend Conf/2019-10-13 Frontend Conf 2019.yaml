@@ -2,54 +2,55 @@ name: Frontend Conf 2019
 date:
   - 2019-10-13
   - 2019-10-14
+videos: https://www.youtube.com/playlist?list=PLknJ4Vr6efQHldqCyBU5gpi7KPJEMbj4H
 talks:
   - name: Погружение в глубокий оффлайн — веб способен на это!
     speaker: Максим Сальников
-    video: 
+    video: https://www.youtube.com/watch?v=-05gv2YqRiY
     presentation: https://drive.google.com/file/d/1O-WeTNYNNFaRgxEds7_g6svUVExsAkCZ
   - name: Serverless для frontend-разработчиков, или Можно ли обойтись без классического бэкенда
     speaker: Сергей Пугачёв
-    video: 
+    video: https://www.youtube.com/watch?v=CqqLYZvNoxg
     presentation: https://drive.google.com/file/d/1PJouqY27fmPmE2TtUx_K31BgNE_WM5-W
   - name: Голый фронтенд
     speaker: Андрей Яманов
-    video: 
+    video: https://www.youtube.com/watch?v=qrrvf_VzhLE
     presentation: https://drive.google.com/file/d/165PprTQT4qAA5ryel-e8u9pTNA8aHrLr
   - name: RUST + WEBASSEMBLY
     speaker: Илья Барышников
-    video: 
+    video: https://www.youtube.com/watch?v=iW9w_4TSWjU
     presentation: https://drive.google.com/file/d/1t120y15wOJMyyihJZuzcO7iJFXwWc8Hs
   - name: Продвинутый TypeScript
     speaker: Михаил Башуров
-    video: 
+    video: https://www.youtube.com/watch?v=m0uRxCCno00
     presentation: https://saitonakamura.github.io/freediving-into-typescript/
   - name: Профилирование NodeJS
     speaker: Артём Несмиянов
-    video: 
+    video: https://www.youtube.com/watch?v=EFMWbb-NpCc
     presentation: https://drive.google.com/file/d/1hlSW6HHYqbtJ2BMOZtxA2oPMUTjrO29B
   - name: Пусть всем кажется, что всё грузится быстро, — улучшаем ощущение от загрузки скелетонами
     speaker: Виктор Русакович
-    video: 
+    video: https://www.youtube.com/watch?v=ODWakh7Tl9s
     presentation: https://drive.google.com/file/d/1VrYyoO-4kxNNgJ6zJLe-NzMIZekdL9GI
   - name: "О WebRTC просто и без магии: как устроен путь кадра в Интернете"
     speaker: Кирилл Роговой
-    video: 
+    video: https://www.youtube.com/watch?v=EZQ_RA5KTc8
     presentation: https://drive.google.com/file/d/1XmJSifMUoZ_UqmXjiUCIZRIKOeLFqO3O
   - name: Camera Rig. Работа за «кадром»
     speaker: Наталья Габитова
-    video: 
+    video: https://www.youtube.com/watch?v=UhUtAwW64ls
     presentation: https://drive.google.com/file/d/1llKW_actgk8CT4weRVxPNiX10s4aAT_Z
   - name: Проектирование предметной области на TypeScript в функциональном стиле
     speaker: Сергей Черепанов
-    video: 
+    video: https://www.youtube.com/watch?v=cT-VOwWjJJs
     presentation: https://drive.google.com/file/d/1tsptt7aRNJ3tWsGXHNhbJiRhHF_DDupo
   - name: Трассируем лучи в реальном времени
     speaker: Артём Кунец
-    video: 
+    video: https://www.youtube.com/watch?v=5zs8vJWYuww
     presentation: https://drive.google.com/file/d/1LPYHtLHBZSrDZDVZ92CdyqqbvI3SfBbX
   - name: Верстка email-рассылок. Советы на реальных примерах
     speaker: Александр Рачила
-    video: 
+    video: https://www.youtube.com/watch?v=eA1bepCgZ6s
     presentation: https://drive.google.com/file/d/1U7MkLkAnAzoQaAUvLQkXezrWkZXoIoW5
   - name: The state of soft skills
     speaker: Андрей Смирнов
@@ -57,11 +58,11 @@ talks:
     presentation: https://sandark7.github.io/404Fest2019/
   - name: Микросервисы на node.js. Инструменты для налаживания взаимодействия
     speaker: Кирилл Сергеев
-    video: 
+    video: https://www.youtube.com/watch?v=nNKe3KBwNok
     presentation: https://drive.google.com/file/d/1HeK4hZxhwaa4PA_G8Xv-noac6P3-px8k
   - name: "История про моделирование «по-быстрому»: как сделать скругленные зоны на карте"
     speaker: Александр Прибыткин
-    video: 
+    video: https://www.youtube.com/watch?v=hQfglqE18Jo
     presentation: https://drive.google.com/file/d/1kZ1Zu4wW5CQYERvmSR6qNvYjLB7i_pxG
   - name: Web Components and the AOM
     speaker: Léonie Watson
@@ -70,7 +71,7 @@ talks:
     presentation: https://decks.tink.uk/2019/fem/index.html
   - name: Keeping it simple with CSS that scales
     speaker: Andy Bell
-    video: 
+    video: https://www.youtube.com/watch?v=zN63Kxsr9-w
     lang: en
     presentation: https://drive.google.com/file/d/1JoXscsfDo7S6eY1WDBGW412JJgQuf6On
   - name: Методы борьбы с legacy-кодом на примере GitLab
@@ -79,51 +80,51 @@ talks:
     presentation: https://drive.google.com/file/d/16Q0FUf9lVOqrNqQoforqGKAKtyDpI68w
   - name: "Dart: маленький паровозик, который смог"
     speaker: Тимофей Лавренюк
-    video: 
+    video: https://www.youtube.com/watch?v=1r1SjdP776M
     presentation: https://drive.google.com/file/d/1FTss_dq45X903viBPtoEEXwe62idHNGi
   - name: "Event-Driven Architecture: детали реализаций Event Loop"
     speaker: Вадим Горбачев
-    video: 
+    video: https://www.youtube.com/watch?v=Zu18cMJGeqw
     presentation: https://bmsdave.github.io/talk-eda-slides/
   - name: Как правильно собирать npm-пакеты в 2к19 году
     speaker: Денис Красновский
-    video: 
+    video: https://www.youtube.com/watch?v=__FMvDy-V5Y
     presentation: https://drive.google.com/file/d/1o3L3EiOFQfKqCXTFO3fuYdnlPU3gTM2h
   - name: "Додо Пицца: собственная касса на веб-технологиях"
     speaker: Борис Гулай
-    video: 
+    video: https://www.youtube.com/watch?v=G_3qp1HbhR4
     presentation: https://drive.google.com/file/d/1FHxGzYLq36FecveM4B_AohzRw2LMl5CX
   - name: По ту сторону баннера
     speaker: Дмитрий Дятчин
-    video: 
+    video: https://www.youtube.com/watch?v=hxTHElAvuyo
     presentation: https://drive.google.com/file/d/1I_BpCJ9Qoc5PqEtgg2r_t2QlUvJqHfEI
   - name: Типы данных в CSS
     speaker: София Валитова
-    video: 
+    video: https://www.youtube.com/watch?v=PoWpkLeJnBA
     presentation: https://drive.google.com/file/d/1b90psxhiXnARgMJiy7EXE7egnxLE2yAj
   - name: CSS — язык программирования
     speaker: Никита Дубко
-    video: 
+    video: https://www.youtube.com/watch?v=2UIwHWQeJBs
     presentation: https://mefody.github.io/talks/css-programming/fc.html
   - name: Make a World on Pure CSS
     speaker: Юлия Музафарова
-    video: 
+    video: https://www.youtube.com/watch?v=O1A_QCptiIM
     presentation: https://drive.google.com/file/d/1d6LJdAXFxX1gMjox4M-vPR6zmmSemJV5
   - name: Docker для фронтендера
     speaker: Алексей Авдеев
-    video: 
+    video: https://www.youtube.com/watch?v=SMM3bsYyFls
     presentation: http://alexey-avdeev.com/docker-for-front-end-developers/
   - name: "Relay Modern: data fetching, mutations and subscriptions"
     speaker: Александр Руденко
-    video: 
+    video: https://www.youtube.com/watch?v=tH56jQBzLEc
     presentation: https://drive.google.com/file/d/1BkTt_zJkE23QSlhcIj4-i8tt6enukXFG
   - name: Правила осознанной карьеры разработчика
     speaker: Анастасия Калашникова
-    video: 
+    video: https://www.youtube.com/watch?v=yoaA6WAGQFE
     presentation: https://drive.google.com/file/d/10ePv1kgfOWk6wA_bZ-HjDpqTCvfknf59
   - name: "display: grid; grid: subgrid;"
     speaker: Сергей Попов
-    video: 
+    video: https://www.youtube.com/watch?v=GJZzJrykcp4
     presentation: https://drive.google.com/file/d/1AaccrD2hnai8B0hWunMKf5MYHYU-Z2pm
   - name: "React Native для самых маленьких: опыт мобильной разработки"
     speaker: Артём Лашевский
