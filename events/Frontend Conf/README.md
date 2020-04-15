@@ -3,39 +3,39 @@
 
 # Frontend Conf
 
-## Frontend Conf 2019 - 2019 Oct 13-14 
+## Frontend Conf 2019 - 2019 Oct 13-14 [:movie_camera:](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHldqCyBU5gpi7KPJEMbj4H)
 | | | |
 | --- | :---: | --- |
-| Погружение в глубокий оффлайн — веб способен на это!  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  | [:notebook:](https://drive.google.com/file/d/1O-WeTNYNNFaRgxEds7_g6svUVExsAkCZ)   |
-| Serverless для frontend-разработчиков, или Можно ли обойтись без классического бэкенда  |  [Сергей Пугачёв](../../speakers/Сергей%20Пугачёв.md)  | [:notebook:](https://drive.google.com/file/d/1PJouqY27fmPmE2TtUx_K31BgNE_WM5-W)   |
-| Голый фронтенд  |  [Андрей Яманов](../../speakers/Андрей%20Яманов.md)  | [:notebook:](https://drive.google.com/file/d/165PprTQT4qAA5ryel-e8u9pTNA8aHrLr)   |
-| RUST + WEBASSEMBLY  |  [Илья Барышников](../../speakers/Илья%20Барышников.md)  | [:notebook:](https://drive.google.com/file/d/1t120y15wOJMyyihJZuzcO7iJFXwWc8Hs)   |
-| Продвинутый TypeScript  |  [Михаил Башуров](../../speakers/Михаил%20Башуров.md)  | [:notebook:](https://saitonakamura.github.io/freediving-into-typescript/)   |
-| Профилирование NodeJS  |  [Артём Несмиянов](../../speakers/Артём%20Несмиянов.md)  | [:notebook:](https://drive.google.com/file/d/1hlSW6HHYqbtJ2BMOZtxA2oPMUTjrO29B)   |
-| Пусть всем кажется, что всё грузится быстро, — улучшаем ощущение от загрузки скелетонами  |  [Виктор Русакович](../../speakers/Виктор%20Русакович.md)  | [:notebook:](https://drive.google.com/file/d/1VrYyoO-4kxNNgJ6zJLe-NzMIZekdL9GI)   |
-| О WebRTC просто и без магии: как устроен путь кадра в Интернете  |  [Кирилл Роговой](../../speakers/Кирилл%20Роговой.md)  | [:notebook:](https://drive.google.com/file/d/1XmJSifMUoZ_UqmXjiUCIZRIKOeLFqO3O)   |
-| Camera Rig. Работа за «кадром»  |  [Наталья Габитова](../../speakers/Наталья%20Габитова.md)  | [:notebook:](https://drive.google.com/file/d/1llKW_actgk8CT4weRVxPNiX10s4aAT_Z)   |
-| Проектирование предметной области на TypeScript в функциональном стиле  |  [Сергей Черепанов](../../speakers/Сергей%20Черепанов.md)  | [:notebook:](https://drive.google.com/file/d/1tsptt7aRNJ3tWsGXHNhbJiRhHF_DDupo)   |
-| Трассируем лучи в реальном времени  |  [Артём Кунец](../../speakers/Артём%20Кунец.md)  | [:notebook:](https://drive.google.com/file/d/1LPYHtLHBZSrDZDVZ92CdyqqbvI3SfBbX)   |
-| Верстка email-рассылок. Советы на реальных примерах  |  [Александр Рачила](../../speakers/Александр%20Рачила.md)  | [:notebook:](https://drive.google.com/file/d/1U7MkLkAnAzoQaAUvLQkXezrWkZXoIoW5)   |
+| [Погружение в глубокий оффлайн — веб способен на это!](https://www.youtube.com/watch?v=-05gv2YqRiY)  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  | [:notebook:](https://drive.google.com/file/d/1O-WeTNYNNFaRgxEds7_g6svUVExsAkCZ)   |
+| [Serverless для frontend-разработчиков, или Можно ли обойтись без классического бэкенда](https://www.youtube.com/watch?v=CqqLYZvNoxg)  |  [Сергей Пугачёв](../../speakers/Сергей%20Пугачёв.md)  | [:notebook:](https://drive.google.com/file/d/1PJouqY27fmPmE2TtUx_K31BgNE_WM5-W)   |
+| [Голый фронтенд](https://www.youtube.com/watch?v=qrrvf_VzhLE)  |  [Андрей Яманов](../../speakers/Андрей%20Яманов.md)  | [:notebook:](https://drive.google.com/file/d/165PprTQT4qAA5ryel-e8u9pTNA8aHrLr)   |
+| [RUST + WEBASSEMBLY](https://www.youtube.com/watch?v=iW9w_4TSWjU)  |  [Илья Барышников](../../speakers/Илья%20Барышников.md)  | [:notebook:](https://drive.google.com/file/d/1t120y15wOJMyyihJZuzcO7iJFXwWc8Hs)   |
+| [Продвинутый TypeScript](https://www.youtube.com/watch?v=m0uRxCCno00)  |  [Михаил Башуров](../../speakers/Михаил%20Башуров.md)  | [:notebook:](https://saitonakamura.github.io/freediving-into-typescript/)   |
+| [Профилирование NodeJS](https://www.youtube.com/watch?v=EFMWbb-NpCc)  |  [Артём Несмиянов](../../speakers/Артём%20Несмиянов.md)  | [:notebook:](https://drive.google.com/file/d/1hlSW6HHYqbtJ2BMOZtxA2oPMUTjrO29B)   |
+| [Пусть всем кажется, что всё грузится быстро, — улучшаем ощущение от загрузки скелетонами](https://www.youtube.com/watch?v=ODWakh7Tl9s)  |  [Виктор Русакович](../../speakers/Виктор%20Русакович.md)  | [:notebook:](https://drive.google.com/file/d/1VrYyoO-4kxNNgJ6zJLe-NzMIZekdL9GI)   |
+| [О WebRTC просто и без магии: как устроен путь кадра в Интернете](https://www.youtube.com/watch?v=EZQ_RA5KTc8)  |  [Кирилл Роговой](../../speakers/Кирилл%20Роговой.md)  | [:notebook:](https://drive.google.com/file/d/1XmJSifMUoZ_UqmXjiUCIZRIKOeLFqO3O)   |
+| [Camera Rig. Работа за «кадром»](https://www.youtube.com/watch?v=UhUtAwW64ls)  |  [Наталья Габитова](../../speakers/Наталья%20Габитова.md)  | [:notebook:](https://drive.google.com/file/d/1llKW_actgk8CT4weRVxPNiX10s4aAT_Z)   |
+| [Проектирование предметной области на TypeScript в функциональном стиле](https://www.youtube.com/watch?v=cT-VOwWjJJs)  |  [Сергей Черепанов](../../speakers/Сергей%20Черепанов.md)  | [:notebook:](https://drive.google.com/file/d/1tsptt7aRNJ3tWsGXHNhbJiRhHF_DDupo)   |
+| [Трассируем лучи в реальном времени](https://www.youtube.com/watch?v=5zs8vJWYuww)  |  [Артём Кунец](../../speakers/Артём%20Кунец.md)  | [:notebook:](https://drive.google.com/file/d/1LPYHtLHBZSrDZDVZ92CdyqqbvI3SfBbX)   |
+| [Верстка email-рассылок. Советы на реальных примерах](https://www.youtube.com/watch?v=eA1bepCgZ6s)  |  [Александр Рачила](../../speakers/Александр%20Рачила.md)  | [:notebook:](https://drive.google.com/file/d/1U7MkLkAnAzoQaAUvLQkXezrWkZXoIoW5)   |
 | [The state of soft skills](https://youtu.be/N69EeXBEjKg)  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  | [:notebook:](https://sandark7.github.io/404Fest2019/)   |
-| Микросервисы на node.js. Инструменты для налаживания взаимодействия  |  [Кирилл Сергеев](../../speakers/Кирилл%20Сергеев.md)  | [:notebook:](https://drive.google.com/file/d/1HeK4hZxhwaa4PA_G8Xv-noac6P3-px8k)   |
-| История про моделирование «по-быстрому»: как сделать скругленные зоны на карте  |  [Александр Прибыткин](../../speakers/Александр%20Прибыткин.md)  | [:notebook:](https://drive.google.com/file/d/1kZ1Zu4wW5CQYERvmSR6qNvYjLB7i_pxG)   |
+| [Микросервисы на node.js. Инструменты для налаживания взаимодействия](https://www.youtube.com/watch?v=nNKe3KBwNok)  |  [Кирилл Сергеев](../../speakers/Кирилл%20Сергеев.md)  | [:notebook:](https://drive.google.com/file/d/1HeK4hZxhwaa4PA_G8Xv-noac6P3-px8k)   |
+| [История про моделирование «по-быстрому»: как сделать скругленные зоны на карте](https://www.youtube.com/watch?v=hQfglqE18Jo)  |  [Александр Прибыткин](../../speakers/Александр%20Прибыткин.md)  | [:notebook:](https://drive.google.com/file/d/1kZ1Zu4wW5CQYERvmSR6qNvYjLB7i_pxG)   |
 | [Web Components and the AOM](https://youtu.be/DBdrEpwnKR8) [en] |  [Léonie Watson](../../speakers/Léonie%20Watson.md)  | [:notebook:](https://decks.tink.uk/2019/fem/index.html)   |
-| Keeping it simple with CSS that scales [en] |  [Andy Bell](../../speakers/Andy%20Bell.md)  | [:notebook:](https://drive.google.com/file/d/1JoXscsfDo7S6eY1WDBGW412JJgQuf6On)   |
+| [Keeping it simple with CSS that scales](https://www.youtube.com/watch?v=zN63Kxsr9-w) [en] |  [Andy Bell](../../speakers/Andy%20Bell.md)  | [:notebook:](https://drive.google.com/file/d/1JoXscsfDo7S6eY1WDBGW412JJgQuf6On)   |
 | [Методы борьбы с legacy-кодом на примере GitLab](https://youtu.be/3tdfBMRq34o)  |  [Илья Климов](../../speakers/Илья%20Климов.md)  | [:notebook:](https://drive.google.com/file/d/16Q0FUf9lVOqrNqQoforqGKAKtyDpI68w)   |
-| Dart: маленький паровозик, который смог  |  [Тимофей Лавренюк](../../speakers/Тимофей%20Лавренюк.md)  | [:notebook:](https://drive.google.com/file/d/1FTss_dq45X903viBPtoEEXwe62idHNGi)   |
-| Event-Driven Architecture: детали реализаций Event Loop  |  [Вадим Горбачев](../../speakers/Вадим%20Горбачев.md)  | [:notebook:](https://bmsdave.github.io/talk-eda-slides/)   |
-| Как правильно собирать npm-пакеты в 2к19 году  |  [Денис Красновский](../../speakers/Денис%20Красновский.md)  | [:notebook:](https://drive.google.com/file/d/1o3L3EiOFQfKqCXTFO3fuYdnlPU3gTM2h)   |
-| Додо Пицца: собственная касса на веб-технологиях  |  [Борис Гулай](../../speakers/Борис%20Гулай.md)  | [:notebook:](https://drive.google.com/file/d/1FHxGzYLq36FecveM4B_AohzRw2LMl5CX)   |
-| По ту сторону баннера  |  [Дмитрий Дятчин](../../speakers/Дмитрий%20Дятчин.md)  | [:notebook:](https://drive.google.com/file/d/1I_BpCJ9Qoc5PqEtgg2r_t2QlUvJqHfEI)   |
-| Типы данных в CSS  |  [София Валитова](../../speakers/София%20Валитова.md)  | [:notebook:](https://drive.google.com/file/d/1b90psxhiXnARgMJiy7EXE7egnxLE2yAj)   |
-| CSS — язык программирования  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/css-programming/fc.html)   |
-| Make a World on Pure CSS  |  [Юлия Музафарова](../../speakers/Юлия%20Музафарова.md)  | [:notebook:](https://drive.google.com/file/d/1d6LJdAXFxX1gMjox4M-vPR6zmmSemJV5)   |
-| Docker для фронтендера  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  | [:notebook:](http://alexey-avdeev.com/docker-for-front-end-developers/)   |
-| Relay Modern: data fetching, mutations and subscriptions  |  [Александр Руденко](../../speakers/Александр%20Руденко.md)  | [:notebook:](https://drive.google.com/file/d/1BkTt_zJkE23QSlhcIj4-i8tt6enukXFG)   |
-| Правила осознанной карьеры разработчика  |  [Анастасия Калашникова](../../speakers/Анастасия%20Калашникова.md)  | [:notebook:](https://drive.google.com/file/d/10ePv1kgfOWk6wA_bZ-HjDpqTCvfknf59)   |
-| display: grid; grid: subgrid;  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  | [:notebook:](https://drive.google.com/file/d/1AaccrD2hnai8B0hWunMKf5MYHYU-Z2pm)   |
+| [Dart: маленький паровозик, который смог](https://www.youtube.com/watch?v=1r1SjdP776M)  |  [Тимофей Лавренюк](../../speakers/Тимофей%20Лавренюк.md)  | [:notebook:](https://drive.google.com/file/d/1FTss_dq45X903viBPtoEEXwe62idHNGi)   |
+| [Event-Driven Architecture: детали реализаций Event Loop](https://www.youtube.com/watch?v=Zu18cMJGeqw)  |  [Вадим Горбачев](../../speakers/Вадим%20Горбачев.md)  | [:notebook:](https://bmsdave.github.io/talk-eda-slides/)   |
+| [Как правильно собирать npm-пакеты в 2к19 году](https://www.youtube.com/watch?v=__FMvDy-V5Y)  |  [Денис Красновский](../../speakers/Денис%20Красновский.md)  | [:notebook:](https://drive.google.com/file/d/1o3L3EiOFQfKqCXTFO3fuYdnlPU3gTM2h)   |
+| [Додо Пицца: собственная касса на веб-технологиях](https://www.youtube.com/watch?v=G_3qp1HbhR4)  |  [Борис Гулай](../../speakers/Борис%20Гулай.md)  | [:notebook:](https://drive.google.com/file/d/1FHxGzYLq36FecveM4B_AohzRw2LMl5CX)   |
+| [По ту сторону баннера](https://www.youtube.com/watch?v=hxTHElAvuyo)  |  [Дмитрий Дятчин](../../speakers/Дмитрий%20Дятчин.md)  | [:notebook:](https://drive.google.com/file/d/1I_BpCJ9Qoc5PqEtgg2r_t2QlUvJqHfEI)   |
+| [Типы данных в CSS](https://www.youtube.com/watch?v=PoWpkLeJnBA)  |  [София Валитова](../../speakers/София%20Валитова.md)  | [:notebook:](https://drive.google.com/file/d/1b90psxhiXnARgMJiy7EXE7egnxLE2yAj)   |
+| [CSS — язык программирования](https://www.youtube.com/watch?v=2UIwHWQeJBs)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/css-programming/fc.html)   |
+| [Make a World on Pure CSS](https://www.youtube.com/watch?v=O1A_QCptiIM)  |  [Юлия Музафарова](../../speakers/Юлия%20Музафарова.md)  | [:notebook:](https://drive.google.com/file/d/1d6LJdAXFxX1gMjox4M-vPR6zmmSemJV5)   |
+| [Docker для фронтендера](https://www.youtube.com/watch?v=SMM3bsYyFls)  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  | [:notebook:](http://alexey-avdeev.com/docker-for-front-end-developers/)   |
+| [Relay Modern: data fetching, mutations and subscriptions](https://www.youtube.com/watch?v=tH56jQBzLEc)  |  [Александр Руденко](../../speakers/Александр%20Руденко.md)  | [:notebook:](https://drive.google.com/file/d/1BkTt_zJkE23QSlhcIj4-i8tt6enukXFG)   |
+| [Правила осознанной карьеры разработчика](https://www.youtube.com/watch?v=yoaA6WAGQFE)  |  [Анастасия Калашникова](../../speakers/Анастасия%20Калашникова.md)  | [:notebook:](https://drive.google.com/file/d/10ePv1kgfOWk6wA_bZ-HjDpqTCvfknf59)   |
+| [display: grid; grid: subgrid;](https://www.youtube.com/watch?v=GJZzJrykcp4)  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  | [:notebook:](https://drive.google.com/file/d/1AaccrD2hnai8B0hWunMKf5MYHYU-Z2pm)   |
 | [React Native для самых маленьких: опыт мобильной разработки](https://youtu.be/dat4PnoQvaQ)  |  [Артём Лашевский](../../speakers/Артём%20Лашевский.md)  | [:notebook:](https://drive.google.com/file/d/1fKUYqJMDYMrBjdJJ42DAhEuIabqDdp1D)   |
 | [_ ___ ______?](https://youtu.be/4g2Ww7uFlBk)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://pepelsbey.net/pres/where-are-fonts/)   |
 ## Frontend Conf 2019 (РИТ++) - 2019 May 27-28 [:movie_camera:](https://www.youtube.com/playlist?list=PLfbxrJr-t5mk7etv7CWQSZ3vOHDsn4XEU)

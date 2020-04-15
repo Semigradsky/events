@@ -29,7 +29,7 @@
 | [Картинки как коробки. Что же там внутри?](https://youtu.be/CMlXUS6e46w)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/493616/) |
 | [Как сделать редактор майндмэпов](https://youtu.be/Pl1Gw14pS2I)  |  [Тим Чаптыков](speakers/Тим%20Чаптыков.md)  |    |
 | [ApolloClient 3 — прощаемся с Redux, REST API и Relay](https://youtu.be/5h7zX45YPuQ)  |  [Павел Черторогов](speakers/Павел%20Черторогов.md)  |    |
-| [BFCache, или Туда и обратно](https://youtu.be/vz2IsHcSaKE)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |    |
+| [BFCache, или Туда и обратно](https://youtu.be/vz2IsHcSaKE)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/496360/) |
 | [Итак, вы ментор. Что дальше?](https://youtu.be/yxtFgqUc_Tw)  |  [Мария Нагорных](speakers/Мария%20Нагорных.md)  |    |
 ## MoscowJS 48 - Feb 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL95OM-7UObpGiyAyygO8xBlvi7GKWHSku)
 | | | |
