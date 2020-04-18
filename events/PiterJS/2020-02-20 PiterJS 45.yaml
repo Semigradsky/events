@@ -1,16 +1,16 @@
 name: PiterJS 45
 date: 2020-02-20
-videos: 
+videos: https://www.youtube.com/watch?v=j83p7mCr7h0
 talks:
   - name: Storybook или как фронтендеры изобретали чистые функции с TDD
     speaker: Дима Богер
-    video: 
+    video: https://youtu.be/j83p7mCr7h0?t=1350
     presentation: 
   - name: CSS value processing
     speaker: София Валитова
-    video: 
+    video: https://youtu.be/j83p7mCr7h0?t=3722
     presentation: 
   - name: Стильные стили
     speaker: Андрей Ефимов
-    video: 
+    video: https://youtu.be/j83p7mCr7h0?t=7046
     presentation: 
