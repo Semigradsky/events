@@ -3,6 +3,12 @@
 
 # PiterJS
 
+## PiterJS 45 - 2020 Feb 20 [:movie_camera:](https://www.youtube.com/watch?v=j83p7mCr7h0)
+| | | |
+| --- | :---: | --- |
+| [Storybook или как фронтендеры изобретали чистые функции с TDD](https://youtu.be/j83p7mCr7h0?t=1350)  |  [Дима Богер](../../speakers/Дима%20Богер.md)  |    |
+| [CSS value processing](https://youtu.be/j83p7mCr7h0?t=3722)  |  [София Валитова](../../speakers/София%20Валитова.md)  |    |
+| [Стильные стили](https://youtu.be/j83p7mCr7h0?t=7046)  |  [Андрей Ефимов](../../speakers/Андрей%20Ефимов.md)  |    |
 ## PiterJS 44 - 2020 Jan 30 [:movie_camera:](https://www.youtube.com/watch?v=IEZmQCJFOog)
 | | | |
 | --- | :---: | --- |

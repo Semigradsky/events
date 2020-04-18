@@ -42,6 +42,12 @@
 | --- | :---: | --- |
 | Mighty Decorators in Typescript  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/typescript-decorators#/)   |
 | Going nuts inside Ivy  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://docs.google.com/presentation/d/1MZlfS1xXq3dp_Y4ata4o0TvOThnQtGZVtTosryvnRQA/edit)   |
+## PiterJS 45 - Feb 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;j83p7mCr7h0)
+| | | |
+| --- | :---: | --- |
+| [Storybook или как фронтендеры изобретали чистые функции с TDD](https://youtu.be/j83p7mCr7h0?t=1350)  |  [Дима Богер](speakers/Дима%20Богер.md)  |    |
+| [CSS value processing](https://youtu.be/j83p7mCr7h0?t=3722)  |  [София Валитова](speakers/София%20Валитова.md)  |    |
+| [Стильные стили](https://youtu.be/j83p7mCr7h0?t=7046)  |  [Андрей Ефимов](speakers/Андрей%20Ефимов.md)  |    |
 ## Angular Minsk 8 - Feb 18 
 | | | |
 | --- | :---: | --- |
