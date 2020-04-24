@@ -1,16 +1,16 @@
 name: PiterJS 46
 date: 2020-04-23
-videos: 
+videos: https://www.youtube.com/watch?v=FMNLN5YIE_M
 talks:
   - name: "Разработка сложных компонентов: деливерим быстро, поддерживаем легко"
     speaker: Роман Пятаков
-    video: 
+    video: https://youtu.be/FMNLN5YIE_M?t=891
     presentation: 
   - name: High performance web applications
     speaker: Иван Затравкин
-    video: 
+    video: https://youtu.be/FMNLN5YIE_M?t=3629
     presentation: 
   - name: Продвинутый CSS-in-TS
     speaker: Дмитрий Карловский
-    video: 
-    presentation: 
+    video: https://youtu.be/FMNLN5YIE_M?t=5589
+    presentation: https://nin-jin.github.io/slides/css-in-ts/
