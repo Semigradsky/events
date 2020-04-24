@@ -3,6 +3,12 @@
 
 # PiterJS
 
+## PiterJS 46 - 2020 Apr 23 [:movie_camera:](https://www.youtube.com/watch?v=FMNLN5YIE_M)
+| | | |
+| --- | :---: | --- |
+| [Разработка сложных компонентов: деливерим быстро, поддерживаем легко](https://youtu.be/FMNLN5YIE_M?t=891)  |  [Роман Пятаков](../../speakers/Роман%20Пятаков.md)  |    |
+| [High performance web applications](https://youtu.be/FMNLN5YIE_M?t=3629)  |  [Иван Затравкин](../../speakers/Иван%20Затравкин.md)  |    |
+| [Продвинутый CSS-in-TS](https://youtu.be/FMNLN5YIE_M?t=5589)  |  [Дмитрий Карловский](../../speakers/Дмитрий%20Карловский.md)  | [:notebook:](https://nin-jin.github.io/slides/css-in-ts/)   |
 ## PiterJS 45 - 2020 Feb 20 [:movie_camera:](https://www.youtube.com/watch?v=j83p7mCr7h0)
 | | | |
 | --- | :---: | --- |
