@@ -3,6 +3,11 @@
 
 # Angular Minsk
 
+## Angular Minsk 10 - 2020 Apr 25 [:movie_camera:](https://www.youtube.com/watch?v=7LPw-Ebv33M)
+| | | |
+| --- | :---: | --- |
+| [Новости и интересные моменты c ng-conf 2020](https://www.youtube.com/watch?v=MbRz_V74-Zg)  |  [Алексей Кунцевич](../../speakers/Алексей%20Кунцевич.md)  | [:notebook:](https://speakerdeck.com/kuncevic/ng-conf-insights-angular-minsk-25-april-2020)   |
+| [ng-conf news quiz](https://youtu.be/7LPw-Ebv33M?t=1921)  |  [Константин Маликов](../../speakers/Константин%20Маликов.md)  |    |
 ## Angular Minsk 9 - 2020 Mar 10 
 | | | |
 | --- | :---: | --- |

@@ -11,6 +11,11 @@
 | [Переезд с Flow на TypeScript — как прошла миграция Яндекс.Дзена и чем хорош новый стек](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=4517s)  |  [Константин Якушин](speakers/Константин%20Якушин.md)  |    |
 | [Минифицируем приватные поля в TypeScript](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=5947s)  |  [Алексей Гусев](speakers/Алексей%20Гусев.md)  |    |
 | [Высокая цена стилей](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=8081s)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+## Angular Minsk 10 - Apr 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;7LPw-Ebv33M)
+| | | |
+| --- | :---: | --- |
+| [Новости и интересные моменты c ng-conf 2020](https://www.youtube.com/watch?v=MbRz_V74-Zg)  |  [Алексей Кунцевич](speakers/Алексей%20Кунцевич.md)  | [:notebook:](https://speakerdeck.com/kuncevic/ng-conf-insights-angular-minsk-25-april-2020)   |
+| [ng-conf news quiz](https://youtu.be/7LPw-Ebv33M?t=1921)  |  [Константин Маликов](speakers/Константин%20Маликов.md)  |    |
 ## PiterJS 46 - Apr 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;FMNLN5YIE_M)
 | | | |
 | --- | :---: | --- |
