@@ -1,0 +1,12 @@
+name: Angular Minsk 11
+date: 2020-05-16
+videos: 
+talks:
+  - name: A11ly in 5r
+    speaker: Глафира Жур
+    video: 
+    presentation: 
+  - name: "Contract protection: runtime type checking"
+    speaker: Алексей Павленко
+    video: 
+    presentation: 

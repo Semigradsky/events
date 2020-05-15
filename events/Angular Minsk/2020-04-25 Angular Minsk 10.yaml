@@ -1,0 +1,12 @@
+name: Angular Minsk 10
+date: 2020-04-25
+videos: https://www.youtube.com/watch?v=7LPw-Ebv33M
+talks:
+  - name: Новости и интересные моменты c ng-conf 2020
+    speaker: Алексей Кунцевич
+    video: https://www.youtube.com/watch?v=MbRz_V74-Zg
+    presentation: https://speakerdeck.com/kuncevic/ng-conf-insights-angular-minsk-25-april-2020
+  - name: ng-conf news quiz
+    speaker: Константин Маликов
+    video: https://youtu.be/7LPw-Ebv33M?t=1921
+    presentation: 
