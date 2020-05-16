@@ -3,14 +3,14 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
-## Я.Субботник по разработке интерфейсов - Apr 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;sk5BIHvtCt8)
+## Я.Субботник по разработке интерфейсов - Apr 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5)
 | | | |
 | --- | :---: | --- |
-| [Автоматизация тестирования на максималках](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=193s)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
-| [Чего стоит обновить стек технологий для 70+ разработчиков: опыт из первых рук](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=2390s)  |  [Евгений Дашкевич](speakers/Евгений%20Дашкевич.md)  |    |
-| [Переезд с Flow на TypeScript — как прошла миграция Яндекс.Дзена и чем хорош новый стек](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=4517s)  |  [Константин Якушин](speakers/Константин%20Якушин.md)  |    |
-| [Минифицируем приватные поля в TypeScript](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=5947s)  |  [Алексей Гусев](speakers/Алексей%20Гусев.md)  |    |
-| [Высокая цена стилей](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=8081s)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [Автоматизация тестирования на максималках](https://www.youtube.com/watch?v=6b6BFbceCGE)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+| [Чего стоит обновить стек технологий для 70+ разработчиков: опыт из первых рук](https://www.youtube.com/watch?v=5dJ979PvsDw)  |  [Евгений Дашкевич](speakers/Евгений%20Дашкевич.md)  |    |
+| [Переезд с Flow на TypeScript — как прошла миграция Яндекс.Дзена и чем хорош новый стек](https://www.youtube.com/watch?v=3lZvd_JhawI)  |  [Константин Якушин](speakers/Константин%20Якушин.md)  |    |
+| [Минифицируем приватные поля в TypeScript](https://www.youtube.com/watch?v=alJCgWIcER0)  |  [Алексей Гусев](speakers/Алексей%20Гусев.md)  |    |
+| [Высокая цена стилей](https://www.youtube.com/watch?v=kATRlMrtaaY)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
 ## Angular Minsk 10 - Apr 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;7LPw-Ebv33M)
 | | | |
 | --- | :---: | --- |

@@ -3,14 +3,14 @@
 
 # Я.Субботник
 
-## Я.Субботник по разработке интерфейсов - 2020 Apr 25 [:movie_camera:](https://www.youtube.com/watch?v=sk5BIHvtCt8)
+## Я.Субботник по разработке интерфейсов - 2020 Apr 25 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5)
 | | | |
 | --- | :---: | --- |
-| [Автоматизация тестирования на максималках](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=193s)  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  |    |
-| [Чего стоит обновить стек технологий для 70+ разработчиков: опыт из первых рук](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=2390s)  |  [Евгений Дашкевич](../../speakers/Евгений%20Дашкевич.md)  |    |
-| [Переезд с Flow на TypeScript — как прошла миграция Яндекс.Дзена и чем хорош новый стек](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=4517s)  |  [Константин Якушин](../../speakers/Константин%20Якушин.md)  |    |
-| [Минифицируем приватные поля в TypeScript](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=5947s)  |  [Алексей Гусев](../../speakers/Алексей%20Гусев.md)  |    |
-| [Высокая цена стилей](https://www.youtube.com/watch?v=sk5BIHvtCt8&t=8081s)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [Автоматизация тестирования на максималках](https://www.youtube.com/watch?v=6b6BFbceCGE)  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  |    |
+| [Чего стоит обновить стек технологий для 70+ разработчиков: опыт из первых рук](https://www.youtube.com/watch?v=5dJ979PvsDw)  |  [Евгений Дашкевич](../../speakers/Евгений%20Дашкевич.md)  |    |
+| [Переезд с Flow на TypeScript — как прошла миграция Яндекс.Дзена и чем хорош новый стек](https://www.youtube.com/watch?v=3lZvd_JhawI)  |  [Константин Якушин](../../speakers/Константин%20Якушин.md)  |    |
+| [Минифицируем приватные поля в TypeScript](https://www.youtube.com/watch?v=alJCgWIcER0)  |  [Алексей Гусев](../../speakers/Алексей%20Гусев.md)  |    |
+| [Высокая цена стилей](https://www.youtube.com/watch?v=kATRlMrtaaY)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
 ## Юбилейный Я.Субботник по разработке интерфейсов - 2019 Oct 26 [:movie_camera:](https://www.youtube.com/watch?v=CKbOHn1lJWw)
 | | | |
 | --- | :---: | --- |
