@@ -1,0 +1,98 @@
+name: HolyJS 2016 Piter
+date: 2016-06-05
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8JST_ZwTcGG1FHGgKBMcpn6
+talks:
+  - name: "В погоне за производительностью: психология пользователя"
+    speaker: Денис Мишунов
+    video: https://www.youtube.com/watch?v=i9cOoipvST8
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_1/mishunov.pdf
+  - name: "Реактивное программирование: управляем потоками данных"
+    speaker: Виктор Русакович
+    video: https://www.youtube.com/watch?v=3cGKw9sxV_g
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_1/rusakovich.pdf
+  - name: Event-Sourcing your React-Redux applications
+    speaker: Maurice de Beijer
+    video: https://www.youtube.com/watch?v=2jqmG9gaktU
+    lang: en
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_2/beijer.pdf
+  - name: "Низкоуровневое программирование в браузере: готовимся использовать WebAssembly"
+    speaker: Вячеслав Лапин
+    video: https://www.youtube.com/watch?v=Q4zFK1FNQH8
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_3/lapin.pdf
+  - name: Данные на фронтенде
+    speaker: Никита Прокопов
+    video: https://www.youtube.com/watch?v=i9cOoipvST8
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_1/prokopov.pdf
+  - name: JavaScript Device Detection
+    speaker: Dino Esposito
+    video: https://www.youtube.com/watch?v=iJW5zeA3LE8
+    lang: en
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_2/esposito.pdf
+  - name: "Опыт тестирования JavaScript: юнит-тесты, велосипеды, моки, боль и сравнение скриншотов"
+    speaker: Татьяна Рыженкова, Сергей Звягин
+    video: https://www.youtube.com/watch?v=ntnKUseSmhU
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_3/zvyagin_ryjenkova.pdf
+  - name: CSSO – история ускорения
+    speaker: Роман Дворнов
+    video: https://www.youtube.com/watch?v=8o3gKKD_J4A
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_1/dvornov.pdf
+  - name: "Порталы на JavaScript: зачем, как, и надо ли оно?"
+    speaker: Михаил Дружинин
+    video: https://www.youtube.com/watch?v=ZoQDuKmw5ic
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_2/druzhinin.pdf
+  - name: Как я перестал верить технологиям
+    speaker: Алексей Симоненко
+    video: https://www.youtube.com/watch?v=f4uXBpP_xxY
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_3/simonenko.pdf
+  - name: CSS-в-JS, HTML-в-JS, ВСЁ-в-JS. Все гораздо проще, когда всё вокруг JavaScript
+    speaker: Алексей Иванов
+    video: https://www.youtube.com/watch?v=36mxhtxWCI4
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_1/ivanov.pdf
+  - name: Удобные API с GraphQL
+    speaker: Михаил Новиков
+    video: https://www.youtube.com/watch?v=5GCwXh6ocxY
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_2/novikov.pdf
+  - name: МРТ для данных
+    speaker: Анастасия Горячева
+    video: https://www.youtube.com/watch?v=8a4K-vyP3Zg
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_3/goryacheva.pdf
+  - name: "Swarm: синхронизируем рой устройств"
+    speaker: Виктор Грищенко
+    video: https://www.youtube.com/watch?v=1ddm7WCMclA
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_1/grishchenko.pdf
+  - name: Практическое применение WebGL
+    speaker: Василика Климова
+    video: https://www.youtube.com/watch?v=bfYzKjhdyu8
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_2/klimova.pdf
+  - name: Парсеры — это Спарта
+    speaker: Алексей Охрименко
+    video: https://www.youtube.com/watch?v=au9_j2NjNaI
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_3/orhimenko.pdf
+  - name: "Angular 2: знакомый герой, новые надежды"
+    speaker: Евгений Гусев
+    video: https://www.youtube.com/watch?v=G2cedTpDu8A
+    presentation: http://bunopus.github.io/presentation-angular-2
+  - name: Откуда берутся js-фичи
+    speaker: Кирилл Сухомлин
+    video: https://www.youtube.com/watch?v=FNl2ohtBRnM
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_2/suhomlin.pdf
+  - name: JS внутри PostgreSQL
+    speaker: Николай Рыжиков
+    video: https://www.youtube.com/watch?v=q3NbkBiboPw
+    presentation:
+  - name: Инфраструктура распределенных приложений на NodeJS
+    speaker: Станислав Гуменюк
+    video: https://www.youtube.com/watch?v=A_7XpcpCeq0
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_1/gumenyuk.pdf
+  - name: Gradual typing in JavaScript
+    speaker: Дмитрий Локтев
+    video: https://www.youtube.com/watch?v=kT9qmv7AJ5A
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_2/loktev.pdf
+  - name: "Iskra JS: JavaScript в микроконтроллере"
+    speaker: Игорь Зотов
+    video: https://www.youtube.com/watch?v=eTelzAGZJ2U
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_3/zotov.pdf
+  - name: Производительность JavaScript через подзорную трубу
+    speaker: Вячеслав Егоров
+    video: https://www.youtube.com/watch?v=HPFARivHJRY
+    presentation: http://public.jugru.org/holyjs/2016/spb/day_1/track_1/egorov.pdf

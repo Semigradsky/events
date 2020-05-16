@@ -1,0 +1,92 @@
+name: HolyJS 2016 Moscow
+date: 2016-12-11
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8IDythQu3ZJPqnvuSXQF8MV
+talks:
+  - name: "ECMAScript: latest and upcoming features"
+    speaker: Axel Rauschmayer
+    video: https://www.youtube.com/watch?v=bIPiqN2YTiQ
+    lang: en
+    presentation: https://assets.contentful.com/nn534z2fqr9f/3Wtdonv1aoWq6GgMWsOmO0/aafff034449f44d200292cc7bcf161b3/Axel_Rauschmayer___ECMAScript_a_______latest_and_upcoming_features.pdf
+  - name: Logux — новый способ связи клиента и сервера
+    speaker: Андрей Ситник
+    video: https://www.youtube.com/watch?v=1RMhUPsVw2M
+    presentation: https://www.slides.com/ai/logux
+  - name: debugger;
+    speaker: Денис Мишунов
+    video: https://www.youtube.com/watch?v=VGoWhHhYpQU
+    presentation: https://speakerdeck.com/mishunov/debugger
+  - name: "Веб-приложения: дробим монолит"
+    speaker: Виктор Грищенко
+    video: https://www.youtube.com/watch?v=c5IiK6FF9zw
+    presentation: https://assets.contentful.com/nn534z2fqr9f/6b6yocEZqgkms0omC2EKU2/23a2b87c370059e86f0ceafec03ba161/holy-msk.pdf
+  - name: Модульный CSS
+    speaker: Андрей Оконечников
+    video: https://www.youtube.com/watch?v=vYmSYsj-s5w
+    presentation: https://assets.contentful.com/nn534z2fqr9f/6l0ov5ckpOUeaYOIAScuIc/ee1ccd4771084d490efb3a334a262417/Andrey_Okonetchnikov_-_Modular_CSS.pdf
+  - name: Remote (dev)tools своими руками
+    speaker: Роман Дворнов
+    video: https://www.youtube.com/watch?v=yb22qyVUqTs
+    presentation: http://www.slideshare.net/basisjs/remove-devtools
+  - name: Rich text editing with Draft.js
+    speaker: Nikolaus Graf
+    video: https://www.youtube.com/watch?v=rHat0n1xBVc
+    lang: en
+    presentation: https://assets.contentful.com/nn534z2fqr9f/1rVBvaJvpOAeimKOakC2sK/f54551db199543d2ef2d6cd1753f1674/Nikolaus_Graf__Rich_text_editing_with_Draft.js.pdf
+  - name: Debugging Node.js in Production
+    speaker: Thomas Watson
+    video: https://www.youtube.com/watch?v=briH-bfleIM
+    lang: en
+    presentation: https://assets.contentful.com/nn534z2fqr9f/2UgTARoNfG6gYyw2y2A4SG/30ad30533cfd053f6f86548589c8c8b7/Thomas_Watson_-_Debugging_Node.js_in_Production.pdf
+  - name: "Лебедь рак и щука: как технологии тянут фронтенд на дно"
+    speaker: Евгений Гусев
+    video: https://www.youtube.com/watch?v=jPbqeSSDuug
+    presentation: https://bunopus.github.io/presentation-frontend-singularity/#/
+  - name: Как подойти к современным веб-приложениям
+    speaker: Никита Прокопов
+    video: https://www.youtube.com/watch?v=x9yYlDNHI2Y
+    presentation: https://downloads.contentful.com/nn534z2fqr9f/3OjrzqA0JymAUEMiEA4KIO/bc8fa61d56eb52f56092947b424838db/Nikita_Prokopov_-_Approaches_to_modern_web_applications.pdf
+  - name: Koa и эволюция middleware
+    speaker: Евгений Пшеничный
+    video: https://www.youtube.com/watch?v=uwlzpzZhlbE
+    presentation: https://assets.contentful.com/nn534z2fqr9f/7CSsUvLVxmCWogsMCYYmck/05cf14c3627ddef869355fa208d07e32/koa-evolution-pshenichnyy-holyjs.pdf
+  - name: 3L3M3NT5
+    speaker: Martin Kleppe
+    video: https://www.youtube.com/watch?v=p0X9UlqarCU
+    lang: en
+    presentation: https://assets.contentful.com/nn534z2fqr9f/66MGrpJhaE2YumkUeACowY/b245e84a8aee6c62ed984b1cafbb9cea/Martin-Kleppe_3L3M3NT5.pdf
+  - name: Offline is the new Black
+    speaker: Max Stoiber
+    video: https://www.youtube.com/watch?v=pjr6VJdDcHQ
+    lang: en
+    presentation: https://assets.contentful.com/nn534z2fqr9f/7JtLWND1QcS8AGKiyOMiwG/df1cc309d1ae6b7d60c885dd85ecab18/offline-is-then-new-black.pdf
+  - name: WebVR is the next frontier
+    speaker: Martin Splitt
+    video: https://www.youtube.com/watch?v=39MiUkGSEks
+    lang: en
+    presentation: https://assets.contentful.com/nn534z2fqr9f/3pqKcOn67uAmmcOooqOa6U/82fa7fb3dff4bb031fa1d3d7ff233fca/Martin_Splitt_-_WebVR_-_the_next_frontier.pdf
+  - name: Мутация web
+    speaker: Павел Кондратенко
+    video: https://www.youtube.com/watch?v=abflBrDQd74
+    presentation: https://downloads.contentful.com/nn534z2fqr9f/4o5NUKOz2gisoGgMKYGUgy/0dd1f1d9b5f5e6fd336e977791b5eb81/Pavel_Kondratenko-The_web_is_mutating.pdf
+  - name: Sharing files and data with friends using a P2P shared folder powered by javascript
+    speaker: Mathias Buus Madsen
+    video: https://www.youtube.com/watch?v=7tf14VpeHlE
+    lang: en
+    presentation: https://assets.contentful.com/nn534z2fqr9f/1oAMAU2BducsGEkOaKsSE2/7d9bfb0d05d01e113716dbe393d6f31c/slides.pdf
+  - name: Как современные библиотеки и фреймворки работают с DOM
+    speaker: Вячеслав Слинько
+    video: https://www.youtube.com/watch?v=P0XaHYtA1QE
+    presentation: https://assets.contentful.com/nn534z2fqr9f/1qpWqK0BF2aI0mSKmuqy86/63d68412bb4582ecde32482903065ef4/Viacheslav_Slinko_-_How_modern_libraries_and_frameworks_work_with_DOM.pdf
+  - name: Why you should care about Elm?
+    speaker: Tereza Sokol
+    video: https://www.youtube.com/watch?v=sd3umr2Zg40
+    lang: en
+    presentation: https://assets.contentful.com/nn534z2fqr9f/3J6GgXC2PC8swuEAEi8aKK/737ee2d2b870ed56cc832938d8d3a208/Tereza_Sokol_-_A_little_closer_to_frontend_bliss_with_Elm.pdf
+  - name: Building Interactive npm Command Line Modules
+    speaker: Irina Shestak
+    video: https://www.youtube.com/watch?v=X5f2_6jPoOc
+    presentation: https://lrlna.github.io/holyjs-2016/#0
+  - name: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Serverless Chatbots"
+    speaker: Slobodan Stojanovic
+    video: https://www.youtube.com/watch?v=hRkK3xCYJ1g
+    presentation: https://assets.contentful.com/nn534z2fqr9f/1WMFErbKO0muAmMwoOWGaA/c240315f0a44feff038cb94d67085732/SlobodanStojanovic_DrStrangeloveOrHowILearnedToStopWorryingAndLoveTheServerlessChatbots-2.pdf
