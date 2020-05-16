@@ -1,24 +1,24 @@
 name: Я.Субботник по разработке интерфейсов
 date: 2020-04-25
-videos: https://www.youtube.com/watch?v=sk5BIHvtCt8
+videos: https://www.youtube.com/playlist?list=PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5
 talks:
   - name: Автоматизация тестирования на максималках
     speaker: Владимир Гриненко
-    video: https://www.youtube.com/watch?v=sk5BIHvtCt8&t=193s
+    video: https://www.youtube.com/watch?v=6b6BFbceCGE
     presentation: 
   - name: "Чего стоит обновить стек технологий для 70+ разработчиков: опыт из первых рук"
     speaker: Евгений Дашкевич
-    video: https://www.youtube.com/watch?v=sk5BIHvtCt8&t=2390s
+    video: https://www.youtube.com/watch?v=5dJ979PvsDw
     presentation: 
   - name: Переезд с Flow на TypeScript — как прошла миграция Яндекс.Дзена и чем хорош новый стек
     speaker: Константин Якушин
-    video: https://www.youtube.com/watch?v=sk5BIHvtCt8&t=4517s
+    video: https://www.youtube.com/watch?v=3lZvd_JhawI
     presentation: 
   - name: Минифицируем приватные поля в TypeScript
     speaker: Алексей Гусев
-    video: https://www.youtube.com/watch?v=sk5BIHvtCt8&t=5947s
+    video: https://www.youtube.com/watch?v=alJCgWIcER0
     presentation: 
   - name: Высокая цена стилей
     speaker: Никита Дубко
-    video: https://www.youtube.com/watch?v=sk5BIHvtCt8&t=8081s
+    video: https://www.youtube.com/watch?v=kATRlMrtaaY
     presentation: 
