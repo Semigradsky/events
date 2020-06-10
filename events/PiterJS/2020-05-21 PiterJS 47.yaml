@@ -1,16 +1,16 @@
 name: PiterJS 47
 date: 2020-05-21
-videos: 
+videos: https://www.youtube.com/watch?v=pev6g_oysUs
 talks:
   - name: "Cordova + React = 🤎"
     speaker: Владимир Ульянов
-    video: 
+    video: https://www.youtube.com/watch?v=pev6g_oysUs
     presentation: 
   - name: "Нейронные сети в JS: А зачем?"
     speaker: Кирилл Сергеев
-    video: 
+    video: https://www.youtube.com/watch?v=pev6g_oysUs
     presentation: 
   - name: "Dockerborn: Gimme the CV"
     speaker: Артём Кобзарь
-    video: 
+    video: https://www.youtube.com/watch?v=pev6g_oysUs
     presentation: 

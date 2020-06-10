@@ -1,0 +1,16 @@
+name: PiterJS 48
+date: 2020-06-11
+videos: 
+talks:
+  - name: Юридические риски для программист
+    speaker: Ян Клименков
+    video: 
+    presentation: 
+  - name: Пишем многопользовательскую игру с помощью Firebase
+    speaker: Kir JS
+    video: 
+    presentation: 
+  - name: Отлаживаем Node.js в Chrome DevTools максимально удобно
+    speaker: Алексей Козятинский
+    video: 
+    presentation: 
