@@ -1,0 +1,12 @@
+name: Angular Belarus 6
+date: 2020-04-30
+videos: https://www.youtube.com/watch?v=gTx5UMAB9ak
+talks:
+  - name: Improved angular app architecture with 5 simple concepts
+    speaker: Константин Маликов
+    video: https://www.youtube.com/watch?v=gTx5UMAB9ak
+    presentation: 
+  - name: The Navigation, or There and Back Again
+    speaker: Александр Вербило
+    video: https://www.youtube.com/watch?v=gTx5UMAB9ak
+    presentation: 
