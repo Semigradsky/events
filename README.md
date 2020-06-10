@@ -3,6 +3,46 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Minsk 14 - Jun 13 
+| | | |
+| --- | :---: | --- |
+| [Cloud State Management with GraphQL](https://www.youtube.com/watch?v=4ZBwZjR84nA)  |  [Михаил Асавкин](speakers/Михаил%20Асавкин.md)  |    |
+## GDG Minsk Web Meetup - Jun 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SeiHpb2gIlM)
+| | | |
+| --- | :---: | --- |
+| [GDE, New age navigation. Diving into portals.](https://www.youtube.com/watch?v=SeiHpb2gIlM) [en] |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://docs.google.com/presentation/d/1165aL9CwW-lzCp4s1bf9T3po83IoNC-BooDsE8hAIks/edit)   |
+| [Simplifying Dependency Injection in Angular.](https://www.youtube.com/watch?v=SeiHpb2gIlM) [en] |  [Dhananjay Kumar](speakers/Dhananjay%20Kumar.md)  |    |
+## Angular Minsk 13 - Jun 06 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;6fzTc2rn05s)
+| | | |
+| --- | :---: | --- |
+| [Автоматизация разработки с Angular Schematics](https://www.youtube.com/watch?v=6fzTc2rn05s)  |  [Янис Сеилис](speakers/Янис%20Сеилис.md)  | [:notebook:](https://drive.google.com/file/d/11jTrKBzxpWBxhyG8fNKlDMzn-9a5W5yy/view)   |
+| [Ангулар может сожрать ваше время](https://www.youtube.com/watch?v=6fzTc2rn05s)  |  [Александр Поштарук](speakers/Александр%20Поштарук.md)  | [:notebook:](https://drive.google.com/file/d/1Re2tBHpA685oRKE0VAStM2sHJKwoM54m/view)   |
+## MinskJS 8 - May 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;JHiQVS5ZXJI)
+| | | |
+| --- | :---: | --- |
+| [Content security policy в dev и test окружениях](https://www.youtube.com/watch?v=JHiQVS5ZXJI)  |  [Эдуард Титов](speakers/Эдуард%20Титов.md)  |    |
+| [Как перестать выбирать фреймворки и начать жить](https://www.youtube.com/watch?v=JHiQVS5ZXJI)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
+| [Удалёнка на продлёнке](https://www.youtube.com/watch?v=JHiQVS5ZXJI)  |  [Василика Климова](speakers/Василика%20Климова.md)  |    |
+## Angular Minsk 12 - May 23 
+| | | |
+| --- | :---: | --- |
+| [State Management with NGXS. NGXS vs NGRX vs Akita.](https://www.youtube.com/watch?v=BtVHm0FJIRA)  |  [Максим Иванов](speakers/Максим%20Иванов.md)  | [:notebook:](https://docs.google.com/presentation/d/1V3ojYDYUm7-NTEFSZWx4jXfBRFIdFJaIVvUiVIm3muU) [:octocat:](https://github.com/ngxs-labs/data)  |
+## PiterJS 47 - May 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;pev6g_oysUs)
+| | | |
+| --- | :---: | --- |
+| [Cordova + React &#x3D; 🤎](https://www.youtube.com/watch?v=pev6g_oysUs)  |  [Владимир Ульянов](speakers/Владимир%20Ульянов.md)  |    |
+| [Нейронные сети в JS: А зачем?](https://www.youtube.com/watch?v=pev6g_oysUs)  |  [Кирилл Сергеев](speakers/Кирилл%20Сергеев.md)  |    |
+| [Dockerborn: Gimme the CV](https://www.youtube.com/watch?v=pev6g_oysUs)  |  [Артём Кобзарь](speakers/Артём%20Кобзарь.md)  |    |
+## Angular Minsk 11 - May 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;xEO00Fz_5Us)
+| | | |
+| --- | :---: | --- |
+| [A11ly in 5r](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Глафира Жур](speakers/Глафира%20Жур.md)  | [:notebook:](https://docs.google.com/presentation/d/1c3ub6vX1XH_oEAzykVIqqc5KPGtS50GuGbrjih22qEE)   |
+| [Contract protection: runtime type checking](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Алексей Павленко](speakers/Алексей%20Павленко.md)  | [:notebook:](https://docs.google.com/presentation/d/13aMbXd9IxYVGra9BQ7jLdkRQkyFCtuBTlclyOl9aiOE)   |
+## Angular Belarus 6 - Apr 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;gTx5UMAB9ak)
+| | | |
+| --- | :---: | --- |
+| [Improved angular app architecture with 5 simple concepts](https://www.youtube.com/watch?v=gTx5UMAB9ak)  |  [Константин Маликов](speakers/Константин%20Маликов.md)  |    |
+| [The Navigation, or There and Back Again](https://www.youtube.com/watch?v=gTx5UMAB9ak)  |  [Александр Вербило](speakers/Александр%20Вербило.md)  |    |
 ## Я.Субботник по разработке интерфейсов - Apr 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5)
 | | | |
 | --- | :---: | --- |

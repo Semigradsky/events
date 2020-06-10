@@ -3,6 +3,11 @@
 
 # Angular Belarus
 
+## Angular Belarus 6 - 2020 Apr 30 [:movie_camera:](https://www.youtube.com/watch?v=gTx5UMAB9ak)
+| | | |
+| --- | :---: | --- |
+| [Improved angular app architecture with 5 simple concepts](https://www.youtube.com/watch?v=gTx5UMAB9ak)  |  [Константин Маликов](../../speakers/Константин%20Маликов.md)  |    |
+| [The Navigation, or There and Back Again](https://www.youtube.com/watch?v=gTx5UMAB9ak)  |  [Александр Вербило](../../speakers/Александр%20Вербило.md)  |    |
 ## Angular Belarus 5 - 2020 Apr 02 [:movie_camera:](https://www.youtube.com/watch?v=84IztzCQsl4)
 | | | |
 | --- | :---: | --- |

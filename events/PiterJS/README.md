@@ -3,6 +3,12 @@
 
 # PiterJS
 
+## PiterJS 47 - 2020 May 21 [:movie_camera:](https://www.youtube.com/watch?v=pev6g_oysUs)
+| | | |
+| --- | :---: | --- |
+| [Cordova + React &#x3D; 🤎](https://www.youtube.com/watch?v=pev6g_oysUs)  |  [Владимир Ульянов](../../speakers/Владимир%20Ульянов.md)  |    |
+| [Нейронные сети в JS: А зачем?](https://www.youtube.com/watch?v=pev6g_oysUs)  |  [Кирилл Сергеев](../../speakers/Кирилл%20Сергеев.md)  |    |
+| [Dockerborn: Gimme the CV](https://www.youtube.com/watch?v=pev6g_oysUs)  |  [Артём Кобзарь](../../speakers/Артём%20Кобзарь.md)  |    |
 ## PiterJS 46 - 2020 Apr 23 [:movie_camera:](https://www.youtube.com/watch?v=FMNLN5YIE_M)
 | | | |
 | --- | :---: | --- |

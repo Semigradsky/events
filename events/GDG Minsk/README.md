@@ -3,6 +3,11 @@
 
 # GDG Minsk
 
+## GDG Minsk Web Meetup - 2020 Jun 09 [:movie_camera:](https://www.youtube.com/watch?v=SeiHpb2gIlM)
+| | | |
+| --- | :---: | --- |
+| [GDE, New age navigation. Diving into portals.](https://www.youtube.com/watch?v=SeiHpb2gIlM) [en] |  [Никита Полторацкий](../../speakers/Никита%20Полторацкий.md)  | [:notebook:](https://docs.google.com/presentation/d/1165aL9CwW-lzCp4s1bf9T3po83IoNC-BooDsE8hAIks/edit)   |
+| [Simplifying Dependency Injection in Angular.](https://www.youtube.com/watch?v=SeiHpb2gIlM) [en] |  [Dhananjay Kumar](../../speakers/Dhananjay%20Kumar.md)  |    |
 ## GDG Minsk Web Meetup - 2019 Nov 27 
 | | | |
 | --- | :---: | --- |

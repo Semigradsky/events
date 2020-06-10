@@ -3,6 +3,12 @@
 
 # MinskJS
 
+## MinskJS 8 - 2020 May 28 [:movie_camera:](https://www.youtube.com/watch?v=JHiQVS5ZXJI)
+| | | |
+| --- | :---: | --- |
+| [Content security policy в dev и test окружениях](https://www.youtube.com/watch?v=JHiQVS5ZXJI)  |  [Эдуард Титов](../../speakers/Эдуард%20Титов.md)  |    |
+| [Как перестать выбирать фреймворки и начать жить](https://www.youtube.com/watch?v=JHiQVS5ZXJI)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  |    |
+| [Удалёнка на продлёнке](https://www.youtube.com/watch?v=JHiQVS5ZXJI)  |  [Василика Климова](../../speakers/Василика%20Климова.md)  |    |
 ## MinskJS 7 - 2020 Feb 13 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsL3nvC7pP69BhxdLC5JRT5B)
 | | | |
 | --- | :---: | --- |

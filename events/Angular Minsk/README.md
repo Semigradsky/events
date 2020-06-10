@@ -3,6 +3,24 @@
 
 # Angular Minsk
 
+## Angular Minsk 14 - 2020 Jun 13 
+| | | |
+| --- | :---: | --- |
+| [Cloud State Management with GraphQL](https://www.youtube.com/watch?v=4ZBwZjR84nA)  |  [Михаил Асавкин](../../speakers/Михаил%20Асавкин.md)  |    |
+## Angular Minsk 13 - 2020 Jun 06 [:movie_camera:](https://www.youtube.com/watch?v=6fzTc2rn05s)
+| | | |
+| --- | :---: | --- |
+| [Автоматизация разработки с Angular Schematics](https://www.youtube.com/watch?v=6fzTc2rn05s)  |  [Янис Сеилис](../../speakers/Янис%20Сеилис.md)  | [:notebook:](https://drive.google.com/file/d/11jTrKBzxpWBxhyG8fNKlDMzn-9a5W5yy/view)   |
+| [Ангулар может сожрать ваше время](https://www.youtube.com/watch?v=6fzTc2rn05s)  |  [Александр Поштарук](../../speakers/Александр%20Поштарук.md)  | [:notebook:](https://drive.google.com/file/d/1Re2tBHpA685oRKE0VAStM2sHJKwoM54m/view)   |
+## Angular Minsk 12 - 2020 May 23 
+| | | |
+| --- | :---: | --- |
+| [State Management with NGXS. NGXS vs NGRX vs Akita.](https://www.youtube.com/watch?v=BtVHm0FJIRA)  |  [Максим Иванов](../../speakers/Максим%20Иванов.md)  | [:notebook:](https://docs.google.com/presentation/d/1V3ojYDYUm7-NTEFSZWx4jXfBRFIdFJaIVvUiVIm3muU) [:octocat:](https://github.com/ngxs-labs/data)  |
+## Angular Minsk 11 - 2020 May 16 [:movie_camera:](https://www.youtube.com/watch?v=xEO00Fz_5Us)
+| | | |
+| --- | :---: | --- |
+| [A11ly in 5r](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Глафира Жур](../../speakers/Глафира%20Жур.md)  | [:notebook:](https://docs.google.com/presentation/d/1c3ub6vX1XH_oEAzykVIqqc5KPGtS50GuGbrjih22qEE)   |
+| [Contract protection: runtime type checking](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Алексей Павленко](../../speakers/Алексей%20Павленко.md)  | [:notebook:](https://docs.google.com/presentation/d/13aMbXd9IxYVGra9BQ7jLdkRQkyFCtuBTlclyOl9aiOE)   |
 ## Angular Minsk 10 - 2020 Apr 25 [:movie_camera:](https://www.youtube.com/watch?v=7LPw-Ebv33M)
 | | | |
 | --- | :---: | --- |

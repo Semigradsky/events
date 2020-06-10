@@ -3,6 +3,14 @@
 
 # Unknown
 
+## Доклад-сюрприз
+- 2019 May 20 -- PiterJS 37    
+## Да что такого в этом Vue.js?
+- 2018 Dec 12 -- [OdessaFrontend Meetup 9](https://youtu.be/_UUDoSbbuT0)  | [:notebook:](https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9)  
+## PiterJS #23 — Дебаты 1 часть
+- 2018 Mar 17 -- [PiterJS 23 (IT Global Meetup 12)](https://youtu.be/vJ-4TUKmMr8)    
+## PiterJS #23 — Дебаты 2 часть
+- 2018 Mar 17 -- [PiterJS 23 (IT Global Meetup 12)](https://youtu.be/mTHMKWxjo8E)    
 ## Введение в архитектуру VIPER
 - 2016 Dec 10 -- [Krasnodar Dev Days 1](https://www.youtube.com/watch?v=d-aDhLv_mfo)    
 ## Адаптивный веб-дизайн — как сделать интернет лучше
@@ -11,18 +19,10 @@
 - 2019 Nov 28 -- Angular Moscow 16    
 ## QA session
 - 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
-## Да что такого в этом Vue.js?
-- 2018 Dec 12 -- [OdessaFrontend Meetup 9](https://youtu.be/_UUDoSbbuT0)  | [:notebook:](https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9)  
-## Доклад-сюрприз
-- 2019 May 20 -- PiterJS 37    
 ## Мутационное тестирование
 - 2019 Mar 02 -- Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)  
 ## Angular и Typescript. Основы. Примеры.
 - 2018 Apr 26 -- Mera 20 - JS tricks &amp; Angular quick start  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx)  
-## PiterJS #23 — Дебаты 1 часть
-- 2018 Mar 17 -- [PiterJS 23 (IT Global Meetup 12)](https://youtu.be/vJ-4TUKmMr8)    
-## PiterJS #23 — Дебаты 2 часть
-- 2018 Mar 17 -- [PiterJS 23 (IT Global Meetup 12)](https://youtu.be/mTHMKWxjo8E)    
 ## Полный Spectre уязвимостей
 - 2018 Jan 25 -- [MinskJS 3](https://www.youtube.com/watch?v=hGzy17Nnc38)  | [:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/)| [:notebook:](https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view)  
 ## ?
