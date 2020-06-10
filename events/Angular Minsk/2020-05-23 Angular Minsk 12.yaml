@@ -1,0 +1,9 @@
+name: Angular Minsk 12
+date: 2020-05-23
+videos: 
+talks:
+  - name: State Management with NGXS. NGXS vs NGRX vs Akita.
+    speaker: Максим Иванов
+    video: https://www.youtube.com/watch?v=BtVHm0FJIRA
+    presentation: https://docs.google.com/presentation/d/1V3ojYDYUm7-NTEFSZWx4jXfBRFIdFJaIVvUiVIm3muU
+    code: https://github.com/ngxs-labs/data

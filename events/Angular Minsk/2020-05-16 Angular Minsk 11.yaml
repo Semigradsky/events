@@ -1,12 +1,12 @@
 name: Angular Minsk 11
 date: 2020-05-16
-videos: 
+videos: https://www.youtube.com/watch?v=xEO00Fz_5Us
 talks:
   - name: A11ly in 5r
     speaker: Глафира Жур
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=xEO00Fz_5Us
+    presentation: https://docs.google.com/presentation/d/1c3ub6vX1XH_oEAzykVIqqc5KPGtS50GuGbrjih22qEE
   - name: "Contract protection: runtime type checking"
     speaker: Алексей Павленко
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=xEO00Fz_5Us
+    presentation: https://docs.google.com/presentation/d/13aMbXd9IxYVGra9BQ7jLdkRQkyFCtuBTlclyOl9aiOE
