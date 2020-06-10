@@ -1,0 +1,14 @@
+name: GDG Minsk Web Meetup
+date: 2020-06-09
+videos: https://www.youtube.com/watch?v=SeiHpb2gIlM
+talks:
+  - name: GDE, New age navigation. Diving into portals.
+    speaker: Никита Полторацкий
+    lang: en
+    video: https://www.youtube.com/watch?v=SeiHpb2gIlM
+    presentation: https://docs.google.com/presentation/d/1165aL9CwW-lzCp4s1bf9T3po83IoNC-BooDsE8hAIks/edit
+  - name: Simplifying Dependency Injection in Angular.
+    speaker: Dhananjay Kumar
+    lang: en
+    video: https://www.youtube.com/watch?v=SeiHpb2gIlM
+    presentation: 
