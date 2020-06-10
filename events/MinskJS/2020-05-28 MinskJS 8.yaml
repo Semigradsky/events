@@ -1,4 +1,16 @@
 name: MinskJS 8
 date: 2020-05-28
-videos: 
-talks: []
+videos: https://www.youtube.com/watch?v=JHiQVS5ZXJI
+talks:
+  - name: Content security policy в dev и test окружениях
+    speaker: Эдуард Титов
+    video: https://www.youtube.com/watch?v=JHiQVS5ZXJI
+    presentation: 
+  - name: Как перестать выбирать фреймворки и начать жить
+    speaker: Александра Шинкевич
+    video: https://www.youtube.com/watch?v=JHiQVS5ZXJI
+    presentation: 
+  - name: Удалёнка на продлёнке
+    speaker: Василика Климова
+    video: https://www.youtube.com/watch?v=JHiQVS5ZXJI
+    presentation: 
