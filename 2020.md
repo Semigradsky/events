@@ -49,8 +49,8 @@
 | [Автоматизация тестирования на максималках](https://www.youtube.com/watch?v=6b6BFbceCGE)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
 | [Чего стоит обновить стек технологий для 70+ разработчиков: опыт из первых рук](https://www.youtube.com/watch?v=5dJ979PvsDw)  |  [Евгений Дашкевич](speakers/Евгений%20Дашкевич.md)  |    |
 | [Переезд с Flow на TypeScript — как прошла миграция Яндекс.Дзена и чем хорош новый стек](https://www.youtube.com/watch?v=3lZvd_JhawI)  |  [Константин Якушин](speakers/Константин%20Якушин.md)  |    |
-| [Минифицируем приватные поля в TypeScript](https://www.youtube.com/watch?v=alJCgWIcER0)  |  [Алексей Гусев](speakers/Алексей%20Гусев.md)  |    |
-| [Высокая цена стилей](https://www.youtube.com/watch?v=kATRlMrtaaY)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [Минифицируем приватные поля в TypeScript](https://www.youtube.com/watch?v=alJCgWIcER0)  |  [Алексей Гусев](speakers/Алексей%20Гусев.md)  |  [:octocat:](https://github.com/mad-gooze/ts-minify-private-talk) [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/506030/) |
+| [Дорогая цена стилей](https://www.youtube.com/watch?v=kATRlMrtaaY)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/501998/) |
 ## Angular Minsk 10 - Apr 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;7LPw-Ebv33M)
 | | | |
 | --- | :---: | --- |
