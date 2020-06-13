@@ -18,7 +18,10 @@ talks:
     speaker: Алексей Гусев
     video: https://www.youtube.com/watch?v=alJCgWIcER0
     presentation: 
-  - name: Высокая цена стилей
+    text: https://habr.com/ru/company/yandex/blog/506030/
+    code: https://github.com/mad-gooze/ts-minify-private-talk
+  - name: Дорогая цена стилей
     speaker: Никита Дубко
     video: https://www.youtube.com/watch?v=kATRlMrtaaY
     presentation: 
+    text: https://habr.com/ru/company/yandex/blog/501998/
