@@ -1,4 +1,13 @@
 name: Accessibility Club Minsk Meetup 1
 date: 2020-04-22
-videos: 
-talks: []
+videos: https://www.youtube.com/playlist?list=PLTsuZFjKkk4N32xMmjizVy9Rf54nLMmQW
+talks:
+  - name: Доступная карусель
+    speaker: Юлия Долгун
+    video: https://www.youtube.com/watch?v=DAO9_bXCTuk
+    presentation: http://accessible-carousel.surge.sh/
+    code: https://codepen.io/julia1996/pen/PoYQLaW
+  - name: "WCAG: Как разобраться и не умереть"
+    speaker: Захар Авсиевич
+    video: https://youtu.be/G74m6225RMQ
+    presentation: https://zavsievich.github.io/wcag-presentation/
