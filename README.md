@@ -62,6 +62,11 @@
 | [Разработка сложных компонентов: деливерим быстро, поддерживаем легко](https://youtu.be/FMNLN5YIE_M?t=891)  |  [Роман Пятаков](speakers/Роман%20Пятаков.md)  |    |
 | [High performance web applications](https://youtu.be/FMNLN5YIE_M?t=3629)  |  [Иван Затравкин](speakers/Иван%20Затравкин.md)  |    |
 | [Продвинутый CSS-in-TS](https://youtu.be/FMNLN5YIE_M?t=5589)  |  [Дмитрий Карловский](speakers/Дмитрий%20Карловский.md)  | [:notebook:](https://nin-jin.github.io/slides/css-in-ts/)   |
+## Accessibility Club Minsk Meetup 1 - Apr 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLTsuZFjKkk4N32xMmjizVy9Rf54nLMmQW)
+| | | |
+| --- | :---: | --- |
+| [Доступная карусель](https://www.youtube.com/watch?v=DAO9_bXCTuk)  |  [Юлия Долгун](speakers/Юлия%20Долгун.md)  | [:notebook:](http://accessible-carousel.surge.sh/) [:octocat:](https://codepen.io/julia1996/pen/PoYQLaW)  |
+| [WCAG: Как разобраться и не умереть](https://youtu.be/G74m6225RMQ)  |  [Захар Авсиевич](speakers/Захар%20Авсиевич.md)  | [:notebook:](https://zavsievich.github.io/wcag-presentation/)   |
 ## MinskCSS 8 - Apr 08 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;BRbR0wXhO38)
 | | | |
 | --- | :---: | --- |

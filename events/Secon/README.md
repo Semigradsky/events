@@ -11,7 +11,7 @@
 | [TDD &amp; BDD - выходим на новый уровень](https://youtu.be/p-Gk_SFXDSY)  |  [Сергей Рожков](../../speakers/Сергей%20Рожков.md)  | [:notebook:](https://drive.google.com/open?id=1-Ko5GrHv6YYIFAEjgce8WZk3ZYvu0OiZqS_53Qd1cUE)   |
 | [От монолита к монорепе](https://youtu.be/D5ByaQUH4j4)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  | [:notebook:](https://drive.google.com/open?id=19e-1gNEweBW0PyJPkQ01mV4lNw5HLLev)   |
 | [React-компоненты: классы или функции?](https://youtu.be/2QbNCcbWDfI)  |  [Виктор Швецов](../../speakers/Виктор%20Швецов.md)  | [:notebook:](https://drive.google.com/open?id=1jZfFUnt0vRQHu552n6AdBH_dM5yc-Rug)   |
-| [Погружение в глубокий офлайн - веб способен на это!](https://youtu.be/_CDnbqVjWkk)  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  | [:notebook:](https://slides.com/webmax/offline-secon/)   |
+| [Погружение в глубокий оффлайн — веб способен на это!](https://youtu.be/_CDnbqVjWkk)  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  | [:notebook:](https://slides.com/webmax/offline-secon/)   |
 | [WebGL 2D: простой как Web](https://youtu.be/vQLLCKaYyW4)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  | [:notebook:](https://drive.google.com/open?id=13T6MUEX37n7dnLWsySIutClP-W2GfHDJV1VSxtv8unc)   |
 | [Дом света](https://youtu.be/kwdx2VbSk3k)  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  | [:notebook:](https://drive.google.com/open?id=1jwZ0vrSE3gUOoizSLpm5Lmoz33oTHi4O)   |
 ## Secon 2018 - 2018 Mar 16-17 [:movie_camera:](https://www.youtube.com/playlist?list=PLxwUX4aaSLiKblf10mMZWNTP3yPF7yUK0)
