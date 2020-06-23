@@ -1,0 +1,13 @@
+name: GDG DevFest Moscow 2019
+date: 2019-11-09
+videos: 
+talks:
+  - name: Surprisingly Easy Way To Build Microfrontends With Angular
+    speaker: Tomas Trajan
+    lang: en
+    video: 
+    presentation: 
+  - name: Погружение в глубокий оффлайн — веб способен на это!
+    speaker: Максим Сальников
+    video: 
+    presentation: 

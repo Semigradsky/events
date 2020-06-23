@@ -4,7 +4,7 @@ videos: ''
 link: https://meetup.tinkoff.ru/event/mobile-js/
 talks:
   - name: Ускоряем загрузку мобильных приложений
-    speaker: Сергей Пугачев
+    speaker: Сергей Пугачёв
     video: https://youtu.be/Cpb4GREpuas
     presentation:
   - name: Простота. Надежность. WebAuthn

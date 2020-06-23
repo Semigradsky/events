@@ -1,0 +1,64 @@
+name: DevParty
+date: 2020-06-27
+videos: 
+talks:
+  - name: '?'
+    speaker: Кирилл Черкашин
+    video: 
+    presentation: 
+  - name: Уско­ря­ем­ся с по­мо­щью Browserslist
+    speaker: Даниил Оношко
+    video: 
+    presentation: 
+  - name: "Developer Experience (DX): Разработчики — тоже люди. GraphQL"
+    speaker: Алексей Родионов
+    video: 
+    presentation: 
+  - name: NestJS - backend out of the box
+    speaker: Валентин Кононов
+    video: 
+    presentation: 
+  - name: Будущее навигации в веб. Разбираемся с Portals API
+    speaker: Никита Полторацкий
+    video: 
+    presentation: 
+  - name: Фоновые сервисы в браузерах - есть ли жизнь после закрытия вкладки?
+    speaker: Максим Сальников
+    video: 
+    presentation: 
+  - name: Потанцуем?
+    speaker: Василика Климова
+    video: 
+    presentation: 
+  - name: "Мама, мы все тяжело больны: 5 проблем в IT, которые вас сломают"
+    speaker: Евгений Кот
+    video: 
+    presentation: 
+  - name: "WebAssembly: Приручи дракона"
+    speaker: Полина Гуртовая
+    video: 
+    presentation: 
+  - name: Web Vitals - метрики здорового сайта
+    speaker: Андрей Липатцев
+    video: 
+    presentation: 
+  - name: Нативные API и Angular
+    speaker: Александр Инкин
+    video: 
+    presentation: 
+  - name: "HTML: The Good Parts"
+    speaker: Вадим Макеев
+    video: 
+    presentation: 
+  - name: "Shadow DOM: вдали от проторенных троп"
+    speaker: Сергей Куликов
+    video: 
+    presentation: 
+  - name: Магия MagicString
+    speaker: Алексей Охрименко
+    video: 
+    presentation: 
+  - name: "OpenCV в браузере: WebCamera приложение"
+    speaker: Александра Журавлева
+    video: 
+    presentation: 

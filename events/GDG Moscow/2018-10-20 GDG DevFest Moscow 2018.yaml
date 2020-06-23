@@ -1,0 +1,12 @@
+name: GDG DevFest Moscow 2018
+date: 2018-10-20
+videos: https://www.youtube.com/playlist?list=PLqnD25nClTtJ_93ef0ksN3oCjiPtLNJPy
+talks:
+  - name: Пандус для сайта
+    speaker: Иван Бакаидов
+    video: https://youtu.be/vfM0gjLBLUE
+    presentation: http://ibakaidov.ru/ramp4site
+  - name: Погружение в WebAssembly - внутреннее устройство и практическое применение
+    speaker: Сергей Пугачёв
+    video: https://youtu.be/QNzhmJnQkg8
+    presentation: https://drive.google.com/file/d/1RRB-LvnbheQZT1kdI_oHjof7xjxr3JN7/view
