@@ -1,0 +1,14 @@
+name: Angular Belarus 7
+date: 2020-06-25
+videos: 
+talks:
+  - name: "Angular Language Service: What's New"
+    speaker: Keen Yee Liau
+    lang: en
+    video: https://www.youtube.com/watch?v=i3x_19-LTuM
+    presentation: 
+  - name: "NGXS the power of Selectors"
+    speaker: Mateus Carniatto
+    lang: en
+    video: https://www.youtube.com/watch?v=i3x_19-LTuM
+    presentation: 
