@@ -6,7 +6,7 @@
 ## Angular Minsk 14 - 2020 Jun 13 
 | | | |
 | --- | :---: | --- |
-| [Cloud State Management with GraphQL](https://www.youtube.com/watch?v=4ZBwZjR84nA)  |  [Михаил Асавкин](../../speakers/Михаил%20Асавкин.md)  |    |
+| [Cloud State Management with GraphQL](https://www.youtube.com/watch?v=4ZBwZjR84nA)  |  [Михаил Асавкин](../../speakers/Михаил%20Асавкин.md)  | [:notebook:](https://www.slideshare.net/secret/2sHjeHsWlb4Hsj)   |
 ## Angular Minsk 13 - 2020 Jun 06 [:movie_camera:](https://www.youtube.com/watch?v=6fzTc2rn05s)
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,11 @@
 
 # Angular Belarus
 
+## Angular Belarus 7 - 2020 Jun 25 
+| | | |
+| --- | :---: | --- |
+| [Angular Language Service: What&#39;s New](https://www.youtube.com/watch?v=i3x_19-LTuM) [en] |  [Keen Yee Liau](../../speakers/Keen%20Yee%20Liau.md)  |    |
+| [NGXS the power of Selectors](https://www.youtube.com/watch?v=i3x_19-LTuM) [en] |  [Mateus Carniatto](../../speakers/Mateus%20Carniatto.md)  |    |
 ## Angular Belarus 6 - 2020 Apr 30 [:movie_camera:](https://www.youtube.com/watch?v=gTx5UMAB9ak)
 | | | |
 | --- | :---: | --- |
