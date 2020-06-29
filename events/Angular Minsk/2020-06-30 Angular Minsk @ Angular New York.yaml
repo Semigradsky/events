@@ -1,0 +1,19 @@
+name: Angular Minsk @ Angular New York
+date: 2020-06-30
+videos: 
+talks:
+  - name: Progressive State Management with NGXS
+    speaker: Алексей Кунцевич
+    lang: en
+    video: 
+    presentation: 
+  - name: Scully - A New Way To Angular
+    speaker: Константин Маликов
+    lang: en
+    video: 
+    presentation: 
+  - name: Prerender it easily
+    speaker: Илья Рабчинский
+    lang: en
+    video: 
+    presentation: 
