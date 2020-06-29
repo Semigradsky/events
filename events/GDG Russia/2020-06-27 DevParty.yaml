@@ -1,64 +1,64 @@
 name: DevParty
 date: 2020-06-27
-videos: 
+videos: https://www.youtube.com/playlist?list=PLGlZ_ld11os-nnB5CG_p6brIUWMGXU5Tr
 talks:
-  - name: '?'
+  - name: Пишем многопользовательскую игру с помощью Firebase
     speaker: Кирилл Черкашин
-    video: 
+    video: https://www.youtube.com/watch?v=QXJFytluGTo
     presentation: 
   - name: Уско­ря­ем­ся с по­мо­щью Browserslist
     speaker: Даниил Оношко
-    video: 
+    video: https://www.youtube.com/watch?v=zxKwVlUPEW0
     presentation: 
   - name: "Developer Experience (DX): Разработчики — тоже люди. GraphQL"
     speaker: Алексей Родионов
-    video: 
+    video: https://www.youtube.com/watch?v=i4lBV8by8t4
     presentation: 
   - name: NestJS - backend out of the box
     speaker: Валентин Кононов
-    video: 
+    video: https://www.youtube.com/watch?v=4stUnXZDknI
     presentation: 
   - name: Будущее навигации в веб. Разбираемся с Portals API
     speaker: Никита Полторацкий
-    video: 
+    video: https://www.youtube.com/watch?v=l_UaLiqct4Q
     presentation: 
   - name: Фоновые сервисы в браузерах - есть ли жизнь после закрытия вкладки?
     speaker: Максим Сальников
-    video: 
+    video: https://www.youtube.com/watch?v=O4eTlsZlSxM
     presentation: 
   - name: Потанцуем?
     speaker: Василика Климова
-    video: 
+    video: https://www.youtube.com/watch?v=MZA8F479JHQ
     presentation: 
   - name: "Мама, мы все тяжело больны: 5 проблем в IT, которые вас сломают"
     speaker: Евгений Кот
-    video: 
+    video: https://www.youtube.com/watch?v=MscM6ciVFdA
     presentation: 
   - name: "WebAssembly: Приручи дракона"
     speaker: Полина Гуртовая
-    video: 
+    video: https://www.youtube.com/watch?v=ehPucx9he5U
     presentation: 
   - name: Web Vitals - метрики здорового сайта
     speaker: Андрей Липатцев
-    video: 
+    video: https://www.youtube.com/watch?v=681ubR87iLw
     presentation: 
   - name: Нативные API и Angular
     speaker: Александр Инкин
-    video: 
+    video: https://www.youtube.com/watch?v=G4qftFVsJj8
     presentation: 
   - name: "HTML: The Good Parts"
     speaker: Вадим Макеев
-    video: 
+    video: https://www.youtube.com/watch?v=rqRontwPPR4
     presentation: 
   - name: "Shadow DOM: вдали от проторенных троп"
     speaker: Сергей Куликов
-    video: 
+    video: https://www.youtube.com/watch?v=97_zqVXwAj4
     presentation: 
   - name: Магия MagicString
     speaker: Алексей Охрименко
-    video: 
+    video: https://www.youtube.com/watch?v=UB2XK7Cf-Ms
     presentation: 
   - name: "OpenCV в браузере: WebCamera приложение"
     speaker: Александра Журавлева
-    video: 
+    video: https://www.youtube.com/watch?v=Fk_bvkZ_CL0
     presentation: 
