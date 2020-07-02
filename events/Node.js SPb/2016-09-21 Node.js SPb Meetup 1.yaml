@@ -1,0 +1,16 @@
+name: Node.js SPb Meetup 1
+date: 2016-09-21
+videos: 
+talks:
+  - name: Использование акторов для гибкого масштабирования
+    speaker: 'Unknown'
+    video: 
+    presentation: 
+  - name: Использование TypeScript в Node.js проектах
+    speaker: 'Unknown'
+    video: 
+    presentation: 
+  - name: Microsoft Azure и использование в нем Node.js проектов
+    speaker: 'Unknown'
+    video: 
+    presentation: 

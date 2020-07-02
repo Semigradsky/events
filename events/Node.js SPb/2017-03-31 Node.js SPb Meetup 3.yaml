@@ -1,0 +1,20 @@
+name: Node.js SPb Meetup 3
+date: 2017-03-31
+videos: https://www.youtube.com/watch?v=Yxsf06JSGCE
+talks:
+  - name: Использование TypeScript в Node.js
+    speaker: Виктор Исаев
+    video: https://youtu.be/Yxsf06JSGCE?t=3268
+    presentation: 
+  - name: Разработка кросс-платформенных мобильных гибридных приложений на базе Node.js с использованием Rhomobile
+    speaker: Дмитрий Солдатенков
+    video: https://youtu.be/Yxsf06JSGCE?t=7599
+    presentation: http://files.tau-technologies.com/Events/2017_03_31_SPB_Nodejs_meetup/Rhomobile_SPB_Nodejs_meetup_2017_03_31.pdf
+  - name: Нужен ли мне TypeScript?
+    speaker: Александр Баумгертнер
+    video: https://youtu.be/Yxsf06JSGCE?t=11615
+    presentation: https://easy-deep-learning.github.io/types-sugar-in-javascript/
+  - name: "Swagger: REST API с нуля и красиво"
+    speaker: Виталий Мещанинов
+    video: https://youtu.be/Yxsf06JSGCE?t=12502
+    presentation: 

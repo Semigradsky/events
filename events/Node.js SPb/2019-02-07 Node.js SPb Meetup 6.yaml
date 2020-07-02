@@ -1,0 +1,12 @@
+name: Node.js SPb Meetup 6
+date: 2019-02-07
+videos: https://www.youtube.com/watch?v=zOzThmwfoNk
+talks:
+  - name: Проект 8base. Backend-as-Service платформа c GraphQL API, на бэкенде Node.js
+    speaker: Андрей Горинов
+    video: https://www.youtube.com/watch?v=UAGsOxoKfbM
+    presentation: 
+  - name: Разрываем монолит
+    speaker: Андрей Мелихов
+    video: https://youtu.be/zOzThmwfoNk?t=2405
+    presentation: 

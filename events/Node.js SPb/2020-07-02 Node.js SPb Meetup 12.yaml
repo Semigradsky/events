@@ -1,0 +1,8 @@
+name: Node.js SPb Meetup 12
+date: 2020-07-02
+videos: 
+talks:
+  - name: Немного шалим со свежими WeakRef и FinalizationRegistry  API
+    speaker: Андрей Печкуров
+    video: 
+    presentation: 

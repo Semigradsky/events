@@ -1,0 +1,12 @@
+name: Node.js SPb Meetup 11
+date: 2020-04-28
+videos: https://www.youtube.com/watch?v=WQpnlpxYhaU
+talks:
+  - name: Об алгоритмах консенсуса
+    speaker: Андрей Печкуров
+    video: https://www.youtube.com/watch?v=WQpnlpxYhaU
+    presentation: 
+  - name: Strict mode в TypeScript или как помочь компилятору помочь нам
+    speaker: Андрей Гончаров
+    video: https://www.youtube.com/watch?v=WQpnlpxYhaU
+    presentation: 

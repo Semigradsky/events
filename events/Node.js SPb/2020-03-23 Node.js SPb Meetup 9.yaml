@@ -1,0 +1,8 @@
+name: Node.js SPb Meetup 9
+date: 2020-03-23
+videos: 
+talks:
+  - name: Мониторинг node.js-приложений на примере интересного кейса
+    speaker: Андрей Мелихов
+    video: https://www.youtube.com/watch?v=UX8ZNmRY-To
+    presentation: 

@@ -1,0 +1,12 @@
+name: Node.js SPb Meetup 10
+date: 2020-04-09
+videos: https://www.youtube.com/watch?v=H8gl5IpDWKA
+talks:
+  - name: "Асинхронность и контекст: счастливы вместе!"
+    speaker: Илья Климов
+    video: https://www.youtube.com/watch?v=H8gl5IpDWKA
+    presentation: 
+  - name: Обзор Moleculer.js
+    speaker: Максим Манылов
+    video: https://www.youtube.com/watch?v=H8gl5IpDWKA
+    presentation: 
