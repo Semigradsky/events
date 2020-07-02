@@ -71,6 +71,11 @@
 | --- | :---: | --- |
 | [Improved angular app architecture with 5 simple concepts](https://www.youtube.com/watch?v=gTx5UMAB9ak)  |  [Константин Маликов](speakers/Константин%20Маликов.md)  |    |
 | [The Navigation, or There and Back Again](https://www.youtube.com/watch?v=gTx5UMAB9ak)  |  [Александр Вербило](speakers/Александр%20Вербило.md)  |    |
+## Node.js SPb Meetup 11 - Apr 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;WQpnlpxYhaU)
+| | | |
+| --- | :---: | --- |
+| [Об алгоритмах консенсуса](https://www.youtube.com/watch?v=WQpnlpxYhaU)  |  [Андрей Печкуров](speakers/Андрей%20Печкуров.md)  |    |
+| [Strict mode в TypeScript или как помочь компилятору помочь нам](https://www.youtube.com/watch?v=WQpnlpxYhaU)  |  [Андрей Гончаров](speakers/Андрей%20Гончаров.md)  |    |
 ## Я.Субботник по разработке интерфейсов - Apr 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5)
 | | | |
 | --- | :---: | --- |
@@ -90,6 +95,11 @@
 | [Разработка сложных компонентов: деливерим быстро, поддерживаем легко](https://youtu.be/FMNLN5YIE_M?t=891)  |  [Роман Пятаков](speakers/Роман%20Пятаков.md)  |    |
 | [High performance web applications](https://youtu.be/FMNLN5YIE_M?t=3629)  |  [Иван Затравкин](speakers/Иван%20Затравкин.md)  |    |
 | [Продвинутый CSS-in-TS](https://youtu.be/FMNLN5YIE_M?t=5589)  |  [Дмитрий Карловский](speakers/Дмитрий%20Карловский.md)  | [:notebook:](https://nin-jin.github.io/slides/css-in-ts/)   |
+## Node.js SPb Meetup 10 - Apr 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H8gl5IpDWKA)
+| | | |
+| --- | :---: | --- |
+| [Асинхронность и контекст: счастливы вместе!](https://www.youtube.com/watch?v=H8gl5IpDWKA)  |  [Илья Климов](speakers/Илья%20Климов.md)  |    |
+| [Обзор Moleculer.js](https://www.youtube.com/watch?v=H8gl5IpDWKA)  |  [Максим Манылов](speakers/Максим%20Манылов.md)  |    |
 ## MinskCSS 8 - Apr 08 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;BRbR0wXhO38)
 | | | |
 | --- | :---: | --- |
@@ -102,6 +112,10 @@
 | --- | :---: | --- |
 | [Protractor: Automated testing of Angular apps](https://www.youtube.com/watch?v=84IztzCQsl4)  |  [Валерия Шоломова](speakers/Валерия%20Шоломова.md)  |    |
 | [What are Angular Reactive Forms?](https://www.youtube.com/watch?v=84IztzCQsl4)  |  [Максим Чиркун](speakers/Максим%20Чиркун.md)  |    |
+## Node.js SPb Meetup 9 - Mar 23 
+| | | |
+| --- | :---: | --- |
+| [Мониторинг node.js-приложений на примере интересного кейса](https://www.youtube.com/watch?v=UX8ZNmRY-To)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
 ## Angular Minsk 9 - Mar 10 
 | | | |
 | --- | :---: | --- |

@@ -7,6 +7,16 @@
 - 2018 Dec 12 -- [OdessaFrontend Meetup 9](https://youtu.be/_UUDoSbbuT0)  | [:notebook:](https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9)  
 ## Введение в архитектуру VIPER
 - 2016 Dec 10 -- [Krasnodar Dev Days 1](https://www.youtube.com/watch?v=d-aDhLv_mfo)    
+## Senecajs — Что это и зачем нужно? Введение в микросервисы
+- 2016 Oct 20 -- Node.js SPb Meetup 2    
+## Применение Senecajs — когда это оправдано, а когда — нет
+- 2016 Oct 20 -- Node.js SPb Meetup 2    
+## Использование акторов для гибкого масштабирования
+- 2016 Sep 21 -- Node.js SPb Meetup 1    
+## Использование TypeScript в Node.js проектах
+- 2016 Sep 21 -- Node.js SPb Meetup 1    
+## Microsoft Azure и использование в нем Node.js проектов
+- 2016 Sep 21 -- Node.js SPb Meetup 1    
 ## Адаптивный веб-дизайн — как сделать интернет лучше
 - 2012 Oct 06-07 -- 404fest 2012    
 ## Angular Universal Advanced
