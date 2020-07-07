@@ -1,24 +1,24 @@
 name: Я.Субботник по разработке интерфейсов
 date: 2020-07-04
-videos: https://www.youtube.com/watch?v=1rW6U8kjBQQ
+videos: https://www.youtube.com/playlist?list=PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5
 talks:
   - name: Бесконечная лента — без шуток
     speaker: Валентин Каменек
-    video: 
+    video: https://www.youtube.com/watch?v=hmZN6vi9yb4
     presentation: 
   - name: Как померить Node.js приложения, если у тебя лапки
     speaker: Алексей Попков
-    video: 
+    video: https://www.youtube.com/watch?v=Kbmqac6ieck
     presentation: 
   - name: "@yandex/ui"
     speaker: Владимир Гриненко
-    video: 
+    video: https://www.youtube.com/watch?v=trwdc0JCelA
     presentation: 
   - name: Эмуляция NES/Famicom/Dendy на веб-технологиях
     speaker: Евгений Кузнецов
-    video: 
+    video: https://www.youtube.com/watch?v=_2JpZpjYgsU
     presentation: 
   - name: Магия современных возможностей JavaScript для работающего программиста
     speaker: Александр Николаичев
-    video: 
+    video: https://www.youtube.com/watch?v=CBHoYfLMVKs
     presentation: 
