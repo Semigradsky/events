@@ -3,6 +3,14 @@
 
 # Я.Субботник
 
+## Я.Субботник по разработке интерфейсов - 2020 Jul 04 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5)
+| | | |
+| --- | :---: | --- |
+| [Бесконечная лента — без шуток](https://www.youtube.com/watch?v=hmZN6vi9yb4)  |  [Валентин Каменек](../../speakers/Валентин%20Каменек.md)  |    |
+| [Как померить Node.js приложения, если у тебя лапки](https://www.youtube.com/watch?v=Kbmqac6ieck)  |  [Алексей Попков](../../speakers/Алексей%20Попков.md)  |    |
+| [@yandex&#x2F;ui](https://www.youtube.com/watch?v=trwdc0JCelA)  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  |    |
+| [Эмуляция NES&#x2F;Famicom&#x2F;Dendy на веб-технологиях](https://www.youtube.com/watch?v=_2JpZpjYgsU)  |  [Евгений Кузнецов](../../speakers/Евгений%20Кузнецов.md)  |    |
+| [Магия современных возможностей JavaScript для работающего программиста](https://www.youtube.com/watch?v=CBHoYfLMVKs)  |  [Александр Николаичев](../../speakers/Александр%20Николаичев.md)  |    |
 ## Я.Субботник по разработке интерфейсов - 2020 Apr 25 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5)
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,14 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Я.Субботник по разработке интерфейсов - Jul 04 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5)
+| | | |
+| --- | :---: | --- |
+| [Бесконечная лента — без шуток](https://www.youtube.com/watch?v=hmZN6vi9yb4)  |  [Валентин Каменек](speakers/Валентин%20Каменек.md)  |    |
+| [Как померить Node.js приложения, если у тебя лапки](https://www.youtube.com/watch?v=Kbmqac6ieck)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
+| [@yandex&#x2F;ui](https://www.youtube.com/watch?v=trwdc0JCelA)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+| [Эмуляция NES&#x2F;Famicom&#x2F;Dendy на веб-технологиях](https://www.youtube.com/watch?v=_2JpZpjYgsU)  |  [Евгений Кузнецов](speakers/Евгений%20Кузнецов.md)  |    |
+| [Магия современных возможностей JavaScript для работающего программиста](https://www.youtube.com/watch?v=CBHoYfLMVKs)  |  [Александр Николаичев](speakers/Александр%20Николаичев.md)  |    |
 ## DevParty - Jun 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLGlZ_ld11os-nnB5CG_p6brIUWMGXU5Tr)
 | | | |
 | --- | :---: | --- |
