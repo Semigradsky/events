@@ -3,6 +3,8 @@
 
 # Minko Gechev
 
+## Что нас ждет после Angular v10
+- 2020 Jul 15 -- Angular Minsk 16 [en]   
 ## Mad Science with the Angular Compiler
 - 2017 Dec 13 -- Angular Moscow 7 [en]   
 ## Scalable Angular 2 Application Architecture

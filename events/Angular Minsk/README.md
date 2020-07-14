@@ -3,6 +3,11 @@
 
 # Angular Minsk
 
+## Angular Minsk 15 - 2020 Jul 11 [:movie_camera:](https://www.youtube.com/watch?v=vRl_Nar9iNs)
+| | | |
+| --- | :---: | --- |
+| [RxJS Higher-Order Observables](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Алексей Павленко](../../speakers/Алексей%20Павленко.md)  |    |
+| [RxJS retry vs repeat](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Александр Поштарук](../../speakers/Александр%20Поштарук.md)  |    |
 ## Angular Minsk 14 - 2020 Jun 13 
 | | | |
 | --- | :---: | --- |

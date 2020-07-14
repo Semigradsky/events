@@ -3,6 +3,12 @@
 
 # WebAssembly Moscow
 
+## WebAssembly Moscow 2 - 2019 Aug 01 [:movie_camera:](https://www.youtube.com/watch?v=EaJHp-c_HVk)
+| | | |
+| --- | :---: | --- |
+| [Webassembly SPA фреймворки. Обзор и примеры на основе blazor.](https://youtu.be/EaJHp-c_HVk?t=672)  |  [Илья Черторыльский](../../speakers/Илья%20Черторыльский.md)  |    |
+| [Компилятор lightbeam](https://youtu.be/EaJHp-c_HVk?t=4230)  |  [Николай Вольф](../../speakers/Николай%20Вольф.md)  |    |
+| [WASI: An API for non-Web WebAssembly](https://youtu.be/EaJHp-c_HVk?t=7577) [en] |  [Dan Gohman](../../speakers/Dan%20Gohman.md)  |    |
 ## WebAssembly Moscow 1 - 2019 May 16 [:movie_camera:](https://www.youtube.com/watch?v=O8IMFHu1dG0)
 | | | |
 | --- | :---: | --- |

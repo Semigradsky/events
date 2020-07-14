@@ -3,6 +3,11 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Minsk 15 - Jul 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;vRl_Nar9iNs)
+| | | |
+| --- | :---: | --- |
+| [RxJS Higher-Order Observables](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Алексей Павленко](speakers/Алексей%20Павленко.md)  |    |
+| [RxJS retry vs repeat](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Александр Поштарук](speakers/Александр%20Поштарук.md)  |    |
 ## Я.Субботник по разработке интерфейсов - Jul 04 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5)
 | | | |
 | --- | :---: | --- |
