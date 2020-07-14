@@ -1,0 +1,16 @@
+name: WebAssembly Moscow 3
+date: 2020-07-16
+videos: 
+talks:
+  - name: WebAssembly Flexible Vectors Operations - развитие концепции кросс-платформ SIMD
+    speaker: Пётр Пензин
+    video: 
+    presentation: 
+  - name: "[WASM] Мифы и реальность портирования C/C++ приложений"
+    speaker: Николай Ходов
+    video: 
+    presentation: 
+  - name: Варианты использование С/С++ кода в JS-приложении
+    speaker: Евгений Карпов, Игорь Карпинский
+    video: 
+    presentation: 
