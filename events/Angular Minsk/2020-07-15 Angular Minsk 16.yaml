@@ -1,0 +1,14 @@
+name: Angular Minsk 16
+date: 2020-07-15
+videos: 
+talks:
+  - name: Microfrontends with Angular
+    speaker: Tomas Trajan
+    lang: en
+    video: 
+    presentation: 
+  - name: Что нас ждет после Angular v10
+    speaker: Minko Gechev
+    lang: en
+    video: 
+    presentation: 

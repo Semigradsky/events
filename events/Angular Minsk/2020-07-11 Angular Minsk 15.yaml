@@ -1,0 +1,12 @@
+name: Angular Minsk 15
+date: 2020-07-11
+videos: https://www.youtube.com/watch?v=vRl_Nar9iNs
+talks:
+  - name: RxJS Higher-Order Observables
+    speaker: Алексей Павленко
+    video: https://www.youtube.com/watch?v=vRl_Nar9iNs
+    presentation: 
+  - name: RxJS retry vs repeat
+    speaker: Александр Поштарук
+    video: https://www.youtube.com/watch?v=vRl_Nar9iNs
+    presentation: 
