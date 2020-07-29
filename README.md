@@ -3,6 +3,11 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Angular Minsk 16 - Jul 15 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ivPyIsUc1tE)
+| | | |
+| --- | :---: | --- |
+| [Microfrontends with Angular](https://www.youtube.com/watch?v=ivPyIsUc1tE) [en] |  [Tomas Trajan](speakers/Tomas%20Trajan.md)  |    |
+| [Что нас ждет после Angular v10](https://www.youtube.com/watch?v=ivPyIsUc1tE) [en] |  [Minko Gechev](speakers/Minko%20Gechev.md)  |    |
 ## Angular Minsk 15 - Jul 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;vRl_Nar9iNs)
 | | | |
 | --- | :---: | --- |
@@ -48,6 +53,12 @@
 | | | |
 | --- | :---: | --- |
 | [Cloud State Management with GraphQL](https://www.youtube.com/watch?v=4ZBwZjR84nA)  |  [Михаил Асавкин](speakers/Михаил%20Асавкин.md)  | [:notebook:](https://www.slideshare.net/secret/2sHjeHsWlb4Hsj)   |
+## PiterJS 48 - Jun 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ANbnQhxos-A)
+| | | |
+| --- | :---: | --- |
+| [Юридические риски для программист](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Ян Клименков](speakers/Ян%20Клименков.md)  |    |
+| [Пишем многопользовательскую игру с помощью Firebase](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Kir JS](speakers/Kir%20JS.md)  |    |
+| [Отлаживаем Node.js в Chrome DevTools максимально удобно](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Алексей Козятинский](speakers/Алексей%20Козятинский.md)  |    |
 ## GDG Minsk Web Meetup - Jun 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SeiHpb2gIlM)
 | | | |
 | --- | :---: | --- |

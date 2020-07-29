@@ -3,6 +3,11 @@
 
 # Angular Minsk
 
+## Angular Minsk 16 - 2020 Jul 15 [:movie_camera:](https://www.youtube.com/watch?v=ivPyIsUc1tE)
+| | | |
+| --- | :---: | --- |
+| [Microfrontends with Angular](https://www.youtube.com/watch?v=ivPyIsUc1tE) [en] |  [Tomas Trajan](../../speakers/Tomas%20Trajan.md)  |    |
+| [Что нас ждет после Angular v10](https://www.youtube.com/watch?v=ivPyIsUc1tE) [en] |  [Minko Gechev](../../speakers/Minko%20Gechev.md)  |    |
 ## Angular Minsk 15 - 2020 Jul 11 [:movie_camera:](https://www.youtube.com/watch?v=vRl_Nar9iNs)
 | | | |
 | --- | :---: | --- |

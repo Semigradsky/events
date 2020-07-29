@@ -3,6 +3,12 @@
 
 # PiterJS
 
+## PiterJS 48 - 2020 Jun 11 [:movie_camera:](https://www.youtube.com/watch?v=ANbnQhxos-A)
+| | | |
+| --- | :---: | --- |
+| [Юридические риски для программист](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Ян Клименков](../../speakers/Ян%20Клименков.md)  |    |
+| [Пишем многопользовательскую игру с помощью Firebase](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Kir JS](../../speakers/Kir%20JS.md)  |    |
+| [Отлаживаем Node.js в Chrome DevTools максимально удобно](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Алексей Козятинский](../../speakers/Алексей%20Козятинский.md)  |    |
 ## PiterJS 47 - 2020 May 21 [:movie_camera:](https://www.youtube.com/watch?v=pev6g_oysUs)
 | | | |
 | --- | :---: | --- |
