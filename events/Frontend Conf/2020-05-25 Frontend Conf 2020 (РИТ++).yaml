@@ -4,4 +4,49 @@ date:
   - 2020-05-26
 videos: 
 link: http://ritfest.ru/2020
-talks: []
+talks:
+  - name: От фронтенда к микрофронтендам
+    speaker: Александр Лисицын
+    video: 
+    presentation: https://drive.google.com/file/d/1UzBhK62_slNLr8LMAx5Z9_nEJO8uzd8d/view
+  - name: Советы команде, решившей использовать связь на WebRTC в своем продукте
+    speaker: Антон Тейхриб
+    video: 
+    presentation: https://drive.google.com/file/d/1WaM4tVChYT67zYHnRhsG7EM03zCzPv-a/view
+  - name: Эффективное тестирование вёрстки
+    speaker: Максим Соснов
+    video: 
+    presentation: https://drive.google.com/file/d/1EmUW_YBaV6crQmaxloIeaix2J4esMuNF/view
+  - name: Автостопом по фронтенду, или Эволюция фреймворков
+    speaker: Никита Мостовой
+    video: 
+    presentation: https://drive.google.com/file/d/1OCQEdEv8JE9I5m29mPt_J0gSuEU3rCjW/view
+  - name: Стейт-менеджмент на конечных автоматах
+    speaker: Роман Омельницкий
+    video: 
+    presentation: https://drive.google.com/file/d/1zMhgrB_PAb0E2UQtJw-MeFLHozgkf-XG/view
+  - name: ЗаSTUBим без кода
+    speaker: Мария Шакшина
+    video: 
+    presentation: https://drive.google.com/file/d/1feEbr5h7XpHAEqMdmicDqhOJv1Mj7XBG/view
+  - name: Фронтенд без границ. По ту сторону API
+    speaker: Павел Смирнов
+    video: 
+    presentation: https://drive.google.com/file/d/1KF8RLHmqUPkKq8Oa_ieqhm3GTbQ3lm54/view
+  - name: Трогательный фронтенд
+    speaker: Никита Дубко
+    video: 
+    presentation: https://drive.google.com/file/d/1lUI5x48nNsU7J8FKVvLbqsFGHWriaDqS/view
+  - name: Есть ли жизнь без 3rd-party-кук?
+    speaker: Анатолий Остапенко
+    video: 
+    presentation: https://drive.google.com/file/d/1KuH9iApWRSXe3eUFY3DBsRxGo7cJlLHz/view
+  - name: Код, с которым приятно иметь дело
+    speaker: Владимир Дементьев
+    video: 
+    presentation: https://drive.google.com/file/d/10-tcyrnGlsqGxhangMUGKS1j65IfrbRG/view
+  - name: "Web scraping вашего сайта: непрошеные гости и как их встречают"
+    speaker: Георгий Тарасов
+    video: 
+    presentation: https://drive.google.com/file/d/1ZXRi_UOuwh_Mj8gy94z8Kfq8RPvuaa2l/view
+    text: https://habr.com/ru/company/qrator/blog/513014/
