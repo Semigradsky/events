@@ -3,6 +3,20 @@
 
 # Frontend Conf
 
+## Frontend Conf 2020 (РИТ++) - 2020 May 25-26 
+| | | |
+| --- | :---: | --- |
+| От фронтенда к микрофронтендам  |  [Александр Лисицын](../../speakers/Александр%20Лисицын.md)  | [:notebook:](https://drive.google.com/file/d/1UzBhK62_slNLr8LMAx5Z9_nEJO8uzd8d/view)   |
+| Советы команде, решившей использовать связь на WebRTC в своем продукте  |  [Антон Тейхриб](../../speakers/Антон%20Тейхриб.md)  | [:notebook:](https://drive.google.com/file/d/1WaM4tVChYT67zYHnRhsG7EM03zCzPv-a/view)   |
+| Эффективное тестирование вёрстки  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  | [:notebook:](https://drive.google.com/file/d/1EmUW_YBaV6crQmaxloIeaix2J4esMuNF/view)   |
+| Автостопом по фронтенду, или Эволюция фреймворков  |  [Никита Мостовой](../../speakers/Никита%20Мостовой.md)  | [:notebook:](https://drive.google.com/file/d/1OCQEdEv8JE9I5m29mPt_J0gSuEU3rCjW/view)   |
+| Стейт-менеджмент на конечных автоматах  |  [Роман Омельницкий](../../speakers/Роман%20Омельницкий.md)  | [:notebook:](https://drive.google.com/file/d/1zMhgrB_PAb0E2UQtJw-MeFLHozgkf-XG/view)   |
+| ЗаSTUBим без кода  |  [Мария Шакшина](../../speakers/Мария%20Шакшина.md)  | [:notebook:](https://drive.google.com/file/d/1feEbr5h7XpHAEqMdmicDqhOJv1Mj7XBG/view)   |
+| Фронтенд без границ. По ту сторону API  |  [Павел Смирнов](../../speakers/Павел%20Смирнов.md)  | [:notebook:](https://drive.google.com/file/d/1KF8RLHmqUPkKq8Oa_ieqhm3GTbQ3lm54/view)   |
+| Трогательный фронтенд  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://drive.google.com/file/d/1lUI5x48nNsU7J8FKVvLbqsFGHWriaDqS/view)   |
+| Есть ли жизнь без 3rd-party-кук?  |  [Анатолий Остапенко](../../speakers/Анатолий%20Остапенко.md)  | [:notebook:](https://drive.google.com/file/d/1KuH9iApWRSXe3eUFY3DBsRxGo7cJlLHz/view)   |
+| Код, с которым приятно иметь дело  |  [Владимир Дементьев](../../speakers/Владимир%20Дементьев.md)  | [:notebook:](https://drive.google.com/file/d/10-tcyrnGlsqGxhangMUGKS1j65IfrbRG/view)   |
+| Web scraping вашего сайта: непрошеные гости и как их встречают  |  [Георгий Тарасов](../../speakers/Георгий%20Тарасов.md)  | [:notebook:](https://drive.google.com/file/d/1ZXRi_UOuwh_Mj8gy94z8Kfq8RPvuaa2l/view)  [:spiral_notepad:](https://habr.com/ru/company/qrator/blog/513014/) |
 ## Frontend Conf 2019 - 2019 Oct 13-14 [:movie_camera:](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHldqCyBU5gpi7KPJEMbj4H)
 | | | |
 | --- | :---: | --- |
