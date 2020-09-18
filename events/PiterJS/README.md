@@ -3,7 +3,7 @@
 
 # PiterJS
 
-## PiterJS 49 - 2020 Jul 30 [:movie_camera:](https://youtu.be/R5_yImO-m4g)
+## PiterJS 50 - 2020 Aug 27 [:movie_camera:](https://youtu.be/R5_yImO-m4g)
 | | | |
 | --- | :---: | --- |
 | [Локальная разработка c HTTPS [Workshop]](https://www.youtube.com/watch?v=56iO6g2T5xI)  |  [Алексей Остапенко](../../speakers/Алексей%20Остапенко.md)  |    |
