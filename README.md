@@ -3,6 +3,11 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## DINS - JavaScript EVENING - Sep 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5)
+| | | |
+| --- | :---: | --- |
+| [Аспектно-ориентированное программирование в JS](https://www.youtube.com/watch?v=pFIrGf7J4jc)  |  [Виталий Перов](speakers/Виталий%20Перов.md)  |    |
+| [Vuejs v3 composition API: апдейты и преимущества](https://www.youtube.com/watch?v=ZdIS1HH7YNc)  |  [Михаил Кузнецов](speakers/Михаил%20Кузнецов.md)  |    |
 ## PiterJS 50 - Aug 27 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;R5_yImO-m4g)
 | | | |
 | --- | :---: | --- |
@@ -236,6 +241,11 @@
 | [Как разработчику находить максимум багов за минимум времени](https://www.youtube.com/watch?v=L2Wi6wEEL4A)  |  [Николай Москаленко](speakers/Николай%20Москаленко.md)  |    |
 | [В погоне за перформансом vol.2](https://www.youtube.com/watch?v=Q9IKXAkDvXo)  |  [Даниил Крохмаль](speakers/Даниил%20Крохмаль.md)  |    |
 | [Путь к разработке расширяемых интерфейсов](https://www.youtube.com/watch?v=omeYq2BGYTU)  |  [Ярослав Сергиевский](speakers/Ярослав%20Сергиевский.md)  |    |
+## DINS - JavaScript EVENING - Jan 29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLhhTXwj6_Fl31jj8cfXyMbfCNFyiF53yj)
+| | | |
+| --- | :---: | --- |
+| [API design for front-end](https://www.youtube.com/watch?v=X3mFOprERG4)  |  [Дмитрий Злыгин](speakers/Дмитрий%20Злыгин.md)  |    |
+| [Алгебраические типы данных в TypeScript](https://www.youtube.com/watch?v=Rb-0zYIHyQI)  |  [Антон Сутармин](speakers/Антон%20Сутармин.md)  |    |
 ## Panda Meetup 36 Battle - Jan 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;1pwx8LDjve0)
 | | | |
 | --- | :---: | --- |
