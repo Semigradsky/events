@@ -2,15 +2,15 @@ name: PiterJS 48
 date: 2020-06-11
 videos: https://www.youtube.com/watch?v=ANbnQhxos-A
 talks:
-  - name: Юридические риски для программист
+  - name: Юридические риски для программиста
     speaker: Ян Клименков
-    video: https://www.youtube.com/watch?v=ANbnQhxos-A
+    video: https://www.youtube.com/watch?v=ANbnQhxos-A&t=613s
     presentation: 
   - name: Пишем многопользовательскую игру с помощью Firebase
     speaker: Kir JS
-    video: https://www.youtube.com/watch?v=ANbnQhxos-A
+    video: https://www.youtube.com/watch?v=ANbnQhxos-A&t=3519s
     presentation: 
   - name: Отлаживаем Node.js в Chrome DevTools максимально удобно
     speaker: Алексей Козятинский
-    video: https://www.youtube.com/watch?v=ANbnQhxos-A
+    video: https://www.youtube.com/watch?v=ANbnQhxos-A&t=5844s
     presentation: 

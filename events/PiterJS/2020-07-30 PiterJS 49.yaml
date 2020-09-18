@@ -4,13 +4,13 @@ videos: https://youtu.be/R5_yImO-m4g
 talks:
   - name: Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?
     speaker: Максим Сальников
-    video: 
+    video: https://www.youtube.com/watch?v=R5_yImO-m4g&t=900s
     presentation: 
   - name: Почему Elm?
     speaker: Максим Пацианский
-    video: 
+    video: https://www.youtube.com/watch?v=R5_yImO-m4g&t=3250s
     presentation: 
   - name: "yarn@berry — надо ли оно нам?"
     speaker: Игорь Камышев
-    video: 
+    video: https://www.youtube.com/watch?v=R5_yImO-m4g&t=5222s
     presentation: 
