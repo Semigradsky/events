@@ -3,6 +3,16 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## PiterJS 49 - Jul 30 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;R5_yImO-m4g)
+| | | |
+| --- | :---: | --- |
+| [Локальная разработка c HTTPS [Workshop]](https://www.youtube.com/watch?v=56iO6g2T5xI)  |  [Алексей Остапенко](speakers/Алексей%20Остапенко.md)  |    |
+## PiterJS 49 - Jul 30 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;R5_yImO-m4g)
+| | | |
+| --- | :---: | --- |
+| [Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?](https://www.youtube.com/watch?v=R5_yImO-m4g&t=900s)  |  [Максим Сальников](speakers/Максим%20Сальников.md)  |    |
+| [Почему Elm?](https://www.youtube.com/watch?v=R5_yImO-m4g&t=3250s)  |  [Максим Пацианский](speakers/Максим%20Пацианский.md)  |    |
+| [yarn@berry — надо ли оно нам?](https://www.youtube.com/watch?v=R5_yImO-m4g&t=5222s)  |  [Игорь Камышев](speakers/Игорь%20Камышев.md)  |    |
 ## Angular Minsk 16 - Jul 15 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ivPyIsUc1tE)
 | | | |
 | --- | :---: | --- |
@@ -56,9 +66,9 @@
 ## PiterJS 48 - Jun 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ANbnQhxos-A)
 | | | |
 | --- | :---: | --- |
-| [Юридические риски для программист](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Ян Клименков](speakers/Ян%20Клименков.md)  |    |
-| [Пишем многопользовательскую игру с помощью Firebase](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Kir JS](speakers/Kir%20JS.md)  |    |
-| [Отлаживаем Node.js в Chrome DevTools максимально удобно](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Алексей Козятинский](speakers/Алексей%20Козятинский.md)  |    |
+| [Юридические риски для программиста](https://www.youtube.com/watch?v=ANbnQhxos-A&t=613s)  |  [Ян Клименков](speakers/Ян%20Клименков.md)  |    |
+| [Пишем многопользовательскую игру с помощью Firebase](https://www.youtube.com/watch?v=ANbnQhxos-A&t=3519s)  |  [Kir JS](speakers/Kir%20JS.md)  |    |
+| [Отлаживаем Node.js в Chrome DevTools максимально удобно](https://www.youtube.com/watch?v=ANbnQhxos-A&t=5844s)  |  [Алексей Козятинский](speakers/Алексей%20Козятинский.md)  |    |
 ## GDG Minsk Web Meetup - Jun 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SeiHpb2gIlM)
 | | | |
 | --- | :---: | --- |

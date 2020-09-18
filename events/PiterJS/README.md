@@ -3,12 +3,22 @@
 
 # PiterJS
 
+## PiterJS 49 - 2020 Jul 30 [:movie_camera:](https://youtu.be/R5_yImO-m4g)
+| | | |
+| --- | :---: | --- |
+| [Локальная разработка c HTTPS [Workshop]](https://www.youtube.com/watch?v=56iO6g2T5xI)  |  [Алексей Остапенко](../../speakers/Алексей%20Остапенко.md)  |    |
+## PiterJS 49 - 2020 Jul 30 [:movie_camera:](https://youtu.be/R5_yImO-m4g)
+| | | |
+| --- | :---: | --- |
+| [Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?](https://www.youtube.com/watch?v=R5_yImO-m4g&t=900s)  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  |    |
+| [Почему Elm?](https://www.youtube.com/watch?v=R5_yImO-m4g&t=3250s)  |  [Максим Пацианский](../../speakers/Максим%20Пацианский.md)  |    |
+| [yarn@berry — надо ли оно нам?](https://www.youtube.com/watch?v=R5_yImO-m4g&t=5222s)  |  [Игорь Камышев](../../speakers/Игорь%20Камышев.md)  |    |
 ## PiterJS 48 - 2020 Jun 11 [:movie_camera:](https://www.youtube.com/watch?v=ANbnQhxos-A)
 | | | |
 | --- | :---: | --- |
-| [Юридические риски для программист](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Ян Клименков](../../speakers/Ян%20Клименков.md)  |    |
-| [Пишем многопользовательскую игру с помощью Firebase](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Kir JS](../../speakers/Kir%20JS.md)  |    |
-| [Отлаживаем Node.js в Chrome DevTools максимально удобно](https://www.youtube.com/watch?v=ANbnQhxos-A)  |  [Алексей Козятинский](../../speakers/Алексей%20Козятинский.md)  |    |
+| [Юридические риски для программиста](https://www.youtube.com/watch?v=ANbnQhxos-A&t=613s)  |  [Ян Клименков](../../speakers/Ян%20Клименков.md)  |    |
+| [Пишем многопользовательскую игру с помощью Firebase](https://www.youtube.com/watch?v=ANbnQhxos-A&t=3519s)  |  [Kir JS](../../speakers/Kir%20JS.md)  |    |
+| [Отлаживаем Node.js в Chrome DevTools максимально удобно](https://www.youtube.com/watch?v=ANbnQhxos-A&t=5844s)  |  [Алексей Козятинский](../../speakers/Алексей%20Козятинский.md)  |    |
 ## PiterJS 47 - 2020 May 21 [:movie_camera:](https://www.youtube.com/watch?v=pev6g_oysUs)
 | | | |
 | --- | :---: | --- |
