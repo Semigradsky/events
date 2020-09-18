@@ -1,0 +1,12 @@
+name: DINS - JavaScript EVENING
+date: 2020-09-30
+videos: https://www.youtube.com/playlist?list=PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5
+talks:
+  - name: Аспектно-ориентированное программирование в JS
+    speaker: Виталий Перов
+    video: https://www.youtube.com/watch?v=pFIrGf7J4jc
+    presentation:
+  - name: "Vuejs v3 composition API: апдейты и преимущества"
+    speaker: Михаил Кузнецов
+    video: https://www.youtube.com/watch?v=ZdIS1HH7YNc
+    presentation:

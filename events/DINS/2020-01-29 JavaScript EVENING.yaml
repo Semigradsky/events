@@ -1,0 +1,12 @@
+name: DINS - JavaScript EVENING
+date: 2020-01-29
+videos: https://www.youtube.com/playlist?list=PLhhTXwj6_Fl31jj8cfXyMbfCNFyiF53yj
+talks:
+  - name: API design for front-end
+    speaker: Дмитрий Злыгин
+    video: https://www.youtube.com/watch?v=X3mFOprERG4
+    presentation:
+  - name: Алгебраические типы данных в TypeScript
+    speaker: Антон Сутармин
+    video: https://www.youtube.com/watch?v=Rb-0zYIHyQI
+    presentation:

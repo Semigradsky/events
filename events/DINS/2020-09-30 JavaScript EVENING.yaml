@@ -1,0 +1,12 @@
+name: DINS - JavaScript EVENING
+date: 2020-09-30
+videos: ''
+talks:
+  - name: Рефакторинг приложения на примере Chrome Extension
+    speaker: Андрей Владыкин
+    video:
+    presentation:
+  - name: Разработка быстрых и легких веб-приложений на SvelteJS
+    speaker: Михаил Кузнецов
+    video:
+    presentation:

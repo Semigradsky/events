@@ -1,12 +1,12 @@
 name: DINS - JavaScript EVENING
 date: 2019-07-31
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLhhTXwj6_Fl0SornaBULhXJgHfBdxW60D
 talks:
   - name: Типизируй это!
     speaker: Александр Феоктистов
-    video:
+    video: https://www.youtube.com/watch?v=Mj3v13-pOVQ
     presentation:
   - name: "ReasonML: Хиндли-Милнер на фронтенде"
     speaker: Антон Тужик
-    video:
+    video: https://www.youtube.com/watch?v=xx5ci1z5Cv0
     presentation:
