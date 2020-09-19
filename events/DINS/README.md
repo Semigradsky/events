@@ -3,7 +3,7 @@
 
 # DINS
 
-## DINS - JavaScript EVENING - 2020 Sep 30 [:movie_camera:](https://www.youtube.com/playlist?list=PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5)
+## DINS - JavaScript EVENING - 2020 May 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5)
 | | | |
 | --- | :---: | --- |
 | [Аспектно-ориентированное программирование в JS](https://www.youtube.com/watch?v=pFIrGf7J4jc)  |  [Виталий Перов](../../speakers/Виталий%20Перов.md)  |    |

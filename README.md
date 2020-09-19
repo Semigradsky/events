@@ -3,11 +3,6 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
-## DINS - JavaScript EVENING - Sep 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5)
-| | | |
-| --- | :---: | --- |
-| [Аспектно-ориентированное программирование в JS](https://www.youtube.com/watch?v=pFIrGf7J4jc)  |  [Виталий Перов](speakers/Виталий%20Перов.md)  |    |
-| [Vuejs v3 composition API: апдейты и преимущества](https://www.youtube.com/watch?v=ZdIS1HH7YNc)  |  [Михаил Кузнецов](speakers/Михаил%20Кузнецов.md)  |    |
 ## PiterJS 50 - Aug 27 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;R5_yImO-m4g)
 | | | |
 | --- | :---: | --- |
@@ -119,6 +114,11 @@
 | --- | :---: | --- |
 | [A11ly in 5r](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Глафира Жур](speakers/Глафира%20Жур.md)  | [:notebook:](https://docs.google.com/presentation/d/1c3ub6vX1XH_oEAzykVIqqc5KPGtS50GuGbrjih22qEE)   |
 | [Contract protection: runtime type checking](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Алексей Павленко](speakers/Алексей%20Павленко.md)  | [:notebook:](https://docs.google.com/presentation/d/13aMbXd9IxYVGra9BQ7jLdkRQkyFCtuBTlclyOl9aiOE)   |
+## DINS - JavaScript EVENING - May 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5)
+| | | |
+| --- | :---: | --- |
+| [Аспектно-ориентированное программирование в JS](https://www.youtube.com/watch?v=pFIrGf7J4jc)  |  [Виталий Перов](speakers/Виталий%20Перов.md)  |    |
+| [Vuejs v3 composition API: апдейты и преимущества](https://www.youtube.com/watch?v=ZdIS1HH7YNc)  |  [Михаил Кузнецов](speakers/Михаил%20Кузнецов.md)  |    |
 ## IT Jam. Front-end - Apr 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLGsNPiHwSUI5xPyxr0MQM8yhjiXBxcYup)
 | | | |
 | --- | :---: | --- |
