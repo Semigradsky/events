@@ -1,12 +1,12 @@
 name: IT Jam. Front-end
 date: 2020-04-30
-videos: 
+videos: https://www.youtube.com/playlist?list=PLGsNPiHwSUI5xPyxr0MQM8yhjiXBxcYup
 talks:
   - name: Построение контролируемой анимации при помощи timelines
     speaker: Алексей Кротков
-    video: 
+    video: https://www.youtube.com/watch?v=6A772QmRbD4
     presentation: 
   - name: Введение в доступность для Front-End разработчиков
     speaker: Ирина Шилина
-    video: 
+    video: https://www.youtube.com/watch?v=WQYQLw2B9Bk
     presentation: 
