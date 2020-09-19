@@ -119,6 +119,11 @@
 | --- | :---: | --- |
 | [A11ly in 5r](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Глафира Жур](speakers/Глафира%20Жур.md)  | [:notebook:](https://docs.google.com/presentation/d/1c3ub6vX1XH_oEAzykVIqqc5KPGtS50GuGbrjih22qEE)   |
 | [Contract protection: runtime type checking](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Алексей Павленко](speakers/Алексей%20Павленко.md)  | [:notebook:](https://docs.google.com/presentation/d/13aMbXd9IxYVGra9BQ7jLdkRQkyFCtuBTlclyOl9aiOE)   |
+## IT Jam. Front-end - Apr 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLGsNPiHwSUI5xPyxr0MQM8yhjiXBxcYup)
+| | | |
+| --- | :---: | --- |
+| [Построение контролируемой анимации при помощи timelines](https://www.youtube.com/watch?v=6A772QmRbD4)  |  [Алексей Кротков](speakers/Алексей%20Кротков.md)  |    |
+| [Введение в доступность для Front-End разработчиков](https://www.youtube.com/watch?v=WQYQLw2B9Bk)  |  [Ирина Шилина](speakers/Ирина%20Шилина.md)  |    |
 ## Angular Belarus 6 - Apr 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;gTx5UMAB9ak)
 | | | |
 | --- | :---: | --- |
