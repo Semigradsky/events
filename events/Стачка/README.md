@@ -12,7 +12,7 @@
 | Архитектура SPA и управление состоянием с помощью MST  |  [Михаил Синяков](../../speakers/Михаил%20Синяков.md)  |    |
 | DI как способ масштабирования всего  |  [Алексей Попков](../../speakers/Алексей%20Попков.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Popkov.pdf)   |
 | Прекрасный мир графики  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Gurtovaya.pdf)   |
-| Как правильно собирать npm-пакет в 2к19 году  |  [Денис Красновский](../../speakers/Денис%20Красновский.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Krasnovskiy.pdf)   |
+| Как правильно собирать npm-пакеты в 2к19 году  |  [Денис Красновский](../../speakers/Денис%20Красновский.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Krasnovskiy.pdf)   |
 | BDD тестирование веб-приложений  |  [Александр Иосса](../../speakers/Александр%20Иосса.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Iossa.pptx)   |
 | Оптимизация или как не выстрелить себе в ногу  |  [Дмитрий Ивко](../../speakers/Дмитрий%20Ивко.md)  | [:notebook:](https://nastachku.ru/images/companies/1/archives_presentation/inno_2019/frontend/Ivko.pptx)   |
 ## Стачка 2019 (весна) - 2019 Apr 26-27 [:movie_camera:](https://www.youtube.com/playlist?list=PL8EJzNcJZNp2AMwQWiFhpGjhkjUwghXBg)
