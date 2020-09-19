@@ -1,0 +1,16 @@
+name: Front-end Hero Online Meetup
+date: 2020-09-17
+videos: 
+talks:
+  - name: Безопасность в web
+    speaker: Мария Сампир
+    video: 
+    presentation: 
+  - name: PWA
+    speaker: Владислав Фай
+    video: 
+    presentation: 
+  - name: Максим Сальников
+    speaker: Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?
+    video: 
+    presentation: 
