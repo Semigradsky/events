@@ -201,6 +201,13 @@
 | --- | :---: | --- |
 | Mighty Decorators in Typescript  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/typescript-decorators#/)   |
 | Going nuts inside Ivy  |  [Никита Полторацкий](speakers/Никита%20Полторацкий.md)  | [:notebook:](https://docs.google.com/presentation/d/1MZlfS1xXq3dp_Y4ata4o0TvOThnQtGZVtTosryvnRQA/edit)   |
+## OdessaFrontend Meetup 15 - Feb 21 
+| | | |
+| --- | :---: | --- |
+| [Пощупать 3д в браузере](https://youtu.be/OarHR-CmJnI)  |  [Константин Плаксивый](speakers/Константин%20Плаксивый.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/3-odessafrontend-meetup-15)   |
+| [А&#x2F;Б тестирование: Что? Как? Зачем?](https://youtu.be/68D5GE7TnGw)  |  [Сергей Полющенков](speakers/Сергей%20Полющенков.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-15)   |
+| [DRY’им Vuex](https://youtu.be/Q_olFkYVakg)  |  [Михаил Фарапонов](speakers/Михаил%20Фарапонов.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/dry-vuex-odessafrontend-meetup-15)   |
+| Викторина  |  [Николай Птущук](speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-15-229022500)   |
 ## PiterJS 45 - Feb 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;j83p7mCr7h0)
 | | | |
 | --- | :---: | --- |

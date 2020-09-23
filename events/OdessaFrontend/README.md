@@ -3,6 +3,13 @@
 
 # OdessaFrontend
 
+## OdessaFrontend Meetup 15 - 2020 Feb 21 
+| | | |
+| --- | :---: | --- |
+| [Пощупать 3д в браузере](https://youtu.be/OarHR-CmJnI)  |  [Константин Плаксивый](../../speakers/Константин%20Плаксивый.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/3-odessafrontend-meetup-15)   |
+| [А&#x2F;Б тестирование: Что? Как? Зачем?](https://youtu.be/68D5GE7TnGw)  |  [Сергей Полющенков](../../speakers/Сергей%20Полющенков.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-15)   |
+| [DRY’им Vuex](https://youtu.be/Q_olFkYVakg)  |  [Михаил Фарапонов](../../speakers/Михаил%20Фарапонов.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/dry-vuex-odessafrontend-meetup-15)   |
+| Викторина  |  [Николай Птущук](../../speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-15-229022500)   |
 ## OdessaFrontend Meetup 14 - 2019 Dec 18 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0upfo2XGtCnVuCf8lQGqgD-)
 | | | |
 | --- | :---: | --- |
