@@ -1,16 +1,16 @@
 name: Front-end Hero Online Meetup
 date: 2020-09-17
-videos: 
+videos: https://www.youtube.com/watch?v=H3IIpRTUdFU
 talks:
   - name: Безопасность в web
     speaker: Мария Сампир
-    video: 
+    video: https://www.youtube.com/watch?v=H3IIpRTUdFU
     presentation: 
   - name: PWA
     speaker: Владислав Фай
-    video: 
+    video: https://www.youtube.com/watch?v=H3IIpRTUdFU
     presentation: 
-  - name: Максим Сальников
-    speaker: Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?
-    video: 
+  - name: Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?
+    speaker: Максим Сальников
+    video: https://www.youtube.com/watch?v=H3IIpRTUdFU
     presentation: 
