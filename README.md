@@ -3,6 +3,12 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Front-end Hero Online Meetup - Sep 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H3IIpRTUdFU)
+| | | |
+| --- | :---: | --- |
+| [Безопасность в web](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Мария Сампир](speakers/Мария%20Сампир.md)  |    |
+| [PWA](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Владислав Фай](speakers/Владислав%20Фай.md)  |    |
+| [Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Максим Сальников](speakers/Максим%20Сальников.md)  |    |
 ## PiterJS 50 - Aug 27 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;R5_yImO-m4g)
 | | | |
 | --- | :---: | --- |

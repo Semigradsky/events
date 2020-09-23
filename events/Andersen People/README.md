@@ -3,6 +3,12 @@
 
 # Andersen People
 
+## Front-end Hero Online Meetup - 2020 Sep 17 [:movie_camera:](https://www.youtube.com/watch?v=H3IIpRTUdFU)
+| | | |
+| --- | :---: | --- |
+| [Безопасность в web](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Мария Сампир](../../speakers/Мария%20Сампир.md)  |    |
+| [PWA](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Владислав Фай](../../speakers/Владислав%20Фай.md)  |    |
+| [Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  |    |
 ## SPA Meetup - 2019 Jul 12 [:movie_camera:](https://www.youtube.com/watch?v=hdc67fVJoAM)
 | | | |
 | --- | :---: | --- |
