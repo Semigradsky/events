@@ -2,7 +2,7 @@ name: HolyJS 2019 Moscow
 date:
   - 2019-11-08
   - 2019-11-09
-videos: 
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8IWRtdLXJ1MPLzbVRqK6fku
 talks:
   - name: Сам себе бэкендер [Workshop]
     speaker: Андрей Мелихов
@@ -19,7 +19,7 @@ talks:
     presentation: 
   - name: "GraphQL-фрагменты на клиенте: История появления, ошибки использования"
     speaker: Павел Черторогов
-    video: 
+    video: https://www.youtube.com/watch?v=0bpZiMVJh14
     presentation: https://nodkz.github.io/conf-talks/talks/2019.11.08-holyjs-moscow/index.html#/
   - name: "React rendering strategies: Get the most out of performance, keep bots happy"
     speaker: Miguel Angel Duran Garcia
@@ -29,7 +29,7 @@ talks:
   - name: Transpile anything to everything!
     speaker: Anna Herlihy
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=ubFjf4iW5nA
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/sKHzmgt0vOXDi4dArlnXF/7f67dfa30fd3a3230e5ab412a272b0f1/100603_1000432722_Anna_Herlihy_Transpile_anything_to_everything.pdf
   - name: История одной оптимизации производительности Node.js-библиотеки
     speaker: Андрей Печкуров
@@ -43,17 +43,17 @@ talks:
   - name: Get ready for Ivy — Angular 3rd generation renderer engine
     speaker: Eliran Eliassy
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=nbeQdMGtIcU
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/2QMiiEEzNkZK4RskSbGCi8/27406f0150a76b1b1204a59a021d8cee/100598_1929629313_Eliran_Eliassy_Get_ready_for_Ivy_-_Angular_3rd_generation_renderer_engine.pdf
   - name: From code to pixels in a Blink
     speaker: Prashant Palikhe
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=rVb0pfGFZFw
     presentation: https://infallible-stallman-d69b78.netlify.com/assets/player/keynotedhtmlplayer#1
   - name: "@babel/how-to"
     speaker: Nicolò Ribaudo
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=UeVq_U5obnE
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/4pwL91N1BMrptrYv5EylhX/7dceef7cf5da44a125b1e47df0852dd4/100664_356577165_Nicol_Ribaudo_babelhow-to.pdf
   - name: NestJS. Tried to Shift in 80 hours
     speaker: Александра Калинина
@@ -62,7 +62,7 @@ talks:
   - name: From specification to implementation
     speaker: Yulia Startsev
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=uSkiDxb0m0Y
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/2I6ChPKFRdfFi5SJ56I9lO/b2bcc96d559742fb06fd68b7fd5be298/100688_271280888_Yulia_Startsev_From_Specification_to_Implementation.pdf
   - name: "Soft Effect: Исследование развития навыков"
     speaker: Андрей Смирнов
@@ -70,19 +70,19 @@ talks:
     presentation: https://sandark7.github.io/HolyJS2019/
   - name: "Чем мы платим за переход от <div> к WebGL и что получаем (профит!), на примерах PixiJS"
     speaker: Иван Попелышев
-    video: 
+    video: https://www.youtube.com/watch?v=yibGMQ7GGVo
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/51hxZooo6cQ4ChZzPKo3bW/7c8dc89e521718252a1de1ad4ab7998f/HolyJS_WebGL-PixiJS.pdf
   - name: Может ли компьютер молиться на благо всех живых существ? Молитва на JavaScript и WebGL
     speaker: Денис Радин
-    video: 
+    video: https://www.youtube.com/watch?v=t1Dd-iT6Ic4
     presentation: https://docs.google.com/presentation/d/e/2PACX-1vQM8q3YI8MtTW3rkmqumtvoqW9cIjZxsncIIwtXy42UnePb0pMHicpYxMyk7yLb0LM9tUgVN4V24-qL/pub?start=false&loop=false&delayms=3000&fbclid=IwAR32aUaDu9X9YiLL1PLG19pzKH9QVx4Co67AVvGmYl1I2zHcvXMHSl8LcZY&slide=id.p
   - name: Разработка компилятора для TypeScript на TypeScript на базе LLVM
     speaker: Дмитрий Пацура
-    video: 
+    video: https://www.youtube.com/watch?v=gS9a_NBHdw0
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/4dnzHnvgHQyqpslzZzkWlD/e1dc116fb57e29a424518fd6452b5197/100711_626459496_Dmitriy_Patsura_Razrabotka_kompilyatora_dlya_TypeScript_na_TypeScript_na_baze_LLVM.pdf
   - name: WebAssembly без купюр
     speaker: Андрей Роенко
-    video: 
+    video: https://www.youtube.com/watch?v=h3kwQ7nbGb4
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/5jIBFdb072ui43XjdWdnQ4/135f53dc5ef8b6d3e3fc42db63d21ed8/100809_205207388_Andrey_Royenko_WebAssembly_bez_kupyur.pdf
   - name: End to end testing a world of web, mobile & desktop apps
     speaker: Mathieu Henri
@@ -91,12 +91,12 @@ talks:
     presentation: 
   - name: CSS definition syntax
     speaker: Роман Дворнов
-    video: 
+    video: https://www.youtube.com/watch?v=8kjE1n6mQ2s
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/4LVAp3NYgzpcyJoUyCT8ac/ac9cb0e44d8b237bd471446d57059075/CSS_definition_syntax_____Holyjs_Moscow__19.pdf
   - name: The art of explicit and consistent user interfaces
     speaker: Farzad YousefZadeh
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=KJR3xU8WxP4
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/6yMT3gDLlhyDRwfMKKQJFU/1f9d0cd424edbf3a0d046c9b8721998c/100527_1072660984_Farzad_YousefZadeh_The_art_of_explicit_and_consistent_user_interfaces.pdf
   - name: "Figma to React: доставка дизайна в код"
     speaker: Зар Захаров, Александр Каменяр
@@ -110,29 +110,29 @@ talks:
   - name: Resilient Component Libraries with React
     speaker: Андрей Оконечников
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=1U9oGd3VD9w
     presentation: http://component-driven.io/slides/resilient-component-libraries
   - name: Контрактное программирование как средство, а не цель
     speaker: Артём Арутюнян
-    video: 
+    video: https://www.youtube.com/watch?v=K91G6na4ga8
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/45tx7htHbRbFtyVYmgLsvo/0fb2d02cac784094b744b8c173077c24/100710_517459704_Artm_Arutyunyan_Kontraktnoye_programmirovaniye_kak_sredstvo_a_ne_tsel.pdf
   - name: Computability, types, tests, and why flat-earthers are bad at QA
     speaker: Lucas Fernandes da Costa
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=SKBgrJg2mH4
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/4RFNb581dQas7SCIh0EL5C/b09f954e9c7ff9a8eb3c63ff8fe669b6/typesvstests.pdf
   - name: Я заберу у тебя все данные и ты об этом даже не узнаешь. Я — браузерное расширение
     speaker: Никита Мостовой
-    video: 
+    video: https://www.youtube.com/watch?v=I9dckx73vdI
     presentation: https://slides.com/nikmostovoy/holyjs?token=5y7k_Pnd#/
   - name: i18n the principles for an accessible web
     speaker: Romulo Cintra
     lang: en
-    video: 
+    video: https://www.youtube.com/watch?v=fSPMdmfDHlM
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/4jLRIu55jEaulqhi0iAoOI/4b5a4aa5b1f0677d6513cfcadde7afdf/i18n_the_principles_for_an_accessible_web.pdf
   - name: JavaScript на службе у теоретической информатики
     speaker: Виталий Брагилевский
-    video: 
+    video: https://www.youtube.com/watch?v=T66wMYbtfNA
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/33r82kADTtOrW3kLOA3F3S/8dd04918fead0eaa945358ef7ee44b8a/100639_1687246118_Vitaliy_Bragilevskiy_JavaScript_na_sluzhbe_u_teoreticheskoy_informatiki.pdf
   - name: The battle of the event loops
     speaker: Ujjwal Sharma
@@ -141,9 +141,9 @@ talks:
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/6DqsijpIFGq2QorhLsC1EZ/f5eca142f52f68fd5efc351eba3b853f/The_battle_of_the_event_loops_copy_2.pdf
   - name: (Не|ну)жная монада Either на практике и в теории
     speaker: Дмитрий Махнёв, Артём Кобзарь
-    video: 
+    video: https://www.youtube.com/watch?v=T6Os27MKUCQ
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/1BT8eyj61TlZB9MsGm8U17/c14a399dd398a20304f8b1237ef91cca/Kobzar_Makhnev_Either_monad.pdf
   - name: Карьерная эффективность и карьерный путь в ИТ
     speaker: Дмитрий Волошин
-    video: 
+    video: https://www.youtube.com/watch?v=dCxkK67MgYo
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/3M7bRovACHMgO8LZku0xFU/19f118b9f3e75539fe09f47014da22da/wlb_jug_design.pdf
