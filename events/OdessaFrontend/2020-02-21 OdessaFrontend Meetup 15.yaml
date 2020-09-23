@@ -4,17 +4,17 @@ videos:
 talks:
   - name: Пощупать 3д в браузере
     speaker: Константин Плаксивый
-    video: 
-    presentation: 
+    video: https://youtu.be/OarHR-CmJnI
+    presentation: https://www.slideshare.net/odessafrontend/3-odessafrontend-meetup-15
   - name: "А/Б тестирование: Что? Как? Зачем?"
     speaker: Сергей Полющенков
-    video: 
-    presentation: 
+    video: https://youtu.be/68D5GE7TnGw
+    presentation: https://www.slideshare.net/odessafrontend/odessafrontend-meetup-15
   - name: "DRY’им Vuex"
     speaker: Михаил Фарапонов
-    video: 
-    presentation: 
+    video: https://youtu.be/Q_olFkYVakg
+    presentation: https://www.slideshare.net/odessafrontend/dry-vuex-odessafrontend-meetup-15
   - name: Викторина
     speaker: Николай Птущук
     video: 
-    presentation: 
+    presentation: https://www.slideshare.net/odessafrontend/odessafrontend-meetup-15-229022500
