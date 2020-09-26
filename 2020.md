@@ -135,6 +135,10 @@
 | --- | :---: | --- |
 | [Improved angular app architecture with 5 simple concepts](https://www.youtube.com/watch?v=gTx5UMAB9ak)  |  [Константин Маликов](speakers/Константин%20Маликов.md)  |    |
 | [The Navigation, or There and Back Again](https://www.youtube.com/watch?v=gTx5UMAB9ak)  |  [Александр Вербило](speakers/Александр%20Вербило.md)  |    |
+## VolgaJS UI online meetup 3 - Apr 29 
+| | | |
+| --- | :---: | --- |
+| [Анатомия RxJS](https://vk.com/video-185795545_456239022)  |  [Иван Наймарк](speakers/Иван%20Наймарк.md)  |    |
 ## Node.js SPb Meetup 11 - Apr 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;WQpnlpxYhaU)
 | | | |
 | --- | :---: | --- |
@@ -159,6 +163,14 @@
 | [Разработка сложных компонентов: деливерим быстро, поддерживаем легко](https://youtu.be/FMNLN5YIE_M?t=891)  |  [Роман Пятаков](speakers/Роман%20Пятаков.md)  |    |
 | [High performance web applications](https://youtu.be/FMNLN5YIE_M?t=3629)  |  [Иван Затравкин](speakers/Иван%20Затравкин.md)  |    |
 | [Продвинутый CSS-in-TS](https://youtu.be/FMNLN5YIE_M?t=5589)  |  [Дмитрий Карловский](speakers/Дмитрий%20Карловский.md)  | [:notebook:](https://nin-jin.github.io/slides/css-in-ts/)   |
+## VolgaJS UI online meetup 2 - Apr 22 
+| | | |
+| --- | :---: | --- |
+| [Визуализация больших данных: как разложить карты точнее, чем любая гадалка](https://vk.com/video-185795545_456239020)  |  [Никита Швыряев](speakers/Никита%20Швыряев.md)  |    |
+## VolgaJS UI online meetup 1 - Apr 15 
+| | | |
+| --- | :---: | --- |
+| [@mtproto&#x2F;core: криптография, байты и боль](https://youtu.be/CT_Gh5mVZeg)  |  [Али Гасымов](speakers/Али%20Гасымов.md)  | [:notebook:](https://alik0211.github.io/mtproto-core-presentation/#/) [:octocat:](https://github.com/alik0211/mtproto-core)  |
 ## Node.js SPb Meetup 10 - Apr 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H8gl5IpDWKA)
 | | | |
 | --- | :---: | --- |
@@ -235,6 +247,11 @@
 | [Про браузерные расширения](https://www.youtube.com/watch?v=ybyAbTA7_Tw)  |  [Виталий Зданевич](speakers/Виталий%20Зданевич.md)  | [:notebook:](https://docs.google.com/presentation/d/1kAUPEl6E3y8LHoUaKE-DvO08syP9LsKywpftS2gxec4/edit)   |
 | [Безопасный input. Сбор данных пластиковой карты в iframe](https://www.youtube.com/watch?v=NaslZVdmejg)  |  [Эдуард Титов](speakers/Эдуард%20Титов.md)  | [:notebook:](http://ed.titov.im/minskjs-feb-2020/)   |
 | [Инструменты решают всё](https://www.youtube.com/watch?v=AZsXoeRs2i8)  |  [Илья Запруцкий](speakers/Илья%20Запруцкий.md)  | [:notebook:](https://drive.google.com/file/d/17AayZJjt8ehDWabd6wiOnDh7NEWjJ86t/view)   |
+## VolgaJS UI meetup 3 - Feb 12 
+| | | |
+| --- | :---: | --- |
+| StorybookJS. Создавайте и переиспользуйте компоненты быстрее  |  [Алексей Мажукин](speakers/Алексей%20Мажукин.md)  | [:notebook:](https://docs.google.com/presentation/d/1mKcWIWyOvX-ez5c1jd6yq2qeIpNQrplHj9UnKFRiR4o/edit#slide=id.p1)   |
+| GraphQL: Он вам не Rest  |  [Андрей Илларионов](speakers/Андрей%20Илларионов.md)  | [:notebook:](https://docs.google.com/presentation/d/1sDo0Conk6EtCzYlHWXdXn_ifcR6N9mYydoNEKvhKFAA/edit#slide=id.p)   |
 ## moscowcss 17 - Feb 06 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLAf_MJ7SOshEHtFSM5rIFQ6AvXHus4dAc)
 | | | |
 | --- | :---: | --- |
