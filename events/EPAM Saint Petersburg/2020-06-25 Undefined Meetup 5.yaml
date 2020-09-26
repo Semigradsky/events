@@ -1,0 +1,8 @@
+name: Undefined Meetup 5
+date: 2020-06-25
+videos: 
+talks:
+  - name: Чем живёт FrontEnd в 2020 г.
+    speaker: Василий Ванин, Елена Когодеева, Сергей Колеватов, Александр Канунников, Антон Чесноков
+    video: https://www.youtube.com/watch?v=NaJtjlUCo-o
+    presentation: 
