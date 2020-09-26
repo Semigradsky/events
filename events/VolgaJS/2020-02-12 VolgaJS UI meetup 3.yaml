@@ -1,0 +1,12 @@
+name: VolgaJS UI meetup 3
+date: 2020-02-12
+videos: 
+talks:
+  - name: StorybookJS. Создавайте и переиспользуйте компоненты быстрее
+    speaker: Алексей Мажукин
+    video: 
+    presentation: https://docs.google.com/presentation/d/1mKcWIWyOvX-ez5c1jd6yq2qeIpNQrplHj9UnKFRiR4o/edit#slide=id.p1
+  - name: "GraphQL: Он вам не Rest"
+    speaker: Андрей Илларионов
+    video: 
+    presentation: https://docs.google.com/presentation/d/1sDo0Conk6EtCzYlHWXdXn_ifcR6N9mYydoNEKvhKFAA/edit#slide=id.p

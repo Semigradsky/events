@@ -1,0 +1,9 @@
+name: VolgaJS UI online meetup 1
+date: 2020-04-15
+videos: 
+talks:
+  - name: "@mtproto/core: криптография, байты и боль"
+    speaker: Али Гасымов
+    video: https://youtu.be/CT_Gh5mVZeg
+    presentation: https://alik0211.github.io/mtproto-core-presentation/#/
+    code: https://github.com/alik0211/mtproto-core
