@@ -3,6 +3,10 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Undefined Meetup 6 - Sep 23 
+| | | |
+| --- | :---: | --- |
+| [Самое интересное с ESNEXT 2020](https://youtu.be/-HGjOopxWyY)  |  [Василий Ванин](speakers/Василий%20Ванин.md)  [Сергей Колеватов](speakers/Сергей%20Колеватов.md)  [Александр Канунников](speakers/Александр%20Канунников.md)  |    |
 ## Front-end Hero Online Meetup - Sep 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;H3IIpRTUdFU)
 | | | |
 | --- | :---: | --- |
@@ -55,6 +59,10 @@
 | [Shadow DOM: вдали от проторенных троп](https://www.youtube.com/watch?v=97_zqVXwAj4)  |  [Сергей Куликов](speakers/Сергей%20Куликов.md)  |    |
 | [Магия MagicString](https://www.youtube.com/watch?v=UB2XK7Cf-Ms)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
 | [OpenCV в браузере: WebCamera приложение](https://www.youtube.com/watch?v=Fk_bvkZ_CL0)  |  [Александра Журавлева](speakers/Александра%20Журавлева.md)  |    |
+## Undefined Meetup 5 - Jun 25 
+| | | |
+| --- | :---: | --- |
+| [Чем живёт FrontEnd в 2020 г.](https://www.youtube.com/watch?v=NaJtjlUCo-o)  |  [Василий Ванин](speakers/Василий%20Ванин.md)  [Елена Когодеева](speakers/Елена%20Когодеева.md)  [Сергей Колеватов](speakers/Сергей%20Колеватов.md)  [Александр Канунников](speakers/Александр%20Канунников.md)  [Антон Чесноков](speakers/Антон%20Чесноков.md)  |    |
 ## Angular Belarus 7 - Jun 25 
 | | | |
 | --- | :---: | --- |
@@ -125,6 +133,10 @@
 | --- | :---: | --- |
 | [Аспектно-ориентированное программирование в JS](https://www.youtube.com/watch?v=pFIrGf7J4jc)  |  [Виталий Перов](speakers/Виталий%20Перов.md)  |    |
 | [Vuejs v3 composition API: апдейты и преимущества](https://www.youtube.com/watch?v=ZdIS1HH7YNc)  |  [Михаил Кузнецов](speakers/Михаил%20Кузнецов.md)  |    |
+## Undefined Meetup 4 - Apr 30 
+| | | |
+| --- | :---: | --- |
+| [Приложения реального мира](https://www.youtube.com/watch?v=WHaciWyA02M)  |  [Василий Ванин](speakers/Василий%20Ванин.md)  | [:notebook:](https://vk.com/doc215887500_545891282?hash=035e4bfcf2f147424c&dl=7394c76b1e82e395c0)   |
 ## IT Jam. Front-end - Apr 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLGsNPiHwSUI5xPyxr0MQM8yhjiXBxcYup)
 | | | |
 | --- | :---: | --- |
@@ -212,6 +224,11 @@
 | [ApolloClient 3 — прощаемся с Redux, REST API и Relay](https://youtu.be/5h7zX45YPuQ)  |  [Павел Черторогов](speakers/Павел%20Черторогов.md)  |    |
 | [BFCache, или Туда и обратно](https://youtu.be/vz2IsHcSaKE)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/496360/) |
 | [Итак, вы ментор. Что дальше?](https://youtu.be/yxtFgqUc_Tw)  |  [Мария Нагорных](speakers/Мария%20Нагорных.md)  |    |
+## Undefined Meetup 3 - Feb 28 
+| | | |
+| --- | :---: | --- |
+| A11y: pro tips  |  [Anna Safonova](speakers/Anna%20Safonova.md)  | [:notebook:](https://vk.com/doc215887500_536136457?hash=37cbe7359cb5dc8e8d&dl=978bfe763d21300885)   |
+| Сага о библиотеке компонентов  |  [Olga Samokhvalova](speakers/Olga%20Samokhvalova.md)  | [:notebook:](https://vk.com/doc215887500_536138431?hash=3505ca776402228bee&dl=f7dd7b43aa841b6ce3)   |
 ## MoscowJS 48 - Feb 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL95OM-7UObpGiyAyygO8xBlvi7GKWHSku)
 | | | |
 | --- | :---: | --- |
