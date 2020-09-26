@@ -33,8 +33,6 @@
 - 2018 Apr 07 -- [SPA Meetup 4](https://youtu.be/BezEWFL5WKk)    
 ## Q&amp;A Panel – React Kyiv March
 - 2018 Mar 23 -- [React Kyiv March Meetup](https://youtu.be/Vokq8ndgd5c)    
-## ?
-- 2020 Mar 21 -- SaratovJS    
 ## Unknown
 - 2020 Jan 28 -- pitera11y_meetup 2    
 - 2020 Jan 28 -- pitera11y_meetup 2    
