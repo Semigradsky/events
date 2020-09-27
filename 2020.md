@@ -13,6 +13,12 @@
 | [Безопасность в web](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Мария Сампир](speakers/Мария%20Сампир.md)  |    |
 | [PWA](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Владислав Фай](speakers/Владислав%20Фай.md)  |    |
 | [Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Максим Сальников](speakers/Максим%20Сальников.md)  |    |
+## WebPurple meetup 44 - Sep 03 
+| | | |
+| --- | :---: | --- |
+| [Как хаскель в васм компилировать](https://www.youtube.com/watch?v=vne4L-8-w4o)  |  [Никита Кирсанов](speakers/Никита%20Кирсанов.md)  |  [:octocat:](https://kitos.github.io/habel/)  |
+| [Почему географические карты - это больно](https://www.youtube.com/watch?v=vne4L-8-w4o)  |  [Игорь Федюкин](speakers/Игорь%20Федюкин.md)  | [:notebook:](https://docs.google.com/presentation/d/1B33FT1euwzhHl54NdwsVMg5bkxFd4VZ-j_-Shi3Lj-E/edit#slide=id.p)   |
+| [Angular Universal: как правильно готовить SSR](https://www.youtube.com/watch?v=vne4L-8-w4o)  |  [Кирилл Скляров](speakers/Кирилл%20Скляров.md)  |    |
 ## PiterJS 50 - Aug 27 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;R5_yImO-m4g)
 | | | |
 | --- | :---: | --- |
@@ -117,6 +123,11 @@
 | | | |
 | --- | :---: | --- |
 | [State Management with NGXS. NGXS vs NGRX vs Akita.](https://www.youtube.com/watch?v=BtVHm0FJIRA)  |  [Максим Иванов](speakers/Максим%20Иванов.md)  | [:notebook:](https://docs.google.com/presentation/d/1V3ojYDYUm7-NTEFSZWx4jXfBRFIdFJaIVvUiVIm3muU) [:octocat:](https://github.com/ngxs-labs/data)  |
+## WebPurple meetup 43 - May 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;h1qAHNsGi0c)
+| | | |
+| --- | :---: | --- |
+| [Redux без копипаста](https://www.youtube.com/watch?v=h1qAHNsGi0c)  |  [Павел Уваров](speakers/Павел%20Уваров.md)  |    |
+| [Рефактори как будто никто не видит](https://www.youtube.com/watch?v=h1qAHNsGi0c)  |  [Никита Кирсанов](speakers/Никита%20Кирсанов.md)  | [:notebook:](https://docs.google.com/presentation/d/e/2PACX-1vSPXNUS8Br60Ckqhtv02786eMXW05G0qioSsXMfCiy3ZmepXfuqukYY7vOtI515_uOu2BSlIpivXgzq/pub?start=false&loop=false&delayms=3000&slide=id.p)  [:spiral_notepad:](https://nikitakirsanov.com/ru/blog/refactor-as-no-one-is-watching/) |
 ## PiterJS 47 - May 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;pev6g_oysUs)
 | | | |
 | --- | :---: | --- |
@@ -262,6 +273,11 @@
 | | | |
 | --- | :---: | --- |
 | [HTML: The Good Parts](https://www.youtube.com/watch?v=tVcdeFW6CYk)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
+## WebPurple meetup 41 - Feb 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;CnKu580zcJ8)
+| | | |
+| --- | :---: | --- |
+| [Advanced data flows with Gatsby](https://www.youtube.com/watch?v=CnKu580zcJ8)  |  [Никита Кирсанов](speakers/Никита%20Кирсанов.md)  |    |
+| [Как мы писали библиотеку компонентов](https://www.youtube.com/watch?v=CnKu580zcJ8)  |  [Андрей Сёмин](speakers/Андрей%20Сёмин.md)  |    |
 ## MinskJS 7 - Feb 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsL3nvC7pP69BhxdLC5JRT5B)
 | | | |
 | --- | :---: | --- |
