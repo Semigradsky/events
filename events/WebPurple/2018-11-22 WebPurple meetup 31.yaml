@@ -1,0 +1,12 @@
+name: WebPurple meetup 31
+date: 2018-11-22
+videos: 
+talks:
+  - name: Как скачать интернет
+    speaker: Николай Лапшин
+    video: https://www.youtube.com/watch?v=qAqvh-ihcjE
+    presentation: 
+  - name: От императивного к реактивному
+    speaker: Артур Шарипов
+    video: https://www.youtube.com/watch?v=verQ0xcy7j0
+    presentation: 

@@ -1,0 +1,12 @@
+name: WebPurple meetup 41
+date: 2020-02-13
+videos: https://www.youtube.com/watch?v=CnKu580zcJ8
+talks:
+  - name: Advanced data flows with Gatsby
+    speaker: Никита Кирсанов
+    video: https://www.youtube.com/watch?v=CnKu580zcJ8
+    presentation: 
+  - name: Как мы писали библиотеку компонентов
+    speaker: Андрей Сёмин
+    video: https://www.youtube.com/watch?v=CnKu580zcJ8
+    presentation: 

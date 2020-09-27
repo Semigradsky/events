@@ -1,0 +1,36 @@
+name: WebPurple meetup 24
+date: 2017-12-20
+videos: https://www.youtube.com/watch?v=amkV3KRyw28
+talks:
+  - name: Open source
+    speaker: Игорь Федюкин
+    video: https://youtu.be/amkV3KRyw28?t=528
+    presentation: 
+  - name: Плагин для Vue.js и Yandex.Карт
+    speaker: Павел Галкин
+    video: https://youtu.be/amkV3KRyw28
+    presentation: 
+  - name: История работы дизайнером в Лондоне в Walt Disney
+    speaker: Ирина Кирсанова
+    video: https://youtu.be/amkV3KRyw28?t=1497
+    presentation: 
+  - name: Ленивые массивы в JavaScript
+    speaker: Александр Харьков
+    video: https://youtu.be/amkV3KRyw28?t=2331
+    presentation: 
+  - name: Treemap
+    speaker: Андрей Смолко
+    video: https://youtu.be/amkV3KRyw28?t=2732
+    presentation: 
+  - name: WebPurple Retrospective
+    speaker: Маргарита Курдюмова
+    video: https://youtu.be/amkV3KRyw28?t=3889
+    presentation: 
+  - name: Блокчейн
+    speaker: Ярослав Перегуда
+    video: https://youtu.be/amkV3KRyw28?t=3432
+    presentation: 
+  - name: Секрет успешного доклада
+    speaker: Илья Чесноков
+    video: https://youtu.be/amkV3KRyw28?t=1145
+    presentation: 

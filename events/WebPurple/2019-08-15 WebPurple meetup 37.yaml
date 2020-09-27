@@ -1,0 +1,12 @@
+name: WebPurple meetup 37
+date: 2019-08-15
+videos: https://www.youtube.com/watch?v=f8YoJvzyiuk
+talks:
+  - name: Почему фреймворк Fastify одно из самых удачных решений для написания веб-серверов на NodeJS
+    speaker: Николай Лапшин
+    video: https://www.youtube.com/watch?v=f8YoJvzyiuk
+    presentation: 
+  - name: Как я не устроился на работу и почему это может быть хорошо
+    speaker: Александр Зайцев
+    video: https://www.youtube.com/watch?v=f8YoJvzyiuk
+    presentation: https://docs.google.com/presentation/d/1oQTxg7RY2Mm59wLaND0dDj9M4sixLtTOm6miFe-NGNc/edit#slide=id.g5f6da8a6b5_0_0

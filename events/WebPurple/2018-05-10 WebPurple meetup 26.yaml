@@ -1,0 +1,12 @@
+name: WebPurple meetup 26
+date: 2018-05-10
+videos: 
+talks:
+  - name: const vs let
+    speaker: Никита Кирсанов
+    video: https://www.youtube.com/watch?v=WXojma0u_o4
+    presentation: 
+  - name: Reasonable react development
+    speaker: Руслан Абрамов
+    video: https://www.youtube.com/watch?v=PF6FL58vLrQ
+    presentation: https://docs.google.com/presentation/d/1EDKaOckYKUpHo8YpPzOyvlQRQgULbbtVOiU1ZVVFEWQ/edit?usp=sharing

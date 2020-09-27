@@ -1,0 +1,12 @@
+name: WebPurple meetup 34
+date: 2019-03-28
+videos: 
+talks:
+  - name: Использование декларативного подхода на примере Ts.ED
+    speaker: Кирилл Варпахович
+    video: https://www.youtube.com/watch?v=DHAO6oB7R6U
+    presentation: 
+  - name: Асинхронный Typescript в Rich Internet Application
+    speaker: Георгий Киселев
+    video: https://www.youtube.com/watch?v=d8WddQsAfS8
+    presentation: 

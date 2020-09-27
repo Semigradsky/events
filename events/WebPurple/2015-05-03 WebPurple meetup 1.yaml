@@ -1,0 +1,8 @@
+name: WebPurple meetup 1
+date: 2015-05-03
+videos: 
+talks:
+  - name: React, TypeScript, и прочее такое
+    speaker: Яша Жмуров
+    video: https://www.youtube.com/watch?v=gAqbmvavsOQ
+    presentation: 

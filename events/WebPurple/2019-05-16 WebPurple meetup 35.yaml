@@ -1,0 +1,17 @@
+name: WebPurple meetup 35
+date: 2019-05-16
+videos: 
+talks:
+  - name: Как улучшить производительность в 2 раза за 5 строк
+    speaker: Никита Кирсанов
+    video: https://www.youtube.com/watch?v=Iy1DUcBjXcQ
+    presentation: https://docs.google.com/presentation/d/e/2PACX-1vS_NOLn8jfMW8J8zoB3Wd_ENuDjIzvwYM8f76lRJI8_RsHtJHotZW1SfxOgtefESBSlMdXZ4GUCDdqd/pub?start=false&loop=false&delayms=3000
+    code: https://github.com/kitos/dataloader-example
+  - name: Runtime code minimization
+    speaker: Игорь Федюкин
+    video: https://www.youtube.com/watch?v=J0VFrGyxuOs
+    presentation: 
+  - name: BEM meets CSS-in-JS
+    speaker: Дмитрий Крылов
+    video: https://www.youtube.com/watch?v=73dlDjzQoTM
+    presentation: 

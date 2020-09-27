@@ -1,0 +1,12 @@
+name: WebPurple meetup 30
+date: 2018-10-11
+videos: 
+talks:
+  - name: Зачем нужны паттерны
+    speaker: Александр Милованов
+    video: https://www.youtube.com/watch?v=ntEtXaMatAw
+    presentation: 
+  - name: Опыт использования паттернов для решения задач на проекте
+    speaker: Александр Засименко
+    video: https://www.youtube.com/watch?v=_KMPZ1Ximd0
+    presentation: 

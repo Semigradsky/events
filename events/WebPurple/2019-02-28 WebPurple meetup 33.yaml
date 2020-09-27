@@ -1,0 +1,12 @@
+name: WebPurple meetup 33
+date: 2019-02-28
+videos: 
+talks:
+  - name: Test your code, not your patience
+    speaker: Лада Ильина
+    video: https://www.youtube.com/watch?v=98bNSTBkrQ0
+    presentation: https://slides.com/ilyinalada/testing/fullscreen
+  - name: Работа с иностранными заказчиками. Как читать деловую переписку между строк.
+    speaker: Ирина Кирсанова
+    video: https://www.youtube.com/watch?v=ORy4sBMW6Ic
+    presentation: https://www.webpurple.net/static/irina_disney_6.pptx

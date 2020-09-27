@@ -1,0 +1,16 @@
+name: WebPurple meetup 27
+date: 2018-05-31
+videos: 
+talks:
+  - name: Как подружить Java и Typescript и получить GraphQL агрегатор
+    speaker: Дмитрий Пикулин
+    video: https://www.youtube.com/watch?v=F0aDAlvtPRY
+    presentation: 
+  - name: "Микрооптимизации на примере AngularJS#$digest"
+    speaker: Егор Леонтьев
+    video: https://www.youtube.com/watch?v=M8XxCBWWkt0
+    presentation: 
+  - name: Processing
+    speaker: Илья Зуев
+    video: https://www.youtube.com/watch?v=4w_uuH4uGB4
+    presentation: 

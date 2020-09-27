@@ -1,0 +1,13 @@
+name: WebPurple meetup 43
+date: 2020-05-21
+videos: https://www.youtube.com/watch?v=h1qAHNsGi0c
+talks:
+  - name: Redux без копипаста
+    speaker: Павел Уваров
+    video: https://www.youtube.com/watch?v=h1qAHNsGi0c
+    presentation: 
+  - name: Рефактори как будто никто не видит
+    speaker: Никита Кирсанов
+    video: https://www.youtube.com/watch?v=h1qAHNsGi0c
+    presentation: https://docs.google.com/presentation/d/e/2PACX-1vSPXNUS8Br60Ckqhtv02786eMXW05G0qioSsXMfCiy3ZmepXfuqukYY7vOtI515_uOu2BSlIpivXgzq/pub?start=false&loop=false&delayms=3000&slide=id.p
+    text: https://nikitakirsanov.com/ru/blog/refactor-as-no-one-is-watching/

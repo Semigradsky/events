@@ -1,0 +1,8 @@
+name: WebPurple meetup 20
+date: 2017-06-29
+videos: 
+talks:
+  - name: "Functional programming in JavaScript. Beyond Array#extras"
+    speaker: Руслан Абрамов
+    video: 
+    presentation: https://docs.google.com/presentation/d/1h9unQoUaVkJbkIlJwXz0zrIMily9ohmQ4zgdr3thLm4/edit?usp=sharing

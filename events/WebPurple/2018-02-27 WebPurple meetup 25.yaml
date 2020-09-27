@@ -1,0 +1,24 @@
+name: WebPurple meetup 25
+date: 2018-02-27
+videos: https://youtu.be/X9se89JEU-A
+talks:
+  - name: Как и зачем перейти от эффективности к продуктивности
+    speaker: Виктор Глушенков
+    video: https://youtu.be/X9se89JEU-A?t=3334
+    presentation: 
+  - name: Смарт-контракты
+    speaker: Ярослав Перегуда
+    video: https://youtu.be/X9se89JEU-A?t=1649
+    presentation: 
+  - name: Документация CSS
+    speaker: Аля Рыбакова
+    video: https://youtu.be/X9se89JEU-A?t=2251
+    presentation: 
+  - name: Фича img, про которую вы могли и не знать
+    speaker: Андрей Смолко
+    video: https://youtu.be/X9se89JEU-A?t=4113
+    presentation: 
+  - name: Blockchain
+    speaker: Игорь Федюкин
+    video: https://youtu.be/X9se89JEU-A?t=324
+    presentation: 

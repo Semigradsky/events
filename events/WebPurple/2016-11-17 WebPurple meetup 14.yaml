@@ -1,0 +1,12 @@
+name: WebPurple meetup 14
+date: 2016-11-17
+videos: 
+talks:
+  - name: Scrum in action
+    speaker: Яна Бобровская
+    video: https://www.youtube.com/watch?v=55BpinOJeEQ
+    presentation: 
+  - name: Не вебом единым. Чего ещё коснулась благодать javascript'а?
+    speaker: Павел Смирнов
+    video: https://www.youtube.com/watch?v=aOwgJmIrzcs
+    presentation: 

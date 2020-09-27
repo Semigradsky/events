@@ -1,0 +1,8 @@
+name: WebPurple meetup 12
+date: 2016-09-15
+videos: 
+talks:
+  - name: Современный CSS
+    speaker: Влад Грачёв
+    video: https://www.youtube.com/watch?v=gGSvrUb9Yiw
+    presentation: https://gwer.github.io/modern-css/

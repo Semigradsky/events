@@ -1,0 +1,17 @@
+name: WebPurple meetup 44
+date: 2020-09-03
+videos: 
+talks:
+  - name: Как хаскель в васм компилировать
+    speaker: Никита Кирсанов
+    video: https://www.youtube.com/watch?v=vne4L-8-w4o
+    presentation: 
+    code: https://kitos.github.io/habel/
+  - name: Почему географические карты - это больно
+    speaker: Игорь Федюкин
+    video: https://www.youtube.com/watch?v=vne4L-8-w4o
+    presentation: https://docs.google.com/presentation/d/1B33FT1euwzhHl54NdwsVMg5bkxFd4VZ-j_-Shi3Lj-E/edit#slide=id.p
+  - name: "Angular Universal: как правильно готовить SSR"
+    speaker: Кирилл Скляров
+    video: https://www.youtube.com/watch?v=vne4L-8-w4o
+    presentation: 

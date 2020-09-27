@@ -1,0 +1,12 @@
+name: WebPurple meetup 38
+date: 2019-09-14
+videos: https://www.youtube.com/watch?v=HgQdrRz-q-4
+talks:
+  - name: Наш ванильный enterprise
+    speaker: Павел Востриков
+    video: https://www.youtube.com/watch?v=HgQdrRz-q-4
+    presentation: https://our-vanilla-enterprise.vostrik.com/
+  - name: О спецификации ECMAScript и ее разработке
+    speaker: Сергей Рубанов
+    video: https://www.youtube.com/watch?v=HgQdrRz-q-4
+    presentation: https://vk.com/doc3352204_517278944?hash=24c33285c59b3a8198&dl=d958185d422b3c4c62

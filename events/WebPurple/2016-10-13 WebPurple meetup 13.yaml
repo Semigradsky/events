@@ -1,0 +1,12 @@
+name: WebPurple meetup 13
+date: 2016-10-13
+videos: 
+talks:
+  - name: "redux-talk@1.0.0"
+    speaker: Никита Кирсанов
+    video: https://www.youtube.com/watch?v=Et68tF6nL0g
+    presentation: https://kitos.github.io/redux-talk/
+  - name: Программирование это новые 90-е, или то, чему я научился будучи джуниором 5 лет
+    speaker: Дмитрий Полисадов
+    video: https://www.youtube.com/watch?v=L20h-KSKi0A
+    presentation: 
