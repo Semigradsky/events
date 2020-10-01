@@ -1,0 +1,12 @@
+name: GDG Minsk Web Meetup
+date: 2020-09-28
+videos: https://www.youtube.com/watch?v=IMyKfLmll4g
+talks:
+  - name: Селекторы в React приложении с Redux и как не испортить свой код
+    speaker: Илья Богославчик
+    video: https://www.youtube.com/watch?v=IMyKfLmll4g
+    presentation: https://drive.google.com/file/d/14bWNY5uNsUhkJlu4InSNiSjITD3g4o_q/view?usp=sharing
+  - name: Как перестать беспокоиться и начать опенсорсить
+    speaker: Роман Седов
+    video: https://www.youtube.com/watch?v=IMyKfLmll4g
+    presentation: https://drive.google.com/file/d/1K5oKDkj3r47vSTUBq7prCeX2m8d9JvaL/view?usp=sharing
