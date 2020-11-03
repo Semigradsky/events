@@ -1,0 +1,24 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2020-11-21
+videos: 
+talks:
+  - name: Дизайн-система дизайн-систем
+    speaker: Надежда Наширбанова
+    video: 
+    presentation: 
+  - name: DRY! Пишем переиспользуемые компоненты
+    speaker: Роман Омельницкий
+    video: 
+    presentation: 
+  - name: Код на React и TypeScript, который работает быстро
+    speaker: Виктор Хомяков
+    video: 
+    presentation: 
+  - name: Делаем TypeScript строже
+    speaker: Алексей Веселовский
+    video: 
+    presentation: 
+  - name: Data Science на JavaScript-модулях
+    speaker: Никита Сидоров
+    video: 
+    presentation: 
