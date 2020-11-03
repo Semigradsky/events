@@ -1,16 +1,16 @@
 name: pitera11y_meetup 2
 date: 2020-01-28
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB
 talks:
   - name: Интерфейс для глаз
     speaker: Иван Бакаидов
-    video:
-    presentation:
-  - name: 'Unknown'
-    speaker: 'Unknown'
-    video:
-    presentation:
-  - name: 'Unknown'
-    speaker: 'Unknown'
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=SLSjVOCwLm0
+    presentation: https://pitercss.ru/a11y/2/pres/eye-ui.pdf
+  - name: "Ты ничего не знаешь про alt, %username%"
+    speaker: Татьяна Фокина
+    video: https://www.youtube.com/watch?v=bEj3qur8vjU
+    presentation: https://pitercss.ru/a11y/2/pres/you-dont-know-alt.pdf
+  - name: Production & a11y
+    speaker: Анна Сафонова
+    video: https://www.youtube.com/watch?v=gXnEnQ5344M
+    presentation: https://pitercss.ru/a11y/2/pres/production-a11y.pdf

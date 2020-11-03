@@ -1,16 +1,16 @@
 name: pitera11y_meetup 1
 date: 2019-09-24
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB
 talks:
   - name: 5 вещей, которые надо знать про ARIA
     speaker: Сергей Кригер
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=6agkaOsB84I&t=134s
+    presentation: https://pitercss.ru/a11y/1/pres/aria-5/
   - name: "Тестирование доступности: что это, зачем и как"
     speaker: Анастасия Заречнева
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=3ezuFgPe5lg&t=24s
+    presentation: https://pitercss.ru/a11y/1/pres/%D0%B011y-test.pdf
   - name: Автоматизируем проверку доступности
     speaker: Никита Соболев
-    video:
-    presentation:
+    video: https://www.youtube.com/watch?v=T_-xurFzyoc
+    presentation: https://pitercss.ru/a11y/1/pres/a11y-autotest.pdf
