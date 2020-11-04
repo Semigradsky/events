@@ -2,33 +2,33 @@ name: Krasnodar Dev Conf 2019
 date:
   - 2019-08-24
   - 2019-08-25
-videos: ''
+videos: https://www.youtube.com/playlist?list=PL1irPRp3Ng9aPLQSxKfCOjWi9SyDXCBkw
 talks:
   - name: CSS — язык программирования
     speaker: Никита Дубко
-    video:
-    presentation:
+    video: https://youtu.be/fPkqobI0C10
+    presentation: https://yadi.sk/i/5Z1qX-XYWFM2tw
   - name: Рефакторинг V2 - Отрефакторенная версия доклада
     speaker: Алексей Охрименко
-    video:
-    presentation:
+    video: https://youtu.be/ooQ4_EplaO0
+    presentation: https://yadi.sk/i/ViLFJEaYt9bw_A
   - name: "Performance надзор: DIY"
     speaker: Николай Рябов
-    video:
-    presentation:
+    video: https://youtu.be/u7Ld2AWcB2M
+    presentation: https://yadi.sk/i/sVcYvfu1fUEB9g
   - name: "Новый фронтенд в Одноклассниках: что, как и почему?"
     speaker: Олег Коровин
-    video:
-    presentation:
+    video: https://youtu.be/HtiWXkPxmXA
+    presentation: https://yadi.sk/i/IfDX2-R39IB3HA
   - name: VK Mini Apps или как мы расширяем функционал ВКонтакте
     speaker: Сергей Густун
-    video:
-    presentation:
+    video: https://youtu.be/ZBEcO-SkcPM
+    presentation: https://yadi.sk/i/I7sV8HT16k5P3w
   - name: "\"Под капотом\" WebRTC: как живет и путешествует кадр в сети"
     speaker: Кирилл Роговой
-    video:
-    presentation:
+    video: https://youtu.be/R0wcvVYst-M
+    presentation: https://yadi.sk/i/7zVrCj5UPwhhwQ
   - name: Баги, которые вы никогда не встретите
     speaker: Тим Чаптыков
-    video:
-    presentation:
+    video: https://youtu.be/zI0nHkzwP_Q
+    presentation: https://yadi.sk/i/2udmniEYKSKhig

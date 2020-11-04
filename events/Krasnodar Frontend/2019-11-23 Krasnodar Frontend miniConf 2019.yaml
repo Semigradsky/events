@@ -1,24 +1,28 @@
 name: Krasnodar Frontend miniConf 2019
 date: 2019-11-23
-videos: 
+videos: https://www.youtube.com/playlist?list=PL1irPRp3Ng9a9boOsefhH0u8e-4L5jonA
 talks:
-  - name: 
-    speaker: 
-    video: 
-    presentation: 
-  - name: 
-    speaker: 
-    video: 
-    presentation: 
-  - name: 
-    speaker: 
-    video: 
-    presentation: 
-  - name: 
-    speaker: 
-    video: 
-    presentation: 
-  - name: 
-    speaker: 
-    video: 
-    presentation: 
+  - name: Темизация UI-kit. Используем преимущества CSS vars & SASS
+    speaker: Виталий Евтехов
+    video: https://youtu.be/756ixzJPsng
+    presentation: https://yadi.sk/i/2OOQ8iVegmHuOw
+  - name: Как мы строим платформу на Nest
+    speaker: Андрей Мелихов
+    video: https://youtu.be/Ys6XR24o4kU
+    presentation: https://yadi.sk/i/PAW_1cnAHW0s8A
+  - name: React Context API vs Redux
+    speaker: Екатерина Орлова
+    video: https://youtu.be/H_cEn0us5tY
+    presentation: https://yadi.sk/i/443skITcAAlrDg
+  - name: Типизация Rest API
+    speaker: Максим Шкарбалюк
+    video: https://youtu.be/znm4r1puZz4
+    presentation: https://yadi.sk/i/fSMZhQfUrXIHOQ
+  - name: Little big details, (или, с вниманием к деталям)
+    speaker: Николай Говоров
+    video: https://youtu.be/ZSloRfJpnTk
+    presentation: https://yadi.sk/i/W9AXsBMuyr_v6w
+  - name: "Nuxt.js: миллион полезных мелочей для Vue.js фронтенда"
+    speaker: Григорий Петров
+    video: https://youtu.be/xxxsycFxvy4
+    presentation: https://yadi.sk/i/FlmM7kq8WFAcqw
