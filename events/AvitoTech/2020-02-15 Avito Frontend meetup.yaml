@@ -1,0 +1,20 @@
+name: Avito Frontend meetup
+date: 2020-02-15
+videos: https://www.youtube.com/playlist?list=PLknJ4Vr6efQHUQ8x0wj7JYZSPufiIx89g
+talks:
+  - name: Пишем фронтенд без использования JavaScript. Опять
+    speaker: Руслан Садретдинов
+    video: https://www.youtube.com/watch?v=QwL2XHXHQl4
+    presentation: 
+  - name: Фронтопс? Серьёзно?
+    speaker: Анна Селезнёва
+    video: https://youtu.be/PCiKFnOFNvo
+    presentation: 
+  - name: "JSON API: работаем по спецификации"
+    speaker: Алексей Авдеев
+    video: https://youtu.be/JD3HLaLxUJ8
+    presentation: 
+  - name: "HTTP/3… а уже можно?"
+    speaker: Александр Зубов
+    video: https://www.youtube.com/watch?v=AcX2MIzrbi8&list=PLknJ4Vr6efQHUQ8x0wj7JYZSPufiIx89g&t=10370s
+    presentation: 

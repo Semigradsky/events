@@ -1,0 +1,20 @@
+name: Front end Meetup
+date: 2020-03-05
+videos: https://www.youtube.com/watch?v=WiaMtEKrKag
+talks:
+  - name: "HTTP/3… а уже можно?"
+    speaker: Александр Зубов
+    video: https://www.youtube.com/watch?v=WiaMtEKrKag
+    presentation: 
+  - name: "Relay Modern: working with local data"
+    speaker: Александр Руденко
+    video: https://www.youtube.com/watch?v=WiaMtEKrKag
+    presentation: 
+  - name: Стейт-менеджмент на конечных автоматах
+    speaker: Роман Омельницкий
+    video: 
+    presentation: 
+  - name: Web security
+    speaker: Андрей Глухманчук
+    video: 
+    presentation: 
