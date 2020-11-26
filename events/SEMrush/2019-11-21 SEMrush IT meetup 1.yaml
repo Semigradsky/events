@@ -1,0 +1,12 @@
+name: SEMrush IT meetup 1
+date: 2019-11-21
+videos: https://www.youtube.com/watch?v=mBUvtcvwJW8
+talks:
+  - name: "Игра “Собери контейнер в Gitlab CI” – полное прохождение"
+    speaker: Сергей Матвеенко
+    video: https://www.youtube.com/watch?v=mBUvtcvwJW8
+    presentation: 
+  - name: GitLab Pipeline programming
+    speaker: Сергей Мельников
+    video: https://www.youtube.com/watch?v=mBUvtcvwJW8
+    presentation: 
