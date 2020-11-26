@@ -1,0 +1,16 @@
+name: Frontend Hero Meetup
+date: 2020-12-03
+videos: 
+talks:
+  - name: Storybook - must have для разработчиков пользовательского интерфейса
+    speaker: Ростислав Козар
+    video: 
+    presentation: 
+  - name: Нейронные сети в твоем браузере
+    speaker: Владислав Борш
+    video: 
+    presentation: 
+  - name: Что такое компиляторы?
+    speaker: Никита Полторацкий
+    video: 
+    presentation: 
