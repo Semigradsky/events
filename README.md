@@ -3,6 +3,19 @@
 
 # Events / 2020 / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## PiterJS 52 - Oct 29 
+| | | |
+| --- | :---: | --- |
+| [Организация экосистем модулей](https://www.youtube.com/watch?v=_ZJfEoFdcJM)  |  [Иномджон Мирджамолов](speakers/Иномджон%20Мирджамолов.md)  [Виктор Пасынок](speakers/Виктор%20Пасынок.md)  |    |
+## GDG Minsk Web Meetup - Sep 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;IMyKfLmll4g)
+| | | |
+| --- | :---: | --- |
+| [Селекторы в React приложении с Redux и как не испортить свой код](https://www.youtube.com/watch?v=IMyKfLmll4g)  |  [Илья Богославчик](speakers/Илья%20Богославчик.md)  | [:notebook:](https://drive.google.com/file/d/14bWNY5uNsUhkJlu4InSNiSjITD3g4o_q/view?usp=sharing)   |
+| [Как перестать беспокоиться и начать опенсорсить](https://www.youtube.com/watch?v=IMyKfLmll4g)  |  [Роман Седов](speakers/Роман%20Седов.md)  | [:notebook:](https://drive.google.com/file/d/1K5oKDkj3r47vSTUBq7prCeX2m8d9JvaL/view?usp=sharing)   |
+## PiterJS 51 - Sep 24 
+| | | |
+| --- | :---: | --- |
+| [Дискуссия о найме JS-разработчиков](https://www.youtube.com/watch?v=MJsTZP9Fu-0)  |  [Анна Афонина](speakers/Анна%20Афонина.md)  [Диляра Саетова](speakers/Диляра%20Саетова.md)  [Евгений Кот](speakers/Евгений%20Кот.md)  |    |
 ## Undefined Meetup 6 - Sep 23 
 | | | |
 | --- | :---: | --- |
@@ -13,6 +26,27 @@
 | [Безопасность в web](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Мария Сампир](speakers/Мария%20Сампир.md)  |    |
 | [PWA](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Владислав Фай](speakers/Владислав%20Фай.md)  |    |
 | [Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?](https://www.youtube.com/watch?v=H3IIpRTUdFU)  |  [Максим Сальников](speakers/Максим%20Сальников.md)  |    |
+## JavaScript fwdays&#39;20 Autumn online - Sep 11-26 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLPcgQFk9n9y8WQ3dEeBByarIVaoaZm03W)
+| | | |
+| --- | :---: | --- |
+| Фронтенд, бэкенд и фулстек (заходят как-то в бар)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
+| [Node.js Middleware – никогда больше!](https://youtu.be/RS8x73z4csI)  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www2.slideshare.net/tshemsedinov/nodejs-middleware-never-again)   |
+| [Stunning Performance [Coding session]](https://youtu.be/Re0KjmkbSxo)  |  [Елена Жукова](speakers/Елена%20Жукова.md)  |    |
+| TDD 101 [Coding session]  |  [Volodymyr Shuhaiev](speakers/Volodymyr%20Shuhaiev.md)  |    |
+| Remx: state management for React [Coding session]  |  [Andrii Kogut](speakers/Andrii%20Kogut.md)  |    |
+| React Native Practice [Coding session]  |  [Игорь Качура](speakers/Игорь%20Качура.md)  |    |
+| Docker deep dive for JavaScript developers [Coding session]  |  [Виктор Турский](speakers/Виктор%20Турский.md)  |    |
+| Let the main thread breathe! [en] |  [Majid Hajian](speakers/Majid%20Hajian.md)  | [:notebook:](https://slides.com/mhadaily/let-the-main-thread-breathe#/2)   |
+| State management in React apps using the Focal library [Workshop] [uk] |  [Oleksandr Suhak](speakers/Oleksandr%20Suhak.md)  [Остап Червак](speakers/Остап%20Червак.md)  | [:notebook:](https://www.slideshare.net/fwdays/state-management-in-react-apps-using-the-focal-library-workshop-oleksandr-suhak-ostap-chervak)   |
+| #Microfrontends #LowConnectivity #AsianMarket  |  [Максим Демиденко](speakers/Максим%20Демиденко.md)  | [:notebook:](https://www.slideshare.net/fwdays/microfrontends-lowconnectivity-asianmarket-maxim-demidenko)   |
+| Most boring solution  |  [Илья Климов](speakers/Илья%20Климов.md)  |    |
+| Выкидываем ReactJS  |  [Александр Соловьев](speakers/Александр%20Соловьев.md)  |    |
+| Як знайти свою половинку або чому алгоритми важливі [uk] |  [Христина Ландвитович](speakers/Христина%20Ландвитович.md)  | [:notebook:](https://www.slideshare.net/fwdays/khrystyna-landvytovych-finding-the-perfect-mate-or-what-if-an-algorithm-affects-your-life)   |
+| How to see a bug the size of 1px  |  [Сергей Пузанков](speakers/Сергей%20Пузанков.md)  | [:notebook:](https://www.slideshare.net/fwdays/sergey-puzankov-how-to-see-a-bug-the-size-of-1px)   |
+| Everybody stand back! I know regular expressions  |  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  | [:notebook:](https://www.slideshare.net/fwdays/andrey-listochkin-everybody-stand-back-i-know-regular-expressions)   |
+| [Архитектурный ком](https://youtu.be/ueds8WfEgSE)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  [Виктор Турский](speakers/Виктор%20Турский.md)  [Сергей Фролов](speakers/Сергей%20Фролов.md)  |    |
+| [Why slow?](https://youtu.be/NzYSPNnEmXY)  |  [Иван Акулов](speakers/Иван%20Акулов.md)  [Андрей Листочкин](speakers/Андрей%20Листочкин.md)  |    |
+| [Креативний кодинг](https://youtu.be/frSWEoUTHSQ)  |  [Юрий Артюх](speakers/Юрий%20Артюх.md)  |    |
 ## WebPurple meetup 44 - Sep 03 
 | | | |
 | --- | :---: | --- |
@@ -224,6 +258,13 @@
 | --- | :---: | --- |
 | [Type soundness in TypeScript: the missing part](https://www.youtube.com/watch?v=5j2GrY5HBoI)  |  [Артём Иванов](speakers/Артём%20Иванов.md)  | [:notebook:](https://slides.com/buggy/deck-26cbbd#/) [:octocat:](https://github.com/Buggytheclown/my-profile/tree/master/ts-type-soundness) [:spiral_notepad:](https://habr.com/ru/post/492106/) |
 | [Quiz &#39;вопросы по Angular на собеседовании&#39;](https://www.youtube.com/watch?v=jw8o8dLgFag)  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  | [:notebook:](https://docs.google.com/presentation/d/1hqqMUX6SXZ5sb96Bchdb1Q3kl9LIVwIUyCXCRh76QK4/edit)   |
+## Front end Meetup - Mar 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;WiaMtEKrKag)
+| | | |
+| --- | :---: | --- |
+| [HTTP&#x2F;3… а уже можно?](https://www.youtube.com/watch?v=WiaMtEKrKag)  |  [Александр Зубов](speakers/Александр%20Зубов.md)  |    |
+| [Relay Modern: working with local data](https://www.youtube.com/watch?v=WiaMtEKrKag)  |  [Александр Руденко](speakers/Александр%20Руденко.md)  |    |
+| Стейт-менеджмент на конечных автоматах  |  [Роман Омельницкий](speakers/Роман%20Омельницкий.md)  |    |
+| Web security  |  [Андрей Глухманчук](speakers/Андрей%20Глухманчук.md)  |    |
 ## Я ❤ Frontend 2020 - Feb 29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SRLlyOzp6xBMUh0kn2eQBUd)
 | | | |
 | --- | :---: | --- |
@@ -269,6 +310,13 @@
 | --- | :---: | --- |
 | [Runtime Type Safety in Typescript](https://www.youtube.com/watch?v=_oWpNN2lkqI)  |  [Валентин Кононов](speakers/Валентин%20Кононов.md)  | [:notebook:](https://slides.com/valentinkononov/runtime-typescript-safety) [:octocat:](https://github.com/valentinkononov/ts-runtime-checker) [:spiral_notepad:](http://www.kononov.space/runtime_type_checks_in_ts_js/) |
 | [Dependency injection in Angular](https://www.youtube.com/watch?v=mQwctgBjLhs)  |  [Илья Рябчинский](speakers/Илья%20Рябчинский.md)  | [:notebook:](https://slides.com/ilyaryabchinski/deck)   |
+## Avito Frontend meetup - Feb 15 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLknJ4Vr6efQHUQ8x0wj7JYZSPufiIx89g)
+| | | |
+| --- | :---: | --- |
+| [Пишем фронтенд без использования JavaScript. Опять](https://www.youtube.com/watch?v=QwL2XHXHQl4)  |  [Руслан Садретдинов](speakers/Руслан%20Садретдинов.md)  |    |
+| [Фронтопс? Серьёзно?](https://youtu.be/PCiKFnOFNvo)  |  [Анна Селезнёва](speakers/Анна%20Селезнёва.md)  |    |
+| [JSON API: работаем по спецификации](https://youtu.be/JD3HLaLxUJ8)  |  [Алексей Авдеев](speakers/Алексей%20Авдеев.md)  |    |
+| [HTTP&#x2F;3… а уже можно?](https://www.youtube.com/watch?v=AcX2MIzrbi8&list=PLknJ4Vr6efQHUQ8x0wj7JYZSPufiIx89g&t=10370s)  |  [Александр Зубов](speakers/Александр%20Зубов.md)  |    |
 ## it-knot - Feb 13 
 | | | |
 | --- | :---: | --- |
@@ -318,6 +366,12 @@
 | --- | :---: | --- |
 | [API design for front-end](https://www.youtube.com/watch?v=X3mFOprERG4)  |  [Дмитрий Злыгин](speakers/Дмитрий%20Злыгин.md)  |    |
 | [Алгебраические типы данных в TypeScript](https://www.youtube.com/watch?v=Rb-0zYIHyQI)  |  [Антон Сутармин](speakers/Антон%20Сутармин.md)  |    |
+## pitera11y_meetup 2 - Jan 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB)
+| | | |
+| --- | :---: | --- |
+| [Интерфейс для глаз](https://www.youtube.com/watch?v=SLSjVOCwLm0)  |  [Иван Бакаидов](speakers/Иван%20Бакаидов.md)  | [:notebook:](https://pitercss.ru/a11y/2/pres/eye-ui.pdf)   |
+| [Ты ничего не знаешь про alt, %username%](https://www.youtube.com/watch?v=bEj3qur8vjU)  |  [Татьяна Фокина](speakers/Татьяна%20Фокина.md)  | [:notebook:](https://pitercss.ru/a11y/2/pres/you-dont-know-alt.pdf)   |
+| [Production &amp; a11y](https://www.youtube.com/watch?v=gXnEnQ5344M)  |  [Анна Сафонова](speakers/Анна%20Сафонова.md)  | [:notebook:](https://pitercss.ru/a11y/2/pres/production-a11y.pdf)   |
 ## Panda Meetup 36 Battle - Jan 18 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;1pwx8LDjve0)
 | | | |
 | --- | :---: | --- |

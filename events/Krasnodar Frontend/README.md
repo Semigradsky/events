@@ -3,6 +3,25 @@
 
 # Krasnodar Frontend
 
+## Krasnodar Frontend miniConf 2019 - 2019 Nov 23 [:movie_camera:](https://www.youtube.com/playlist?list=PL1irPRp3Ng9a9boOsefhH0u8e-4L5jonA)
+| | | |
+| --- | :---: | --- |
+| [Темизация UI-kit. Используем преимущества CSS vars &amp; SASS](https://youtu.be/756ixzJPsng)  |  [Виталий Евтехов](../../speakers/Виталий%20Евтехов.md)  | [:notebook:](https://yadi.sk/i/2OOQ8iVegmHuOw)   |
+| [Как мы строим платформу на Nest](https://youtu.be/Ys6XR24o4kU)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  | [:notebook:](https://yadi.sk/i/PAW_1cnAHW0s8A)   |
+| [React Context API vs Redux](https://youtu.be/H_cEn0us5tY)  |  [Екатерина Орлова](../../speakers/Екатерина%20Орлова.md)  | [:notebook:](https://yadi.sk/i/443skITcAAlrDg)   |
+| [Типизация Rest API](https://youtu.be/znm4r1puZz4)  |  [Максим Шкарбалюк](../../speakers/Максим%20Шкарбалюк.md)  | [:notebook:](https://yadi.sk/i/fSMZhQfUrXIHOQ)   |
+| [Little big details, (или, с вниманием к деталям)](https://youtu.be/ZSloRfJpnTk)  |  [Николай Говоров](../../speakers/Николай%20Говоров.md)  | [:notebook:](https://yadi.sk/i/W9AXsBMuyr_v6w)   |
+| [Nuxt.js: миллион полезных мелочей для Vue.js фронтенда](https://youtu.be/xxxsycFxvy4)  |  [Григорий Петров](../../speakers/Григорий%20Петров.md)  | [:notebook:](https://yadi.sk/i/FlmM7kq8WFAcqw)   |
+## Krasnodar Dev Conf 2019 - 2019 Aug 24-25 [:movie_camera:](https://www.youtube.com/playlist?list=PL1irPRp3Ng9aPLQSxKfCOjWi9SyDXCBkw)
+| | | |
+| --- | :---: | --- |
+| [CSS — язык программирования](https://youtu.be/fPkqobI0C10)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://yadi.sk/i/5Z1qX-XYWFM2tw)   |
+| [Рефакторинг V2 - Отрефакторенная версия доклада](https://youtu.be/ooQ4_EplaO0)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  | [:notebook:](https://yadi.sk/i/ViLFJEaYt9bw_A)   |
+| [Performance надзор: DIY](https://youtu.be/u7Ld2AWcB2M)  |  [Николай Рябов](../../speakers/Николай%20Рябов.md)  | [:notebook:](https://yadi.sk/i/sVcYvfu1fUEB9g)   |
+| [Новый фронтенд в Одноклассниках: что, как и почему?](https://youtu.be/HtiWXkPxmXA)  |  [Олег Коровин](../../speakers/Олег%20Коровин.md)  | [:notebook:](https://yadi.sk/i/IfDX2-R39IB3HA)   |
+| [VK Mini Apps или как мы расширяем функционал ВКонтакте](https://youtu.be/ZBEcO-SkcPM)  |  [Сергей Густун](../../speakers/Сергей%20Густун.md)  | [:notebook:](https://yadi.sk/i/I7sV8HT16k5P3w)   |
+| [&quot;Под капотом&quot; WebRTC: как живет и путешествует кадр в сети](https://youtu.be/R0wcvVYst-M)  |  [Кирилл Роговой](../../speakers/Кирилл%20Роговой.md)  | [:notebook:](https://yadi.sk/i/7zVrCj5UPwhhwQ)   |
+| [Баги, которые вы никогда не встретите](https://youtu.be/zI0nHkzwP_Q)  |  [Тим Чаптыков](../../speakers/Тим%20Чаптыков.md)  | [:notebook:](https://yadi.sk/i/2udmniEYKSKhig)   |
 ## Krasnodar Frontend: Meetup 5 - 2019 Mar 16 [:movie_camera:](https://www.youtube.com/playlist?list=PL1irPRp3Ng9a5dRaUeNivRZqOnN9chZ5K)
 | | | |
 | --- | :---: | --- |

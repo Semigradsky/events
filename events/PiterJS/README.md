@@ -3,6 +3,14 @@
 
 # PiterJS
 
+## PiterJS 52 - 2020 Oct 29 
+| | | |
+| --- | :---: | --- |
+| [Организация экосистем модулей](https://www.youtube.com/watch?v=_ZJfEoFdcJM)  |  [Иномджон Мирджамолов](../../speakers/Иномджон%20Мирджамолов.md)  [Виктор Пасынок](../../speakers/Виктор%20Пасынок.md)  |    |
+## PiterJS 51 - 2020 Sep 24 
+| | | |
+| --- | :---: | --- |
+| [Дискуссия о найме JS-разработчиков](https://www.youtube.com/watch?v=MJsTZP9Fu-0)  |  [Анна Афонина](../../speakers/Анна%20Афонина.md)  [Диляра Саетова](../../speakers/Диляра%20Саетова.md)  [Евгений Кот](../../speakers/Евгений%20Кот.md)  |    |
 ## PiterJS 50 - 2020 Aug 27 [:movie_camera:](https://youtu.be/R5_yImO-m4g)
 | | | |
 | --- | :---: | --- |
@@ -202,14 +210,14 @@
 | --- | :---: | --- |
 | [WebRTC медиа сервер](https://www.youtube.com/watch?v=vlPH7UmbONM)  |  [Владислав Ватрушкин](../../speakers/Владислав%20Ватрушкин.md)  |    |
 | [Практический опыт использования React Native + Redux](https://www.youtube.com/watch?v=xvt87NAWcEw)  |  [Станислав Краснояров](../../speakers/Станислав%20Краснояров.md)  |    |
-| [Node.js — прошлое, настоящее и будущее](https://www.youtube.com/watch?v=m0Z7J4tUUvk)  |  [Мелихов Андрей](../../speakers/Мелихов%20Андрей.md)  |    |
+| [Node.js — прошлое, настоящее и будущее](https://www.youtube.com/watch?v=m0Z7J4tUUvk)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |    |
 | [Структура и интерпретация языка JavaScript](https://www.youtube.com/watch?v=kqmW8PtObPo)  |  [Александр Баумгертнер](../../speakers/Александр%20Баумгертнер.md)  |    |
 ## PiterJS 14 - 2017 Apr 27 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxggKRhomjNwJ8Zftq8yR7nS)
 | | | |
 | --- | :---: | --- |
 | [Лайфхаки фронтэнд разработчика](https://www.youtube.com/watch?v=thVZI3mUXUM)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  | [:notebook:](https://zolotyh.github.io/27042017)   |
 | [JavaScript. Сложный путь изучения](https://www.youtube.com/watch?v=2uWh7V70_d8)  |  [Александр Баумгертнер](../../speakers/Александр%20Баумгертнер.md)  | [:notebook:](https://easy-deep-learning.github.io/boost-your-javascript-knowledge-level/)   |
-| [V8 под капотом](https://www.youtube.com/watch?v=ol2BB1CLziI)  |  [Мелихов Андрей](../../speakers/Мелихов%20Андрей.md)  | [:notebook:](https://www.icloud.com/keynote/0mTVHs5cQdL3KOyaHbhWPygFg)   |
+| [V8 под капотом](https://www.youtube.com/watch?v=ol2BB1CLziI)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  | [:notebook:](https://www.icloud.com/keynote/0mTVHs5cQdL3KOyaHbhWPygFg)   |
 ## PiterJS 13 - 2017 Mar 23 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjjcTWmYP9xbpWaK1uiDQcw)
 | | | |
 | --- | :---: | --- |

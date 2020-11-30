@@ -9,3 +9,8 @@
 | [Greet Node.js Multi-threading](https://www.youtube.com/watch?v=8xm5R-wEfmk)  |  [Антон Белов](../../speakers/Антон%20Белов.md)  |  [:octocat:](https://github.com/cerberus-ab/js-multi-threading-demo)  |
 | [React to Concurrent Mode](https://youtu.be/8xm5R-wEfmk?t=3430)  |  [Алексей Балканский](../../speakers/Алексей%20Балканский.md)  |    |
 | [Lazy loading images](https://youtu.be/8xm5R-wEfmk?t=5303)  |  [Денис Голубцов](../../speakers/Денис%20Голубцов.md)  |    |
+## SEMrush IT meetup 1 - 2019 Nov 21 [:movie_camera:](https://www.youtube.com/watch?v=mBUvtcvwJW8)
+| | | |
+| --- | :---: | --- |
+| [Игра “Собери контейнер в Gitlab CI” – полное прохождение](https://www.youtube.com/watch?v=mBUvtcvwJW8)  |  [Сергей Матвеенко](../../speakers/Сергей%20Матвеенко.md)  |    |
+| [GitLab Pipeline programming](https://www.youtube.com/watch?v=mBUvtcvwJW8)  |  [Сергей Мельников](../../speakers/Сергей%20Мельников.md)  |    |

@@ -3,6 +3,18 @@
 
 # pitercss
 
+## pitera11y_meetup 2 - 2020 Jan 28 [:movie_camera:](https://www.youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB)
+| | | |
+| --- | :---: | --- |
+| [Интерфейс для глаз](https://www.youtube.com/watch?v=SLSjVOCwLm0)  |  [Иван Бакаидов](../../speakers/Иван%20Бакаидов.md)  | [:notebook:](https://pitercss.ru/a11y/2/pres/eye-ui.pdf)   |
+| [Ты ничего не знаешь про alt, %username%](https://www.youtube.com/watch?v=bEj3qur8vjU)  |  [Татьяна Фокина](../../speakers/Татьяна%20Фокина.md)  | [:notebook:](https://pitercss.ru/a11y/2/pres/you-dont-know-alt.pdf)   |
+| [Production &amp; a11y](https://www.youtube.com/watch?v=gXnEnQ5344M)  |  [Анна Сафонова](../../speakers/Анна%20Сафонова.md)  | [:notebook:](https://pitercss.ru/a11y/2/pres/production-a11y.pdf)   |
+## pitera11y_meetup 1 - 2019 Sep 24 [:movie_camera:](https://www.youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB)
+| | | |
+| --- | :---: | --- |
+| [5 вещей, которые надо знать про ARIA](https://www.youtube.com/watch?v=6agkaOsB84I&t=134s)  |  [Сергей Кригер](../../speakers/Сергей%20Кригер.md)  | [:notebook:](https://pitercss.ru/a11y/1/pres/aria-5/)   |
+| [Тестирование доступности: что это, зачем и как](https://www.youtube.com/watch?v=3ezuFgPe5lg&t=24s)  |  [Анастасия Заречнева](../../speakers/Анастасия%20Заречнева.md)  | [:notebook:](https://pitercss.ru/a11y/1/pres/%D0%B011y-test.pdf)   |
+| [Автоматизируем проверку доступности](https://www.youtube.com/watch?v=T_-xurFzyoc)  |  [Никита Соболев](../../speakers/Никита%20Соболев.md)  | [:notebook:](https://pitercss.ru/a11y/1/pres/a11y-autotest.pdf)   |
 ## pitercss_meetup 33 - 2019 Jun 25 [:movie_camera:](https://www.youtube.com/watch?v=N3kL7vxGPtw)
 | | | |
 | --- | :---: | --- |

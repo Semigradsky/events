@@ -3,6 +3,27 @@
 
 # fwdays
 
+## JavaScript fwdays&#39;20 Autumn online - 2020 Sep 11-26 [:movie_camera:](https://www.youtube.com/playlist?list=PLPcgQFk9n9y8WQ3dEeBByarIVaoaZm03W)
+| | | |
+| --- | :---: | --- |
+| Фронтенд, бэкенд и фулстек (заходят как-то в бар)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |    |
+| [Node.js Middleware – никогда больше!](https://youtu.be/RS8x73z4csI)  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www2.slideshare.net/tshemsedinov/nodejs-middleware-never-again)   |
+| [Stunning Performance [Coding session]](https://youtu.be/Re0KjmkbSxo)  |  [Елена Жукова](../../speakers/Елена%20Жукова.md)  |    |
+| TDD 101 [Coding session]  |  [Volodymyr Shuhaiev](../../speakers/Volodymyr%20Shuhaiev.md)  |    |
+| Remx: state management for React [Coding session]  |  [Andrii Kogut](../../speakers/Andrii%20Kogut.md)  |    |
+| React Native Practice [Coding session]  |  [Игорь Качура](../../speakers/Игорь%20Качура.md)  |    |
+| Docker deep dive for JavaScript developers [Coding session]  |  [Виктор Турский](../../speakers/Виктор%20Турский.md)  |    |
+| Let the main thread breathe! [en] |  [Majid Hajian](../../speakers/Majid%20Hajian.md)  | [:notebook:](https://slides.com/mhadaily/let-the-main-thread-breathe#/2)   |
+| State management in React apps using the Focal library [Workshop] [uk] |  [Oleksandr Suhak](../../speakers/Oleksandr%20Suhak.md)  [Остап Червак](../../speakers/Остап%20Червак.md)  | [:notebook:](https://www.slideshare.net/fwdays/state-management-in-react-apps-using-the-focal-library-workshop-oleksandr-suhak-ostap-chervak)   |
+| #Microfrontends #LowConnectivity #AsianMarket  |  [Максим Демиденко](../../speakers/Максим%20Демиденко.md)  | [:notebook:](https://www.slideshare.net/fwdays/microfrontends-lowconnectivity-asianmarket-maxim-demidenko)   |
+| Most boring solution  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
+| Выкидываем ReactJS  |  [Александр Соловьев](../../speakers/Александр%20Соловьев.md)  |    |
+| Як знайти свою половинку або чому алгоритми важливі [uk] |  [Христина Ландвитович](../../speakers/Христина%20Ландвитович.md)  | [:notebook:](https://www.slideshare.net/fwdays/khrystyna-landvytovych-finding-the-perfect-mate-or-what-if-an-algorithm-affects-your-life)   |
+| How to see a bug the size of 1px  |  [Сергей Пузанков](../../speakers/Сергей%20Пузанков.md)  | [:notebook:](https://www.slideshare.net/fwdays/sergey-puzankov-how-to-see-a-bug-the-size-of-1px)   |
+| Everybody stand back! I know regular expressions  |  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  | [:notebook:](https://www.slideshare.net/fwdays/andrey-listochkin-everybody-stand-back-i-know-regular-expressions)   |
+| [Архитектурный ком](https://youtu.be/ueds8WfEgSE)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  [Виктор Турский](../../speakers/Виктор%20Турский.md)  [Сергей Фролов](../../speakers/Сергей%20Фролов.md)  |    |
+| [Why slow?](https://youtu.be/NzYSPNnEmXY)  |  [Иван Акулов](../../speakers/Иван%20Акулов.md)  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  |    |
+| [Креативний кодинг](https://youtu.be/frSWEoUTHSQ)  |  [Юрий Артюх](../../speakers/Юрий%20Артюх.md)  |    |
 ## JavaScript fwdays&#39;19 - 2019 Mar 16 
 | | | |
 | --- | :---: | --- |

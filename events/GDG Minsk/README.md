@@ -3,6 +3,11 @@
 
 # GDG Minsk
 
+## GDG Minsk Web Meetup - 2020 Sep 28 [:movie_camera:](https://www.youtube.com/watch?v=IMyKfLmll4g)
+| | | |
+| --- | :---: | --- |
+| [Селекторы в React приложении с Redux и как не испортить свой код](https://www.youtube.com/watch?v=IMyKfLmll4g)  |  [Илья Богославчик](../../speakers/Илья%20Богославчик.md)  | [:notebook:](https://drive.google.com/file/d/14bWNY5uNsUhkJlu4InSNiSjITD3g4o_q/view?usp=sharing)   |
+| [Как перестать беспокоиться и начать опенсорсить](https://www.youtube.com/watch?v=IMyKfLmll4g)  |  [Роман Седов](../../speakers/Роман%20Седов.md)  | [:notebook:](https://drive.google.com/file/d/1K5oKDkj3r47vSTUBq7prCeX2m8d9JvaL/view?usp=sharing)   |
 ## GDG Minsk Web Meetup - 2020 Jun 09 [:movie_camera:](https://www.youtube.com/watch?v=SeiHpb2gIlM)
 | | | |
 | --- | :---: | --- |
