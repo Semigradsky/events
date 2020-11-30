@@ -6,10 +6,10 @@ talks:
     speaker: Владислав Ватрушкин
     video: https://www.youtube.com/watch?v=vlPH7UmbONM
   - name: Практический опыт использования React Native + Redux
-    speaker: 'Станислав Краснояров '
+    speaker: Станислав Краснояров
     video: https://www.youtube.com/watch?v=xvt87NAWcEw
   - name: 'Node.js — прошлое, настоящее и будущее'
-    speaker: Мелихов Андрей
+    speaker: Андрей Мелихов
     video: https://www.youtube.com/watch?v=m0Z7J4tUUvk
   - name: Структура и интерпретация языка JavaScript
     speaker: Александр Баумгертнер
