@@ -1,0 +1,8 @@
+name: PiterJS 54
+date: 2020-12-10
+videos: 
+talks:
+  - name: "Pro .prototype’ы"
+    speaker: Виктор Вершанский
+    video: https://www.youtube.com/watch?v=wbcL5xn-3l4
+    presentation: https://wentout.github.io/PiterJS_54/

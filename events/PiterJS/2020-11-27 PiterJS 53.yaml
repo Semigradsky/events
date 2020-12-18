@@ -4,5 +4,6 @@ videos:
 talks:
   - name: Разработка тайпскриптовых типов через тестирование [Workshop]
     speaker: Дмитрий Карловский, Артур Мукминов
-    video: 
+    video: https://www.youtube.com/watch?v=KSzZnw7upqM
     presentation: 
+    code: https://github.com/nin-jin/tdtd
