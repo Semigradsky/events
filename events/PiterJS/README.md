@@ -3,6 +3,14 @@
 
 # PiterJS
 
+## PiterJS 54 - 2020 Dec 10 
+| | | |
+| --- | :---: | --- |
+| [Pro .prototype’ы](https://www.youtube.com/watch?v=wbcL5xn-3l4)  |  [Виктор Вершанский](../../speakers/Виктор%20Вершанский.md)  | [:notebook:](https://wentout.github.io/PiterJS_54/)   |
+## PiterJS 53 - 2020 Nov 27 
+| | | |
+| --- | :---: | --- |
+| [Разработка тайпскриптовых типов через тестирование [Workshop]](https://www.youtube.com/watch?v=KSzZnw7upqM)  |  [Дмитрий Карловский](../../speakers/Дмитрий%20Карловский.md)  [Артур Мукминов](../../speakers/Артур%20Мукминов.md)  |  [:octocat:](https://github.com/nin-jin/tdtd)  |
 ## PiterJS 52 - 2020 Oct 29 
 | | | |
 | --- | :---: | --- |
