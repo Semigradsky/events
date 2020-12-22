@@ -7,6 +7,13 @@
 | | | |
 | --- | :---: | --- |
 | [Pro .prototype’ы](https://www.youtube.com/watch?v=wbcL5xn-3l4)  |  [Виктор Вершанский](speakers/Виктор%20Вершанский.md)  | [:notebook:](https://wentout.github.io/PiterJS_54/)   |
+## Accessibility Club Minsk Meetup 2 - Dec 10 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;m3EStUvzSAs)
+| | | |
+| --- | :---: | --- |
+| [Версия для слабовидящих? А можно не надо?](https://youtu.be/m3EStUvzSAs?t=748)  |  [Lena Ryan](speakers/Lena%20Ryan.md)  |    |
+| [Доступность в SPA](https://youtu.be/m3EStUvzSAs?t=2527)  |  [Александр Касперович](speakers/Александр%20Касперович.md)  |    |
+| [SEO vs a11y (или как всем угодить)](https://youtu.be/m3EStUvzSAs?t=4569)  |  [Сергей Раздолянский](speakers/Сергей%20Раздолянский.md)  |    |
+| [Эмпатия и порка](https://youtu.be/m3EStUvzSAs?t=6501)  |  [Валерия Курмак](speakers/Валерия%20Курмак.md)  |    |
 ## PiterJS 53 - Nov 27 
 | | | |
 | --- | :---: | --- |
