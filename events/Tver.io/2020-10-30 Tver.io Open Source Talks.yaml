@@ -1,0 +1,12 @@
+name: Tver.io Open Source Talks
+date: 2020-10-30
+videos: https://www.youtube.com/watch?v=ZnsRH9NVqDw
+talks:
+  - name: Почему не надо создавать свой собственный Open Source UI Framework
+    speaker: Андрей Яманов
+    video: https://www.youtube.com/watch?v=ZnsRH9NVqDw
+    presentation: 
+  - name: Почему фронтендеры не инженеры
+    speaker: Сергей Сова
+    video: https://www.youtube.com/watch?v=ZnsRH9NVqDw
+    presentation: 

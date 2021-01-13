@@ -1,0 +1,12 @@
+name: Tver.io Performance Meetup
+date: 2021-01-21
+videos: 
+talks:
+  - name: Немного про рендеринг и производительность
+    speaker: Сергей Ufocoder
+    video: 
+    presentation: 
+  - name: Practical Serverless & Edge Computing
+    speaker: Алексей Тактаров
+    video: 
+    presentation: 
