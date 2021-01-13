@@ -42,7 +42,7 @@
 ## Girls Not Bombs 2 - 2015 Mar 05 [:movie_camera:](https://www.youtube.com/playlist?list=PLrOBnk7g6QXrlnahZ3CD6SLMRWav4BWyQ)
 | | | |
 | --- | :---: | --- |
-| [Еще один доклад про SVG](https://www.youtube.com/watch?v=aVlhxKkn5OE)  |  [Анна Селезнева](../../speakers/Анна%20Селезнева.md)  |    |
+| [Еще один доклад про SVG](https://www.youtube.com/watch?v=aVlhxKkn5OE)  |  [Анна Селезнёва](../../speakers/Анна%20Селезнёва.md)  |    |
 | [Процесс разработки фронтенда поиска Yandex](https://www.youtube.com/watch?v=WprFkYKuQj0)  |  [Евгения Самохина](../../speakers/Евгения%20Самохина.md)  [Наталья Шойхет](../../speakers/Наталья%20Шойхет.md)  |    |
 | [Как мы строим гибкую архитектуру с AngularJS](https://www.youtube.com/watch?v=c6DY7R8F9r8)  |  [Анастасия Рыбик](../../speakers/Анастасия%20Рыбик.md)  |    |
 ## Web Not Bombs 3 - 2014 Feb 19 [:movie_camera:](https://www.youtube.com/playlist?list=PLrOBnk7g6QXq4b_rBvWaZSahx2sQV20VA)
@@ -57,5 +57,5 @@
 | --- | :---: | --- |
 | [Создание инфраструктуры для вашего проекта с помощью Yeoman](https://www.youtube.com/watch?v=LieMUGWdYYk)  |  [Михаил Ларченко](../../speakers/Михаил%20Ларченко.md)  |    |
 | [Web hybrid developer, full-stack hero, rockstar: что значит быть современным веб-разработчиком](https://www.youtube.com/watch?v=dMChfHkaTTM)  |  [Илья Пухальский](../../speakers/Илья%20Пухальский.md)  |    |
-| [Основы сеонизма, или как перестать ненавидеть SEO и начать делать хорошие сайты](https://www.youtube.com/watch?v=o2LNfXzVNnc)  |  [Анна Селезнева](../../speakers/Анна%20Селезнева.md)  |    |
+| [Основы сеонизма, или как перестать ненавидеть SEO и начать делать хорошие сайты](https://www.youtube.com/watch?v=o2LNfXzVNnc)  |  [Анна Селезнёва](../../speakers/Анна%20Селезнёва.md)  |    |
 | [Что необходимо знать об архитектуре CSS](https://www.youtube.com/watch?v=MPoB3DsN4pk)  |  [Виталий Кузьмич](../../speakers/Виталий%20Кузьмич.md)  |    |

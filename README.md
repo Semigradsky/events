@@ -18,6 +18,11 @@
 | | | |
 | --- | :---: | --- |
 | [Разработка тайпскриптовых типов через тестирование [Workshop]](https://www.youtube.com/watch?v=KSzZnw7upqM)  |  [Дмитрий Карловский](speakers/Дмитрий%20Карловский.md)  [Артур Мукминов](speakers/Артур%20Мукминов.md)  |  [:octocat:](https://github.com/nin-jin/tdtd)  |
+## Tver.io Open Source Talks - Oct 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ZnsRH9NVqDw)
+| | | |
+| --- | :---: | --- |
+| [Почему не надо создавать свой собственный Open Source UI Framework](https://www.youtube.com/watch?v=ZnsRH9NVqDw)  |  [Андрей Яманов](speakers/Андрей%20Яманов.md)  |    |
+| [Почему фронтендеры не инженеры](https://www.youtube.com/watch?v=ZnsRH9NVqDw)  |  [Сергей Сова](speakers/Сергей%20Сова.md)  |    |
 ## PiterJS 52 - Oct 29 
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,11 @@
 
 # Tver.io
 
+## Tver.io Open Source Talks - 2020 Oct 30 [:movie_camera:](https://www.youtube.com/watch?v=ZnsRH9NVqDw)
+| | | |
+| --- | :---: | --- |
+| [Почему не надо создавать свой собственный Open Source UI Framework](https://www.youtube.com/watch?v=ZnsRH9NVqDw)  |  [Андрей Яманов](../../speakers/Андрей%20Яманов.md)  |    |
+| [Почему фронтендеры не инженеры](https://www.youtube.com/watch?v=ZnsRH9NVqDw)  |  [Сергей Сова](../../speakers/Сергей%20Сова.md)  |    |
 ## Tver.io Frontend Meetup - 2019 Sep 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLiOxDlmyqigyWmvMY8e7GbCIB1nwptzHe)
 | | | |
 | --- | :---: | --- |
