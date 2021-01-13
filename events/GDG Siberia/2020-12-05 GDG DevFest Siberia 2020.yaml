@@ -1,0 +1,14 @@
+name: GDG DevFest Siberia 2020
+date:
+  - 2020-12-05
+  - 2020-12-06
+videos: 
+talks:
+  - name: How to display a gazillion of metrics and keep your sanity
+    speaker: Андрей Гончаров
+    video: 
+    presentation: 
+  - name: Frontend in functional language? Hold my beer!
+    speaker: Vagif Abilov
+    video: 
+    presentation: 

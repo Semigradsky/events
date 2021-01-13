@@ -1,0 +1,46 @@
+name: GDG DevFest Siberia 2016
+date: 
+  - 2016-11-19
+  - 2016-11-20
+videos: https://www.youtube.com/playlist?list=PLINg778NUJCovyoK2HzGiEZnjoL092Kow
+talks:
+  - name: Progressive Web Apps
+    speaker: Сергей Пугачёв
+    video: https://youtu.be/DDse-mZ9t7w
+    presentation: 
+  - name: "Vue 2.0: построить WebApp стало ещё проще"
+    speaker: Андрей Солодовников
+    video: https://youtu.be/JMFuS_Pej_M
+    presentation: 
+  - name: Progressive Web Apps в примерах (codelab)
+    speaker: Сергей Пугачёв
+    video: 
+    presentation: 
+  - name: 200+ компонентов и прогрессивный рендеринг на Catberry.js
+    speaker: Михаил Реенко
+    video: https://youtu.be/XM4ISiIh39o
+    presentation: https://drive.google.com/file/d/0BzDlQCw44XA6dy1vZ2pZSWhtTlE/view
+  - name: "Нативный код в Web'e"
+    speaker: Даниил Оношко
+    video: https://youtu.be/PJq9as0pWmo
+    presentation: https://drive.google.com/file/d/0BzDlQCw44XA6ZmRZSHZXR2hfOGc/view
+  - name: Catberry.js in action (codelab)
+    speaker: Михаил Реенко
+    video: 
+    presentation: 
+  - name: Автоматизируем инфраструктуру веб-приложения
+    speaker: Эдуард Медведев
+    video: https://youtu.be/Ykfyqt9C6xE
+    presentation: https://drive.google.com/file/d/0BzDlQCw44XA6dWJvODNhWFNsaUE/view
+  - name: Фронтенд в гараже
+    speaker: Игорь Шеко
+    video: https://youtu.be/buXyYEy0uyg
+    presentation: https://drive.google.com/file/d/0BzDlQCw44XA6WVhMQUhHUV81M3c/view
+  - name: Укрощаем WebRTC
+    speaker: Григорий Петров
+    video: https://youtu.be/XUK-SBRpXv0
+    presentation: https://drive.google.com/file/d/0BzDlQCw44XA6U3dxQkNsRXBwX1E/view
+  - name: Профилирование веб-приложений в современных условиях
+    speaker: Олег Федосеев
+    video: https://youtu.be/gl-vESuCD0k
+    presentation: https://drive.google.com/file/d/0BzDlQCw44XA6XzBFc3dHRnMtNkU/view

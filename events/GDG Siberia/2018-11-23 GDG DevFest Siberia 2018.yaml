@@ -1,0 +1,14 @@
+name: GDG DevFest Siberia 2018
+date: 
+  - 2018-11-23
+  - 2018-11-25
+videos: 
+talks:
+  - name: Язык жестов
+    speaker: Анна Селезнёва
+    video: 
+    presentation: 
+  - name: "GraphQL: basics and emotions"
+    speaker: Евгений Шкодин
+    video: 
+    presentation: 

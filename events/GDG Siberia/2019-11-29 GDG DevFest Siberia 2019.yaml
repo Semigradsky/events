@@ -1,0 +1,30 @@
+name: GDG DevFest Siberia 2019
+date: 
+  - 2019-11-29
+  - 2019-12-01
+videos: https://www.youtube.com/playlist?list=PLINg778NUJCqQurPdtd51OyhQBodLD7Tg
+talks:
+  - name: "Mission Possible: Build PWA out of Web Components in 180 minutes"
+    speaker: Алексей Родионов
+    video: 
+    presentation: 
+  - name: "Vue.js 3: Новое поколение front-end фреймворков"
+    speaker: Игорь Шеко
+    video: https://youtu.be/WI94U4MyIIM
+    presentation: 
+  - name: PWA/TWA без купюр
+    speaker: Алексей Родионов
+    video: https://youtu.be/MuEFPsW9B3M
+    presentation: 
+  - name: Serverless для frontend-разработчиков, или Можно ли обойтись без классического бэкенда
+    speaker: Сергей Пугачёв
+    video: https://youtu.be/7e-bnJev9Ww
+    presentation: 
+  - name: Видео в вебе от Flash до MSE или как написать свой видеоплеер
+    speaker: Алексей Гусев
+    video: https://youtu.be/ZxmELCVweOQ
+    presentation: 
+  - name: "Священный грааль: запуск React в Java"
+    speaker: Олег Коровин
+    video: https://youtu.be/7cbBhcQd5yQ
+    presentation: 
