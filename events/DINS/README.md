@@ -3,6 +3,11 @@
 
 # DINS
 
+## DINS - JavaScript EVENING - 2020 Sep 30 [:movie_camera:](https://www.youtube.com/playlist?list=PLhhTXwj6_Fl0TwVg89IlpwBjw2_Wj605u)
+| | | |
+| --- | :---: | --- |
+| [Рефакторинг приложения на примере Chrome Extension](https://youtu.be/h9wMcCBeqeA)  |  [Андрей Владыкин](../../speakers/Андрей%20Владыкин.md)  |    |
+| [Разработка быстрых и легких веб-приложений на SvelteJS](https://youtu.be/RMhmWpx2iqA)  |  [Михаил Кузнецов](../../speakers/Михаил%20Кузнецов.md)  |    |
 ## DINS - JavaScript EVENING - 2020 May 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5)
 | | | |
 | --- | :---: | --- |

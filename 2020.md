@@ -27,6 +27,11 @@
 | | | |
 | --- | :---: | --- |
 | [Организация экосистем модулей](https://www.youtube.com/watch?v=_ZJfEoFdcJM)  |  [Иномджон Мирджамолов](speakers/Иномджон%20Мирджамолов.md)  [Виктор Пасынок](speakers/Виктор%20Пасынок.md)  |    |
+## DINS - JavaScript EVENING - Sep 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLhhTXwj6_Fl0TwVg89IlpwBjw2_Wj605u)
+| | | |
+| --- | :---: | --- |
+| [Рефакторинг приложения на примере Chrome Extension](https://youtu.be/h9wMcCBeqeA)  |  [Андрей Владыкин](speakers/Андрей%20Владыкин.md)  |    |
+| [Разработка быстрых и легких веб-приложений на SvelteJS](https://youtu.be/RMhmWpx2iqA)  |  [Михаил Кузнецов](speakers/Михаил%20Кузнецов.md)  |    |
 ## GDG Minsk Web Meetup - Sep 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;IMyKfLmll4g)
 | | | |
 | --- | :---: | --- |
