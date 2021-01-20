@@ -1,0 +1,12 @@
+name: DINS - JavaScript EVENING
+date: 2021-01-28
+videos: 
+talks:
+  - name: Инструменты отладки в Chrome DevTools
+    speaker: Андрей Соколов
+    video: 
+    presentation: 
+  - name: Cypress как оружие против багов на проекте со сложной бизнес-логикой
+    speaker: Константин Поздникин
+    video: 
+    presentation: 
