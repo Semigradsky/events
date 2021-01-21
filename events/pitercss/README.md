@@ -3,6 +3,13 @@
 
 # pitercss
 
+## pitera11y_meetup 3 - 2021 Jan 20 [:movie_camera:](https://youtu.be/LIi-fRukS1Y)
+| | | |
+| --- | :---: | --- |
+| [Про свой опыт борьбы с интерфейсами](https://www.youtube.com/watch?v=LIi-fRukS1Y&t=322s)  |  [Иван Бакаидов](../../speakers/Иван%20Бакаидов.md)  |    |
+| [Слабовидящий с нейропатией Лебера: о своих регулярных болях с UX](https://www.youtube.com/watch?v=LIi-fRukS1Y&t=750s)  |  [Дмитрий Глюз (Волжский)](../../speakers/Дмитрий%20Глюз%20(Волжский).md)  |    |
+| [Accessibility сайтов: недоступность популярных и доступность непопулярных](https://www.youtube.com/watch?v=LIi-fRukS1Y&t=2290s)  |  [Павел Попко](../../speakers/Павел%20Попко.md)  |    |
+| [Дискуссия. Проблемы доступности интерфейсов с точки зрения пользователей, дизайнеров, разработчиков и UX-писателей.](https://www.youtube.com/watch?v=LIi-fRukS1Y&t=4056s)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  [Валерия Курмак](../../speakers/Валерия%20Курмак.md)  [Ирина Моторина](../../speakers/Ирина%20Моторина.md)  |    |
 ## pitera11y_meetup 2 - 2020 Jan 28 [:movie_camera:](https://www.youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB)
 | | | |
 | --- | :---: | --- |
