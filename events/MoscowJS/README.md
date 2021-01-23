@@ -3,6 +3,14 @@
 
 # MoscowJS
 
+## MoscowJS Online 2 - 2021 Jan 28 [:movie_camera:](https://www.youtube.com/watch?v=ll3aCbLMLqI)
+| | | |
+| --- | :---: | --- |
+| [Круглый стол: Собеседования глазами компании](https://www.youtube.com/watch?v=ll3aCbLMLqI)  |  [Никита Шуклин](../../speakers/Никита%20Шуклин.md)  [Андрей Ситник](../../speakers/Андрей%20Ситник.md)  [Игорь Камышев](../../speakers/Игорь%20Камышев.md)  [Ольга Шпунтенко](../../speakers/Ольга%20Шпунтенко.md)  [Сергей Бережной](../../speakers/Сергей%20Бережной.md)  |    |
+## MoscowJS Online - 2020 Dec 24 [:movie_camera:](https://www.youtube.com/watch?v=-hXPLdphL88)
+| | | |
+| --- | :---: | --- |
+| [Собеседования глазами кандидата](https://www.youtube.com/watch?v=-hXPLdphL88)  |  [Кира Кузьменко](../../speakers/Кира%20Кузьменко.md)  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  [Юлия Дроздик](../../speakers/Юлия%20Дроздик.md)  [Дэннис Арчаков](../../speakers/Дэннис%20Арчаков.md)  [Владислав Козуля](../../speakers/Владислав%20Козуля.md)  |    |
 ## MoscowJS 48 - 2020 Feb 27 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpGiyAyygO8xBlvi7GKWHSku)
 | | | |
 | --- | :---: | --- |

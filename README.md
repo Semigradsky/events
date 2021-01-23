@@ -3,6 +3,10 @@
 
 # Events / 2021 / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## MoscowJS Online 2 - Jan 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ll3aCbLMLqI)
+| | | |
+| --- | :---: | --- |
+| [Круглый стол: Собеседования глазами компании](https://www.youtube.com/watch?v=ll3aCbLMLqI)  |  [Никита Шуклин](speakers/Никита%20Шуклин.md)  [Андрей Ситник](speakers/Андрей%20Ситник.md)  [Игорь Камышев](speakers/Игорь%20Камышев.md)  [Ольга Шпунтенко](speakers/Ольга%20Шпунтенко.md)  [Сергей Бережной](speakers/Сергей%20Бережной.md)  |    |
 ## pitera11y_meetup 3 - Jan 20 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;LIi-fRukS1Y)
 | | | |
 | --- | :---: | --- |
