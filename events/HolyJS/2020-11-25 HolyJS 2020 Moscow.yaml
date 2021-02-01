@@ -1,0 +1,78 @@
+name: HolyJS 2020 Moscow
+date:
+  - 2020-11-25
+  - 2020-11-28
+videos: 
+talks:
+  - name: Алгоритмы консенсуса. При чем тут Node.js?
+    speaker: Андрей Печкуров
+    video: 
+    presentation: 
+  - name: "React Reconciler: Как написать собственный рендерер"
+    speaker: Ярослав Лосев
+    video: 
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/5i1JvIFGGCYJIHTNqxr5kO/c8364566e684ab5b0db665a9f022e9dd/slides__1_.pdf
+  - name: "Воркшоп: Сборка мелкого движка для 2D-игр на JS с использованием общеизвестных мелких библиотек"
+    speaker: Иван Попелышев
+    video: 
+    presentation: 
+  - name: "React Reconciler: Расширение возможностей React"
+    speaker: Илья Черторыльский
+    video: 
+    presentation: 
+  - name: "Differential Serving: Делаем свой код чище и производительнее"
+    speaker: Елена Жукова
+    video: 
+    presentation: 
+  - name: Автоматическая виртуализация рендеринга произвольной верстки
+    speaker: Дмитрий Карловский
+    video: 
+    presentation: 
+  - name: Как создать мультиплатформенную дизайн-систему на React
+    speaker: Илья Лесик
+    video: 
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/11w0ivhpqiJJ7U1wMSkJPI/c0087e9e30a114157e31062483f25f3f/Design_Systems_new.pdf
+  - name: "Преломление реальности: Динамическая валидация статическими типами"
+    speaker: Михаил Башуров
+    video: 
+    presentation: 
+  - name: Воркшоп. Новые приключения во фронтенде, версия 2021
+    speaker: Виталий Фридман
+    video: 
+    presentation: 
+  - name: Postgraphile. GQL API и ни одной (почти) строчки JS-кода
+    speaker: Георгий Кукушин
+    video: 
+    presentation: 
+  - name: Тяжелые разговоры о жизни в Программном комитете
+    speaker: Татьяна Денисюк
+    video: 
+    presentation: 
+  - name: "От монолита до микросервисов и обратно. Как GraphQL переопределяет архитектуру программного обеспечения центральной модели данных"
+    speaker: Диана Суворова
+    video: 
+    presentation: 
+  - name: Революция в микрофронтендах, module federation, Webpack 5
+    speaker: Павел Черторогов
+    video: 
+    presentation: https://nodkz.github.io/conf-talks/talks/2020.10.26-webpack-federation/index.html#/
+  - name: Как разработать свой собственный формат баннера на примере Lamoda
+    speaker: Роман Пятаков
+    video: 
+    presentation: 
+  - name: Хватит использовать консоль для тестирования компонентов
+    speaker: Дмитрий Коваленко
+    video: 
+    presentation: 
+  - name: SvelteJS under the hood
+    speaker: Павел Малышев
+    video: 
+    presentation: 
+  - name: Microfrontends на React вместе с Kubernetes
+    speaker: Иван Затравкин
+    video: 
+    presentation: 
+  - name: "Модульный JavaScript: Динамическое разрешение зависимостей"
+    speaker: Юрий Караджов
+    video: 
+    presentation: 

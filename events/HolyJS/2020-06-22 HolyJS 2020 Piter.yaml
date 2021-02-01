@@ -1,0 +1,137 @@
+name: HolyJS 2020 Piter
+date:
+  - 2020-06-22
+  - 2020-06-26
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8KY2RD2eJIrbdSSljJ49QVm
+talks:
+  - name: "Speak my language %app%"
+    speaker: Сергей Фетискин
+    video: https://youtu.be/nz-jeUp3UHE
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/9Up3vlha9ja9Qojif1PaF/ef6a4e9a5dadf21a6685f27ef47f70db/RU_Speak_my_language__1_.pdf
+  - name: "Воркшоп: GraphQL на клиенте и на сервере. От идеи до прототипа"
+    speaker: Руслан Байгунусов
+    video:
+      - https://youtu.be/lNtl6Opwj40
+      - https://youtu.be/5A-UcVzQMQA
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/A3WUB5Xu3nUtePl3lCZiL/85a619fed6f2d7ed8faa857704340572/GraphQL___________________________________________.pdf
+    code: https://github.com/oceandrama/graphql-fullstack-example
+  - name: "Проще, чем NGINX: Автоматический сетевой роутинг для ваших фронтендов"
+    speaker: Татьяна Леонтьева
+    video: 
+    presentation: 
+  - name: Микрофронтенды в проекте Autobahn Platform
+    speaker: Михаил Удалов
+    video: 
+    presentation: 
+  - name: λ-исчисление. Что это и почему вы уже его знаете?
+    speaker: Иван Короленко
+    video: 
+    presentation: 
+  - name: Миграция с изоморфного приложения на статический генератор (GatsbyJS) на примере revolut.com
+    speaker: Олег Обидин
+    video: https://youtu.be/KeAG_J5Yl8c
+    presentation: 
+  - name: Webpack в дикой природе
+    speaker: Сергей Мелюков
+    video: https://youtu.be/qKz9YAeKYMs
+    presentation: 
+  - name: Ускоряем приложение в уме — пусть всем кажется, что всё грузится быстро
+    speaker: Виктор Русакович
+    video: https://youtu.be/DjAZpOpbslI
+    presentation: 
+  - name: Все тонкости композиции и роутинга при использовании Relay Modern
+    speaker: Александр Руденко
+    video: https://youtu.be/BqhqFvozO-E
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/B4eqWWmppDWkkgidcO5DY/2e9fba3ceda8a32c70085306e9ede5a1/HolyJS-RelayModernComposition__Final.pdf
+  - name: "Сбербанк ID: Подключить за 60 секунд"
+    speaker: Иван Глебов, Максим Терехов
+    video: 
+    presentation: 
+  - name: Про цифровую трансформацию и переход на Agile
+    speaker: Дмитрий Валетин, Ярослава Суспицина
+    video: 
+    presentation: 
+  - name: Контроль потока серверных обновлений
+    speaker: Кирилл Онуфриенко
+    video: 
+    presentation: 
+  - name: "No ***s given"
+    speaker: Виктор Пасынок
+    video: 
+    presentation: 
+  - name: Wasm internals
+    speaker: Дмитрий Бежецков
+    video: https://youtu.be/2JbtHXEsgbU
+    presentation: 
+  - name: "Chronotope: await Eloquent.Errors"
+    speaker: Виктор Вершанский
+    video: https://youtu.be/EE8oztR_Gtg
+    presentation: https://wentout.github.io/PiterHolyJS2020/
+  - name: Работа с DOM в JS фреймворках
+    speaker: Никита Мостовой
+    video: https://youtu.be/bZrLPqYLdr4
+    presentation: https://slides.com/nikmostovoy/deck-2bae97/
+  - name: Оборачиваем существующее REST API в GraphQL (методология за 1000000 рублей)
+    speaker: Павел Черторогов
+    video: https://youtu.be/CA_ZVf5lbWI
+    presentation: https://nodkz.github.io/conf-talks/talks/2020.06.24-holyjs-online/index.html#/
+  - name: Решения, которые мы принимаем. Личный взгляд на архитектуру
+    speaker: Алексей Золотых
+    video: https://youtu.be/xXrXlAvwB8E
+    presentation: 
+  - name: Вжух! И истории storybook превращаются в тесты
+    speaker: Максим Соснов
+    video: 
+    presentation: 
+  - name: Express.js на стероидах
+    speaker: Дмитрий Смирнов
+    video: 
+    presentation: 
+  - name: ЗаSTUBим бэкенд
+    speaker: Мария Шакшина
+    video: https://youtu.be/v8B2H5YIW5o
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/4n4IqkiOnJcauhZcrfRxtM/7f5120530015ef07397542b686949a98/____STUB_________________.pdf
+  - name: Cовременный бэкенд для фронтенда на Node.js
+    speaker: Андрей Мелихов
+    video: https://youtu.be/QirEXoeDJzs
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/21khMWzzf9Fx5CiLjH6ppK/45eff7fd746db5055187efc7493fa7ff/Holy.pdf
+  - name: "Воркшоп: Готовим 3D-графику в браузере"
+    speaker: Леонид Винниченко
+    video:
+      - https://youtu.be/R0l0TKzfEVc
+      - https://youtu.be/h2ve6OPwWMo
+    presentation: 
+  - name: Разработка пользовательских интерфейсов в Deutsche Bank
+    speaker: Михаил Удалов
+    video: 
+    presentation: 
+  - name: Внутренний мир компании с абсолютной информационной и финансовой прозрачностью
+    speaker: Михаил Самарин
+    video: 
+    presentation: 
+  - name: "Apache Kafka: Что это и как она изменит архитектуру вашего приложения"
+    speaker: Иван Пономарёв
+    video: https://youtu.be/nkYW7YqJYmE
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3Hmp9nYDZx9iU76pJwwE3E/fc37670508421c583ac1eede8dc58f60/slides__1_.pdf
+  - name: Эволюция отрисовки текста на Canvas. Про Flash, IE 11, дизайнеров и клинопись
+    speaker: Андрей Чураков
+    video: https://youtu.be/Aj_wuuQMatM
+    presentation: 
+  - name: Рефлексия в TypeScript
+    speaker: Александр Богачёв
+    video: https://youtu.be/sjtQyrfGeaU
+    presentation: https://github.com/rmbaad/holyjs-piter-2020
+  - name: Хочу цифровые подписи на JavaScript
+    speaker: Артём Кобзарь
+    video: https://youtu.be/JBuH4xuqQzA
+    presentation: 
+  - name: "Воркшоп: Постгрес для фронтендеров"
+    speaker: Иван Панченко
+    video: 
+      - https://youtu.be/-LqaGUKTALo
+      - https://youtu.be/lzHH_74JY6E
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/4YglkMF6jW1UP9A7CHihV4/c54e7ced1945832d3d5e7290916a8458/Postgres_For_Frontenders_v2.pdf
+  - name: Съел HTML на рендеринге собаки
+    speaker: Александр Коротаев
+    video: https://youtu.be/6fZ6vcp2ICU
+    presentation: https://lekzd.ru/presentations/eating_dog_holyjs/
