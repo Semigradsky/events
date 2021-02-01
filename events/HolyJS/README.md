@@ -3,6 +3,61 @@
 
 # HolyJS
 
+## HolyJS 2020 Moscow - 2020 Nov 25-28 
+| | | |
+| --- | :---: | --- |
+| Алгоритмы консенсуса. При чем тут Node.js?  |  [Андрей Печкуров](../../speakers/Андрей%20Печкуров.md)  |    |
+| React Reconciler: Как написать собственный рендерер  |  [Ярослав Лосев](../../speakers/Ярослав%20Лосев.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/5i1JvIFGGCYJIHTNqxr5kO/c8364566e684ab5b0db665a9f022e9dd/slides__1_.pdf)   |
+| Воркшоп: Сборка мелкого движка для 2D-игр на JS с использованием общеизвестных мелких библиотек  |  [Иван Попелышев](../../speakers/Иван%20Попелышев.md)  |    |
+| React Reconciler: Расширение возможностей React  |  [Илья Черторыльский](../../speakers/Илья%20Черторыльский.md)  |    |
+| Differential Serving: Делаем свой код чище и производительнее  |  [Елена Жукова](../../speakers/Елена%20Жукова.md)  |    |
+| Автоматическая виртуализация рендеринга произвольной верстки  |  [Дмитрий Карловский](../../speakers/Дмитрий%20Карловский.md)  |    |
+| Как создать мультиплатформенную дизайн-систему на React  |  [Илья Лесик](../../speakers/Илья%20Лесик.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/11w0ivhpqiJJ7U1wMSkJPI/c0087e9e30a114157e31062483f25f3f/Design_Systems_new.pdf)   |
+| Преломление реальности: Динамическая валидация статическими типами  |  [Михаил Башуров](../../speakers/Михаил%20Башуров.md)  |    |
+| Воркшоп. Новые приключения во фронтенде, версия 2021  |  [Виталий Фридман](../../speakers/Виталий%20Фридман.md)  |    |
+| Postgraphile. GQL API и ни одной (почти) строчки JS-кода  |  [Георгий Кукушин](../../speakers/Георгий%20Кукушин.md)  |    |
+| Тяжелые разговоры о жизни в Программном комитете  |  [Татьяна Денисюк](../../speakers/Татьяна%20Денисюк.md)  |    |
+| От монолита до микросервисов и обратно. Как GraphQL переопределяет архитектуру программного обеспечения центральной модели данных  |  [Диана Суворова](../../speakers/Диана%20Суворова.md)  |    |
+| Революция в микрофронтендах, module federation, Webpack 5  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  | [:notebook:](https://nodkz.github.io/conf-talks/talks/2020.10.26-webpack-federation/index.html#/)   |
+| Как разработать свой собственный формат баннера на примере Lamoda  |  [Роман Пятаков](../../speakers/Роман%20Пятаков.md)  |    |
+| Хватит использовать консоль для тестирования компонентов  |  [Дмитрий Коваленко](../../speakers/Дмитрий%20Коваленко.md)  |    |
+| SvelteJS under the hood  |  [Павел Малышев](../../speakers/Павел%20Малышев.md)  |    |
+| Microfrontends на React вместе с Kubernetes  |  [Иван Затравкин](../../speakers/Иван%20Затравкин.md)  |    |
+| Модульный JavaScript: Динамическое разрешение зависимостей  |  [Юрий Караджов](../../speakers/Юрий%20Караджов.md)  |    |
+## HolyJS 2020 Piter - 2020 Jun 22-26 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8KY2RD2eJIrbdSSljJ49QVm)
+| | | |
+| --- | :---: | --- |
+| [Speak my language %app%](https://youtu.be/nz-jeUp3UHE)  |  [Сергей Фетискин](../../speakers/Сергей%20Фетискин.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/9Up3vlha9ja9Qojif1PaF/ef6a4e9a5dadf21a6685f27ef47f70db/RU_Speak_my_language__1_.pdf)   |
+| [Воркшоп: GraphQL на клиенте и на сервере. От идеи до прототипа](https://youtu.be/lNtl6Opwj40,https://youtu.be/5A-UcVzQMQA)[Воркшоп: GraphQL на клиенте и на сервере. От идеи до прототипа](https://youtu.be/lNtl6Opwj40,https://youtu.be/5A-UcVzQMQA)  |  [Руслан Байгунусов](../../speakers/Руслан%20Байгунусов.md)  | [:notebook:](https://assets.ctfassets.net/nn534z2fqr9f/A3WUB5Xu3nUtePl3lCZiL/85a619fed6f2d7ed8faa857704340572/GraphQL___________________________________________.pdf) [:octocat:](https://github.com/oceandrama/graphql-fullstack-example)  |
+| Проще, чем NGINX: Автоматический сетевой роутинг для ваших фронтендов  |  [Татьяна Леонтьева](../../speakers/Татьяна%20Леонтьева.md)  |    |
+| Микрофронтенды в проекте Autobahn Platform  |  [Михаил Удалов](../../speakers/Михаил%20Удалов.md)  |    |
+| λ-исчисление. Что это и почему вы уже его знаете?  |  [Иван Короленко](../../speakers/Иван%20Короленко.md)  |    |
+| [Миграция с изоморфного приложения на статический генератор (GatsbyJS) на примере revolut.com](https://youtu.be/KeAG_J5Yl8c)  |  [Олег Обидин](../../speakers/Олег%20Обидин.md)  |    |
+| [Webpack в дикой природе](https://youtu.be/qKz9YAeKYMs)  |  [Сергей Мелюков](../../speakers/Сергей%20Мелюков.md)  |    |
+| [Ускоряем приложение в уме — пусть всем кажется, что всё грузится быстро](https://youtu.be/DjAZpOpbslI)  |  [Виктор Русакович](../../speakers/Виктор%20Русакович.md)  |    |
+| [Все тонкости композиции и роутинга при использовании Relay Modern](https://youtu.be/BqhqFvozO-E)  |  [Александр Руденко](../../speakers/Александр%20Руденко.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/B4eqWWmppDWkkgidcO5DY/2e9fba3ceda8a32c70085306e9ede5a1/HolyJS-RelayModernComposition__Final.pdf)   |
+| Сбербанк ID: Подключить за 60 секунд  |  [Иван Глебов](../../speakers/Иван%20Глебов.md)  [Максим Терехов](../../speakers/Максим%20Терехов.md)  |    |
+| Про цифровую трансформацию и переход на Agile  |  [Дмитрий Валетин](../../speakers/Дмитрий%20Валетин.md)  [Ярослава Суспицина](../../speakers/Ярослава%20Суспицина.md)  |    |
+| Контроль потока серверных обновлений  |  [Кирилл Онуфриенко](../../speakers/Кирилл%20Онуфриенко.md)  |    |
+| No ***s given  |  [Виктор Пасынок](../../speakers/Виктор%20Пасынок.md)  |    |
+| [Wasm internals](https://youtu.be/2JbtHXEsgbU)  |  [Дмитрий Бежецков](../../speakers/Дмитрий%20Бежецков.md)  |    |
+| [Chronotope: await Eloquent.Errors](https://youtu.be/EE8oztR_Gtg)  |  [Виктор Вершанский](../../speakers/Виктор%20Вершанский.md)  | [:notebook:](https://wentout.github.io/PiterHolyJS2020/)   |
+| [Работа с DOM в JS фреймворках](https://youtu.be/bZrLPqYLdr4)  |  [Никита Мостовой](../../speakers/Никита%20Мостовой.md)  | [:notebook:](https://slides.com/nikmostovoy/deck-2bae97/)   |
+| [Оборачиваем существующее REST API в GraphQL (методология за 1000000 рублей)](https://youtu.be/CA_ZVf5lbWI)  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  | [:notebook:](https://nodkz.github.io/conf-talks/talks/2020.06.24-holyjs-online/index.html#/)   |
+| [Решения, которые мы принимаем. Личный взгляд на архитектуру](https://youtu.be/xXrXlAvwB8E)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  |    |
+| Вжух! И истории storybook превращаются в тесты  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  |    |
+| Express.js на стероидах  |  [Дмитрий Смирнов](../../speakers/Дмитрий%20Смирнов.md)  |    |
+| [ЗаSTUBим бэкенд](https://youtu.be/v8B2H5YIW5o)  |  [Мария Шакшина](../../speakers/Мария%20Шакшина.md)  | [:notebook:](https://assets.ctfassets.net/nn534z2fqr9f/4n4IqkiOnJcauhZcrfRxtM/7f5120530015ef07397542b686949a98/____STUB_________________.pdf)   |
+| [Cовременный бэкенд для фронтенда на Node.js](https://youtu.be/QirEXoeDJzs)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/21khMWzzf9Fx5CiLjH6ppK/45eff7fd746db5055187efc7493fa7ff/Holy.pdf)   |
+| [Воркшоп: Готовим 3D-графику в браузере](https://youtu.be/R0l0TKzfEVc,https://youtu.be/h2ve6OPwWMo)[Воркшоп: Готовим 3D-графику в браузере](https://youtu.be/R0l0TKzfEVc,https://youtu.be/h2ve6OPwWMo)  |  [Леонид Винниченко](../../speakers/Леонид%20Винниченко.md)  |    |
+| Разработка пользовательских интерфейсов в Deutsche Bank  |  [Михаил Удалов](../../speakers/Михаил%20Удалов.md)  |    |
+| Внутренний мир компании с абсолютной информационной и финансовой прозрачностью  |  [Михаил Самарин](../../speakers/Михаил%20Самарин.md)  |    |
+| [Apache Kafka: Что это и как она изменит архитектуру вашего приложения](https://youtu.be/nkYW7YqJYmE)  |  [Иван Пономарёв](../../speakers/Иван%20Пономарёв.md)  | [:notebook:](https://assets.ctfassets.net/nn534z2fqr9f/3Hmp9nYDZx9iU76pJwwE3E/fc37670508421c583ac1eede8dc58f60/slides__1_.pdf)   |
+| [Эволюция отрисовки текста на Canvas. Про Flash, IE 11, дизайнеров и клинопись](https://youtu.be/Aj_wuuQMatM)  |  [Андрей Чураков](../../speakers/Андрей%20Чураков.md)  |    |
+| [Рефлексия в TypeScript](https://youtu.be/sjtQyrfGeaU)  |  [Александр Богачёв](../../speakers/Александр%20Богачёв.md)  | [:notebook:](https://github.com/rmbaad/holyjs-piter-2020)   |
+| [Хочу цифровые подписи на JavaScript](https://youtu.be/JBuH4xuqQzA)  |  [Артём Кобзарь](../../speakers/Артём%20Кобзарь.md)  |    |
+| [Воркшоп: Постгрес для фронтендеров](https://youtu.be/-LqaGUKTALo,https://youtu.be/lzHH_74JY6E)[Воркшоп: Постгрес для фронтендеров](https://youtu.be/-LqaGUKTALo,https://youtu.be/lzHH_74JY6E)  |  [Иван Панченко](../../speakers/Иван%20Панченко.md)  | [:notebook:](https://assets.ctfassets.net/nn534z2fqr9f/4YglkMF6jW1UP9A7CHihV4/c54e7ced1945832d3d5e7290916a8458/Postgres_For_Frontenders_v2.pdf)   |
+| [Съел HTML на рендеринге собаки](https://youtu.be/6fZ6vcp2ICU)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  | [:notebook:](https://lekzd.ru/presentations/eating_dog_holyjs/)   |
 ## HolyJS 2019 Moscow - 2019 Nov 08-09 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8IWRtdLXJ1MPLzbVRqK6fku)
 | | | |
 | --- | :---: | --- |
