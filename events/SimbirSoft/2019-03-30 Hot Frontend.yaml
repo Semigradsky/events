@@ -1,0 +1,28 @@
+name: Hot Frontend
+date: 2019-03-30
+videos: 
+talks:
+  - name: "Гибридный подход: из React в React.Native"
+    speaker: Андрей Френкель
+    video: 
+    presentation: https://slides.com/andreqfrenkel/deck
+  - name: Web-компоненты на Vue. Создаем виджет обратной связи
+    speaker: Иван Иванов
+    video: 
+    presentation: https://slides.com/inferal73/vue-components
+  - name: Как не пасть духом, когда вокруг legacy
+    speaker: Татьяна Бабич
+    video: 
+    presentation: https://t.me/HotFrontend/71
+  - name: Новое в мире React — переходим на хуки!
+    speaker: Константин Лисин
+    video: 
+    presentation: http://slides.com/klisin/react
+  - name: Backend на js — это просто
+    speaker: Алексей Привезенцев
+    video: 
+    presentation: https://slides.com/alekseiprivezentcev/nestjs
+  - name: Микросервисы на фронте. Плавали — знаем
+    speaker: Елена Калашникова
+    video: 
+    presentation: https://t.me/HotFrontend/98

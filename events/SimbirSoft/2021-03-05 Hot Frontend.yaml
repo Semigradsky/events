@@ -1,0 +1,16 @@
+name: Hot Frontend
+date: 2021-03-05
+videos: 
+talks:
+  - name: Как успешно пройти собеседование на роль frontend-разработчика
+    speaker: Дмитрий X
+    video: 
+    presentation: 
+  - name: "Работа с MobX: личный опыт"
+    speaker: Евгений X
+    video: 
+    presentation: 
+  - name: Динамические диаграммы для Vue на основе SVG
+    speaker: Евгений X
+    video: 
+    presentation: 

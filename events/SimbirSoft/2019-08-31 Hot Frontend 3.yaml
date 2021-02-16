@@ -1,0 +1,20 @@
+name: Hot Frontend 3
+date: 2019-08-31
+videos: 
+talks:
+  - name: Интерактивное 3D в браузере
+    speaker: Александр Липовский
+    video: 
+    presentation: https://yadi.sk/d/hXR0U7gszZqSMg
+  - name: Модули RN
+    speaker: Михаил Чугунов
+    video: 
+    presentation: https://yadi.sk/d/hXR0U7gszZqSMg
+  - name: Удобная структура проекта на Angular
+    speaker: Степан Фёдоров
+    video: 
+    presentation: https://yadi.sk/d/hXR0U7gszZqSMg
+  - name: React-приложение с нуля
+    speaker: Павел Дадыкин
+    video: 
+    presentation: https://yadi.sk/d/hXR0U7gszZqSMg

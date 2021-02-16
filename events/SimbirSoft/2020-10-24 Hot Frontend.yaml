@@ -1,0 +1,20 @@
+name: Hot Frontend
+date: 2020-10-24
+videos: 
+talks:
+  - name: "Как не оставаться джуном 7 лет: история нескольких факапов"
+    speaker: Владислав X
+    video: 
+    presentation: 
+  - name: Анимация с помощью JS
+    speaker: Елена Калашникова
+    video: 
+    presentation: 
+  - name: Локализация приложения в 2020
+    speaker: Алексей X
+    video: 
+    presentation: 
+  - name: Интерактивная схема зала
+    speaker: Дмитрий X
+    video: 
+    presentation: 

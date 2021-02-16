@@ -1,0 +1,17 @@
+name: Hot Frontend 4
+date: 2019-11-23
+videos: 
+talks:
+  - name: React Native для самых маленьких
+    speaker: Михаил Чугунов
+    video: 
+    presentation: https://yadi.sk/d/MqtPWqmQGxSxtw?w=1
+  - name: Как сделать версию для слабовидящих
+    speaker: Елена Калашникова
+    video: 
+    presentation: https://yadi.sk/d/MqtPWqmQGxSxtw?w=1
+    code: https://github.com/lenaka/accessibility
+  - name: Frontend & TDD (Test-Driven Development)
+    speaker: Александр Липовский
+    video: 
+    presentation: https://yadi.sk/d/MqtPWqmQGxSxtw?w=1

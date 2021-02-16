@@ -1,0 +1,20 @@
+name: Hot Frontend
+date: 2020-11-28
+videos: 
+talks:
+  - name: Синдром самозванца. Краткий гайд по излечению
+    speaker: Александр X
+    video: 
+    presentation: 
+  - name: "Feature-first подход. Наш опыт: через дебри к звездам"
+    speaker: Анастасия X
+    video: 
+    presentation: 
+  - name: Декомпозиция приложения с помощью  микрофронтенд-архитектуры. Старые песни о главном
+    speaker: Илья X
+    video: 
+    presentation: 
+  - name: Анимация с помощью JS
+    speaker: Елена Калашникова
+    video: 
+    presentation: 

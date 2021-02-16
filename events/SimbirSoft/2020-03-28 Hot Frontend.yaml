@@ -1,0 +1,16 @@
+name: Hot Frontend
+date: 2020-03-28
+videos: https://youtu.be/TJANyIUppkI
+talks:
+  - name: Как создать приложение для слабовидящих
+    speaker: Елена Калашникова
+    video: https://www.youtube.com/watch?v=TJANyIUppkI&t=195s
+    presentation: 
+  - name: Как сделать график с горизонтальным скролом
+    speaker: Егор Фоминых
+    video: https://www.youtube.com/watch?v=TJANyIUppkI&t=2632s
+    presentation: 
+  - name: Жарим Observable
+    speaker: Алексей Привезенцев
+    video: https://www.youtube.com/watch?v=TJANyIUppkI&t=5388s
+    presentation: 
