@@ -1,0 +1,28 @@
+name: Я ❤ Frontend 2021
+date: 2021-02-27
+videos: 
+talks:
+  - name: Автоматизируем сервис-воркер с Workbox 6
+    speaker: Максим Сальников
+    video: 
+    presentation: 
+  - name: Архитектура менеджера состояния
+    speaker: Артём Арутюнян
+    video: 
+    presentation: 
+  - name: "JSON: push the limits"
+    speaker: Роман Дворнов
+    video: 
+    presentation: 
+  - name: Пользовательский опыт незрячего человека
+    speaker: Валерия Курмак
+    video: 
+    presentation: 
+  - name: "ES6-коллекции на примере V8: у ней внутре неонка"
+    speaker: Андрей Печкуров
+    video: 
+    presentation: 
+  - name: Расширяем реальность
+    speaker: Василика Климова
+    video: 
+    presentation: 
