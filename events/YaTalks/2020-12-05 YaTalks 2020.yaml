@@ -1,0 +1,26 @@
+name: YaTalks 2020
+date: 2020-12-05
+videos: https://www.youtube.com/playlist?list=PLQC2_0cDcSKBbPCFhGGi0aeXwTbhSs3nQ
+talks:
+  - name: "Крысиные бега бесконечного рефакторинга: как не дать техническому долгу убить мотивацию и продукт"
+    speaker: Илья Климов
+    video: https://youtu.be/aOiJ3k2UvO4
+    presentation: https://yadi.sk/i/Isdi9NcH11aZNQ
+  - name: "TCP BBR: быстрый и простой способ ускорения"
+    speaker: Александр Грянко
+    video: https://youtu.be/hOr9GP_czFs
+    presentation: https://yadi.sk/i/8fJkXTxGxx0KlQ
+    text: https://habr.com/ru/company/yandex/blog/533530/
+  - name: Изменения в технологиях — повод сделать IDE лучше
+    speaker: Андрей Старовойт
+    video: https://youtu.be/b7Baa1jY4So
+    presentation: https://yadi.sk/i/uPET-cAX60783A
+  - name: Ода славному десятилетию++
+    speaker: Евангелина Феррейра
+    video: https://youtu.be/gaWkJjTsluc
+    presentation: https://yadi.sk/i/gtWVRkxvLW1Vfw
+  - name: Энтерпрайз, который выжил
+    speaker: Андрей Мелихов
+    video: https://youtu.be/CqOUpouTCZM
+    presentation: 
+    text: https://habr.com/ru/company/yandex/blog/540126/

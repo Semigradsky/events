@@ -1,24 +1,26 @@
 name: Я.Субботник по разработке интерфейсов
 date: 2020-11-21
-videos: 
+videos: https://www.youtube.com/watch?v=wTkeS-X_OIU
 talks:
   - name: Дизайн-система дизайн-систем
     speaker: Надежда Наширбанова
-    video: 
+    video: https://www.youtube.com/watch?v=wTkeS-X_OIU&t=613
     presentation: 
   - name: DRY! Пишем переиспользуемые компоненты
     speaker: Роман Омельницкий
-    video: 
+    video: https://www.youtube.com/watch?v=wTkeS-X_OIU&t=3140
     presentation: 
   - name: Код на React и TypeScript, который работает быстро
     speaker: Виктор Хомяков
-    video: 
+    video: https://www.youtube.com/watch?v=wTkeS-X_OIU&t=5645
     presentation: 
+    text: https://habr.com/ru/company/yandex/blog/536682/
   - name: Делаем TypeScript строже
     speaker: Алексей Веселовский
-    video: 
+    video: https://www.youtube.com/watch?v=wTkeS-X_OIU&t=8599
     presentation: 
+    text: https://habr.com/ru/company/yandex/blog/532240/
   - name: Data Science на JavaScript-модулях
     speaker: Никита Сидоров
-    video: 
+    video: https://www.youtube.com/watch?v=wTkeS-X_OIU&t=10721
     presentation: 
