@@ -3,6 +3,14 @@
 
 # Я.Субботник
 
+## Я.Субботник по разработке интерфейсов - 2020 Nov 21 [:movie_camera:](https://www.youtube.com/watch?v=wTkeS-X_OIU)
+| | | |
+| --- | :---: | --- |
+| [Дизайн-система дизайн-систем](https://www.youtube.com/watch?v=wTkeS-X_OIU&t=613)  |  [Надежда Наширбанова](../../speakers/Надежда%20Наширбанова.md)  |    |
+| [DRY! Пишем переиспользуемые компоненты](https://www.youtube.com/watch?v=wTkeS-X_OIU&t=3140)  |  [Роман Омельницкий](../../speakers/Роман%20Омельницкий.md)  |    |
+| [Код на React и TypeScript, который работает быстро](https://www.youtube.com/watch?v=wTkeS-X_OIU&t=5645)  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/536682/) |
+| [Делаем TypeScript строже](https://www.youtube.com/watch?v=wTkeS-X_OIU&t=8599)  |  [Алексей Веселовский](../../speakers/Алексей%20Веселовский.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/532240/) |
+| [Data Science на JavaScript-модулях](https://www.youtube.com/watch?v=wTkeS-X_OIU&t=10721)  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  |    |
 ## Я.Субботник по разработке интерфейсов - 2020 Jul 04 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SSYVMAgcEps3j_ulhSfpZB5)
 | | | |
 | --- | :---: | --- |

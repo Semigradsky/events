@@ -3,6 +3,12 @@
 
 # SimbirSoft
 
+## Hot Frontend - 2020 Aug 27 [:movie_camera:](https://www.youtube.com/watch?v=4kQVg2QwCGQ)
+| | | |
+| --- | :---: | --- |
+| [Работай играючи: геймификация рабочих процессов ](https://www.youtube.com/watch?v=4kQVg2QwCGQ&t=4104s)  |  [Антон Мартынов](../../speakers/Антон%20Мартынов.md)  |    |
+| [Разработка приложения для VK Mini Apps. Как попасть в каталог приложений VK и для чего это нужно?](https://www.youtube.com/watch?v=4kQVg2QwCGQ&t=0s)  |  [Павел X](../../speakers/Павел%20X.md)  |    |
+| [Безопасность веб-приложений](https://www.youtube.com/watch?v=4kQVg2QwCGQ&t=1833s)  |  [Максим Теплов](../../speakers/Максим%20Теплов.md)  |    |
 ## Hot Frontend - 2020 Mar 28 [:movie_camera:](https://youtu.be/TJANyIUppkI)
 | | | |
 | --- | :---: | --- |
