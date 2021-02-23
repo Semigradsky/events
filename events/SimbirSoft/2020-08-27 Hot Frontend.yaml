@@ -1,16 +1,16 @@
 name: Hot Frontend
 date: 2020-08-27
-videos: 
+videos: https://www.youtube.com/watch?v=4kQVg2QwCGQ
 talks:
   - name: "Работай играючи: геймификация рабочих процессов "
-    speaker: Unknown
-    video: 
+    speaker: Антон Мартынов
+    video: https://www.youtube.com/watch?v=4kQVg2QwCGQ&t=4104s
     presentation: 
   - name: Разработка приложения для VK Mini Apps. Как попасть в каталог приложений VK и для чего это нужно?
-    speaker: Unknown
-    video: 
+    speaker: Павел X
+    video: https://www.youtube.com/watch?v=4kQVg2QwCGQ&t=0s
     presentation: 
   - name: Безопасность веб-приложений
-    speaker: Unknown
-    video: 
+    speaker: Максим Теплов
+    video: https://www.youtube.com/watch?v=4kQVg2QwCGQ&t=1833s
     presentation: 
