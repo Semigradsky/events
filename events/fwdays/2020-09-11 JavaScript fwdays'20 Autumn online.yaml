@@ -6,7 +6,7 @@ videos: https://www.youtube.com/playlist?list=PLPcgQFk9n9y8WQ3dEeBByarIVaoaZm03W
 talks:
   - name: Фронтенд, бэкенд и фулстек (заходят как-то в бар)
     speaker: Вадим Макеев, Андрей Мелихов
-    video: 
+    video: https://youtu.be/hExS0b_4XfM
     presentation: 
   - name: Node.js Middleware – никогда больше!
     speaker: Тимур Шемсединов
@@ -18,54 +18,54 @@ talks:
     presentation: 
   - name: TDD 101 [Coding session]
     speaker: Volodymyr Shuhaiev
-    video: 
+    video: https://youtu.be/6TEqde0uNyo
     presentation: 
   - name: "Remx: state management for React [Coding session]"
     speaker: Andrii Kogut
-    video: 
+    video: https://youtu.be/Om84ZLbRop8
     presentation: 
   - name: React Native Practice [Coding session]
     speaker: Игорь Качура
-    video: 
+    video: https://youtu.be/in3i14BdTwY
     presentation: 
   - name: Docker deep dive for JavaScript developers [Coding session]
     speaker: Виктор Турский
-    video: 
+    video: https://youtu.be/CgbijhDEAgs
     presentation: 
   - name: Let the main thread breathe!
     speaker: Majid Hajian
     lang: en
-    video: 
+    video: https://youtu.be/jwfdkeMHQjY
     presentation: https://slides.com/mhadaily/let-the-main-thread-breathe#/2
   - name: State management in React apps using the Focal library [Workshop]
     speaker: Oleksandr Suhak, Остап Червак
     lang: uk
-    video: 
+    video: https://youtu.be/xlPEUeYtCNQ
     presentation: https://www.slideshare.net/fwdays/state-management-in-react-apps-using-the-focal-library-workshop-oleksandr-suhak-ostap-chervak
   - name: "#Microfrontends #LowConnectivity #AsianMarket"
     speaker: Максим Демиденко
-    video: 
+    video: https://youtu.be/YMDlWVabDFo
     presentation: https://www.slideshare.net/fwdays/microfrontends-lowconnectivity-asianmarket-maxim-demidenko
   - name: Most boring solution
     speaker: Илья Климов
-    video: 
+    video: https://youtu.be/yDcwplt-vm8
     presentation: 
   - name: Выкидываем ReactJS
     speaker: Александр Соловьев
-    video: 
+    video: https://youtu.be/47q_yLxsfOU
     presentation: 
   - name: Як знайти свою половинку або чому алгоритми важливі
     speaker: Христина Ландвитович
     lang: uk
-    video: 
+    video: https://youtu.be/XVdPi0_YM0k
     presentation: https://www.slideshare.net/fwdays/khrystyna-landvytovych-finding-the-perfect-mate-or-what-if-an-algorithm-affects-your-life
   - name: How to see a bug the size of 1px
     speaker: Сергей Пузанков
-    video: 
+    video: https://youtu.be/hdgmFQAeUzs
     presentation: https://www.slideshare.net/fwdays/sergey-puzankov-how-to-see-a-bug-the-size-of-1px
   - name: Everybody stand back! I know regular expressions
     speaker: Андрей Листочкин
-    video: 
+    video: https://youtu.be/7-_MiagH3bc
     presentation: https://www.slideshare.net/fwdays/andrey-listochkin-everybody-stand-back-i-know-regular-expressions
   - name: Архитектурный ком
     speaker: Андрей Мелихов, Виктор Турский, Сергей Фролов

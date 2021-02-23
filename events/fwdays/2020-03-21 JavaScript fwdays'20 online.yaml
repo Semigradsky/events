@@ -1,0 +1,30 @@
+name: JavaScript fwdays'20 online
+date: 2020-03-21
+videos: https://www.youtube.com/playlist?list=PLPcgQFk9n9y9jbWCnublMA1D2qbJPLukf
+talks:
+  - name: История другой анимации
+    speaker: Юрий Артюх
+    video: https://youtu.be/2JLWxX74b30
+    presentation: 
+  - name: Web Locks API in Node.js and browser
+    speaker: Тимур Шемсединов
+    video: https://youtu.be/auMM-uV12F0
+    presentation: https://www.slideshare.net/tshemsedinov/web-locks-api
+  - name: 'Devide et impera' with GraphQL and SSR
+    speaker: Олександр Мостовенко
+    video: https://youtu.be/i1LtjUYtduI
+    lang: uk
+    presentation: https://www.slideshare.net/fwdays/alexander-mostovenko-devide-at-impera-with-graphql-and-ssr
+  - name: Жодних відмазок, щоб не писати тести!
+    speaker: Андрій Шумада
+    video: https://youtu.be/h07k067qWUk
+    lang: uk
+    presentation: https://www.slideshare.net/fwdays/andrii-shumada-no-excuses-for-not-writing-tests
+  - name: Release Early, Often, Stable
+    speaker: Алексей Куприяненко
+    video: https://youtu.be/DNO7FhdyKqc
+    presentation: https://www.slideshare.net/fwdays/alexey-kupriyanenko-release-early-often-stable
+  - name: Эффективная разработка NodeJS приложений
+    speaker: Виктор Турский
+    video: https://youtu.be/g0I2dNwK1BE
+    presentation: https://www.slideshare.net/fwdays/viktor-turskyi-effective-nodejs-application-development
