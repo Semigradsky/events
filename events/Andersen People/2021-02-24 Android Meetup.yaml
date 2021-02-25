@@ -1,0 +1,8 @@
+name: Android Meetup
+date: 2021-02-24
+videos: 
+talks:
+  - name: Как создавать удобные веб-приложения для устройств с двумя экранами
+    speaker: Максим Сальников
+    video: https://youtu.be/UvxDxbv25dA?t=1621
+    presentation: 

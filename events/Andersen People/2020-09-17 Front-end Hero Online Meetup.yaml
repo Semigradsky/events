@@ -4,13 +4,13 @@ videos: https://www.youtube.com/watch?v=H3IIpRTUdFU
 talks:
   - name: Безопасность в web
     speaker: Мария Сампир
-    video: https://www.youtube.com/watch?v=H3IIpRTUdFU
+    video: https://www.youtube.com/watch?v=H3IIpRTUdFU&t=31s
     presentation: 
   - name: PWA
     speaker: Владислав Фай
-    video: https://www.youtube.com/watch?v=H3IIpRTUdFU
+    video: https://www.youtube.com/watch?v=H3IIpRTUdFU&t=2278s
     presentation: 
   - name: Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?
     speaker: Максим Сальников
-    video: https://www.youtube.com/watch?v=H3IIpRTUdFU
+    video: https://www.youtube.com/watch?v=H3IIpRTUdFU&t=3164s
     presentation: 
