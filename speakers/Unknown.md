@@ -7,8 +7,6 @@
 - 2019 May 20 -- PiterJS 37    
 ## Да что такого в этом Vue.js?
 - 2018 Dec 12 -- [OdessaFrontend Meetup 9](https://youtu.be/_UUDoSbbuT0)  | [:notebook:](https://www.slideshare.net/odessafrontend/vuejs-odessafrontend-meetup-9)  
-## Q&amp;A Panel – React Kyiv March
-- 2018 Mar 23 -- [React Kyiv March Meetup](https://youtu.be/Vokq8ndgd5c)    
 ## PiterJS #23 — Дебаты 1 часть
 - 2018 Mar 17 -- [PiterJS 23 (IT Global Meetup 12)](https://youtu.be/vJ-4TUKmMr8)    
 ## PiterJS #23 — Дебаты 2 часть
@@ -21,6 +19,8 @@
 - 2019 Nov 28 -- Angular Moscow 16    
 ## QA session
 - 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
+## Развитие джуниор-разработчиков
+- 2021 Mar 25 -- [MoscowJS Online 3](https://www.youtube.com/watch?v=h1NhbbzCIBM)    
 ## Мутационное тестирование
 - 2019 Mar 02 -- Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)  
 ## Angular и Typescript. Основы. Примеры.
@@ -53,6 +53,8 @@
 - 2019 Mar 23 -- [Я.Субботник по разработке интерфейсов](https://events.yandex.ru/lib/talks/7110/)    
 ## Дискуссионная панель &quot;SPA сегодня — каким оно должно быть?&quot;
 - 2018 Apr 07 -- [SPA Meetup 4](https://youtu.be/BezEWFL5WKk)    
+## Q&amp;A Panel – React Kyiv March
+- 2018 Mar 23 -- [React Kyiv March Meetup](https://youtu.be/Vokq8ndgd5c)    
 ## Открытый микрофон
 - 2017 Nov 22 -- [UralJS 5](https://www.youtube.com/watch?v=dz4I39TrvGs)    
 - 2017 Apr 06 -- [UralJS 3](https://www.youtube.com/watch?v=0JOsoNzi6KY)    

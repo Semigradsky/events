@@ -3,6 +3,10 @@
 
 # MoscowJS
 
+## MoscowJS Online 3 - 2021 Mar 25 [:movie_camera:](https://www.youtube.com/watch?v=h1NhbbzCIBM)
+| | | |
+| --- | :---: | --- |
+| [Развитие джуниор-разработчиков](https://www.youtube.com/watch?v=h1NhbbzCIBM)  |  [Unknown](../../speakers/Unknown.md)  |    |
 ## MoscowJS Online 2 - 2021 Jan 28 [:movie_camera:](https://www.youtube.com/watch?v=ll3aCbLMLqI)
 | | | |
 | --- | :---: | --- |
