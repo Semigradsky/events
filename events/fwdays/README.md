@@ -30,6 +30,15 @@
 | [Архитектурный ком](https://youtu.be/ueds8WfEgSE)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  [Виктор Турский](../../speakers/Виктор%20Турский.md)  [Сергей Фролов](../../speakers/Сергей%20Фролов.md)  |    |
 | [Why slow?](https://youtu.be/NzYSPNnEmXY)  |  [Иван Акулов](../../speakers/Иван%20Акулов.md)  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  |    |
 | [Креативний кодинг](https://youtu.be/frSWEoUTHSQ)  |  [Юрий Артюх](../../speakers/Юрий%20Артюх.md)  |    |
+## JavaScript fwdays&#39;20 online - 2020 Mar 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLPcgQFk9n9y9jbWCnublMA1D2qbJPLukf)
+| | | |
+| --- | :---: | --- |
+| [История другой анимации](https://youtu.be/2JLWxX74b30)  |  [Юрий Артюх](../../speakers/Юрий%20Артюх.md)  |    |
+| [Web Locks API in Node.js and browser](https://youtu.be/auMM-uV12F0)  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/tshemsedinov/web-locks-api)   |
+| [&#39;Devide et impera&#39; with GraphQL and SSR](https://youtu.be/i1LtjUYtduI) [uk] |  [Олександр Мостовенко](../../speakers/Олександр%20Мостовенко.md)  | [:notebook:](https://www.slideshare.net/fwdays/alexander-mostovenko-devide-at-impera-with-graphql-and-ssr)   |
+| [Жодних відмазок, щоб не писати тести!](https://youtu.be/h07k067qWUk) [uk] |  [Андрій Шумада](../../speakers/Андрій%20Шумада.md)  | [:notebook:](https://www.slideshare.net/fwdays/andrii-shumada-no-excuses-for-not-writing-tests)   |
+| [Release Early, Often, Stable](https://youtu.be/DNO7FhdyKqc)  |  [Алексей Куприяненко](../../speakers/Алексей%20Куприяненко.md)  | [:notebook:](https://www.slideshare.net/fwdays/alexey-kupriyanenko-release-early-often-stable)   |
+| [Эффективная разработка NodeJS приложений](https://youtu.be/g0I2dNwK1BE)  |  [Виктор Турский](../../speakers/Виктор%20Турский.md)  | [:notebook:](https://www.slideshare.net/fwdays/viktor-turskyi-effective-nodejs-application-development)   |
 ## JavaScript fwdays&#39;19 - 2019 Mar 16 
 | | | |
 | --- | :---: | --- |
