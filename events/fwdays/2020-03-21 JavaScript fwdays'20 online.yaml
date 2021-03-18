@@ -10,7 +10,7 @@ talks:
     speaker: Тимур Шемсединов
     video: https://youtu.be/auMM-uV12F0
     presentation: https://www.slideshare.net/tshemsedinov/web-locks-api
-  - name: 'Devide et impera' with GraphQL and SSR
+  - name: "'Devide et impera' with GraphQL and SSR"
     speaker: Олександр Мостовенко
     video: https://youtu.be/i1LtjUYtduI
     lang: uk
