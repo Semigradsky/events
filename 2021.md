@@ -7,6 +7,18 @@
 | | | |
 | --- | :---: | --- |
 | [Развитие джуниор-разработчиков](https://www.youtube.com/watch?v=h1NhbbzCIBM)  |  [Unknown](speakers/Unknown.md)  |    |
+## Я ❤ Frontend 2021 - Feb 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SQvmgHWgtUeX_Y59NiZhmEF)
+| | | |
+| --- | :---: | --- |
+| [Автоматизируем сервис-воркер с Workbox 6](https://youtu.be/K1kUG-g8nA4)  |  [Максим Сальников](speakers/Максим%20Сальников.md)  |    |
+| [Архитектура менеджера состояния](https://youtu.be/N2rAQ4uC6VY)  |  [Артём Арутюнян](speakers/Артём%20Арутюнян.md)  |    |
+| [JSON: push the limits](https://youtu.be/KpfA19oDfeA)  |  [Роман Дворнов](speakers/Роман%20Дворнов.md)  |    |
+| [Пользовательский опыт незрячего человека](https://youtu.be/yO8qCTJhimE)  |  [Валерия Курмак](speakers/Валерия%20Курмак.md)  |    |
+| [ES6-коллекции на примере V8: у ней внутре неонка](https://youtu.be/LYbtR9vQkiI)  |  [Андрей Печкуров](speakers/Андрей%20Печкуров.md)  |    |
+| [Расширяем реальность](https://youtu.be/uvE3N-ZQow4)  |  [Василика Климова](speakers/Василика%20Климова.md)  |    |
+| [[Воркшоп] Палка, палка, огуречик. Рисуем персонажную анимацию на CSS](https://youtu.be/VlGGB-4wlQ4)  |  [Юлия Миоцен](speakers/Юлия%20Миоцен.md)  |    |
+| [[Воркшоп] Теория и практика dependency injection](https://youtu.be/inJMee0Jl90)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  | [:notebook:](https://github.com/amel-true/ylf-di-workshop/blob/master/slides.pdf) [:octocat:](https://github.com/amel-true/ylf-di-workshop)  |
+| [[Воркшоп] Создание приложений для голосовых ассистентов](https://youtu.be/YMmw2SS0TEs)  |  [Дмитрий Николаев](speakers/Дмитрий%20Николаев.md)  |    |
 ## Android Meetup - Feb 24 
 | | | |
 | --- | :---: | --- |
