@@ -26,16 +26,16 @@ talks:
     speaker: Василика Климова
     video: https://youtu.be/uvE3N-ZQow4
     presentation: 
-  - name: [Воркшоп] Палка, палка, огуречик. Рисуем персонажную анимацию на CSS
+  - name: "[Воркшоп] Палка, палка, огуречик. Рисуем персонажную анимацию на CSS"
     speaker: Юлия Миоцен
     video: https://youtu.be/VlGGB-4wlQ4
     presentation: 
-  - name: [Воркшоп] Теория и практика dependency injection
+  - name: "[Воркшоп] Теория и практика dependency injection"
     speaker: Андрей Мелихов
     video: https://youtu.be/inJMee0Jl90
     presentation: https://github.com/amel-true/ylf-di-workshop/blob/master/slides.pdf
     code: https://github.com/amel-true/ylf-di-workshop
-  - name: [Воркшоп] Создание приложений для голосовых ассистентов
+  - name: "[Воркшоп] Создание приложений для голосовых ассистентов"
     speaker: Дмитрий Николаев
     video: https://youtu.be/YMmw2SS0TEs
     presentation: 
