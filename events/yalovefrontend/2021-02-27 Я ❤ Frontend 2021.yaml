@@ -1,28 +1,41 @@
 name: Я ❤ Frontend 2021
 date: 2021-02-27
-videos: https://www.youtube.com/watch?v=-1I8LuqcCNA
+videos: https://www.youtube.com/playlist?list=PLKaafC45L_SQvmgHWgtUeX_Y59NiZhmEF
 talks:
   - name: Автоматизируем сервис-воркер с Workbox 6
     speaker: Максим Сальников
-    video: 
+    video: https://youtu.be/K1kUG-g8nA4
     presentation: 
   - name: Архитектура менеджера состояния
     speaker: Артём Арутюнян
-    video: 
+    video: https://youtu.be/N2rAQ4uC6VY
     presentation: 
   - name: "JSON: push the limits"
     speaker: Роман Дворнов
-    video: 
+    video: https://youtu.be/KpfA19oDfeA
     presentation: 
   - name: Пользовательский опыт незрячего человека
     speaker: Валерия Курмак
-    video: 
+    video: https://youtu.be/yO8qCTJhimE
     presentation: 
   - name: "ES6-коллекции на примере V8: у ней внутре неонка"
     speaker: Андрей Печкуров
-    video: 
+    video: https://youtu.be/LYbtR9vQkiI
     presentation: 
   - name: Расширяем реальность
     speaker: Василика Климова
-    video: 
+    video: https://youtu.be/uvE3N-ZQow4
+    presentation: 
+  - name: [Воркшоп] Палка, палка, огуречик. Рисуем персонажную анимацию на CSS
+    speaker: Юлия Миоцен
+    video: https://youtu.be/VlGGB-4wlQ4
+    presentation: 
+  - name: [Воркшоп] Теория и практика dependency injection
+    speaker: Андрей Мелихов
+    video: https://youtu.be/inJMee0Jl90
+    presentation: https://github.com/amel-true/ylf-di-workshop/blob/master/slides.pdf
+    code: https://github.com/amel-true/ylf-di-workshop
+  - name: [Воркшоп] Создание приложений для голосовых ассистентов
+    speaker: Дмитрий Николаев
+    video: https://youtu.be/YMmw2SS0TEs
     presentation: 
