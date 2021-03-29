@@ -1,0 +1,28 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2021-04-17
+videos: 
+talks:
+  - name: Пути развития фронтендера в Яндексе
+    speaker: Владимир Гриненко
+    video: 
+    presentation: 
+  - name: Как считать пользу общих компонентов
+    speaker: Сергей Савельев
+    video: 
+    presentation: 
+  - name: Приёмы оптимизации кода по скорости
+    speaker: Виктор Хомяков
+    video: 
+    presentation: 
+  - name: "Трасси... что?"
+    speaker: Алексей Охрименко
+    video: 
+    presentation: 
+  - name: Микрофронтенды и виджеты в 2021-м
+    speaker: Алексей Гусев
+    video: 
+    presentation: 
+  - name: Продвинутые дженерики в TypeScript
+    speaker: Александр Николаичев
+    video: 
+    presentation: 
