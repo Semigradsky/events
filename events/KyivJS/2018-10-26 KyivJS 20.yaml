@@ -3,7 +3,7 @@ date: 2018-10-26
 videos: https://www.youtube.com/playlist?list=PLxw9RJPDS60pAakpyewUFg7fV46A0bUAf
 talks:
   - name: API дизайн уроки известных проектов
-    speaker: Andrey Salomatin
+    speaker: Андрей Саломатин
     video: https://www.youtube.com/watch?v=xrpZZBphcPA
     presentation: https://www.slideshare.net/flpvsk/api-kievjs
   - name: Server Driven Rendering
