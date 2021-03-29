@@ -22,7 +22,7 @@
 ## KyivJS 20 - 2018 Oct 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLxw9RJPDS60pAakpyewUFg7fV46A0bUAf)
 | | | |
 | --- | :---: | --- |
-| [API дизайн уроки известных проектов](https://www.youtube.com/watch?v=xrpZZBphcPA)  |  [Andrey Salomatin](../../speakers/Andrey%20Salomatin.md)  | [:notebook:](https://www.slideshare.net/flpvsk/api-kievjs)   |
+| [API дизайн уроки известных проектов](https://www.youtube.com/watch?v=xrpZZBphcPA)  |  [Андрей Саломатин](../../speakers/Андрей%20Саломатин.md)  | [:notebook:](https://www.slideshare.net/flpvsk/api-kievjs)   |
 | [Server Driven Rendering](https://www.youtube.com/watch?v=my5xiCC-L8g)  |  [Viktor Havrylin](../../speakers/Viktor%20Havrylin.md)  | [:notebook:](https://drive.google.com/file/d/1FAwRWfzFoR5qsYXwCaXcetck5ZdW3hkh/view)   |
 | [Изобретать велосипед](https://www.youtube.com/watch?v=IMbK2CiYtxo)  |  [Max Bezugly](../../speakers/Max%20Bezugly.md)  | [:notebook:](https://docs.google.com/presentation/d/1-QccDwhZhHi-i-TPkgxGltM906Hx63-0vVTBWBP-_Iw/edit)   |
 ## KyivJS 19 - 2018 Sep 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLxw9RJPDS60qYg70D2fOMOmU5N-Ugxmk5)

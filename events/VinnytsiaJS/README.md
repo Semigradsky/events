@@ -50,7 +50,7 @@
 | [Realtime HTML5 Canvas Drawing](https://www.youtube.com/watch?v=_LMIEPoGxNU) [uk] |  [Евгений Пинкал](../../speakers/Евгений%20Пинкал.md)  |    |
 | [Frontend Performance Metrics. Measure First. Measure Often](https://www.youtube.com/watch?v=mUG0iVj3Bb0)  |  [Артём Захарченко](../../speakers/Артём%20Захарченко.md)  |    |
 | [WTF - WebGL The Fundamentals](https://www.youtube.com/watch?v=C79DDrEIpys) [en] |  [Martin Splitt](../../speakers/Martin%20Splitt.md)  |    |
-| [Do you have to play coding games if you are a professional coder?](https://www.youtube.com/watch?v=aMWg4FgmfYI) [en] |  [Alexander Lyabah](../../speakers/Alexander%20Lyabah.md)  |    |
+| [Do you have to play coding games if you are a professional coder?](https://www.youtube.com/watch?v=aMWg4FgmfYI) [en] |  [Александр Лябах](../../speakers/Александр%20Лябах.md)  |    |
 | [Better API wrappers with Proxies](https://www.youtube.com/watch?v=hxQW7tcPQ2s)  |  [Алексей Швайка](../../speakers/Алексей%20Швайка.md)  |    |
 | [React Native: Are we there yet](https://www.youtube.com/watch?v=o2_qDphpjlQ)  |  [Роман Лютиков](../../speakers/Роман%20Лютиков.md)  |    |
 | [Offline-First Almighty or one big reason why our web-applications suck](https://www.youtube.com/watch?v=u5PPiWwojDY)  |  [Денис Яремов](../../speakers/Денис%20Яремов.md)  |    |

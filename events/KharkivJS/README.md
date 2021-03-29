@@ -53,7 +53,7 @@
 | [Copy-pASTe](https://www.youtube.com/watch?v=dyvPGRor-Q0)  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
 | [Groupware System for fun and profit](https://www.youtube.com/watch?v=xEZwd5Tu3oM)  |  [Максим Климишин](../../speakers/Максим%20Климишин.md)  |    |
 | [Что нужно знать о логах.](https://www.youtube.com/watch?v=wrP5pNtOr9A) [uk] |  [Volodymir Voevidka](../../speakers/Volodymir%20Voevidka.md)  |    |
-| [CerebralJS - A declarative state and side effects management...](https://www.youtube.com/watch?v=aGcXmFj0RYc)  |  [Aleksei Gurianov](../../speakers/Aleksei%20Gurianov.md)  |    |
+| [CerebralJS - A declarative state and side effects management...](https://www.youtube.com/watch?v=aGcXmFj0RYc)  |  [Алексей Гурьянов](../../speakers/Алексей%20Гурьянов.md)  |    |
 | [Soft Skills](https://www.youtube.com/watch?v=KB50Idc9ags)  |  [Максим Юзва](../../speakers/Максим%20Юзва.md)  |    |
 | [The working architecture of NodeJS applications](https://www.youtube.com/watch?v=Z08xL-oXMh0)  |  [Виктор Турский](../../speakers/Виктор%20Турский.md)  |    |
 | [Taking care of performance easiest than ever](https://www.youtube.com/watch?v=M5l-3z0Aulg)  |  [Артём Денисов](../../speakers/Артём%20Денисов.md)  |    |
@@ -91,7 +91,7 @@
 | [Compilers&#x2F;V8](https://www.youtube.com/watch?v=BOpvsHZehiA) [en] |  [Ингвар Степанян](../../speakers/Ингвар%20Степанян.md)  |    |
 | [Flow, why should fall in love with it](https://www.youtube.com/watch?v=GEo3XIJw8HM) [en] |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
 | [Advanced webpack](https://www.youtube.com/watch?v=sWzTtYKDCnE) [en] |  [Juho Vepsäläinen](../../speakers/Juho%20Vepsäläinen.md)  |    |
-| [Better Web Components with membranes](https://www.youtube.com/watch?v=TgFFsaETKrA) [en] |  [Aleksey Shvaika](../../speakers/Aleksey%20Shvaika.md)  |    |
+| [Better Web Components with membranes](https://www.youtube.com/watch?v=TgFFsaETKrA) [en] |  [Алексей Швайка](../../speakers/Алексей%20Швайка.md)  |    |
 | [QA session](https://www.youtube.com/watch?v=HCQkJQg-deo) [en] |  [Unknown](../../speakers/Unknown.md)  |    |
 | [Porting Web Application to Virtual Reality](https://www.youtube.com/watch?v=Fen3AS7SAPk) [en] |  [Денис Радин](../../speakers/Денис%20Радин.md)  |    |
 | [Next](https://www.youtube.com/watch?v=Z37W65etPg4) [en] |  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  |    |

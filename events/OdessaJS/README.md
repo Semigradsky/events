@@ -19,7 +19,7 @@
 | Save the world, one line at a time [en] |  [Asim Hussain](../../speakers/Asim%20Hussain.md)  |    |
 | Get experience with NestJS [Workshop]  |  [Андрей Кучеренко](../../speakers/Андрей%20Кучеренко.md)  |    |
 | [Fun with Bluetooth](https://www.youtube.com/watch?v=UYyPRddn9J4) [en] |  [Niels Leenheer](../../speakers/Niels%20Leenheer.md)  |    |
-| [Specification-Driven Development of REST APIs](https://www.youtube.com/watch?v=LLTZ0u6JMB4)  |  [Alexander Zinchuk](../../speakers/Alexander%20Zinchuk.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/specificationdriven-development-of-rest-apis-by-alexander-zinchuk)   |
+| [Specification-Driven Development of REST APIs](https://www.youtube.com/watch?v=LLTZ0u6JMB4)  |  [Александр Зинчук](../../speakers/Александр%20Зинчук.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/specificationdriven-development-of-rest-apis-by-alexander-zinchuk)   |
 | Testing JS code that consumes APIs [Workshop]  |  [Mike Solomon](../../speakers/Mike%20Solomon.md)  |    |
 | Seniors mindset [Managers corner]  |  [Дмитрий Гусев](../../speakers/Дмитрий%20Гусев.md)  [Роман Савицкий](../../speakers/Роман%20Савицкий.md)  [Zakhor](../../speakers/Zakhor.md)  |    |
 | [How to start enjoy your Angular Rx and NGRX](https://www.youtube.com/watch?v=ydMbOVA4RMM) [uk] |  [Сергій Бабіч](../../speakers/Сергій%20Бабіч.md)  |    |

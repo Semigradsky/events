@@ -27,7 +27,7 @@
 | --- | :---: | --- |
 | [Инженерная культура](https://www.youtube.com/watch?v=nh3flmftHk4)  |  [Кирилл Мокевнин](../../speakers/Кирилл%20Мокевнин.md)  |    |
 | [Функциональное программирование в веб разработке](https://www.youtube.com/watch?v=-jP6FsLwIRI)  |  [Дамир Камильянов](../../speakers/Дамир%20Камильянов.md)  [Артур Мирзин](../../speakers/Артур%20Мирзин.md)  | [:notebook:](https://drive.google.com/file/d/1sXsaRcvFZgupnXLNqSCslWd2yVh0a-g7/view)   |
-| [Face control. Тестируем интерфейсы в Web](https://www.youtube.com/watch?v=hQn0vRUQY20)  |  [Альберт Фазуллин](../../speakers/Альберт%20Фазуллин.md)  | [:notebook:](https://docs.google.com/presentation/d/1ibq05jD4Rlwv-jaLxdYIG2-9aQNldAnt4ITgwd8ZPhk/edit#slide=id.p)   |
+| [Face control. Тестируем интерфейсы в Web](https://www.youtube.com/watch?v=hQn0vRUQY20)  |  [Альберт Файзуллин](../../speakers/Альберт%20Файзуллин.md)  | [:notebook:](https://docs.google.com/presentation/d/1ibq05jD4Rlwv-jaLxdYIG2-9aQNldAnt4ITgwd8ZPhk/edit#slide=id.p)   |
 ## KazanJS 5 - 2018 Dec 18 [:movie_camera:](https://vk.com/video-161626452_456239028)
 | | | |
 | --- | :---: | --- |
@@ -39,13 +39,13 @@
 | --- | :---: | --- |
 | [Таск трекер на React + NodeJS, история, архитектура и подводные камни](https://www.youtube.com/watch?v=09PfTLC7yus)  |  [Татьяна Бабич](../../speakers/Татьяна%20Бабич.md)  [Андрей Френкель](../../speakers/Андрей%20Френкель.md)  |    |
 | Kubernetes и как мы его используем в production  |  [Радик Фаттахов](../../speakers/Радик%20Фаттахов.md)  |    |
-| Overvue  |  [Альберт Фазуллин](../../speakers/Альберт%20Фазуллин.md)  |    |
+| Overvue  |  [Альберт Файзуллин](../../speakers/Альберт%20Файзуллин.md)  |    |
 ## KazanJS 3 - 2018 Jul 24 
 | | | |
 | --- | :---: | --- |
 | [ReasonML и React будущее веб-разработки?](https://www.youtube.com/watch?v=3ZnPT5MH3_o)  |  [Тимур Зарипов](../../speakers/Тимур%20Зарипов.md)  |    |
 | [Интерфейс, usability и accessibility как наука](https://www.youtube.com/watch?v=KuXamvQ6O1k)  |  [Дамир Фахрутдинов](../../speakers/Дамир%20Фахрутдинов.md)  |    |
-| [Point of Vue](https://www.youtube.com/watch?v=hyRVKDaYvTI)  |  [Альберт Фазуллин](../../speakers/Альберт%20Фазуллин.md)  |    |
+| [Point of Vue](https://www.youtube.com/watch?v=hyRVKDaYvTI)  |  [Альберт Файзуллин](../../speakers/Альберт%20Файзуллин.md)  |    |
 ## KazanJS 2 - 2018 May 10 
 | | | |
 | --- | :---: | --- |

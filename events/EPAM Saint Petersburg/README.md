@@ -18,7 +18,7 @@
 ## Undefined Meetup 3 - 2020 Feb 28 
 | | | |
 | --- | :---: | --- |
-| A11y: pro tips  |  [Anna Safonova](../../speakers/Anna%20Safonova.md)  | [:notebook:](https://vk.com/doc215887500_536136457?hash=37cbe7359cb5dc8e8d&dl=978bfe763d21300885)   |
+| A11y: pro tips  |  [Анна Сафонова](../../speakers/Анна%20Сафонова.md)  | [:notebook:](https://vk.com/doc215887500_536136457?hash=37cbe7359cb5dc8e8d&dl=978bfe763d21300885)   |
 | Сага о библиотеке компонентов  |  [Olga Samokhvalova](../../speakers/Olga%20Samokhvalova.md)  | [:notebook:](https://vk.com/doc215887500_536138431?hash=3505ca776402228bee&dl=f7dd7b43aa841b6ce3)   |
 ## Undefined Meetup 2 - 2019 Dec 05 [:movie_camera:](https://www.youtube.com/watch?v=XcbnioSUI3k)
 | | | |
