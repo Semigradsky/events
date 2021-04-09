@@ -3,10 +3,22 @@
 
 # Events / 2021 / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## IWD 2021 - Mar 27 
+| | | |
+| --- | :---: | --- |
+| [Версия для слабовидящих? А можно не надо?](https://youtu.be/F8RZTWeaDnY)  |  [Лена Райан](speakers/Лена%20Райан.md)  | [:notebook:](https://lenaryan.github.io/u-dont-need-blind-version/)   |
+| [Веб-производительность и внешние сервисы: история одной интеграции](https://youtu.be/3BaikNwayIE)  |  [Ирина Соколовская](speakers/Ирина%20Соколовская.md)  | [:notebook:](https://docs.google.com/presentation/d/1erRED_4taCx4fgahpG0bCVwYIXcqSRB9mJ5DqddmaBc/edit)   |
+| [Топ-10 CSS-свойств аниматора](https://youtu.be/fFRADs5R9ME)  |  [Юлия Миоцен](speakers/Юлия%20Миоцен.md)  |    |
+| [История пиксельных котиков. Что изменилось за 30 лет?](https://youtu.be/b7FtH75um-M)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  | [:notebook:](https://speakerdeck.com/hellsquirrel/istoriia-piksiel-nykh-kotikov-chto-izmienilos-za-30-liet) [:octocat:](https://github.com/HellSquirrel/cats-pixels-images)  |
+| [Тебе не нужен Bootstrap! Или нужен? Или все же не нужен?](https://youtu.be/5R_vwZzZHRY)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  | [:notebook:](https://neesoglasnaja.github.io/IWD2021/)   |
 ## MoscowJS Online 3 - Mar 25 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;h1NhbbzCIBM)
 | | | |
 | --- | :---: | --- |
 | [Развитие джуниор-разработчиков](https://www.youtube.com/watch?v=h1NhbbzCIBM)  |  [Unknown](speakers/Unknown.md)  |    |
+## PiterJS 55 - Mar 04 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;K9onhOaPuKc)
+| | | |
+| --- | :---: | --- |
+| [Про работу с кодом](https://www.youtube.com/watch?v=K9onhOaPuKc&t=530s)  |  [Виктор Пасынок](speakers/Виктор%20Пасынок.md)  |    |
 ## Я ❤ Frontend 2021 - Feb 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SQvmgHWgtUeX_Y59NiZhmEF)
 | | | |
 | --- | :---: | --- |

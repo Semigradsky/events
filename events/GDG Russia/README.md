@@ -3,6 +3,22 @@
 
 # GDG Russia
 
+## IWD 2021 - 2021 Mar 27 
+| | | |
+| --- | :---: | --- |
+| [Версия для слабовидящих? А можно не надо?](https://youtu.be/F8RZTWeaDnY)  |  [Лена Райан](../../speakers/Лена%20Райан.md)  | [:notebook:](https://lenaryan.github.io/u-dont-need-blind-version/)   |
+| [Веб-производительность и внешние сервисы: история одной интеграции](https://youtu.be/3BaikNwayIE)  |  [Ирина Соколовская](../../speakers/Ирина%20Соколовская.md)  | [:notebook:](https://docs.google.com/presentation/d/1erRED_4taCx4fgahpG0bCVwYIXcqSRB9mJ5DqddmaBc/edit)   |
+| [Топ-10 CSS-свойств аниматора](https://youtu.be/fFRADs5R9ME)  |  [Юлия Миоцен](../../speakers/Юлия%20Миоцен.md)  |    |
+| [История пиксельных котиков. Что изменилось за 30 лет?](https://youtu.be/b7FtH75um-M)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://speakerdeck.com/hellsquirrel/istoriia-piksiel-nykh-kotikov-chto-izmienilos-za-30-liet) [:octocat:](https://github.com/HellSquirrel/cats-pixels-images)  |
+| [Тебе не нужен Bootstrap! Или нужен? Или все же не нужен?](https://youtu.be/5R_vwZzZHRY)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  | [:notebook:](https://neesoglasnaja.github.io/IWD2021/)   |
+## DevFest 2020 - 2020 Oct 17 [:movie_camera:](https://www.youtube.com/playlist?list=PLGlZ_ld11os9BMGLLzqRHofIHS510XIUk)
+| | | |
+| --- | :---: | --- |
+| [&lt;img&gt;](https://youtu.be/WfzKd16LplI)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [ЧТО БУДЕТ, если ВОВРЕМЯ НЕ ОТПИСАТЬСЯ — RxJS Observable](https://youtu.be/RhYUnc622qg)  |  [Андрей Греков](../../speakers/Андрей%20Греков.md)  |  [:octocat:](https://stackblitz.com/edit/why-you-have-to-unsubscribe-from-observable-material) [:spiral_notepad:](https://medium.com/ngx/why-do-you-need-unsubscribe-ee0c62b5d21f) |
+| [Angular компоненты сыновей маминой подруги [Workshop]](https://youtu.be/wwynvEBh-P4)  |  [Роман Седов](../../speakers/Роман%20Седов.md)  [Александр Инкин](../../speakers/Александр%20Инкин.md)  |  [:octocat:](https://stackblitz.com/edit/angular-declarative-components)  |
+| [Как сделать редактор майндмэпов](https://youtu.be/uEP5zlMo28o)  |  [Тимофей Чаптыков](../../speakers/Тимофей%20Чаптыков.md)  |    |
+| [Интернационализация JavaScript-приложений](https://youtu.be/av9L5xceSsI)  |  [Даниил Сенькив](../../speakers/Даниил%20Сенькив.md)  |  [:octocat:](https://github.com/DASenkiv/intl-vs-i18next)  |
 ## DevParty - 2020 Jun 27 [:movie_camera:](https://www.youtube.com/playlist?list=PLGlZ_ld11os-nnB5CG_p6brIUWMGXU5Tr)
 | | | |
 | --- | :---: | --- |
