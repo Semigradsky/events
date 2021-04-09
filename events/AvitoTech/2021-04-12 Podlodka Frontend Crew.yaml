@@ -1,0 +1,78 @@
+name: Podlodka Frontend Crew
+date:
+  - 2021-04-12
+  - 2021-04-23
+videos: 
+talks:
+  - name: Батон хлеба в 4к или как работать с изображениями в вебе
+    speaker: Илья Куликов
+    video: 
+    presentation: 
+  - name: Про то как оптимизировать размер в любом инструменте [Live-coding]
+    speaker: Иван Копейкин
+    video: 
+    presentation: 
+  - name: Поднятие PageSpeed index
+    speaker: Антон Тужик
+    video: 
+    presentation: 
+  - name: Публичное собеседование
+    speaker: Дмитрий Малахов
+    video: 
+    presentation: 
+  - name: Про то как оптимизировать размер в любом инструменте [Live-coding]
+    speaker: Ирина Соколовская
+    video: 
+    presentation: 
+  - name: "Performance Profiling: 101"
+    speaker: Артём Белов
+    video: 
+    presentation: 
+  - name: Как в различных компаниях подходят к работе над перформансом [Круглый стол]
+    speaker: Николай Рябов, Владимир Голотин, Артём Белов
+    video: 
+    presentation: 
+  - name: Как продать своему продакту улучшения по перформансу?
+    speaker: Дмитрий Романов
+    video: 
+    presentation: 
+  - name: Перформанс-линч ваших проектов
+    speaker: Николай Рябов, Артём Белов
+    video: 
+    presentation: 
+  - name: Обзорный доклад по качеству и стабильности
+    speaker: Кирилл Мокевнин
+    video: 
+    presentation: 
+  - name: Unit-тесты
+    speaker: Сергей Рябенко
+    video: 
+    presentation: 
+  - name: Как стандарты кодирования помогают при разработке библиотек
+    speaker: Игорь Шеко
+    video: 
+    presentation: 
+  - name: TDD
+    speaker: Александр Беспоясов
+    video: 
+    presentation: 
+  - name: Как TS спасает от факапов
+    speaker: Елена Рашкован
+    video: 
+    presentation: 
+  - name: Круглый стол по качеству и стабильности
+    speaker: 'Unknown'
+    video: 
+    presentation: 
+  - name: Мониторинг ошибок на клиенте и методы для поиска причин этих ошибок
+    speaker: Валерий Кондратьев
+    video: 
+    presentation: 
+  - name: Доклад про правильное проведение код-ревью
+    speaker: Анатолий Носов
+    video: 
+    presentation: 
+  - name: Настраиваем CI/CD в Github Actions
+    speaker: Екатерина Павленко
+    video: 
+    presentation: 
