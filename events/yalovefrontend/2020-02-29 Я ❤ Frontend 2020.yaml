@@ -19,7 +19,8 @@ talks:
     speaker: Полина Гуртовая
     video: https://youtu.be/CMlXUS6e46w
     text: https://habr.com/ru/company/yandex/blog/493616/
-    presentation: 
+    presentation: https://speakerdeck.com/hellsquirrel/kartinki-kak-korobki-chto-zhie-tam-vnutri
+    code: https://github.com/HellSquirrel/image-internals-talk
   - name: Как сделать редактор майндмэпов
     speaker: Тим Чаптыков
     video: https://youtu.be/Pl1Gw14pS2I

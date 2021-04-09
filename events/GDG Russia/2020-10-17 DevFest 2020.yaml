@@ -1,0 +1,28 @@
+name: DevFest 2020
+date: 2020-10-17
+videos: https://www.youtube.com/playlist?list=PLGlZ_ld11os9BMGLLzqRHofIHS510XIUk
+talks:
+  - name: <img>
+    speaker: Никита Дубко
+    video: https://youtu.be/WfzKd16LplI
+    presentation: 
+  - name: ЧТО БУДЕТ, если ВОВРЕМЯ НЕ ОТПИСАТЬСЯ — RxJS Observable
+    speaker: Андрей Греков
+    video: https://youtu.be/RhYUnc622qg
+    presentation: 
+    code: https://stackblitz.com/edit/why-you-have-to-unsubscribe-from-observable-material
+    text: https://medium.com/ngx/why-do-you-need-unsubscribe-ee0c62b5d21f
+  - name: Angular компоненты сыновей маминой подруги [Workshop]
+    speaker: Роман Седов, Александр Инкин
+    video: https://youtu.be/wwynvEBh-P4
+    code: https://stackblitz.com/edit/angular-declarative-components
+    presentation: 
+  - name: Как сделать редактор майндмэпов
+    speaker: Тимофей Чаптыков
+    video: https://youtu.be/uEP5zlMo28o
+    presentation: 
+  - name: Интернационализация JavaScript-приложений
+    speaker: Даниил Сенькив
+    video: https://youtu.be/av9L5xceSsI
+    presentation: 
+    code: https://github.com/DASenkiv/intl-vs-i18next

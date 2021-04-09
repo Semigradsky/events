@@ -1,0 +1,25 @@
+name: IWD 2021
+date: 2021-03-27
+videos: 
+talks:
+  - name: Версия для слабовидящих? А можно не надо?
+    speaker: Лена Райан
+    video: https://youtu.be/F8RZTWeaDnY
+    presentation: https://lenaryan.github.io/u-dont-need-blind-version/
+  - name: "Веб-производительность и внешние сервисы: история одной интеграции"
+    speaker: Ирина Соколовская
+    video: https://youtu.be/3BaikNwayIE
+    presentation: https://docs.google.com/presentation/d/1erRED_4taCx4fgahpG0bCVwYIXcqSRB9mJ5DqddmaBc/edit
+  - name: Топ-10 CSS-свойств аниматора
+    speaker: Юлия Миоцен
+    video: https://youtu.be/fFRADs5R9ME
+    presentation: 
+  - name: История пиксельных котиков. Что изменилось за 30 лет?
+    speaker: Полина Гуртовая
+    video: https://youtu.be/b7FtH75um-M
+    presentation: https://speakerdeck.com/hellsquirrel/istoriia-piksiel-nykh-kotikov-chto-izmienilos-za-30-liet
+    code: https://github.com/HellSquirrel/cats-pixels-images
+  - name: Тебе не нужен Bootstrap! Или нужен? Или все же не нужен?
+    speaker: Александра Шинкевич
+    video: https://youtu.be/5R_vwZzZHRY
+    presentation: https://neesoglasnaja.github.io/IWD2021/
