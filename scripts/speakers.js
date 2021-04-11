@@ -90,6 +90,7 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
                         code: speakerData.talk.code,
                         text: speakerData.talk.text,
                         date: toFullDateString(speakerData.event.date),
+                        rawDate: speakerData.event.date,
                     }],
                 })
                 return acc
@@ -103,10 +104,21 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
                 code: speakerData.talk.code,
                 text: speakerData.talk.text,
                 date: toFullDateString(speakerData.event.date),
+                rawDate: speakerData.event.date,
             })
 
             return acc
         }, [])
+
+        talksData.forEach((talk) => {
+            talk.events.sort((a, b) => {
+                return b.rawDate - a.rawDate
+            })
+        })
+
+        talksData.sort((a, b) => {
+            return b.events[0].rawDate - a.events[0].rawDate
+        })
 
         groupedBySpeakers.set(speaker,{
             speaker,
