@@ -1,0 +1,66 @@
+name: Frontend Conf 2021
+date:
+  - 2021-10-11
+  - 2021-10-12
+videos: 
+talks:
+  - name: Что WebGPU значит для веб-платформы?
+    speaker: Денис Радин
+    video: 
+    presentation: 
+  - name: RTC, почти RTC и Франкенштейн
+    speaker: Полина Гуртовая
+    video: 
+    presentation: 
+  - name: "Есть ли жизнь без 3rd-party-кук: 2021 year edition"
+    speaker: Анатолий Остапенко
+    video: 
+    presentation: 
+  - name: Сам себе дизайнер
+    speaker: Юлия Миоцен
+    video: 
+    presentation: 
+  - name: А я думал, что нужно просто уметь писать код
+    speaker: Андрей Смирнов
+    video: 
+    presentation: 
+  - name: Serverless на примере реального приложения
+    speaker: Роман Арестович
+    video: 
+    presentation: 
+  - name: Data Science на Javascript-модулях
+    speaker: Никита Сидоров
+    video: 
+    presentation: 
+  - name: System Design for Design System
+    speaker: Василий Логиневский
+    video: 
+    presentation: 
+  - name: OWASP Top-10 для фронтэндера и как с этим жить
+    speaker: Татьяна Новикова
+    video: 
+    presentation: 
+  - name: Автоматизируем сервис-воркер с Workbox 6
+    speaker: Максим Сальников
+    video: 
+    presentation: 
+  - name: Фронтенд и носимые устройства (Bluetooth API)
+    speaker: Илья Черторыльский
+    video: 
+    presentation: 
+  - name: "ElectronJS: начинаем писать Desktop App на JS"
+    speaker: Александр Руденко
+    video: 
+    presentation: 
+  - name: "TypeScript: худший & лучший язык программирования"
+    speaker: Андрей Старовойт
+    video: 
+    presentation: 
+  - name: Гарри Поттер и Скриншотные Тесты в Storybook
+    speaker: Дмитрий Лазарев
+    video: 
+    presentation: 
+  - name: Условно адаптивно
+    speaker: Вадим Макеев
+    video: 
+    presentation: 

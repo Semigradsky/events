@@ -2,206 +2,208 @@ name: Frontend Conf 2020 (Live)
 date:
   - 2020-09-23
   - 2020-10-02
-videos: 
+videos: https://www.youtube.com/playlist?list=PLfbxrJr-t5mmgwU3xnvOOtrsULgVWtTwH
 link: https://frontendconf.ru/moscow/2020
 talks:
   - name: TypeScript как фундамент архитектуры приложения
     speaker: Али Рагимов
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/13Pfgv5CZhSqMgVtEhgLHx3stKGvsQiSQ/view
   - name: "2020: время хороших интерфейсов"
     speaker: Анна Селезнёва
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1IxelEpN45BzcpIZ1rn5ovVaZ53LMWrTR/view
   - name: Dependency injection в React-приложении
     speaker: Сергей Нестеров
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1ssmrP7viWZ6Dpun0_afxzxYEZdz5tZoA/view
   - name: Основной контент вашего сервиса
     speaker: Вадим Матвеев
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1kDYcukfMbVtzX_da9SsGLmjeJ8qrEbBz/view
   - name: Баланс между общим и частным на огромных масштабах
     speaker: Владимир Гриненко
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/10JQQ_XRNOAv1f60YTWeZV4an4S3tMH-B/view
   - name: Цвет настроения
     speaker: Глафира Жур
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1mNIzvFaSA6pXK-2_35v_tJzzzvL_DX6v/view
   - name: "Как правильно заходить на рефакторинг, или Почему легаси не приговор"
     speaker: Денис Красновский
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1LJQC7syG79ixCEhJuzl0sSUcdj57BesB/view
   - name: "Фуллстек-дизайнер: почему это классно для всех"
     speaker: Сергей Тимофеев
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1UxUKedr_p1R_vWBZs3i_9EI5QYg3Oa8a/view
   - name: Как создают и поддерживают страницы tinkoff.ru
     speaker: Сергей Михайлов
+    video: 
+    presentation: https://drive.google.com/file/d/1wKXjYlPz_DluUUifuOAYaGgyRaNDS7Pw/view
+  - name: Пять лет эволюции React-приложения
+    speaker: Андрей Марченко
+    video: 
+    presentation: https://drive.google.com/file/d/1jcyUn8skK1637Eigan3OOOkZqe7owvd-/view
+  - name: Smart Interface Design Patterns, 2020 Edition
+    speaker: Виталий Фридман
     video: 
     presentation: 
   - name: Микрофронтенды на tinkoff.ru
     speaker: Дмитрий Кузнецов
     video: 
-    presentation: 
-  - name: Пять лет эволюции React-приложения
-    speaker: Андрей Марченко
-    video: 
-    presentation: 
-  - name: Smart Interface Design Patterns, 2020 Edition
-    speaker: Виталий Фридман
-    video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1B1JW_Hgu66S0eWgtgzV2JQrpPhJV9J_E/view
   - name: "Чем болеют большие фронтенды: монорепы и микрофронтенды"
     speaker: Иван Соловьёв
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/19tLGzPRYb-Xz63OUSbjeNPKzpYPuf3M_/view
   - name: Как выстроить эффективное взаимодействие между дизайнером и фронтенд-разработчиком
     speaker: Игорь Шеко
     video: 
-    presentation: 
-  - name: "Технологический радар: тенденции, как мы их видим"
-    speaker: Филипп Нехаев
-    video: 
-    presentation: 
+    presentation: https://slides.com/irbisadm/effective-cooperate
   - name: Сердце Vue-приложения
     speaker: Александр Шушунов
-    video: 
+    video: https://youtu.be/t8OHe4uhVy4
+    presentation: https://drive.google.com/file/d/1z-jbl_5SHADL4LNXrpkteyqezb8q1D3F/view
+  - name: Редизайн web-версии Сбербанк онлайн
+    speaker: Александр Кашин, Дмитрий Кузнецов
+    video: https://youtu.be/cBjYWP3HTp8
     presentation: 
-  - name: Designing Adaptive Components (beyond responsive breakpoints)
-    speaker: Stéphanie Walter
-    lang: en
-    video: 
+  - name: Как работать с Apollo в связке с Typescript и GraphQL Code Generator
+    speaker: Сергей Степаненко
+    video: https://youtu.be/8xj9X_M9YI0
     presentation: 
   - name: Декларативный Web Audio API
     speaker: Александр Инкин
-    video: 
+    video: https://youtu.be/EsG2YAzUcT4
+    presentation: https://drive.google.com/file/d/1_3sRuegxTmDgVisXxdWBJ9pawY9kqf61/view
+  - name: Как SpatialChat помог университетам США в условиях пандемии в онлайн образовании
+    speaker: Алмас Абулхаиров
+    video: https://youtu.be/kJXYzu0Q7t0
     presentation: 
   - name: Icon. Оверинжиниринг или необходимость?
     speaker: Никита Мостовой
-    video: 
-    presentation: 
+    video: https://youtu.be/gYvpJe9KHwY
+    presentation: https://drive.google.com/file/d/1opPdBg5V3uaribxo0QNLOCR06__6qOeI/view
   - name: Делаем корпоративный суперапп на базе Slack и Node.js
     speaker: Георгий Бугаков
-    video: 
-    presentation: 
-  - name: Using DevTools to understand modern CSS layouts
-    speaker: Hui Jing Chen
-    lang: en
-    video: 
+    video: https://youtu.be/TvsfHot4Rx8
+    presentation: https://drive.google.com/file/d/1lxlKn_iw3JV9dUs33gxt7zHspAlCdXDd/view
+  - name: Фронтенд в Спортмастер
+    speaker: Сергей Чумак
+    video: https://youtu.be/71xv88nIcB8
     presentation: 
   - name: На пути к идеальному стейту и перформансу с Relay Modern
     speaker: Александр Руденко
-    video: 
-    presentation: 
+    video: https://youtu.be/jYSiRWhNbNg
+    presentation: https://drive.google.com/file/d/12GZRH_jNCE2YIlpgq780HyownsS8Yzga/view
   - name: "Преломление реальности: динамическая валидация статическими типами"
     speaker: Майк Башуров
-    video: 
+    video: https://youtu.be/pjF6LecX8gc
+    presentation: https://bending-reality.netlify.app/
+  - name: Будни такси ВКонтакте
+    speaker: Артём Пулявин
+    video: https://youtu.be/7WjSXRxfuqM
     presentation: 
-  - name: From 45 to 85, a performance journey
-    speaker: Eva Ferreira
-    lang: en
-    video: 
-    presentation: 
+    text: https://habr.com/ru/company/oleg-bunin/blog/528348/
   - name: Как перестать беспокоиться и начать опенсорсить
     speaker: Роман Седов
-    video: 
-    presentation: 
+    video: https://youtu.be/V_LPAHJkkDg
+    presentation: https://drive.google.com/file/d/1u9kjxqZgujgo1dtb0IAMbiIpg8m135WN/view
   - name: "Frontend Security 2020: о чем вы хотели бы забыть, но не можете"
     speaker: Татьяна Новикова
-    video: 
-    presentation: 
-  - name: Секреты Mavo. Решение повседневных задач веб-разработчика без JavaScript
-    speaker: Дмитрий Шарабин
-    video: 
-    presentation: 
+    video: https://youtu.be/zbEArk98crU
+    presentation: https://drive.google.com/file/d/1ns5D5Xo9y4xzem6paipO_nfr_hfYxLbp/view
+  - name: "Технологический радар: тенденции, как мы их видим"
+    speaker: Филипп Нехаев
+    video: https://youtu.be/vUxTCo8RuZk
+    presentation: https://drive.google.com/file/d/10kxv2otLfbJZGXdE1ppWx3FoKx5oQEi3/view
   - name: Потанцуем?
     speaker: Василика Климова
-    video: 
-    presentation: 
+    video: https://youtu.be/FVl4bE4ReIg
+    presentation: https://drive.google.com/file/d/1SdoWa2AQX_vvkGdnJVaCJzriDxJVylXD/view
   - name: Страх и ненависть локализации в больших проектах
     speaker: Дмитрий Андриянов
-    video: 
-    presentation: 
+    video: https://youtu.be/xvMy8xcetLs
+    presentation: https://drive.google.com/file/d/1H9ltw8Lx79B0fwDFZEueTrM1nBPrlHCi/view
   - name: Какой Scrum? Я просто хочу код писать!
     speaker: Александра Баптизманская
-    video: 
-    presentation: 
-  - name: Где я и где конечный автомат?
-    speaker: Вадим Пацев
-    video: 
-    presentation: 
+    video: https://youtu.be/hkVfERv-T-E
+    presentation: https://drive.google.com/file/d/1OPlc-MEiDtIAXAvC6cKyqjbGPH9OxFaD/view
+  - name: Секреты Mavo. Решение повседневных задач веб-разработчика без JavaScript
+    speaker: Дмитрий Шарабин
+    video: https://youtu.be/03fMFak3l7s
+    presentation: https://drive.google.com/file/d/1m4eH6Yirztik0xgvcMRZZCG_qogiliNJ/view
   - name: "Getting Web Forms Right: From Checkboxes To Dropdowns"
     speaker: Виталий Фридман
-    video: 
-    presentation: 
+    video: https://youtu.be/nAb1kdU_fYA
+    presentation: https://drive.google.com/file/d/1W6cvXzZy9boohWIApcwwzVOUdkRVYFBY/view
+  - name: Где я и где конечный автомат?
+    speaker: Вадим Пацев
+    video: https://youtu.be/fAzBkbs0Lbo
+    presentation: https://drive.google.com/file/d/1ip4cTtnNkYr4hNp7QdSNrTOSOdSI4p3z/view
   - name: WebAssembly SPA-фреймворки
     speaker: Илья Черторыльский
-    video: 
-    presentation: 
+    video: https://youtu.be/UY9QhGHBLzU
+    presentation: https://drive.google.com/file/d/1fgOeQBmCpeyfsgxNBbRmCJfz-LV_po_3/view
   - name: Ликбез по CI/CD для frontend'а на примере GitLab
     speaker: Тимофей Тиунов
-    video: 
-    presentation: 
-  - name: Accessibility-flavored React components make your design system delicious!
-    speaker: Kathleen McMahon
-    lang: en
-    video: 
-    presentation: 
+    video: https://youtu.be/BIY_J0Ba4Cc
+    presentation: https://drive.google.com/file/d/11GIbmD600VpmU3ciBrZS2rNx4SH3Lvwk/view
   - name: Путь в senior'ы через менторство junior'ов
     speaker: Даниил Пилипенко
-    video: 
-    presentation: 
+    video: https://youtu.be/bCXG55tn0Jc
+    presentation: https://drive.google.com/file/d/1sEik5q-uLbPZrpmfEKKk6joZBhPKpzXs/view
   - name: Сбор и анализ производительности у клиентов
     speaker: Виктор Русакович
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1XMX_XsJW8l0edWnB9xvSHWSZkVYFyyoo/view
   - name: Тестирование фронтенда, или Как не быть ленивым кодером
     speaker: Александра Шинкевич
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1Cv1AzrA0t0765QUJxN45NhgT0CPq9vba/view
   - name: WWW-аппликация
     speaker: Никита Дубко
     video: 
-    presentation: 
-  - name: Как разработчику находить максимум багов в своем коде за минимум времени путем быстрого написания тестов, которые действительно ловят дефекты
+    presentation: https://drive.google.com/file/d/1lQKL2ru7fPJXDCiHCjgtbczAcLzV6FCL/view
+  - name: Как находить больше багов с меньшими усилиями
     speaker: Николай Москаленко
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/19jIbV-xA7G9s_LANargxk0HxabUPGcqX/view
   - name: Как использовать анимацию на сайте и не бесить пользователей
     speaker: Сергей Кузнецов
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1KqHePlxmWYP1cF2rh4OiE7I1EQBmM78l/view
   - name: "Мастер-класс по тестированию фронтенда \"nodejs и базовое тестирование\""
     speaker: Максим Соснов
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1tlG9K7v99OzYS8UyoKi6deOY9GoAbNdJ/view
   - name: Вам показалось! Все о Perceived Performance
     speaker: Алексей Охрименко
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1VG_8UsPdcJ_W6TyGl7dh5TWOBDkFAnoB/view
+    text: https://habr.com/ru/company/oleg-bunin/blog/538466/
   - name: React Reconciliation, или Как React добился 60 fps
     speaker: Александр Бальцевич
     video: 
-    presentation: 
-  - name: "Мастеркласс по тестированию фронтенда: тестирование вёрстки и функциональное тестирование"
+    presentation: https://drive.google.com/file/d/10k2qiJILd-YpudTmPC-3PjZX1i4Bg0fw/view
+  - name: "Мастер-класс по тестированию фронтенда: тестирование вёрстки и функциональное тестирование"
     speaker: Максим Соснов
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1vgqp5RDRJ1YDoI3dB5UUxqnLv8sagZdW/view
   - name: SSR. Как доставлять быстро
     speaker: Виталий Сысолятин
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1E-gwt0j6NlOwRFYt20fEqunsSRHQkSPL/view
   - name: Умные тесты производительности своими руками
     speaker: Николай Рябов
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1yGwtFXQ0IwRCee6OBPii8wS5JhClIOWL/view
   - name: BDD-тестирование веб-приложений
     speaker: Александр Иосса
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1_Xt5ZI8lMEzqibql0qB9O8pjS1PIXVxd/view
   - name: Моя команда любит тесты. А ваша?
     speaker: Иван Ботанов
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1z22gflBMbN_xYozpBJ3aaRpfuw8txQCc/view
