@@ -25,27 +25,6 @@
 - 2016 Nov 05-06 -- [KharkivJS 7 - 2016](https://www.youtube.com/watch?v=HCQkJQg-deo) [en]   
 ## Развитие джуниор-разработчиков
 - 2021 Mar 25 -- [MoscowJS Online 3](https://www.youtube.com/watch?v=h1NhbbzCIBM)    
-## Мутационное тестирование
-- 2019 Mar 02 -- Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)  
-## Angular и Typescript. Основы. Примеры.
-- 2018 Apr 26 -- Mera 20 - JS tricks &amp; Angular quick start  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx)  
-## Полный Spectre уязвимостей
-- 2018 Jan 25 -- [MinskJS 3](https://www.youtube.com/watch?v=hGzy17Nnc38)  | [:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/)| [:notebook:](https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view)  
-## Senecajs — Что это и зачем нужно? Введение в микросервисы
-- 2016 Oct 20 -- Node.js SPb Meetup 2    
-## Применение Senecajs — когда это оправдано, а когда — нет
-- 2016 Oct 20 -- Node.js SPb Meetup 2    
-## Использование акторов для гибкого масштабирования
-- 2016 Sep 21 -- Node.js SPb Meetup 1    
-## Использование TypeScript в Node.js проектах
-- 2016 Sep 21 -- Node.js SPb Meetup 1    
-## Microsoft Azure и использование в нем Node.js проектов
-- 2016 Sep 21 -- Node.js SPb Meetup 1    
-## Дискуссионная панель &quot;SPA сегодня — каким оно должно быть?&quot;
-- 2018 Apr 07 -- [SPA Meetup 4](https://youtu.be/BezEWFL5WKk)    
-## Открытый микрофон
-- 2017 Apr 06 -- [UralJS 3](https://www.youtube.com/watch?v=0JOsoNzi6KY)    
-- 2017 Nov 22 -- [UralJS 5](https://www.youtube.com/watch?v=dz4I39TrvGs)    
 ## Технологии во фронтенде Яндекса
 - 2019 Mar 23 -- [Я.Субботник по разработке интерфейсов](https://events.yandex.ru/lib/talks/7108/)    
 ## ШРИ — что внутри?
@@ -60,6 +39,27 @@
 - 2019 Mar 23 -- [Я.Субботник по разработке интерфейсов](https://events.yandex.ru/lib/talks/7106/)    
 ## Про React-хуки
 - 2019 Mar 23 -- [Я.Субботник по разработке интерфейсов](https://events.yandex.ru/lib/talks/7110/)    
+## Мутационное тестирование
+- 2019 Mar 02 -- Mera 30 - Мутационное тестирование и внедрение зависимостей в Веб-компонентах  | [:notebook:](https://www.mera.ru/media/attachments/2019/03/04/mutation-testing.pdf)  
+## Angular и Typescript. Основы. Примеры.
+- 2018 Apr 26 -- Mera 20 - JS tricks &amp; Angular quick start  | [:notebook:](https://www.mera.ru/media/attachments/2018/06/04/angularquickstart.pptx)  
+## Дискуссионная панель &quot;SPA сегодня — каким оно должно быть?&quot;
+- 2018 Apr 07 -- [SPA Meetup 4](https://youtu.be/BezEWFL5WKk)    
+## Полный Spectre уязвимостей
+- 2018 Jan 25 -- [MinskJS 3](https://www.youtube.com/watch?v=hGzy17Nnc38)  | [:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/)| [:notebook:](https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view)  
+## Открытый микрофон
+- 2017 Nov 22 -- [UralJS 5](https://www.youtube.com/watch?v=dz4I39TrvGs)    
+- 2017 Apr 06 -- [UralJS 3](https://www.youtube.com/watch?v=0JOsoNzi6KY)    
+## Senecajs — Что это и зачем нужно? Введение в микросервисы
+- 2016 Oct 20 -- Node.js SPb Meetup 2    
+## Применение Senecajs — когда это оправдано, а когда — нет
+- 2016 Oct 20 -- Node.js SPb Meetup 2    
+## Использование акторов для гибкого масштабирования
+- 2016 Sep 21 -- Node.js SPb Meetup 1    
+## Использование TypeScript в Node.js проектах
+- 2016 Sep 21 -- Node.js SPb Meetup 1    
+## Microsoft Azure и использование в нем Node.js проектов
+- 2016 Sep 21 -- Node.js SPb Meetup 1    
 ## Вопросы и ответы
 - 2013 Apr 27 -- [Я.Субботник](https://events.yandex.ru/lib/talks/845/)    
 - 2013 Apr 06 -- [Я.Субботник по фронтенду](https://events.yandex.ru/lib/talks/697/)    
