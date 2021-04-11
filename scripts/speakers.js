@@ -1,11 +1,8 @@
 const Mustache = require('mustache')
-const pify = require('pify')
 const yaml = require('js-yaml')
 
-const fs = require('fs')
+const fs = require('fs').promises
 const path = require('path')
-
-const readFile = pify(fs.readFile)
 
 function toFullDateString(date) {
     if (Array.isArray(date)) {
@@ -34,7 +31,7 @@ function getSpeakersData(speakerString, event, talk) {
 
 function parseSpeakersData(content) {
     try {
-        const data = yaml.safeLoad(content)
+        const data = yaml.load(content)
 
         return data
     } catch (err) {
@@ -44,7 +41,7 @@ function parseSpeakersData(content) {
 }
 
 async function writeAllSpeakers(groupedDataBySpeakers) {
-    const allSpeakersPattern = await readFile(path.resolve(__dirname, 'allSpeakers.mst'), 'utf-8')
+    const allSpeakersPattern = await fs.readFile(path.resolve(__dirname, 'allSpeakers.mst'), 'utf-8')
 
     const speakers = []
     for (const [speaker, data] of groupedDataBySpeakers.entries()) {
@@ -121,8 +118,8 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
 }
 
 async function writeBySpeakers(groupedDataBySpeakers) {
-    const speakerPattern = await readFile(path.resolve(__dirname, 'bySpeaker.mst'), 'utf-8')
-    const speakersData = parseSpeakersData(await readFile('speakers.yaml', 'utf-8'))
+    const speakerPattern = await fs.readFile(path.resolve(__dirname, 'bySpeaker.mst'), 'utf-8')
+    const speakersData = parseSpeakersData(await fs.readFile('speakers.yaml', 'utf-8'))
 
     const groupedBySpeakers = new Map()
 

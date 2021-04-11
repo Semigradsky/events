@@ -1,12 +1,9 @@
 const Mustache = require('mustache')
-const pify = require('pify')
 
-const fs = require('fs')
+const fs = require('fs').promises
 const path = require('path')
 
 const speakers = require('./speakers')
-
-const readFile = pify(fs.readFile)
 
 function toDateString(date) {
     if (Array.isArray(date)) {
@@ -59,7 +56,7 @@ function sortEvents(events) {
 }
 
 async function generateByYears(events) {
-    const pattern = await readFile(path.resolve(__dirname, 'byDate.mst'), 'utf-8')
+    const pattern = await fs.readFile(path.resolve(__dirname, 'byDate.mst'), 'utf-8')
 
     const groupedByYears = new Map()
     for (const event of events) {
@@ -94,7 +91,7 @@ async function generateByYears(events) {
 }
 
 async function generateByOrganizers(events) {
-    const pattern = await readFile(path.resolve(__dirname, 'byOrganizer.mst'), 'utf-8')
+    const pattern = await fs.readFile(path.resolve(__dirname, 'byOrganizer.mst'), 'utf-8')
 
     const groupedByOrganizers = new Map()
     for (const event of events) {

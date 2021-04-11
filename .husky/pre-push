@@ -1,0 +1,7 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+node scripts/index.js
+git add *.md **/*.md events/**/*.md
+git add -u
+git commit -m 'Autogenerate md'
