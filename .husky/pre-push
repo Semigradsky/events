@@ -5,3 +5,4 @@ node scripts/index.js
 git add *.md **/*.md events/**/*.md
 git add -u
 git commit -m 'Autogenerate md'
+git push --no-verify
