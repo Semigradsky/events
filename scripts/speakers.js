@@ -90,7 +90,9 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
                         code: speakerData.talk.code,
                         text: speakerData.talk.text,
                         date: toFullDateString(speakerData.event.date),
-                        rawDate: speakerData.event.date,
+                        isoFirstDate: Array.isArray(speakerData.event.date)
+                            ? speakerData.event.date[0].toISOString()
+                            : speakerData.event.date.toISOString(),
                     }],
                 })
                 return acc
@@ -104,7 +106,9 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
                 code: speakerData.talk.code,
                 text: speakerData.talk.text,
                 date: toFullDateString(speakerData.event.date),
-                rawDate: speakerData.event.date,
+                isoFirstDate: Array.isArray(speakerData.event.date)
+                    ? speakerData.event.date[0].toISOString()
+                    : speakerData.event.date.toISOString(),
             })
 
             return acc
@@ -112,12 +116,12 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
 
         talksData.forEach((talk) => {
             talk.events.sort((a, b) => {
-                return b.rawDate - a.rawDate
+                return b.isoFirstDate.localeCompare(a.isoFirstDate)
             })
         })
 
         talksData.sort((a, b) => {
-            return b.events[0].rawDate - a.events[0].rawDate
+            return b.events[0].isoFirstDate.localeCompare(a.events[0].isoFirstDate)
         })
 
         groupedBySpeakers.set(speaker,{
