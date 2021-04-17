@@ -3,6 +3,15 @@
 
 # Events / 2021 / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Я.Субботник по разработке интерфейсов - Apr 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ApGPxHjryHY)
+| | | |
+| --- | :---: | --- |
+| [Пути развития фронтендера в Яндексе](https://www.youtube.com/watch?v=ApGPxHjryHY&t=304s)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  |    |
+| [Как считать пользу общих компонентов](https://www.youtube.com/watch?v=ApGPxHjryHY&t=2620s)  |  [Сергей Савельев](speakers/Сергей%20Савельев.md)  |    |
+| [Приёмы оптимизации кода по скорости](https://www.youtube.com/watch?v=ApGPxHjryHY&t=5520s)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |  [:octocat:](https://gist.github.com/victor-homyakov/49b2e871e2c2c196b8a82b85d804c813)  |
+| [Трасси... что?](https://www.youtube.com/watch?v=ApGPxHjryHY&t=7855s)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
+| [Микрофронтенды и виджеты в 2021-м](https://www.youtube.com/watch?v=ApGPxHjryHY&t=11009s)  |  [Алексей Гусев](speakers/Алексей%20Гусев.md)  |    |
+| [Продвинутые дженерики в TypeScript](https://www.youtube.com/watch?v=ApGPxHjryHY&t=13542s)  |  [Александр Николаичев](speakers/Александр%20Николаичев.md)  |    |
 ## IWD 2021 - Mar 27 
 | | | |
 | --- | :---: | --- |

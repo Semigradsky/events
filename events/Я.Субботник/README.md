@@ -3,6 +3,15 @@
 
 # Я.Субботник
 
+## Я.Субботник по разработке интерфейсов - 2021 Apr 17 [:movie_camera:](https://www.youtube.com/watch?v=ApGPxHjryHY)
+| | | |
+| --- | :---: | --- |
+| [Пути развития фронтендера в Яндексе](https://www.youtube.com/watch?v=ApGPxHjryHY&t=304s)  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  |    |
+| [Как считать пользу общих компонентов](https://www.youtube.com/watch?v=ApGPxHjryHY&t=2620s)  |  [Сергей Савельев](../../speakers/Сергей%20Савельев.md)  |    |
+| [Приёмы оптимизации кода по скорости](https://www.youtube.com/watch?v=ApGPxHjryHY&t=5520s)  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |  [:octocat:](https://gist.github.com/victor-homyakov/49b2e871e2c2c196b8a82b85d804c813)  |
+| [Трасси... что?](https://www.youtube.com/watch?v=ApGPxHjryHY&t=7855s)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+| [Микрофронтенды и виджеты в 2021-м](https://www.youtube.com/watch?v=ApGPxHjryHY&t=11009s)  |  [Алексей Гусев](../../speakers/Алексей%20Гусев.md)  |    |
+| [Продвинутые дженерики в TypeScript](https://www.youtube.com/watch?v=ApGPxHjryHY&t=13542s)  |  [Александр Николаичев](../../speakers/Александр%20Николаичев.md)  |    |
 ## Я.Субботник по разработке интерфейсов - 2020 Nov 21 [:movie_camera:](https://www.youtube.com/watch?v=wTkeS-X_OIU)
 | | | |
 | --- | :---: | --- |
