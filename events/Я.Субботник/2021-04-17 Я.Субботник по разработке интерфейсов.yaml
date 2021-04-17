@@ -1,28 +1,29 @@
 name: Я.Субботник по разработке интерфейсов
 date: 2021-04-17
-videos: 
+videos: https://www.youtube.com/watch?v=ApGPxHjryHY
 talks:
   - name: Пути развития фронтендера в Яндексе
     speaker: Владимир Гриненко
-    video: 
+    video: https://www.youtube.com/watch?v=ApGPxHjryHY&t=304s
     presentation: 
   - name: Как считать пользу общих компонентов
     speaker: Сергей Савельев
-    video: 
+    video: https://www.youtube.com/watch?v=ApGPxHjryHY&t=2620s
     presentation: 
   - name: Приёмы оптимизации кода по скорости
     speaker: Виктор Хомяков
-    video: 
+    video: https://www.youtube.com/watch?v=ApGPxHjryHY&t=5520s
     presentation: 
+    code: https://gist.github.com/victor-homyakov/49b2e871e2c2c196b8a82b85d804c813
   - name: "Трасси... что?"
     speaker: Алексей Охрименко
-    video: 
+    video: https://www.youtube.com/watch?v=ApGPxHjryHY&t=7855s
     presentation: 
   - name: Микрофронтенды и виджеты в 2021-м
     speaker: Алексей Гусев
-    video: 
+    video: https://www.youtube.com/watch?v=ApGPxHjryHY&t=11009s
     presentation: 
   - name: Продвинутые дженерики в TypeScript
     speaker: Александр Николаичев
-    video: 
+    video: https://www.youtube.com/watch?v=ApGPxHjryHY&t=13542s
     presentation: 
