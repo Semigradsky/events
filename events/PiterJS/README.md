@@ -3,6 +3,10 @@
 
 # PiterJS
 
+## PiterJS 56 - 2021 Apr 15 [:movie_camera:](https://youtu.be/NAIrDAiaOik)
+| | | |
+| --- | :---: | --- |
+| [react suspense + http request cache](https://www.youtube.com/watch?v=NAIrDAiaOik&t=470s)  |  [Глеб Путинцев](../../speakers/Глеб%20Путинцев.md)  |    |
 ## PiterJS 55 - 2021 Mar 04 [:movie_camera:](https://www.youtube.com/watch?v=K9onhOaPuKc)
 | | | |
 | --- | :---: | --- |
@@ -82,6 +86,20 @@
 | [React + SSR там, где их уже не ждали](https://youtu.be/J0RLSBGorMY?t=650)  |  [Александр Зонов](../../speakers/Александр%20Зонов.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=react-ssr-wat.pdf)   |
 | [BDD e2e тестирование](https://youtu.be/J0RLSBGorMY?t=3647)  |  [Александр Иосса](../../speakers/Александр%20Иосса.md)  | [:notebook:](https://github.com/piterjs/slides/blob/master/meetup=41/speech=bdd-e2e.pdf)   |
 | [Event-Driven Architecture: детали реализаций Event Loop](https://www.youtube.com/watch?v=ctKseRpZcKQ)  |  [Вадим Горбачев](../../speakers/Вадим%20Горбачев.md)  |    |
+## PiterJS conf 2019 - 2019 Sep 07 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxhXhNINIvebZQkQO35eacOU)
+| | | |
+| --- | :---: | --- |
+| [Как запустить Telegram в VS Code](https://youtu.be/6krNF2WW5EA)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  | [:notebook:](https://fs.piterjs.org/events/conf2019/korotaev.pdf)   |
+| [GraphQL - уменьшаем энтропию](https://youtu.be/vEApxfG_sg0)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://fs.piterjs.org/events/conf2019/gurtovaya.pdf)   |
+| [Поддержка старых браузеров в CSS-in-JS на AST-преобразованиях](https://youtu.be/6OPFfdrxtwQ)  |  [Яна Менемчиадис](../../speakers/Яна%20Менемчиадис.md)  | [:notebook:](https://fs.piterjs.org/events/conf2019/yana.pdf)   |
+| [JSX в декларативные шаблоны с помощью AST](https://youtu.be/A8rRjcWNMIo)  |  [Александр Канунников](../../speakers/Александр%20Канунников.md)  | [:notebook:](https://fs.piterjs.org/events/conf2019/kanunnikov.pdf)   |
+| [Хроники Node.js: сообщество и корпорации](https://youtu.be/14fo6Kw-r60)  |  [Николай Матвиенко](../../speakers/Николай%20Матвиенко.md)  | [:notebook:](https://fs.piterjs.org/events/conf2019/matvienko.pdf)   |
+| [Как делать быстро прототипы приложений на современных технологиях](https://youtu.be/RFSNCbVlM2E)  |  [Рустам Имайкин](../../speakers/Рустам%20Имайкин.md)  | [:notebook:](https://fs.piterjs.org/events/conf2019/imaykin.pdf)   |
+| [Автоматизируй это. Гиперавтоматизированный пайплайн](https://youtu.be/F7JZlLIq4ZY)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  | [:notebook:](https://zolotyh.github.io/piterjsconf2019/)   |
+| [State of Vue (2k19 Q3)](https://youtu.be/Hs1Xdm4RKyE)  |  [Владимир Ульянов](../../speakers/Владимир%20Ульянов.md)  |    |
+| [Holy War between Designers &amp; Developers](https://youtu.be/elT8UOrtPU4)  |  [Павел Юхнович](../../speakers/Павел%20Юхнович.md)  | [:notebook:](https://fs.piterjs.org/events/conf2019/yuhnovich.pdf)   |
+| [Optimize the size of your SPA, битва за байты](https://youtu.be/ZtAmI9vW_rA)  |  [Дмитрий Пацура](../../speakers/Дмитрий%20Пацура.md)  | [:notebook:](https://fs.piterjs.org/events/conf2019/patsura.pdf)   |
+| [Как построить Гексагон: прагматичная архитектура для клиентских приложений](https://youtu.be/Pb8ExrULs10)  |  [Александр Мадьянкин](../../speakers/Александр%20Мадьянкин.md)  | [:notebook:](https://fs.piterjs.org/events/conf2019/madyankin.pdf)   |
 ## PiterJS 40 - 2019 Aug 16 [:movie_camera:](https://www.youtube.com/watch?v=4giWGkd7WSQ)
 | | | |
 | --- | :---: | --- |
