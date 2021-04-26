@@ -1,48 +1,48 @@
 name: PiterJS conf 2019
 date: 2019-09-07
-videos: https://www.youtube.com/watch?v=A_fzyRC6XvU
+videos: https://www.youtube.com/playlist?list=PLcXJ90eZ2bxhXhNINIvebZQkQO35eacOU
 talks:
   - name: Как запустить Telegram в VS Code
     speaker: Александр Коротаев
-    video:
-    presentation:
+    video: https://youtu.be/6krNF2WW5EA
+    presentation: https://fs.piterjs.org/events/conf2019/korotaev.pdf
   - name: GraphQL - уменьшаем энтропию
     speaker: Полина Гуртовая
-    video:
-    presentation:
+    video: https://youtu.be/vEApxfG_sg0
+    presentation: https://fs.piterjs.org/events/conf2019/gurtovaya.pdf
   - name: Поддержка старых браузеров в CSS-in-JS на AST-преобразованиях
     speaker: Яна Менемчиадис
-    video:
-    presentation:
+    video: https://youtu.be/6OPFfdrxtwQ
+    presentation: https://fs.piterjs.org/events/conf2019/yana.pdf
   - name: JSX в декларативные шаблоны с помощью AST
     speaker: Александр Канунников
-    video:
-    presentation:
+    video: https://youtu.be/A8rRjcWNMIo
+    presentation: https://fs.piterjs.org/events/conf2019/kanunnikov.pdf
   - name: "Хроники Node.js: сообщество и корпорации"
     speaker: Николай Матвиенко
-    video:
-    presentation:
+    video: https://youtu.be/14fo6Kw-r60
+    presentation: https://fs.piterjs.org/events/conf2019/matvienko.pdf
   - name: Как делать быстро прототипы приложений на современных технологиях
     speaker: Рустам Имайкин
-    video:
-    presentation:
+    video: https://youtu.be/RFSNCbVlM2E
+    presentation: https://fs.piterjs.org/events/conf2019/imaykin.pdf
   - name: Автоматизируй это. Гиперавтоматизированный пайплайн
     speaker: Алексей Золотых
-    video:
-    presentation:
+    video: https://youtu.be/F7JZlLIq4ZY
+    presentation: https://zolotyh.github.io/piterjsconf2019/
   - name: State of Vue (2k19 Q3)
     speaker: Владимир Ульянов
-    video:
+    video: https://youtu.be/Hs1Xdm4RKyE
     presentation:
   - name: Holy War between Designers & Developers
     speaker: Павел Юхнович
-    video:
-    presentation:
+    video: https://youtu.be/elT8UOrtPU4
+    presentation: https://fs.piterjs.org/events/conf2019/yuhnovich.pdf
   - name: Optimize the size of your SPA, битва за байты
     speaker: Дмитрий Пацура
-    video:
-    presentation:
+    video: https://youtu.be/ZtAmI9vW_rA
+    presentation: https://fs.piterjs.org/events/conf2019/patsura.pdf
   - name: "Как построить Гексагон: прагматичная архитектура для клиентских приложений"
     speaker: Александр Мадьянкин
-    video:
-    presentation:
+    video: https://youtu.be/Pb8ExrULs10
+    presentation: https://fs.piterjs.org/events/conf2019/madyankin.pdf

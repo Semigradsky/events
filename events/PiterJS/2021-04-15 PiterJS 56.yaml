@@ -1,8 +1,8 @@
 name: PiterJS 56
 date: 2021-04-15
-videos: 
+videos: https://youtu.be/NAIrDAiaOik
 talks:
   - name: react suspense + http request cache
     speaker: Глеб Путинцев
-    video: 
+    video: https://www.youtube.com/watch?v=NAIrDAiaOik&t=470s
     presentation: 
