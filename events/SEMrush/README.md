@@ -3,6 +3,12 @@
 
 # SEMrush
 
+## SEMrush IT meetup 3 - 2020 Dec 03 [:movie_camera:](https://www.youtube.com/watch?v=of-0MmwHzIo)
+| | | |
+| --- | :---: | --- |
+| [Выстраиваем процесс работы над скоростью сервиса](https://www.youtube.com/watch?v=of-0MmwHzIo)  |  [Иван Карев](../../speakers/Иван%20Карев.md)  |    |
+| [Оптимизация производительности фронтенда на примерах](https://www.youtube.com/watch?v=of-0MmwHzIo)  |  [Ирина Соколовская](../../speakers/Ирина%20Соколовская.md)  |    |
+| [В погоне за TTI: как мы ускорили инструмент в два раза](https://www.youtube.com/watch?v=of-0MmwHzIo)  |  [Алексей Воробьёв](../../speakers/Алексей%20Воробьёв.md)  |    |
 ## SEMrush IT meetup 2 - 2019 Dec 11 [:movie_camera:](https://www.youtube.com/watch?v=8xm5R-wEfmk)
 | | | |
 | --- | :---: | --- |
