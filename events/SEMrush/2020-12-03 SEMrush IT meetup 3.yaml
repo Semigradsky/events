@@ -1,16 +1,16 @@
 name: SEMrush IT meetup 3
 date: 2020-12-03
-videos: 
+videos: https://www.youtube.com/watch?v=of-0MmwHzIo
 talks:
   - name: Выстраиваем процесс работы над скоростью сервиса
     speaker: Иван Карев
-    video: 
+    video: https://www.youtube.com/watch?v=of-0MmwHzIo
     presentation: 
   - name: Оптимизация производительности фронтенда на примерах
     speaker: Ирина Соколовская
-    video: 
+    video: https://www.youtube.com/watch?v=of-0MmwHzIo
     presentation: 
   - name: "В погоне за TTI: как мы ускорили инструмент в два раза"
     speaker: Алексей Воробьёв
-    video: 
+    video: https://www.youtube.com/watch?v=of-0MmwHzIo
     presentation: 
