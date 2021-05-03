@@ -1,0 +1,24 @@
+name: Ember.js NN Meetup 3
+date: 2021-05-14
+videos: 
+talks:
+  - name: Доступная магия AST трансформов в Ember
+    speaker: Андрей Фель
+    video: 
+    presentation: 
+  - name: Behavior-Driven Development с помощью Cucumber или как не подавиться огурцом. ЧАСТЬ 2
+    speaker: Андрей Михайлов
+    video: 
+    presentation: 
+  - name: i18n в ember приложениях. Практика.
+    speaker: Андрей Каравашкин
+    video: 
+    presentation: 
+  - name: Mirage JS — Mock сервер рожденный в Ember
+    speaker: Максим Масленников
+    video: 
+    presentation: 
+  - name: Runtime Type Safety in Ember using io-ts
+    speaker: Роман Трущев
+    video: 
+    presentation: 
