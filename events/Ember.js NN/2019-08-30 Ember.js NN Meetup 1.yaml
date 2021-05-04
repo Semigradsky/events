@@ -1,28 +1,32 @@
 name: Ember.js NN Meetup 1
 date: 2019-08-30
-videos: ''
+videos: https://www.youtube.com/playlist?list=PLHmOYA1JrOhON-uosmutHoVCPAecQ5FpC
 talks:
   - name: Behavior-Driven Development с помощью Cucumber или как не подавиться огурцом.
     speaker: Андрей Михайлов
-    video:
+    video: https://youtu.be/i6-lCUZQ8_w
     presentation:
     tags:
       - 'Ember'
   - name: JSX шаблоны в Ember. AST деревья, байткод, синтаксические особенности.
     speaker: Александр Канунников
-    video:
+    video: https://youtu.be/y9eJ2b9Egok
     presentation:
     tags:
       - 'Ember'
   - name: Фокусируемся на важном с Ember и Firebase
     speaker: Михаил Логинов
-    video:
+    video: https://youtu.be/oAspZsF-f2A
     presentation:
     tags:
       - 'Ember'
-  - name: "\"Управление CSS свойствами с помощью аудио сигнала\" и \"Первый взгляд на React после Ember\""
+  - name: Управление CSS свойствами с помощью аудио сигнала
     speaker: Максим Масленников
-    video:
+    video: https://youtu.be/0OiNEoeCe7U
     presentation:
     tags:
       - 'Ember'
+  - name: Первый взгляд на React после Ember
+    speaker: Максим Масленников
+    video: https://youtu.be/cLyV8eFVqo0
+    presentation: 
