@@ -3,6 +3,13 @@
 
 # Events / 2021 / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Hot Frontend - Apr 24 
+| | | |
+| --- | :---: | --- |
+| Server Side Rendering для React-приложения с Next.js  |  [Елена X](speakers/Елена%20X.md)  | [:notebook:](https://docs.google.com/presentation/d/117mazgvWQdpOkWhlXA3e91l1_kfFLP22Z2FydVK66To/edit)   |
+| Какие soft skills помогают пройти Frontend-практикум от SimbirSoft  |  [Дмитрий X](speakers/Дмитрий%20X.md)  | [:notebook:](https://docs.google.com/presentation/d/13sQ-gLYh7U_aQIP9hpZ_nHswNOmQWPtX_Gc85_pf3Fk/edit)   |
+| Безопасность клиентской части web-приложений  |  [Анатолий X](speakers/Анатолий%20X.md)  | [:notebook:](https://docs.google.com/presentation/d/1h5edyZAdOx-wg3tqsHA8tlsf25xlqX2s-CLYQZVcCnY/edit)   |
+| Angular library: создание и использование на большом проекте  |  [Степан X](speakers/Степан%20X.md)  | [:notebook:](https://docs.google.com/presentation/d/14z7Ce9W_LmH_rW8gAdUhUtVPkw5Bf6X65PACbvAuzmQ/edit)   |
 ## Я.Субботник по разработке интерфейсов - Apr 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SSQzEjU7ZFVn22OyQC5fJHv)
 | | | |
 | --- | :---: | --- |
@@ -16,10 +23,31 @@
 | | | |
 | --- | :---: | --- |
 | [react suspense + http request cache](https://www.youtube.com/watch?v=NAIrDAiaOik&t=470s)  |  [Глеб Путинцев](speakers/Глеб%20Путинцев.md)  |    |
+## Podlodka Frontend Crew - Apr 12-23 
+| | | |
+| --- | :---: | --- |
+| Батон хлеба в 4к или как работать с изображениями в вебе  |  [Илья Куликов](speakers/Илья%20Куликов.md)  |    |
+| Оптимизации в бандлерах  |  [Иван Копейкин](speakers/Иван%20Копейкин.md)  |    |
+| Решили заняться перформансом, а с чего начать…?  |  [Антон Тужик](speakers/Антон%20Тужик.md)  |    |
+| Публичное собеседование  |  [Дмитрий Малахов](speakers/Дмитрий%20Малахов.md)  |    |
+| Оптимизируем размер бандла с помощью Webpack [Live-coding]  |  [Ирина Соколовская](speakers/Ирина%20Соколовская.md)  |    |
+| Performance Profiling: 101  |  [Артём Белов](speakers/Артём%20Белов.md)  |    |
+| Как в различных компаниях подходят к работе над перформансом [Круглый стол]  |  [Николай Рябов](speakers/Николай%20Рябов.md)  [Владимир Голотин](speakers/Владимир%20Голотин.md)  [Артём Белов](speakers/Артём%20Белов.md)  |    |
+| Как систематизировать работу над performance у себя в компании?  |  [Дмитрий Романов](speakers/Дмитрий%20Романов.md)  |    |
+| Перформанс-линч ваших проектов  |  [Николай Рябов](speakers/Николай%20Рябов.md)  [Артём Белов](speakers/Артём%20Белов.md)  |    |
+| [Эффективное тестирование фронтенда](https://www.youtube.com/watch?v=e9DRhxRwsfU)  |  [Кирилл Мокевнин](speakers/Кирилл%20Мокевнин.md)  |    |
+| Введение в юнит тесты  |  [Сергей Рябенко](speakers/Сергей%20Рябенко.md)  |    |
+| Как стандарты кодирования помогают при разработке библиотек  |  [Игорь Шеко](speakers/Игорь%20Шеко.md)  |    |
+| TDD: зачем и как  |  [Александр Беспоясов](speakers/Александр%20Беспоясов.md)  |    |
+| Кажется, пора типизировать твой код  |  [Елена Рашкован](speakers/Елена%20Рашкован.md)  |    |
+| [Круглый стол по качеству и стабильности](https://www.youtube.com/watch?v=yumnasnGoyY)  |  [Алексей Остапенко](speakers/Алексей%20Остапенко.md)  [Кирилл Мокевнин](speakers/Кирилл%20Мокевнин.md)  [Владимир Голотин](speakers/Владимир%20Голотин.md)  |    |
+| Мониторинг ошибок на клиенте и методы для поиска причин этих ошибок  |  [Валерий Кондратьев](speakers/Валерий%20Кондратьев.md)  |    |
+| Code Review: лучшая практика или трата времени?  |  [Анатолий Носов](speakers/Анатолий%20Носов.md)  |    |
+| Github actions: настраиваем CI&#x2F;CD, не будя девопса  |  [Екатерина Павленко](speakers/Екатерина%20Павленко.md)  |    |
 ## IWD 2021 - Mar 27 
 | | | |
 | --- | :---: | --- |
-| [Версия для слабовидящих? А можно не надо?](https://youtu.be/F8RZTWeaDnY)  |  [Лена Райан](speakers/Лена%20Райан.md)  | [:notebook:](https://lenaryan.github.io/u-dont-need-blind-version/)   |
+| [Версия для слабовидящих? А можно не надо?](https://youtu.be/F8RZTWeaDnY)  |  [Лена Райан](speakers/Лена%20Райан.md)  | [:notebook:](https://lenaryan.github.io/u-dont-need-blind-version/)  [:spiral_notepad:](https://css-live.ru/articles/versiya-dlya-slabovidyashhix-a-mozhno-ne-nado-rasshifrovka-doklada.html) |
 | [Веб-производительность и внешние сервисы: история одной интеграции](https://youtu.be/3BaikNwayIE)  |  [Ирина Соколовская](speakers/Ирина%20Соколовская.md)  | [:notebook:](https://docs.google.com/presentation/d/1erRED_4taCx4fgahpG0bCVwYIXcqSRB9mJ5DqddmaBc/edit)   |
 | [Топ-10 CSS-свойств аниматора](https://youtu.be/fFRADs5R9ME)  |  [Юлия Миоцен](speakers/Юлия%20Миоцен.md)  |    |
 | [История пиксельных котиков. Что изменилось за 30 лет?](https://youtu.be/b7FtH75um-M)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  | [:notebook:](https://speakerdeck.com/hellsquirrel/istoriia-piksiel-nykh-kotikov-chto-izmienilos-za-30-liet) [:octocat:](https://github.com/HellSquirrel/cats-pixels-images)  |

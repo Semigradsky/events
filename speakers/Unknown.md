@@ -3,8 +3,6 @@
 
 # Unknown
 
-## Круглый стол по качеству и стабильности
-- 2021 Apr 12-23 -- Podlodka Frontend Crew    
 ## Развитие джуниор-разработчиков
 - 2021 Mar 25 -- [MoscowJS Online 3](https://www.youtube.com/watch?v=h1NhbbzCIBM)    
 ## Angular Universal Advanced

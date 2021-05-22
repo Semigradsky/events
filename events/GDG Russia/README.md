@@ -6,7 +6,7 @@
 ## IWD 2021 - 2021 Mar 27 
 | | | |
 | --- | :---: | --- |
-| [Версия для слабовидящих? А можно не надо?](https://youtu.be/F8RZTWeaDnY)  |  [Лена Райан](../../speakers/Лена%20Райан.md)  | [:notebook:](https://lenaryan.github.io/u-dont-need-blind-version/)   |
+| [Версия для слабовидящих? А можно не надо?](https://youtu.be/F8RZTWeaDnY)  |  [Лена Райан](../../speakers/Лена%20Райан.md)  | [:notebook:](https://lenaryan.github.io/u-dont-need-blind-version/)  [:spiral_notepad:](https://css-live.ru/articles/versiya-dlya-slabovidyashhix-a-mozhno-ne-nado-rasshifrovka-doklada.html) |
 | [Веб-производительность и внешние сервисы: история одной интеграции](https://youtu.be/3BaikNwayIE)  |  [Ирина Соколовская](../../speakers/Ирина%20Соколовская.md)  | [:notebook:](https://docs.google.com/presentation/d/1erRED_4taCx4fgahpG0bCVwYIXcqSRB9mJ5DqddmaBc/edit)   |
 | [Топ-10 CSS-свойств аниматора](https://youtu.be/fFRADs5R9ME)  |  [Юлия Миоцен](../../speakers/Юлия%20Миоцен.md)  |    |
 | [История пиксельных котиков. Что изменилось за 30 лет?](https://youtu.be/b7FtH75um-M)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://speakerdeck.com/hellsquirrel/istoriia-piksiel-nykh-kotikov-chto-izmienilos-za-30-liet) [:octocat:](https://github.com/HellSquirrel/cats-pixels-images)  |

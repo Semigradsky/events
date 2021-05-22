@@ -3,6 +3,13 @@
 
 # SimbirSoft
 
+## Hot Frontend - 2021 Apr 24 
+| | | |
+| --- | :---: | --- |
+| Server Side Rendering для React-приложения с Next.js  |  [Елена X](../../speakers/Елена%20X.md)  | [:notebook:](https://docs.google.com/presentation/d/117mazgvWQdpOkWhlXA3e91l1_kfFLP22Z2FydVK66To/edit)   |
+| Какие soft skills помогают пройти Frontend-практикум от SimbirSoft  |  [Дмитрий X](../../speakers/Дмитрий%20X.md)  | [:notebook:](https://docs.google.com/presentation/d/13sQ-gLYh7U_aQIP9hpZ_nHswNOmQWPtX_Gc85_pf3Fk/edit)   |
+| Безопасность клиентской части web-приложений  |  [Анатолий X](../../speakers/Анатолий%20X.md)  | [:notebook:](https://docs.google.com/presentation/d/1h5edyZAdOx-wg3tqsHA8tlsf25xlqX2s-CLYQZVcCnY/edit)   |
+| Angular library: создание и использование на большом проекте  |  [Степан X](../../speakers/Степан%20X.md)  | [:notebook:](https://docs.google.com/presentation/d/14z7Ce9W_LmH_rW8gAdUhUtVPkw5Bf6X65PACbvAuzmQ/edit)   |
 ## Hot Frontend - 2020 Aug 27 [:movie_camera:](https://www.youtube.com/watch?v=4kQVg2QwCGQ)
 | | | |
 | --- | :---: | --- |
