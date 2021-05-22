@@ -8,11 +8,11 @@ talks:
     speaker: Илья Куликов
     video: 
     presentation: 
-  - name: Про то как оптимизировать размер в любом инструменте [Live-coding]
+  - name: Оптимизации в бандлерах
     speaker: Иван Копейкин
     video: 
     presentation: 
-  - name: Поднятие PageSpeed index
+  - name: Решили заняться перформансом, а с чего начать…?
     speaker: Антон Тужик
     video: 
     presentation: 
@@ -20,7 +20,7 @@ talks:
     speaker: Дмитрий Малахов
     video: 
     presentation: 
-  - name: Про то как оптимизировать размер в любом инструменте [Live-coding]
+  - name: Оптимизируем размер бандла с помощью Webpack [Live-coding]
     speaker: Ирина Соколовская
     video: 
     presentation: 
@@ -32,7 +32,7 @@ talks:
     speaker: Николай Рябов, Владимир Голотин, Артём Белов
     video: 
     presentation: 
-  - name: Как продать своему продакту улучшения по перформансу?
+  - name: Как систематизировать работу над performance у себя в компании?
     speaker: Дмитрий Романов
     video: 
     presentation: 
@@ -40,11 +40,11 @@ talks:
     speaker: Николай Рябов, Артём Белов
     video: 
     presentation: 
-  - name: Обзорный доклад по качеству и стабильности
+  - name: Эффективное тестирование фронтенда
     speaker: Кирилл Мокевнин
-    video: 
+    video: https://www.youtube.com/watch?v=e9DRhxRwsfU
     presentation: 
-  - name: Unit-тесты
+  - name: Введение в юнит тесты
     speaker: Сергей Рябенко
     video: 
     presentation: 
@@ -52,27 +52,27 @@ talks:
     speaker: Игорь Шеко
     video: 
     presentation: 
-  - name: TDD
+  - name: "TDD: зачем и как"
     speaker: Александр Беспоясов
     video: 
     presentation: 
-  - name: Как TS спасает от факапов
+  - name: Кажется, пора типизировать твой код
     speaker: Елена Рашкован
     video: 
     presentation: 
   - name: Круглый стол по качеству и стабильности
-    speaker: 'Unknown'
-    video: 
+    speaker: Алексей Остапенко, Кирилл Мокевнин, Владимир Голотин
+    video: https://www.youtube.com/watch?v=yumnasnGoyY
     presentation: 
   - name: Мониторинг ошибок на клиенте и методы для поиска причин этих ошибок
     speaker: Валерий Кондратьев
     video: 
     presentation: 
-  - name: Доклад про правильное проведение код-ревью
+  - name: "Code Review: лучшая практика или трата времени?"
     speaker: Анатолий Носов
     video: 
     presentation: 
-  - name: Настраиваем CI/CD в Github Actions
+  - name: "Github actions: настраиваем CI/CD, не будя девопса"
     speaker: Екатерина Павленко
     video: 
     presentation: 
