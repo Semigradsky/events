@@ -1,0 +1,20 @@
+name: Hot Frontend
+date: 2021-06-17
+videos: 
+talks:
+  - name: Какие soft skills помогают пройти Frontend-практикум от Simbirsoft
+    speaker: Александр X
+    video: 
+    presentation: 
+  - name: Применение библиотеки three.js для 2D-графики внутри React-приложения
+    speaker: Дмитрий X
+    video: 
+    presentation: 
+  - name: "Angular library: создание и использование на большом проекте"
+    speaker: Степан X
+    video: 
+    presentation: 
+  - name: "Работай играючи: опыт разработки игры для банка"
+    speaker: Антон X
+    video: 
+    presentation: 

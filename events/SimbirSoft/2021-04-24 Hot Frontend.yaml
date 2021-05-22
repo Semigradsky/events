@@ -1,0 +1,20 @@
+name: Hot Frontend
+date: 2021-04-24
+videos: 
+talks:
+  - name: Server Side Rendering для React-приложения с Next.js
+    speaker: Елена X
+    video: 
+    presentation: https://docs.google.com/presentation/d/117mazgvWQdpOkWhlXA3e91l1_kfFLP22Z2FydVK66To/edit
+  - name: Какие soft skills помогают пройти Frontend-практикум от SimbirSoft
+    speaker: Дмитрий X
+    video: 
+    presentation: https://docs.google.com/presentation/d/13sQ-gLYh7U_aQIP9hpZ_nHswNOmQWPtX_Gc85_pf3Fk/edit
+  - name: Безопасность клиентской части web-приложений
+    speaker: Анатолий X
+    video: 
+    presentation: https://docs.google.com/presentation/d/1h5edyZAdOx-wg3tqsHA8tlsf25xlqX2s-CLYQZVcCnY/edit
+  - name: "Angular library: создание и использование на большом проекте"
+    speaker: Степан X
+    video: 
+    presentation: https://docs.google.com/presentation/d/14z7Ce9W_LmH_rW8gAdUhUtVPkw5Bf6X65PACbvAuzmQ/edit
