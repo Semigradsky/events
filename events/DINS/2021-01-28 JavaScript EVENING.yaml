@@ -1,12 +1,12 @@
 name: DINS - JavaScript EVENING
 date: 2021-01-28
-videos: 
+videos: https://www.youtube.com/playlist?list=PLhhTXwj6_Fl3yCIJjnwejB1xTKomm1rGJ
 talks:
   - name: Инструменты отладки в Chrome DevTools
     speaker: Андрей Соколов
-    video: 
+    video: https://youtu.be/zzkX1LQPddk
     presentation: 
   - name: Cypress как оружие против багов на проекте со сложной бизнес-логикой
     speaker: Константин Поздникин
-    video: 
+    video: https://youtu.be/OX88aSDcf6U
     presentation: 
