@@ -3,6 +3,11 @@
 
 # DINS
 
+## DINS - JavaScript EVENING - 2021 Jan 28 [:movie_camera:](https://www.youtube.com/playlist?list=PLhhTXwj6_Fl3yCIJjnwejB1xTKomm1rGJ)
+| | | |
+| --- | :---: | --- |
+| [Инструменты отладки в Chrome DevTools](https://youtu.be/zzkX1LQPddk)  |  [Андрей Соколов](../../speakers/Андрей%20Соколов.md)  |    |
+| [Cypress как оружие против багов на проекте со сложной бизнес-логикой](https://youtu.be/OX88aSDcf6U)  |  [Константин Поздникин](../../speakers/Константин%20Поздникин.md)  |    |
 ## DINS - JavaScript EVENING - 2020 Sep 30 [:movie_camera:](https://www.youtube.com/playlist?list=PLhhTXwj6_Fl0TwVg89IlpwBjw2_Wj605u)
 | | | |
 | --- | :---: | --- |

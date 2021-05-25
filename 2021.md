@@ -80,6 +80,11 @@
 | | | |
 | --- | :---: | --- |
 | [Круглый стол: Собеседования глазами компании](https://www.youtube.com/watch?v=ll3aCbLMLqI)  |  [Никита Шуклин](speakers/Никита%20Шуклин.md)  [Андрей Ситник](speakers/Андрей%20Ситник.md)  [Игорь Камышев](speakers/Игорь%20Камышев.md)  [Ольга Шпунтенко](speakers/Ольга%20Шпунтенко.md)  [Сергей Бережной](speakers/Сергей%20Бережной.md)  |    |
+## DINS - JavaScript EVENING - Jan 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLhhTXwj6_Fl3yCIJjnwejB1xTKomm1rGJ)
+| | | |
+| --- | :---: | --- |
+| [Инструменты отладки в Chrome DevTools](https://youtu.be/zzkX1LQPddk)  |  [Андрей Соколов](speakers/Андрей%20Соколов.md)  |    |
+| [Cypress как оружие против багов на проекте со сложной бизнес-логикой](https://youtu.be/OX88aSDcf6U)  |  [Константин Поздникин](speakers/Константин%20Поздникин.md)  |    |
 ## pitera11y_meetup 3 - Jan 20 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;LIi-fRukS1Y)
 | | | |
 | --- | :---: | --- |
