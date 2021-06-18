@@ -1,20 +1,16 @@
 name: OdessaFrontend Meetup 16
 date: 2020-09-30
-videos: 
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0unNwKiCTshoFT4mZx88B3t
 talks:
   - name: Cлайдер на CSS
     speaker: Владислав Цугульский
-    video: 
-    presentation: 
+    video: https://youtu.be/J_-WpNpfoyk
+    presentation: https://www.slideshare.net/odessafrontend/c-css-odessafrontend-meetup-16
   - name: Фриланс как профессиональная деградация
     speaker: Константин Кулаксыз
-    video: 
-    presentation: 
+    video: https://youtu.be/n52Z2LxKVBw
+    presentation: https://www.slideshare.net/odessafrontend/odessafrontend-meetup-16
   - name: Объекты в ECMAScript
     speaker: Дмитрий Барабанов
-    video: 
-    presentation: 
-  - name: Викторина
-    speaker: Николай Птущук
-    video: 
-    presentation: 
+    video: https://youtu.be/Nv3Kn7TMMjk
+    presentation: https://www.slideshare.net/odessafrontend/ecmascript-odessafrontend-meetup-16
