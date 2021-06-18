@@ -3,7 +3,13 @@
 
 # OdessaFrontend
 
-## OdessaFrontend Meetup 15 - 2020 Feb 21 
+## OdessaFrontend Meetup 16 - 2020 Sep 30 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0unNwKiCTshoFT4mZx88B3t)
+| | | |
+| --- | :---: | --- |
+| [Cлайдер на CSS](https://youtu.be/J_-WpNpfoyk)  |  [Владислав Цугульский](../../speakers/Владислав%20Цугульский.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/c-css-odessafrontend-meetup-16)   |
+| [Фриланс как профессиональная деградация](https://youtu.be/n52Z2LxKVBw)  |  [Константин Кулаксыз](../../speakers/Константин%20Кулаксыз.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-16)   |
+| [Объекты в ECMAScript](https://youtu.be/Nv3Kn7TMMjk)  |  [Дмитрий Барабанов](../../speakers/Дмитрий%20Барабанов.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/ecmascript-odessafrontend-meetup-16)   |
+## OdessaFrontend Meetup 15 - 2020 Feb 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0s1ywSuLunhxdCdqybin7ts)
 | | | |
 | --- | :---: | --- |
 | [Пощупать 3д в браузере](https://youtu.be/OarHR-CmJnI)  |  [Константин Плаксивый](../../speakers/Константин%20Плаксивый.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/3-odessafrontend-meetup-15)   |

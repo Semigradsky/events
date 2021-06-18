@@ -3,6 +3,25 @@
 
 # fwdays
 
+## JavaScript fwdays&#39;21 - 2021 Jun 01-08 
+| | | |
+| --- | :---: | --- |
+| Live stream: Recreational coding  |  [Юрий Артюх](../../speakers/Юрий%20Артюх.md)  |    |
+| Deep dive Into NestJS  |  [Никита Галкин](../../speakers/Никита%20Галкин.md)  |    |
+| Electron. How the most modern framework works  |  [Алексей Голубев](../../speakers/Алексей%20Голубев.md)  | [:notebook:](https://www.slideshare.net/fwdays/electron-how-the-most-modern-framework-works-oleksii-holubiev)   |
+| Discussion. Monorepo. Pros and cons  |  [Остап Червак](../../speakers/Остап%20Червак.md)  [Алексей Левжинский](../../speakers/Алексей%20Левжинский.md)  [Антон Веринов](../../speakers/Антон%20Веринов.md)  [Евгений Обрезков](../../speakers/Евгений%20Обрезков.md)  [Алексей Распопов](../../speakers/Алексей%20Распопов.md)  |    |
+| Everywhere is undefined: using the “script” part of JS  |  [Антон Веринов](../../speakers/Антон%20Веринов.md)  | [:notebook:](https://www.slideshare.net/fwdays/everywhere-is-undefined-using-the-script-part-of-js-anton-verinov)   |
+| How to grow skilled developers and gather reliable teams  |  [Елена Жукова](../../speakers/Елена%20Жукова.md)  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  [Виктор Турский](../../speakers/Виктор%20Турский.md)  |    |
+| [WORKSHOP] Full-Stack Kata  |  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  |    |
+| Technical Challenges behind Visual IDE for React Components [uk] |  [Тетяна Мандзюк](../../speakers/Тетяна%20Мандзюк.md)  | [:notebook:](https://www.slideshare.net/fwdays/technical-challenges-behind-visual-ide-for-react-components-tetiana-mandziuk)   |
+| Real-time Collaborative Text Editing on Grammarly’s Front-End Team  |  [Алексей Левжинский](../../speakers/Алексей%20Левжинский.md)  | [:notebook:](https://www.slideshare.net/fwdays/realtime-collaborative-text-editing-on-grammarlys-frontend-team-oleksii-levzhynskyi)   |
+| Условно адаптивно  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://www.slideshare.net/fwdays/conditionally-adaptive-vadim-makeev)   |
+| 13 ways to run web applications on the Internet [uk] |  [Андрей Шумада](../../speakers/Андрей%20Шумада.md)  |    |
+| React Query: the next big thing?  |  [Антон Худяков](../../speakers/Антон%20Худяков.md)  |    |
+| Metarhia technology stack for Node.js  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs)   |
+| JS trends uncovered  |  [Владимир Вышко](../../speakers/Владимир%20Вышко.md)  | [:notebook:](https://slides.com/vladimirvyshko/js-dev-in-the-wonderland)   |
+| TypeScript cargo-cult in Ukrainian outsourcers  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
+| The little big project. From zero to hero in two weeks with 3 front-end engineers only  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  | [:notebook:](https://www.slideshare.net/fwdays/the-little-big-project-from-zero-to-hero-in-two-weeks-with-3-frontend-engineers-only-andrey-melikhov)   |
 ## Vue.js fwdays&#39;20 - 2020 Nov 24-28 
 | | | |
 | --- | :---: | --- |
@@ -35,8 +54,8 @@
 | --- | :---: | --- |
 | [История другой анимации](https://youtu.be/2JLWxX74b30)  |  [Юрий Артюх](../../speakers/Юрий%20Артюх.md)  |    |
 | [Web Locks API in Node.js and browser](https://youtu.be/auMM-uV12F0)  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/tshemsedinov/web-locks-api)   |
-| [&#39;Devide et impera&#39; with GraphQL and SSR](https://youtu.be/i1LtjUYtduI) [uk] |  [Олександр Мостовенко](../../speakers/Олександр%20Мостовенко.md)  | [:notebook:](https://www.slideshare.net/fwdays/alexander-mostovenko-devide-at-impera-with-graphql-and-ssr)   |
-| [Жодних відмазок, щоб не писати тести!](https://youtu.be/h07k067qWUk) [uk] |  [Андрій Шумада](../../speakers/Андрій%20Шумада.md)  | [:notebook:](https://www.slideshare.net/fwdays/andrii-shumada-no-excuses-for-not-writing-tests)   |
+| [&#39;Devide et impera&#39; with GraphQL and SSR](https://youtu.be/i1LtjUYtduI) [uk] |  [Александр Мостовенко](../../speakers/Александр%20Мостовенко.md)  | [:notebook:](https://www.slideshare.net/fwdays/alexander-mostovenko-devide-at-impera-with-graphql-and-ssr)   |
+| [Жодних відмазок, щоб не писати тести!](https://youtu.be/h07k067qWUk) [uk] |  [Андрей Шумада](../../speakers/Андрей%20Шумада.md)  | [:notebook:](https://www.slideshare.net/fwdays/andrii-shumada-no-excuses-for-not-writing-tests)   |
 | [Release Early, Often, Stable](https://youtu.be/DNO7FhdyKqc)  |  [Алексей Куприяненко](../../speakers/Алексей%20Куприяненко.md)  | [:notebook:](https://www.slideshare.net/fwdays/alexey-kupriyanenko-release-early-often-stable)   |
 | [Эффективная разработка NodeJS приложений](https://youtu.be/g0I2dNwK1BE)  |  [Виктор Турский](../../speakers/Виктор%20Турский.md)  | [:notebook:](https://www.slideshare.net/fwdays/viktor-turskyi-effective-nodejs-application-development)   |
 ## JavaScript fwdays&#39;19 - 2019 Mar 16 
@@ -60,7 +79,7 @@
 | [Beyond The Limitations of Frontend—Onto Fullstack Journey!](https://fwdays.com/en/event/js-fwdays-2019/review/beyond-the-limitations-of-frontend)  |  [Ilona Demidenko](../../speakers/Ilona%20Demidenko.md)  |    |
 | [REPL, do you speak it](https://fwdays.com/en/event/js-fwdays-2019/review/repl)  |  [Александр Соловьев](../../speakers/Александр%20Соловьев.md)  |    |
 | [Reactive Powered: RxJS with Angular Forms](https://fwdays.com/en/event/js-fwdays-2019/review/angular-forms) [en] |  [Shmuela Jacobs](../../speakers/Shmuela%20Jacobs.md)  |    |
-| [Solving behavioral complexity with FRP](https://fwdays.com/en/event/js-fwdays-2019/review/solving-behavioral-complexity-with-frp)  |  [Oleksii Levzhynskyi](../../speakers/Oleksii%20Levzhynskyi.md)  |    |
+| [Solving behavioral complexity with FRP](https://fwdays.com/en/event/js-fwdays-2019/review/solving-behavioral-complexity-with-frp)  |  [Алексей Левжинский](../../speakers/Алексей%20Левжинский.md)  |    |
 | [Hinting at a better web](https://fwdays.com/event/js-fwdays-2019/review/hinting-at-a-better-web) [en] |  [Christian Heilmann](../../speakers/Christian%20Heilmann.md)  |    |
 ## JavaScript fwdays&#39;18 - 2018 Mar 18 [:movie_camera:](https://www.youtube.com/playlist?list=PLPcgQFk9n9y8_G0Gyh0yqDuiZqy15RLDo)
 | | | |
