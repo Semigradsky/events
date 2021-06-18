@@ -1,0 +1,72 @@
+name: JavaScript fwdays'21
+date:
+  - 2021-06-01
+  - 2021-06-08
+videos: 
+talks:
+  - name: "Live stream: Recreational coding"
+    speaker: Юрий Артюх
+    video: 
+    presentation: 
+  - name: Deep dive Into NestJS
+    speaker: Никита Галкин
+    video: 
+    presentation: 
+  - name: Electron. How the most modern framework works
+    speaker: Алексей Голубев
+    video: 
+    presentation: https://www.slideshare.net/fwdays/electron-how-the-most-modern-framework-works-oleksii-holubiev
+  - name: Discussion. Monorepo. Pros and cons
+    speaker: Остап Червак, Алексей Левжинский, Антон Веринов, Евгений Обрезков, Алексей Распопов
+    video: 
+    presentation: 
+  - name: "Everywhere is undefined: using the “script” part of JS"
+    speaker: Антон Веринов
+    video: 
+    presentation: https://www.slideshare.net/fwdays/everywhere-is-undefined-using-the-script-part-of-js-anton-verinov
+  - name: How to grow skilled developers and gather reliable teams
+    speaker: Елена Жукова, Андрей Мелихов, Виктор Турский
+    video: 
+    presentation: 
+  - name: "[WORKSHOP] Full-Stack Kata"
+    speaker: Андрей Листочкин
+    video: 
+    presentation: 
+  - name: Technical Challenges behind Visual IDE for React Components
+    speaker: Тетяна Мандзюк
+    lang: uk
+    video: 
+    presentation: https://www.slideshare.net/fwdays/technical-challenges-behind-visual-ide-for-react-components-tetiana-mandziuk
+  - name: Real-time Collaborative Text Editing on Grammarly’s Front-End Team
+    speaker: Алексей Левжинский
+    video: 
+    presentation: https://www.slideshare.net/fwdays/realtime-collaborative-text-editing-on-grammarlys-frontend-team-oleksii-levzhynskyi
+  - name: Условно адаптивно
+    speaker: Вадим Макеев
+    video: 
+    presentation: https://www.slideshare.net/fwdays/conditionally-adaptive-vadim-makeev
+  - name: 13 ways to run web applications on the Internet
+    speaker: Андрей Шумада
+    lang: uk
+    video: 
+    presentation: 
+  - name: "React Query: the next big thing?"
+    speaker: Антон Худяков
+    video: 
+    presentation: 
+  - name: Metarhia technology stack for Node.js
+    speaker: Тимур Шемсединов
+    video: 
+    presentation: https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs
+  - name: JS trends uncovered
+    speaker: Владимир Вышко
+    video: 
+    presentation: https://slides.com/vladimirvyshko/js-dev-in-the-wonderland
+  - name: TypeScript cargo-cult in Ukrainian outsourcers
+    speaker: Илья Климов
+    video: 
+    presentation: 
+  - name: The little big project. From zero to hero in two weeks with 3 front-end engineers only
+    speaker: Андрей Мелихов
+    video: 
+    presentation: https://www.slideshare.net/fwdays/the-little-big-project-from-zero-to-hero-in-two-weeks-with-3-frontend-engineers-only-andrey-melikhov

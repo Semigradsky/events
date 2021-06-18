@@ -64,7 +64,7 @@ talks:
     lang: en
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/angular-forms'
   - name: Solving behavioral complexity with FRP
-    speaker: Oleksii Levzhynskyi
+    speaker: Алексей Левжинский
     url: 'https://fwdays.com/en/event/js-fwdays-2019/review/solving-behavioral-complexity-with-frp'
   - name: Hinting at a better web
     speaker: Christian Heilmann

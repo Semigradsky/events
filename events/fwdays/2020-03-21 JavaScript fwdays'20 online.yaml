@@ -11,12 +11,12 @@ talks:
     video: https://youtu.be/auMM-uV12F0
     presentation: https://www.slideshare.net/tshemsedinov/web-locks-api
   - name: "'Devide et impera' with GraphQL and SSR"
-    speaker: Олександр Мостовенко
+    speaker: Александр Мостовенко
     video: https://youtu.be/i1LtjUYtduI
     lang: uk
     presentation: https://www.slideshare.net/fwdays/alexander-mostovenko-devide-at-impera-with-graphql-and-ssr
   - name: Жодних відмазок, щоб не писати тести!
-    speaker: Андрій Шумада
+    speaker: Андрей Шумада
     video: https://youtu.be/h07k067qWUk
     lang: uk
     presentation: https://www.slideshare.net/fwdays/andrii-shumada-no-excuses-for-not-writing-tests
