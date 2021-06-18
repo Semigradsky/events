@@ -1,0 +1,20 @@
+name: MoscowJS 49
+date: 2021-06-17
+videos: 
+talks:
+  - name: Дизайн-система на фронтенде
+    speaker: Сергей Володин
+    video: 
+    presentation: 
+  - name: Babel & DX
+    speaker: Павел Ремизов
+    video: 
+    presentation: 
+  - name: Я не узнаю вас в гриме. Ктo Вы такoй?
+    speaker: Алексей Охрименко
+    video: 
+    presentation: 
+  - name: Оживляем офлайн страницу с помощью Devicemotion API
+    speaker: Екатерина Семяткина
+    video: 
+    presentation: 
