@@ -1,0 +1,16 @@
+name: Frontend Mix
+date: 2021-06-24
+videos: 
+talks:
+  - name: "World of React Native: уже можно играть! Геймплей, обзор"
+    speaker: Илья Ломтев
+    video: 
+    presentation: 
+  - name: "Навигация «Такси ВКонтакте»"
+    speaker: Андрей Сорокин
+    video: 
+    presentation: 
+  - name: Material UI, или как перестать волноваться и перейти на новую библиотеку компонентов
+    speaker: Сергей Осипов
+    video: 
+    presentation: 
