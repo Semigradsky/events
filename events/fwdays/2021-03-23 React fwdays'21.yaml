@@ -1,0 +1,50 @@
+name: React fwdays'21
+date:
+  - 2021-03-23
+  - 2021-03-30
+videos: https://www.youtube.com/playlist?list=PLPcgQFk9n9y-tQjGRQoMsOey1kF50RNMz
+talks:
+  - name: React. Быть или не быть [Дискуссия]
+    speaker: Александр Соловьев, Роман Лютиков, Егор Львовский
+    video: https://youtu.be/BfdFiQVwh-U
+    presentation: 
+  - name: About the algorithms, interviews [Дискуссия]
+    speaker: Андрей Листочкин, Антон Веринов, Mark Orel, Виктор Мусиенко
+    video: https://youtu.be/P3KsGYhPQt8
+    presentation: 
+  - name: "Remote in 2020: how it was and what we've learned in teamwork [Дискуссия]"
+    speaker: Наталья Теплухина, Mark Orel, Екатерина Позднышева, Екатерина Поршнева, Сергей Фролов
+    video: https://youtu.be/_ZBTZa7Un_E
+    presentation: 
+  - name: Wix Components Studio Demo
+    speaker: Тарас Матяшовский, Алексей Лебедев
+    video: https://youtu.be/uy5kmedSjYk
+    presentation: 
+  - name: Почему я отошел от TypeScript в своих React-проектах и куда
+    speaker: Илья Климов
+    video: https://youtu.be/jnSHRPCTFPc
+    presentation: 
+  - name: Внутренности Logo maker'а — микрофронтенд в Fiverr
+    speaker: Юрий Дадычин
+    video: https://youtu.be/fbiuh44Xst8
+    presentation: https://www.slideshare.net/fwdays/logo-makers-micro-guts-micro-frontend-at-fiverr-yuriy-dadichin
+  - name: Структура React приложений при старте проекта
+    speaker: Максим Шестопал
+    video: https://youtu.be/YV9mm9RCtA0
+    presentation: https://www.slideshare.net/fwdays/react-application-structure-at-project-start-maksym-shestopal
+  - name: Опасный React
+    speaker: Елена Жукова
+    video: https://youtu.be/ze4Qve1azA0
+    presentation: 
+  - name: GraphQL in a component world
+    speaker: Екатерина Поршнева
+    video: https://youtu.be/hEqloGN_6uA
+    presentation: https://krambertech.github.io/graphql-react-talk/index.html#0
+  - name: "The Story of Declarative React at Grammarly: From two-way data binding with Focal to a custom implementation of UI as a tree data structure"
+    speaker: Александр Сугак
+    video: https://youtu.be/lT2qu16baLQ
+    presentation: https://www.slideshare.net/fwdays/the-story-of-declarative-react-at-grammarly-from-twoway-data-binding-with-focal-to-a-custom-implementation-of-ui-as-a-tree-data-structure-oleksandr-suhak
+  - name: Auth for React.js APP
+    speaker: Никита Галкин
+    video: https://youtu.be/nb4kM9CBhbY
+    presentation: https://www.slideshare.net/fwdays/auth-for-reactjs-app-nikita-galkin

@@ -2,18 +2,22 @@ name: Vue.js fwdays'20
 date:
   - 2020-11-24
   - 2020-11-28
-videos: 
+videos: https://www.youtube.com/playlist?list=PLPcgQFk9n9y-aOzz7bMkCi0VNtFH46BW3
 talks:
   - name: Secure Vue app [Workshop]
     speaker: Ivan Kyvatskyi
     lang: uk
-    video: 
+    video: https://youtu.be/OWJBbm8Zo3w
     presentation: https://www.slideshare.net/fwdays/secure-vue-app-ivan-kyvatskyi
   - name: Vuetify in practice [Workshop]
     speaker: Александр Степанов
-    video: 
+    video: https://youtu.be/LGsDerVgzyU
     presentation: https://www.slideshare.net/fwdays/workshop-vuetify-in-practice-alexander-stepanov
+  - name: "Vue 3: Простая сложность"
+    speaker: Илья Климов
+    video: https://youtu.be/NmUuhznajoI
+    presentation: 
   - name: "Vue 3: Сложная простота"
     speaker: Илья Климов
-    video: 
+    video: https://youtu.be/LL3kcfBoE10
     presentation: 

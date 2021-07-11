@@ -54,9 +54,9 @@ talks:
     speaker: Антон Худяков
     video: 
     presentation: 
-  - name: Metarhia technology stack for Node.js
+  - name: Технологический стек Metarhia для Node.js
     speaker: Тимур Шемсединов
-    video: 
+    video: https://youtu.be/PHyl4b8Fj5A
     presentation: https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs
   - name: JS trends uncovered
     speaker: Владимир Вышко
