@@ -18,16 +18,31 @@
 | Условно адаптивно  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://www.slideshare.net/fwdays/conditionally-adaptive-vadim-makeev)   |
 | 13 ways to run web applications on the Internet [uk] |  [Андрей Шумада](../../speakers/Андрей%20Шумада.md)  |    |
 | React Query: the next big thing?  |  [Антон Худяков](../../speakers/Антон%20Худяков.md)  |    |
-| Metarhia technology stack for Node.js  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs)   |
+| [Технологический стек Metarhia для Node.js](https://youtu.be/PHyl4b8Fj5A)  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs)   |
 | JS trends uncovered  |  [Владимир Вышко](../../speakers/Владимир%20Вышко.md)  | [:notebook:](https://slides.com/vladimirvyshko/js-dev-in-the-wonderland)   |
 | TypeScript cargo-cult in Ukrainian outsourcers  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
 | The little big project. From zero to hero in two weeks with 3 front-end engineers only  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  | [:notebook:](https://www.slideshare.net/fwdays/the-little-big-project-from-zero-to-hero-in-two-weeks-with-3-frontend-engineers-only-andrey-melikhov)   |
-## Vue.js fwdays&#39;20 - 2020 Nov 24-28 
+## React fwdays&#39;21 - 2021 Mar 23-30 [:movie_camera:](https://www.youtube.com/playlist?list=PLPcgQFk9n9y-tQjGRQoMsOey1kF50RNMz)
 | | | |
 | --- | :---: | --- |
-| Secure Vue app [Workshop] [uk] |  [Ivan Kyvatskyi](../../speakers/Ivan%20Kyvatskyi.md)  | [:notebook:](https://www.slideshare.net/fwdays/secure-vue-app-ivan-kyvatskyi)   |
-| Vuetify in practice [Workshop]  |  [Александр Степанов](../../speakers/Александр%20Степанов.md)  | [:notebook:](https://www.slideshare.net/fwdays/workshop-vuetify-in-practice-alexander-stepanov)   |
-| Vue 3: Сложная простота  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
+| [React. Быть или не быть [Дискуссия]](https://youtu.be/BfdFiQVwh-U)  |  [Александр Соловьев](../../speakers/Александр%20Соловьев.md)  [Роман Лютиков](../../speakers/Роман%20Лютиков.md)  [Егор Львовский](../../speakers/Егор%20Львовский.md)  |    |
+| [About the algorithms, interviews [Дискуссия]](https://youtu.be/P3KsGYhPQt8)  |  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  [Антон Веринов](../../speakers/Антон%20Веринов.md)  [Mark Orel](../../speakers/Mark%20Orel.md)  [Виктор Мусиенко](../../speakers/Виктор%20Мусиенко.md)  |    |
+| [Remote in 2020: how it was and what we&#39;ve learned in teamwork [Дискуссия]](https://youtu.be/_ZBTZa7Un_E)  |  [Наталья Теплухина](../../speakers/Наталья%20Теплухина.md)  [Mark Orel](../../speakers/Mark%20Orel.md)  [Екатерина Позднышева](../../speakers/Екатерина%20Позднышева.md)  [Екатерина Поршнева](../../speakers/Екатерина%20Поршнева.md)  [Сергей Фролов](../../speakers/Сергей%20Фролов.md)  |    |
+| [Wix Components Studio Demo](https://youtu.be/uy5kmedSjYk)  |  [Тарас Матяшовский](../../speakers/Тарас%20Матяшовский.md)  [Алексей Лебедев](../../speakers/Алексей%20Лебедев.md)  |    |
+| [Почему я отошел от TypeScript в своих React-проектах и куда](https://youtu.be/jnSHRPCTFPc)  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
+| [Внутренности Logo maker&#39;а — микрофронтенд в Fiverr](https://youtu.be/fbiuh44Xst8)  |  [Юрий Дадычин](../../speakers/Юрий%20Дадычин.md)  | [:notebook:](https://www.slideshare.net/fwdays/logo-makers-micro-guts-micro-frontend-at-fiverr-yuriy-dadichin)   |
+| [Структура React приложений при старте проекта](https://youtu.be/YV9mm9RCtA0)  |  [Максим Шестопал](../../speakers/Максим%20Шестопал.md)  | [:notebook:](https://www.slideshare.net/fwdays/react-application-structure-at-project-start-maksym-shestopal)   |
+| [Опасный React](https://youtu.be/ze4Qve1azA0)  |  [Елена Жукова](../../speakers/Елена%20Жукова.md)  |    |
+| [GraphQL in a component world](https://youtu.be/hEqloGN_6uA)  |  [Екатерина Поршнева](../../speakers/Екатерина%20Поршнева.md)  | [:notebook:](https://krambertech.github.io/graphql-react-talk/index.html#0)   |
+| [The Story of Declarative React at Grammarly: From two-way data binding with Focal to a custom implementation of UI as a tree data structure](https://youtu.be/lT2qu16baLQ)  |  [Александр Сугак](../../speakers/Александр%20Сугак.md)  | [:notebook:](https://www.slideshare.net/fwdays/the-story-of-declarative-react-at-grammarly-from-twoway-data-binding-with-focal-to-a-custom-implementation-of-ui-as-a-tree-data-structure-oleksandr-suhak)   |
+| [Auth for React.js APP](https://youtu.be/nb4kM9CBhbY)  |  [Никита Галкин](../../speakers/Никита%20Галкин.md)  | [:notebook:](https://www.slideshare.net/fwdays/auth-for-reactjs-app-nikita-galkin)   |
+## Vue.js fwdays&#39;20 - 2020 Nov 24-28 [:movie_camera:](https://www.youtube.com/playlist?list=PLPcgQFk9n9y-aOzz7bMkCi0VNtFH46BW3)
+| | | |
+| --- | :---: | --- |
+| [Secure Vue app [Workshop]](https://youtu.be/OWJBbm8Zo3w) [uk] |  [Ivan Kyvatskyi](../../speakers/Ivan%20Kyvatskyi.md)  | [:notebook:](https://www.slideshare.net/fwdays/secure-vue-app-ivan-kyvatskyi)   |
+| [Vuetify in practice [Workshop]](https://youtu.be/LGsDerVgzyU)  |  [Александр Степанов](../../speakers/Александр%20Степанов.md)  | [:notebook:](https://www.slideshare.net/fwdays/workshop-vuetify-in-practice-alexander-stepanov)   |
+| [Vue 3: Простая сложность](https://youtu.be/NmUuhznajoI)  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
+| [Vue 3: Сложная простота](https://youtu.be/LL3kcfBoE10)  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
 ## JavaScript fwdays&#39;20 Autumn online - 2020 Sep 11-26 [:movie_camera:](https://www.youtube.com/playlist?list=PLPcgQFk9n9y8WQ3dEeBByarIVaoaZm03W)
 | | | |
 | --- | :---: | --- |
