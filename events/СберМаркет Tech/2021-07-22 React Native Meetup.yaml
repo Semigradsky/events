@@ -1,0 +1,16 @@
+name: React Native Meetup
+date: 2021-07-22
+videos: 
+talks:
+  - name: Бережливый react-testing-library в расточительном мире
+    speaker: Василий Кузенков
+    video: 
+    presentation: 
+  - name: React Native для Web или нет?
+    speaker: Александр Коротаев
+    video: 
+    presentation: 
+  - name: Снятся ли фронтендеру сны о нативной разработке?
+    speaker: Виктор Ильтимиров
+    video: 
+    presentation: 
