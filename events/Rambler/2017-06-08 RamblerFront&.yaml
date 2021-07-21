@@ -4,17 +4,17 @@ videos:
 talks:
   - name: React Rest Adapter
     speaker: Максим Чекрышов
-    video: 
+    video: https://www.youtube.com/watch?v=IeeAoXJIYxM
     presentation: 
   - name: Счетчик — это легко
     speaker: Алексей Мелик-Заде
-    video: 
+    video: https://www.youtube.com/watch?v=PqhD3000nQw
     presentation: 
   - name: Разработка кросспроектной библиотеки компонент на React.js
     speaker: Сергей Перескоков
-    video: 
+    video: https://www.youtube.com/watch?v=OeGb4cfQxOU
     presentation: 
   - name: "SSP: Рефакторинг в боевых условиях"
     speaker: Сергей Ястребов
-    video: 
+    video: https://www.youtube.com/watch?v=yADGRe4CO2U
     presentation: 

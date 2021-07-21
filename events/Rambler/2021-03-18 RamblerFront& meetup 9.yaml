@@ -1,0 +1,12 @@
+name: RamblerFront& meetup 9
+date: 2021-03-18
+videos: 
+talks:
+  - name: "AdBlock: особенности работы и продвинутые методы блокировки"
+    speaker: Владислав Яндимиркин
+    video: https://www.youtube.com/watch?v=0zi4egFKmbs
+    presentation: 
+  - name: Content Indexing API. Страницы, доступные в offline
+    speaker: Антонина Листопадова
+    video: https://www.youtube.com/watch?v=XyUvsxjFbKI
+    presentation: 

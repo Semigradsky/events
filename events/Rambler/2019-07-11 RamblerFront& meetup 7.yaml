@@ -1,0 +1,16 @@
+name: RamblerFront& meetup 7
+date: 2019-07-11
+videos: 
+talks:
+  - name: Способы синхронизации вкладок браузера
+    speaker: Елена Жукова
+    video: https://www.youtube.com/watch?v=ufdPSWiZcmQ
+    presentation: 
+  - name: Миграция с монолитного web-приложения на SPA или спасение утопающих - дело рук самих утопающих
+    speaker: Борис Шабанов
+    video: https://www.youtube.com/watch?v=DCRg4Gra8uE
+    presentation: 
+  - name: "Анимация в web: как работать с временными функциями на макро- и микроуровне?"
+    speaker: Наталия Габитова
+    video: https://www.youtube.com/watch?v=WuqcHc16Cgg
+    presentation: 
