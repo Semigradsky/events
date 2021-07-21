@@ -1,0 +1,36 @@
+name: RndTechConf 2021
+date: 2021-09-04
+videos: 
+talks:
+  - name: Условно адаптивно
+    speaker: Вадим Макеев
+    video: 
+    presentation: 
+  - name: Что веб грядущий нам готовит
+    speaker: Никита Дубко
+    video: 
+    presentation: 
+  - name: Необычные браузерные АПИ
+    speaker: Александра Шинкевич
+    video: 
+    presentation: 
+  - name: RxJS и море асинхронных чудовищ
+    speaker: Сэм Булатов
+    video: 
+    presentation: 
+  - name: Цвета в CSS
+    speaker: София Валитова
+    video: 
+    presentation: 
+  - name: Доска в клеточку. Рисуем математику в вебе
+    speaker: Антон Хайновский
+    video: 
+    presentation: 
+  - name: Свободные Media
+    speaker: Роман Пономарев
+    video: 
+    presentation: 
+  - name: Как темизировать web-интерфейс продукта и задеплоить изменения без участия разработчика
+    speaker: Константин Подрубный
+    video: 
+    presentation: 

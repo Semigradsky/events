@@ -1,0 +1,16 @@
+name: RndTechTalks.Frontend
+date: 2019-09-27
+videos: 
+talks:
+  - name: "Клиентское шифрование в браузере: как защитить данные, если не доверяешь никому"
+    speaker: Василий Соколов
+    video: 
+    presentation: 
+  - name: "Куда катится мир?"
+    speaker: Вероника Самохина
+    video: 
+    presentation: 
+  - name: Svelte — магически исчезающий UI фреймворк. Секреты VirtualDOM, "честная" реактивность и кто виноват.
+    speaker: Дмитрий Вишневский
+    video: 
+    presentation: 

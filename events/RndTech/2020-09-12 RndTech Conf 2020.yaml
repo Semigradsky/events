@@ -1,0 +1,40 @@
+name: RndTech Conf 2020
+date: 2020-09-12
+videos: https://www.youtube.com/playlist?list=PLZKHRHuHZs0i4ybfZOUWWiE4iL_QTVjUO
+talks:
+  - name: TimeScript
+    speaker: Виктор Вершанский
+    video: https://youtu.be/egW02hA2ous
+    presentation: https://wentout.github.io/RnDTechTalk/
+  - name: Системы типов в двух словах 
+    speaker: Вячеслав Шебанов
+    video: https://youtu.be/19Iwkey4w8g
+    presentation: https://slides.com/slavashebanov/copy-of
+  - name: Переход от REST API к GraphQL на примере реальных проектов
+    speaker: Антон Морев
+    video: https://youtu.be/0Z94P78GHl0
+    presentation: https://drive.google.com/file/d/1b59CFA2gp0Mq9G4TiNNszCt_N5XAjNZy/view
+  - name: "Архитектура «курильщика»"
+    speaker: Вероника Самохина
+    video: https://youtu.be/TwXy0pz5Wp4
+    presentation: https://docs.google.com/presentation/d/1jRUatiOamlNA28WtchpysnEOJuxeME0okjhzIvPtsrY/edit#slide=id.p
+  - name: Конечные автоматы на форме авторизаци
+    speaker: Игорь Дружинин
+    video: https://youtu.be/ArWPxCBdeHw
+    presentation: https://drive.google.com/file/d/1nIU37PbImoXI_Him9wbYqfj9l3t2S_4e/view
+  - name: Самый практичный доклад
+    speaker: Дмитрий Пацура
+    video: https://youtu.be/QTSreWAI_rg
+    presentation: https://drive.google.com/file/d/100uziHbZL8uGxbbn7j8NE5wI5uMKobeq/view
+  - name: "Developer Experience (DX): Разработчики — тоже люди. GraphQL"
+    speaker: Алексей Родионов
+    video: https://youtu.be/m9DHmTowLvI
+    presentation: https://docs.google.com/presentation/d/1tmnVo0EUqcLv_RbDFCrpRJpTtpHQDhicOCyT2JL-eu8/edit
+  - name: WebRTC конференции. Интересные и сложные места
+    speaker: Игорь Шеко
+    video: https://youtu.be/EouVG6fW4xM
+    presentation: https://drive.google.com/file/d/1Q0l86TssSgI1gQXNFp0Xq6Htfj5SEjKN/view
+  - name: Почему хорошие разработчики не делают хороший UX
+    speaker: Юлия Тертерян
+    video: https://youtu.be/KEeahVSoL5c
+    presentation: https://drive.google.com/file/d/1jJ6o1VX4P_KwTFBJ7z6WLpUwp3cIPE7F/view

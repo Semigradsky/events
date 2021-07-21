@@ -1,0 +1,16 @@
+name: RndTechTalks.Frontend 2
+date: 2021-06-03
+videos: https://www.youtube.com/playlist?list=PLZKHRHuHZs0iOO_eQlR1lhKJCqNkaH-Mo
+talks:
+  - name: Keyboard Navigation. Зачем эти клавиши?
+    speaker: Егор Жолнин
+    video: https://youtu.be/sYQnyoZCeS0
+    presentation: 
+  - name: State Of React 2020(1)
+    speaker: Евгений Тактаров
+    video: https://youtu.be/z03PctjAx1g
+    presentation: 
+  - name: Отказ от Redux в пользу MobX State Tree и ускорение скорости разработки в 2 раза
+    speaker: Игорь Себелев
+    video: https://youtu.be/S5hCya-bwE4
+    presentation: 
