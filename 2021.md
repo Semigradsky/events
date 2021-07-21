@@ -3,6 +3,12 @@
 
 # Events / 2021 / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## RndTechTalks.Frontend 2 - Jun 03 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLZKHRHuHZs0iOO_eQlR1lhKJCqNkaH-Mo)
+| | | |
+| --- | :---: | --- |
+| [Keyboard Navigation. Зачем эти клавиши?](https://youtu.be/sYQnyoZCeS0)  |  [Егор Жолнин](speakers/Егор%20Жолнин.md)  |    |
+| [State Of React 2020(1)](https://youtu.be/z03PctjAx1g)  |  [Евгений Тактаров](speakers/Евгений%20Тактаров.md)  |    |
+| [Отказ от Redux в пользу MobX State Tree и ускорение скорости разработки в 2 раза](https://youtu.be/S5hCya-bwE4)  |  [Игорь Себелев](speakers/Игорь%20Себелев.md)  |    |
 ## JavaScript fwdays&#39;21 - Jun 01-08 
 | | | |
 | --- | :---: | --- |
@@ -89,6 +95,11 @@
 | [GraphQL in a component world](https://youtu.be/hEqloGN_6uA)  |  [Екатерина Поршнева](speakers/Екатерина%20Поршнева.md)  | [:notebook:](https://krambertech.github.io/graphql-react-talk/index.html#0)   |
 | [The Story of Declarative React at Grammarly: From two-way data binding with Focal to a custom implementation of UI as a tree data structure](https://youtu.be/lT2qu16baLQ)  |  [Александр Сугак](speakers/Александр%20Сугак.md)  | [:notebook:](https://www.slideshare.net/fwdays/the-story-of-declarative-react-at-grammarly-from-twoway-data-binding-with-focal-to-a-custom-implementation-of-ui-as-a-tree-data-structure-oleksandr-suhak)   |
 | [Auth for React.js APP](https://youtu.be/nb4kM9CBhbY)  |  [Никита Галкин](speakers/Никита%20Галкин.md)  | [:notebook:](https://www.slideshare.net/fwdays/auth-for-reactjs-app-nikita-galkin)   |
+## RamblerFront&amp; meetup 9 - Mar 18 
+| | | |
+| --- | :---: | --- |
+| [AdBlock: особенности работы и продвинутые методы блокировки](https://www.youtube.com/watch?v=0zi4egFKmbs)  |  [Владислав Яндимиркин](speakers/Владислав%20Яндимиркин.md)  |    |
+| [Content Indexing API. Страницы, доступные в offline](https://www.youtube.com/watch?v=XyUvsxjFbKI)  |  [Антонина Листопадова](speakers/Антонина%20Листопадова.md)  |    |
 ## PiterJS 55 - Mar 04 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;K9onhOaPuKc)
 | | | |
 | --- | :---: | --- |
