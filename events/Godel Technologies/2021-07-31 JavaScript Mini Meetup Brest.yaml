@@ -1,0 +1,16 @@
+name: JavaScript Mini Meetup Brest
+date: 2021-07-31
+videos: 
+talks:
+  - name: FizzBuzz на TypeScript
+    speaker: Станислав Тур
+    video: 
+    presentation: 
+  - name: Как я перестал бояться и полюбил юнит-тесты
+    speaker: Олег Васильев
+    video: 
+    presentation: 
+  - name: "White-label архитектура: что это такое и с чем её едят"
+    speaker: Юлия Максимчик
+    video: 
+    presentation: 
