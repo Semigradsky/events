@@ -1,0 +1,16 @@
+name: Frontend-Party
+date: 2021-08-05
+videos: 
+talks:
+  - name: Темизация на Stylus
+    speaker: Карен Каспаров
+    video: 
+    presentation: 
+  - name: "Почему я положил ELD’у на архитектуру, и вам советую"
+    speaker: Алексей Исхаков
+    video: 
+    presentation: 
+  - name: Локализация Angular-приложений в статическом пререндеринге
+    speaker: Владлен Волков
+    video: 
+    presentation: 
