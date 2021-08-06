@@ -3,6 +3,12 @@
 
 # Events / 2021 / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## React Native Meetup - Jul 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?app&#x3D;desktop&amp;v&#x3D;GIMs2bZ0yww)
+| | | |
+| --- | :---: | --- |
+| [Бережливый react-testing-library в расточительном мире](https://www.youtube.com/watch?v=GIMs2bZ0yww&t=290s)  |  [Василий Кузенков](speakers/Василий%20Кузенков.md)  | [:notebook:](https://lean-testing.bondiano.io)   |
+| [React Native для Web или нет?](https://www.youtube.com/watch?v=GIMs2bZ0yww&t=2664s)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  | [:notebook:](http://lekzd.ru/presentations/react_native_web_sbermarket/)   |
+| [Снятся ли фронтендеру сны о нативной разработке?](https://www.youtube.com/watch?v=GIMs2bZ0yww&t=4809s)  |  [Виктор Ильтимиров](speakers/Виктор%20Ильтимиров.md)  |  [:octocat:](https://github.com/Iltimirov/HelloReactNative)  |
 ## RndTechTalks.Frontend 2 - Jun 03 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLZKHRHuHZs0iOO_eQlR1lhKJCqNkaH-Mo)
 | | | |
 | --- | :---: | --- |
