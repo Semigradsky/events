@@ -1,16 +1,17 @@
 name: React Native Meetup
 date: 2021-07-22
-videos: 
+videos: https://www.youtube.com/watch?app=desktop&v=GIMs2bZ0yww
 talks:
   - name: Бережливый react-testing-library в расточительном мире
     speaker: Василий Кузенков
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=GIMs2bZ0yww&t=290s
+    presentation: https://lean-testing.bondiano.io
   - name: React Native для Web или нет?
     speaker: Александр Коротаев
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=GIMs2bZ0yww&t=2664s
+    presentation: http://lekzd.ru/presentations/react_native_web_sbermarket/
   - name: Снятся ли фронтендеру сны о нативной разработке?
     speaker: Виктор Ильтимиров
-    video: 
+    video: https://www.youtube.com/watch?v=GIMs2bZ0yww&t=4809s
     presentation: 
+    code: https://github.com/Iltimirov/HelloReactNative
