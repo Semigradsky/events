@@ -1,0 +1,12 @@
+name: GDG Minsk Web August Meetup
+date: 2021-08-24
+videos: https://youtu.be/GdxlnUdsgtU
+talks:
+  - name: Необычные браузерные API
+    speaker: Александра Шинкевич
+    video: https://youtu.be/GdxlnUdsgtU
+    presentation: https://bit.ly/2UY1cKW
+  - name: Управление воспроизведением в PWA
+    speaker: Никита Дубко 
+    video: https://youtu.be/GdxlnUdsgtU
+    presentation: 
