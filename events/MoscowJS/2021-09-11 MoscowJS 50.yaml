@@ -1,0 +1,56 @@
+name: MoscowJS 50
+date: 2021-09-11
+videos: 
+talks:
+  - name: "Фронтенд «Платформа», или как всем понравиться"
+    speaker: Константин Лебедев
+    video: 
+    presentation: 
+  - name: Review Code Review
+    speaker: Максим Соснов
+    video: 
+    presentation: 
+  - name: Магия прототипного наследования
+    speaker: Виктор Вершанский
+    video: 
+    presentation: 
+  - name: Как бороться с багами без боли и агрессии
+    speaker: Алексей Попков
+    video: 
+    presentation: 
+  - name: Меняем стул под пользователем
+    speaker: Александр Коротаев
+    video: 
+    presentation: 
+  - name: "Библиотека как продукт: от папки в проекте до международного опенсорса"
+    speaker: Роман Седов
+    video: 
+    presentation: 
+  - name: Конечный автомат на React Hooks и Typescript
+    speaker: Сергей Володин
+    video: 
+    presentation: 
+  - name: Ошибки хороших руководителей
+    speaker: Наталья Ёркина
+    video: 
+    presentation: 
+  - name: Тестируем подходы к тестированию. Личные грабли при написании тестов
+    speaker: Алексей Золотых
+    video: 
+    presentation: 
+  - name: А дальше-то что?
+    speaker: Зарема Халилова
+    video: 
+    presentation: 
+  - name: Для чего нужен Deno и что значит быть Deno-разработчиком
+    speaker: Рустам Имайкин
+    video: 
+    presentation: 
+  - name: Tramvai – новый модульный фреймворк с DI для SSR приложений на React от Tinkoff
+    speaker: Андрей Марченко
+    video: 
+    presentation: 
+  - name: Как найти работу, которой захочется гордиться
+    speaker: Андрей Семин
+    video: 
+    presentation: 
