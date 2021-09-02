@@ -10,7 +10,7 @@ talks:
     presentation: 
   - name: Deep dive Into NestJS
     speaker: Никита Галкин
-    video: 
+    video: https://youtu.be/4-v4gKsCZUQ
     presentation: 
   - name: Electron. How the most modern framework works
     speaker: Алексей Голубев
@@ -48,7 +48,7 @@ talks:
   - name: 13 ways to run web applications on the Internet
     speaker: Андрей Шумада
     lang: uk
-    video: 
+    video: https://youtu.be/RLJbNhLlx54
     presentation: 
   - name: "React Query: the next big thing?"
     speaker: Антон Худяков
@@ -62,9 +62,9 @@ talks:
     speaker: Владимир Вышко
     video: 
     presentation: https://slides.com/vladimirvyshko/js-dev-in-the-wonderland
-  - name: TypeScript cargo-cult in Ukrainian outsourcers
+  - name: Карго-культ TypeScript в украинских аутсорсерах
     speaker: Илья Климов
-    video: 
+    video: https://youtu.be/H9-F8uhKMRk
     presentation: 
   - name: The little big project. From zero to hero in two weeks with 3 front-end engineers only
     speaker: Андрей Мелихов
