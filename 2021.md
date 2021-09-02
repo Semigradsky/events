@@ -3,6 +3,11 @@
 
 # Events / 2021 / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## GDG Minsk Web August Meetup - Aug 24 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;GdxlnUdsgtU)
+| | | |
+| --- | :---: | --- |
+| [Необычные браузерные API](https://youtu.be/GdxlnUdsgtU)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  | [:notebook:](https://bit.ly/2UY1cKW)   |
+| [Управление воспроизведением в PWA](https://youtu.be/GdxlnUdsgtU)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
 ## React Native Meetup - Jul 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?app&#x3D;desktop&amp;v&#x3D;GIMs2bZ0yww)
 | | | |
 | --- | :---: | --- |
@@ -19,7 +24,7 @@
 | | | |
 | --- | :---: | --- |
 | Live stream: Recreational coding  |  [Юрий Артюх](speakers/Юрий%20Артюх.md)  |    |
-| Deep dive Into NestJS  |  [Никита Галкин](speakers/Никита%20Галкин.md)  |    |
+| [Deep dive Into NestJS](https://youtu.be/4-v4gKsCZUQ)  |  [Никита Галкин](speakers/Никита%20Галкин.md)  |    |
 | Electron. How the most modern framework works  |  [Алексей Голубев](speakers/Алексей%20Голубев.md)  | [:notebook:](https://www.slideshare.net/fwdays/electron-how-the-most-modern-framework-works-oleksii-holubiev)   |
 | Discussion. Monorepo. Pros and cons  |  [Остап Червак](speakers/Остап%20Червак.md)  [Алексей Левжинский](speakers/Алексей%20Левжинский.md)  [Антон Веринов](speakers/Антон%20Веринов.md)  [Евгений Обрезков](speakers/Евгений%20Обрезков.md)  [Алексей Распопов](speakers/Алексей%20Распопов.md)  |    |
 | Everywhere is undefined: using the “script” part of JS  |  [Антон Веринов](speakers/Антон%20Веринов.md)  | [:notebook:](https://www.slideshare.net/fwdays/everywhere-is-undefined-using-the-script-part-of-js-anton-verinov)   |
@@ -28,11 +33,11 @@
 | Technical Challenges behind Visual IDE for React Components [uk] |  [Тетяна Мандзюк](speakers/Тетяна%20Мандзюк.md)  | [:notebook:](https://www.slideshare.net/fwdays/technical-challenges-behind-visual-ide-for-react-components-tetiana-mandziuk)   |
 | Real-time Collaborative Text Editing on Grammarly’s Front-End Team  |  [Алексей Левжинский](speakers/Алексей%20Левжинский.md)  | [:notebook:](https://www.slideshare.net/fwdays/realtime-collaborative-text-editing-on-grammarlys-frontend-team-oleksii-levzhynskyi)   |
 | Условно адаптивно  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://www.slideshare.net/fwdays/conditionally-adaptive-vadim-makeev)   |
-| 13 ways to run web applications on the Internet [uk] |  [Андрей Шумада](speakers/Андрей%20Шумада.md)  |    |
+| [13 ways to run web applications on the Internet](https://youtu.be/RLJbNhLlx54) [uk] |  [Андрей Шумада](speakers/Андрей%20Шумада.md)  |    |
 | React Query: the next big thing?  |  [Антон Худяков](speakers/Антон%20Худяков.md)  |    |
 | [Технологический стек Metarhia для Node.js](https://youtu.be/PHyl4b8Fj5A)  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs)   |
 | JS trends uncovered  |  [Владимир Вышко](speakers/Владимир%20Вышко.md)  | [:notebook:](https://slides.com/vladimirvyshko/js-dev-in-the-wonderland)   |
-| TypeScript cargo-cult in Ukrainian outsourcers  |  [Илья Климов](speakers/Илья%20Климов.md)  |    |
+| [Карго-культ TypeScript в украинских аутсорсерах](https://youtu.be/H9-F8uhKMRk)  |  [Илья Климов](speakers/Илья%20Климов.md)  |    |
 | The little big project. From zero to hero in two weeks with 3 front-end engineers only  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  | [:notebook:](https://www.slideshare.net/fwdays/the-little-big-project-from-zero-to-hero-in-two-weeks-with-3-frontend-engineers-only-andrey-melikhov)   |
 ## Hot Frontend - Apr 24 
 | | | |
