@@ -14,6 +14,13 @@
 | [Бережливый react-testing-library в расточительном мире](https://www.youtube.com/watch?v=GIMs2bZ0yww&t=290s)  |  [Василий Кузенков](speakers/Василий%20Кузенков.md)  | [:notebook:](https://lean-testing.bondiano.io)   |
 | [React Native для Web или нет?](https://www.youtube.com/watch?v=GIMs2bZ0yww&t=2664s)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  | [:notebook:](http://lekzd.ru/presentations/react_native_web_sbermarket/)   |
 | [Снятся ли фронтендеру сны о нативной разработке?](https://www.youtube.com/watch?v=GIMs2bZ0yww&t=4809s)  |  [Виктор Ильтимиров](speakers/Виктор%20Ильтимиров.md)  |  [:octocat:](https://github.com/Iltimirov/HelloReactNative)  |
+## MoscowJS 49 - Jun 17 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;jGfsZFQAz3I)
+| | | |
+| --- | :---: | --- |
+| [Дизайн-система на фронтенде](https://youtu.be/jGfsZFQAz3I)  |  [Сергей Володин](speakers/Сергей%20Володин.md)  |    |
+| [Babel &amp; DX](https://youtu.be/jGfsZFQAz3I)  |  [Павел Ремизов](speakers/Павел%20Ремизов.md)  |    |
+| [Я не узнаю вас в гриме. Ктo Вы такoй?](https://youtu.be/jGfsZFQAz3I)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
+| [Оживляем офлайн страницу с помощью Devicemotion API](https://youtu.be/jGfsZFQAz3I)  |  [Екатерина Семяткина](speakers/Екатерина%20Семяткина.md)  |    |
 ## RndTechTalks.Frontend 2 - Jun 03 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLZKHRHuHZs0iOO_eQlR1lhKJCqNkaH-Mo)
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,13 @@
 
 # MoscowJS
 
+## MoscowJS 49 - 2021 Jun 17 [:movie_camera:](https://youtu.be/jGfsZFQAz3I)
+| | | |
+| --- | :---: | --- |
+| [Дизайн-система на фронтенде](https://youtu.be/jGfsZFQAz3I)  |  [Сергей Володин](../../speakers/Сергей%20Володин.md)  |    |
+| [Babel &amp; DX](https://youtu.be/jGfsZFQAz3I)  |  [Павел Ремизов](../../speakers/Павел%20Ремизов.md)  |    |
+| [Я не узнаю вас в гриме. Ктo Вы такoй?](https://youtu.be/jGfsZFQAz3I)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+| [Оживляем офлайн страницу с помощью Devicemotion API](https://youtu.be/jGfsZFQAz3I)  |  [Екатерина Семяткина](../../speakers/Екатерина%20Семяткина.md)  |    |
 ## MoscowJS Online 3 - 2021 Mar 25 [:movie_camera:](https://www.youtube.com/watch?v=h1NhbbzCIBM)
 | | | |
 | --- | :---: | --- |
