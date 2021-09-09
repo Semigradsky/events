@@ -3,6 +3,13 @@
 
 # OdessaFrontend
 
+## OdessaFrontend Meetup 17 - 2021 Jun 16 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0tNKONOH-sEZDFcj3jGVfbO)
+| | | |
+| --- | :---: | --- |
+| [OAuth2 и OpenID Connect простым языком](https://youtu.be/OgHP08Z_mdw)  |  [Юрий Юдкин](../../speakers/Юрий%20Юдкин.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/oauth2-openid-connect-odessafrontend-meetup-17)   |
+| [Частые ошибки при разработке фронтенда](https://youtu.be/haVe3wOwQ6g)  |  [Дмитрий Хименес](../../speakers/Дмитрий%20Хименес.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-17)   |
+| [Антихрупкий TypeScript](https://youtu.be/tf75EONmnXU)  |  [Филипп Сапронов](../../speakers/Филипп%20Сапронов.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/typescript-odessafrontend-meetup-17)   |
+| Викторина  |  [Николай Птущук](../../speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-17-249424779)   |
 ## OdessaFrontend Meetup 16 - 2020 Sep 30 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0unNwKiCTshoFT4mZx88B3t)
 | | | |
 | --- | :---: | --- |

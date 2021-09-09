@@ -3,6 +3,8 @@
 
 # Unknown
 
+## Секретный доклад
+- 2021 Sep 22 -- OdessaFrontend Meetup 18    
 ## Развитие джуниор-разработчиков
 - 2021 Mar 25 -- [MoscowJS Online 3](https://www.youtube.com/watch?v=h1NhbbzCIBM)    
 ## Angular Universal Advanced

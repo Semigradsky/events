@@ -21,6 +21,13 @@
 | [Babel &amp; DX](https://youtu.be/jGfsZFQAz3I)  |  [Павел Ремизов](speakers/Павел%20Ремизов.md)  |    |
 | [Я не узнаю вас в гриме. Ктo Вы такoй?](https://youtu.be/jGfsZFQAz3I)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
 | [Оживляем офлайн страницу с помощью Devicemotion API](https://youtu.be/jGfsZFQAz3I)  |  [Екатерина Семяткина](speakers/Екатерина%20Семяткина.md)  |    |
+## OdessaFrontend Meetup 17 - Jun 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0tNKONOH-sEZDFcj3jGVfbO)
+| | | |
+| --- | :---: | --- |
+| [OAuth2 и OpenID Connect простым языком](https://youtu.be/OgHP08Z_mdw)  |  [Юрий Юдкин](speakers/Юрий%20Юдкин.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/oauth2-openid-connect-odessafrontend-meetup-17)   |
+| [Частые ошибки при разработке фронтенда](https://youtu.be/haVe3wOwQ6g)  |  [Дмитрий Хименес](speakers/Дмитрий%20Хименес.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-17)   |
+| [Антихрупкий TypeScript](https://youtu.be/tf75EONmnXU)  |  [Филипп Сапронов](speakers/Филипп%20Сапронов.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/typescript-odessafrontend-meetup-17)   |
+| Викторина  |  [Николай Птущук](speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessafrontend-meetup-17-249424779)   |
 ## RndTechTalks.Frontend 2 - Jun 03 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLZKHRHuHZs0iOO_eQlR1lhKJCqNkaH-Mo)
 | | | |
 | --- | :---: | --- |
