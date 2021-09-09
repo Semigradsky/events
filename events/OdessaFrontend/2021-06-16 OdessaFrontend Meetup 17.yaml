@@ -1,20 +1,20 @@
 name: OdessaFrontend Meetup 17
 date: 2021-06-16
-videos: 
+videos: https://www.youtube.com/playlist?list=PLa-3wmdVKs0tNKONOH-sEZDFcj3jGVfbO
 talks:
   - name: OAuth2 и OpenID Connect простым языком
     speaker: Юрий Юдкин
-    video: 
-    presentation: 
+    video: https://youtu.be/OgHP08Z_mdw
+    presentation: https://www.slideshare.net/odessafrontend/oauth2-openid-connect-odessafrontend-meetup-17
   - name: Частые ошибки при разработке фронтенда
     speaker: Дмитрий Хименес
-    video: 
-    presentation: 
+    video: https://youtu.be/haVe3wOwQ6g
+    presentation: https://www.slideshare.net/odessafrontend/odessafrontend-meetup-17
   - name: Антихрупкий TypeScript
     speaker: Филипп Сапронов
-    video: 
-    presentation: 
+    video: https://youtu.be/tf75EONmnXU
+    presentation: https://www.slideshare.net/odessafrontend/typescript-odessafrontend-meetup-17
   - name: Викторина
     speaker: Николай Птущук
     video: 
-    presentation: 
+    presentation: https://www.slideshare.net/odessafrontend/odessafrontend-meetup-17-249424779

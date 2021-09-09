@@ -1,0 +1,20 @@
+name: OdessaFrontend Meetup 18
+date: 2021-09-22
+videos: 
+talks:
+  - name: React Native для фронтов
+    speaker: Марк Мухамедзянов
+    video: 
+    presentation: 
+  - name: Секретный доклад
+    speaker: 'Unknown'
+    video: 
+    presentation: 
+  - name: Canvas API как инструмент для работы с графикой
+    speaker: Андрей Федотюк
+    video: 
+    presentation: 
+  - name: Викторина
+    speaker: Николай Птущук
+    video: 
+    presentation: 
