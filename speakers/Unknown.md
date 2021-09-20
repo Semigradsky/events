@@ -5,6 +5,10 @@
 
 ## Секретный доклад
 - 2021 Sep 22 -- OdessaFrontend Meetup 18    
+## Круглый стол: А что такое архитектура фронтенда?
+- 2021 Jul 12 -- Podlodka Frontend Crew 2    
+## Круглый стол: Есть ли место верстальщикам в современном мире?
+- 2021 Jul 12 -- [Podlodka Frontend Crew 2](https://www.youtube.com/watch?v=crWwZT6ev3E)    
 ## Развитие джуниор-разработчиков
 - 2021 Mar 25 -- [MoscowJS Online 3](https://www.youtube.com/watch?v=h1NhbbzCIBM)    
 ## Angular Universal Advanced

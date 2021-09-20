@@ -3,6 +3,13 @@
 
 # Я.Субботник
 
+## Я.Субботник по разработке интерфейсов - 2021 Sep 18 [:movie_camera:](https://www.youtube.com/watch?v=y7FG9IkQBrI)
+| | | |
+| --- | :---: | --- |
+| [Монорепозиторий монорепозиториев](https://www.youtube.com/watch?v=y7FG9IkQBrI&t=725s)  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  |    |
+| [Statoscope. Курс интенсивной терапии для вашего бандла](https://www.youtube.com/watch?v=y7FG9IkQBrI&t=765s)  |  [Сергей Мелюков](../../speakers/Сергей%20Мелюков.md)  |    |
+| [Оптимизация изображений, вышедшая из-под контроля](https://www.youtube.com/watch?v=y7FG9IkQBrI&t=820s)  |  [Дмитрий Селянин](../../speakers/Дмитрий%20Селянин.md)  |    |
+| [SSR для ускорения первого кадра видео](https://www.youtube.com/watch?v=y7FG9IkQBrI&t=845s)  |  [Павел Соколов](../../speakers/Павел%20Соколов.md)  |    |
 ## Я.Субботник по разработке интерфейсов - 2021 Apr 17 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SSQzEjU7ZFVn22OyQC5fJHv)
 | | | |
 | --- | :---: | --- |
