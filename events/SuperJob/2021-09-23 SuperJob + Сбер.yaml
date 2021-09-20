@@ -1,0 +1,16 @@
+name: SuperJob + Сбер
+date: 2021-09-23
+videos: 
+talks:
+  - name: Релизим фронтенд несколько раз в день
+    speaker: Пётр Солопов
+    video: 
+    presentation: 
+  - name: Облачная библиотека компонентов
+    speaker: Эмиль Фролов
+    video: 
+    presentation: 
+  - name: Особенности применения SSR на большом проекте
+    speaker: Виталий Старов
+    video: 
+    presentation: 
