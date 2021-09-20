@@ -1,0 +1,81 @@
+name: Podlodka Frontend Crew 2
+date: 2021-07-12
+videos: 
+talks:
+  - name: "Круглый стол: А что такое архитектура фронтенда?"
+    speaker: 'Unknown'
+    video: 
+    presentation: 
+  - name: В каких проектах стоит использовать GraphQL
+    speaker: Павел Черторогов
+    video: 
+    presentation: 
+  - name: Feature Sliced — Архитектура Frontend проектов
+    speaker: Илья Азин
+    video: https://www.youtube.com/watch?v=SnzPAr_FJ7w
+    code: https://github.com/feature-sliced
+    presentation: 
+  - name: Чистая архитектура во фронтенде
+    speaker: Александр Беспоясов
+    video: 
+    presentation: 
+  - name: Почему логика должна быть отделена от UI
+    speaker: Илья Немиро
+    video: 
+    presentation: 
+  - name: Микрофронтенды и виджеты в 2021-м
+    speaker: Алексей Гусев
+    video: 
+    presentation: 
+  - name: Чеклист успешного архитектора
+    speaker: Антон Шувалов
+    video: 
+    presentation: 
+  - name: Энтропия фронтенд проекта
+    speaker: Назим Гафаров
+    video: 
+    presentation: 
+  - name: Публичное собеседование по архитектуре фронтенда
+    speaker: Александр Зубов
+    video: https://www.youtube.com/watch?v=VegNqfiS6k8
+    presentation: 
+  - name: Условно Адаптивно
+    speaker: Вадим Макеев
+    video: 
+    presentation: 
+  - name: Как стейт-контейнер влияет на архитектуру приложения
+    speaker: Дмитрий Болдырев
+    video: 
+    presentation: 
+  - name: Как протестировать accessibility руками
+    speaker: Глафира Жур
+    video: 
+    presentation: 
+  - name: CSS-анимации от А до Я
+    speaker: Артём Кувалдин
+    video: 
+    presentation: 
+  - name: "Круглый стол: Есть ли место верстальщикам в современном мире?"
+    speaker: 'Unknown'
+    video: https://www.youtube.com/watch?v=crWwZT6ev3E
+    presentation: 
+  - name: "АМА «Дизайн 101»"
+    speaker: Роман Портнов
+    video: 
+    presentation: 
+  - name: "Круглый стол: CSS-in-JS (не)нужен"
+    speaker: Андрей Ситник, Артем Зверев, Сергей Сова, Александр Зубов
+    video: 
+    presentation: 
+  - name: Дизайн система на json
+    speaker: София Валитова
+    video: 
+    presentation: 
+  - name: Figma to Code
+    speaker: Michael Musil
+    video: 
+    presentation: 
+  - name: Создание универсальной UI-библиотеки
+    speaker: Евгений Тропин
+    video: 
+    presentation: 

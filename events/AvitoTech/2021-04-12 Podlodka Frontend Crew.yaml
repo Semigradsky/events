@@ -6,7 +6,7 @@ videos:
 talks:
   - name: Батон хлеба в 4к или как работать с изображениями в вебе
     speaker: Илья Куликов
-    video: 
+    video: https://www.youtube.com/watch?v=yp3G0FUOQhM
     presentation: 
   - name: Оптимизации в бандлерах
     speaker: Иван Копейкин
@@ -30,15 +30,15 @@ talks:
     presentation: 
   - name: Как в различных компаниях подходят к работе над перформансом [Круглый стол]
     speaker: Николай Рябов, Владимир Голотин, Артём Белов
-    video: 
+    video: https://www.youtube.com/watch?v=sP6nD7_7hL8
     presentation: 
   - name: Как систематизировать работу над performance у себя в компании?
     speaker: Дмитрий Романов
     video: 
     presentation: 
-  - name: Перформанс-линч ваших проектов
+  - name: Перформанс-линч ваших frontend проектов
     speaker: Николай Рябов, Артём Белов
-    video: 
+    video: https://www.youtube.com/watch?v=PpJALQFQfbw
     presentation: 
   - name: Эффективное тестирование фронтенда
     speaker: Кирилл Мокевнин
