@@ -1,0 +1,20 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2021-09-18
+videos: https://www.youtube.com/watch?v=y7FG9IkQBrI
+talks:
+  - name: Монорепозиторий монорепозиториев
+    speaker: Владимир Гриненко
+    video: https://www.youtube.com/watch?v=y7FG9IkQBrI&t=725s
+    presentation: 
+  - name: Statoscope. Курс интенсивной терапии для вашего бандла
+    speaker: Сергей Мелюков
+    video: https://www.youtube.com/watch?v=y7FG9IkQBrI&t=765s
+    presentation: 
+  - name: Оптимизация изображений, вышедшая из-под контроля
+    speaker: Дмитрий Селянин
+    video: https://www.youtube.com/watch?v=y7FG9IkQBrI&t=820s
+    presentation: 
+  - name: SSR для ускорения первого кадра видео
+    speaker: Павел Соколов
+    video: https://www.youtube.com/watch?v=y7FG9IkQBrI&t=845s
+    presentation: 
