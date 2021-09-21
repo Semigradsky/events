@@ -1,20 +1,20 @@
 name: ITsubbotnik 2019 Autumn
 date: 2019-11-02
-videos: 
+videos: https://www.youtube.com/playlist?list=PLKZ-qTShAAPz1xIXbKV5diCGPUucvT3bS
 talks:
   - name: "Программирование на уровне типов на TypeScript: выжимаем из компилятора все соки"
     speaker: Юрий Богомолов
-    video: 
+    video: https://youtu.be/yBt3t8vzdvs
     presentation: 
   - name: Multiplatform Flutter. Building Adaptive UI
     speaker: Александр Денисов
-    video: 
+    video: https://youtu.be/KdDvUqe-KVA
     presentation: 
   - name: "WebAssembly: что и как"
     speaker: Никита Зимин
-    video: 
+    video: https://youtu.be/jr3J6YHVt5Q
     presentation: 
   - name: "Storybook: true story одного проекта"
     speaker: Фархад Нурмухаметов
-    video: 
+    video: https://youtu.be/AKImECxA_RY
     presentation: 
