@@ -1,0 +1,17 @@
+name: SuperJob JavaScript Meetup
+date: 2019-10-10
+videos: 
+talks:
+  - name: "Опыт работы с JSON:API на клиенте"
+    speaker: Александр Кухта
+    video: https://youtu.be/rAik5tJta78
+    presentation: http://thers.io/talks/json-api-presentation/#/
+    code: https://kgtjo.csb.app/
+  - name: Системы типов и типизация фронтенда
+    speaker: Пётр Солопов
+    video: https://youtu.be/R03nQDKzLGo
+    presentation: https://petersolopov.github.io/talks/2019.10.10-superjob-meetup/#/
+  - name: "Создаём сервер JSON:API на Node.js и PostgreSQL"
+    speaker: Александр Савин
+    video: https://youtu.be/c2Cdt9ojCiU
+    presentation: https://drive.google.com/file/d/1MfOdjWs5nAm0IqdYEo2B_GnJpfxVXTTP/view
