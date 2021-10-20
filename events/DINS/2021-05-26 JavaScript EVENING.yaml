@@ -1,12 +1,12 @@
 name: DINS - JavaScript EVENING
 date: 2021-05-26
-videos: 
+videos: https://www.youtube.com/playlist?list=PLhhTXwj6_Fl3yCIJjnwejB1xTKomm1rGJ
 talks:
   - name: Параллелизм в вебе — что это и зачем?
     speaker: Дмитрий Злыгин
-    video: 
+    video: https://youtu.be/kDg6hLYcQT4
     presentation: 
   - name: Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?
     speaker: Максим Сальников
-    video: 
+    video: https://youtu.be/g6-_9UqAI6A
     presentation: 
