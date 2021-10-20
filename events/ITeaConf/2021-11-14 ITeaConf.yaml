@@ -1,0 +1,28 @@
+name: ITeaConf
+date: 2021-11-14
+videos: 
+talks:
+  - name: Веб-компоненты и дизайн-системы
+    speaker: Дмитрий Разинков
+    video: 
+    presentation: 
+  - name: Что не так с React.js? Best practices vs code smells
+    speaker: Александр Погорелов
+    video: 
+    presentation: 
+  - name: "Howto: интерактивная визуализация на сотни тысяч элементов внутри браузера"
+    speaker: Иван Затравкин
+    video: 
+    presentation: 
+  - name: Rust для web-разработчиков
+    speaker: Александр Колесов
+    video: 
+    presentation: 
+  - name: А где про фреймы?
+    speaker: Сергей Иванов
+    video: 
+    presentation: 
+  - name: Контекстно зависимые топологии (на JavaScript)
+    speaker: Виктор Вершанский
+    video: 
+    presentation: 
