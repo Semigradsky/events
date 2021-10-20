@@ -17,8 +17,9 @@ talks:
     presentation: 
   - name: Чистая архитектура во фронтенде
     speaker: Александр Беспоясов
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=h4WQRqNjmX0
+    presentation: https://bespoyasov.ru/talks/podlodka-conf-clean-architecture/
+    code: https://github.com/bespoyasov/frontend-clean-architecture
   - name: Почему логика должна быть отделена от UI
     speaker: Илья Немиро
     video: 

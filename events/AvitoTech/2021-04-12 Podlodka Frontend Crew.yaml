@@ -54,8 +54,9 @@ talks:
     presentation: 
   - name: "TDD: зачем и как"
     speaker: Александр Беспоясов
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=1SGb-lZclcU
+    presentation: https://bespoyasov.ru/talks/podlodka-conf-2021-tdd/
+    text: https://bespoyasov.ru/blog/frontend-crew-2021-tdd/
   - name: Кажется, пора типизировать твой код
     speaker: Елена Рашкован
     video: 
