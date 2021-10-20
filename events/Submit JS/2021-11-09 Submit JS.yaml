@@ -1,0 +1,12 @@
+name: Submit JS
+date: 2021-11-09
+videos: 
+talks:
+  - name: HTTP3 and UDP for your service
+    speaker: Yuriy Dadichin
+    video: 
+    presentation: 
+  - name: Deno — truthful server-side JavaScript
+    speaker: Владислав Зубко
+    video: 
+    presentation: 
