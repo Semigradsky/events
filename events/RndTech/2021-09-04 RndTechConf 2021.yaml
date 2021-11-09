@@ -9,8 +9,8 @@ talks:
   - name: Что веб грядущий нам готовит
     speaker: Никита Дубко
     video: 
-    presentation: 
-  - name: Необычные браузерные АПИ
+    presentation: https://mefody.github.io/talks/web-future/
+  - name: Необычные браузерные API
     speaker: Александра Шинкевич
     video: 
     presentation: 
