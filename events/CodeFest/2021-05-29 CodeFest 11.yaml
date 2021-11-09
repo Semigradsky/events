@@ -1,0 +1,62 @@
+name: CodeFest 11
+date:
+  - 2021-05-29
+  - 2021-05-30
+videos: 
+talks:
+  - name: Технологии и Архитектура
+    speaker: Вадим Маренков
+    video: 
+    presentation: https://disk.yandex.ru/i/r2iE8bezrA3Q8w
+  - name: Давайте декодируем кодеки!
+    speaker: Полина Гуртовая
+    video: 
+    presentation: https://disk.yandex.ru/d/zOyljBzUM3DpXA
+  - name: Тепловые карты на JavaScript
+    speaker: Олег Кальянов
+    video: 
+    presentation: https://disk.yandex.ru/i/A0Y3JhGMK32csg
+  - name: "(Не)безопасность стороннего кода"
+    speaker: Александр Хамитов
+    video: 
+    presentation: https://disk.yandex.ru/i/voSuySLeXE_hfg
+  - name: Монорепозиторий монорепозиториев
+    speaker: Владимир Гриненко
+    video: 
+    presentation: https://disk.yandex.ru/d/QWFzl3znuXBd9w
+  - name: "Успеть за две недели: с нуля в прод силами трёх фронтендеров"
+    speaker: Андрей Мелихов
+    video: 
+    presentation: https://disk.yandex.ru/d/Q4PUeI6qcVqYRA
+  - name: Кроссплатформа в браузере. ReactNative for Web vs Flutter for Web
+    speaker: Александр Коротаев, Александр Денисов
+    video: 
+    presentation: https://disk.yandex.ru/d/_gzxa97IqxTagw
+  - name: Software Analytics во фронтенде
+    speaker: Денис Колесников
+    video: 
+    presentation: https://disk.yandex.ru/i/VoHIuMNz9ul1OA
+  - name: От одного приложения — к сотне. Путь микрофронтенда в Тинькофф Бизнес
+    speaker: Иван Ишмаметьев
+    video: 
+    presentation: https://disk.yandex.ru/i/1lJiMz0IqI2nvw
+  - name: CSS Animations Today
+    speaker: Юлия Миоцен
+    video: 
+    presentation: https://disk.yandex.ru/i/sEPik5hikciq0A
+  - name: Как темизировать web-интерфейс продукта и задеплоить изменения без участия разработчика
+    speaker: Константин Подрубный
+    video: 
+    presentation: https://disk.yandex.ru/i/tvudb8XNmqeKkQ
+  - name: Data Science на Javascript модулях
+    speaker: Никита Сидоров
+    video: 
+    presentation: https://disk.yandex.ru/d/2RDQXw6a6yWQhg
+  - name: Браузер. Рендеринг. Производительность
+    speaker: Сергей Иванов
+    video: 
+    presentation: https://disk.yandex.ru/i/4oqmmU6hTVOTWg
+  - name: Как выдержать рост проекта, когда ты единственный разработчик
+    speaker: Тим Чаптыков
+    video: 
+    presentation: https://disk.yandex.ru/d/VuYZA0MWWLr9Lg

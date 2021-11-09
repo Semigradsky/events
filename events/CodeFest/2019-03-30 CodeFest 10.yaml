@@ -1,0 +1,46 @@
+name: CodeFest 10
+date:
+  - 2019-03-30
+  - 2019-03-31
+videos: https://www.youtube.com/playlist?list=PL8761XQAJnrZZ2IB-VIvbuCpQxp890Gns
+talks:
+  - name: Делайте из слона муху
+    speaker: Вадим Макеев
+    video: https://youtu.be/3xxaVa2QMP0
+    presentation: https://speakerdeck.com/codefest/codefest-2019-vadim-makieiev-html-academy-dielaitie-iz-slona-mukhu
+  - name: Сжимаем Javascript по-взрослому
+    speaker: Алексей Золотых
+    video: https://youtu.be/feptFoey_bU
+    presentation: https://speakerdeck.com/codefest/codefest-2019-alieksiei-zolotykh-infobip-szhimaiem-javascript-po-vzroslomu
+  - name: WebGL на карте. Карта на WebGL
+    speaker: Мстислав Живодков
+    video: https://youtu.be/57ghglfohmk
+    presentation: https://speakerdeck.com/codefest/codefest-2019-mstislav-zhivodkov-2gis-webgl-na-kartie-karta-na-webgl
+  - name: Анализ уязвимостей процесса аутентификации
+    speaker: Вадим Горбачев
+    video: https://youtu.be/__-NRORYk2s
+    presentation: https://speakerdeck.com/codefest/codefest-2019-vadim-gorbachiev-openway-analiz-uiazvimostiei-protsiessa-autientifikatsii
+  - name: Decentralized Web
+    speaker: Виктор Грищенко
+    video: https://youtu.be/CrH-bhk2G68
+    presentation: https://speakerdeck.com/codefest/codefest-2019-viktor-grishchienko-decentralized-web
+  - name: "Войны фреймворков: эпизод 2019"
+    speaker: Илья Климов
+    video: https://youtu.be/BbQgYGWP0tI
+    presentation: https://speakerdeck.com/codefest/codefest-2019-il-ia-klimov-gitlab-voiny-frieimvorkov-epizod-2019
+  - name: Автоматический рефакторинг кода с помощью codemodes
+    speaker: Александр Мышов
+    video: https://youtu.be/mEOc436lbUw
+    presentation: https://speakerdeck.com/codefest/codefest-2019-alieksandr-myshov-iandieks-avtomatichieskii-riefaktoringh-koda-s-pomoshch-iu-codemodes
+  - name: Как технологии помогают учить людей
+    speaker: Валерия Зелёная
+    video: https://youtu.be/7V35KQHRoGs
+    presentation: https://speakerdeck.com/codefest/codefest-2019-valieriia-zielionaia-html-academy-kak-tiekhnologhii-pomoghaiut-uchit-liudiei
+  - name: Пара слов об эмоджи
+    speaker: Тимофей Чаптыков
+    video: https://youtu.be/Y13CtEcjCF4
+    presentation: https://speakerdeck.com/codefest/codefest-2019-timofiei-chaptykov-vkontaktie-para-slov-ob-emodzhi
+  - name: Как сделать лучше
+    speaker: Егор Банщиков, Владислав Сапожников
+    video: https://youtu.be/8R2vliBijiY
+    presentation: https://speakerdeck.com/codefest/codefest-2019-ieghor-banshchikov-vladislav-sapozhnikov-2gis-kak-sdielat-luchshie
