@@ -28,7 +28,7 @@
 | [Медленный JS: сеанс черной магии с ее разоблачением](https://www.youtube.com/watch?v=ZAJmJmKWNPw)  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
 | [The Illusion of Time. When 60 sec is not 1 minute](https://www.youtube.com/watch?v=AUd1TnJiYcU)  |  [Денис Мишунов](../../speakers/Денис%20Мишунов.md)  |    |
 | [# Self Modifying Code](https://www.youtube.com/watch?v=1uvIw7X0u48)  |  [Martin Kleppe](../../speakers/Martin%20Kleppe.md)  |    |
-| [От экспериментов с инфраструктурой до внедрения в продакшен](https://www.youtube.com/watch?v=xM32c-0BMXc)  |  [Дмитрий Махнев](../../speakers/Дмитрий%20Махнев.md)  |    |
+| [От экспериментов с инфраструктурой до внедрения в продакшен](https://www.youtube.com/watch?v=xM32c-0BMXc)  |  [Дмитрий Махнёв](../../speakers/Дмитрий%20Махнёв.md)  |    |
 | [Как перестать отлаживать асинхронные вызовы и начать жить](https://www.youtube.com/watch?v=OGSppLmGchY)  |  [Андрей Саломатин](../../speakers/Андрей%20Саломатин.md)  |    |
 | [Книги в браузере](https://www.youtube.com/watch?v=m3TK94ZQjPw)  |  [Олег Мохов](../../speakers/Олег%20Мохов.md)  |    |
 | [Continuous Integration — A to Z или Непрерывная интеграция — кто всё сломал?](https://www.youtube.com/watch?v=Rrv0-I3HIAw)  |  [Виктор Русакович](../../speakers/Виктор%20Русакович.md)  |    |

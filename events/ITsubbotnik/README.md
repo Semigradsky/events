@@ -3,6 +3,13 @@
 
 # ITsubbotnik
 
+## ITsubbotnik 2019 Autumn - 2019 Nov 02 [:movie_camera:](https://www.youtube.com/playlist?list=PLKZ-qTShAAPz1xIXbKV5diCGPUucvT3bS)
+| | | |
+| --- | :---: | --- |
+| [Программирование на уровне типов на TypeScript: выжимаем из компилятора все соки](https://youtu.be/yBt3t8vzdvs)  |  [Юрий Богомолов](../../speakers/Юрий%20Богомолов.md)  |    |
+| [Multiplatform Flutter. Building Adaptive UI](https://youtu.be/KdDvUqe-KVA)  |  [Александр Денисов](../../speakers/Александр%20Денисов.md)  |    |
+| [WebAssembly: что и как](https://youtu.be/jr3J6YHVt5Q)  |  [Никита Зимин](../../speakers/Никита%20Зимин.md)  |    |
+| [Storybook: true story одного проекта](https://youtu.be/AKImECxA_RY)  |  [Фархад Нурмухаметов](../../speakers/Фархад%20Нурмухаметов.md)  |    |
 ## ITsubbotnik 2019 Spring - 2019 Apr 20 [:movie_camera:](https://www.youtube.com/playlist?list=PLKZ-qTShAAPyf99Q0h5tLAAVTvqLFooaN)
 | | | |
 | --- | :---: | --- |

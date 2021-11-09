@@ -3,6 +3,36 @@
 
 # CodeFest
 
+## CodeFest 11 - 2021 May 29-30 
+| | | |
+| --- | :---: | --- |
+| Технологии и Архитектура  |  [Вадим Маренков](../../speakers/Вадим%20Маренков.md)  | [:notebook:](https://disk.yandex.ru/i/r2iE8bezrA3Q8w)   |
+| Давайте декодируем кодеки!  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://disk.yandex.ru/d/zOyljBzUM3DpXA)   |
+| Тепловые карты на JavaScript  |  [Олег Кальянов](../../speakers/Олег%20Кальянов.md)  | [:notebook:](https://disk.yandex.ru/i/A0Y3JhGMK32csg)   |
+| (Не)безопасность стороннего кода  |  [Александр Хамитов](../../speakers/Александр%20Хамитов.md)  | [:notebook:](https://disk.yandex.ru/i/voSuySLeXE_hfg)   |
+| Монорепозиторий монорепозиториев  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  | [:notebook:](https://disk.yandex.ru/d/QWFzl3znuXBd9w)   |
+| Успеть за две недели: с нуля в прод силами трёх фронтендеров  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  | [:notebook:](https://disk.yandex.ru/d/Q4PUeI6qcVqYRA)   |
+| Кроссплатформа в браузере. ReactNative for Web vs Flutter for Web  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  [Александр Денисов](../../speakers/Александр%20Денисов.md)  | [:notebook:](https://disk.yandex.ru/d/_gzxa97IqxTagw)   |
+| Software Analytics во фронтенде  |  [Денис Колесников](../../speakers/Денис%20Колесников.md)  | [:notebook:](https://disk.yandex.ru/i/VoHIuMNz9ul1OA)   |
+| От одного приложения — к сотне. Путь микрофронтенда в Тинькофф Бизнес  |  [Иван Ишмаметьев](../../speakers/Иван%20Ишмаметьев.md)  | [:notebook:](https://disk.yandex.ru/i/1lJiMz0IqI2nvw)   |
+| CSS Animations Today  |  [Юлия Миоцен](../../speakers/Юлия%20Миоцен.md)  | [:notebook:](https://disk.yandex.ru/i/sEPik5hikciq0A)   |
+| Как темизировать web-интерфейс продукта и задеплоить изменения без участия разработчика  |  [Константин Подрубный](../../speakers/Константин%20Подрубный.md)  | [:notebook:](https://disk.yandex.ru/i/tvudb8XNmqeKkQ)   |
+| Data Science на Javascript модулях  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  | [:notebook:](https://disk.yandex.ru/d/2RDQXw6a6yWQhg)   |
+| Браузер. Рендеринг. Производительность  |  [Сергей Иванов](../../speakers/Сергей%20Иванов.md)  | [:notebook:](https://disk.yandex.ru/i/4oqmmU6hTVOTWg)   |
+| Как выдержать рост проекта, когда ты единственный разработчик  |  [Тим Чаптыков](../../speakers/Тим%20Чаптыков.md)  | [:notebook:](https://disk.yandex.ru/d/VuYZA0MWWLr9Lg)   |
+## CodeFest 10 - 2019 Mar 30-31 [:movie_camera:](https://www.youtube.com/playlist?list=PL8761XQAJnrZZ2IB-VIvbuCpQxp890Gns)
+| | | |
+| --- | :---: | --- |
+| [Делайте из слона муху](https://youtu.be/3xxaVa2QMP0)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-vadim-makieiev-html-academy-dielaitie-iz-slona-mukhu)   |
+| [Сжимаем Javascript по-взрослому](https://youtu.be/feptFoey_bU)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-alieksiei-zolotykh-infobip-szhimaiem-javascript-po-vzroslomu)   |
+| [WebGL на карте. Карта на WebGL](https://youtu.be/57ghglfohmk)  |  [Мстислав Живодков](../../speakers/Мстислав%20Живодков.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-mstislav-zhivodkov-2gis-webgl-na-kartie-karta-na-webgl)   |
+| [Анализ уязвимостей процесса аутентификации](https://youtu.be/__-NRORYk2s)  |  [Вадим Горбачев](../../speakers/Вадим%20Горбачев.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-vadim-gorbachiev-openway-analiz-uiazvimostiei-protsiessa-autientifikatsii)   |
+| [Decentralized Web](https://youtu.be/CrH-bhk2G68)  |  [Виктор Грищенко](../../speakers/Виктор%20Грищенко.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-viktor-grishchienko-decentralized-web)   |
+| [Войны фреймворков: эпизод 2019](https://youtu.be/BbQgYGWP0tI)  |  [Илья Климов](../../speakers/Илья%20Климов.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-il-ia-klimov-gitlab-voiny-frieimvorkov-epizod-2019)   |
+| [Автоматический рефакторинг кода с помощью codemodes](https://youtu.be/mEOc436lbUw)  |  [Александр Мышов](../../speakers/Александр%20Мышов.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-alieksandr-myshov-iandieks-avtomatichieskii-riefaktoringh-koda-s-pomoshch-iu-codemodes)   |
+| [Как технологии помогают учить людей](https://youtu.be/7V35KQHRoGs)  |  [Валерия Зелёная](../../speakers/Валерия%20Зелёная.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-valieriia-zielionaia-html-academy-kak-tiekhnologhii-pomoghaiut-uchit-liudiei)   |
+| [Пара слов об эмоджи](https://youtu.be/Y13CtEcjCF4)  |  [Тимофей Чаптыков](../../speakers/Тимофей%20Чаптыков.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-timofiei-chaptykov-vkontaktie-para-slov-ob-emodzhi)   |
+| [Как сделать лучше](https://youtu.be/8R2vliBijiY)  |  [Егор Банщиков](../../speakers/Егор%20Банщиков.md)  [Владислав Сапожников](../../speakers/Владислав%20Сапожников.md)  | [:notebook:](https://speakerdeck.com/codefest/codefest-2019-ieghor-banshchikov-vladislav-sapozhnikov-2gis-kak-sdielat-luchshie)   |
 ## FrontFest Moscow 2017 - 2017 Nov 18 
 | | | |
 | --- | :---: | --- |

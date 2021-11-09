@@ -3,6 +3,20 @@
 
 # 404fest
 
+## 404fest 2019 - 2019 Sep 14-15 [:movie_camera:](https://www.youtube.com/playlist?list=PLwFZBhRXDhW6if8yNl6wA1AuqR-AALFZJ)
+| | | |
+| --- | :---: | --- |
+| Хроники CSS  |  [Людмила Мжачих](../../speakers/Людмила%20Мжачих.md)  |    |
+| Мягкий и пушистый путь в Machine Learning и Deep Neural Networks  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+| Исчезающие фреймворки. Взгляд со стороны  |  [Антон Усков](../../speakers/Антон%20Усков.md)  |    |
+| Самопис vs Коробка. Новый баттл разработчиков веб-приложений  |  [Павел Овчинников](../../speakers/Павел%20Овчинников.md)  [Александр Сербул](../../speakers/Александр%20Сербул.md)  [Сергей Шибут](../../speakers/Сергей%20Шибут.md)  |    |
+| [Переходим от Feature-based разработки к Domain Driven Design во имя быстроты, дешевизны и качества](https://youtu.be/ktRV8OjDKKc)  |  [Иван Матвеев](../../speakers/Иван%20Матвеев.md)  |    |
+| [Воркшоп] Mission Possible: Собрать PWA целиком из Web Components за 180 минут.  |  [Алексей Родионов](../../speakers/Алексей%20Родионов.md)  |    |
+| Монорепозитируй это!  |  [Иван Ботанов](../../speakers/Иван%20Ботанов.md)  |    |
+| [Open source - это выгодно, или почему твой код никто не украдёт](https://youtu.be/tqT_K8-3HXI)  |  [Николай Сладкий](../../speakers/Николай%20Сладкий.md)  |    |
+| Про геометрию и математику  |  [Владимир Куликов](../../speakers/Владимир%20Куликов.md)  |    |
+| [Использование Google Closure Compiler в современном фронтенде](https://youtu.be/8igaJywjyyk)  |  [Ильяс Кабиров](../../speakers/Ильяс%20Кабиров.md)  |    |
+| [Math driven development. Как знание статистики и графов может улучшить качество кода, который вы пишете](https://youtu.be/nG9k6upcPps)  |  [Всеволод Родионов](../../speakers/Всеволод%20Родионов.md)  |    |
 ## 404fest 2018 - 2018 Oct 06-07 [:movie_camera:](https://www.youtube.com/playlist?list=PLwFZBhRXDhW5P9gnp1FM4DvfvRqF8h4z6)
 | | | |
 | --- | :---: | --- |

@@ -209,7 +209,7 @@
 | --- | :---: | --- |
 | [И снова Dart](https://www.youtube.com/watch?v=fVgf2bImp6s)  |  [Евгений Гусев](../../speakers/Евгений%20Гусев.md)  |  [:octocat:](https://gist.github.com/bunopus/3c8cc4b950cbcafd61b195a1fbeab6ad)  |
 | [Kotlin 101](https://www.youtube.com/watch?v=sUNJWJ1kLC0)  |  [Залим Башоров](../../speakers/Залим%20Башоров.md)  | [:notebook:](http://zal.im/slides/piterjs20)   |
-| [Wallaby.js: экономим 100+ рабочих часов в год](https://www.youtube.com/watch?v=w7Woj5IxwUM)  |  [Дмитрий Махнев](../../speakers/Дмитрий%20Махнев.md)  | [:notebook:](https://cloud.mail.ru/public/7AER/b2qUfEemo)   |
+| [Wallaby.js: экономим 100+ рабочих часов в год](https://www.youtube.com/watch?v=w7Woj5IxwUM)  |  [Дмитрий Махнёв](../../speakers/Дмитрий%20Махнёв.md)  | [:notebook:](https://cloud.mail.ru/public/7AER/b2qUfEemo)   |
 | [Clojure for frontenders](https://www.youtube.com/watch?v=6oF_fRyKsd4)  |  [Николай Рыжиков](../../speakers/Николай%20Рыжиков.md)  |  [:octocat:](https://github.com/niquola/piterjs-2017-slides)  |
 ## PiterJS 19 - 2017 Dec 01 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxgSCPpQmdSnCmg_GHNxC-0p)
 | | | |

@@ -3,6 +3,11 @@
 
 # DINS
 
+## DINS - JavaScript EVENING - 2021 May 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLhhTXwj6_Fl3yCIJjnwejB1xTKomm1rGJ)
+| | | |
+| --- | :---: | --- |
+| [Параллелизм в вебе — что это и зачем?](https://youtu.be/kDg6hLYcQT4)  |  [Дмитрий Злыгин](../../speakers/Дмитрий%20Злыгин.md)  |    |
+| [Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?](https://youtu.be/g6-_9UqAI6A)  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  |    |
 ## DINS - JavaScript EVENING - 2021 Jan 28 [:movie_camera:](https://www.youtube.com/playlist?list=PLhhTXwj6_Fl3yCIJjnwejB1xTKomm1rGJ)
 | | | |
 | --- | :---: | --- |

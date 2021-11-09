@@ -3,6 +3,83 @@
 
 # HolyJS
 
+## HolyJS 2021 Moscow - 2021 Nov 02-05 
+| | | |
+| --- | :---: | --- |
+| Докручиваем ApolloClient до энтерпрайзной разработки  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  |    |
+| Воркшоп: Пишем браузерное расширение с нуля  |  [Семён Левенсон](../../speakers/Семён%20Левенсон.md)  |  [:octocat:](https://github.com/semeleven/webextension-workshop)  |
+| React.memo — сплетни&#x2F;исходники&#x2F;грань полезности  |  [Александр Бальцевич](../../speakers/Александр%20Бальцевич.md)  |    |
+| Фреймворки и паттерны разработки цифровых решений на производстве  |  [Илья Симоненко](../../speakers/Илья%20Симоненко.md)  [Алексей Краснобаев](../../speakers/Алексей%20Краснобаев.md)  [Алина Макеева](../../speakers/Алина%20Макеева.md)  [Павел Доронин](../../speakers/Павел%20Доронин.md)  [Олег Кондрашин](../../speakers/Олег%20Кондрашин.md)  |    |
+| Ещё один текстовый веб-редактор и в чём проблемы contenteditable?  |  [Даниил Налетов](../../speakers/Даниил%20Налетов.md)  |    |
+| Statoscope. Курс интенсивной терапии для вашего бандла.  |  [Сергей Мелюков](../../speakers/Сергей%20Мелюков.md)  |    |
+| Расширения для браузера: Угроза или опасность?  |  [Али Гасымов](../../speakers/Али%20Гасымов.md)  |    |
+| Поглощение через микрофронтенд: нужно просто вставить одно приложение в другое  |  [Дмитрий Смирнов](../../speakers/Дмитрий%20Смирнов.md)  |    |
+| Agile-процессы в современных продуктовых компаниях  |  [Сергей Сергеев](../../speakers/Сергей%20Сергеев.md)  |    |
+| Функциональное программирование в JS — серебряная пуля  |  [Надир Жумабаев](../../speakers/Надир%20Жумабаев.md)  |    |
+| Доска в клеточку. Рисуем математику в вебе  |  [Антон Хайновский](../../speakers/Антон%20Хайновский.md)  |    |
+| RacketScript — язык будущего?  |  [Сергей Головин](../../speakers/Сергей%20Головин.md)  |    |
+| Использование многопоточности в браузере  |  [Дмитрий Злыгин](../../speakers/Дмитрий%20Злыгин.md)  |    |
+| Как силами небольшой команды делать омниканальную систему  |  [Андрей Журавков](../../speakers/Андрей%20Журавков.md)  |    |
+| Звонки на 2000+ участников, или Что умеет WebRTC  |  [Вадим Горбачев](../../speakers/Вадим%20Горбачев.md)  |    |
+| GraphQL platform at Uber  |  [Диана Суворова](../../speakers/Диана%20Суворова.md)  |    |
+| Как и зачем мы мигрировали Авиасейлс на Effector  |  [Игорь Камышев](../../speakers/Игорь%20Камышев.md)  |    |
+| MoleculerJS: высоконагруженные, отказоустойчивые и распределенные микросервисы  |  [Иван Журавлев](../../speakers/Иван%20Журавлев.md)  | [:notebook:](https://assets.ctfassets.net/nn534z2fqr9f/4RqTJqurhFwoUpfmYLslft/6f388b561cc7b3d085b9091bb4354be0/HolyJS_2021_Moscow_MoleculerJS.pdf)   |
+| Node.js: Меньше сложности, больше надежности  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  |    |
+| Vue2 или Vue3 — что выбрать в 2021 году?  |  [Михаил Тадевосян](../../speakers/Михаил%20Тадевосян.md)  |    |
+| Разработка микрофронтов: на что обратить внимание при построении архитектуры  |  [Олег Гарипов](../../speakers/Олег%20Гарипов.md)  [Ярослава Суспицина](../../speakers/Ярослава%20Суспицина.md)  |    |
+| Картинки со звуком  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/img-with-sound/)   |
+| Фронтендер и его 10 тысяч кроликов  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  |    |
+| Нестандартный подход к выбору клиентской библиотеки GraphQL  |  [Виктор Щеглов](../../speakers/Виктор%20Щеглов.md)  |    |
+| Человеческое введение в WebGL и хардкор с рисованием линий  |  [Иван Попелышев](../../speakers/Иван%20Попелышев.md)  | [:notebook:](https://assets.ctfassets.net/nn534z2fqr9f/6LM5n7g9ThY9VpRpq67AnT/ab6a8b31794bd59f9d8840e0f15d854d/______-________________-______-______________-__________.pdf)   |
+| OpenID Connect и OAuth2.0  |  [Михаил Вовренчук](../../speakers/Михаил%20Вовренчук.md)  |    |
+| Разбор полетов: Microsoft To-Do  |  [Алексей Мигуцкий](../../speakers/Алексей%20Мигуцкий.md)  |    |
+| Что веб грядущий нам готовит?  |  [Александр Мышов](../../speakers/Александр%20Мышов.md)  [Сергей Рубанов](../../speakers/Сергей%20Рубанов.md)  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  [Сергей Иванов](../../speakers/Сергей%20Иванов.md)  |    |
+| Воркшоп. GlimmerX — declarative UI &amp; derived reactivity in 27kb  |  [Александр Канунников](../../speakers/Александр%20Канунников.md)  |  [:octocat:](https://github.com/lifeart/glimmerx-workshop)  |
+| Advanced types в TypeScript  |  [Алексей Березин](../../speakers/Алексей%20Березин.md)  |    |
+| Считаете, что TDD не работает? У меня для вас плохие новости  |  [Дмитрий Коваленко](../../speakers/Дмитрий%20Коваленко.md)  |    |
+| Знакомство с Докой: редакция отвечает на вопросы  |  [Таня Денисюк](../../speakers/Таня%20Денисюк.md)  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  [Алёна Батицкая](../../speakers/Алёна%20Батицкая.md)  [Николай Лопин](../../speakers/Николай%20Лопин.md)  [Игорь Коровченко](../../speakers/Игорь%20Коровченко.md)  |    |
+| Сделать выбор в пользу GraphQL или дать шанс REST?  |  [Михаил Тадевосян](../../speakers/Михаил%20Тадевосян.md)  |    |
+| Множественное наследование на JavaScript  |  [Виктор Вершанский](../../speakers/Виктор%20Вершанский.md)  |    |
+| Ethereum &amp; DeFi for JS developer  |  [Артем Воробьев](../../speakers/Артем%20Воробьев.md)  |    |
+| Как прокачаться с мидла до сеньора  |  [Татьяна Денисюк](../../speakers/Татьяна%20Денисюк.md)  [Михаил Башуров](../../speakers/Михаил%20Башуров.md)  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  [Станислав Цыганов](../../speakers/Станислав%20Цыганов.md)  |    |
+| Тонкости разработки дизайн-системы  |  [Иван Гришин](../../speakers/Иван%20Гришин.md)  |    |
+| Как готовить production с Webpack 5 module federation  |  [Вадим Малютин](../../speakers/Вадим%20Малютин.md)  |    |
+| JavaScript и «бабушкофон», или Самая большая платформа, о которой вы никогда не слышали  |  [Никита Мостовой](../../speakers/Никита%20Мостовой.md)  |    |
+## HolyJS 2021 Piter - 2021 Apr 20-23 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8JyUetDcVI5iHzGP8pfKjcl)
+| | | |
+| --- | :---: | --- |
+| [«Напомни через минуту», или Как считать время в браузере](https://youtu.be/gzPKR27PMTQ)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://assets.ctfassets.net/nn534z2fqr9f/3bh23qPemACLAemD2sqa5Q/d4329794b821b17db36526644c46aecb/Nikita_Dubko_Napomni_cherez_minutu_ili_Kak_schitat_vremya_v_brauzere_2021_04_19_17_17_14.pdf)   |
+| [Оптимизация синхронной асинхронности](https://youtu.be/-XccS5o_rvg)  |  [Дмитрий Махнёв](../../speakers/Дмитрий%20Махнёв.md)  |    |
+| [WebXR в реальной жизни](https://youtu.be/6eGVk9Qi0ho)  |  [Роман Пономарев](../../speakers/Роман%20Пономарев.md)  |    |
+| [Как отобразить 100500 метрик распределенной системы и не сойти с ума](https://youtu.be/EhjJOZRDAA4)  |  [Андрей Гончаров](../../speakers/Андрей%20Гончаров.md)  | [:notebook:](https://assets.ctfassets.net/nn534z2fqr9f/7D0k41NS76hllImdjQktoL/800b8d60981b7dcf35f9a54e6c4b1c1b/Andrey_Goncharov_Kak_otobrazit_100500_metrik_raspredelennoy_sistemy_i_ne_soyti_s_uma_2021_04_19_22_42_51.pdf)   |
+| [Лотти, ты просто космос!](https://youtu.be/OSUH81OGuSg)  |  [Максим Кузнецов](../../speakers/Максим%20Кузнецов.md)  |    |
+| [Система контентных компонентов для быстрой поддержки сайта selectel.ru](https://youtu.be/nxGCM4erYl0)  |  [Евгений Полосухин](../../speakers/Евгений%20Полосухин.md)  |    |
+| [Как в GitLab @vue&#x2F;test-utils обновляли](https://youtu.be/LjZVjhtiPn8)  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
+| [Анализ больших географически распределенных данных через визуализацию на карте](https://youtu.be/2sF-nDnwtIA)  |  [Никита Швыряев](../../speakers/Никита%20Швыряев.md)  | [:notebook:](https://assets.ctfassets.net/nn534z2fqr9f/6EBUgdSADYVzn8l8kGiGXQ/87165e7d6e5b1317307d699f03a26dc9/HolyJS___________________________________________________.pdf)   |
+| [Strict Types in JavaScript](https://youtu.be/7_APF8q4ZX8)  |  [Виктор Вершанский](../../speakers/Виктор%20Вершанский.md)  |    |
+| [А нужен ли нам GraphQL?](https://youtu.be/-HcqxE5vlN0)  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  | [:notebook:](https://nodkz.github.io/conf-talks/talks/2021.04.21-do-we-need-graphql/index.html#/)   |
+| [Свой язык с поддержкой sourcemaps за полчаса](https://youtu.be/rQEqXIo4PVM)  |  [Дмитрий Карловский](../../speakers/Дмитрий%20Карловский.md)  | [:notebook:](https://slides.hyoo.ru/#slides=https%3A%2F%2Fnin-jin.github.io%2Fslides%2Fsourcemap%2F)   |
+| [Быстрый веб на бюджетной ТВ-приставке на React &amp; Styled Components](https://youtu.be/ylW52EWLqkM)  |  [Павел Ремизов](../../speakers/Павел%20Ремизов.md)  |    |
+| [Воркшоп. GitLab + CI&#x2F;CD + JavaScript &#x3D; ❤️ (Часть 1)](https://youtu.be/ob5qrncMMUI)  |  [Виталий Слободин](../../speakers/Виталий%20Слободин.md)  |    |
+| [Воркшоп. GitLab + CI&#x2F;CD + JavaScript &#x3D; ❤️ (Часть 2)](https://youtu.be/MSA-dE_bYlc)  |  [Виталий Слободин](../../speakers/Виталий%20Слободин.md)  |    |
+| [Создание навыков для виртуальных ассистентов на JS](https://youtu.be/ZbVdGb96Hhc)  |  [Антон Виноградов](../../speakers/Антон%20Виноградов.md)  |    |
+| [Зачем OCaml на фронтенде](https://youtu.be/5FdmV_H5ggk)  |  [Дмитрий Коваленко](../../speakers/Дмитрий%20Коваленко.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/7sTUIgyoRIO9nULND4NhmP/e5aa0c52758910600e13aec9d051ddce/holyjs-2021.pdf)   |
+| [Стабильность React Native-приложения с круглосуточным up time](https://youtu.be/LnaujuIBmmg)  |  [Евгений Гейманен](../../speakers/Евгений%20Гейманен.md)  |    |
+| [Браузерный игровой движок как pet-проект](https://youtu.be/r2aeSbpFcbg)  |  [Михаил Реммеле](../../speakers/Михаил%20Реммеле.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/6A0WHfW7rzRuzblok3N5yz/9e117b6fb8d391dbf9ef836aa47f2193/HolyJS_2021______________________________________________________________pet-______________3_.pdf)   |
+| [Микросервисы, которые делаем мы](https://youtu.be/tF3iNp5YFYk)  |  [Олег Сметанин](../../speakers/Олег%20Сметанин.md)  |    |
+| [Challenges and trade-offs for in-browser computer vision applications](https://youtu.be/UfKQb37_HcY)  |  [Аркадий Пильгук](../../speakers/Аркадий%20Пильгук.md)  |    |
+| [Браузерные плагины — убийцы Virtual DOM](https://youtu.be/rfbUqJrmXf0)  |  [Ольга Болотова](../../speakers/Ольга%20Болотова.md)  |    |
+| [Serverless и Edge Computing на практике](https://youtu.be/HSmdcVhvjIA)  |  [Алексей Тактаров](../../speakers/Алексей%20Тактаров.md)  |    |
+| [Поговорим про разработку реалтайм-приложения, Или как мы делали свой коллаборативный PowerPoint](https://youtu.be/9gRyb9PTEA0)  |  [Егор Малькевич](../../speakers/Егор%20Малькевич.md)  |    |
+| [npm run a11y-test](https://youtu.be/B1ZCMFJ-6rs)  |  [Глафира Жур](../../speakers/Глафира%20Жур.md)  |    |
+| [Всё, что вам нужно — DevTools](https://youtu.be/KLW8wjJ6SqM)  |  [Виталий Фридман](../../speakers/Виталий%20Фридман.md)  |    |
+| [Микрофронтенды на модулях и веб-компонентах](https://youtu.be/oT3EQiYBhz0)  |  [Юрий Караджов](../../speakers/Юрий%20Караджов.md)  |    |
+| [Воркшоп: Знакомство с MobX](https://youtu.be/gXy1H3yZtSA)  |  [Назим Гафаров](../../speakers/Назим%20Гафаров.md)  |    |
+| [Родословные зависимых типов на JavaScript](https://youtu.be/Q7oXBv03Db8)  |  [Виктор Вершанский](../../speakers/Виктор%20Вершанский.md)  |    |
+| [Code With Me — новая платформа для удаленной коллаборативной разработки](https://youtu.be/NGLoKxhgFY4)  |  [Кирилл Скрыган](../../speakers/Кирилл%20Скрыган.md)  |    |
+| [Гиперавтоматизированный пайплайн, или Почему матрица должна победить](https://youtu.be/P5TVBhMOVJY)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  | [:notebook:](https://zolotyh.github.io/holy2021spring/)   |
+| [Производительность в полевых условиях](https://youtu.be/gMl-zZE40pw)  |  [Александр Шушунов](../../speakers/Александр%20Шушунов.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/12LJVzd3MdBlc05iJXuoxb/9db2b79656bedf3bc5a71bce3dc2bd63/Performance_Holy_public.pdf)   |
+| [Оптимизация производительности высоконагруженного поиска на стороне фронтенда](https://youtu.be/vruhcLMbwhY)  |  [Даниил Гоник](../../speakers/Даниил%20Гоник.md)  [Ян Штефанец](../../speakers/Ян%20Штефанец.md)  |    |
 ## HolyJS 2020 Moscow - 2020 Nov 25-28 
 | | | |
 | --- | :---: | --- |

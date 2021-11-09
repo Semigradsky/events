@@ -9,7 +9,7 @@
 | Круглый стол: А что такое архитектура фронтенда?  |  [Unknown](../../speakers/Unknown.md)  |    |
 | В каких проектах стоит использовать GraphQL  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  |    |
 | [Feature Sliced — Архитектура Frontend проектов](https://www.youtube.com/watch?v=SnzPAr_FJ7w)  |  [Илья Азин](../../speakers/Илья%20Азин.md)  |  [:octocat:](https://github.com/feature-sliced)  |
-| Чистая архитектура во фронтенде  |  [Александр Беспоясов](../../speakers/Александр%20Беспоясов.md)  |    |
+| [Чистая архитектура во фронтенде](https://www.youtube.com/watch?v=h4WQRqNjmX0)  |  [Александр Беспоясов](../../speakers/Александр%20Беспоясов.md)  | [:notebook:](https://bespoyasov.ru/talks/podlodka-conf-clean-architecture/) [:octocat:](https://github.com/bespoyasov/frontend-clean-architecture)  |
 | Почему логика должна быть отделена от UI  |  [Илья Немиро](../../speakers/Илья%20Немиро.md)  |    |
 | Микрофронтенды и виджеты в 2021-м  |  [Алексей Гусев](../../speakers/Алексей%20Гусев.md)  |    |
 | Чеклист успешного архитектора  |  [Антон Шувалов](../../speakers/Антон%20Шувалов.md)  |    |
@@ -40,7 +40,7 @@
 | [Эффективное тестирование фронтенда](https://www.youtube.com/watch?v=e9DRhxRwsfU)  |  [Кирилл Мокевнин](../../speakers/Кирилл%20Мокевнин.md)  |    |
 | Введение в юнит тесты  |  [Сергей Рябенко](../../speakers/Сергей%20Рябенко.md)  |    |
 | Как стандарты кодирования помогают при разработке библиотек  |  [Игорь Шеко](../../speakers/Игорь%20Шеко.md)  |    |
-| TDD: зачем и как  |  [Александр Беспоясов](../../speakers/Александр%20Беспоясов.md)  |    |
+| [TDD: зачем и как](https://www.youtube.com/watch?v=1SGb-lZclcU)  |  [Александр Беспоясов](../../speakers/Александр%20Беспоясов.md)  | [:notebook:](https://bespoyasov.ru/talks/podlodka-conf-2021-tdd/)  [:spiral_notepad:](https://bespoyasov.ru/blog/frontend-crew-2021-tdd/) |
 | Кажется, пора типизировать твой код  |  [Елена Рашкован](../../speakers/Елена%20Рашкован.md)  |    |
 | [Круглый стол по качеству и стабильности](https://www.youtube.com/watch?v=yumnasnGoyY)  |  [Алексей Остапенко](../../speakers/Алексей%20Остапенко.md)  [Кирилл Мокевнин](../../speakers/Кирилл%20Мокевнин.md)  [Владимир Голотин](../../speakers/Владимир%20Голотин.md)  |    |
 | Мониторинг ошибок на клиенте и методы для поиска причин этих ошибок  |  [Валерий Кондратьев](../../speakers/Валерий%20Кондратьев.md)  |    |
