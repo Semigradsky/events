@@ -2,5 +2,49 @@ name: 404fest 2019
 date:
   - 2019-09-14
   - 2019-09-15
-videos: ''
-talks: []
+videos: https://www.youtube.com/playlist?list=PLwFZBhRXDhW6if8yNl6wA1AuqR-AALFZJ
+talks:
+  - name: Хроники CSS
+    speaker: Людмила Мжачих
+    video: 
+    presentation: 
+  - name: Мягкий и пушистый путь в Machine Learning и Deep Neural Networks
+    speaker: Алексей Охрименко
+    video: 
+    presentation: 
+  - name: Исчезающие фреймворки. Взгляд со стороны
+    speaker: Антон Усков
+    video: 
+    presentation: 
+  - name: "Самопис vs Коробка. Новый баттл разработчиков веб-приложений"
+    speaker: Павел Овчинников, Александр Сербул, Сергей Шибут
+    video: 
+    presentation: 
+  - name: Переходим от Feature-based разработки к Domain Driven Design во имя быстроты, дешевизны и качества
+    speaker: Иван Матвеев
+    video: https://youtu.be/ktRV8OjDKKc
+    presentation: 
+  - name: "[Воркшоп] Mission Possible: Собрать PWA целиком из Web Components за 180 минут."
+    speaker: Алексей Родионов
+    video: 
+    presentation: 
+  - name: Монорепозитируй это!
+    speaker: Иван Ботанов
+    video: 
+    presentation: 
+  - name: Open source - это выгодно, или почему твой код никто не украдёт
+    speaker: Николай Сладкий
+    video: https://youtu.be/tqT_K8-3HXI
+    presentation: 
+  - name: Про геометрию и математику
+    speaker: Владимир Куликов
+    video: 
+    presentation: 
+  - name: Использование Google Closure Compiler в современном фронтенде
+    speaker: Ильяс Кабиров
+    video: https://youtu.be/8igaJywjyyk
+    presentation: 
+  - name: Math driven development. Как знание статистики и графов может улучшить качество кода, который вы пишете
+    speaker: Всеволод Родионов
+    video: https://youtu.be/nG9k6upcPps
+    presentation: 

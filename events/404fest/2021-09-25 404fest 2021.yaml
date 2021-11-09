@@ -3,4 +3,52 @@ date:
   - 2021-09-25
   - 2021-09-26
 videos: 
-talks: []
+talks:
+  - name: Flutter и веб-разработка. Тварь ли дрожащая или право имеет?
+    speaker: Александр Денисов
+    video: 
+    presentation: 
+  - name: Развитие b2b проекта от шаблона к SPA. Как понять бизнес, не тратясь на рефакторинг
+    speaker: Виталий Копачев
+    video: 
+    presentation: 
+  - name: Что веб грядущий нам готовит
+    speaker: Никита Дубко
+    video: 
+    presentation: 
+  - name: Условно адаптивно
+    speaker: Вадим Макеев
+    video: 
+    presentation: 
+  - name: Используем USB-токены для аутентификации в браузере
+    speaker: Алексей Авдеев
+    video: 
+    presentation: 
+  - name: "Web Performance: 101"
+    speaker: Артём Белов, Александра Полищук
+    video: 
+    presentation: 
+  - name: Докручиваем ApolloClient до интерпрайзной разработки
+    speaker: Павел Черторогов
+    video: 
+    presentation: 
+  - name: Сам себе дизайнер
+    speaker: Юлия Миоцен, Александра Годун
+    video: 
+    presentation: 
+  - name: PWA - время пришло
+    speaker: Глеб Хмызников
+    video: 
+    presentation: 
+  - name: Таинственные шедулеры RxJS в море асинхронных чудовищ
+    speaker: Сэм Булатов
+    video: 
+    presentation: 
+  - name: Наверстываем упущенное. О чем мечтали на конференциях по фронтэнду наши предки, что так и не оправдало надежд, чего уже начали стыдиться (и чего будем стыдиться через 5 лет мы)
+    speaker: Всеволод Родионов
+    video: 
+    presentation: 
+  - name: RTC и Франкенштейн
+    speaker: Полина Гуртовая
+    video: 
+    presentation: 
