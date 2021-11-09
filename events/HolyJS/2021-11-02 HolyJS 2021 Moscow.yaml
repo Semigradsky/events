@@ -1,0 +1,164 @@
+name: HolyJS 2021 Moscow
+date:
+  - 2021-11-02
+  - 2021-11-05
+videos: 
+talks:
+  - name: Докручиваем ApolloClient до энтерпрайзной разработки
+    speaker: Павел Черторогов
+    video: 
+    presentation: 
+  - name: "Воркшоп: Пишем браузерное расширение с нуля"
+    speaker: Семён Левенсон
+    video: 
+    presentation: 
+    code: https://github.com/semeleven/webextension-workshop
+  - name: "React.memo — сплетни/исходники/грань полезности"
+    speaker: Александр Бальцевич
+    video: 
+    presentation: 
+  - name: Фреймворки и паттерны разработки цифровых решений на производстве
+    speaker: Илья Симоненко, Алексей Краснобаев, Алина Макеева, Павел Доронин, Олег Кондрашин
+    video: 
+    presentation: 
+  - name: Ещё один текстовый веб-редактор и в чём проблемы contenteditable?
+    speaker: Даниил Налетов
+    video: 
+    presentation: 
+  - name: Statoscope. Курс интенсивной терапии для вашего бандла.
+    speaker: Сергей Мелюков
+    video: 
+    presentation: 
+  - name: "Расширения для браузера: Угроза или опасность?"
+    speaker: Али Гасымов
+    video: 
+    presentation: 
+  - name: "Поглощение через микрофронтенд: нужно просто вставить одно приложение в другое"
+    speaker: Дмитрий Смирнов
+    video: 
+    presentation: 
+  - name: Agile-процессы в современных продуктовых компаниях
+    speaker: Сергей Сергеев
+    video: 
+    presentation: 
+  - name: Функциональное программирование в JS — серебряная пуля
+    speaker: Надир Жумабаев
+    video: 
+    presentation: 
+  - name: Доска в клеточку. Рисуем математику в вебе
+    speaker: Антон Хайновский
+    video: 
+    presentation: 
+  - name: RacketScript — язык будущего?
+    speaker: Сергей Головин
+    video: 
+    presentation: 
+  - name: Использование многопоточности в браузере
+    speaker: Дмитрий Злыгин
+    video: 
+    presentation: 
+  - name: Как силами небольшой команды делать омниканальную систему
+    speaker: Андрей Журавков
+    video: 
+    presentation: 
+  - name: Звонки на 2000+ участников, или Что умеет WebRTC
+    speaker: Вадим Горбачев
+    video: 
+    presentation: 
+  - name: GraphQL platform at Uber
+    speaker: Диана Суворова
+    video: 
+    presentation: 
+  - name: Как и зачем мы мигрировали Авиасейлс на Effector
+    speaker: Игорь Камышев
+    video: 
+    presentation: 
+  - name: "MoleculerJS: высоконагруженные, отказоустойчивые и распределенные микросервисы"
+    speaker: Иван Журавлев
+    video: 
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/4RqTJqurhFwoUpfmYLslft/6f388b561cc7b3d085b9091bb4354be0/HolyJS_2021_Moscow_MoleculerJS.pdf
+  - name: "Node.js: Меньше сложности, больше надежности"
+    speaker: Тимур Шемсединов
+    video: 
+    presentation: 
+  - name: Vue2 или Vue3 — что выбрать в 2021 году?
+    speaker: Михаил Тадевосян
+    video: 
+    presentation: 
+  - name: "Разработка микрофронтов: на что обратить внимание при построении архитектуры"
+    speaker: Олег Гарипов, Ярослава Суспицина
+    video: 
+    presentation: 
+  - name: Картинки со звуком
+    speaker: Никита Дубко
+    video: 
+    presentation: https://mefody.github.io/talks/img-with-sound/
+  - name: Фронтендер и его 10 тысяч кроликов
+    speaker: Александр Коротаев
+    video: 
+    presentation: 
+  - name: Нестандартный подход к выбору клиентской библиотеки GraphQL
+    speaker: Виктор Щеглов
+    video: 
+    presentation: 
+  - name: Человеческое введение в WebGL и хардкор с рисованием линий
+    speaker: Иван Попелышев
+    video: 
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/6LM5n7g9ThY9VpRpq67AnT/ab6a8b31794bd59f9d8840e0f15d854d/______-________________-______-______________-__________.pdf
+  - name: OpenID Connect и OAuth2.0
+    speaker: Михаил Вовренчук
+    video: 
+    presentation: 
+  - name: "Разбор полетов: Microsoft To-Do"
+    speaker: Алексей Мигуцкий
+    video: 
+    presentation: 
+  - name: Что веб грядущий нам готовит?
+    speaker: Александр Мышов, Сергей Рубанов, Андрей Мелихов, Сергей Иванов
+    video: 
+    presentation: 
+  - name: "Воркшоп. GlimmerX — declarative UI & derived reactivity in 27kb"
+    speaker: Александр Канунников
+    video: 
+    presentation: 
+    code: https://github.com/lifeart/glimmerx-workshop
+  - name: Advanced types в TypeScript
+    speaker: Алексей Березин
+    video: 
+    presentation: 
+  - name: Считаете, что TDD не работает? У меня для вас плохие новости
+    speaker: Дмитрий Коваленко
+    video: 
+    presentation: 
+  - name: "Знакомство с Докой: редакция отвечает на вопросы"
+    speaker: Таня Денисюк, Алексей Золотых, Алёна Батицкая, Николай Лопин, Игорь Коровченко
+    video: 
+    presentation: 
+  - name: Сделать выбор в пользу GraphQL или дать шанс REST?
+    speaker: Михаил Тадевосян
+    video: 
+    presentation: 
+  - name: Множественное наследование на JavaScript
+    speaker: Виктор Вершанский
+    video: 
+    presentation: 
+  - name: Ethereum & DeFi for JS developer
+    speaker: Артем Воробьев
+    video: 
+    presentation: 
+  - name: Как прокачаться с мидла до сеньора
+    speaker: Татьяна Денисюк, Михаил Башуров, Алексей Золотых, Станислав Цыганов
+    video: 
+    presentation: 
+  - name: Тонкости разработки дизайн-системы
+    speaker: Иван Гришин
+    video: 
+    presentation: 
+  - name: Как готовить production с Webpack 5 module federation
+    speaker: Вадим Малютин
+    video: 
+    presentation: 
+  - name: "JavaScript и «бабушкофон», или Самая большая платформа, о которой вы никогда не слышали"
+    speaker: Никита Мостовой
+    video: 
+    presentation: 

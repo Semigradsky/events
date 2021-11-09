@@ -11,7 +11,7 @@ talks:
     video: https://www.youtube.com/watch?v=sUNJWJ1kLC0
     presentation: http://zal.im/slides/piterjs20
   - name: 'Wallaby.js: экономим 100+ рабочих часов в год'
-    speaker: Дмитрий Махнев
+    speaker: Дмитрий Махнёв
     video: https://www.youtube.com/watch?v=w7Woj5IxwUM
     presentation: https://cloud.mail.ru/public/7AER/b2qUfEemo
   - name: Clojure for frontenders

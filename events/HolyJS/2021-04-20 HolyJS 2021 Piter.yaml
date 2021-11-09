@@ -1,0 +1,134 @@
+name: HolyJS 2021 Piter
+date:
+  - 2021-04-20
+  - 2021-04-23
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8JyUetDcVI5iHzGP8pfKjcl
+talks:
+  - name: "«Напомни через минуту», или Как считать время в браузере"
+    speaker: Никита Дубко
+    video: https://youtu.be/gzPKR27PMTQ
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/3bh23qPemACLAemD2sqa5Q/d4329794b821b17db36526644c46aecb/Nikita_Dubko_Napomni_cherez_minutu_ili_Kak_schitat_vremya_v_brauzere_2021_04_19_17_17_14.pdf
+  - name: Оптимизация синхронной асинхронности
+    speaker: Дмитрий Махнёв
+    video: https://youtu.be/-XccS5o_rvg
+    presentation: 
+  - name: WebXR в реальной жизни
+    speaker: Роман Пономарев
+    video: https://youtu.be/6eGVk9Qi0ho
+    presentation: 
+  - name: Как отобразить 100500 метрик распределенной системы и не сойти с ума
+    speaker: Андрей Гончаров
+    video: https://youtu.be/EhjJOZRDAA4
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/7D0k41NS76hllImdjQktoL/800b8d60981b7dcf35f9a54e6c4b1c1b/Andrey_Goncharov_Kak_otobrazit_100500_metrik_raspredelennoy_sistemy_i_ne_soyti_s_uma_2021_04_19_22_42_51.pdf
+  - name: Лотти, ты просто космос!
+    speaker: Максим Кузнецов
+    video: https://youtu.be/OSUH81OGuSg
+    presentation: 
+  - name: Система контентных компонентов для быстрой поддержки сайта selectel.ru
+    speaker: Евгений Полосухин
+    video: https://youtu.be/nxGCM4erYl0
+    presentation: 
+  - name: Как в GitLab @vue/test-utils обновляли
+    speaker: Илья Климов
+    video: https://youtu.be/LjZVjhtiPn8
+    presentation: 
+  - name: Анализ больших географически распределенных данных через визуализацию на карте
+    speaker: Никита Швыряев
+    video: https://youtu.be/2sF-nDnwtIA
+    presentation: https://assets.ctfassets.net/nn534z2fqr9f/6EBUgdSADYVzn8l8kGiGXQ/87165e7d6e5b1317307d699f03a26dc9/HolyJS___________________________________________________.pdf
+  - name: Strict Types in JavaScript
+    speaker: Виктор Вершанский
+    video: https://youtu.be/7_APF8q4ZX8
+    presentation: 
+  - name: А нужен ли нам GraphQL?
+    speaker: Павел Черторогов
+    video: https://youtu.be/-HcqxE5vlN0
+    presentation: https://nodkz.github.io/conf-talks/talks/2021.04.21-do-we-need-graphql/index.html#/
+  - name: Свой язык с поддержкой sourcemaps за полчаса
+    speaker: Дмитрий Карловский
+    video: https://youtu.be/rQEqXIo4PVM
+    presentation: https://slides.hyoo.ru/#slides=https%3A%2F%2Fnin-jin.github.io%2Fslides%2Fsourcemap%2F
+  - name: Быстрый веб на бюджетной ТВ-приставке на React & Styled Components
+    speaker: Павел Ремизов
+    video: https://youtu.be/ylW52EWLqkM
+    presentation: 
+  - name: Воркшоп. GitLab + CI/CD + JavaScript = ❤️ (Часть 1)
+    speaker: Виталий Слободин
+    video: https://youtu.be/ob5qrncMMUI
+    presentation: 
+  - name: Воркшоп. GitLab + CI/CD + JavaScript = ❤️ (Часть 2)
+    speaker: Виталий Слободин
+    video: https://youtu.be/MSA-dE_bYlc
+    presentation: 
+  - name: Создание навыков для виртуальных ассистентов на JS
+    speaker: Антон Виноградов
+    video: https://youtu.be/ZbVdGb96Hhc
+    presentation: 
+  - name: Зачем OCaml на фронтенде
+    speaker: Дмитрий Коваленко
+    video: https://youtu.be/5FdmV_H5ggk
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/7sTUIgyoRIO9nULND4NhmP/e5aa0c52758910600e13aec9d051ddce/holyjs-2021.pdf
+  - name: Стабильность React Native-приложения с круглосуточным up time
+    speaker: Евгений Гейманен
+    video: https://youtu.be/LnaujuIBmmg
+    presentation: 
+  - name: Браузерный игровой движок как pet-проект
+    speaker: Михаил Реммеле
+    video: https://youtu.be/r2aeSbpFcbg
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/6A0WHfW7rzRuzblok3N5yz/9e117b6fb8d391dbf9ef836aa47f2193/HolyJS_2021______________________________________________________________pet-______________3_.pdf
+  - name: Микросервисы, которые делаем мы
+    speaker: Олег Сметанин
+    video: https://youtu.be/tF3iNp5YFYk
+    presentation: 
+  - name: Challenges and trade-offs for in-browser computer vision applications
+    speaker: Аркадий Пильгук
+    video: https://youtu.be/UfKQb37_HcY
+    presentation: 
+  - name: Браузерные плагины — убийцы Virtual DOM
+    speaker: Ольга Болотова
+    video: https://youtu.be/rfbUqJrmXf0
+    presentation: 
+  - name: Serverless и Edge Computing на практике
+    speaker: Алексей Тактаров
+    video: https://youtu.be/HSmdcVhvjIA
+    presentation: 
+  - name: Поговорим про разработку реалтайм-приложения, Или как мы делали свой коллаборативный PowerPoint
+    speaker: Егор Малькевич
+    video: https://youtu.be/9gRyb9PTEA0
+    presentation: 
+  - name: npm run a11y-test
+    speaker: Глафира Жур
+    video: https://youtu.be/B1ZCMFJ-6rs
+    presentation: 
+  - name: Всё, что вам нужно — DevTools
+    speaker: Виталий Фридман
+    video: https://youtu.be/KLW8wjJ6SqM
+    presentation: 
+  - name: Микрофронтенды на модулях и веб-компонентах
+    speaker: Юрий Караджов
+    video: https://youtu.be/oT3EQiYBhz0
+    presentation: 
+  - name: "Воркшоп: Знакомство с MobX"
+    speaker: Назим Гафаров
+    video: https://youtu.be/gXy1H3yZtSA
+    presentation: 
+  - name: Родословные зависимых типов на JavaScript
+    speaker: Виктор Вершанский
+    video: https://youtu.be/Q7oXBv03Db8
+    presentation: 
+  - name: Code With Me — новая платформа для удаленной коллаборативной разработки
+    speaker: Кирилл Скрыган
+    video: https://youtu.be/NGLoKxhgFY4
+    presentation: 
+  - name: Гиперавтоматизированный пайплайн, или Почему матрица должна победить
+    speaker: Алексей Золотых
+    video: https://youtu.be/P5TVBhMOVJY
+    presentation: https://zolotyh.github.io/holy2021spring/
+  - name: Производительность в полевых условиях
+    speaker: Александр Шушунов
+    video: https://youtu.be/gMl-zZE40pw
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/12LJVzd3MdBlc05iJXuoxb/9db2b79656bedf3bc5a71bce3dc2bd63/Performance_Holy_public.pdf
+  - name: Оптимизация производительности высоконагруженного поиска на стороне фронтенда
+    speaker: Даниил Гоник, Ян Штефанец
+    video: https://youtu.be/vruhcLMbwhY
+    presentation: 
