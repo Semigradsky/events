@@ -3,6 +3,11 @@
 
 # Events / 2021 / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Submit JS - Nov 09 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;fFQV9BXpm1M)
+| | | |
+| --- | :---: | --- |
+| [HTTP3 and UDP for your service](https://www.youtube.com/watch?v=fFQV9BXpm1M&t=205s)  |  [Yuriy Dadichin](speakers/Yuriy%20Dadichin.md)  |    |
+| [Deno — truthful server-side JavaScript](https://www.youtube.com/watch?v=fFQV9BXpm1M&t=2612s)  |  [Владислав Зубко](speakers/Владислав%20Зубко.md)  |    |
 ## HolyJS 2021 Moscow - Nov 02-05 
 | | | |
 | --- | :---: | --- |
@@ -58,6 +63,16 @@
 | [Statoscope. Курс интенсивной терапии для вашего бандла](https://www.youtube.com/watch?v=y7FG9IkQBrI&t=765s)  |  [Сергей Мелюков](speakers/Сергей%20Мелюков.md)  |    |
 | [Оптимизация изображений, вышедшая из-под контроля](https://www.youtube.com/watch?v=y7FG9IkQBrI&t=820s)  |  [Дмитрий Селянин](speakers/Дмитрий%20Селянин.md)  |    |
 | [SSR для ускорения первого кадра видео](https://www.youtube.com/watch?v=y7FG9IkQBrI&t=845s)  |  [Павел Соколов](speakers/Павел%20Соколов.md)  |    |
+## Природа кода - Sep 11-12 
+| | | |
+| --- | :---: | --- |
+| [Как убить производительность веба в попытках её оптимизировать](https://youtu.be/g7qSU4QrJZA)  |  [Александра Карпова](speakers/Александра%20Карпова.md)  |    |
+| [Как расти и развиваться в IT](https://youtu.be/3DQ1ckitJyg)  |  [Глеб Михеев](speakers/Глеб%20Михеев.md)  |    |
+| [Не ставьте крест на верстальщиках](https://youtu.be/hkYbCJfDvD8)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  |    |
+| [Что случается, если фронтенды объединяются](https://youtu.be/vVDfUuj_S7A)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  |    |
+| [Ты узнаешь её из тысячи: по JS, по img, по канвасу](https://youtu.be/In_BmRwn9k4)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [Управление состоянием с помощью Query Manager](https://youtu.be/AjhjE1PlEhE)  |  [Михаил Хромов](speakers/Михаил%20Хромов.md)  |    |
+| [Два года graphql в production. Что не так и почему мы еще с ним](https://youtu.be/RVX79D2I0us)  |  [Даниил Водолазкин](speakers/Даниил%20Водолазкин.md)  |    |
 ## RndTechConf 2021 - Sep 04 
 | | | |
 | --- | :---: | --- |
