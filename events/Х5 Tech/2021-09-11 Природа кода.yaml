@@ -1,0 +1,34 @@
+name: Природа кода
+date:
+  - 2021-09-11
+  - 2021-09-12
+videos: 
+talks:
+  - name: Как убить производительность веба в попытках её оптимизировать
+    speaker: Александра Карпова
+    video: https://youtu.be/g7qSU4QrJZA
+    presentation: 
+  - name: Как расти и развиваться в IT
+    speaker: Глеб Михеев
+    video: https://youtu.be/3DQ1ckitJyg
+    presentation: 
+  - name: Не ставьте крест на верстальщиках
+    speaker: Сергей Попов
+    video: https://youtu.be/hkYbCJfDvD8
+    presentation: 
+  - name: Что случается, если фронтенды объединяются
+    speaker: Полина Гуртовая
+    video: https://youtu.be/vVDfUuj_S7A
+    presentation: 
+  - name: "Ты узнаешь её из тысячи: по JS, по img, по канвасу"
+    speaker: Никита Дубко
+    video: https://youtu.be/In_BmRwn9k4
+    presentation: 
+  - name: Управление состоянием с помощью Query Manager
+    speaker: Михаил Хромов
+    video: https://youtu.be/AjhjE1PlEhE
+    presentation: 
+  - name: Два года graphql в production. Что не так и почему мы еще с ним
+    speaker: Даниил Водолазкин
+    video: https://youtu.be/RVX79D2I0us
+    presentation: 
