@@ -84,11 +84,35 @@
 | Доска в клеточку. Рисуем математику в вебе  |  [Антон Хайновский](speakers/Антон%20Хайновский.md)  |    |
 | Свободные Media  |  [Роман Пономарев](speakers/Роман%20Пономарев.md)  |    |
 | Как темизировать web-интерфейс продукта и задеплоить изменения без участия разработчика  |  [Константин Подрубный](speakers/Константин%20Подрубный.md)  |    |
+## OdessaJS 2021 - Aug 28-29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLUF1zRLAgrPH6srMl9AyhFVf6w8_RgGKm)
+| | | |
+| --- | :---: | --- |
+| [Is there life in react without redux?](https://youtu.be/CaeJjyZsl7A) [uk] |  [Сергій Бабіч](speakers/Сергій%20Бабіч.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/is-there-life-in-react-without-redux-by-babich-sergiy-odessajs2021)   |
+| [What is so special about Micro Frontends value proposition?](https://youtu.be/KXCalIz3H6Q)  |  [Максим Клімішин](speakers/Максим%20Клімішин.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/micro-frontends-odessajs2021)   |
+| [Micro Ffrontends with React](https://youtu.be/TDM2_8nJ7Jc)  |  [Лилия Карпенко](speakers/Лилия%20Карпенко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/microfrontends-with-react-by-liliia-karpenko)   |
+| [Developers Baseline. WTF?](https://youtu.be/vJeD71hjGfU)  |  [Виктор Турский](speakers/Виктор%20Турский.md)  |    |
+| LOGS. HOW DO THEY AFFECT ON MY LIFE?  |  [Нік Лотоцький](speakers/Нік%20Лотоцький.md)  |    |
+| [GraphQL schema design](https://youtu.be/L9Js6dJk4II) [uk] |  [Борис Могила](speakers/Борис%20Могила.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/graphql-schema-design-by-borys-mohyla-odessajs2021)   |
+| [Using electron in the development of a corporate message-video-phone platform](https://youtu.be/YQKFv9_Uebk)  |  [Олексій Гончар](speakers/Олексій%20Гончар.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/electron-e-odessajs2021)   |
+| [Developing Microservices with NestJS](https://youtu.be/6ni7kBJJQrA)  |  [Андрей Троян](speakers/Андрей%20Троян.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/nestjs-odessajs2021)   |
+| [Ethereum smart contracts on js](https://youtu.be/1X3ot_gHx1E)  |  [Ярослав Дворовенко](speakers/Ярослав%20Дворовенко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/ethereum-smart-contracts-on-js-by-yaroslav-dvorovenko)   |
+| [How to be a good developer and stay in touch with the changes that happen so fast?](https://youtu.be/GTpHYrp1k_w)  |  [Сергій Немчінський](speakers/Сергій%20Немчінський.md)  |    |
+| [Как я придумал доклад на OdessaJS](https://youtu.be/a20AvBxFe0c)  |  [Юрий Артюх](speakers/Юрий%20Артюх.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/how-i-came-up-with-my-talk-by-yurii-artiukh-odessajs2021)   |
+| [Node.js Tech Corner](https://youtu.be/h4uStCrO8tg)  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  [Ельдар Джафаров](speakers/Ельдар%20Джафаров.md)  [Денис Отрішко](speakers/Денис%20Отрішко.md)  [Нік Лотоцький](speakers/Нік%20Лотоцький.md)  [Нік Романенко](speakers/Нік%20Романенко.md)  [Олексій Новохацький](speakers/Олексій%20Новохацький.md)  |    |
+| [NODEJS &amp; GRAPHQL COOKBOOK. LET’S TALK ABOUT MICRO-SERVICES](https://youtu.be/6e200r344Bk)  |  [Антон Чередников](speakers/Антон%20Чередников.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/nodejs-graphql-cookbook-lets-talk-about-microservices-by-odessajs2021)   |
+| [GOOD CODE MYTHS](https://youtu.be/IVY6cHH63TM)  |  [Павло Галушко](speakers/Павло%20Галушко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/good-code-myths-odessajs2021)   |
+| Golang usage in development of Node.js applications (Node.js: In Go we trust)  |  [Олексій Новохацький](speakers/Олексій%20Новохацький.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/golang-usage-in-development-of-nodejs-applications-nodejs-in-go-we-trust-by-oleksii-novokhatskyi)   |
+| [* * * * * * *, JS, * * * * * * *](https://youtu.be/_pGaNfCjR9s) [uk] |  [Роман Савіцький](speakers/Роман%20Савіцький.md)  |    |
+| How to become advanced engineer?  |  [Андрей Кучеренко](speakers/Андрей%20Кучеренко.md)  |    |
+| [The Team Lead of my mother&#39;s friend](https://youtu.be/AsdOEuKqtlg)  |  [Михайло Собко](speakers/Михайло%20Собко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/the-teamlead-of-my-mothers-friend-by-mykhailo-sobko)   |
+| [IS THERE JAVASCRIPT ON SWAGGER PLUGINS?](https://youtu.be/_EOiMJTH3v4)  |  [Дмитрий Гусев](speakers/Дмитрий%20Гусев.md)  |  [:octocat:](https://github.com/dogusev/swagger-plugins-odesajs-21)  |
+| Contract protection on the Frontend side: how to organize runtime checking  |  [Олексій Павленко](speakers/Олексій%20Павленко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/contract-protection-on-the-frontend-side-how-to-organize-runtime-checking-odessajs2021)   |
+| Building Angular Apps with Nx  |  [Анастасия Нечепоренко](speakers/Анастасия%20Нечепоренко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/building-angular-apps-with-nx-by-anastasia-necheporenko)   |
 ## GDG Minsk Web August Meetup - Aug 24 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;GdxlnUdsgtU)
 | | | |
 | --- | :---: | --- |
-| [Необычные браузерные API](https://youtu.be/GdxlnUdsgtU)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  | [:notebook:](https://bit.ly/2UY1cKW)   |
-| [Управление воспроизведением в PWA](https://youtu.be/GdxlnUdsgtU)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [Необычные браузерные API](https://youtu.be/yIP4XeAa6QE)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
+| [Управление воспроизведением в PWA](https://youtu.be/QQMfp15XCYQ)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  | [:notebook:](https://drive.google.com/drive/folders/1Qjz8wen_2S_CExaAjIO8OmKITNUGZa_F?usp=sharing)   |
 ## React Native Meetup - Jul 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?app&#x3D;desktop&amp;v&#x3D;GIMs2bZ0yww)
 | | | |
 | --- | :---: | --- |

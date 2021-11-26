@@ -30,7 +30,7 @@
 | [here canvas will provide benefits to your expirience](https://www.youtube.com/watch?v=nOaopvS0gJ0)  |  [Сергей Кошман](../../speakers/Сергей%20Кошман.md)  |    |
 | [Big and complex React project](https://www.youtube.com/watch?v=jO30e_w-4fo)  |  [Сергей Костырко](../../speakers/Сергей%20Костырко.md)  |    |
 | [Create React Native App vs Expo vs Your Hands](https://www.youtube.com/watch?v=4LKw-fK52NU)  |  [Евгений Жарков](../../speakers/Евгений%20Жарков.md)  |    |
-| [When should I start writing my unit tests?](https://www.youtube.com/watch?v=LpE4vuJnCcA)  |  [Nick Lototskiy](../../speakers/Nick%20Lototskiy.md)  |    |
+| [When should I start writing my unit tests?](https://www.youtube.com/watch?v=LpE4vuJnCcA)  |  [Нік Лотоцький](../../speakers/Нік%20Лотоцький.md)  |    |
 | [High throughput in Node with decomposition and parallelization of the Main Thread](https://www.youtube.com/watch?v=I-FcjLx9D9g)  |  [Nikolay Matvienko](../../speakers/Nikolay%20Matvienko.md)  |    |
 | [Computer Vision in JS](https://www.youtube.com/watch?v=g5KmhHSFHd0)  |  [Arkadiy Pilguk](../../speakers/Arkadiy%20Pilguk.md)  |    |
 | [Chrome Dev Tools: debug me!](https://www.youtube.com/watch?v=rwVNznU4edc) [uk] |  [Roman Savitskyi](../../speakers/Roman%20Savitskyi.md)  |    |
@@ -65,7 +65,7 @@
 | [Burn your grass with React Native](https://www.youtube.com/watch?v=hsKDpkYRpB4)  |  [Eugene Zharkov](../../speakers/Eugene%20Zharkov.md)  |    |
 | [VueJS  3 cases of usage](https://www.youtube.com/watch?v=FpMEA7GUl-g)  |  [Vitalii Ratyshnyi](../../speakers/Vitalii%20Ratyshnyi.md)  |    |
 | [Polymer](https://www.youtube.com/watch?v=Xi_eauNC_3E)  |  [Елена Шаровар](../../speakers/Елена%20Шаровар.md)  |    |
-| [NodeJS Error Handling](https://www.youtube.com/watch?v=ytatJN8yYn4)  |  [Nick Lototskiy](../../speakers/Nick%20Lototskiy.md)  |    |
+| [NodeJS Error Handling](https://www.youtube.com/watch?v=ytatJN8yYn4)  |  [Нік Лотоцький](../../speakers/Нік%20Лотоцький.md)  |    |
 | [UVP and the future of CSSinJS](https://www.youtube.com/watch?v=i1rDywKSMIk)  |  [Олег Слободской](../../speakers/Олег%20Слободской.md)  |    |
 | [How to be a 10x JavaScript developer](https://www.youtube.com/watch?v=JZuPYu5m6mo)  |  [Владимир Поляков](../../speakers/Владимир%20Поляков.md)  |    |
 | [Activity tracking for UX protection](https://www.youtube.com/watch?v=gHDmFFaRQts)  |  [Max Bugai](../../speakers/Max%20Bugai.md)  |    |

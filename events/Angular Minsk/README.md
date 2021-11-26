@@ -11,8 +11,8 @@
 ## Angular Minsk 15 - 2020 Jul 11 [:movie_camera:](https://www.youtube.com/watch?v=vRl_Nar9iNs)
 | | | |
 | --- | :---: | --- |
-| [RxJS Higher-Order Observables](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Алексей Павленко](../../speakers/Алексей%20Павленко.md)  |    |
-| [RxJS retry vs repeat](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Александр Поштарук](../../speakers/Александр%20Поштарук.md)  |    |
+| [RxJS Higher-Order Observables](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Олексій Павленко](../../speakers/Олексій%20Павленко.md)  |    |
+| [RxJS retry vs repeat](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Олексій Поштарук](../../speakers/Олексій%20Поштарук.md)  |    |
 ## Angular Minsk 14 - 2020 Jun 13 
 | | | |
 | --- | :---: | --- |
@@ -21,7 +21,7 @@
 | | | |
 | --- | :---: | --- |
 | [Автоматизация разработки с Angular Schematics](https://www.youtube.com/watch?v=6fzTc2rn05s)  |  [Янис Сеилис](../../speakers/Янис%20Сеилис.md)  | [:notebook:](https://drive.google.com/file/d/11jTrKBzxpWBxhyG8fNKlDMzn-9a5W5yy/view)   |
-| [Ангулар может сожрать ваше время](https://www.youtube.com/watch?v=6fzTc2rn05s)  |  [Александр Поштарук](../../speakers/Александр%20Поштарук.md)  | [:notebook:](https://drive.google.com/file/d/1Re2tBHpA685oRKE0VAStM2sHJKwoM54m/view)   |
+| [Ангулар может сожрать ваше время](https://www.youtube.com/watch?v=6fzTc2rn05s)  |  [Олексій Поштарук](../../speakers/Олексій%20Поштарук.md)  | [:notebook:](https://drive.google.com/file/d/1Re2tBHpA685oRKE0VAStM2sHJKwoM54m/view)   |
 ## Angular Minsk 12 - 2020 May 23 
 | | | |
 | --- | :---: | --- |
@@ -30,7 +30,7 @@
 | | | |
 | --- | :---: | --- |
 | [A11ly in 5r](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Глафира Жур](../../speakers/Глафира%20Жур.md)  | [:notebook:](https://docs.google.com/presentation/d/1c3ub6vX1XH_oEAzykVIqqc5KPGtS50GuGbrjih22qEE)   |
-| [Contract protection: runtime type checking](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Алексей Павленко](../../speakers/Алексей%20Павленко.md)  | [:notebook:](https://docs.google.com/presentation/d/13aMbXd9IxYVGra9BQ7jLdkRQkyFCtuBTlclyOl9aiOE)   |
+| [Contract protection: runtime type checking](https://www.youtube.com/watch?v=xEO00Fz_5Us)  |  [Олексій Павленко](../../speakers/Олексій%20Павленко.md)  | [:notebook:](https://docs.google.com/presentation/d/13aMbXd9IxYVGra9BQ7jLdkRQkyFCtuBTlclyOl9aiOE)   |
 ## Angular Minsk 10 - 2020 Apr 25 [:movie_camera:](https://www.youtube.com/watch?v=7LPw-Ebv33M)
 | | | |
 | --- | :---: | --- |

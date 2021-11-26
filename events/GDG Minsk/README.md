@@ -6,8 +6,8 @@
 ## GDG Minsk Web August Meetup - 2021 Aug 24 [:movie_camera:](https://youtu.be/GdxlnUdsgtU)
 | | | |
 | --- | :---: | --- |
-| [Необычные браузерные API](https://youtu.be/GdxlnUdsgtU)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  | [:notebook:](https://bit.ly/2UY1cKW)   |
-| [Управление воспроизведением в PWA](https://youtu.be/GdxlnUdsgtU)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [Необычные браузерные API](https://youtu.be/yIP4XeAa6QE)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  |    |
+| [Управление воспроизведением в PWA](https://youtu.be/QQMfp15XCYQ)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://drive.google.com/drive/folders/1Qjz8wen_2S_CExaAjIO8OmKITNUGZa_F?usp=sharing)   |
 ## GDG Minsk Web Meetup - 2020 Sep 28 [:movie_camera:](https://www.youtube.com/watch?v=IMyKfLmll4g)
 | | | |
 | --- | :---: | --- |
