@@ -29,7 +29,7 @@ talks:
     lang: en
     video: 'https://youtu.be/aGbAUo7HC_0'
   - name: 'Mutilation and suffering: How I decided to create a project using only Web Components without any framework'
-    speaker: Сергей Бабич
+    speaker: Сергій Бабіч
     video: 'https://youtu.be/SFZJeO0_k8I'
   - name: 'Algorithms in Front End: from V8 to VDOM'
     speaker: Юрий Шерстюк

@@ -82,7 +82,7 @@ talks:
     speaker: Евгений Жарков
     video: https://www.youtube.com/watch?v=4LKw-fK52NU
   - name: When should I start writing my unit tests?
-    speaker: Nick Lototskiy
+    speaker: Нік Лотоцький
     video: https://www.youtube.com/watch?v=LpE4vuJnCcA
   - name: High throughput in Node with decomposition and parallelization of the Main Thread
     speaker: Nikolay Matvienko
