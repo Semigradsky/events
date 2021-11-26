@@ -1,0 +1,12 @@
+name: GDG Minsk Web November Meetup
+date: 2021-11-30
+videos: https://www.youtube.com/watch?v=7DGu75USDz4
+talks:
+  - name: Память и её утечки в Chrome и Node.js. Нестандартные способы оптимизации памяти в Node.js.
+    speaker: Виктор Хомяков
+    video: 
+    presentation: 
+  - name: 10 шагов к проектированию REST API
+    speaker: Игорь Антонов
+    video: 
+    presentation: 
