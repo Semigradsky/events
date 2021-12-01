@@ -1,0 +1,20 @@
+name: OdessaFrontend Meetup 19
+date: 2021-12-15
+videos: 
+talks:
+  - name: Функциональное программирование с использованием библиотеки fp-ts
+    speaker: Дмитрий Ховрич
+    video: 
+    presentation: 
+  - name: Великолепный Gatsby.js
+    speaker: Екатерина Шиповская
+    video: 
+    presentation: 
+  - name: Использование Recoil в React и React Native приложениях
+    speaker: Сергей Журавель
+    video: 
+    presentation: 
+  - name: Викторина
+    speaker: Николай Птущук
+    video: 
+    presentation: 

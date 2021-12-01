@@ -4,17 +4,13 @@ videos:
 talks:
   - name: React Native для фронтов
     speaker: Марк Мухамедзянов
-    video: 
-    presentation: 
-  - name: Секретный доклад
-    speaker: 'Unknown'
-    video: 
-    presentation: 
+    video: https://youtu.be/V_qI7km0MIk
+    presentation: https://www.canva.com/design/DAEoqtB9G3c/b-MdgLoOgwM2CZ0omqeD_Q/view
+  - name: Raymarching
+    speaker: Юрий Артюх
+    video: https://youtu.be/HhafK3vW5AM
+    presentation: https://odessafrontend.github.io/secret/
   - name: Canvas API как инструмент для работы с графикой
     speaker: Андрей Федотюк
-    video: 
-    presentation: 
-  - name: Викторина
-    speaker: Николай Птущук
-    video: 
-    presentation: 
+    video: https://youtu.be/xTeLOwj56Zg
+    presentation: https://www.slideshare.net/odessafrontend/canvas-api-odessa-frontend-meetup-18
