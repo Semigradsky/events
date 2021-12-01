@@ -3,6 +3,12 @@
 
 # OdessaFrontend
 
+## OdessaFrontend Meetup 18 - 2021 Sep 22 
+| | | |
+| --- | :---: | --- |
+| [React Native для фронтов](https://youtu.be/V_qI7km0MIk)  |  [Марк Мухамедзянов](../../speakers/Марк%20Мухамедзянов.md)  | [:notebook:](https://www.canva.com/design/DAEoqtB9G3c/b-MdgLoOgwM2CZ0omqeD_Q/view)   |
+| [Raymarching](https://youtu.be/HhafK3vW5AM)  |  [Юрий Артюх](../../speakers/Юрий%20Артюх.md)  | [:notebook:](https://odessafrontend.github.io/secret/)   |
+| [Canvas API как инструмент для работы с графикой](https://youtu.be/xTeLOwj56Zg)  |  [Андрей Федотюк](../../speakers/Андрей%20Федотюк.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/canvas-api-odessa-frontend-meetup-18)   |
 ## OdessaFrontend Meetup 17 - 2021 Jun 16 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0tNKONOH-sEZDFcj3jGVfbO)
 | | | |
 | --- | :---: | --- |

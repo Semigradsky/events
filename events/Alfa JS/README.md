@@ -3,6 +3,14 @@
 
 # Alfa JS
 
+## Alfa JS MeetUP 3 - 2019 Nov 26 [:movie_camera:](https://www.youtube.com/watch?v=7DtZtHSJ_S4)
+| | | |
+| --- | :---: | --- |
+| [Что такое suspense и зачем он нужен?](https://youtu.be/7DtZtHSJ_S4?t=541)  |  [Андрей Рацеров](../../speakers/Андрей%20Рацеров.md)  |    |
+| [Современные инструменты как средство решения проблем](https://youtu.be/7DtZtHSJ_S4?t=2374)  |  [Сергей Завгородний](../../speakers/Сергей%20Завгородний.md)  |    |
+| [&lt;Icon &#x2F;&gt;](https://youtu.be/7DtZtHSJ_S4?t=5561)  |  [Никита Мостовой](../../speakers/Никита%20Мостовой.md)  |    |
+| [Автоматизация в Альфа-Банке](https://youtu.be/7DtZtHSJ_S4?t=7370)  |  [Игорь Беляев](../../speakers/Игорь%20Беляев.md)  |    |
+| [TypeScript вместо Babel или нюансы настройки tsconfig.json](https://youtu.be/7DtZtHSJ_S4?t=8788)  |  [Алексей Левин](../../speakers/Алексей%20Левин.md)  |    |
 ## Alfa JS MeetUP SPb - 2019 Aug 22 [:movie_camera:](https://www.youtube.com/watch?v=HTmbdhMqU6M)
 | | | |
 | --- | :---: | --- |
