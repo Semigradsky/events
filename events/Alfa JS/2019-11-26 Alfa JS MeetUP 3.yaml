@@ -1,24 +1,24 @@
 name: Alfa JS MeetUP 3
 date: 2019-11-26
-videos: 
+videos: https://www.youtube.com/watch?v=7DtZtHSJ_S4
 talks:
   - name: Что такое suspense и зачем он нужен?
     speaker: Андрей Рацеров
-    video: 
+    video: https://youtu.be/7DtZtHSJ_S4?t=541
     presentation: 
   - name: Современные инструменты как средство решения проблем
     speaker: Сергей Завгородний
-    video: 
+    video: https://youtu.be/7DtZtHSJ_S4?t=2374
     presentation: 
   - name: "<Icon />"
     speaker: Никита Мостовой
-    video: 
+    video: https://youtu.be/7DtZtHSJ_S4?t=5561
     presentation: 
   - name: Автоматизация в Альфа-Банке
     speaker: Игорь Беляев
-    video: 
+    video: https://youtu.be/7DtZtHSJ_S4?t=7370
     presentation: 
   - name: TypeScript вместо Babel или нюансы настройки tsconfig.json
     speaker: Алексей Левин
-    video: 
+    video: https://youtu.be/7DtZtHSJ_S4?t=8788
     presentation: 

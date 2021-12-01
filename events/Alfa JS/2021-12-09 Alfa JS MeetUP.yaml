@@ -1,0 +1,16 @@
+name: Alfa JS MeetUP
+date: 2021-12-09
+videos: https://www.youtube.com/watch?v=5kvtDYbevUE
+talks:
+  - name: Как мы улучшаем DevSecOps-процессы, разрабатывая собственную платформу CI/СD
+    speaker: Артём Склянчук
+    video: 
+    presentation: 
+  - name: "«Официальное» решение в микрофронтендах (Webpack Module Federation)"
+    speaker: Алексей Вечканов
+    video: 
+    presentation: 
+  - name: JSON driven from bicycle
+    speaker: Степан Михайлюк
+    video: 
+    presentation: 
