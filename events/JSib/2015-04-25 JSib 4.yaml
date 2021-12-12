@@ -5,7 +5,7 @@ talks:
   - name: "Многообещающий JavaScript – Promises"
     speaker: Денис Речкунов
     video: https://www.youtube.com/watch?v=LWaXbrLQid0
-    presentation: https://www.slideshare.net/JSibNsk/7-javascript-promises
+    presentation: https://rdner.de/slides/jsib/2015-04-25-promising-javascript
   - name: "Spy.JS: Новые подходы для отладки Browser-Side и Node.JS приложений"
     speaker: Кирилл Кайсаров
     video: https://www.youtube.com/watch?v=ZRLj5dpute4
