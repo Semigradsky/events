@@ -111,7 +111,7 @@
 | | | |
 | --- | :---: | --- |
 | [Нодскул в Минске: как и зачем](https://www.youtube.com/watch?v=vygTkVibcsk)  |  [Тим Маринин](../../speakers/Тим%20Маринин.md)  | [:notebook:](https://wsd.events/2017/10/21/pres/nodeschool/)   |
-| [SSR: DIY](https://www.youtube.com/watch?v=O_IEzdYi634)  |  [Джеймс Аквух](../../speakers/Джеймс%20Аквух.md)  | [:notebook:](https://wsd.events/2017/10/21/pres/ssr-diy.pdf)   |
+| [SSR: DIY](https://www.youtube.com/watch?v=O_IEzdYi634)  |  [Джеймс Аквух](../../speakers/Джеймс%20Аквух.md)  | [:notebook:](https://wsd.events/2017/10/21/pres/ssr-diy.pdf)   |
 | [Знакомьтесь, модальное окно](https://www.youtube.com/watch?v=s6PI8pKQxgo)  |  [Анна Селезнёва](../../speakers/Анна%20Селезнёва.md)  | [:notebook:](https://wsd.events/2017/10/21/pres/meet-modal/)   |
 | [Людоедский интерфейс](https://www.youtube.com/watch?v=ssJsjGZE2sc)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://wsd.events/2017/10/21/pres/inhuman-ui/)   |
 | [Duck Hunters TV](https://www.youtube.com/watch?v=ouVyhtFFnyU)  |  [Алексей Трусов](../../speakers/Алексей%20Трусов.md)  | [:notebook:](https://wsd.events/2017/10/21/pres/duck-hunters.pdf)   |
