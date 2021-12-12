@@ -2,33 +2,33 @@ name: YaTalks 2021
 date:
   - 2021-12-03
   - 2021-12-04
-videos: 
+videos: https://www.youtube.com/watch?v=ByHfkwGCR4A
 talks:
   - name: Научите меня писать интерфейсы для космолётов!
     speaker: Сергей Бережной, Тина Думилина, Кирилл Мокевнин, Александр Патлух, Алексей Симоненко
-    video: 
+    video: https://www.youtube.com/watch?v=ByHfkwGCR4A&t=1075s
     presentation: 
   - name: Создание универсальной UI-библиотеки
     speaker: Евгений Тропин
-    video: 
+    video: https://www.youtube.com/watch?v=ByHfkwGCR4A&t=4923s
     presentation: 
   - name: Существующие инструменты не работают в невесомости? Напиши свои!
     speaker: Андрей Ситник, Роман Дворнов, Антон Усманский, Никита Дубко
-    video: 
+    video: https://www.youtube.com/watch?v=ByHfkwGCR4A&t=7181s
     presentation: 
   - name: Как и зачем проводить тесты с незрячими людьми?
     speaker: Валерия Курмак, Анатолий Попко
-    video: 
+    video: https://www.youtube.com/watch?v=ByHfkwGCR4A&t=10308s
     presentation: 
   - name: Аутентификация в вебе. История развития
     speaker: Алексей Авдеев
-    video: 
+    video: https://www.youtube.com/watch?v=ByHfkwGCR4A&t=16682s
     presentation: 
   - name: Когда документация — просто космос [Интервью]
     speaker: Наталья Теплухина, Дэн Абрамов, Алёна Батицкая
-    video: 
+    video: https://www.youtube.com/watch?v=ByHfkwGCR4A&t=19307s
     presentation: 
   - name: 30 лет — полёт нормальный!
     speaker: Виталий Харисов, Ольга Алексашенко, Сергей Бережной, Сергей Чикуёнок
-    video: 
+    video: https://www.youtube.com/watch?v=ByHfkwGCR4A&t=23061s
     presentation: 
