@@ -3,8 +3,8 @@ date: 2021-07-12
 videos: 
 talks:
   - name: "Круглый стол: А что такое архитектура фронтенда?"
-    speaker: 'Unknown'
-    video: 
+    speaker: Кирилл Мокевнин, Вадим Яловенко, Ян Лаврюшев, Павел Черторогов
+    video: https://www.youtube.com/watch?v=3XlHo3kw1PU
     presentation: 
   - name: В каких проектах стоит использовать GraphQL
     speaker: Павел Черторогов
@@ -34,7 +34,7 @@ talks:
     presentation: 
   - name: Энтропия фронтенд проекта
     speaker: Назим Гафаров
-    video: 
+    video: https://www.youtube.com/watch?v=ttxqnObNVXw
     presentation: 
   - name: Публичное собеседование по архитектуре фронтенда
     speaker: Александр Зубов
