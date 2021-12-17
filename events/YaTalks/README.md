@@ -21,3 +21,14 @@
 | [Изменения в технологиях — повод сделать IDE лучше](https://youtu.be/b7Baa1jY4So)  |  [Андрей Старовойт](../../speakers/Андрей%20Старовойт.md)  | [:notebook:](https://yadi.sk/i/uPET-cAX60783A)   |
 | [Ода славному десятилетию++](https://youtu.be/gaWkJjTsluc)  |  [Евангелина Феррейра](../../speakers/Евангелина%20Феррейра.md)  | [:notebook:](https://yadi.sk/i/gtWVRkxvLW1Vfw)   |
 | [Энтерпрайз, который выжил](https://youtu.be/CqOUpouTCZM)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/540126/) |
+## YaTalks 2019 - 2019 Sep 14 [:movie_camera:](https://youtu.be/Xg-oZp0EcYc)
+| | | |
+| --- | :---: | --- |
+| [Хочу, чтобы все было одинаково!](https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=189s)  |  [Евгений Россинский](../../speakers/Евгений%20Россинский.md)  |    |
+| [От компонентов к архитектуре](https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=3308s)  |  [Иван Никишкин](../../speakers/Иван%20Никишкин.md)  |    |
+| [Как рисует браузер](https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=6189s)  |  [Константин Крамлих](../../speakers/Константин%20Крамлих.md)  |   [:spiral_notepad:](https://habr.com/ru/company/yandex/blog/468165/) |
+| [Очень странное тестирование](https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=9459s)  |  [Назим Гафаров](../../speakers/Назим%20Гафаров.md)  |    |
+| [Все цвета радуги](https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=16350s)  |  [Владимир Кузнецов](../../speakers/Владимир%20Кузнецов.md)  |    |
+| [Разработка в монорепозитории](https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=19354s)  |  [Азат Разетдинов](../../speakers/Азат%20Разетдинов.md)  |    |
+| [Человеческие собеседования](https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=22340s)  |  [Семён Левенсон](../../speakers/Семён%20Левенсон.md)  |    |
+| [42](https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=25572s)  |  [Вадим Макишвили](../../speakers/Вадим%20Макишвили.md)  |    |

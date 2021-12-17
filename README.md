@@ -3,6 +3,36 @@
 
 # Events / 2021 / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Frontend Meetup - Dec 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;3Cy2nUxjOVg)
+| | | |
+| --- | :---: | --- |
+| [Простые интерфейсы сложных систем](https://youtu.be/3Cy2nUxjOVg?t=933)  |  [Дмитрий Морозов](speakers/Дмитрий%20Морозов.md)  |    |
+| [Developer Driven Design](https://youtu.be/3Cy2nUxjOVg?t=3598)  |  [Илья Полянский](speakers/Илья%20Полянский.md)  |    |
+| [Архитектура фронтенд-приложений](https://youtu.be/3Cy2nUxjOVg?t=6547)  |  [Глеб Михеев](speakers/Глеб%20Михеев.md)  |    |
+## Podlodka Frontend Crew 3 - Dec 06-17 
+| | | |
+| --- | :---: | --- |
+| Пакетные менеджеры: есть ли жизнь за пределами npm?  |  [Валентин Семирульник](speakers/Валентин%20Семирульник.md)  |    |
+| Я dev, зачем мне ваш ops: что стоит знать каждому frontend-инженеру о CI&#x2F;CD  |  [Илья Климов](speakers/Илья%20Климов.md)  |    |
+| ESLint для самых любопытных  |  [Игорь Камышев](speakers/Игорь%20Камышев.md)  |    |
+| Почему тулинг такой сложный?  |  [Павел Франков](speakers/Павел%20Франков.md)  [Валентин Семирульник](speakers/Валентин%20Семирульник.md)  [Кирилл Миронов](speakers/Кирилл%20Миронов.md)  |    |
+| Полиморфизм: JS vs настоящие языки программирования  |  [Валерий Ковалёв](speakers/Валерий%20Ковалёв.md)  |    |
+| Streams в Node.js: работа с данными в потоке  |  [Анастасия Котова](speakers/Анастасия%20Котова.md)  |    |
+| Где JIT, а где мы?  |  [Егор Огарков](speakers/Егор%20Огарков.md)  |    |
+| [Чистый код, чистая нода, чистые функции [Публичное собеседование]](https://youtu.be/sNFPdfgax3Q)  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  |    |
+| Фронт, соберись!  |  [Олег Морозов](speakers/Олег%20Морозов.md)  |    |
+| Наностол: открытый стол о границе между полезными и микрооптимизациями  |  [Андрей Ситник](speakers/Андрей%20Ситник.md)  [Влад Шилов](speakers/Влад%20Шилов.md)  [Иван Акулов](speakers/Иван%20Акулов.md)  |    |
+| [Многопоточность в NodeJS](https://youtu.be/VNXga8zomrY)  |  [Тимур Шемсединов](speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/tshemsedinov/multithreading-in-nodejs-and-javascript)   |
+| Браузерный рендеринг  |  [Сергей Ufocoder](speakers/Сергей%20Ufocoder.md)  | [:notebook:](https://docs.google.com/presentation/d/1_u28LPZWap3en4petA8iwOn8Oy5X8W_ubICgOQMFkiA/edit?usp=sharing) [:octocat:](https://github.com/ufocoder/browser-rendering-performance)  |
+| Нужны ли глубокие знания JS обычному разработчику  |  [Сергей Ufocoder](speakers/Сергей%20Ufocoder.md)  [Дмитрий Коваленко](speakers/Дмитрий%20Коваленко.md)  |    |
+| Планировщик задач: не замораживаем страницу  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |    |
+## DevFest 2021 - Dec 04 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLGlZ_ld11os8laSuAa1xUzv_z3EcZEF3g)
+| | | |
+| --- | :---: | --- |
+| [Нативные веб-приложения: готовность номер один!](https://youtu.be/-QEaXUddvKc)  |  [Максим Сальников](speakers/Максим%20Сальников.md)  |    |
+| [DI: две буквы, безграничные возможности [Workshop]](https://youtu.be/5nVKrcnIFqA)  |  [Роман Седов](speakers/Роман%20Седов.md)  [Александр Инкин](speakers/Александр%20Инкин.md)  | [:notebook:](https://docs.google.com/presentation/d/1nTgNUlHJOmYq-lbMROWQGkEHq74FV-Uoq86Nqo7QZ0Q/edit)   |
+| [Смешные шапочки на Insertable Streams](https://youtu.be/irobFO1ZjTk)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  |    |
+| [Визуализация данных на Kotlin-Multiplatform](https://youtu.be/8F0e_JaoUBU)  |  [Александр Нозик](speakers/Александр%20Нозик.md)  | [:notebook:](https://docs.google.com/presentation/d/1pLJ72eHhp4xvzdFZ58j0k8iicSAeaew1xHiiHbMsCCo/edit?usp=sharing)   |
 ## YaTalks 2021 - Dec 03-04 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ByHfkwGCR4A)
 | | | |
 | --- | :---: | --- |
@@ -18,7 +48,7 @@
 | --- | :---: | --- |
 | [HTTP3 and UDP for your service](https://www.youtube.com/watch?v=fFQV9BXpm1M&t=205s)  |  [Yuriy Dadichin](speakers/Yuriy%20Dadichin.md)  |    |
 | [Deno — truthful server-side JavaScript](https://www.youtube.com/watch?v=fFQV9BXpm1M&t=2612s)  |  [Владислав Зубко](speakers/Владислав%20Зубко.md)  |    |
-## HolyJS 2021 Moscow - Nov 02-05 
+## HolyJS 2021 Moscow - Nov 02-05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL8sJahqnzh8IYDYRieNB0axR-8siPTVuh)
 | | | |
 | --- | :---: | --- |
 | Докручиваем ApolloClient до энтерпрайзной разработки  |  [Павел Черторогов](speakers/Павел%20Черторогов.md)  |    |
@@ -26,7 +56,8 @@
 | React.memo — сплетни&#x2F;исходники&#x2F;грань полезности  |  [Александр Бальцевич](speakers/Александр%20Бальцевич.md)  |    |
 | Фреймворки и паттерны разработки цифровых решений на производстве  |  [Илья Симоненко](speakers/Илья%20Симоненко.md)  [Алексей Краснобаев](speakers/Алексей%20Краснобаев.md)  [Алина Макеева](speakers/Алина%20Макеева.md)  [Павел Доронин](speakers/Павел%20Доронин.md)  [Олег Кондрашин](speakers/Олег%20Кондрашин.md)  |    |
 | Ещё один текстовый веб-редактор и в чём проблемы contenteditable?  |  [Даниил Налетов](speakers/Даниил%20Налетов.md)  |    |
-| Statoscope. Курс интенсивной терапии для вашего бандла.  |  [Сергей Мелюков](speakers/Сергей%20Мелюков.md)  |    |
+| [Statoscope. Курс интенсивной терапии для вашего бандла. Часть 1.](https://www.youtube.com/watch?v=aAkmZ0gMYQ8)  |  [Сергей Мелюков](speakers/Сергей%20Мелюков.md)  |   [:spiral_notepad:](https://habr.com/ru/company/jugru/blog/595595/) |
+| [Statoscope. Курс интенсивной терапии для вашего бандла. Часть 2.](https://www.youtube.com/watch?v=-OUb1RmLhK0)  |  [Сергей Мелюков](speakers/Сергей%20Мелюков.md)  |   [:spiral_notepad:](https://habr.com/ru/company/jugru/blog/595595/) |
 | Расширения для браузера: Угроза или опасность?  |  [Али Гасымов](speakers/Али%20Гасымов.md)  |    |
 | Поглощение через микрофронтенд: нужно просто вставить одно приложение в другое  |  [Дмитрий Смирнов](speakers/Дмитрий%20Смирнов.md)  |    |
 | Agile-процессы в современных продуктовых компаниях  |  [Сергей Сергеев](speakers/Сергей%20Сергеев.md)  |    |
@@ -49,17 +80,18 @@
 | OpenID Connect и OAuth2.0  |  [Михаил Вовренчук](speakers/Михаил%20Вовренчук.md)  |    |
 | Разбор полетов: Microsoft To-Do  |  [Алексей Мигуцкий](speakers/Алексей%20Мигуцкий.md)  |    |
 | Что веб грядущий нам готовит?  |  [Александр Мышов](speakers/Александр%20Мышов.md)  [Сергей Рубанов](speakers/Сергей%20Рубанов.md)  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  [Сергей Иванов](speakers/Сергей%20Иванов.md)  |    |
-| Воркшоп. GlimmerX — declarative UI &amp; derived reactivity in 27kb  |  [Александр Канунников](speakers/Александр%20Канунников.md)  |  [:octocat:](https://github.com/lifeart/glimmerx-workshop)  |
-| Advanced types в TypeScript  |  [Алексей Березин](speakers/Алексей%20Березин.md)  |    |
-| Считаете, что TDD не работает? У меня для вас плохие новости  |  [Дмитрий Коваленко](speakers/Дмитрий%20Коваленко.md)  |    |
-| Знакомство с Докой: редакция отвечает на вопросы  |  [Таня Денисюк](speakers/Таня%20Денисюк.md)  [Алексей Золотых](speakers/Алексей%20Золотых.md)  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  [Николай Лопин](speakers/Николай%20Лопин.md)  [Игорь Коровченко](speakers/Игорь%20Коровченко.md)  |    |
+| [Воркшоп. GlimmerX — declarative UI &amp; derived reactivity in 27kb. Часть 1](https://youtu.be/C-gBuD534lY)  |  [Александр Канунников](speakers/Александр%20Канунников.md)  |  [:octocat:](https://github.com/lifeart/glimmerx-workshop)  |
+| [Воркшоп. GlimmerX — declarative UI &amp; derived reactivity in 27kb. Часть 2](https://youtu.be/hAJJ9Y3UGvk)  |  [Александр Канунников](speakers/Александр%20Канунников.md)  |  [:octocat:](https://github.com/lifeart/glimmerx-workshop)  |
+| [Advanced types в TypeScript](https://youtu.be/KFWJGVDYZaw)  |  [Алексей Березин](speakers/Алексей%20Березин.md)  |    |
+| [Считаете, что TDD не работает? У меня для вас плохие новости](https://youtu.be/ZJgaTwdLNIg)  |  [Дмитрий Коваленко](speakers/Дмитрий%20Коваленко.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/1V0Vy8BfybvCoF4tG8cvTM/f7ac2164d534caf057d0c6f7699d40e6/3c611ecc-5dac-43d5-9e9a-ee265f66dfca.pdf)   |
+| [Знакомство с Докой: редакция отвечает на вопросы](https://youtu.be/9bJk8ayzXFA)  |  [Таня Денисюк](speakers/Таня%20Денисюк.md)  [Алексей Золотых](speakers/Алексей%20Золотых.md)  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  [Николай Лопин](speakers/Николай%20Лопин.md)  [Игорь Коровченко](speakers/Игорь%20Коровченко.md)  |    |
 | Сделать выбор в пользу GraphQL или дать шанс REST?  |  [Михаил Тадевосян](speakers/Михаил%20Тадевосян.md)  |    |
-| Множественное наследование на JavaScript  |  [Виктор Вершанский](speakers/Виктор%20Вершанский.md)  |    |
-| Ethereum &amp; DeFi for JS developer  |  [Артем Воробьев](speakers/Артем%20Воробьев.md)  |    |
-| Как прокачаться с мидла до сеньора  |  [Татьяна Денисюк](speakers/Татьяна%20Денисюк.md)  [Михаил Башуров](speakers/Михаил%20Башуров.md)  [Алексей Золотых](speakers/Алексей%20Золотых.md)  [Станислав Цыганов](speakers/Станислав%20Цыганов.md)  |    |
+| [Множественное наследование на JavaScript](https://youtu.be/P-j448mMoBI)  |  [Виктор Вершанский](speakers/Виктор%20Вершанский.md)  |    |
+| [Ethereum &amp; DeFi for JS developer](https://youtu.be/dpeYNgZw9_4)  |  [Артем Воробьев](speakers/Артем%20Воробьев.md)  |    |
+| [Как прокачаться с мидла до сеньора](https://youtu.be/oM_3Py5hiNA)  |  [Татьяна Денисюк](speakers/Татьяна%20Денисюк.md)  [Михаил Башуров](speakers/Михаил%20Башуров.md)  [Алексей Золотых](speakers/Алексей%20Золотых.md)  [Станислав Цыганов](speakers/Станислав%20Цыганов.md)  |    |
 | Тонкости разработки дизайн-системы  |  [Иван Гришин](speakers/Иван%20Гришин.md)  |    |
-| Как готовить production с Webpack 5 module federation  |  [Вадим Малютин](speakers/Вадим%20Малютин.md)  |    |
-| JavaScript и «бабушкофон», или Самая большая платформа, о которой вы никогда не слышали  |  [Никита Мостовой](speakers/Никита%20Мостовой.md)  |    |
+| [Как готовить production с Webpack 5 module federation](https://youtu.be/ugkOEg5xJCA)  |  [Вадим Малютин](speakers/Вадим%20Малютин.md)  |    |
+| [JavaScript и «бабушкофон», или Самая большая платформа, о которой вы никогда не слышали](https://youtu.be/Ej5-DvLfMO0)  |  [Никита Мостовой](speakers/Никита%20Мостовой.md)  |    |
 ## SuperJob + Сбер - Sep 23 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;LlcEyX6BWD4)
 | | | |
 | --- | :---: | --- |

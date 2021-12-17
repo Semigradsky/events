@@ -3,7 +3,7 @@
 
 # HolyJS
 
-## HolyJS 2021 Moscow - 2021 Nov 02-05 
+## HolyJS 2021 Moscow - 2021 Nov 02-05 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8IYDYRieNB0axR-8siPTVuh)
 | | | |
 | --- | :---: | --- |
 | Докручиваем ApolloClient до энтерпрайзной разработки  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  |    |
@@ -11,7 +11,8 @@
 | React.memo — сплетни&#x2F;исходники&#x2F;грань полезности  |  [Александр Бальцевич](../../speakers/Александр%20Бальцевич.md)  |    |
 | Фреймворки и паттерны разработки цифровых решений на производстве  |  [Илья Симоненко](../../speakers/Илья%20Симоненко.md)  [Алексей Краснобаев](../../speakers/Алексей%20Краснобаев.md)  [Алина Макеева](../../speakers/Алина%20Макеева.md)  [Павел Доронин](../../speakers/Павел%20Доронин.md)  [Олег Кондрашин](../../speakers/Олег%20Кондрашин.md)  |    |
 | Ещё один текстовый веб-редактор и в чём проблемы contenteditable?  |  [Даниил Налетов](../../speakers/Даниил%20Налетов.md)  |    |
-| Statoscope. Курс интенсивной терапии для вашего бандла.  |  [Сергей Мелюков](../../speakers/Сергей%20Мелюков.md)  |    |
+| [Statoscope. Курс интенсивной терапии для вашего бандла. Часть 1.](https://www.youtube.com/watch?v=aAkmZ0gMYQ8)  |  [Сергей Мелюков](../../speakers/Сергей%20Мелюков.md)  |   [:spiral_notepad:](https://habr.com/ru/company/jugru/blog/595595/) |
+| [Statoscope. Курс интенсивной терапии для вашего бандла. Часть 2.](https://www.youtube.com/watch?v=-OUb1RmLhK0)  |  [Сергей Мелюков](../../speakers/Сергей%20Мелюков.md)  |   [:spiral_notepad:](https://habr.com/ru/company/jugru/blog/595595/) |
 | Расширения для браузера: Угроза или опасность?  |  [Али Гасымов](../../speakers/Али%20Гасымов.md)  |    |
 | Поглощение через микрофронтенд: нужно просто вставить одно приложение в другое  |  [Дмитрий Смирнов](../../speakers/Дмитрий%20Смирнов.md)  |    |
 | Agile-процессы в современных продуктовых компаниях  |  [Сергей Сергеев](../../speakers/Сергей%20Сергеев.md)  |    |
@@ -34,17 +35,18 @@
 | OpenID Connect и OAuth2.0  |  [Михаил Вовренчук](../../speakers/Михаил%20Вовренчук.md)  |    |
 | Разбор полетов: Microsoft To-Do  |  [Алексей Мигуцкий](../../speakers/Алексей%20Мигуцкий.md)  |    |
 | Что веб грядущий нам готовит?  |  [Александр Мышов](../../speakers/Александр%20Мышов.md)  [Сергей Рубанов](../../speakers/Сергей%20Рубанов.md)  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  [Сергей Иванов](../../speakers/Сергей%20Иванов.md)  |    |
-| Воркшоп. GlimmerX — declarative UI &amp; derived reactivity in 27kb  |  [Александр Канунников](../../speakers/Александр%20Канунников.md)  |  [:octocat:](https://github.com/lifeart/glimmerx-workshop)  |
-| Advanced types в TypeScript  |  [Алексей Березин](../../speakers/Алексей%20Березин.md)  |    |
-| Считаете, что TDD не работает? У меня для вас плохие новости  |  [Дмитрий Коваленко](../../speakers/Дмитрий%20Коваленко.md)  |    |
-| Знакомство с Докой: редакция отвечает на вопросы  |  [Таня Денисюк](../../speakers/Таня%20Денисюк.md)  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  [Алёна Батицкая](../../speakers/Алёна%20Батицкая.md)  [Николай Лопин](../../speakers/Николай%20Лопин.md)  [Игорь Коровченко](../../speakers/Игорь%20Коровченко.md)  |    |
+| [Воркшоп. GlimmerX — declarative UI &amp; derived reactivity in 27kb. Часть 1](https://youtu.be/C-gBuD534lY)  |  [Александр Канунников](../../speakers/Александр%20Канунников.md)  |  [:octocat:](https://github.com/lifeart/glimmerx-workshop)  |
+| [Воркшоп. GlimmerX — declarative UI &amp; derived reactivity in 27kb. Часть 2](https://youtu.be/hAJJ9Y3UGvk)  |  [Александр Канунников](../../speakers/Александр%20Канунников.md)  |  [:octocat:](https://github.com/lifeart/glimmerx-workshop)  |
+| [Advanced types в TypeScript](https://youtu.be/KFWJGVDYZaw)  |  [Алексей Березин](../../speakers/Алексей%20Березин.md)  |    |
+| [Считаете, что TDD не работает? У меня для вас плохие новости](https://youtu.be/ZJgaTwdLNIg)  |  [Дмитрий Коваленко](../../speakers/Дмитрий%20Коваленко.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/1V0Vy8BfybvCoF4tG8cvTM/f7ac2164d534caf057d0c6f7699d40e6/3c611ecc-5dac-43d5-9e9a-ee265f66dfca.pdf)   |
+| [Знакомство с Докой: редакция отвечает на вопросы](https://youtu.be/9bJk8ayzXFA)  |  [Таня Денисюк](../../speakers/Таня%20Денисюк.md)  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  [Алёна Батицкая](../../speakers/Алёна%20Батицкая.md)  [Николай Лопин](../../speakers/Николай%20Лопин.md)  [Игорь Коровченко](../../speakers/Игорь%20Коровченко.md)  |    |
 | Сделать выбор в пользу GraphQL или дать шанс REST?  |  [Михаил Тадевосян](../../speakers/Михаил%20Тадевосян.md)  |    |
-| Множественное наследование на JavaScript  |  [Виктор Вершанский](../../speakers/Виктор%20Вершанский.md)  |    |
-| Ethereum &amp; DeFi for JS developer  |  [Артем Воробьев](../../speakers/Артем%20Воробьев.md)  |    |
-| Как прокачаться с мидла до сеньора  |  [Татьяна Денисюк](../../speakers/Татьяна%20Денисюк.md)  [Михаил Башуров](../../speakers/Михаил%20Башуров.md)  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  [Станислав Цыганов](../../speakers/Станислав%20Цыганов.md)  |    |
+| [Множественное наследование на JavaScript](https://youtu.be/P-j448mMoBI)  |  [Виктор Вершанский](../../speakers/Виктор%20Вершанский.md)  |    |
+| [Ethereum &amp; DeFi for JS developer](https://youtu.be/dpeYNgZw9_4)  |  [Артем Воробьев](../../speakers/Артем%20Воробьев.md)  |    |
+| [Как прокачаться с мидла до сеньора](https://youtu.be/oM_3Py5hiNA)  |  [Татьяна Денисюк](../../speakers/Татьяна%20Денисюк.md)  [Михаил Башуров](../../speakers/Михаил%20Башуров.md)  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  [Станислав Цыганов](../../speakers/Станислав%20Цыганов.md)  |    |
 | Тонкости разработки дизайн-системы  |  [Иван Гришин](../../speakers/Иван%20Гришин.md)  |    |
-| Как готовить production с Webpack 5 module federation  |  [Вадим Малютин](../../speakers/Вадим%20Малютин.md)  |    |
-| JavaScript и «бабушкофон», или Самая большая платформа, о которой вы никогда не слышали  |  [Никита Мостовой](../../speakers/Никита%20Мостовой.md)  |    |
+| [Как готовить production с Webpack 5 module federation](https://youtu.be/ugkOEg5xJCA)  |  [Вадим Малютин](../../speakers/Вадим%20Малютин.md)  |    |
+| [JavaScript и «бабушкофон», или Самая большая платформа, о которой вы никогда не слышали](https://youtu.be/Ej5-DvLfMO0)  |  [Никита Мостовой](../../speakers/Никита%20Мостовой.md)  |    |
 ## HolyJS 2021 Piter - 2021 Apr 20-23 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8JyUetDcVI5iHzGP8pfKjcl)
 | | | |
 | --- | :---: | --- |

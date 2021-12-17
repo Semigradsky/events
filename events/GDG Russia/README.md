@@ -3,6 +3,13 @@
 
 # GDG Russia
 
+## DevFest 2021 - 2021 Dec 04 [:movie_camera:](https://www.youtube.com/playlist?list=PLGlZ_ld11os8laSuAa1xUzv_z3EcZEF3g)
+| | | |
+| --- | :---: | --- |
+| [Нативные веб-приложения: готовность номер один!](https://youtu.be/-QEaXUddvKc)  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  |    |
+| [DI: две буквы, безграничные возможности [Workshop]](https://youtu.be/5nVKrcnIFqA)  |  [Роман Седов](../../speakers/Роман%20Седов.md)  [Александр Инкин](../../speakers/Александр%20Инкин.md)  | [:notebook:](https://docs.google.com/presentation/d/1nTgNUlHJOmYq-lbMROWQGkEHq74FV-Uoq86Nqo7QZ0Q/edit)   |
+| [Смешные шапочки на Insertable Streams](https://youtu.be/irobFO1ZjTk)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  |    |
+| [Визуализация данных на Kotlin-Multiplatform](https://youtu.be/8F0e_JaoUBU)  |  [Александр Нозик](../../speakers/Александр%20Нозик.md)  | [:notebook:](https://docs.google.com/presentation/d/1pLJ72eHhp4xvzdFZ58j0k8iicSAeaew1xHiiHbMsCCo/edit?usp=sharing)   |
 ## IWD 2021 - 2021 Mar 27 
 | | | |
 | --- | :---: | --- |
