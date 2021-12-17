@@ -2,7 +2,7 @@ name: HolyJS 2021 Moscow
 date:
   - 2021-11-02
   - 2021-11-05
-videos: 
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8IYDYRieNB0axR-8siPTVuh
 talks:
   - name: Докручиваем ApolloClient до энтерпрайзной разработки
     speaker: Павел Черторогов
@@ -25,10 +25,16 @@ talks:
     speaker: Даниил Налетов
     video: 
     presentation: 
-  - name: Statoscope. Курс интенсивной терапии для вашего бандла.
+  - name: Statoscope. Курс интенсивной терапии для вашего бандла. Часть 1.
     speaker: Сергей Мелюков
-    video: 
+    video: https://www.youtube.com/watch?v=aAkmZ0gMYQ8
     presentation: 
+    text: https://habr.com/ru/company/jugru/blog/595595/
+  - name: Statoscope. Курс интенсивной терапии для вашего бандла. Часть 2.
+    speaker: Сергей Мелюков
+    video: https://www.youtube.com/watch?v=-OUb1RmLhK0
+    presentation: 
+    text: https://habr.com/ru/company/jugru/blog/595595/
   - name: "Расширения для браузера: Угроза или опасность?"
     speaker: Али Гасымов
     video: 
@@ -117,22 +123,27 @@ talks:
     speaker: Александр Мышов, Сергей Рубанов, Андрей Мелихов, Сергей Иванов
     video: 
     presentation: 
-  - name: "Воркшоп. GlimmerX — declarative UI & derived reactivity in 27kb"
+  - name: "Воркшоп. GlimmerX — declarative UI & derived reactivity in 27kb. Часть 1"
     speaker: Александр Канунников
-    video: 
+    video: https://youtu.be/C-gBuD534lY
+    presentation: 
+    code: https://github.com/lifeart/glimmerx-workshop
+  - name: "Воркшоп. GlimmerX — declarative UI & derived reactivity in 27kb. Часть 2"
+    speaker: Александр Канунников
+    video: https://youtu.be/hAJJ9Y3UGvk
     presentation: 
     code: https://github.com/lifeart/glimmerx-workshop
   - name: Advanced types в TypeScript
     speaker: Алексей Березин
-    video: 
+    video: https://youtu.be/KFWJGVDYZaw
     presentation: 
   - name: Считаете, что TDD не работает? У меня для вас плохие новости
     speaker: Дмитрий Коваленко
-    video: 
-    presentation: 
+    video: https://youtu.be/ZJgaTwdLNIg
+    presentation: https://downloads.ctfassets.net/nn534z2fqr9f/1V0Vy8BfybvCoF4tG8cvTM/f7ac2164d534caf057d0c6f7699d40e6/3c611ecc-5dac-43d5-9e9a-ee265f66dfca.pdf
   - name: "Знакомство с Докой: редакция отвечает на вопросы"
     speaker: Таня Денисюк, Алексей Золотых, Алёна Батицкая, Николай Лопин, Игорь Коровченко
-    video: 
+    video: https://youtu.be/9bJk8ayzXFA
     presentation: 
   - name: Сделать выбор в пользу GraphQL или дать шанс REST?
     speaker: Михаил Тадевосян
@@ -140,15 +151,15 @@ talks:
     presentation: 
   - name: Множественное наследование на JavaScript
     speaker: Виктор Вершанский
-    video: 
+    video: https://youtu.be/P-j448mMoBI
     presentation: 
   - name: Ethereum & DeFi for JS developer
     speaker: Артем Воробьев
-    video: 
+    video: https://youtu.be/dpeYNgZw9_4
     presentation: 
   - name: Как прокачаться с мидла до сеньора
     speaker: Татьяна Денисюк, Михаил Башуров, Алексей Золотых, Станислав Цыганов
-    video: 
+    video: https://youtu.be/oM_3Py5hiNA
     presentation: 
   - name: Тонкости разработки дизайн-системы
     speaker: Иван Гришин
@@ -156,9 +167,9 @@ talks:
     presentation: 
   - name: Как готовить production с Webpack 5 module federation
     speaker: Вадим Малютин
-    video: 
+    video: https://youtu.be/ugkOEg5xJCA
     presentation: 
   - name: "JavaScript и «бабушкофон», или Самая большая платформа, о которой вы никогда не слышали"
     speaker: Никита Мостовой
-    video: 
+    video: https://youtu.be/Ej5-DvLfMO0
     presentation: 
