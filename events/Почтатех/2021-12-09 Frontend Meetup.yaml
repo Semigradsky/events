@@ -1,0 +1,16 @@
+name: Frontend Meetup
+date: 2021-12-09
+videos: https://www.youtube.com/watch?v=3Cy2nUxjOVg
+talks:
+  - name: Простые интерфейсы сложных систем
+    speaker: Дмитрий Морозов
+    video: https://youtu.be/3Cy2nUxjOVg?t=933
+    presentation: 
+  - name: Developer Driven Design
+    speaker: Илья Полянский
+    video: https://youtu.be/3Cy2nUxjOVg?t=3598
+    presentation: 
+  - name: Архитектура фронтенд-приложений
+    speaker: Глеб Михеев
+    video: https://youtu.be/3Cy2nUxjOVg?t=6547
+    presentation: 
