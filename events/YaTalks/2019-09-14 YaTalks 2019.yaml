@@ -1,0 +1,37 @@
+name: YaTalks 2019
+date: 2019-09-14
+videos: https://youtu.be/Xg-oZp0EcYc
+talks:
+  - name: Хочу, чтобы все было одинаково!
+    speaker: Евгений Россинский
+    video: https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=189s
+    presentation: 
+  - name: От компонентов к архитектуре
+    speaker: Иван Никишкин
+    video: https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=3308s
+    presentation: 
+  - name: Как рисует браузер
+    speaker: Константин Крамлих
+    video: https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=6189s
+    presentation: 
+    text: https://habr.com/ru/company/yandex/blog/468165/
+  - name: Очень странное тестирование
+    speaker: Назим Гафаров
+    video: https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=9459s
+    presentation: 
+  - name: Все цвета радуги
+    speaker: Владимир Кузнецов
+    video: https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=16350s
+    presentation: 
+  - name: Разработка в монорепозитории
+    speaker: Азат Разетдинов
+    video: https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=19354s
+    presentation: 
+  - name: Человеческие собеседования
+    speaker: Семён Левенсон
+    video: https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=22340s
+    presentation: 
+  - name: 42
+    speaker: Вадим Макишвили
+    video: https://www.youtube.com/watch?v=Xg-oZp0EcYc&t=25572s
+    presentation: 
