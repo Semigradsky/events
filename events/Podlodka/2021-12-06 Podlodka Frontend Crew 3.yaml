@@ -1,0 +1,63 @@
+name: Podlodka Frontend Crew 3
+date:
+  - 2021-12-06
+  - 2021-12-17
+videos: 
+talks:
+  - name: "Пакетные менеджеры: есть ли жизнь за пределами npm?"
+    speaker: Валентин Семирульник
+    video: 
+    presentation: 
+  - name: "Я dev, зачем мне ваш ops: что стоит знать каждому frontend-инженеру о CI/CD"
+    speaker: Илья Климов
+    video: 
+    presentation: 
+  - name: "ESLint для самых любопытных"
+    speaker: Игорь Камышев
+    video: 
+    presentation: 
+  - name: "Почему тулинг такой сложный?"
+    speaker: Павел Франков, Валентин Семирульник, Кирилл Миронов
+    video: 
+    presentation: 
+  - name: "Полиморфизм: JS vs настоящие языки программирования"
+    speaker: Валерий Ковалёв
+    video: 
+    presentation: 
+  - name: "Streams в Node.js: работа с данными в потоке"
+    speaker: Анастасия Котова
+    video: 
+    presentation: 
+  - name: "Где JIT, а где мы?"
+    speaker: Егор Огарков
+    video: 
+    presentation: 
+  - name: "Чистый код, чистая нода, чистые функции [Публичное собеседование]"
+    speaker: Тимур Шемсединов
+    video: https://youtu.be/sNFPdfgax3Q
+    presentation: 
+  - name: "Фронт, соберись!"
+    speaker: Олег Морозов
+    video: 
+    presentation: 
+  - name: "Наностол: открытый стол о границе между полезными и микрооптимизациями"
+    speaker: Андрей Ситник, Влад Шилов, Иван Акулов
+    video: 
+    presentation: 
+  - name: Многопоточность в NodeJS
+    speaker: Тимур Шемсединов
+    video: https://youtu.be/VNXga8zomrY
+    presentation: https://www.slideshare.net/tshemsedinov/multithreading-in-nodejs-and-javascript
+  - name: Браузерный рендеринг
+    speaker: Сергей Ufocoder
+    video: 
+    presentation: https://docs.google.com/presentation/d/1_u28LPZWap3en4petA8iwOn8Oy5X8W_ubICgOQMFkiA/edit?usp=sharing
+    code: https://github.com/ufocoder/browser-rendering-performance
+  - name: Нужны ли глубокие знания JS обычному разработчику
+    speaker: Сергей Ufocoder, Дмитрий Коваленко
+    video: 
+    presentation: 
+  - name: "Планировщик задач: не замораживаем страницу"
+    speaker: Виктор Хомяков
+    video: 
+    presentation: 
