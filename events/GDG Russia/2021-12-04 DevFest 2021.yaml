@@ -1,0 +1,20 @@
+name: DevFest 2021
+date: 2021-12-04
+videos: https://www.youtube.com/playlist?list=PLGlZ_ld11os8laSuAa1xUzv_z3EcZEF3g
+talks:
+  - name: "Нативные веб-приложения: готовность номер один!"
+    speaker: Максим Сальников
+    video: https://youtu.be/-QEaXUddvKc
+    presentation: 
+  - name: "DI: две буквы, безграничные возможности [Workshop]"
+    speaker: Роман Седов, Александр Инкин
+    video: https://youtu.be/5nVKrcnIFqA
+    presentation: https://docs.google.com/presentation/d/1nTgNUlHJOmYq-lbMROWQGkEHq74FV-Uoq86Nqo7QZ0Q/edit
+  - name: Смешные шапочки на Insertable Streams
+    speaker: Полина Гуртовая
+    video: https://youtu.be/irobFO1ZjTk
+    presentation: 
+  - name: Визуализация данных на Kotlin-Multiplatform
+    speaker: Александр Нозик
+    video: https://youtu.be/8F0e_JaoUBU
+    presentation: https://docs.google.com/presentation/d/1pLJ72eHhp4xvzdFZ58j0k8iicSAeaew1xHiiHbMsCCo/edit?usp=sharing
