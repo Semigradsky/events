@@ -9,7 +9,7 @@
 | [The Web Design Cheat Code: Using SVG to bridge CSS’ gaps](https://www.youtube.com/watch?v=PNVygpWE4lI) [en] |  [Lea Verou](../../speakers/Lea%20Verou.md)  |    |
 | [WCAG: изучаем основы веб-доступности на практике](https://www.youtube.com/watch?v=5yc42rjnYtQ)  |  [Дмитро Попов](../../speakers/Дмитро%20Попов.md)  |    |
 | [Логування продуктивності відповідно до стандартів](https://www.youtube.com/watch?v=TarJKIJFlgA)  |  [Антон Немцев](../../speakers/Антон%20Немцев.md)  |    |
-| [Houdini — CSS, который JavaScript](https://www.youtube.com/watch?v=xFXCfTHTmoA)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [Houdini — CSS, который JavaScript](https://www.youtube.com/watch?v=xFXCfTHTmoA)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/houdini-css/kharkivcss.html)   |
 | Framer X. Ще один крок до порозуміння між дизайнерами і програмістами  |  [Валерій Сорокобатько](../../speakers/Валерій%20Сорокобатько.md)  |    |
 | [UX як основа усвідомленої верстки](https://www.youtube.com/watch?v=XRtSLTg_q-g)  |  [Олена Шпілевська](../../speakers/Олена%20Шпілевська.md)  |    |
 | [WebFonts in 2019: Everything Changes](https://www.youtube.com/watch?v=Nb0C8veF_XE) [en] |  [Chris Lilley](../../speakers/Chris%20Lilley.md)  |    |

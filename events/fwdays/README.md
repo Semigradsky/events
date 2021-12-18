@@ -3,25 +3,25 @@
 
 # fwdays
 
-## JavaScript fwdays&#39;21 - 2021 Jun 01-08 
+## JavaScript fwdays&#39;21 - 2021 Jun 01-08 [:movie_camera:](https://www.youtube.com/playlist?list=PLPcgQFk9n9y95onY781w6QwJ14lz0E5tb)
 | | | |
 | --- | :---: | --- |
-| Live stream: Recreational coding  |  [Юрий Артюх](../../speakers/Юрий%20Артюх.md)  |    |
+| [Live stream: Recreational coding](https://youtu.be/lWiPAIPnmyQ)  |  [Юрий Артюх](../../speakers/Юрий%20Артюх.md)  |    |
 | [Deep dive Into NestJS](https://youtu.be/4-v4gKsCZUQ)  |  [Никита Галкин](../../speakers/Никита%20Галкин.md)  |    |
-| Electron. How the most modern framework works  |  [Алексей Голубев](../../speakers/Алексей%20Голубев.md)  | [:notebook:](https://www.slideshare.net/fwdays/electron-how-the-most-modern-framework-works-oleksii-holubiev)   |
-| Discussion. Monorepo. Pros and cons  |  [Остап Червак](../../speakers/Остап%20Червак.md)  [Алексей Левжинский](../../speakers/Алексей%20Левжинский.md)  [Антон Веринов](../../speakers/Антон%20Веринов.md)  [Евгений Обрезков](../../speakers/Евгений%20Обрезков.md)  [Алексей Распопов](../../speakers/Алексей%20Распопов.md)  |    |
-| Everywhere is undefined: using the “script” part of JS  |  [Антон Веринов](../../speakers/Антон%20Веринов.md)  | [:notebook:](https://www.slideshare.net/fwdays/everywhere-is-undefined-using-the-script-part-of-js-anton-verinov)   |
-| How to grow skilled developers and gather reliable teams  |  [Елена Жукова](../../speakers/Елена%20Жукова.md)  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  [Виктор Турский](../../speakers/Виктор%20Турский.md)  |    |
-| [WORKSHOP] Full-Stack Kata  |  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  |    |
-| Technical Challenges behind Visual IDE for React Components [uk] |  [Тетяна Мандзюк](../../speakers/Тетяна%20Мандзюк.md)  | [:notebook:](https://www.slideshare.net/fwdays/technical-challenges-behind-visual-ide-for-react-components-tetiana-mandziuk)   |
-| Real-time Collaborative Text Editing on Grammarly’s Front-End Team  |  [Алексей Левжинский](../../speakers/Алексей%20Левжинский.md)  | [:notebook:](https://www.slideshare.net/fwdays/realtime-collaborative-text-editing-on-grammarlys-frontend-team-oleksii-levzhynskyi)   |
-| Условно адаптивно  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://www.slideshare.net/fwdays/conditionally-adaptive-vadim-makeev)   |
-| [13 ways to run web applications on the Internet](https://youtu.be/RLJbNhLlx54) [uk] |  [Андрей Шумада](../../speakers/Андрей%20Шумада.md)  |    |
-| React Query: the next big thing?  |  [Антон Худяков](../../speakers/Антон%20Худяков.md)  |    |
+| [Electron. Как работает современный desktop framework](https://youtu.be/W8q9zeIAx94)  |  [Алексей Голубев](../../speakers/Алексей%20Голубев.md)  | [:notebook:](https://www.slideshare.net/fwdays/electron-how-the-most-modern-framework-works-oleksii-holubiev)   |
+| [Discussion. Monorepo. Pros and cons](https://youtu.be/BOitBqzP_ic)  |  [Остап Червак](../../speakers/Остап%20Червак.md)  [Алексей Левжинский](../../speakers/Алексей%20Левжинский.md)  [Антон Веринов](../../speakers/Антон%20Веринов.md)  [Евгений Обрезков](../../speakers/Евгений%20Обрезков.md)  [Алексей Распопов](../../speakers/Алексей%20Распопов.md)  |    |
+| [Everywhere is undefined: using the “script” part of JS](https://youtu.be/GfD-MYaWjIU)  |  [Антон Веринов](../../speakers/Антон%20Веринов.md)  | [:notebook:](https://www.slideshare.net/fwdays/everywhere-is-undefined-using-the-script-part-of-js-anton-verinov)   |
+| [Discussion. How to grow skilled developers and gather reliable teams](https://youtu.be/dzGymPC3YbE)  |  [Елена Жукова](../../speakers/Елена%20Жукова.md)  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  [Виктор Турский](../../speakers/Виктор%20Турский.md)  |    |
+| [WORKSHOP] Full-Stack Kata  |  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  |  [:octocat:](https://github.com/listochkin/full-stack-kata-jsfwdays-2021)  |
+| [Technical Challenges behind Visual IDE for React Components](https://youtu.be/Y-nBEJoTFfQ) [uk] |  [Тетяна Мандзюк](../../speakers/Тетяна%20Мандзюк.md)  | [:notebook:](https://www.slideshare.net/fwdays/technical-challenges-behind-visual-ide-for-react-components-tetiana-mandziuk)   |
+| [Совместное редактирование текстов в real-time режиме. Кейс Front-End Grammarly](https://youtu.be/dIEoS9_WsJU)  |  [Алексей Левжинский](../../speakers/Алексей%20Левжинский.md)  | [:notebook:](https://www.slideshare.net/fwdays/realtime-collaborative-text-editing-on-grammarlys-frontend-team-oleksii-levzhynskyi)   |
+| [Условно адаптивно](https://youtu.be/-4ag-AYFzGo)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://www.slideshare.net/fwdays/conditionally-adaptive-vadim-makeev)   |
+| [13 ways to run web applications on the Internet](https://youtu.be/RLJbNhLlx54) [uk] |  [Андрей Шумада](../../speakers/Андрей%20Шумада.md)  | [:notebook:](https://www.slideshare.net/fwdays/13-ways-to-run-web-applications-on-the-internet-andrii-shumada)   |
+| [React Query: следующая большая библиотека?](https://youtu.be/zLGDsJs42VU)  |  [Антон Худяков](../../speakers/Антон%20Худяков.md)  |  [:octocat:](https://gitlab.com/lectrum-education-public/react-course/examples/-/tree/master/src/examples/react-and-network/2-advanced)  |
 | [Технологический стек Metarhia для Node.js](https://youtu.be/PHyl4b8Fj5A)  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs)   |
-| JS trends uncovered  |  [Владимир Вышко](../../speakers/Владимир%20Вышко.md)  | [:notebook:](https://slides.com/vladimirvyshko/js-dev-in-the-wonderland)   |
+| [JS trends uncovered](https://youtu.be/-FarRrCnMko)  |  [Владимир Вышко](../../speakers/Владимир%20Вышко.md)  | [:notebook:](https://slides.com/vladimirvyshko/js-dev-in-the-wonderland)   |
 | [Карго-культ TypeScript в украинских аутсорсерах](https://youtu.be/H9-F8uhKMRk)  |  [Илья Климов](../../speakers/Илья%20Климов.md)  |    |
-| The little big project. From zero to hero in two weeks with 3 front-end engineers only  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  | [:notebook:](https://www.slideshare.net/fwdays/the-little-big-project-from-zero-to-hero-in-two-weeks-with-3-frontend-engineers-only-andrey-melikhov)   |
+| [Маленький большой проект. С нуля в прод за 2 недели силами трёх фронтендеров](https://youtu.be/1AOSKYPveyA)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  | [:notebook:](https://www.slideshare.net/fwdays/the-little-big-project-from-zero-to-hero-in-two-weeks-with-3-frontend-engineers-only-andrey-melikhov)   |
 ## React fwdays&#39;21 - 2021 Mar 23-30 [:movie_camera:](https://www.youtube.com/playlist?list=PLPcgQFk9n9y-tQjGRQoMsOey1kF50RNMz)
 | | | |
 | --- | :---: | --- |

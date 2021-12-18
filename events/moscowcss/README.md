@@ -47,7 +47,7 @@
 | [Как приручить токены](https://www.youtube.com/watch?v=ijZTu7aVJtg)  |  [Виктория Дубровская](../../speakers/Виктория%20Дубровская.md)  [Георгий Бузин](../../speakers/Георгий%20Бузин.md)  |    |
 | [Давайте не будем ждать?](https://www.youtube.com/watch?v=ijZTu7aVJtg)  |  [Алексей Попков](../../speakers/Алексей%20Попков.md)  |    |
 | [Тестирование фронтенда для разработчиков​](https://www.youtube.com/watch?v=ijZTu7aVJtg)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  |    |
-| [MacOS Driven Development](https://www.youtube.com/watch?v=ijZTu7aVJtg)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [MacOS Driven Development](https://www.youtube.com/watch?v=ijZTu7aVJtg)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/mdd/)   |
 ## moscowcss 7 - 2018 Mar 06 [:movie_camera:](https://www.facebook.com/afishamansarda/videos/1901332616557448/)
 | | | |
 | --- | :---: | --- |

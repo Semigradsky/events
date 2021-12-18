@@ -90,7 +90,7 @@
 | --- | :---: | --- |
 | [The Psychology of building your first open source](https://youtu.be/n2hYH87nzSA) [en] |  [Eyal Eizenberg](../../speakers/Eyal%20Eizenberg.md)  |    |
 | [Do not chase the hype train. Just steal ideas](https://youtu.be/LVfmF1L6dGY)  |  [Александр Хохлов](../../speakers/Александр%20Хохлов.md)  |    |
-| [Get prepared for your performance...](https://youtu.be/nsaF4VFnCz0)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [Get prepared for your performance...](https://youtu.be/nsaF4VFnCz0)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/talk-preparation/)   |
 | [Deploying your JS app in 2018](https://youtu.be/8QJq4_k0oTQ) [en] |  [Mike MacCana](../../speakers/Mike%20MacCana.md)  |    |
 | [Advanced State Management using ngrx v6](https://youtu.be/J3p2eO-ziBQ) [en] |  [Gerard Sans](../../speakers/Gerard%20Sans.md)  |    |
 | [Copy paste detector for 150+ languages on JavaScript](https://youtu.be/3wNEY6x5bIs)  |  [Андрей Кучеренко](../../speakers/Андрей%20Кучеренко.md)  |    |
@@ -104,7 +104,7 @@
 | [Bot Building: channels, platforms, NLU](https://youtu.be/VIlbw9gvyWs)  |  [Валентин Мезенцев](../../speakers/Валентин%20Мезенцев.md)  [Глеб Добжанский](../../speakers/Глеб%20Добжанский.md)  [Виталий Гурин](../../speakers/Виталий%20Гурин.md)  |    |
 | [Redux-cornell](https://youtu.be/LmhtTzY3nms) [en] |  [Eyal Eizenberg](../../speakers/Eyal%20Eizenberg.md)  |    |
 | [Excuse me, I have to assemble Frontend](https://youtu.be/lqzzn4Z3krY)  |  [Андрей Михайлюк](../../speakers/Андрей%20Михайлюк.md)  |    |
-| [Houdini — CSS, который JavaScript](https://youtu.be/MPaD8N9BrFA)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [Houdini — CSS, который JavaScript](https://youtu.be/MPaD8N9BrFA)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/houdini-css/)   |
 | [OK Google. What&#39;s next?](https://youtu.be/ABYnHK8h7VQ)  |  [Филипп Шурпик](../../speakers/Филипп%20Шурпик.md)  |    |
 | [JavaScript without javascript](https://youtu.be/QJM538gMc7M) [en] |  [Patrick Kettner](../../speakers/Patrick%20Kettner.md)  |    |
 | [Unleash the power of the higher-order components](https://youtu.be/P-3Oxb0nA5A) [en] |  [David Kopal](../../speakers/David%20Kopal.md)  |    |

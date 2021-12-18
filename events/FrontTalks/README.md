@@ -13,7 +13,7 @@
 | [Иван Тулуп: асинхронщина в JS под капотом](https://events.yandex.ru/lib/talks/6393/)  |  [Михаил Башуров](../../speakers/Михаил%20Башуров.md)  |    |
 | [Let&#39;s kill lifecycle](https://events.yandex.ru/lib/talks/6358/)  |  [Александр Шушунов](../../speakers/Александр%20Шушунов.md)  |    |
 | [Про HTML](https://events.yandex.ru/lib/talks/6248/)  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  |    |
-| [Houdini — CSS, который JavaScript](https://events.yandex.ru/lib/talks/6244/)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [Houdini — CSS, который JavaScript](https://events.yandex.ru/lib/talks/6244/)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/houdini-css/ft.html)   |
 | [Типографика в вебе](https://events.yandex.ru/lib/talks/6359/)  |  [Антон Кастрицкий](../../speakers/Антон%20Кастрицкий.md)  |    |
 | [Безграничные возможности транспиляции](https://events.yandex.ru/lib/talks/6356/)  |  [Андрей Роенко](../../speakers/Андрей%20Роенко.md)  |    |
 | [Авторизация — новый чёрный](https://events.yandex.ru/lib/talks/6357/)  |  [Александр Зубов](../../speakers/Александр%20Зубов.md)  |    |

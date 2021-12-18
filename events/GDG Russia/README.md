@@ -10,6 +10,7 @@
 | [DI: две буквы, безграничные возможности [Workshop]](https://youtu.be/5nVKrcnIFqA)  |  [Роман Седов](../../speakers/Роман%20Седов.md)  [Александр Инкин](../../speakers/Александр%20Инкин.md)  | [:notebook:](https://docs.google.com/presentation/d/1nTgNUlHJOmYq-lbMROWQGkEHq74FV-Uoq86Nqo7QZ0Q/edit)   |
 | [Смешные шапочки на Insertable Streams](https://youtu.be/irobFO1ZjTk)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  |    |
 | [Визуализация данных на Kotlin-Multiplatform](https://youtu.be/8F0e_JaoUBU)  |  [Александр Нозик](../../speakers/Александр%20Нозик.md)  | [:notebook:](https://docs.google.com/presentation/d/1pLJ72eHhp4xvzdFZ58j0k8iicSAeaew1xHiiHbMsCCo/edit?usp=sharing)   |
+| [Flutter и веб-разработка. Тварь ли дрожащая или право имеет?](https://youtu.be/UKDX4n7vB1k)  |  [Александр Денисов](../../speakers/Александр%20Денисов.md)  |    |
 ## IWD 2021 - 2021 Mar 27 
 | | | |
 | --- | :---: | --- |
@@ -21,7 +22,7 @@
 ## DevFest 2020 - 2020 Oct 17 [:movie_camera:](https://www.youtube.com/playlist?list=PLGlZ_ld11os9BMGLLzqRHofIHS510XIUk)
 | | | |
 | --- | :---: | --- |
-| [&lt;img&gt;](https://youtu.be/WfzKd16LplI)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [&lt;img&gt;](https://youtu.be/WfzKd16LplI)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/img/)   |
 | [ЧТО БУДЕТ, если ВОВРЕМЯ НЕ ОТПИСАТЬСЯ — RxJS Observable](https://youtu.be/RhYUnc622qg)  |  [Андрей Греков](../../speakers/Андрей%20Греков.md)  |  [:octocat:](https://stackblitz.com/edit/why-you-have-to-unsubscribe-from-observable-material) [:spiral_notepad:](https://medium.com/ngx/why-do-you-need-unsubscribe-ee0c62b5d21f) |
 | [Angular компоненты сыновей маминой подруги [Workshop]](https://youtu.be/wwynvEBh-P4)  |  [Роман Седов](../../speakers/Роман%20Седов.md)  [Александр Инкин](../../speakers/Александр%20Инкин.md)  |  [:octocat:](https://stackblitz.com/edit/angular-declarative-components)  |
 | [Как сделать редактор майндмэпов](https://youtu.be/uEP5zlMo28o)  |  [Тимофей Чаптыков](../../speakers/Тимофей%20Чаптыков.md)  |    |
