@@ -18,7 +18,7 @@ talks:
   - name: "Houdini — CSS, который JavaScript"
     speaker: Никита Дубко
     video: https://www.youtube.com/watch?v=xFXCfTHTmoA
-    presentation:
+    presentation: https://mefody.github.io/talks/houdini-css/kharkivcss.html
   - name: "Framer X. Ще один крок до порозуміння між дизайнерами і програмістами"
     speaker: Валерій Сорокобатько
     video:

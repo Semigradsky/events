@@ -15,7 +15,7 @@ talks:
     presentation: https://drive.google.com/file/d/1OWakTpJh6V9GkYOtJmI4VleInZqXS39V/view
   -
     name: "Полный Spectre уязвимостей"
-    speaker: 'Unknown'
+    speaker: Никита Дубко, Unknown
     video: https://www.youtube.com/watch?v=hGzy17Nnc38
     presentation:
       - https://mefody.github.io/talks/spectre-panel-discussion/

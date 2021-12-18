@@ -7,7 +7,7 @@ talks:
   - name: CSS — язык программирования
     speaker: Никита Дубко
     video: 
-    presentation: 
+    presentation: https://mefody.github.io/talks/css-programming/stachka.html
   - name: Автоматический рефакторинг кода с помощью codemodes
     speaker: Александр Мышов
     video: 

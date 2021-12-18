@@ -28,6 +28,7 @@ talks:
   - name: 'Houdini — CSS, который JavaScript'
     speaker: Никита Дубко
     url: 'https://events.yandex.ru/lib/talks/6244/'
+    presentation: https://mefody.github.io/talks/houdini-css/ft.html
   - name: Типографика в вебе
     speaker: Антон Кастрицкий
     url: 'https://events.yandex.ru/lib/talks/6359/'

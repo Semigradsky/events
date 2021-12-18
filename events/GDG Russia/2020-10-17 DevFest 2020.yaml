@@ -5,7 +5,7 @@ talks:
   - name: <img>
     speaker: Никита Дубко
     video: https://youtu.be/WfzKd16LplI
-    presentation: 
+    presentation: https://mefody.github.io/talks/img/
   - name: ЧТО БУДЕТ, если ВОВРЕМЯ НЕ ОТПИСАТЬСЯ — RxJS Observable
     speaker: Андрей Греков
     video: https://youtu.be/RhYUnc622qg

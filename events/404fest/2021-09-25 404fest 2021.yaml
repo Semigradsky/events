@@ -15,7 +15,7 @@ talks:
   - name: Что веб грядущий нам готовит
     speaker: Никита Дубко
     video: 
-    presentation: 
+    presentation: https://mefody.github.io/talks/web-future/404.html
   - name: Условно адаптивно
     speaker: Вадим Макеев
     video: 

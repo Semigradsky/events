@@ -13,6 +13,7 @@ talks:
   - name: Get prepared for your performance...
     speaker: 'Александра Шинкевич, Никита Дубко'
     video: 'https://youtu.be/nsaF4VFnCz0'
+    presentation: https://mefody.github.io/talks/talk-preparation/
   - name: Deploying your JS app in 2018
     speaker: Mike MacCana
     lang: en
@@ -61,6 +62,7 @@ talks:
   - name: Houdini — CSS, который JavaScript
     speaker: Никита Дубко
     video: 'https://youtu.be/MPaD8N9BrFA'
+    presentation: https://mefody.github.io/talks/houdini-css/
   - name: OK Google. What's next?
     speaker: Филипп Шурпик
     video: 'https://youtu.be/ABYnHK8h7VQ'

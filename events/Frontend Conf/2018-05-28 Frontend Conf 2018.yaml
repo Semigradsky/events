@@ -98,6 +98,7 @@ talks:
   - name: 'Показываем картинки пользователю: подробное руководство'
     speaker: Никита Дубко
     video: 'https://www.youtube.com/watch?v=EwBYOQwPEpY'
+    presentation: https://mefody.github.io/talks/images-delivery/
   - name: Анимация на сайте – легкий соус или основное блюдо?
     speaker: Дмитрий Шагаров
     video: 'https://www.youtube.com/watch?v=V8Fzty2hh9M'
