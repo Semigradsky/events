@@ -2,71 +2,73 @@ name: JavaScript fwdays'21
 date:
   - 2021-06-01
   - 2021-06-08
-videos: 
+videos: https://www.youtube.com/playlist?list=PLPcgQFk9n9y95onY781w6QwJ14lz0E5tb
 talks:
   - name: "Live stream: Recreational coding"
     speaker: Юрий Артюх
-    video: 
+    video: https://youtu.be/lWiPAIPnmyQ
     presentation: 
   - name: Deep dive Into NestJS
     speaker: Никита Галкин
     video: https://youtu.be/4-v4gKsCZUQ
     presentation: 
-  - name: Electron. How the most modern framework works
+  - name: Electron. Как работает современный desktop framework
     speaker: Алексей Голубев
-    video: 
+    video: https://youtu.be/W8q9zeIAx94
     presentation: https://www.slideshare.net/fwdays/electron-how-the-most-modern-framework-works-oleksii-holubiev
   - name: Discussion. Monorepo. Pros and cons
     speaker: Остап Червак, Алексей Левжинский, Антон Веринов, Евгений Обрезков, Алексей Распопов
-    video: 
+    video: https://youtu.be/BOitBqzP_ic
     presentation: 
   - name: "Everywhere is undefined: using the “script” part of JS"
     speaker: Антон Веринов
-    video: 
+    video: https://youtu.be/GfD-MYaWjIU
     presentation: https://www.slideshare.net/fwdays/everywhere-is-undefined-using-the-script-part-of-js-anton-verinov
-  - name: How to grow skilled developers and gather reliable teams
+  - name: Discussion. How to grow skilled developers and gather reliable teams
     speaker: Елена Жукова, Андрей Мелихов, Виктор Турский
-    video: 
+    video: https://youtu.be/dzGymPC3YbE
     presentation: 
   - name: "[WORKSHOP] Full-Stack Kata"
     speaker: Андрей Листочкин
     video: 
     presentation: 
+    code: https://github.com/listochkin/full-stack-kata-jsfwdays-2021
   - name: Technical Challenges behind Visual IDE for React Components
     speaker: Тетяна Мандзюк
     lang: uk
-    video: 
+    video: https://youtu.be/Y-nBEJoTFfQ
     presentation: https://www.slideshare.net/fwdays/technical-challenges-behind-visual-ide-for-react-components-tetiana-mandziuk
-  - name: Real-time Collaborative Text Editing on Grammarly’s Front-End Team
+  - name: Совместное редактирование текстов в real-time режиме. Кейс Front-End Grammarly
     speaker: Алексей Левжинский
-    video: 
+    video: https://youtu.be/dIEoS9_WsJU
     presentation: https://www.slideshare.net/fwdays/realtime-collaborative-text-editing-on-grammarlys-frontend-team-oleksii-levzhynskyi
   - name: Условно адаптивно
     speaker: Вадим Макеев
-    video: 
+    video: https://youtu.be/-4ag-AYFzGo
     presentation: https://www.slideshare.net/fwdays/conditionally-adaptive-vadim-makeev
   - name: 13 ways to run web applications on the Internet
     speaker: Андрей Шумада
     lang: uk
     video: https://youtu.be/RLJbNhLlx54
-    presentation: 
-  - name: "React Query: the next big thing?"
+    presentation: https://www.slideshare.net/fwdays/13-ways-to-run-web-applications-on-the-internet-andrii-shumada
+  - name: "React Query: следующая большая библиотека?"
     speaker: Антон Худяков
-    video: 
+    video: https://youtu.be/zLGDsJs42VU
     presentation: 
+    code: https://gitlab.com/lectrum-education-public/react-course/examples/-/tree/master/src/examples/react-and-network/2-advanced
   - name: Технологический стек Metarhia для Node.js
     speaker: Тимур Шемсединов
     video: https://youtu.be/PHyl4b8Fj5A
     presentation: https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs
   - name: JS trends uncovered
     speaker: Владимир Вышко
-    video: 
+    video: https://youtu.be/-FarRrCnMko
     presentation: https://slides.com/vladimirvyshko/js-dev-in-the-wonderland
   - name: Карго-культ TypeScript в украинских аутсорсерах
     speaker: Илья Климов
     video: https://youtu.be/H9-F8uhKMRk
     presentation: 
-  - name: The little big project. From zero to hero in two weeks with 3 front-end engineers only
+  - name: Маленький большой проект. С нуля в прод за 2 недели силами трёх фронтендеров
     speaker: Андрей Мелихов
-    video: 
+    video: https://youtu.be/1AOSKYPveyA
     presentation: https://www.slideshare.net/fwdays/the-little-big-project-from-zero-to-hero-in-two-weeks-with-3-frontend-engineers-only-andrey-melikhov
