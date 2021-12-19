@@ -7,7 +7,7 @@ link: https://frontendconf.ru/moscow/2020
 talks:
   - name: TypeScript как фундамент архитектуры приложения
     speaker: Али Рагимов
-    video: 
+    video: https://www.youtube.com/watch?v=tT58iFSB_fk
     presentation: https://drive.google.com/file/d/13Pfgv5CZhSqMgVtEhgLHx3stKGvsQiSQ/view
   - name: "2020: время хороших интерфейсов"
     speaker: Анна Селезнёва
@@ -15,7 +15,7 @@ talks:
     presentation: https://drive.google.com/file/d/1IxelEpN45BzcpIZ1rn5ovVaZ53LMWrTR/view
   - name: Dependency injection в React-приложении
     speaker: Сергей Нестеров
-    video: 
+    video: https://www.youtube.com/watch?v=dMNGzYVfwsc
     presentation: https://drive.google.com/file/d/1ssmrP7viWZ6Dpun0_afxzxYEZdz5tZoA/view
   - name: Основной контент вашего сервиса
     speaker: Вадим Матвеев
@@ -23,7 +23,7 @@ talks:
     presentation: https://drive.google.com/file/d/1kDYcukfMbVtzX_da9SsGLmjeJ8qrEbBz/view
   - name: Баланс между общим и частным на огромных масштабах
     speaker: Владимир Гриненко
-    video: 
+    video: https://www.youtube.com/watch?v=n36NP6AbTFQ
     presentation: https://drive.google.com/file/d/10JQQ_XRNOAv1f60YTWeZV4an4S3tMH-B/view
   - name: Цвет настроения
     speaker: Глафира Жур
@@ -31,7 +31,7 @@ talks:
     presentation: https://drive.google.com/file/d/1mNIzvFaSA6pXK-2_35v_tJzzzvL_DX6v/view
   - name: "Как правильно заходить на рефакторинг, или Почему легаси не приговор"
     speaker: Денис Красновский
-    video: 
+    video: https://www.youtube.com/watch?v=BxZj04qNPRg
     presentation: https://drive.google.com/file/d/1LJQC7syG79ixCEhJuzl0sSUcdj57BesB/view
   - name: "Фуллстек-дизайнер: почему это классно для всех"
     speaker: Сергей Тимофеев
@@ -43,7 +43,7 @@ talks:
     presentation: https://drive.google.com/file/d/1wKXjYlPz_DluUUifuOAYaGgyRaNDS7Pw/view
   - name: Пять лет эволюции React-приложения
     speaker: Андрей Марченко
-    video: 
+    video: https://www.youtube.com/watch?v=ZMlEfKZMZto
     presentation: https://drive.google.com/file/d/1jcyUn8skK1637Eigan3OOOkZqe7owvd-/view
   - name: Smart Interface Design Patterns, 2020 Edition
     speaker: Виталий Фридман
@@ -51,15 +51,15 @@ talks:
     presentation: 
   - name: Микрофронтенды на tinkoff.ru
     speaker: Дмитрий Кузнецов
-    video: 
+    video: https://www.youtube.com/watch?v=adgUumoPv6o
     presentation: https://drive.google.com/file/d/1B1JW_Hgu66S0eWgtgzV2JQrpPhJV9J_E/view
   - name: "Чем болеют большие фронтенды: монорепы и микрофронтенды"
     speaker: Иван Соловьёв
-    video: 
+    video: https://www.youtube.com/watch?v=P0UJ-nrSi34
     presentation: https://drive.google.com/file/d/19tLGzPRYb-Xz63OUSbjeNPKzpYPuf3M_/view
   - name: Как выстроить эффективное взаимодействие между дизайнером и фронтенд-разработчиком
     speaker: Игорь Шеко
-    video: 
+    video: https://www.youtube.com/watch?v=uExMGo4Q_Mw
     presentation: https://slides.com/irbisadm/effective-cooperate
   - name: Сердце Vue-приложения
     speaker: Александр Шушунов
@@ -160,7 +160,7 @@ talks:
     presentation: https://drive.google.com/file/d/1XMX_XsJW8l0edWnB9xvSHWSZkVYFyyoo/view
   - name: Тестирование фронтенда, или Как не быть ленивым кодером
     speaker: Александра Шинкевич
-    video: 
+    video: https://www.youtube.com/watch?v=PivJXnddkIY
     presentation: https://drive.google.com/file/d/1Cv1AzrA0t0765QUJxN45NhgT0CPq9vba/view
   - name: WWW-аппликация
     speaker: Никита Дубко
@@ -168,7 +168,7 @@ talks:
     presentation: https://drive.google.com/file/d/1lQKL2ru7fPJXDCiHCjgtbczAcLzV6FCL/view
   - name: Как находить больше багов с меньшими усилиями
     speaker: Николай Москаленко
-    video: 
+    video: https://www.youtube.com/watch?v=8pQJMIx5k54
     presentation: https://drive.google.com/file/d/19jIbV-xA7G9s_LANargxk0HxabUPGcqX/view
   - name: Как использовать анимацию на сайте и не бесить пользователей
     speaker: Сергей Кузнецов
@@ -176,7 +176,7 @@ talks:
     presentation: https://drive.google.com/file/d/1KqHePlxmWYP1cF2rh4OiE7I1EQBmM78l/view
   - name: "Мастер-класс по тестированию фронтенда \"nodejs и базовое тестирование\""
     speaker: Максим Соснов
-    video: 
+    video: https://www.youtube.com/watch?v=W4DKLa5xvi4
     presentation: https://drive.google.com/file/d/1tlG9K7v99OzYS8UyoKi6deOY9GoAbNdJ/view
   - name: Вам показалось! Все о Perceived Performance
     speaker: Алексей Охрименко
@@ -189,7 +189,7 @@ talks:
     presentation: https://drive.google.com/file/d/10k2qiJILd-YpudTmPC-3PjZX1i4Bg0fw/view
   - name: "Мастер-класс по тестированию фронтенда: тестирование вёрстки и функциональное тестирование"
     speaker: Максим Соснов
-    video: 
+    video: https://www.youtube.com/watch?v=tP1Kb_lXIzE
     presentation: https://drive.google.com/file/d/1vgqp5RDRJ1YDoI3dB5UUxqnLv8sagZdW/view
   - name: SSR. Как доставлять быстро
     speaker: Виталий Сысолятин
@@ -201,9 +201,9 @@ talks:
     presentation: https://drive.google.com/file/d/1yGwtFXQ0IwRCee6OBPii8wS5JhClIOWL/view
   - name: BDD-тестирование веб-приложений
     speaker: Александр Иосса
-    video: 
+    video: https://www.youtube.com/watch?v=PPcap1aPD3c
     presentation: https://drive.google.com/file/d/1_Xt5ZI8lMEzqibql0qB9O8pjS1PIXVxd/view
   - name: Моя команда любит тесты. А ваша?
     speaker: Иван Ботанов
-    video: 
+    video: https://www.youtube.com/watch?v=YMYMMqp2MGU
     presentation: https://drive.google.com/file/d/1z22gflBMbN_xYozpBJ3aaRpfuw8txQCc/view

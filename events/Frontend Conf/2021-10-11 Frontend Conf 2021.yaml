@@ -7,60 +7,148 @@ talks:
   - name: Что WebGPU значит для веб-платформы?
     speaker: Денис Радин
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1ZX66ROf53zdq0eN2kxowXZx258-79zoR/view
   - name: RTC, почти RTC и Франкенштейн
     speaker: Полина Гуртовая
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1__p-TmQewibrzrSb_2moaJxZIh4xv0Nu/view
   - name: "Есть ли жизнь без 3rd-party-кук: 2021 year edition"
     speaker: Анатолий Остапенко
     video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1lNSyICmCZob4YqeVVU5KtFTWPSx0OR4Y/view
   - name: Сам себе дизайнер
     speaker: Юлия Миоцен
     video: 
-    presentation: 
-  - name: А я думал, что нужно просто уметь писать код
-    speaker: Андрей Смирнов
-    video: 
-    presentation: 
-  - name: Serverless на примере реального приложения
+    presentation: https://drive.google.com/file/d/1kDBQ7C4LPGvsafSZZus2jW7iY6_UOOQQ/view
+  - name: Serverless, или Бэкенд не нужен
     speaker: Роман Арестович
     video: 
-    presentation: 
-  - name: Data Science на Javascript-модулях
-    speaker: Никита Сидоров
-    video: 
-    presentation: 
+    presentation: https://drive.google.com/file/d/1HbYf36KeBvYKEZfKey5Qc6v1jYRiq6Y5/view
   - name: System Design for Design System
     speaker: Василий Логиневский
     video: 
-    presentation: 
-  - name: OWASP Top-10 для фронтэндера и как с этим жить
-    speaker: Татьяна Новикова
-    video: 
-    presentation: 
-  - name: Автоматизируем сервис-воркер с Workbox 6
-    speaker: Максим Сальников
-    video: 
-    presentation: 
-  - name: Фронтенд и носимые устройства (Bluetooth API)
+    presentation: https://drive.google.com/file/d/1B_mMXjAiIYlvTXtEakccM2eQuw8TfRtR/view
+  - name: Я — Фронтендер. Я управляю JS-машинкой из браузера через Bluetooth
     speaker: Илья Черторыльский
     video: 
-    presentation: 
-  - name: "ElectronJS: начинаем писать Desktop App на JS"
+    presentation: https://drive.google.com/file/d/1msZ4NraQ4ilDwkL6eYwKaD4r0JoIFAg0/view
+  - name: "Electron: Пишем десктопное приложение на веб-технологиях"
     speaker: Александр Руденко
     video: 
-    presentation: 
-  - name: "TypeScript: худший & лучший язык программирования"
+    presentation: https://drive.google.com/file/d/1iKNUTCUdJdyF0-wVdmvSHSkDymiTLTiH/view
+  - name: "TypeScript: худший лучший язык программирования"
     speaker: Андрей Старовойт
     video: 
-    presentation: 
-  - name: Гарри Поттер и Скриншотные Тесты в Storybook
+    presentation: https://drive.google.com/file/d/1gcFk_SGBO5IwERJK9O94wk_8NxLtraFm/view
+  - name: Вжух! И скриншотные тесты заработали
     speaker: Дмитрий Лазарев
     video: 
-    presentation: 
-  - name: Условно адаптивно
+    presentation: https://drive.google.com/file/d/1OYI6Mp4roIVY_4h0t_Y84yypeG_NrkP5/view
+  - name: А доки где?
     speaker: Вадим Макеев
+    video: 
+    presentation: https://drive.google.com/file/d/13L7OJoN7vFtb-Norj0GddaX1caJUYK0K/view
+  - name: Используем USB-токены для аутентификации в браузере
+    speaker: Алексей Авдеев
+    video: 
+    presentation: https://drive.google.com/file/d/1Y5qM1fBxarJpQCOCVEIkPi6mTEBOReRX/view
+  - name: Карьерный рост без строчки кода
+    speaker: Андрей Смирнов
+    video: 
+    presentation: https://sandark7.github.io/FrontendConf2021/
+  - name: YouTube наоборот, или Зачем айтишнику пилить видосы
+    speaker: Лекс АйТиБорода
+    video: 
+    presentation: https://drive.google.com/file/u/0/d/1_5f9MzexZ-SBe1uVKg5m6yl35VjFtEmM/view
+  - name: Избавляемся от паролей в веб-приложении
+    speaker: Семён Левенсон
+    video: 
+    presentation: https://drive.google.com/file/u/0/d/11JMyH6UblXsy1QXcgFk7IAkFBQ_-fIzI/view
+  - name: "Эволюция репозитория: от простого к сложному"
+    speaker: Игорь Кацуба
+    video: 
+    presentation: https://drive.google.com/file/d/14QLrg8odryZ54TYc-Tg6-85F-mrs_1ea/view
+  - name: Фантастические Баги, и откуда они вылезают
+    speaker: Роман Еникеев
+    video: 
+    presentation: https://drive.google.com/file/d/1saJnKVvIuMN4vurNUEgnn8L2KdcyeMd4/view
+  - name: Дизайн-система на токенах в Figma, коде и проде
+    speaker: Константин Подрубный
+    video: 
+    presentation: https://drive.google.com/file/u/0/d/1lD8JeIfhGRsk3AjwFfPRmaXfB-DjBXQk/view
+  - name: Управление состоянием с помощью Query Manager
+    speaker: Михаил Хромов
+    video: 
+    presentation: https://drive.google.com/file/d/1a5FRt0shfCb7IIVSQicZe8GgTSg1mN00/view
+  - name: "Улучшаем производительность: виртуальный рендеринг для больших объемов данных"
+    speaker: Сергей Клинов
+    video: 
+    presentation: https://drive.google.com/file/d/16tgMgxXGeGVuLMZPhUFkawEwuq3paTNq/view
+  - name: Проектирование гиперадаптивной UI-библиотеки
+    speaker: Дмитрий Карловский
+    video: 
+    presentation: https://drive.google.com/file/d/1mTP-TWg48hrffpD1VMxcc7uiI-eGFBuM/view
+  - name: "Frontend и backend: находим общий язык"
+    speaker: Мария Стогова
+    video: 
+    presentation: https://drive.google.com/file/d/1-mgA9p8DWvcVMtOalVw5gSmf2PcSii40/view
+  - name: Глубокое погружение в реактивное программирование на примере RxJS
+    speaker: Сэм Булатов
+    video: 
+    presentation: 
+  - name: Поздно пить боржоми
+    speaker: Иван Ботанов
+    video: 
+    presentation: https://drive.google.com/file/d/14Da8pVKN8lnMlfRO3RejG_k5T5ZieeSq/view
+  - name: Как достичь производительного рендеринга в браузере
+    speaker: Глеб Михеев
+    video: 
+    presentation: https://drive.google.com/file/d/17bYF3_DtaEscKWOTcQUNVAT2AyQ4MGIg/view
+  - name: Микрофронтенды. Два года в продакшне
+    speaker: Владимир Санников
+    video: 
+    presentation: https://drive.google.com/file/d/172CxIDRoHLiqPKnU-tLlhpjURfaHuFSL/view
+  - name: Как перестать ждать и начать расти
+    speaker: Денис Красновский
+    video: 
+    presentation: https://drive.google.com/file/d/1Z90gEBpLjxer6IFDIfDJ8x8TEqf9c6Fd/view
+  - name: Тебе не нужен Bootstrap!
+    speaker: Александра Шинкевич
+    video: 
+    presentation: https://drive.google.com/file/d/1Lu-d96385ApAN5PUmU_sZmLtKKzVPF4d/view
+  - name: "Accessibility: для кого и как внедрять?"
+    speaker: Андрей Кузнецов
+    video: 
+    presentation: https://drive.google.com/file/d/137xttjXpeDzOl8yHx4WtHLq-Ytwrymfb/view
+  - name: "”Не нужен нам ваш натив”, или История про Xbox"
+    speaker: Павел Зенов
+    video: 
+    presentation: https://drive.google.com/file/d/1gfAiBgGT1G8EeaYc124C0JKhvFzNoqJ7/view
+  - name: "Комьюнити: растем сами и развиваем сообщество внутри компании"
+    speaker: Юлия Царёва
+    video: 
+    presentation: https://drive.google.com/file/d/18LU-SudgwZ4GfKfm3qqH96oGXKZnuVyM/view
+  - name: Тебе не нужна версия для слабовидящих
+    speaker: Лена Райан
+    video: 
+    presentation: https://drive.google.com/file/d/1ZNVOMJvOZYy-XA316tLCB3o-Q4T7aUqV/view
+  - name: Большое приложение на реактивном SSR-топливе
+    speaker: Виталий Старов
+    video: 
+    presentation: https://drive.google.com/file/u/0/d/1Pg8WTPZaj8hRyI2MmHM7_s56RoXSrzQi/view
+  - name: Микросервис головного мозга. Пилим всё, что движется
+    speaker: Михаил Трифонов
+    video: 
+    presentation: https://drive.google.com/file/d/1fgBUY6DyxCiLXe4Q9w5r4P-9p7pdELYn/view
+  - name: Переводим большой проект с Vue на Svelte при помощи компилятора TypeScript
+    speaker: Илья Мясин
+    video: 
+    presentation: https://drive.google.com/file/d/1vecbctkdkz8VjMSEpOClZGG75SMjnKje/view
+  - name: Особенности многонационального сайтосмотрения
+    speaker: Дмитрий Шмаков
+    video: 
+    presentation: https://drive.google.com/file/d/1_8ysMdRIj06ELOTy_gT1aexzKL6DtmhR/view
+  - name: "[Workshop] Поверхность атак на клиентскую часть веб-приложения"
+    speaker: Егор Богомолов
     video: 
     presentation: 
