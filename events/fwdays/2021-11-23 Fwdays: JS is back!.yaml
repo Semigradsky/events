@@ -1,0 +1,81 @@
+name: "Fwdays: JS is back!"
+date:
+  - 2021-11-23
+  - 2021-12-03
+videos: 
+talks:
+  - name: Applied Enterprise Metaprogramming in JavaScript
+    speaker: Vladyslav Dukhin
+    video: 
+    presentation: 
+  - name: Discussion on GraphQL
+    speaker: Екатерина Поршнева, Andrii Chyzh, Oleksandr Tarasenko, Полина Гуртовая
+    video: 
+    presentation: 
+  - name: Discussion on System Design
+    speaker: Vitaliy Kharytonskiy, Алексей Распопов, Oleksii Petrov, Андрей Листочкин
+    video: 
+    lang: uk
+    presentation: 
+  - name: How was it to switch from beautiful Perl to horrible JavaScript
+    speaker: Виктор Турский
+    video: 
+    presentation: https://www.slideshare.net/fwdays/how-was-it-to-switch-from-beautiful-perl-to-horrible-javascript-viktor-turskyi
+  - name: "How does Node.js optimise JavaScript code?"
+    speaker: Евгений Обрезков
+    video: 
+    presentation: https://slides.ghaiklor.com/2021-11-25-fwdays-v8-under-the-hood
+  - name: Open Graph для тех, кто не хочет думать
+    speaker: Никита Дубко
+    video: 
+    presentation: https://mefody.github.io/talks/lazy-og/
+  - name: How to use TypeORM and stay alive
+    speaker: Andrii Andriiko
+    video: 
+    presentation: https://www.slideshare.net/fwdays/how-to-use-typeorm-and-stay-alive-andrii-andriiko
+  - name: Необычные браузерные API
+    speaker: Александра Шинкевич
+    video: 
+    presentation: https://neesoglasnaja.github.io/Fwdays2021/
+  - name: Wix Serverless from inside
+    speaker: Mykola Borozdin
+    video: 
+    lang: ukr
+    presentation: https://www.slideshare.net/fwdays/wix-serverless-from-inside-mykola-borozdin
+  - name: Augmented reality in your browser
+    speaker: Alina Karpelceva
+    video: 
+    presentation: https://www.slideshare.net/fwdays/augmented-reality-in-your-browser-alina-karpelceva
+  - name: "How to Use Bazel to Manage Monorepos: The Grammarly Front-End Team’s Experience"
+    speaker: Алексей Левжинский
+    video: 
+    presentation: https://www.slideshare.net/fwdays/how-to-use-bazel-to-manage-monorepos-the-grammarly-frontend-teams-experience-oleksii-levzhynskyi
+  - name: "Node.js threads for I/O-bound tasks"
+    speaker: Тимур Шемсединов
+    video: 
+    presentation: https://www.slideshare.net/fwdays/nodejs-threads-for-iobound-tasks-timur-shemsedinov
+  - name: "Prom.ua shopping cart workflow as a microfrontend"
+    speaker: Danylo Kazymyrov
+    video: 
+    presentation: https://www.slideshare.net/fwdays/promua-shopping-cart-workflow-as-a-microfrontend-danylo-kazymyrov
+  - name: Усовершенствуем процесс аутентификации
+    speaker: Антон Немцев
+    video: 
+    presentation: https://silentimp.github.io/webauthn-ru/?broadcast=true#slide-1
+  - name: Web Vitals monitoring & optimizations
+    speaker: Erik Himiranov
+    video: 
+    presentation: https://www.slideshare.net/fwdays/web-vitals-monitoring-optimizations-erik-himiranov
+  - name: "Node.js Development in 2022: trends and techniques"
+    speaker: Никита Галкин
+    video: 
+    presentation: https://speakerdeck.com/galkin/node-dot-js-development-in-2022
+  - name: Front-end Performance
+    speaker: Роман Лютиков
+    video: 
+    lang: uk
+    presentation: https://app.pitch.com/app/public/player/60124cc4-0674-4253-955a-1f8540866ae7
+  - name: "[Workshop] Nest.js tips and tricks"
+    speaker: Никита Галкин
+    video: 
+    presentation: 
