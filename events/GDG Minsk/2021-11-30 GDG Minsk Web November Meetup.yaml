@@ -4,9 +4,9 @@ videos: https://www.youtube.com/watch?v=7DGu75USDz4
 talks:
   - name: Память и её утечки в Chrome и Node.js. Нестандартные способы оптимизации памяти в Node.js.
     speaker: Виктор Хомяков
-    video: 
+    video: https://youtu.be/tFETCcbyPJ0
     presentation: 
   - name: 10 шагов к проектированию REST API
     speaker: Игорь Антонов
-    video: 
+    video: https://youtu.be/KSGSA34RhWk
     presentation: 
