@@ -3,6 +3,11 @@
 
 # GDG Minsk
 
+## GDG Minsk Web November Meetup - 2021 Nov 30 [:movie_camera:](https://www.youtube.com/watch?v=7DGu75USDz4)
+| | | |
+| --- | :---: | --- |
+| [Память и её утечки в Chrome и Node.js. Нестандартные способы оптимизации памяти в Node.js.](https://youtu.be/tFETCcbyPJ0)  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |    |
+| [10 шагов к проектированию REST API](https://youtu.be/KSGSA34RhWk)  |  [Игорь Антонов](../../speakers/Игорь%20Антонов.md)  |    |
 ## GDG Minsk Web August Meetup - 2021 Aug 24 [:movie_camera:](https://youtu.be/GdxlnUdsgtU)
 | | | |
 | --- | :---: | --- |

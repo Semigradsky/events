@@ -3,6 +3,27 @@
 
 # fwdays
 
+## Fwdays: JS is back! - 2021 Nov 23-03 
+| | | |
+| --- | :---: | --- |
+| Applied Enterprise Metaprogramming in JavaScript  |  [Vladyslav Dukhin](../../speakers/Vladyslav%20Dukhin.md)  |    |
+| Discussion on GraphQL  |  [Екатерина Поршнева](../../speakers/Екатерина%20Поршнева.md)  [Andrii Chyzh](../../speakers/Andrii%20Chyzh.md)  [Oleksandr Tarasenko](../../speakers/Oleksandr%20Tarasenko.md)  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  |    |
+| Discussion on System Design [uk] |  [Vitaliy Kharytonskiy](../../speakers/Vitaliy%20Kharytonskiy.md)  [Алексей Распопов](../../speakers/Алексей%20Распопов.md)  [Oleksii Petrov](../../speakers/Oleksii%20Petrov.md)  [Андрей Листочкин](../../speakers/Андрей%20Листочкин.md)  |    |
+| How was it to switch from beautiful Perl to horrible JavaScript  |  [Виктор Турский](../../speakers/Виктор%20Турский.md)  | [:notebook:](https://www.slideshare.net/fwdays/how-was-it-to-switch-from-beautiful-perl-to-horrible-javascript-viktor-turskyi)   |
+| How does Node.js optimise JavaScript code?  |  [Евгений Обрезков](../../speakers/Евгений%20Обрезков.md)  | [:notebook:](https://slides.ghaiklor.com/2021-11-25-fwdays-v8-under-the-hood)   |
+| Open Graph для тех, кто не хочет думать  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://mefody.github.io/talks/lazy-og/)   |
+| How to use TypeORM and stay alive  |  [Andrii Andriiko](../../speakers/Andrii%20Andriiko.md)  | [:notebook:](https://www.slideshare.net/fwdays/how-to-use-typeorm-and-stay-alive-andrii-andriiko)   |
+| Необычные браузерные API  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  | [:notebook:](https://neesoglasnaja.github.io/Fwdays2021/)   |
+| Wix Serverless from inside [ukr] |  [Mykola Borozdin](../../speakers/Mykola%20Borozdin.md)  | [:notebook:](https://www.slideshare.net/fwdays/wix-serverless-from-inside-mykola-borozdin)   |
+| Augmented reality in your browser  |  [Alina Karpelceva](../../speakers/Alina%20Karpelceva.md)  | [:notebook:](https://www.slideshare.net/fwdays/augmented-reality-in-your-browser-alina-karpelceva)   |
+| How to Use Bazel to Manage Monorepos: The Grammarly Front-End Team’s Experience  |  [Алексей Левжинский](../../speakers/Алексей%20Левжинский.md)  | [:notebook:](https://www.slideshare.net/fwdays/how-to-use-bazel-to-manage-monorepos-the-grammarly-frontend-teams-experience-oleksii-levzhynskyi)   |
+| Node.js threads for I&#x2F;O-bound tasks  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  | [:notebook:](https://www.slideshare.net/fwdays/nodejs-threads-for-iobound-tasks-timur-shemsedinov)   |
+| Prom.ua shopping cart workflow as a microfrontend  |  [Danylo Kazymyrov](../../speakers/Danylo%20Kazymyrov.md)  | [:notebook:](https://www.slideshare.net/fwdays/promua-shopping-cart-workflow-as-a-microfrontend-danylo-kazymyrov)   |
+| Усовершенствуем процесс аутентификации  |  [Антон Немцев](../../speakers/Антон%20Немцев.md)  | [:notebook:](https://silentimp.github.io/webauthn-ru/?broadcast=true#slide-1)   |
+| Web Vitals monitoring &amp; optimizations  |  [Erik Himiranov](../../speakers/Erik%20Himiranov.md)  | [:notebook:](https://www.slideshare.net/fwdays/web-vitals-monitoring-optimizations-erik-himiranov)   |
+| Node.js Development in 2022: trends and techniques  |  [Никита Галкин](../../speakers/Никита%20Галкин.md)  | [:notebook:](https://speakerdeck.com/galkin/node-dot-js-development-in-2022)   |
+| Front-end Performance [uk] |  [Роман Лютиков](../../speakers/Роман%20Лютиков.md)  | [:notebook:](https://app.pitch.com/app/public/player/60124cc4-0674-4253-955a-1f8540866ae7)   |
+| [Workshop] Nest.js tips and tricks  |  [Никита Галкин](../../speakers/Никита%20Галкин.md)  |    |
 ## JavaScript fwdays&#39;21 - 2021 Jun 01-08 [:movie_camera:](https://www.youtube.com/playlist?list=PLPcgQFk9n9y95onY781w6QwJ14lz0E5tb)
 | | | |
 | --- | :---: | --- |

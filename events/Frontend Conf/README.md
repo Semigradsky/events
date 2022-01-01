@@ -3,23 +3,63 @@
 
 # Frontend Conf
 
+## Frontend Conf 2021 - 2021 Oct 11-12 
+| | | |
+| --- | :---: | --- |
+| Что WebGPU значит для веб-платформы?  |  [Денис Радин](../../speakers/Денис%20Радин.md)  | [:notebook:](https://drive.google.com/file/d/1ZX66ROf53zdq0eN2kxowXZx258-79zoR/view)   |
+| RTC, почти RTC и Франкенштейн  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://drive.google.com/file/d/1__p-TmQewibrzrSb_2moaJxZIh4xv0Nu/view)   |
+| Есть ли жизнь без 3rd-party-кук: 2021 year edition  |  [Анатолий Остапенко](../../speakers/Анатолий%20Остапенко.md)  | [:notebook:](https://drive.google.com/file/d/1lNSyICmCZob4YqeVVU5KtFTWPSx0OR4Y/view)   |
+| Сам себе дизайнер  |  [Юлия Миоцен](../../speakers/Юлия%20Миоцен.md)  | [:notebook:](https://drive.google.com/file/d/1kDBQ7C4LPGvsafSZZus2jW7iY6_UOOQQ/view)   |
+| Serverless, или Бэкенд не нужен  |  [Роман Арестович](../../speakers/Роман%20Арестович.md)  | [:notebook:](https://drive.google.com/file/d/1HbYf36KeBvYKEZfKey5Qc6v1jYRiq6Y5/view)   |
+| System Design for Design System  |  [Василий Логиневский](../../speakers/Василий%20Логиневский.md)  | [:notebook:](https://drive.google.com/file/d/1B_mMXjAiIYlvTXtEakccM2eQuw8TfRtR/view)   |
+| Я — Фронтендер. Я управляю JS-машинкой из браузера через Bluetooth  |  [Илья Черторыльский](../../speakers/Илья%20Черторыльский.md)  | [:notebook:](https://drive.google.com/file/d/1msZ4NraQ4ilDwkL6eYwKaD4r0JoIFAg0/view)   |
+| Electron: Пишем десктопное приложение на веб-технологиях  |  [Александр Руденко](../../speakers/Александр%20Руденко.md)  | [:notebook:](https://drive.google.com/file/d/1iKNUTCUdJdyF0-wVdmvSHSkDymiTLTiH/view)   |
+| TypeScript: худший лучший язык программирования  |  [Андрей Старовойт](../../speakers/Андрей%20Старовойт.md)  | [:notebook:](https://drive.google.com/file/d/1gcFk_SGBO5IwERJK9O94wk_8NxLtraFm/view)   |
+| Вжух! И скриншотные тесты заработали  |  [Дмитрий Лазарев](../../speakers/Дмитрий%20Лазарев.md)  | [:notebook:](https://drive.google.com/file/d/1OYI6Mp4roIVY_4h0t_Y84yypeG_NrkP5/view)   |
+| А доки где?  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://drive.google.com/file/d/13L7OJoN7vFtb-Norj0GddaX1caJUYK0K/view)   |
+| Используем USB-токены для аутентификации в браузере  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  | [:notebook:](https://drive.google.com/file/d/1Y5qM1fBxarJpQCOCVEIkPi6mTEBOReRX/view)   |
+| Карьерный рост без строчки кода  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  | [:notebook:](https://sandark7.github.io/FrontendConf2021/)   |
+| YouTube наоборот, или Зачем айтишнику пилить видосы  |  [Лекс АйТиБорода](../../speakers/Лекс%20АйТиБорода.md)  | [:notebook:](https://drive.google.com/file/u/0/d/1_5f9MzexZ-SBe1uVKg5m6yl35VjFtEmM/view)   |
+| Избавляемся от паролей в веб-приложении  |  [Семён Левенсон](../../speakers/Семён%20Левенсон.md)  | [:notebook:](https://drive.google.com/file/u/0/d/11JMyH6UblXsy1QXcgFk7IAkFBQ_-fIzI/view)   |
+| Эволюция репозитория: от простого к сложному  |  [Игорь Кацуба](../../speakers/Игорь%20Кацуба.md)  | [:notebook:](https://drive.google.com/file/d/14QLrg8odryZ54TYc-Tg6-85F-mrs_1ea/view)   |
+| Фантастические Баги, и откуда они вылезают  |  [Роман Еникеев](../../speakers/Роман%20Еникеев.md)  | [:notebook:](https://drive.google.com/file/d/1saJnKVvIuMN4vurNUEgnn8L2KdcyeMd4/view)   |
+| Дизайн-система на токенах в Figma, коде и проде  |  [Константин Подрубный](../../speakers/Константин%20Подрубный.md)  | [:notebook:](https://drive.google.com/file/u/0/d/1lD8JeIfhGRsk3AjwFfPRmaXfB-DjBXQk/view)   |
+| Управление состоянием с помощью Query Manager  |  [Михаил Хромов](../../speakers/Михаил%20Хромов.md)  | [:notebook:](https://drive.google.com/file/d/1a5FRt0shfCb7IIVSQicZe8GgTSg1mN00/view)   |
+| Улучшаем производительность: виртуальный рендеринг для больших объемов данных  |  [Сергей Клинов](../../speakers/Сергей%20Клинов.md)  | [:notebook:](https://drive.google.com/file/d/16tgMgxXGeGVuLMZPhUFkawEwuq3paTNq/view)   |
+| Проектирование гиперадаптивной UI-библиотеки  |  [Дмитрий Карловский](../../speakers/Дмитрий%20Карловский.md)  | [:notebook:](https://drive.google.com/file/d/1mTP-TWg48hrffpD1VMxcc7uiI-eGFBuM/view)   |
+| Frontend и backend: находим общий язык  |  [Мария Стогова](../../speakers/Мария%20Стогова.md)  | [:notebook:](https://drive.google.com/file/d/1-mgA9p8DWvcVMtOalVw5gSmf2PcSii40/view)   |
+| Глубокое погружение в реактивное программирование на примере RxJS  |  [Сэм Булатов](../../speakers/Сэм%20Булатов.md)  |    |
+| Поздно пить боржоми  |  [Иван Ботанов](../../speakers/Иван%20Ботанов.md)  | [:notebook:](https://drive.google.com/file/d/14Da8pVKN8lnMlfRO3RejG_k5T5ZieeSq/view)   |
+| Как достичь производительного рендеринга в браузере  |  [Глеб Михеев](../../speakers/Глеб%20Михеев.md)  | [:notebook:](https://drive.google.com/file/d/17bYF3_DtaEscKWOTcQUNVAT2AyQ4MGIg/view)   |
+| Микрофронтенды. Два года в продакшне  |  [Владимир Санников](../../speakers/Владимир%20Санников.md)  | [:notebook:](https://drive.google.com/file/d/172CxIDRoHLiqPKnU-tLlhpjURfaHuFSL/view)   |
+| Как перестать ждать и начать расти  |  [Денис Красновский](../../speakers/Денис%20Красновский.md)  | [:notebook:](https://drive.google.com/file/d/1Z90gEBpLjxer6IFDIfDJ8x8TEqf9c6Fd/view)   |
+| Тебе не нужен Bootstrap!  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  | [:notebook:](https://drive.google.com/file/d/1Lu-d96385ApAN5PUmU_sZmLtKKzVPF4d/view)   |
+| Accessibility: для кого и как внедрять?  |  [Андрей Кузнецов](../../speakers/Андрей%20Кузнецов.md)  | [:notebook:](https://drive.google.com/file/d/137xttjXpeDzOl8yHx4WtHLq-Ytwrymfb/view)   |
+| ”Не нужен нам ваш натив”, или История про Xbox  |  [Павел Зенов](../../speakers/Павел%20Зенов.md)  | [:notebook:](https://drive.google.com/file/d/1gfAiBgGT1G8EeaYc124C0JKhvFzNoqJ7/view)   |
+| Комьюнити: растем сами и развиваем сообщество внутри компании  |  [Юлия Царёва](../../speakers/Юлия%20Царёва.md)  | [:notebook:](https://drive.google.com/file/d/18LU-SudgwZ4GfKfm3qqH96oGXKZnuVyM/view)   |
+| Тебе не нужна версия для слабовидящих  |  [Лена Райан](../../speakers/Лена%20Райан.md)  | [:notebook:](https://drive.google.com/file/d/1ZNVOMJvOZYy-XA316tLCB3o-Q4T7aUqV/view)   |
+| Большое приложение на реактивном SSR-топливе  |  [Виталий Старов](../../speakers/Виталий%20Старов.md)  | [:notebook:](https://drive.google.com/file/u/0/d/1Pg8WTPZaj8hRyI2MmHM7_s56RoXSrzQi/view)   |
+| Микросервис головного мозга. Пилим всё, что движется  |  [Михаил Трифонов](../../speakers/Михаил%20Трифонов.md)  | [:notebook:](https://drive.google.com/file/d/1fgBUY6DyxCiLXe4Q9w5r4P-9p7pdELYn/view)   |
+| Переводим большой проект с Vue на Svelte при помощи компилятора TypeScript  |  [Илья Мясин](../../speakers/Илья%20Мясин.md)  | [:notebook:](https://drive.google.com/file/d/1vecbctkdkz8VjMSEpOClZGG75SMjnKje/view)   |
+| Особенности многонационального сайтосмотрения  |  [Дмитрий Шмаков](../../speakers/Дмитрий%20Шмаков.md)  | [:notebook:](https://drive.google.com/file/d/1_8ysMdRIj06ELOTy_gT1aexzKL6DtmhR/view)   |
+| [Workshop] Поверхность атак на клиентскую часть веб-приложения  |  [Егор Богомолов](../../speakers/Егор%20Богомолов.md)  |    |
 ## Frontend Conf 2020 (Live) - 2020 Sep 23-02 [:movie_camera:](https://www.youtube.com/playlist?list=PLfbxrJr-t5mmgwU3xnvOOtrsULgVWtTwH)
 | | | |
 | --- | :---: | --- |
-| TypeScript как фундамент архитектуры приложения  |  [Али Рагимов](../../speakers/Али%20Рагимов.md)  | [:notebook:](https://drive.google.com/file/d/13Pfgv5CZhSqMgVtEhgLHx3stKGvsQiSQ/view)   |
+| [TypeScript как фундамент архитектуры приложения](https://www.youtube.com/watch?v=tT58iFSB_fk)  |  [Али Рагимов](../../speakers/Али%20Рагимов.md)  | [:notebook:](https://drive.google.com/file/d/13Pfgv5CZhSqMgVtEhgLHx3stKGvsQiSQ/view)   |
 | 2020: время хороших интерфейсов  |  [Анна Селезнёва](../../speakers/Анна%20Селезнёва.md)  | [:notebook:](https://drive.google.com/file/d/1IxelEpN45BzcpIZ1rn5ovVaZ53LMWrTR/view)   |
-| Dependency injection в React-приложении  |  [Сергей Нестеров](../../speakers/Сергей%20Нестеров.md)  | [:notebook:](https://drive.google.com/file/d/1ssmrP7viWZ6Dpun0_afxzxYEZdz5tZoA/view)   |
+| [Dependency injection в React-приложении](https://www.youtube.com/watch?v=dMNGzYVfwsc)  |  [Сергей Нестеров](../../speakers/Сергей%20Нестеров.md)  | [:notebook:](https://drive.google.com/file/d/1ssmrP7viWZ6Dpun0_afxzxYEZdz5tZoA/view)   |
 | Основной контент вашего сервиса  |  [Вадим Матвеев](../../speakers/Вадим%20Матвеев.md)  | [:notebook:](https://drive.google.com/file/d/1kDYcukfMbVtzX_da9SsGLmjeJ8qrEbBz/view)   |
-| Баланс между общим и частным на огромных масштабах  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  | [:notebook:](https://drive.google.com/file/d/10JQQ_XRNOAv1f60YTWeZV4an4S3tMH-B/view)   |
+| [Баланс между общим и частным на огромных масштабах](https://www.youtube.com/watch?v=n36NP6AbTFQ)  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  | [:notebook:](https://drive.google.com/file/d/10JQQ_XRNOAv1f60YTWeZV4an4S3tMH-B/view)   |
 | Цвет настроения  |  [Глафира Жур](../../speakers/Глафира%20Жур.md)  | [:notebook:](https://drive.google.com/file/d/1mNIzvFaSA6pXK-2_35v_tJzzzvL_DX6v/view)   |
-| Как правильно заходить на рефакторинг, или Почему легаси не приговор  |  [Денис Красновский](../../speakers/Денис%20Красновский.md)  | [:notebook:](https://drive.google.com/file/d/1LJQC7syG79ixCEhJuzl0sSUcdj57BesB/view)   |
+| [Как правильно заходить на рефакторинг, или Почему легаси не приговор](https://www.youtube.com/watch?v=BxZj04qNPRg)  |  [Денис Красновский](../../speakers/Денис%20Красновский.md)  | [:notebook:](https://drive.google.com/file/d/1LJQC7syG79ixCEhJuzl0sSUcdj57BesB/view)   |
 | Фуллстек-дизайнер: почему это классно для всех  |  [Сергей Тимофеев](../../speakers/Сергей%20Тимофеев.md)  | [:notebook:](https://drive.google.com/file/d/1UxUKedr_p1R_vWBZs3i_9EI5QYg3Oa8a/view)   |
 | Как создают и поддерживают страницы tinkoff.ru  |  [Сергей Михайлов](../../speakers/Сергей%20Михайлов.md)  | [:notebook:](https://drive.google.com/file/d/1wKXjYlPz_DluUUifuOAYaGgyRaNDS7Pw/view)   |
-| Пять лет эволюции React-приложения  |  [Андрей Марченко](../../speakers/Андрей%20Марченко.md)  | [:notebook:](https://drive.google.com/file/d/1jcyUn8skK1637Eigan3OOOkZqe7owvd-/view)   |
+| [Пять лет эволюции React-приложения](https://www.youtube.com/watch?v=ZMlEfKZMZto)  |  [Андрей Марченко](../../speakers/Андрей%20Марченко.md)  | [:notebook:](https://drive.google.com/file/d/1jcyUn8skK1637Eigan3OOOkZqe7owvd-/view)   |
 | Smart Interface Design Patterns, 2020 Edition  |  [Виталий Фридман](../../speakers/Виталий%20Фридман.md)  |    |
-| Микрофронтенды на tinkoff.ru  |  [Дмитрий Кузнецов](../../speakers/Дмитрий%20Кузнецов.md)  | [:notebook:](https://drive.google.com/file/d/1B1JW_Hgu66S0eWgtgzV2JQrpPhJV9J_E/view)   |
-| Чем болеют большие фронтенды: монорепы и микрофронтенды  |  [Иван Соловьёв](../../speakers/Иван%20Соловьёв.md)  | [:notebook:](https://drive.google.com/file/d/19tLGzPRYb-Xz63OUSbjeNPKzpYPuf3M_/view)   |
-| Как выстроить эффективное взаимодействие между дизайнером и фронтенд-разработчиком  |  [Игорь Шеко](../../speakers/Игорь%20Шеко.md)  | [:notebook:](https://slides.com/irbisadm/effective-cooperate)   |
+| [Микрофронтенды на tinkoff.ru](https://www.youtube.com/watch?v=adgUumoPv6o)  |  [Дмитрий Кузнецов](../../speakers/Дмитрий%20Кузнецов.md)  | [:notebook:](https://drive.google.com/file/d/1B1JW_Hgu66S0eWgtgzV2JQrpPhJV9J_E/view)   |
+| [Чем болеют большие фронтенды: монорепы и микрофронтенды](https://www.youtube.com/watch?v=P0UJ-nrSi34)  |  [Иван Соловьёв](../../speakers/Иван%20Соловьёв.md)  | [:notebook:](https://drive.google.com/file/d/19tLGzPRYb-Xz63OUSbjeNPKzpYPuf3M_/view)   |
+| [Как выстроить эффективное взаимодействие между дизайнером и фронтенд-разработчиком](https://www.youtube.com/watch?v=uExMGo4Q_Mw)  |  [Игорь Шеко](../../speakers/Игорь%20Шеко.md)  | [:notebook:](https://slides.com/irbisadm/effective-cooperate)   |
 | [Сердце Vue-приложения](https://youtu.be/t8OHe4uhVy4)  |  [Александр Шушунов](../../speakers/Александр%20Шушунов.md)  | [:notebook:](https://drive.google.com/file/d/1z-jbl_5SHADL4LNXrpkteyqezb8q1D3F/view)   |
 | [Редизайн web-версии Сбербанк онлайн](https://youtu.be/cBjYWP3HTp8)  |  [Александр Кашин](../../speakers/Александр%20Кашин.md)  [Дмитрий Кузнецов](../../speakers/Дмитрий%20Кузнецов.md)  |    |
 | [Как работать с Apollo в связке с Typescript и GraphQL Code Generator](https://youtu.be/8xj9X_M9YI0)  |  [Сергей Степаненко](../../speakers/Сергей%20Степаненко.md)  |    |
@@ -44,18 +84,18 @@
 | [Ликбез по CI&#x2F;CD для frontend&#39;а на примере GitLab](https://youtu.be/BIY_J0Ba4Cc)  |  [Тимофей Тиунов](../../speakers/Тимофей%20Тиунов.md)  | [:notebook:](https://drive.google.com/file/d/11GIbmD600VpmU3ciBrZS2rNx4SH3Lvwk/view)   |
 | [Путь в senior&#39;ы через менторство junior&#39;ов](https://youtu.be/bCXG55tn0Jc)  |  [Даниил Пилипенко](../../speakers/Даниил%20Пилипенко.md)  | [:notebook:](https://drive.google.com/file/d/1sEik5q-uLbPZrpmfEKKk6joZBhPKpzXs/view)   |
 | Сбор и анализ производительности у клиентов  |  [Виктор Русакович](../../speakers/Виктор%20Русакович.md)  | [:notebook:](https://drive.google.com/file/d/1XMX_XsJW8l0edWnB9xvSHWSZkVYFyyoo/view)   |
-| Тестирование фронтенда, или Как не быть ленивым кодером  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  | [:notebook:](https://drive.google.com/file/d/1Cv1AzrA0t0765QUJxN45NhgT0CPq9vba/view)   |
+| [Тестирование фронтенда, или Как не быть ленивым кодером](https://www.youtube.com/watch?v=PivJXnddkIY)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  | [:notebook:](https://drive.google.com/file/d/1Cv1AzrA0t0765QUJxN45NhgT0CPq9vba/view)   |
 | WWW-аппликация  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://drive.google.com/file/d/1lQKL2ru7fPJXDCiHCjgtbczAcLzV6FCL/view)   |
-| Как находить больше багов с меньшими усилиями  |  [Николай Москаленко](../../speakers/Николай%20Москаленко.md)  | [:notebook:](https://drive.google.com/file/d/19jIbV-xA7G9s_LANargxk0HxabUPGcqX/view)   |
+| [Как находить больше багов с меньшими усилиями](https://www.youtube.com/watch?v=8pQJMIx5k54)  |  [Николай Москаленко](../../speakers/Николай%20Москаленко.md)  | [:notebook:](https://drive.google.com/file/d/19jIbV-xA7G9s_LANargxk0HxabUPGcqX/view)   |
 | Как использовать анимацию на сайте и не бесить пользователей  |  [Сергей Кузнецов](../../speakers/Сергей%20Кузнецов.md)  | [:notebook:](https://drive.google.com/file/d/1KqHePlxmWYP1cF2rh4OiE7I1EQBmM78l/view)   |
-| Мастер-класс по тестированию фронтенда &quot;nodejs и базовое тестирование&quot;  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  | [:notebook:](https://drive.google.com/file/d/1tlG9K7v99OzYS8UyoKi6deOY9GoAbNdJ/view)   |
+| [Мастер-класс по тестированию фронтенда &quot;nodejs и базовое тестирование&quot;](https://www.youtube.com/watch?v=W4DKLa5xvi4)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  | [:notebook:](https://drive.google.com/file/d/1tlG9K7v99OzYS8UyoKi6deOY9GoAbNdJ/view)   |
 | Вам показалось! Все о Perceived Performance  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  | [:notebook:](https://drive.google.com/file/d/1VG_8UsPdcJ_W6TyGl7dh5TWOBDkFAnoB/view)  [:spiral_notepad:](https://habr.com/ru/company/oleg-bunin/blog/538466/) |
 | React Reconciliation, или Как React добился 60 fps  |  [Александр Бальцевич](../../speakers/Александр%20Бальцевич.md)  | [:notebook:](https://drive.google.com/file/d/10k2qiJILd-YpudTmPC-3PjZX1i4Bg0fw/view)   |
-| Мастер-класс по тестированию фронтенда: тестирование вёрстки и функциональное тестирование  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  | [:notebook:](https://drive.google.com/file/d/1vgqp5RDRJ1YDoI3dB5UUxqnLv8sagZdW/view)   |
+| [Мастер-класс по тестированию фронтенда: тестирование вёрстки и функциональное тестирование](https://www.youtube.com/watch?v=tP1Kb_lXIzE)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  | [:notebook:](https://drive.google.com/file/d/1vgqp5RDRJ1YDoI3dB5UUxqnLv8sagZdW/view)   |
 | SSR. Как доставлять быстро  |  [Виталий Сысолятин](../../speakers/Виталий%20Сысолятин.md)  | [:notebook:](https://drive.google.com/file/d/1E-gwt0j6NlOwRFYt20fEqunsSRHQkSPL/view)   |
 | Умные тесты производительности своими руками  |  [Николай Рябов](../../speakers/Николай%20Рябов.md)  | [:notebook:](https://drive.google.com/file/d/1yGwtFXQ0IwRCee6OBPii8wS5JhClIOWL/view)   |
-| BDD-тестирование веб-приложений  |  [Александр Иосса](../../speakers/Александр%20Иосса.md)  | [:notebook:](https://drive.google.com/file/d/1_Xt5ZI8lMEzqibql0qB9O8pjS1PIXVxd/view)   |
-| Моя команда любит тесты. А ваша?  |  [Иван Ботанов](../../speakers/Иван%20Ботанов.md)  | [:notebook:](https://drive.google.com/file/d/1z22gflBMbN_xYozpBJ3aaRpfuw8txQCc/view)   |
+| [BDD-тестирование веб-приложений](https://www.youtube.com/watch?v=PPcap1aPD3c)  |  [Александр Иосса](../../speakers/Александр%20Иосса.md)  | [:notebook:](https://drive.google.com/file/d/1_Xt5ZI8lMEzqibql0qB9O8pjS1PIXVxd/view)   |
+| [Моя команда любит тесты. А ваша?](https://www.youtube.com/watch?v=YMYMMqp2MGU)  |  [Иван Ботанов](../../speakers/Иван%20Ботанов.md)  | [:notebook:](https://drive.google.com/file/d/1z22gflBMbN_xYozpBJ3aaRpfuw8txQCc/view)   |
 ## Frontend Conf 2020 (РИТ++) - 2020 May 25-26 
 | | | |
 | --- | :---: | --- |
