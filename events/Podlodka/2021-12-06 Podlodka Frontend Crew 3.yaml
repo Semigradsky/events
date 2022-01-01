@@ -6,8 +6,8 @@ videos:
 talks:
   - name: "Пакетные менеджеры: есть ли жизнь за пределами npm?"
     speaker: Валентин Семирульник
-    video: 
-    presentation: 
+    video: https://youtu.be/RAFFHpjrwAs
+    presentation: https://github.com/7rulnik/talks/blob/main/2021-12-06-is-there-life-outside-of-npm/slides.pdf
   - name: "Я dev, зачем мне ваш ops: что стоит знать каждому frontend-инженеру о CI/CD"
     speaker: Илья Климов
     video: 
