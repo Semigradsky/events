@@ -1,12 +1,12 @@
 name: Yamal Dev Conf
 date: 2021-12-18
-videos: 
+videos: https://www.youtube.com/watch?v=TGpo3lDi7_I
 talks:
   - name: Open Graph для тех, кто не хочет думать
     speaker: Никита Дубко
-    video: 
+    video: https://www.youtube.com/watch?v=TGpo3lDi7_I&t=536s
     presentation: 
   - name: Web 3.0 и Node.js, обзорный доклад по АйТишным трендам. В общем - где деньги Joye
     speaker: Егор Малькевич
-    video: 
+    video: https://www.youtube.com/watch?v=TGpo3lDi7_I&t=5303s
     presentation: 
