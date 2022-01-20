@@ -1,56 +1,56 @@
 name: MoscowJS 50
 date: 2021-09-11
-videos: 
+videos: https://www.youtube.com/playlist?list=PL95OM-7UObpFF8oVmWqMnHnCUCqH2iDm3
 talks:
   - name: "Фронтенд «Платформа», или как всем понравиться"
     speaker: Константин Лебедев
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=xzDMWwMNSH8
+    presentation: https://docs.google.com/presentation/d/1IwAk_aBb4jUOcIssATik-8eqA4jCQ51laTBdAu2LjFA/preview
   - name: Review Code Review
     speaker: Максим Соснов
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=JYSgnokT4_g
+    presentation: https://docs.google.com/presentation/d/1e1maXCNhnHQEUMyrYTq79vibL-QLFcTW/edit?usp=sharing&ouid=105321677097401486749&rtpof=true&sd=true
   - name: Магия прототипного наследования
     speaker: Виктор Вершанский
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=JHDwO4sXXn0
+    presentation: https://wentout.github.io/MoscowJS50/
   - name: Как бороться с багами без боли и агрессии
     speaker: Алексей Попков
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=50DmBnR0oLc
+    presentation: https://drive.google.com/file/d/1GqQ8fJghf2IqkZiWalhTOjfJDtK2Bogi/view?usp=sharing
   - name: Меняем стул под пользователем
     speaker: Александр Коротаев
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=W5YXcI3ov4w
+    presentation: https://lekzd.ru/presentations/chair-switching-moscowjs/
   - name: "Библиотека как продукт: от папки в проекте до международного опенсорса"
     speaker: Роман Седов
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=AztCgwD75xo
+    presentation: https://docs.google.com/presentation/d/13bGpZSN16eyjUDOVkaN7g_zU0yDSQrnKh0IS14roSfY/preview
   - name: Конечный автомат на React Hooks и Typescript
     speaker: Сергей Володин
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=oyyEJ1w0JaQ
+    presentation: https://docs.google.com/presentation/d/1WmsX0EbaZ2uTjWDkqh5QcdwT3tB4EltpuX7Uhg0DwQQ/preview
   - name: Ошибки хороших руководителей
     speaker: Наталья Ёркина
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=g2aYs0UwxYU
+    presentation: https://drive.google.com/file/d/1kOXvehUYbLAiCh3Z98odHVgBwlFYg9gP/view?usp=sharing
   - name: Тестируем подходы к тестированию. Личные грабли при написании тестов
     speaker: Алексей Золотых
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=OBie_2cMHB8
+    presentation: https://zolotyh.github.io/moscowjs/
   - name: А дальше-то что?
     speaker: Зарема Халилова
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=kJxVQKdISrw
+    presentation: https://docs.google.com/presentation/d/14KlySVwtsKLQ0XCR_CadK432vu9fc75EZzFJHKR59CA/preview
   - name: Для чего нужен Deno и что значит быть Deno-разработчиком
     speaker: Рустам Имайкин
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=FlZLD3maAcs
+    presentation: https://docs.google.com/presentation/d/1UjQ7lA6wowPaPRvD5iTq1ocYC4ZhSd5WCJb-KQp6x60/preview
   - name: Tramvai – новый модульный фреймворк с DI для SSR приложений на React от Tinkoff
     speaker: Андрей Марченко
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=oSeZTgfEHi0
+    presentation: https://docs.google.com/presentation/d/1b9-n_on5WcSx1OnAFKxhcf3YUGYwDgQT/edit?usp=sharing&ouid=105321677097401486749&rtpof=true&sd=true
   - name: Как найти работу, которой захочется гордиться
     speaker: Андрей Семин
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=vf9CP9F8YW4
+    presentation: https://slides.com/andreysemin/proud-of-my-job
