@@ -8,6 +8,13 @@
 | --- | :---: | --- |
 | [Open Graph для тех, кто не хочет думать](https://www.youtube.com/watch?v=TGpo3lDi7_I&t=536s)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
 | [Web 3.0 и Node.js, обзорный доклад по АйТишным трендам. В общем - где деньги Joye](https://www.youtube.com/watch?v=TGpo3lDi7_I&t=5303s)  |  [Егор Малькевич](speakers/Егор%20Малькевич.md)  |    |
+## OdessaFrontend Meetup 19 - Dec 15 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0sTg1NOhzIUc0PZeS4HRChX)
+| | | |
+| --- | :---: | --- |
+| [Функциональное программирование с использованием библиотеки fp-ts](https://youtu.be/LoeV7yeItkk)  |  [Дмитрий Ховрич](speakers/Дмитрий%20Ховрич.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/fpts-odessa-frontend-meetup-19) [:octocat:](https://github.com/dkhovrich/fp-ts-talk-code)  |
+| [Великолепный Gatsby.js](https://youtu.be/rOuBCBypfzc)  |  [Екатерина Шиповская](speakers/Екатерина%20Шиповская.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/gatsbyjs-odessa-frontend-meetup-19)   |
+| [Использование Recoil в React и React Native приложениях](https://youtu.be/HU64MZcCcB8)  |  [Сергей Журавель](speakers/Сергей%20Журавель.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/recoil-react-react-native-odessa-frontend-meetup-19)   |
+| Викторина  |  [Николай Птущук](speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessa-frontend-meetup-19)   |
 ## Frontend Meetup - Dec 09 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;3Cy2nUxjOVg)
 | | | |
 | --- | :---: | --- |
@@ -39,16 +46,16 @@
 | [Смешные шапочки на Insertable Streams](https://youtu.be/irobFO1ZjTk)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  |    |
 | [Визуализация данных на Kotlin-Multiplatform](https://youtu.be/8F0e_JaoUBU)  |  [Александр Нозик](speakers/Александр%20Нозик.md)  | [:notebook:](https://docs.google.com/presentation/d/1pLJ72eHhp4xvzdFZ58j0k8iicSAeaew1xHiiHbMsCCo/edit?usp=sharing)   |
 | [Flutter и веб-разработка. Тварь ли дрожащая или право имеет?](https://youtu.be/UKDX4n7vB1k)  |  [Александр Денисов](speakers/Александр%20Денисов.md)  |    |
-## YaTalks 2021 - Dec 03-04 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ByHfkwGCR4A)
+## YaTalks 2021 - Dec 03-04 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SSj9alzlF_saWXX-4GpjXRD)
 | | | |
 | --- | :---: | --- |
-| [Научите меня писать интерфейсы для космолётов!](https://www.youtube.com/watch?v=ByHfkwGCR4A&t=1075s)  |  [Сергей Бережной](speakers/Сергей%20Бережной.md)  [Тина Думилина](speakers/Тина%20Думилина.md)  [Кирилл Мокевнин](speakers/Кирилл%20Мокевнин.md)  [Александр Патлух](speakers/Александр%20Патлух.md)  [Алексей Симоненко](speakers/Алексей%20Симоненко.md)  |    |
-| [Создание универсальной UI-библиотеки](https://www.youtube.com/watch?v=ByHfkwGCR4A&t=4923s)  |  [Евгений Тропин](speakers/Евгений%20Тропин.md)  |    |
-| [Существующие инструменты не работают в невесомости? Напиши свои!](https://www.youtube.com/watch?v=ByHfkwGCR4A&t=7181s)  |  [Андрей Ситник](speakers/Андрей%20Ситник.md)  [Роман Дворнов](speakers/Роман%20Дворнов.md)  [Антон Усманский](speakers/Антон%20Усманский.md)  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
-| [Как и зачем проводить тесты с незрячими людьми?](https://www.youtube.com/watch?v=ByHfkwGCR4A&t=10308s)  |  [Валерия Курмак](speakers/Валерия%20Курмак.md)  [Анатолий Попко](speakers/Анатолий%20Попко.md)  |    |
-| [Аутентификация в вебе. История развития](https://www.youtube.com/watch?v=ByHfkwGCR4A&t=16682s)  |  [Алексей Авдеев](speakers/Алексей%20Авдеев.md)  |    |
-| [Когда документация — просто космос [Интервью]](https://www.youtube.com/watch?v=ByHfkwGCR4A&t=19307s)  |  [Наталья Теплухина](speakers/Наталья%20Теплухина.md)  [Дэн Абрамов](speakers/Дэн%20Абрамов.md)  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  |    |
-| [30 лет — полёт нормальный!](https://www.youtube.com/watch?v=ByHfkwGCR4A&t=23061s)  |  [Виталий Харисов](speakers/Виталий%20Харисов.md)  [Ольга Алексашенко](speakers/Ольга%20Алексашенко.md)  [Сергей Бережной](speakers/Сергей%20Бережной.md)  [Сергей Чикуёнок](speakers/Сергей%20Чикуёнок.md)  |    |
+| [Научите меня писать интерфейсы для космолётов!](https://youtu.be/xvFGVdee1Dw)  |  [Сергей Бережной](speakers/Сергей%20Бережной.md)  [Тина Думилина](speakers/Тина%20Думилина.md)  [Кирилл Мокевнин](speakers/Кирилл%20Мокевнин.md)  [Александр Патлух](speakers/Александр%20Патлух.md)  [Алексей Симоненко](speakers/Алексей%20Симоненко.md)  |    |
+| [Создание универсальной UI-библиотеки](https://youtu.be/0LuKoLJ3zbU)  |  [Евгений Тропин](speakers/Евгений%20Тропин.md)  |    |
+| [Существующие инструменты не работают в невесомости? Напиши свои!](https://youtu.be/Qnx2MIhe6Tw)  |  [Андрей Ситник](speakers/Андрей%20Ситник.md)  [Роман Дворнов](speakers/Роман%20Дворнов.md)  [Антон Усманский](speakers/Антон%20Усманский.md)  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [Как и зачем проводить тесты с незрячими людьми?](https://youtu.be/0LqfcuBTpYw)  |  [Валерия Курмак](speakers/Валерия%20Курмак.md)  [Анатолий Попко](speakers/Анатолий%20Попко.md)  |    |
+| [Аутентификация в вебе. История развития](https://youtu.be/amlPrfUWTqo)  |  [Алексей Авдеев](speakers/Алексей%20Авдеев.md)  |    |
+| [Когда документация — просто космос [Интервью]](https://youtu.be/hHjKJdnQRlM)  |  [Наталья Теплухина](speakers/Наталья%20Теплухина.md)  [Дэн Абрамов](speakers/Дэн%20Абрамов.md)  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  |    |
+| [30 лет — полёт нормальный!](https://youtu.be/Ot-Wk4HjYwQ)  |  [Виталий Харисов](speakers/Виталий%20Харисов.md)  [Ольга Алексашенко](speakers/Ольга%20Алексашенко.md)  [Сергей Бережной](speakers/Сергей%20Бережной.md)  [Сергей Чикуёнок](speakers/Сергей%20Чикуёнок.md)  |    |
 ## GDG Minsk Web November Meetup - Nov 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;7DGu75USDz4)
 | | | |
 | --- | :---: | --- |
@@ -75,6 +82,14 @@
 | Node.js Development in 2022: trends and techniques  |  [Никита Галкин](speakers/Никита%20Галкин.md)  | [:notebook:](https://speakerdeck.com/galkin/node-dot-js-development-in-2022)   |
 | Front-end Performance [uk] |  [Роман Лютиков](speakers/Роман%20Лютиков.md)  | [:notebook:](https://app.pitch.com/app/public/player/60124cc4-0674-4253-955a-1f8540866ae7)   |
 | [Workshop] Nest.js tips and tricks  |  [Никита Галкин](speakers/Никита%20Галкин.md)  |    |
+## ITeaConf - Nov 14 
+| | | |
+| --- | :---: | --- |
+| [Веб-компоненты и дизайн-системы](https://youtu.be/FAAUTESE28w)  |  [Дмитрий Разинков](speakers/Дмитрий%20Разинков.md)  |    |
+| [Что не так с React.js? Best practices vs code smells](https://youtu.be/pCzbSJl2_RY)  |  [Александр Погорелов](speakers/Александр%20Погорелов.md)  |    |
+| [Howto: интерактивная визуализация на сотни тысяч элементов внутри браузера](https://youtu.be/BxVerkAYBkA)  |  [Иван Затравкин](speakers/Иван%20Затравкин.md)  |    |
+| [Рендеринг, Почему никто не следит за потерянными кадрами](https://youtu.be/znH3Jud-3hU)  |  [Сергей Иванов](speakers/Сергей%20Иванов.md)  |    |
+| [Контекстно зависимые топологии (на JavaScript)](https://youtu.be/4Ah3m-26-QE)  |  [Виктор Вершанский](speakers/Виктор%20Вершанский.md)  |    |
 ## Submit JS - Nov 09 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;fFQV9BXpm1M)
 | | | |
 | --- | :---: | --- |
@@ -185,7 +200,7 @@
 | [Релизим фронтенд несколько раз в день](https://www.youtube.com/watch?v=LlcEyX6BWD4)  |  [Пётр Солопов](speakers/Пётр%20Солопов.md)  |    |
 | [Облачная библиотека компонентов](https://www.youtube.com/watch?v=LlcEyX6BWD4)  |  [Эмиль Фролов](speakers/Эмиль%20Фролов.md)  |    |
 | [Особенности применения SSR на большом проекте](https://www.youtube.com/watch?v=LlcEyX6BWD4)  |  [Виталий Старов](speakers/Виталий%20Старов.md)  |    |
-## OdessaFrontend Meetup 18 - Sep 22 
+## OdessaFrontend Meetup 18 - Sep 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0s5VLtSSHEH1kV7a4VxurRN)
 | | | |
 | --- | :---: | --- |
 | [React Native для фронтов](https://youtu.be/V_qI7km0MIk)  |  [Марк Мухамедзянов](speakers/Марк%20Мухамедзянов.md)  | [:notebook:](https://www.canva.com/design/DAEoqtB9G3c/b-MdgLoOgwM2CZ0omqeD_Q/view)   |
@@ -208,6 +223,22 @@
 | [Ты узнаешь её из тысячи: по JS, по img, по канвасу](https://youtu.be/In_BmRwn9k4)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
 | [Управление состоянием с помощью Query Manager](https://youtu.be/AjhjE1PlEhE)  |  [Михаил Хромов](speakers/Михаил%20Хромов.md)  |    |
 | [Два года graphql в production. Что не так и почему мы еще с ним](https://youtu.be/RVX79D2I0us)  |  [Даниил Водолазкин](speakers/Даниил%20Водолазкин.md)  |    |
+## MoscowJS 50 - Sep 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL95OM-7UObpFF8oVmWqMnHnCUCqH2iDm3)
+| | | |
+| --- | :---: | --- |
+| [Фронтенд «Платформа», или как всем понравиться](https://www.youtube.com/watch?v=xzDMWwMNSH8)  |  [Константин Лебедев](speakers/Константин%20Лебедев.md)  | [:notebook:](https://docs.google.com/presentation/d/1IwAk_aBb4jUOcIssATik-8eqA4jCQ51laTBdAu2LjFA/preview)   |
+| [Review Code Review](https://www.youtube.com/watch?v=JYSgnokT4_g)  |  [Максим Соснов](speakers/Максим%20Соснов.md)  | [:notebook:](https://docs.google.com/presentation/d/1e1maXCNhnHQEUMyrYTq79vibL-QLFcTW/edit?usp=sharing&ouid=105321677097401486749&rtpof=true&sd=true)   |
+| [Магия прототипного наследования](https://www.youtube.com/watch?v=JHDwO4sXXn0)  |  [Виктор Вершанский](speakers/Виктор%20Вершанский.md)  | [:notebook:](https://wentout.github.io/MoscowJS50/)   |
+| [Как бороться с багами без боли и агрессии](https://www.youtube.com/watch?v=50DmBnR0oLc)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  | [:notebook:](https://drive.google.com/file/d/1GqQ8fJghf2IqkZiWalhTOjfJDtK2Bogi/view?usp=sharing)   |
+| [Меняем стул под пользователем](https://www.youtube.com/watch?v=W5YXcI3ov4w)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  | [:notebook:](https://lekzd.ru/presentations/chair-switching-moscowjs/)   |
+| [Библиотека как продукт: от папки в проекте до международного опенсорса](https://www.youtube.com/watch?v=AztCgwD75xo)  |  [Роман Седов](speakers/Роман%20Седов.md)  | [:notebook:](https://docs.google.com/presentation/d/13bGpZSN16eyjUDOVkaN7g_zU0yDSQrnKh0IS14roSfY/preview)   |
+| [Конечный автомат на React Hooks и Typescript](https://www.youtube.com/watch?v=oyyEJ1w0JaQ)  |  [Сергей Володин](speakers/Сергей%20Володин.md)  | [:notebook:](https://docs.google.com/presentation/d/1WmsX0EbaZ2uTjWDkqh5QcdwT3tB4EltpuX7Uhg0DwQQ/preview)   |
+| [Ошибки хороших руководителей](https://www.youtube.com/watch?v=g2aYs0UwxYU)  |  [Наталья Ёркина](speakers/Наталья%20Ёркина.md)  | [:notebook:](https://drive.google.com/file/d/1kOXvehUYbLAiCh3Z98odHVgBwlFYg9gP/view?usp=sharing)   |
+| [Тестируем подходы к тестированию. Личные грабли при написании тестов](https://www.youtube.com/watch?v=OBie_2cMHB8)  |  [Алексей Золотых](speakers/Алексей%20Золотых.md)  | [:notebook:](https://zolotyh.github.io/moscowjs/)   |
+| [А дальше-то что?](https://www.youtube.com/watch?v=kJxVQKdISrw)  |  [Зарема Халилова](speakers/Зарема%20Халилова.md)  | [:notebook:](https://docs.google.com/presentation/d/14KlySVwtsKLQ0XCR_CadK432vu9fc75EZzFJHKR59CA/preview)   |
+| [Для чего нужен Deno и что значит быть Deno-разработчиком](https://www.youtube.com/watch?v=FlZLD3maAcs)  |  [Рустам Имайкин](speakers/Рустам%20Имайкин.md)  | [:notebook:](https://docs.google.com/presentation/d/1UjQ7lA6wowPaPRvD5iTq1ocYC4ZhSd5WCJb-KQp6x60/preview)   |
+| [Tramvai – новый модульный фреймворк с DI для SSR приложений на React от Tinkoff](https://www.youtube.com/watch?v=oSeZTgfEHi0)  |  [Андрей Марченко](speakers/Андрей%20Марченко.md)  | [:notebook:](https://docs.google.com/presentation/d/1b9-n_on5WcSx1OnAFKxhcf3YUGYwDgQT/edit?usp=sharing&ouid=105321677097401486749&rtpof=true&sd=true)   |
+| [Как найти работу, которой захочется гордиться](https://www.youtube.com/watch?v=vf9CP9F8YW4)  |  [Андрей Семин](speakers/Андрей%20Семин.md)  | [:notebook:](https://slides.com/andreysemin/proud-of-my-job)   |
 ## RndTechConf 2021 - Sep 04 
 | | | |
 | --- | :---: | --- |
@@ -276,13 +307,13 @@
 | Дизайн система на json  |  [София Валитова](speakers/София%20Валитова.md)  |    |
 | Figma to Code  |  [Michael Musil](speakers/Michael%20Musil.md)  |    |
 | Создание универсальной UI-библиотеки  |  [Евгений Тропин](speakers/Евгений%20Тропин.md)  |    |
-## MoscowJS 49 - Jun 17 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;jGfsZFQAz3I)
+## MoscowJS 49 - Jun 17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL95OM-7UObpHfQ4OuepbbC5nJzjcpI3n8)
 | | | |
 | --- | :---: | --- |
-| [Дизайн-система на фронтенде](https://youtu.be/jGfsZFQAz3I)  |  [Сергей Володин](speakers/Сергей%20Володин.md)  |    |
-| [Babel &amp; DX](https://youtu.be/jGfsZFQAz3I)  |  [Павел Ремизов](speakers/Павел%20Ремизов.md)  |    |
-| [Я не узнаю вас в гриме. Ктo Вы такoй?](https://youtu.be/jGfsZFQAz3I)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
-| [Оживляем офлайн страницу с помощью Devicemotion API](https://youtu.be/jGfsZFQAz3I)  |  [Екатерина Семяткина](speakers/Екатерина%20Семяткина.md)  |    |
+| [Дизайн-система на фронтенде](https://www.youtube.com/watch?v=Jn2IgLUIx3Y)  |  [Сергей Володин](speakers/Сергей%20Володин.md)  |    |
+| [Babel &amp; DX](https://www.youtube.com/watch?v=OqQue83d4uA)  |  [Павел Ремизов](speakers/Павел%20Ремизов.md)  |    |
+| [Я не узнаю вас в гриме. Ктo Вы такoй?](https://www.youtube.com/watch?v=tKgvSWevaPI)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
+| [Оживляем офлайн страницу с помощью Devicemotion API](https://www.youtube.com/watch?v=nClYInsdZxw)  |  [Екатерина Семяткина](speakers/Екатерина%20Семяткина.md)  |    |
 ## OdessaFrontend Meetup 17 - Jun 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLa-3wmdVKs0tNKONOH-sEZDFcj3jGVfbO)
 | | | |
 | --- | :---: | --- |

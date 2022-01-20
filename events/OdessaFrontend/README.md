@@ -3,7 +3,14 @@
 
 # OdessaFrontend
 
-## OdessaFrontend Meetup 18 - 2021 Sep 22 
+## OdessaFrontend Meetup 19 - 2021 Dec 15 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0sTg1NOhzIUc0PZeS4HRChX)
+| | | |
+| --- | :---: | --- |
+| [Функциональное программирование с использованием библиотеки fp-ts](https://youtu.be/LoeV7yeItkk)  |  [Дмитрий Ховрич](../../speakers/Дмитрий%20Ховрич.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/fpts-odessa-frontend-meetup-19) [:octocat:](https://github.com/dkhovrich/fp-ts-talk-code)  |
+| [Великолепный Gatsby.js](https://youtu.be/rOuBCBypfzc)  |  [Екатерина Шиповская](../../speakers/Екатерина%20Шиповская.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/gatsbyjs-odessa-frontend-meetup-19)   |
+| [Использование Recoil в React и React Native приложениях](https://youtu.be/HU64MZcCcB8)  |  [Сергей Журавель](../../speakers/Сергей%20Журавель.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/recoil-react-react-native-odessa-frontend-meetup-19)   |
+| Викторина  |  [Николай Птущук](../../speakers/Николай%20Птущук.md)  | [:notebook:](https://www.slideshare.net/odessafrontend/odessa-frontend-meetup-19)   |
+## OdessaFrontend Meetup 18 - 2021 Sep 22 [:movie_camera:](https://www.youtube.com/playlist?list=PLa-3wmdVKs0s5VLtSSHEH1kV7a4VxurRN)
 | | | |
 | --- | :---: | --- |
 | [React Native для фронтов](https://youtu.be/V_qI7km0MIk)  |  [Марк Мухамедзянов](../../speakers/Марк%20Мухамедзянов.md)  | [:notebook:](https://www.canva.com/design/DAEoqtB9G3c/b-MdgLoOgwM2CZ0omqeD_Q/view)   |

@@ -3,13 +3,29 @@
 
 # MoscowJS
 
-## MoscowJS 49 - 2021 Jun 17 [:movie_camera:](https://youtu.be/jGfsZFQAz3I)
+## MoscowJS 50 - 2021 Sep 11 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpFF8oVmWqMnHnCUCqH2iDm3)
 | | | |
 | --- | :---: | --- |
-| [Дизайн-система на фронтенде](https://youtu.be/jGfsZFQAz3I)  |  [Сергей Володин](../../speakers/Сергей%20Володин.md)  |    |
-| [Babel &amp; DX](https://youtu.be/jGfsZFQAz3I)  |  [Павел Ремизов](../../speakers/Павел%20Ремизов.md)  |    |
-| [Я не узнаю вас в гриме. Ктo Вы такoй?](https://youtu.be/jGfsZFQAz3I)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
-| [Оживляем офлайн страницу с помощью Devicemotion API](https://youtu.be/jGfsZFQAz3I)  |  [Екатерина Семяткина](../../speakers/Екатерина%20Семяткина.md)  |    |
+| [Фронтенд «Платформа», или как всем понравиться](https://www.youtube.com/watch?v=xzDMWwMNSH8)  |  [Константин Лебедев](../../speakers/Константин%20Лебедев.md)  | [:notebook:](https://docs.google.com/presentation/d/1IwAk_aBb4jUOcIssATik-8eqA4jCQ51laTBdAu2LjFA/preview)   |
+| [Review Code Review](https://www.youtube.com/watch?v=JYSgnokT4_g)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  | [:notebook:](https://docs.google.com/presentation/d/1e1maXCNhnHQEUMyrYTq79vibL-QLFcTW/edit?usp=sharing&ouid=105321677097401486749&rtpof=true&sd=true)   |
+| [Магия прототипного наследования](https://www.youtube.com/watch?v=JHDwO4sXXn0)  |  [Виктор Вершанский](../../speakers/Виктор%20Вершанский.md)  | [:notebook:](https://wentout.github.io/MoscowJS50/)   |
+| [Как бороться с багами без боли и агрессии](https://www.youtube.com/watch?v=50DmBnR0oLc)  |  [Алексей Попков](../../speakers/Алексей%20Попков.md)  | [:notebook:](https://drive.google.com/file/d/1GqQ8fJghf2IqkZiWalhTOjfJDtK2Bogi/view?usp=sharing)   |
+| [Меняем стул под пользователем](https://www.youtube.com/watch?v=W5YXcI3ov4w)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  | [:notebook:](https://lekzd.ru/presentations/chair-switching-moscowjs/)   |
+| [Библиотека как продукт: от папки в проекте до международного опенсорса](https://www.youtube.com/watch?v=AztCgwD75xo)  |  [Роман Седов](../../speakers/Роман%20Седов.md)  | [:notebook:](https://docs.google.com/presentation/d/13bGpZSN16eyjUDOVkaN7g_zU0yDSQrnKh0IS14roSfY/preview)   |
+| [Конечный автомат на React Hooks и Typescript](https://www.youtube.com/watch?v=oyyEJ1w0JaQ)  |  [Сергей Володин](../../speakers/Сергей%20Володин.md)  | [:notebook:](https://docs.google.com/presentation/d/1WmsX0EbaZ2uTjWDkqh5QcdwT3tB4EltpuX7Uhg0DwQQ/preview)   |
+| [Ошибки хороших руководителей](https://www.youtube.com/watch?v=g2aYs0UwxYU)  |  [Наталья Ёркина](../../speakers/Наталья%20Ёркина.md)  | [:notebook:](https://drive.google.com/file/d/1kOXvehUYbLAiCh3Z98odHVgBwlFYg9gP/view?usp=sharing)   |
+| [Тестируем подходы к тестированию. Личные грабли при написании тестов](https://www.youtube.com/watch?v=OBie_2cMHB8)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  | [:notebook:](https://zolotyh.github.io/moscowjs/)   |
+| [А дальше-то что?](https://www.youtube.com/watch?v=kJxVQKdISrw)  |  [Зарема Халилова](../../speakers/Зарема%20Халилова.md)  | [:notebook:](https://docs.google.com/presentation/d/14KlySVwtsKLQ0XCR_CadK432vu9fc75EZzFJHKR59CA/preview)   |
+| [Для чего нужен Deno и что значит быть Deno-разработчиком](https://www.youtube.com/watch?v=FlZLD3maAcs)  |  [Рустам Имайкин](../../speakers/Рустам%20Имайкин.md)  | [:notebook:](https://docs.google.com/presentation/d/1UjQ7lA6wowPaPRvD5iTq1ocYC4ZhSd5WCJb-KQp6x60/preview)   |
+| [Tramvai – новый модульный фреймворк с DI для SSR приложений на React от Tinkoff](https://www.youtube.com/watch?v=oSeZTgfEHi0)  |  [Андрей Марченко](../../speakers/Андрей%20Марченко.md)  | [:notebook:](https://docs.google.com/presentation/d/1b9-n_on5WcSx1OnAFKxhcf3YUGYwDgQT/edit?usp=sharing&ouid=105321677097401486749&rtpof=true&sd=true)   |
+| [Как найти работу, которой захочется гордиться](https://www.youtube.com/watch?v=vf9CP9F8YW4)  |  [Андрей Семин](../../speakers/Андрей%20Семин.md)  | [:notebook:](https://slides.com/andreysemin/proud-of-my-job)   |
+## MoscowJS 49 - 2021 Jun 17 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpHfQ4OuepbbC5nJzjcpI3n8)
+| | | |
+| --- | :---: | --- |
+| [Дизайн-система на фронтенде](https://www.youtube.com/watch?v=Jn2IgLUIx3Y)  |  [Сергей Володин](../../speakers/Сергей%20Володин.md)  |    |
+| [Babel &amp; DX](https://www.youtube.com/watch?v=OqQue83d4uA)  |  [Павел Ремизов](../../speakers/Павел%20Ремизов.md)  |    |
+| [Я не узнаю вас в гриме. Ктo Вы такoй?](https://www.youtube.com/watch?v=tKgvSWevaPI)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+| [Оживляем офлайн страницу с помощью Devicemotion API](https://www.youtube.com/watch?v=nClYInsdZxw)  |  [Екатерина Семяткина](../../speakers/Екатерина%20Семяткина.md)  |    |
 ## MoscowJS Online 3 - 2021 Mar 25 [:movie_camera:](https://www.youtube.com/watch?v=h1NhbbzCIBM)
 | | | |
 | --- | :---: | --- |

@@ -82,27 +82,27 @@
 | [Гиперавтоматизированный пайплайн, или Почему матрица должна победить](https://youtu.be/P5TVBhMOVJY)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  | [:notebook:](https://zolotyh.github.io/holy2021spring/)   |
 | [Производительность в полевых условиях](https://youtu.be/gMl-zZE40pw)  |  [Александр Шушунов](../../speakers/Александр%20Шушунов.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/12LJVzd3MdBlc05iJXuoxb/9db2b79656bedf3bc5a71bce3dc2bd63/Performance_Holy_public.pdf)   |
 | [Оптимизация производительности высоконагруженного поиска на стороне фронтенда](https://youtu.be/vruhcLMbwhY)  |  [Даниил Гоник](../../speakers/Даниил%20Гоник.md)  [Ян Штефанец](../../speakers/Ян%20Штефанец.md)  |    |
-## HolyJS 2020 Moscow - 2020 Nov 25-28 
+## HolyJS 2020 Moscow - 2020 Nov 25-28 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8KkFDsx3tAM8t1kOMn89CwU)
 | | | |
 | --- | :---: | --- |
-| Алгоритмы консенсуса. При чем тут Node.js?  |  [Андрей Печкуров](../../speakers/Андрей%20Печкуров.md)  |    |
-| React Reconciler: Как написать собственный рендерер  |  [Ярослав Лосев](../../speakers/Ярослав%20Лосев.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/5i1JvIFGGCYJIHTNqxr5kO/c8364566e684ab5b0db665a9f022e9dd/slides__1_.pdf)   |
-| Воркшоп: Сборка мелкого движка для 2D-игр на JS с использованием общеизвестных мелких библиотек  |  [Иван Попелышев](../../speakers/Иван%20Попелышев.md)  |    |
+| [Алгоритмы консенсуса. При чем тут Node.js?](https://youtu.be/oO_4X8HwSTc)  |  [Андрей Печкуров](../../speakers/Андрей%20Печкуров.md)  |    |
+| [React Reconciler: Как написать собственный рендерер](https://youtu.be/hpVFlpvPsYc)  |  [Ярослав Лосев](../../speakers/Ярослав%20Лосев.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/5i1JvIFGGCYJIHTNqxr5kO/c8364566e684ab5b0db665a9f022e9dd/slides__1_.pdf)   |
+| [Воркшоп: Сборка мелкого движка для 2D-игр на JS с использованием общеизвестных мелких библиотек](https://youtu.be/cfi9l9t240Y,https://youtu.be/FtKcYkBUM0Q)[Воркшоп: Сборка мелкого движка для 2D-игр на JS с использованием общеизвестных мелких библиотек](https://youtu.be/cfi9l9t240Y,https://youtu.be/FtKcYkBUM0Q)  |  [Иван Попелышев](../../speakers/Иван%20Попелышев.md)  |    |
 | React Reconciler: Расширение возможностей React  |  [Илья Черторыльский](../../speakers/Илья%20Черторыльский.md)  |    |
 | Differential Serving: Делаем свой код чище и производительнее  |  [Елена Жукова](../../speakers/Елена%20Жукова.md)  |    |
-| Автоматическая виртуализация рендеринга произвольной верстки  |  [Дмитрий Карловский](../../speakers/Дмитрий%20Карловский.md)  |    |
-| Как создать мультиплатформенную дизайн-систему на React  |  [Илья Лесик](../../speakers/Илья%20Лесик.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/11w0ivhpqiJJ7U1wMSkJPI/c0087e9e30a114157e31062483f25f3f/Design_Systems_new.pdf)   |
-| Преломление реальности: Динамическая валидация статическими типами  |  [Михаил Башуров](../../speakers/Михаил%20Башуров.md)  |    |
-| Воркшоп. Новые приключения во фронтенде, версия 2021  |  [Виталий Фридман](../../speakers/Виталий%20Фридман.md)  |    |
+| [Автоматическая виртуализация рендеринга произвольной верстки](https://youtu.be/RHOnH1DDLlQ)  |  [Дмитрий Карловский](../../speakers/Дмитрий%20Карловский.md)  |    |
+| [Как создать мультиплатформенную дизайн-систему на React](https://youtu.be/sK0zDRaeDXE)  |  [Илья Лесик](../../speakers/Илья%20Лесик.md)  | [:notebook:](https://downloads.ctfassets.net/nn534z2fqr9f/11w0ivhpqiJJ7U1wMSkJPI/c0087e9e30a114157e31062483f25f3f/Design_Systems_new.pdf)   |
+| [Преломление реальности: Динамическая валидация статическими типами](https://youtu.be/cj5KJuGCrbs)  |  [Михаил Башуров](../../speakers/Михаил%20Башуров.md)  |    |
+| [Воркшоп. Новые приключения во фронтенде, версия 2021](https://youtu.be/x7S1YrP8GOg,https://youtu.be/KkOsTHMTsfI)[Воркшоп. Новые приключения во фронтенде, версия 2021](https://youtu.be/x7S1YrP8GOg,https://youtu.be/KkOsTHMTsfI)  |  [Виталий Фридман](../../speakers/Виталий%20Фридман.md)  |    |
 | Postgraphile. GQL API и ни одной (почти) строчки JS-кода  |  [Георгий Кукушин](../../speakers/Георгий%20Кукушин.md)  |    |
 | Тяжелые разговоры о жизни в Программном комитете  |  [Татьяна Денисюк](../../speakers/Татьяна%20Денисюк.md)  |    |
-| От монолита до микросервисов и обратно. Как GraphQL переопределяет архитектуру программного обеспечения центральной модели данных  |  [Диана Суворова](../../speakers/Диана%20Суворова.md)  |    |
-| Революция в микрофронтендах, module federation, Webpack 5  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  | [:notebook:](https://nodkz.github.io/conf-talks/talks/2020.10.26-webpack-federation/index.html#/)   |
-| Как разработать свой собственный формат баннера на примере Lamoda  |  [Роман Пятаков](../../speakers/Роман%20Пятаков.md)  |    |
-| Хватит использовать консоль для тестирования компонентов  |  [Дмитрий Коваленко](../../speakers/Дмитрий%20Коваленко.md)  |    |
-| SvelteJS under the hood  |  [Павел Малышев](../../speakers/Павел%20Малышев.md)  |    |
-| Microfrontends на React вместе с Kubernetes  |  [Иван Затравкин](../../speakers/Иван%20Затравкин.md)  |    |
-| Модульный JavaScript: Динамическое разрешение зависимостей  |  [Юрий Караджов](../../speakers/Юрий%20Караджов.md)  |    |
+| [От монолита до микросервисов и обратно. Как GraphQL переопределяет архитектуру программного обеспечения центральной модели данных](https://youtu.be/XQtZtddnx6U)  |  [Диана Суворова](../../speakers/Диана%20Суворова.md)  |    |
+| [Революция в микрофронтендах, module federation, Webpack 5](https://youtu.be/pcY8-pDGLkI)  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  | [:notebook:](https://nodkz.github.io/conf-talks/talks/2020.10.26-webpack-federation/index.html#/)   |
+| [Как разработать свой собственный формат баннера на примере Lamoda](https://youtu.be/iRIVmUppY0g)  |  [Роман Пятаков](../../speakers/Роман%20Пятаков.md)  |    |
+| [Хватит использовать консоль для тестирования компонентов](https://youtu.be/OyYUBYG-vyY)  |  [Дмитрий Коваленко](../../speakers/Дмитрий%20Коваленко.md)  |    |
+| [SvelteJS under the hood](https://youtu.be/OEGZOGe-120)  |  [Павел Малышев](../../speakers/Павел%20Малышев.md)  |    |
+| [Microfrontends на React вместе с Kubernetes](https://youtu.be/4THE047ZDzE)  |  [Иван Затравкин](../../speakers/Иван%20Затравкин.md)  |    |
+| [Модульный JavaScript: Динамическое разрешение зависимостей](https://youtu.be/FX_baLJn55k)  |  [Юрий Караджов](../../speakers/Юрий%20Караджов.md)  |    |
 ## HolyJS 2020 Piter - 2020 Jun 22-26 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8KY2RD2eJIrbdSSljJ49QVm)
 | | | |
 | --- | :---: | --- |
