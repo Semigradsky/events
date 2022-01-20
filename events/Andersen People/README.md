@@ -3,6 +3,12 @@
 
 # Andersen People
 
+## Angular &amp; Node Meetup - 2022 Jan 19 [:movie_camera:](https://www.youtube.com/watch?v=IOT9jOWvVE4)
+| | | |
+| --- | :---: | --- |
+| [Angular: Что новенького?](https://youtu.be/IOT9jOWvVE4?t=94)  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  |    |
+| [Ускоряем работу Angular приложений](https://youtu.be/IOT9jOWvVE4?t=1946)  |  [Александр Инкин](../../speakers/Александр%20Инкин.md)  |    |
+| [NPM CLI Приёмы и тонкости работы](https://youtu.be/IOT9jOWvVE4?t=4238)  |  [Сергей Хролёнок](../../speakers/Сергей%20Хролёнок.md)  |  [:octocat:](https://gist.github.com/skhrolenok/c0937d5f49eef705844a7870a50913c4)  |
 ## Android Meetup - 2021 Feb 24 
 | | | |
 | --- | :---: | --- |
@@ -22,7 +28,7 @@
 ## SPA Meetup - 2019 Jul 12 [:movie_camera:](https://www.youtube.com/watch?v=hdc67fVJoAM)
 | | | |
 | --- | :---: | --- |
-| [Angular Electron](https://www.youtube.com/watch?v=hdc67fVJoAM)  |  [Сергей Хроленок](../../speakers/Сергей%20Хроленок.md)  |    |
+| [Angular Electron](https://www.youtube.com/watch?v=hdc67fVJoAM)  |  [Сергей Хролёнок](../../speakers/Сергей%20Хролёнок.md)  |    |
 | [Микрофронтенд](https://www.youtube.com/watch?v=hdc67fVJoAM)  |  [Дмитрий Королев](../../speakers/Дмитрий%20Королев.md)  |    |
 | [Практическое использование MobX в Angular приложении](https://www.youtube.com/watch?v=hdc67fVJoAM)  |  [Георгий Соколовский](../../speakers/Георгий%20Соколовский.md)  |    |
 ## Tech Meetup - 2019 Apr 06 [:movie_camera:](https://www.youtube.com/watch?v=zT5e3xHP-CE)
