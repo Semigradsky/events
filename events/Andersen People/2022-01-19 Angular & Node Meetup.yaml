@@ -1,0 +1,17 @@
+name: Angular & Node Meetup
+date: 2022-01-19
+videos: https://www.youtube.com/watch?v=IOT9jOWvVE4
+talks:
+  - name: "Angular: Что новенького?"
+    speaker: Максим Сальников
+    video: https://youtu.be/IOT9jOWvVE4?t=94
+    presentation: 
+  - name: Ускоряем работу Angular приложений
+    speaker: Александр Инкин
+    video: https://youtu.be/IOT9jOWvVE4?t=1946
+    presentation: 
+  - name: NPM CLI Приёмы и тонкости работы
+    speaker: Сергей Хролёнок
+    video: https://youtu.be/IOT9jOWvVE4?t=4238
+    presentation: 
+    code: https://gist.github.com/skhrolenok/c0937d5f49eef705844a7870a50913c4

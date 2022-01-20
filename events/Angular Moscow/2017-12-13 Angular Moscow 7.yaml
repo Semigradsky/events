@@ -3,7 +3,7 @@ date: 2017-12-13
 videos: ''
 talks:
   - name: Практическое применение NgRx 4.x
-    speaker: Сергей Хроленок
+    speaker: Сергей Хролёнок
     video:
     presentation:
   - name: Implementing Motion using Angular (v5+)
