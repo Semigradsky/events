@@ -2,19 +2,21 @@ name: HolyJS 2020 Moscow
 date:
   - 2020-11-25
   - 2020-11-28
-videos: 
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8KkFDsx3tAM8t1kOMn89CwU
 talks:
   - name: Алгоритмы консенсуса. При чем тут Node.js?
     speaker: Андрей Печкуров
-    video: 
+    video: https://youtu.be/oO_4X8HwSTc
     presentation: 
   - name: "React Reconciler: Как написать собственный рендерер"
     speaker: Ярослав Лосев
-    video: 
+    video: https://youtu.be/hpVFlpvPsYc
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/5i1JvIFGGCYJIHTNqxr5kO/c8364566e684ab5b0db665a9f022e9dd/slides__1_.pdf
   - name: "Воркшоп: Сборка мелкого движка для 2D-игр на JS с использованием общеизвестных мелких библиотек"
     speaker: Иван Попелышев
-    video: 
+    video:
+      - https://youtu.be/cfi9l9t240Y
+      - https://youtu.be/FtKcYkBUM0Q
     presentation: 
   - name: "React Reconciler: Расширение возможностей React"
     speaker: Илья Черторыльский
@@ -26,19 +28,21 @@ talks:
     presentation: 
   - name: Автоматическая виртуализация рендеринга произвольной верстки
     speaker: Дмитрий Карловский
-    video: 
+    video: https://youtu.be/RHOnH1DDLlQ
     presentation: 
   - name: Как создать мультиплатформенную дизайн-систему на React
     speaker: Илья Лесик
-    video: 
+    video: https://youtu.be/sK0zDRaeDXE
     presentation: https://downloads.ctfassets.net/nn534z2fqr9f/11w0ivhpqiJJ7U1wMSkJPI/c0087e9e30a114157e31062483f25f3f/Design_Systems_new.pdf
   - name: "Преломление реальности: Динамическая валидация статическими типами"
     speaker: Михаил Башуров
-    video: 
+    video: https://youtu.be/cj5KJuGCrbs
     presentation: 
   - name: Воркшоп. Новые приключения во фронтенде, версия 2021
     speaker: Виталий Фридман
-    video: 
+    video:
+      - https://youtu.be/x7S1YrP8GOg
+      - https://youtu.be/KkOsTHMTsfI
     presentation: 
   - name: Postgraphile. GQL API и ни одной (почти) строчки JS-кода
     speaker: Георгий Кукушин
@@ -50,29 +54,29 @@ talks:
     presentation: 
   - name: "От монолита до микросервисов и обратно. Как GraphQL переопределяет архитектуру программного обеспечения центральной модели данных"
     speaker: Диана Суворова
-    video: 
+    video: https://youtu.be/XQtZtddnx6U
     presentation: 
   - name: Революция в микрофронтендах, module federation, Webpack 5
     speaker: Павел Черторогов
-    video: 
+    video: https://youtu.be/pcY8-pDGLkI
     presentation: https://nodkz.github.io/conf-talks/talks/2020.10.26-webpack-federation/index.html#/
   - name: Как разработать свой собственный формат баннера на примере Lamoda
     speaker: Роман Пятаков
-    video: 
+    video: https://youtu.be/iRIVmUppY0g
     presentation: 
   - name: Хватит использовать консоль для тестирования компонентов
     speaker: Дмитрий Коваленко
-    video: 
+    video: https://youtu.be/OyYUBYG-vyY
     presentation: 
   - name: SvelteJS under the hood
     speaker: Павел Малышев
-    video: 
+    video: https://youtu.be/OEGZOGe-120
     presentation: 
   - name: Microfrontends на React вместе с Kubernetes
     speaker: Иван Затравкин
-    video: 
+    video: https://youtu.be/4THE047ZDzE
     presentation: 
   - name: "Модульный JavaScript: Динамическое разрешение зависимостей"
     speaker: Юрий Караджов
-    video: 
+    video: https://youtu.be/FX_baLJn55k
     presentation: 
