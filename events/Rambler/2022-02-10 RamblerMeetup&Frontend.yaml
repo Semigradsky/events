@@ -1,0 +1,16 @@
+name: RamblerMeetup&Frontend
+date: 2022-02-10
+videos: 
+talks:
+  - name: Создаём JS-монорепозиторий в GitlabCI
+    speaker: Владислав Яндимиркин
+    video: 
+    presentation: 
+  - name: "Всё тайное становится явным: в поисках способа сделать 3D-контент доступным"
+    speaker: Наталья Габитова
+    video: 
+    presentation: 
+  - name: Подходы стейт-менеджмента в экосистеме React
+    speaker: Руслан Ахтямов
+    video: 
+    presentation: 

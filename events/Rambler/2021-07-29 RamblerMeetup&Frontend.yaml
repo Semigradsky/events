@@ -1,16 +1,16 @@
 name: RamblerMeetup&Frontend
 date: 2021-07-29
-videos: 
+videos: https://www.youtube.com/watch?v=_y4GyeB-YUQ
 talks:
   - name: "\"Счетчик Топ-100\" и все его секреты"
     speaker: Милена Подлевских
-    video: 
+    video: https://www.youtube.com/watch?v=_y4GyeB-YUQ&t=209s
     presentation: 
   - name: "Webpack 5: нововведения и быстрый старт"
     speaker: Антон Боцманов
-    video: 
+    video: https://www.youtube.com/watch?v=_y4GyeB-YUQ&t=2657s
     presentation: 
   - name: Как использовать анимацию на сайте и не бесить пользователей? Виды анимации и новые технологии
     speaker: Сергей Кузнецов
-    video: 
+    video: https://www.youtube.com/watch?v=_y4GyeB-YUQ&t=5013s
     presentation: 
