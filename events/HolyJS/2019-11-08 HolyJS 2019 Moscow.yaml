@@ -10,7 +10,7 @@ talks:
     presentation: 
   - name: Делаем React-приложения быстрее [Workshop]
     speaker: Иван Акулов
-    video: 
+    video: https://www.youtube.com/watch?v=6FsmxjCAgeE
     presentation: 
   - name: Client rendering, server rendering, pre rendering. The full spectrum of JS website and application performance delivery
     speaker: Guillermo Rauch
