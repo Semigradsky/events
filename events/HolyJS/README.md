@@ -141,7 +141,7 @@
 | | | |
 | --- | :---: | --- |
 | Сам себе бэкендер [Workshop]  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |    |
-| Делаем React-приложения быстрее [Workshop]  |  [Иван Акулов](../../speakers/Иван%20Акулов.md)  |    |
+| [Делаем React-приложения быстрее [Workshop]](https://www.youtube.com/watch?v=6FsmxjCAgeE)  |  [Иван Акулов](../../speakers/Иван%20Акулов.md)  |    |
 | [Client rendering, server rendering, pre rendering. The full spectrum of JS website and application performance delivery](https://www.youtube.com/watch?v=impcGrPD0xQ) [en] |  [Guillermo Rauch](../../speakers/Guillermo%20Rauch.md)  |    |
 | [GraphQL-фрагменты на клиенте: История появления, ошибки использования](https://www.youtube.com/watch?v=0bpZiMVJh14)  |  [Павел Черторогов](../../speakers/Павел%20Черторогов.md)  | [:notebook:](https://nodkz.github.io/conf-talks/talks/2019.11.08-holyjs-moscow/index.html#/)   |
 | [React rendering strategies: Get the most out of performance, keep bots happy](https://www.youtube.com/watch?v=NythxcOI2Mw) [en] |  [Miguel Angel Duran Garcia](../../speakers/Miguel%20Angel%20Duran%20Garcia.md)  | [:notebook:](https://slides.com/miguelangeldurangarcia/holy-js-react-rendering-strategies-getting-the-most-out-of-performance-while-keeping-bots-happy#/)   |

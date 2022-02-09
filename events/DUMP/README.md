@@ -3,6 +3,17 @@
 
 # DUMP
 
+## DUMP2021 - 2021 May 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLRdS-n5seLRq_gQ8ItCc_rIZDegBfnC7b)
+| | | |
+| --- | :---: | --- |
+| [Трасси... что?](https://youtu.be/SZdaza9QiT8)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+| [Нужен ли нам N(e&#x2F;u)xt.js?](https://youtu.be/eXn-iL1u4Oo)  |  [Григорий Петров](../../speakers/Григорий%20Петров.md)  |    |
+| [RTC и Франкенштейн](https://youtu.be/tk6oJAb6y5g)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  |    |
+| [Стейт машины спешат на помощь](https://youtu.be/czZK8VkQSGs)  |  [Роман Омельницкий](../../speakers/Роман%20Омельницкий.md)  |    |
+| [React: Lifting state up is killing your app](https://youtu.be/GhmFpiV9D04)  |  [Андрей Гончаров](../../speakers/Андрей%20Гончаров.md)  |    |
+| [Е2Е тесты в браузеры. Когда Cypress, а когда не очень](https://youtu.be/C_8Od5kzM-U)  |  [Леонид Семёнов](../../speakers/Леонид%20Семёнов.md)  |    |
+| [Гибкость или все варианты предусмотреть нельзя](https://youtu.be/K5ryhLsXdmA)  |  [Роман Лысов](../../speakers/Роман%20Лысов.md)  |    |
+| [Как тестировать фронтенд без тестировщиков и спать спокойно](https://youtu.be/RUeyq1MPTJQ)  |  [Людмила Мжачих](../../speakers/Людмила%20Мжачих.md)  |    |
 ## DUMP2019 - 2019 Apr 19 [:movie_camera:](https://www.youtube.com/playlist?list=PLRdS-n5seLRqiGopjk6DN6qtm2C04m_mb)
 | | | |
 | --- | :---: | --- |

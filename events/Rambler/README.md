@@ -3,6 +3,12 @@
 
 # Rambler
 
+## RamblerMeetup&amp;Frontend - 2021 Jul 29 [:movie_camera:](https://www.youtube.com/watch?v=_y4GyeB-YUQ)
+| | | |
+| --- | :---: | --- |
+| [&quot;Счетчик Топ-100&quot; и все его секреты](https://www.youtube.com/watch?v=_y4GyeB-YUQ&t=209s)  |  [Милена Подлевских](../../speakers/Милена%20Подлевских.md)  |    |
+| [Webpack 5: нововведения и быстрый старт](https://www.youtube.com/watch?v=_y4GyeB-YUQ&t=2657s)  |  [Антон Боцманов](../../speakers/Антон%20Боцманов.md)  |    |
+| [Как использовать анимацию на сайте и не бесить пользователей? Виды анимации и новые технологии](https://www.youtube.com/watch?v=_y4GyeB-YUQ&t=5013s)  |  [Сергей Кузнецов](../../speakers/Сергей%20Кузнецов.md)  |    |
 ## RamblerFront&amp; meetup 9 - 2021 Mar 18 
 | | | |
 | --- | :---: | --- |

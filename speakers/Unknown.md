@@ -3,8 +3,6 @@
 
 # Unknown
 
-## Unknown
-- 2022 Jan 26 -- MinskCSS 9    
 ## Круглый стол: Есть ли место верстальщикам в современном мире?
 - 2021 Jul 12 -- [Podlodka Frontend Crew 2](https://www.youtube.com/watch?v=crWwZT6ev3E)    
 ## Развитие джуниор-разработчиков

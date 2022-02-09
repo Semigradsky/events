@@ -3,6 +3,11 @@
 
 # MinskCSS
 
+## MinskCSS 9 - 2022 Jan 26 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9ZzmOQJcs6ZI93a6E5ZfaVLCa)
+| | | |
+| --- | :---: | --- |
+| [А какие варианты?](https://youtu.be/OzhvYBcT9w8)  |  [Алёна Батицкая](../../speakers/Алёна%20Батицкая.md)  | [:notebook:](https://solarrust.github.io/MinskCSS-VF/)   |
+| [Делаем валидацию формы доступной](https://youtu.be/zHyN4XNSgas)  |  [Марианна Минич](../../speakers/Марианна%20Минич.md)  | [:notebook:](https://mariannaspb.github.io/accessibility-validation/)   |
 ## MinskCSS 8 - 2020 Apr 08 [:movie_camera:](https://www.youtube.com/watch?v=BRbR0wXhO38)
 | | | |
 | --- | :---: | --- |
