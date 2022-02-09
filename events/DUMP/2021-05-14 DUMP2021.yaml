@@ -1,0 +1,36 @@
+name: DUMP2021
+date: 2021-05-14
+videos: https://www.youtube.com/playlist?list=PLRdS-n5seLRq_gQ8ItCc_rIZDegBfnC7b
+talks:
+  - name: "Трасси... что?"
+    speaker: Алексей Охрименко
+    video: https://youtu.be/SZdaza9QiT8
+    presentation: 
+  - name: "Нужен ли нам N(e/u)xt.js?"
+    speaker: Григорий Петров
+    video: https://youtu.be/eXn-iL1u4Oo
+    presentation: 
+  - name: RTC и Франкенштейн
+    speaker: Полина Гуртовая
+    video: https://youtu.be/tk6oJAb6y5g
+    presentation: 
+  - name: Стейт машины спешат на помощь
+    speaker: Роман Омельницкий
+    video: https://youtu.be/czZK8VkQSGs
+    presentation: 
+  - name: "React: Lifting state up is killing your app"
+    speaker: Андрей Гончаров
+    video: https://youtu.be/GhmFpiV9D04
+    presentation: 
+  - name: Е2Е тесты в браузеры. Когда Cypress, а когда не очень
+    speaker: Леонид Семёнов
+    video: https://youtu.be/C_8Od5kzM-U
+    presentation: 
+  - name: Гибкость или все варианты предусмотреть нельзя
+    speaker: Роман Лысов
+    video: https://youtu.be/K5ryhLsXdmA
+    presentation: 
+  - name: Как тестировать фронтенд без тестировщиков и спать спокойно
+    speaker: Людмила Мжачих
+    video: https://youtu.be/RUeyq1MPTJQ
+    presentation: 
