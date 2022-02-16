@@ -1,0 +1,32 @@
+name: Я ❤ Frontend 2022
+date: 2022-02-26
+videos: 
+talks:
+  - name: А ваш сайт доступен с клавиатуры?
+    speaker: Глафира Жур
+    video: 
+    presentation: 
+  - name: "Playwright: e2e здорового человека"
+    speaker: Андрей Лушников
+    video: 
+    presentation: 
+  - name: Рефакторинг на максималках
+    speaker: Александр Беспоясов
+    video: 
+    presentation: 
+  - name: Цвета в CSS
+    speaker: София Валитова
+    video: 
+    presentation: 
+  - name: Полвека TypeScript
+    speaker: Михаил Башуров
+    video: 
+    presentation: 
+  - name: Блеск и нищета веб-компонентов
+    speaker: Антон Немцев
+    video: 
+    presentation: 
+  - name: Как измерить сайт
+    speaker: Полина Немчак
+    video: 
+    presentation: 
