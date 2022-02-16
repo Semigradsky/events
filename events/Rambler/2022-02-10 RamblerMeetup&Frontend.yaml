@@ -1,16 +1,16 @@
 name: RamblerMeetup&Frontend
 date: 2022-02-10
-videos: 
+videos: https://www.youtube.com/watch?v=JGAO5Ycp758
 talks:
   - name: Создаём JS-монорепозиторий в GitlabCI
     speaker: Владислав Яндимиркин
-    video: 
+    video: https://www.youtube.com/watch?v=JGAO5Ycp758&t=332s
     presentation: 
   - name: "Всё тайное становится явным: в поисках способа сделать 3D-контент доступным"
     speaker: Наталья Габитова
-    video: 
+    video: https://www.youtube.com/watch?v=JGAO5Ycp758&t=1637s
     presentation: 
   - name: Подходы стейт-менеджмента в экосистеме React
     speaker: Руслан Ахтямов
-    video: 
+    video: https://www.youtube.com/watch?v=JGAO5Ycp758&t=4754s
     presentation: 
