@@ -23,7 +23,7 @@ talks:
     presentation: 
   - name: LOGS. HOW DO THEY AFFECT ON MY LIFE?
     speaker: Нік Лотоцький
-    video: 
+    video: https://youtu.be/njkE46cYfCs
     presentation: 
   - name: GraphQL schema design
     speaker: Борис Могила
@@ -64,7 +64,7 @@ talks:
     presentation: https://www.slideshare.net/OdessaJSConf/good-code-myths-odessajs2021
   - name: "Golang usage in development of Node.js applications (Node.js: In Go we trust)"
     speaker: Олексій Новохацький
-    video: 
+    video: https://youtu.be/MR_yzEQVBTI
     presentation: https://www.slideshare.net/OdessaJSConf/golang-usage-in-development-of-nodejs-applications-nodejs-in-go-we-trust-by-oleksii-novokhatskyi
   - name: "* * * * * * *, JS, * * * * * * *"
     speaker: Роман Савіцький
@@ -86,7 +86,7 @@ talks:
     presentation: 
   - name: "Contract protection on the Frontend side: how to organize runtime checking"
     speaker: Олексій Павленко
-    video: 
+    video: https://youtu.be/s86toqAEoqU
     presentation: https://www.slideshare.net/OdessaJSConf/contract-protection-on-the-frontend-side-how-to-organize-runtime-checking-odessajs2021
   - name: Building Angular Apps with Nx
     speaker: Анастасия Нечепоренко
