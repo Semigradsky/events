@@ -1,0 +1,12 @@
+name: Evrone Frontend meetup
+date: 2021-06-17
+videos: 
+talks:
+  - name: Как полюбить Snowpack
+    speaker: Иван Соловьёв
+    video: https://youtu.be/McR7Tb2EJOo
+    presentation: 
+  - name: В жизни вашего проекта не хватает WebGL
+    speaker: Игорь Борзунов
+    video: https://youtu.be/Q9yIk3Ibgxs
+    presentation: 

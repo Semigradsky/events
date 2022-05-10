@@ -1,0 +1,16 @@
+name: Evrone Frontend meetup
+date: 2021-11-23
+videos: 
+talks:
+  - name: "Нужен ли нам N(e/u)xt.js?"
+    speaker: Григорий Петров
+    video: https://youtu.be/aOZTJifiRoU
+    presentation: 
+  - name: vueModel
+    speaker: Дмитрий Колесников
+    video: https://youtu.be/GI7fAx2w-Bk
+    presentation: 
+  - name: Как пошарить API клиенты и не сойти с ума
+    speaker: Павел Кочеров
+    video: https://youtu.be/-s2I76QIJSY
+    presentation: 

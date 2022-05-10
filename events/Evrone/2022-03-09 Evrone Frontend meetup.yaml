@@ -1,0 +1,20 @@
+name: Evrone Frontend meetup
+date: 2022-03-09
+videos: 
+talks:
+  - name: Производительный рендеринг в браузере
+    speaker: Глеб Михеев
+    video: https://youtu.be/QDQSj4__v_8
+    presentation: 
+  - name: Что такое слои в веб разработке и зачем о них нужно знать
+    speaker: Роман Еникеев
+    video: 
+    presentation: 
+  - name: Проходит ли ваш линтер банановый тест?
+    speaker: Назим Гафаров
+    video: https://youtu.be/3v2R0wEfrJ4
+    presentation: 
+  - name: Storybook + Chromatic
+    speaker: Влад Волков
+    video: 
+    presentation: 
