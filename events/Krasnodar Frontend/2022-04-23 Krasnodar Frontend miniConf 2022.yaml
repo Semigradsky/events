@@ -1,4 +1,20 @@
 name: Krasnodar Frontend miniConf 2022
 date: 2022-04-23
 videos: 
-talks: []
+talks:
+  - name: Как бороться с энтропией в CSS
+    speaker: Сергей Андреев
+    video: 
+    presentation: 
+  - name: Архитектурная методология Feature Sliced
+    speaker: Даниил Крохмаль
+    video: 
+    presentation: 
+  - name: Альтернативный способ работы с асинхронностью в JS
+    speaker: Владислав Горохов
+    video: 
+    presentation: 
+  - name: Универсальные UI элементы для multi-stack команд
+    speaker: Александр Урденко
+    video: 
+    presentation: 
