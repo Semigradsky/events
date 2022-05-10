@@ -1,0 +1,12 @@
+name: ЮMoneyDay, фронтенд
+date: 2021-11-13
+videos: 
+talks:
+  - name: Современное тестирование фронтенда
+    speaker: Владимир Голотин
+    video: https://youtu.be/-ik1WuyRpN0
+    presentation: 
+  - name: Как делать игры, когда работаешь в финтехе
+    speaker: Юрий Жернаков
+    video: https://youtu.be/QWEeMhhwWmQ
+    presentation: 

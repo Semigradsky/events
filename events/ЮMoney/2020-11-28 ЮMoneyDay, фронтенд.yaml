@@ -1,0 +1,12 @@
+name: ЮMoneyDay, фронтенд
+date: 2020-11-28
+videos: 
+talks:
+  - name: Лайфхаки фронтендера
+    speaker: Михаил Степанов
+    video: https://youtu.be/z0-AaEzUI_w
+    presentation: 
+  - name: Обзор архитектуры фронтенда ЮMoney
+    speaker: Илья Кашлаков
+    video: https://youtu.be/7wGYxT1UZl4
+    presentation: 

@@ -6,7 +6,7 @@ talks:
     speaker: Андрей Мелихов
     video: https://www.youtube.com/watch?v=PnokeAHX7XY
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/16/Andrey_Melikhov.pdf
-  - name: Как мы сделали гибкую и расширяемую дизайн-систему...
+  - name: Как мы сделали гибкую и расширяемую дизайн-систему с помощью БЭМ и React
     speaker: Виталий Галахов
     video: https://www.youtube.com/watch?v=E3A4bxlhaI0
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/16/Vitaliy_Galahov.pdf

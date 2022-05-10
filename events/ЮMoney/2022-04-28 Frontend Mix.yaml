@@ -1,0 +1,24 @@
+name: Frontend Mix
+date: 2022-04-28
+videos: https://youtu.be/0d166V8fHrc
+talks:
+  - name: Погружение в React 18
+    speaker: Владимир Голотин
+    video: https://youtu.be/0d166V8fHrc?t=297
+    presentation: 
+  - name: Стандартизация фронтовых приложений в продуктовой компании
+    speaker: Артём Лопатин
+    video: https://youtu.be/0d166V8fHrc?t=3255
+    presentation: 
+  - name: JSON Driven forms bicycle
+    speaker: Степан Михайлюк
+    video: https://youtu.be/0d166V8fHrc?t=4730
+    presentation: 
+  - name: Как правильно отнять работу у разработчика
+    speaker: Андрей Ефременков
+    video: https://youtu.be/0d166V8fHrc?t=7513
+    presentation: 
+  - name: Собеседование 2.0
+    speaker: Илья Ломтев
+    video: https://youtu.be/0d166V8fHrc?t=9765
+    presentation: 

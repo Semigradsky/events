@@ -1,0 +1,16 @@
+name: Frontend Mix
+date: 2018-11-28
+videos: 
+talks:
+  - name: Node.js в энтерпрайзе — почему и как?
+    speaker: Андрей Мелихов
+    video: https://youtu.be/MPQ92gxEKlE
+    presentation: 
+  - name: "Comedy: акторы для гибкого масштабирования Node.js"
+    speaker: Виктор Исаев
+    video: https://youtu.be/wgxXoFNDgYM
+    presentation: 
+  - name: История о том, как мы в банке JS-сервисы встраивали в нативное приложение
+    speaker: Зар Захаров
+    video: https://youtu.be/RCkqblvwFQo
+    presentation: 
