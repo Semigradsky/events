@@ -233,7 +233,7 @@
 | | | |
 | --- | :---: | --- |
 | [Как ускорить загрузку сайтов в эпоху смартфонов](https://www.youtube.com/watch?v=PnokeAHX7XY)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/16/Andrey_Melikhov.pdf)   |
-| [Как мы сделали гибкую и расширяемую дизайн-систему...](https://www.youtube.com/watch?v=E3A4bxlhaI0)  |  [Виталий Галахов](../../speakers/Виталий%20Галахов.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/16/Vitaliy_Galahov.pdf)   |
+| [Как мы сделали гибкую и расширяемую дизайн-систему с помощью БЭМ и React](https://www.youtube.com/watch?v=E3A4bxlhaI0)  |  [Виталий Галахов](../../speakers/Виталий%20Галахов.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/16/Vitaliy_Galahov.pdf)   |
 | [Npm v5, Yarn или pnpm — что круче?](https://www.youtube.com/watch?v=SFYksKizRhg)  |  [Майкл Башуров](../../speakers/Майкл%20Башуров.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/16/Mike_Bashurov.pdf)   |
 ## PiterJS 15 - 2017 May 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxi4YKdy2Qy2tHGV1wungCXu)
 | | | |

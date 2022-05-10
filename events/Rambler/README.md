@@ -3,6 +3,12 @@
 
 # Rambler
 
+## RamblerMeetup&amp;Frontend - 2022 Feb 10 [:movie_camera:](https://www.youtube.com/watch?v=JGAO5Ycp758)
+| | | |
+| --- | :---: | --- |
+| [Создаём JS-монорепозиторий в GitlabCI](https://www.youtube.com/watch?v=JGAO5Ycp758&t=332s)  |  [Владислав Яндимиркин](../../speakers/Владислав%20Яндимиркин.md)  |    |
+| [Всё тайное становится явным: в поисках способа сделать 3D-контент доступным](https://www.youtube.com/watch?v=JGAO5Ycp758&t=1637s)  |  [Наталья Габитова](../../speakers/Наталья%20Габитова.md)  |    |
+| [Подходы стейт-менеджмента в экосистеме React](https://www.youtube.com/watch?v=JGAO5Ycp758&t=4754s)  |  [Руслан Ахтямов](../../speakers/Руслан%20Ахтямов.md)  |    |
 ## RamblerMeetup&amp;Frontend - 2021 Jul 29 [:movie_camera:](https://www.youtube.com/watch?v=_y4GyeB-YUQ)
 | | | |
 | --- | :---: | --- |

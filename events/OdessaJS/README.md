@@ -10,7 +10,7 @@
 | [What is so special about Micro Frontends value proposition?](https://youtu.be/KXCalIz3H6Q)  |  [Максим Клімішин](../../speakers/Максим%20Клімішин.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/micro-frontends-odessajs2021)   |
 | [Micro Ffrontends with React](https://youtu.be/TDM2_8nJ7Jc)  |  [Лилия Карпенко](../../speakers/Лилия%20Карпенко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/microfrontends-with-react-by-liliia-karpenko)   |
 | [Developers Baseline. WTF?](https://youtu.be/vJeD71hjGfU)  |  [Виктор Турский](../../speakers/Виктор%20Турский.md)  |    |
-| LOGS. HOW DO THEY AFFECT ON MY LIFE?  |  [Нік Лотоцький](../../speakers/Нік%20Лотоцький.md)  |    |
+| [LOGS. HOW DO THEY AFFECT ON MY LIFE?](https://youtu.be/njkE46cYfCs)  |  [Нік Лотоцький](../../speakers/Нік%20Лотоцький.md)  |    |
 | [GraphQL schema design](https://youtu.be/L9Js6dJk4II) [uk] |  [Борис Могила](../../speakers/Борис%20Могила.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/graphql-schema-design-by-borys-mohyla-odessajs2021)   |
 | [Using electron in the development of a corporate message-video-phone platform](https://youtu.be/YQKFv9_Uebk)  |  [Олексій Гончар](../../speakers/Олексій%20Гончар.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/electron-e-odessajs2021)   |
 | [Developing Microservices with NestJS](https://youtu.be/6ni7kBJJQrA)  |  [Андрей Троян](../../speakers/Андрей%20Троян.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/nestjs-odessajs2021)   |
@@ -20,12 +20,12 @@
 | [Node.js Tech Corner](https://youtu.be/h4uStCrO8tg)  |  [Тимур Шемсединов](../../speakers/Тимур%20Шемсединов.md)  [Ельдар Джафаров](../../speakers/Ельдар%20Джафаров.md)  [Денис Отрішко](../../speakers/Денис%20Отрішко.md)  [Нік Лотоцький](../../speakers/Нік%20Лотоцький.md)  [Нік Романенко](../../speakers/Нік%20Романенко.md)  [Олексій Новохацький](../../speakers/Олексій%20Новохацький.md)  |    |
 | [NODEJS &amp; GRAPHQL COOKBOOK. LET’S TALK ABOUT MICRO-SERVICES](https://youtu.be/6e200r344Bk)  |  [Антон Чередников](../../speakers/Антон%20Чередников.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/nodejs-graphql-cookbook-lets-talk-about-microservices-by-odessajs2021)   |
 | [GOOD CODE MYTHS](https://youtu.be/IVY6cHH63TM)  |  [Павло Галушко](../../speakers/Павло%20Галушко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/good-code-myths-odessajs2021)   |
-| Golang usage in development of Node.js applications (Node.js: In Go we trust)  |  [Олексій Новохацький](../../speakers/Олексій%20Новохацький.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/golang-usage-in-development-of-nodejs-applications-nodejs-in-go-we-trust-by-oleksii-novokhatskyi)   |
+| [Golang usage in development of Node.js applications (Node.js: In Go we trust)](https://youtu.be/MR_yzEQVBTI)  |  [Олексій Новохацький](../../speakers/Олексій%20Новохацький.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/golang-usage-in-development-of-nodejs-applications-nodejs-in-go-we-trust-by-oleksii-novokhatskyi)   |
 | [* * * * * * *, JS, * * * * * * *](https://youtu.be/_pGaNfCjR9s) [uk] |  [Роман Савіцький](../../speakers/Роман%20Савіцький.md)  |    |
 | How to become advanced engineer?  |  [Андрей Кучеренко](../../speakers/Андрей%20Кучеренко.md)  |    |
 | [The Team Lead of my mother&#39;s friend](https://youtu.be/AsdOEuKqtlg)  |  [Михайло Собко](../../speakers/Михайло%20Собко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/the-teamlead-of-my-mothers-friend-by-mykhailo-sobko)   |
 | [IS THERE JAVASCRIPT ON SWAGGER PLUGINS?](https://youtu.be/_EOiMJTH3v4)  |  [Дмитрий Гусев](../../speakers/Дмитрий%20Гусев.md)  |  [:octocat:](https://github.com/dogusev/swagger-plugins-odesajs-21)  |
-| Contract protection on the Frontend side: how to organize runtime checking  |  [Олексій Павленко](../../speakers/Олексій%20Павленко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/contract-protection-on-the-frontend-side-how-to-organize-runtime-checking-odessajs2021)   |
+| [Contract protection on the Frontend side: how to organize runtime checking](https://youtu.be/s86toqAEoqU)  |  [Олексій Павленко](../../speakers/Олексій%20Павленко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/contract-protection-on-the-frontend-side-how-to-organize-runtime-checking-odessajs2021)   |
 | Building Angular Apps with Nx  |  [Анастасия Нечепоренко](../../speakers/Анастасия%20Нечепоренко.md)  | [:notebook:](https://www.slideshare.net/OdessaJSConf/building-angular-apps-with-nx-by-anastasia-necheporenko)   |
 ## OdessaJS 2019 - 2019 Jul 19-21 [:movie_camera:](https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg/videos?view=2)
 | | | |
