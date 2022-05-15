@@ -6,16 +6,18 @@ videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8IYDYRieNB0axR-8siPTVuh
 talks:
   - name: Докручиваем ApolloClient до энтерпрайзной разработки
     speaker: Павел Черторогов
-    video: 
+    video: https://www.youtube.com/watch?v=sIj4NY26bCQ
     presentation: 
   - name: "Воркшоп: Пишем браузерное расширение с нуля"
     speaker: Семён Левенсон
-    video: 
+    video:
+      - https://www.youtube.com/watch?v=OWdHDGgt0zo
+      - https://www.youtube.com/watch?v=Lrhyu99rAEA
     presentation: 
     code: https://github.com/semeleven/webextension-workshop
   - name: "React.memo — сплетни/исходники/грань полезности"
     speaker: Александр Бальцевич
-    video: 
+    video: https://www.youtube.com/watch?v=5BEnXU1ma5A
     presentation: 
   - name: Фреймворки и паттерны разработки цифровых решений на производстве
     speaker: Илья Симоненко, Алексей Краснобаев, Алина Макеева, Павел Доронин, Олег Кондрашин
@@ -23,7 +25,7 @@ talks:
     presentation: 
   - name: Ещё один текстовый веб-редактор и в чём проблемы contenteditable?
     speaker: Даниил Налетов
-    video: 
+    video: https://youtu.be/SeawjoX23XE
     presentation: 
   - name: Statoscope. Курс интенсивной терапии для вашего бандла. Часть 1.
     speaker: Сергей Мелюков
@@ -37,11 +39,11 @@ talks:
     text: https://habr.com/ru/company/jugru/blog/595595/
   - name: "Расширения для браузера: Угроза или опасность?"
     speaker: Али Гасымов
-    video: 
+    video: https://www.youtube.com/watch?v=ht4V3ZfFhAk
     presentation: 
   - name: "Поглощение через микрофронтенд: нужно просто вставить одно приложение в другое"
     speaker: Дмитрий Смирнов
-    video: 
+    video: https://www.youtube.com/watch?v=PSBu79hhRXM
     presentation: 
   - name: Agile-процессы в современных продуктовых компаниях
     speaker: Сергей Сергеев
@@ -49,19 +51,19 @@ talks:
     presentation: 
   - name: Функциональное программирование в JS — серебряная пуля
     speaker: Надир Жумабаев
-    video: 
+    video: https://www.youtube.com/watch?v=fSmMHrTYcoM
     presentation: 
   - name: Доска в клеточку. Рисуем математику в вебе
     speaker: Антон Хайновский
-    video: 
+    video: https://www.youtube.com/watch?v=VvCbIXb0MG8
     presentation: 
   - name: RacketScript — язык будущего?
     speaker: Сергей Головин
-    video: 
+    video: https://www.youtube.com/watch?v=fdFPyG_YX5Y
     presentation: 
   - name: Использование многопоточности в браузере
     speaker: Дмитрий Злыгин
-    video: 
+    video: https://www.youtube.com/watch?v=CX4i2YaWPS0
     presentation: 
   - name: Как силами небольшой команды делать омниканальную систему
     speaker: Андрей Журавков
@@ -69,19 +71,19 @@ talks:
     presentation: 
   - name: Звонки на 2000+ участников, или Что умеет WebRTC
     speaker: Вадим Горбачев
-    video: 
+    video: https://www.youtube.com/watch?v=bIIsoJ-pIX0
     presentation: 
   - name: GraphQL platform at Uber
     speaker: Диана Суворова
-    video: 
+    video: https://www.youtube.com/watch?v=nwH-T0qCnZA
     presentation: 
   - name: Как и зачем мы мигрировали Авиасейлс на Effector
     speaker: Игорь Камышев
-    video: 
+    video: https://www.youtube.com/watch?v=HYaSnVEZiFk
     presentation: 
   - name: "MoleculerJS: высоконагруженные, отказоустойчивые и распределенные микросервисы"
     speaker: Иван Журавлев
-    video: 
+    video: https://www.youtube.com/watch?v=CuX0_dCysA4
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/4RqTJqurhFwoUpfmYLslft/6f388b561cc7b3d085b9091bb4354be0/HolyJS_2021_Moscow_MoleculerJS.pdf
   - name: "Node.js: Меньше сложности, больше надежности"
     speaker: Тимур Шемсединов
@@ -89,7 +91,7 @@ talks:
     presentation: 
   - name: Vue2 или Vue3 — что выбрать в 2021 году?
     speaker: Михаил Тадевосян
-    video: 
+    video: https://youtu.be/A5VJLIOZKSw
     presentation: 
   - name: "Разработка микрофронтов: на что обратить внимание при построении архитектуры"
     speaker: Олег Гарипов, Ярослава Суспицина
@@ -97,27 +99,27 @@ talks:
     presentation: 
   - name: Картинки со звуком
     speaker: Никита Дубко
-    video: 
+    video: https://www.youtube.com/watch?v=ldHiqrlnVyA
     presentation: https://mefody.github.io/talks/img-with-sound/
   - name: Фронтендер и его 10 тысяч кроликов
     speaker: Александр Коротаев
-    video: 
+    video: https://www.youtube.com/watch?v=TZStF-6lbVs
     presentation: 
   - name: Нестандартный подход к выбору клиентской библиотеки GraphQL
     speaker: Виктор Щеглов
-    video: 
+    video: https://www.youtube.com/watch?v=5d96hYY-u38
     presentation: 
   - name: Человеческое введение в WebGL и хардкор с рисованием линий
     speaker: Иван Попелышев
-    video: 
+    video: https://www.youtube.com/watch?v=ZvhQ8qi6jwY
     presentation: https://assets.ctfassets.net/nn534z2fqr9f/6LM5n7g9ThY9VpRpq67AnT/ab6a8b31794bd59f9d8840e0f15d854d/______-________________-______-______________-__________.pdf
   - name: OpenID Connect и OAuth2.0
     speaker: Михаил Вовренчук
-    video: 
+    video: https://www.youtube.com/watch?v=gZUe4794HV8
     presentation: 
   - name: "Разбор полетов: Microsoft To-Do"
     speaker: Алексей Мигуцкий
-    video: 
+    video: https://www.youtube.com/watch?v=DITQfMHEV4E
     presentation: 
   - name: Что веб грядущий нам готовит?
     speaker: Александр Мышов, Сергей Рубанов, Андрей Мелихов, Сергей Иванов
