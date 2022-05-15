@@ -3,4 +3,16 @@ date:
   - 2018-09-01
   - 2018-09-02
 videos: 
-talks: []
+talks:
+  - name: JavaScript для тех, кого там нет
+    speaker: Илья Климов
+    video: https://youtu.be/bmnu4-DlbbE
+    presentation: https://assets.ctfassets.net/oxjq45e8ilak/755VWezUTCawGUeOkiOakk/2fa6f952e27bcbd6243ef97c6ae81363/Illya_Klymov_JavaScript_dlya_teh_kogo_tam_net.pdf
+  - name: Этот безумный, безумный, безумный инпут. Часть 1
+    speaker: Роман Прудников
+    video: https://youtu.be/r8UTkmx_LBY
+    presentation: https://downloads.ctfassets.net/oxjq45e8ilak/5uP6W9jzLUaYyIaaUkq4eo/bd2e0e2a91222eadf8208d4c44e4bf1c/Roman_Prudnikov_It_s_a_mad_mad_mad_mad_search_bar_pt_1.pdf
+  - name: Паттерны проектирования умных отзывчивых интерфейсов
+    speaker: Виталий Фридман
+    video: https://youtu.be/hzVYV50Ckbg
+    presentation: https://downloads.ctfassets.net/oxjq45e8ilak/xDJlb8GzReuWE6UkKk8MS/9fab01d289461c07a0111ee9bcc5cc07/Vitaly_Friedman_Smart_responsive_interface_design_patterns.pdf

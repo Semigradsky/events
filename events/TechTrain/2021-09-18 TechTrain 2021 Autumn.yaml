@@ -1,4 +1,8 @@
 name: TechTrain 2021 Autumn
 date: 2021-09-18
 videos: 
-talks: []
+talks:
+  - name: Тренды Node.js для тех, кто спешит
+    speaker: Егор Малькевич
+    video: https://youtu.be/owGhS2MQ4Q0
+    presentation: https://downloads.ctfassets.net/oxjq45e8ilak/2W2VbNqYJ9woAAya4fwocQ/2f3917e30106f3ec49a323b6dfd9ba60/Node.js.pdf

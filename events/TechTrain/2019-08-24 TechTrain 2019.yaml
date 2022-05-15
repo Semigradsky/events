@@ -3,4 +3,16 @@ date:
   - 2019-08-24
   - 2019-08-25
 videos: 
-talks: []
+talks:
+  - name: Почему фронтенд это круто
+    speaker: Роман Дворнов
+    video: https://youtu.be/dOkcO2tLEwI
+    presentation: 
+  - name: Privacy UX
+    speaker: Виталий Фридман
+    video: https://youtu.be/iHKlsHQ4SUs
+    presentation: 
+  - name: Формируем картину GraphQL-мира
+    speaker: Павел Черторогов
+    video: https://youtu.be/kMARjBBe4FM
+    presentation: 

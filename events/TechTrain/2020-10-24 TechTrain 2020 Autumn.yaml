@@ -1,4 +1,8 @@
 name: TechTrain 2020 Autumn
 date: 2020-10-24
 videos: 
-talks: []
+talks:
+  - name: "«Наброс с прогиба»: Илья Климов кричит на Vue"
+    speaker: Илья Климов
+    video: https://youtu.be/RgwursPHWm0
+    presentation: 

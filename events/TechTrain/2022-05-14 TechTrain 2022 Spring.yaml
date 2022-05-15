@@ -1,0 +1,12 @@
+name: TechTrain 2022 Spring
+date: 2022-05-14
+videos: 
+talks:
+  - name: "Electron + Node.js = ❤️"
+    speaker: Артём Кузвесов
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/9d98edae-c3ec-43a8-804c-cb1e1faa20b5/kuzvesov.pdf
+  - name: Как подружиться со статистикой WebRTC и сэкономить тысячи часов на отладке
+    speaker: Игорь Шеко
+    video: 
+    presentation: 

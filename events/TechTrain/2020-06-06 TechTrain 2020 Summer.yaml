@@ -1,4 +1,8 @@
 name: TechTrain 2020 Summer
 date: 2020-06-06
 videos: 
-talks: []
+talks:
+  - name: Паттерны проектирования умных интерфейсов, версия 2020
+    speaker: Виталий Фридман
+    video: https://youtu.be/Yi571O9Ihy8
+    presentation: 
