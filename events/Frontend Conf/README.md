@@ -56,7 +56,7 @@
 | Фуллстек-дизайнер: почему это классно для всех  |  [Сергей Тимофеев](../../speakers/Сергей%20Тимофеев.md)  | [:notebook:](https://drive.google.com/file/d/1UxUKedr_p1R_vWBZs3i_9EI5QYg3Oa8a/view)   |
 | Как создают и поддерживают страницы tinkoff.ru  |  [Сергей Михайлов](../../speakers/Сергей%20Михайлов.md)  | [:notebook:](https://drive.google.com/file/d/1wKXjYlPz_DluUUifuOAYaGgyRaNDS7Pw/view)   |
 | [Пять лет эволюции React-приложения](https://www.youtube.com/watch?v=ZMlEfKZMZto)  |  [Андрей Марченко](../../speakers/Андрей%20Марченко.md)  | [:notebook:](https://drive.google.com/file/d/1jcyUn8skK1637Eigan3OOOkZqe7owvd-/view)   |
-| Smart Interface Design Patterns, 2020 Edition  |  [Виталий Фридман](../../speakers/Виталий%20Фридман.md)  |    |
+| Паттерны проектирования умных интерфейсов, версия 2020  |  [Виталий Фридман](../../speakers/Виталий%20Фридман.md)  |    |
 | [Микрофронтенды на tinkoff.ru](https://www.youtube.com/watch?v=adgUumoPv6o)  |  [Дмитрий Кузнецов](../../speakers/Дмитрий%20Кузнецов.md)  | [:notebook:](https://drive.google.com/file/d/1B1JW_Hgu66S0eWgtgzV2JQrpPhJV9J_E/view)   |
 | [Чем болеют большие фронтенды: монорепы и микрофронтенды](https://www.youtube.com/watch?v=P0UJ-nrSi34)  |  [Иван Соловьёв](../../speakers/Иван%20Соловьёв.md)  | [:notebook:](https://drive.google.com/file/d/19tLGzPRYb-Xz63OUSbjeNPKzpYPuf3M_/view)   |
 | [Как выстроить эффективное взаимодействие между дизайнером и фронтенд-разработчиком](https://www.youtube.com/watch?v=uExMGo4Q_Mw)  |  [Игорь Шеко](../../speakers/Игорь%20Шеко.md)  | [:notebook:](https://slides.com/irbisadm/effective-cooperate)   |

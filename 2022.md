@@ -3,6 +3,11 @@
 
 # Events / 2022 / [2021](/2021.md) / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## TechTrain 2022 Spring - May 14 
+| | | |
+| --- | :---: | --- |
+| Electron + Node.js &#x3D; ❤️  |  [Артём Кузвесов](speakers/Артём%20Кузвесов.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/9d98edae-c3ec-43a8-804c-cb1e1faa20b5/kuzvesov.pdf)   |
+| Как подружиться со статистикой WebRTC и сэкономить тысячи часов на отладке  |  [Игорь Шеко](speakers/Игорь%20Шеко.md)  |    |
 ## Frontend Mix - Apr 28 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;0d166V8fHrc)
 | | | |
 | --- | :---: | --- |

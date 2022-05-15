@@ -165,7 +165,7 @@
 | | | |
 | --- | :---: | --- |
 | Микросервисы на Node.js: как сохранить себя  |  [Кирилл Сергеев](../../speakers/Кирилл%20Сергеев.md)  | [:notebook:](https://downloads.ctfassets.net/oxjq45e8ilak/2DWWeik3qMcYKqosM0kS6y/e0060cbb81188d8711f8c49a1032b94a/Kirill_Sergeev_Mikroservisi_na_Nodejs_kak_sohranit_sebya.pdf)   |
-| [Этот безумный, безумный, безумный, безумный инпут. Часть 1](https://www.youtube.com/watch?v=r8UTkmx_LBY)  |  [Роман Прудников](../../speakers/Роман%20Прудников.md)  | [:notebook:](https://downloads.ctfassets.net/oxjq45e8ilak/5uP6W9jzLUaYyIaaUkq4eo/bd2e0e2a91222eadf8208d4c44e4bf1c/Roman_Prudnikov_It_s_a_mad_mad_mad_mad_search_bar_pt_1.pdf)   |
+| [Этот безумный, безумный, безумный инпут. Часть 1](https://www.youtube.com/watch?v=r8UTkmx_LBY)  |  [Роман Прудников](../../speakers/Роман%20Прудников.md)  | [:notebook:](https://downloads.ctfassets.net/oxjq45e8ilak/5uP6W9jzLUaYyIaaUkq4eo/bd2e0e2a91222eadf8208d4c44e4bf1c/Roman_Prudnikov_It_s_a_mad_mad_mad_mad_search_bar_pt_1.pdf)   |
 | Application deployment with Firebase platform  |  [Станислав Черноморченко](../../speakers/Станислав%20Черноморченко.md)  |    |
 ## PiterJS 28 - 2018 Aug 16 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxiQfgZfB-4Z135KJpX5vpFT)
 | | | |
