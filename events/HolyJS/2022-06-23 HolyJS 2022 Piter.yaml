@@ -1,0 +1,36 @@
+name: HolyJS 2022 Piter
+date: 2022-06-23
+videos: 
+talks:
+  - name: "R&D: разработчики и дураки"
+    speaker: Евгений Кот
+    video: 
+    presentation: 
+  - name: Когда лагает интерфейс
+    speaker: Артём Белов
+    video: 
+    presentation: 
+  - name: "WebHID API: управление почти чем угодно из браузера"
+    speaker: Никита Дубко
+    video: 
+    presentation: 
+  - name: Что такое Shared UI и как он нам помог
+    speaker: Дмитрий Боровский
+    video: 
+    presentation: 
+  - name: Открываем все секреты React Context API
+    speaker: Александр Бальцевич
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/d0efb413-84b5-435a-958e-e238118d8e58/context-api-presentation.pdf
+  - name: "Жесть для Jest: Round 2. Fight!"
+    speaker: Сергей Мелюков
+    video: 
+    presentation: 
+  - name: "ML на клиенте: тренируемся на белочках"
+    speaker: Полина Гуртовая
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/11ba6623-f207-46ee-9a13-9c8ead67226a/ml-holyjs.pdf
+  - name: Кубический мир на JavaScript, продолжение
+    speaker: Иван Попелышев
+    video: 
+    presentation: 

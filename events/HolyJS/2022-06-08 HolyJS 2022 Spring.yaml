@@ -1,0 +1,105 @@
+name: HolyJS 2022 Spring
+date:
+  - 2022-06-08
+  - 2022-06-10
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8K6ytqC6yjEFVaatyYT7zzR
+talks:
+  - name: Нейрофизиология сложности кода
+    speaker: Григорий Петров
+    video: 
+    presentation: 
+  - name: Redux + Canvas = Love
+    speaker: Руслан Тютин
+    video: 
+    presentation: 
+  - name: Неизбежность тонкого клиента
+    speaker: Алексей Фомкин
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/be06c67c-f337-4a1a-b6bd-e840622e0f24/holyjs-2022.6.-neizbezhnosts-tonkogo-klienta.pdf
+  - name: "Фронтенд: Графы. Сборка. Мертвый код"
+    speaker: Никита Сидоров
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/2713296a-c538-48c2-9b4c-364461644c34/holyjs2022-final.pdf
+  - name: "Безопасность данных: построение архитектуры при интеграции алгоритмов шифрования в приложении для финансового учета"
+    speaker: Алексей Прусс
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/639d6bab-5fed-4013-8516-4c62ab730a9c/holyjs-pruss-arhitektura-shifrovaniya.pptx
+  - name: Пишем фронтенд в банке без гипертонии
+    speaker: Ришат Габайдуллов
+    video: 
+    presentation: 
+  - name: Wasm GC
+    speaker: Дмитрий Бежецков
+    video: 
+    presentation: 
+  - name: Кубический мир на JavaScript
+    speaker: Иван Попелышев
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/7a48832d-ddc3-47cf-bf2e-93b1884d53a2/holyjs-2022-spring-online-kubicheskii-mir-na-javascript.pdf
+  - name: "Передача видео без потери качества в WebRTC: опыт VK Звонков"
+    speaker: Николай Васильчук
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/bbac7c9a-26a1-4edd-9384-e6911c0a508e/holyjs-2022-vasilchuk.pdf
+  - name: "Не баг, а фича: разбираем компромиссы в дизайне языка TypeScript"
+    speaker: Андрей Старовойт
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/3fef4db1-4bcf-476d-b7c9-74afc7233a0d/trade-offs-holyjs-june.key
+  - name: "«А поговорить?», или Что мы знаем о голосовых возможностях в браузерах"
+    speaker: Ольга Болотова
+    video: 
+    presentation: 
+  - name: Микросервис головного мозга. Ускоряем разработку до предела
+    speaker: Михаил Трифонов
+    video: 
+    presentation: 
+  - name: "[Воркшоп] Тысяча маленьких контроллеров: пишем весь бэкенд на лямбдах"
+    speaker: Дарья Дудник
+    video: 
+    presentation: 
+  - name: "npm-уязвимости: вызов принят"
+    speaker: Анто Голуб
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/5f08d7c7-00d4-4387-bd22-370b7660d9d7/holyjs-2020-spring-slides-reforged.pptx
+  - name: Как подружить Angular и React в одном приложении
+    speaker: Максим Максимов
+    video: 
+    presentation: 
+  - name: Как проектировать Хорошие Большие приложения
+    speaker: Олег Иванов
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/362fcc3b-b915-476f-b250-78a2477fa472/oleg-ivanov-k-holyjs.pdf
+  - name: Крестовый поход против легаси в фронтенд-проектах
+    speaker: Василиса Версус
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/e4f2d099-e284-484d-9cdd-737e13f33b48/holyjs-2022-spring.pdf
+  - name: Создание интерактивных визуализаций на D3.js и React
+    speaker: Наталия Степанова
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/5801583c-bbf1-4474-80a6-8836e8c5606b/holyjs.pdf
+  - name: "[Воркшоп] Готовим gRPC микросервисы в Node.js"
+    speaker: Andrew Reddikh, Alexander Korzhikov
+    video:
+      - https://youtu.be/kxQP0KRgD00
+      - https://youtu.be/hjdVVCMlQF4
+    presentation: 
+    code: https://github.com/x-technology/mono-repo-nodejs-svc-sample
+  - name: "Поймать дзен, работая над дизайн-системой Яндекс.Дзена"
+    speaker: Семён Левенсон
+    video: https://youtu.be/1ZxDw-wovws
+    presentation: 
+  - name: "Server-driven UI в вебе. Не пиши, а описывай свой фронтeнд"
+    speaker: Виталий Полещук, Степан Михайлюк
+    video: https://youtu.be/s4KnMVP9KL4
+    presentation: 
+  - name: Улучшаем качество кода React-приложения с помощью Compound Components
+    speaker: Александр Дунай
+    video: https://youtu.be/4BByJUk5x7M
+    presentation: 
+  - name: Serverless — это не страшно!
+    speaker: Иван Зуев
+    video: https://youtu.be/7gl7ECjXdIs
+    presentation: 
+  - name: Как мы TypeScript в Java перегоняли
+    speaker: Евгений Никифоров
+    video: https://youtu.be/zvtMq-p3HGg
+    presentation: 
