@@ -1,0 +1,16 @@
+name: Frontend Meetup
+date: 2022-05-28
+videos: https://www.youtube.com/watch?v=v0qVqUHjLyY
+talks:
+  - name: Реализация совместной работы в конструкторах онлайн-материалов
+    speaker: Юрий Минаков
+    video: 
+    presentation: 
+  - name: "ФП: практическое внедрение на производстве"
+    speaker: Иван Калагин
+    video: 
+    presentation: 
+  - name: Feature Sliced Design
+    speaker: Артур Мирзин
+    video: 
+    presentation: 
