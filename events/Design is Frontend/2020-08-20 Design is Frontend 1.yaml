@@ -1,0 +1,28 @@
+name: Design is Frontend 1
+date: 2020-08-20
+videos: https://www.youtube.com/playlist?list=PLMaGvc6xzk3C0n_bvdES0Bo0wxO_4YUTc
+talks:
+  - name: Как лечить боль дизайнеров и верстальщиков
+    speaker: Игорь Яковлев
+    video: https://youtu.be/ZTysRh4qKDY
+    presentation: 
+  - name: Как анимировать интерфейсы и в чем здесь подвох
+    speaker: Артем Чернышев
+    video: https://youtu.be/1WMH6Srhe8s
+    presentation: 
+  - name: Тренды анимации на верстке. Как подружить дизайнера и фронтенд-разработчика?
+    speaker: Сергей Кузнецов
+    video: https://youtu.be/Hf8wllDZujM
+    presentation: 
+  - name: Как выстроить эффективное взаимодействие между дизайнером и фронтенд-разработчиком
+    speaker: Игорь Шеко
+    video: https://youtu.be/BOAVjRlMbps
+    presentation: 
+  - name: Зачем дизайнерам общаться с фронтенд-разработчиками и находить к ним подход
+    speaker: Екатерина Булыгина
+    video: https://youtu.be/pbfX9SQ09I4
+    presentation: 
+  - name: Фронтенд-разработчик на максималках
+    speaker: Игорь Яковлев
+    video: https://youtu.be/z9FJ6yVvBTA
+    presentation: 

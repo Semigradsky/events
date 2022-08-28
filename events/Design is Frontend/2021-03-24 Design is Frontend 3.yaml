@@ -1,0 +1,29 @@
+name: Design is Frontend 3
+date: 2021-03-24
+videos: https://www.youtube.com/playlist?list=PLMaGvc6xzk3BbOqnU5BOGvJMMQcU4Ae5s
+talks:
+  - name: "Что должен знать frontend-разработчик о дизайне:
+чек-лист с объяснениями"
+    speaker: Игорь Яковлев
+    video: https://youtu.be/c6InnTPl7G0
+    presentation: https://drive.google.com/file/d/16_wHc9ov6uZ6yF2XdGtcME2RZ4GmP4_R/view
+  - name: Мастер-класс по работе с дизайн-системой в Figma
+    speaker: Василий Гордеев
+    video: https://youtu.be/_KgWeR-vpy0
+    presentation: https://drive.google.com/file/d/1bNK3UP_NGw2A78LR8CgEm7ClvdQWbrBD/view
+  - name: Дизайн. Реализация дизайн-системы в Райффайзенбанк
+    speaker: Вика Дубровская
+    video: https://youtu.be/dJgoe0FSiFY
+    presentation: https://drive.google.com/file/d/1Bzif4zwC6ZyIYsyZaYOQUDrLsn5Kj4OM/view
+  - name: Frontend. Реализация дизайн-системы в Райффайзенбанк
+    speaker: Мария Гущина
+    video: https://youtu.be/BR_IEB00Q9M
+    presentation: https://drive.google.com/file/d/1WxMhFMeqSiZS1BjwwWkn-a3ADr_Xkauw/view
+  - name: Почему вам не нужна дизайн-система
+    speaker: Константин Кислейко
+    video: https://youtu.be/RaJdNFnqwO0
+    presentation: https://drive.google.com/file/d/1AdYSPlWf3TTfuV4BitIL7VjsWJfVot9S/view
+  - name: Есть ли жизнь без дизайн-системы
+    speaker: Юрий Чижов
+    video: https://youtu.be/8MLXiIFDgmo
+    presentation: https://drive.google.com/file/d/173Nre7L8Drae3IsdL-uEsrBTtFr_fIFz/view

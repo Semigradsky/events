@@ -1,0 +1,28 @@
+name: Design is Frontend 2
+date: 2020-12-09
+videos: https://www.youtube.com/playlist?list=PLMaGvc6xzk3BayAD9BXT6s2GhbkdscrHQ
+talks:
+  - name: "Дизайн и frontend: давайте жить дружно"
+    speaker: Екатерина Тюхай
+    video: https://youtu.be/4Go-qbbMwqM
+    presentation: https://drive.google.com/file/d/1s3nRt7HLvPqrzhEh1MUgF4Yhl8waYIOt/view
+  - name: Как фиксировать и не терять баги между дизайном и версткой. Реальный опыт
+    speaker: Игорь Яковлев
+    video: https://youtu.be/04CaeFMUlak
+    presentation: https://drive.google.com/file/d/1yfWnwY0kWN0hwl-RH_emoo12ZUmV5eTK/view
+  - name: Сложные виды анимации на вёрстке, типичные ошибки фронтендера
+    speaker: Влад Шуянов
+    video: https://youtu.be/QmXIrDwV2rg
+    presentation: https://drive.google.com/file/d/16zmbPoaFp8BTL6VLgcvM_YfvD3DwBLE7/view
+  - name: Как подружить аналитику, дизайн и разработку
+    speaker: Александр Кременской
+    video: https://youtu.be/ysES0Ner1QY
+    presentation: https://drive.google.com/file/d/1VZYyr8WD4CPJQ5b4tovR8uxnxBSIz9A8/view
+  - name: Как превратить разные отделы продакшена в слаженную команду
+    speaker: Юрий Чижов
+    video: https://youtu.be/9mG4zWaCuyE
+    presentation: https://drive.google.com/file/d/17TSENq6w0VjBXhDGqpZS7CU37p63fDd-/view
+  - name: "[Круглый стол] Взаимоотношения дизайнера и верстальщика"
+    speaker: Юрий Чижов, Игорь Яковлев, Влад Шуянов, Александр Кременской
+    video: https://youtu.be/g-dPVgS1OMA
+    presentation: 

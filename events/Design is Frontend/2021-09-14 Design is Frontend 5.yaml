@@ -1,0 +1,20 @@
+name: Design is Frontend 5
+date: 2021-09-14
+videos: https://www.youtube.com/playlist?list=PLMaGvc6xzk3Ad1PFRUOQ9_YcaIbvsahxu
+talks:
+  - name: "React vs Vue.js vs Angular: на чем Frontend-разработчики пишут современный e‑commerce"
+    speaker: Николай Митряшкин
+    video: https://youtu.be/GLO5AW9T4sc
+    presentation: https://drive.google.com/file/d/1Dpg339RPj8EWvS6tYN33I3XGyJ2bDgDL/view?usp=sharing
+  - name: Резиновый дизайн и резиновая верстка. Мастер‑класс
+    speaker: Игорь Яковлев
+    video: https://youtu.be/wn98JLPVB-8
+    presentation: https://drive.google.com/file/d/111iYzMKDG2KkOY2sqvsS7lnXs2_5O6O1/view?usp=sharing
+  - name: "Продуктовый (компонентный) подход к разработке e‑commerce на базе фреймворков"
+    speaker: Игорь Шеко, Назарий Панькив
+    video: https://youtu.be/OQRo3LTgR5E
+    presentation: https://slides.com/irbisadm/deck-f447c4?token=XyVm1Pu6
+  - name: Сколько нужно библиотек компонентов для e‑commerce и как их проектировать?
+    speaker: Кирилл Миронов
+    video: https://youtu.be/0J5S0nB3jYY
+    presentation: https://drive.google.com/file/d/1tjSNCAiA0jUJBBsd-8yXX7c05E5RjqfN/view?usp=sharing

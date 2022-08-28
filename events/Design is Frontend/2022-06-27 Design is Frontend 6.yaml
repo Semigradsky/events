@@ -1,0 +1,22 @@
+name: Design is Frontend 6
+date:
+  - 2022-06-27
+  - 2022-06-30
+videos: https://www.youtube.com/playlist?list=PLMaGvc6xzk3A9MkuCu3KeLf4Wh_7-MjlG
+talks:
+  - name: "Мобильные приложения: новая эра"
+    speaker: Вадим Фингеров
+    video: https://youtu.be/nU_6gMetUwQ
+    presentation: https://docs.google.com/presentation/d/1vVh3E-gWDY6cbm4wYpOPD8IRgVt5FEy4k-iclCSei_E/edit#slide=id.g1334a7a42a4_2_2
+  - name: Погружение в теорию PWA
+    speaker: Никита Воробьев
+    video: https://youtu.be/5wE7uSu9X9A
+    presentation: https://drive.google.com/file/d/1QWVydIlf4b7n2JQtU7z-dJ4lGbpitqDs/view
+  - name: Как работает NashStore — инсайды разработчиков российского магазина приложений
+    speaker: Владимир Зыков
+    video: https://youtu.be/7O9NyBfuBPM
+    presentation: https://docs.google.com/presentation/d/1Mc1d5L_Rhsq7ThXrdVda61hOXpy4MQsf/edit?rtpof=true&sd=true
+  - name: Как быстро запускать PWA разработчикам и дизайнерам
+    speaker: Кирилл Петров
+    video: https://youtu.be/e_7-9aiIydo
+    presentation: https://docs.google.com/presentation/d/1GwFomc18LusSGT2g40AxXgRNeIoorLBpucKFIfJ4JAU/edit
