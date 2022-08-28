@@ -1,0 +1,37 @@
+name: Я ❤ Frontend 2022
+date: 2022-08-12
+videos: https://youtu.be/z3O8qYmPd58
+talks:
+  - name: Contract-first principle в работе c API
+    speaker: Глеб Михеев
+    video: https://www.youtube.com/watch?v=z3O8qYmPd58&t=751s
+    presentation: 
+  - name: А ваш сайт доступен с клавиатуры?
+    speaker: Глафира Жур
+    video: https://www.youtube.com/watch?v=z3O8qYmPd58&t=4283s
+    presentation: 
+  - name: Я ❤ Storybook
+    speaker: Семён Левенсон
+    video: https://www.youtube.com/watch?v=z3O8qYmPd58&t=7890s
+    presentation: 
+  - name: "State Machine: что это и зачем"
+    speaker: Сергей Пономарёв
+    video: https://www.youtube.com/watch?v=z3O8qYmPd58&t=14363s
+    presentation: 
+  - name: Node.js фреймворки, или Туда и обратно
+    speaker: Андрей Мелихов
+    video: https://www.youtube.com/watch?v=z3O8qYmPd58&t=18291s
+    presentation: 
+  - name: Особенности реализации брутальной дизайн-системы
+    speaker: Артём Арутюнян
+    video: https://www.youtube.com/watch?v=z3O8qYmPd58&t=21924s
+    presentation: 
+  - name: "“Web Vitals”: увидеть и оптимизировать"
+    speaker: Артём Белов
+    video: https://www.youtube.com/watch?v=z3O8qYmPd58&t=25503s
+    presentation: 
+  - name: "Пишем свой текстовый редактор"
+    speaker: Сергей Чикуёнок
+    video: https://youtu.be/TDZcDXdBjn8
+    presentation: 
+    code: https://github.com/tamtam-chat/message-editor
