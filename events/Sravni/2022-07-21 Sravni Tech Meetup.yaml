@@ -1,0 +1,12 @@
+name: Sravni Tech Meetup
+date: 2022-07-21
+videos: https://www.youtube.com/watch?v=az6CMoO_mFM
+talks:
+  - name: "NestJS для решения проблем разрастающейся разработки: зачем так сложно и почему всё-таки да"
+    speaker: Денис Былинин
+    video: https://youtu.be/az6CMoO_mFM?t=283
+    presentation: 
+  - name: "Эволюция подходов по работе с таблицами в вебе: что меняется на пути от нескольких сотен до десятков тысяч строк во фронтенде твоей таблицы и где подстелить соломку"
+    speaker: Анна Ланда
+    video: https://youtu.be/az6CMoO_mFM?t=2552
+    presentation: 
