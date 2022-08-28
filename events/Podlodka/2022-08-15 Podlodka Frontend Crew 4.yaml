@@ -1,0 +1,46 @@
+name: Podlodka Frontend Crew 4
+date:
+  - 2022-08-15
+  - 2022-08-19
+videos: 
+talks:
+  - name: Погружаемся в кодмоды и пишем свой кодогенератор для GraphQL
+    speaker: Илья Горский
+    video: 
+    presentation: 
+  - name: "Круглый стол: Вся правда о сборщиках"
+    speaker: Андрей Ситник, Валентин Семирульник, Александр Краснояров
+    video: 
+    presentation: 
+  - name: Путешествие от Redux к RTKа
+    speaker: Анатолий Кабанов
+    video: 
+    presentation: 
+  - name: Лучшая документация получается из кода
+    speaker: Арман Мурзабулатов
+    video: 
+    presentation: 
+  - name: Анализируем граф зависимостей
+    speaker: Антон Крылов
+    video: 
+    presentation: 
+  - name: "Воркшоп: Вся суть в Nx"
+    speaker: Игорь Кацуба
+    video: 
+    presentation: 
+  - name: Дорогой Lodash, почему ты в моей сборке?
+    speaker: Никита Сидоров
+    video: 
+    presentation: 
+  - name: Как кодогенерироваться в условиях OpenApi?
+    speaker: Саша Илатовский
+    video: 
+    presentation: 
+  - name: "Круглый стол: Как мы переезжали"
+    speaker: Михаил Хромов, Илья Таратухин, Дмитрий Безуглый
+    video: 
+    presentation: 
+  - name: Декларативность и магия схем
+    speaker: Полина Гуртовая
+    video: 
+    presentation: https://speakerdeck.com/hellsquirrel/maghiia-dieklarativnyi-skhiem
