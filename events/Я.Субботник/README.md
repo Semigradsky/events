@@ -3,6 +3,19 @@
 
 # Я.Субботник
 
+## Я.Субботник по разработке интерфейсов - 2022 Aug 20 [:movie_camera:](https://www.youtube.com/watch?v=A_7-hGxLseY)
+| | | |
+| --- | :---: | --- |
+| [Расширяем возможности визуализации геоданных](https://www.youtube.com/watch?v=A_7-hGxLseY&t=507s)  |  [Артём Боюр](../../speakers/Артём%20Боюр.md)  |    |
+| [Как мы вывели Code Style в Практикуме на следующий уровень](https://www.youtube.com/watch?v=A_7-hGxLseY&t=2777s)  |  [Софья Гусева](../../speakers/Софья%20Гусева.md)  |    |
+| [Ограничения на размер типов данных в Node.js и браузерах](https://www.youtube.com/watch?v=A_7-hGxLseY&t=7275s)  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |    |
+| [Засланец из Морды](https://www.youtube.com/watch?v=A_7-hGxLseY&t=10398s)  |  [Александр Нефедов](../../speakers/Александр%20Нефедов.md)  |    |
+| [Monaco-editor. От формальных грамматик до синхронизации с формами](https://www.youtube.com/watch?v=A_7-hGxLseY&t=12734s)  |  [Александр Николаичев](../../speakers/Александр%20Николаичев.md)  |    |
+## Я.Субботник по дизайну и разработке интерфейсов - 2021 Dec 11 [:movie_camera:](https://www.youtube.com/watch?v=zN2SENJu6Ns)
+| | | |
+| --- | :---: | --- |
+| [Как бы, html для, как бы, браузера](https://youtu.be/zN2SENJu6Ns?t=5661)  |  [Семён Левенсон](../../speakers/Семён%20Левенсон.md)  |    |
+| [Интерфейс для телевизора](https://youtu.be/zN2SENJu6Ns?t=8592)  |  [Вадим Матвеев](../../speakers/Вадим%20Матвеев.md)  |    |
 ## Я.Субботник по разработке интерфейсов - 2021 Sep 18 [:movie_camera:](https://www.youtube.com/watch?v=y7FG9IkQBrI)
 | | | |
 | --- | :---: | --- |

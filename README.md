@@ -3,6 +3,62 @@
 
 # Events / 2022 / [2021](/2021.md) / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Я.Субботник по разработке интерфейсов - Aug 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;A_7-hGxLseY)
+| | | |
+| --- | :---: | --- |
+| [Расширяем возможности визуализации геоданных](https://www.youtube.com/watch?v=A_7-hGxLseY&t=507s)  |  [Артём Боюр](speakers/Артём%20Боюр.md)  |    |
+| [Как мы вывели Code Style в Практикуме на следующий уровень](https://www.youtube.com/watch?v=A_7-hGxLseY&t=2777s)  |  [Софья Гусева](speakers/Софья%20Гусева.md)  |    |
+| [Ограничения на размер типов данных в Node.js и браузерах](https://www.youtube.com/watch?v=A_7-hGxLseY&t=7275s)  |  [Виктор Хомяков](speakers/Виктор%20Хомяков.md)  |    |
+| [Засланец из Морды](https://www.youtube.com/watch?v=A_7-hGxLseY&t=10398s)  |  [Александр Нефедов](speakers/Александр%20Нефедов.md)  |    |
+| [Monaco-editor. От формальных грамматик до синхронизации с формами](https://www.youtube.com/watch?v=A_7-hGxLseY&t=12734s)  |  [Александр Николаичев](speakers/Александр%20Николаичев.md)  |    |
+## Samokat.tech Meetup – Frontend - Aug 19 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;yIE2fFFrAlM)
+| | | |
+| --- | :---: | --- |
+| [Тестирование современного фронтенда](https://youtu.be/yIE2fFFrAlM?t=2485)  |  [Александр Моргунов](speakers/Александр%20Моргунов.md)  |    |
+| [Как жить фронтенду в микросервисном мире](https://youtu.be/yIE2fFFrAlM?t=6453)  |  [Ульян Мудраков](speakers/Ульян%20Мудраков.md)  |    |
+| [Автоматическая документация через тесты](https://youtu.be/yIE2fFFrAlM?t=485)  |  [Виктор Пасынок](speakers/Виктор%20Пасынок.md)  |    |
+## Podlodka Frontend Crew 4 - Aug 15-19 
+| | | |
+| --- | :---: | --- |
+| Погружаемся в кодмоды и пишем свой кодогенератор для GraphQL  |  [Илья Горский](speakers/Илья%20Горский.md)  |    |
+| Круглый стол: Вся правда о сборщиках  |  [Андрей Ситник](speakers/Андрей%20Ситник.md)  [Валентин Семирульник](speakers/Валентин%20Семирульник.md)  [Александр Краснояров](speakers/Александр%20Краснояров.md)  |    |
+| Путешествие от Redux к RTKа  |  [Анатолий Кабанов](speakers/Анатолий%20Кабанов.md)  |    |
+| Лучшая документация получается из кода  |  [Арман Мурзабулатов](speakers/Арман%20Мурзабулатов.md)  |    |
+| Анализируем граф зависимостей  |  [Антон Крылов](speakers/Антон%20Крылов.md)  |    |
+| Воркшоп: Вся суть в Nx  |  [Игорь Кацуба](speakers/Игорь%20Кацуба.md)  |    |
+| Дорогой Lodash, почему ты в моей сборке?  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |
+| Как кодогенерироваться в условиях OpenApi?  |  [Саша Илатовский](speakers/Саша%20Илатовский.md)  |    |
+| Круглый стол: Как мы переезжали  |  [Михаил Хромов](speakers/Михаил%20Хромов.md)  [Илья Таратухин](speakers/Илья%20Таратухин.md)  [Дмитрий Безуглый](speakers/Дмитрий%20Безуглый.md)  |    |
+| Декларативность и магия схем  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  | [:notebook:](https://speakerdeck.com/hellsquirrel/maghiia-dieklarativnyi-skhiem)   |
+## Я ❤ Frontend 2022 - Aug 12 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;z3O8qYmPd58)
+| | | |
+| --- | :---: | --- |
+| [Contract-first principle в работе c API](https://www.youtube.com/watch?v=z3O8qYmPd58&t=751s)  |  [Глеб Михеев](speakers/Глеб%20Михеев.md)  |    |
+| [А ваш сайт доступен с клавиатуры?](https://www.youtube.com/watch?v=z3O8qYmPd58&t=4283s)  |  [Глафира Жур](speakers/Глафира%20Жур.md)  |    |
+| [Я ❤ Storybook](https://www.youtube.com/watch?v=z3O8qYmPd58&t=7890s)  |  [Семён Левенсон](speakers/Семён%20Левенсон.md)  |    |
+| [State Machine: что это и зачем](https://www.youtube.com/watch?v=z3O8qYmPd58&t=14363s)  |  [Сергей Пономарёв](speakers/Сергей%20Пономарёв.md)  |    |
+| [Node.js фреймворки, или Туда и обратно](https://www.youtube.com/watch?v=z3O8qYmPd58&t=18291s)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
+| [Особенности реализации брутальной дизайн-системы](https://www.youtube.com/watch?v=z3O8qYmPd58&t=21924s)  |  [Артём Арутюнян](speakers/Артём%20Арутюнян.md)  |    |
+| [“Web Vitals”: увидеть и оптимизировать](https://www.youtube.com/watch?v=z3O8qYmPd58&t=25503s)  |  [Артём Белов](speakers/Артём%20Белов.md)  |    |
+| [Пишем свой текстовый редактор](https://youtu.be/TDZcDXdBjn8)  |  [Сергей Чикуёнок](speakers/Сергей%20Чикуёнок.md)  |  [:octocat:](https://github.com/tamtam-chat/message-editor)  |
+## VK Tech Talks - Front End - Jul 28 [:movie_camera:](https:&#x2F;&#x2F;vk.com&#x2F;wall-147415323_13191)
+| | | |
+| --- | :---: | --- |
+| [Интегрируем почту в мессенджер VK Teams](https://vk.com/video-147415323_456239795)  |  [Денис Романюк](speakers/Денис%20Романюк.md)  | [:notebook:](https://vk.com/doc41795800_642760808)   |
+| [Безопасный деплой на тысячи серверов](https://vk.com/video-147415323_456239797)  |  [Юрий Голубев](speakers/Юрий%20Голубев.md)  | [:notebook:](https://vk.com/doc41795800_642760820)   |
+| [Web Vitals: увидеть и оптимизировать](https://vk.com/video-147415323_456239796)  |  [Артём Белов](speakers/Артём%20Белов.md)  | [:notebook:](https://vk.com/doc41795800_642760980)   |
+## Sravni Tech Meetup - Jul 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;az6CMoO_mFM)
+| | | |
+| --- | :---: | --- |
+| [NestJS для решения проблем разрастающейся разработки: зачем так сложно и почему всё-таки да](https://youtu.be/az6CMoO_mFM?t=283)  |  [Денис Былинин](speakers/Денис%20Былинин.md)  |    |
+| [Эволюция подходов по работе с таблицами в вебе: что меняется на пути от нескольких сотен до десятков тысяч строк во фронтенде твоей таблицы и где подстелить соломку](https://youtu.be/az6CMoO_mFM?t=2552)  |  [Анна Ланда](speakers/Анна%20Ланда.md)  |    |
+## Design is Frontend 6 - Jun 27-30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLMaGvc6xzk3A9MkuCu3KeLf4Wh_7-MjlG)
+| | | |
+| --- | :---: | --- |
+| [Мобильные приложения: новая эра](https://youtu.be/nU_6gMetUwQ)  |  [Вадим Фингеров](speakers/Вадим%20Фингеров.md)  | [:notebook:](https://docs.google.com/presentation/d/1vVh3E-gWDY6cbm4wYpOPD8IRgVt5FEy4k-iclCSei_E/edit#slide=id.g1334a7a42a4_2_2)   |
+| [Погружение в теорию PWA](https://youtu.be/5wE7uSu9X9A)  |  [Никита Воробьев](speakers/Никита%20Воробьев.md)  | [:notebook:](https://drive.google.com/file/d/1QWVydIlf4b7n2JQtU7z-dJ4lGbpitqDs/view)   |
+| [Как работает NashStore — инсайды разработчиков российского магазина приложений](https://youtu.be/7O9NyBfuBPM)  |  [Владимир Зыков](speakers/Владимир%20Зыков.md)  | [:notebook:](https://docs.google.com/presentation/d/1Mc1d5L_Rhsq7ThXrdVda61hOXpy4MQsf/edit?rtpof=true&sd=true)   |
+| [Как быстро запускать PWA разработчикам и дизайнерам](https://youtu.be/e_7-9aiIydo)  |  [Кирилл Петров](speakers/Кирилл%20Петров.md)  | [:notebook:](https://docs.google.com/presentation/d/1GwFomc18LusSGT2g40AxXgRNeIoorLBpucKFIfJ4JAU/edit)   |
 ## HolyJS 2022 Piter - Jun 23 
 | | | |
 | --- | :---: | --- |
