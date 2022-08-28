@@ -1,0 +1,16 @@
+name: VK Tech Talks - Front End
+date: 2021-11-11
+videos: https://vk.com/wall-147415323_11324
+talks:
+  - name: Web Performance. Core Web Vitals
+    speaker: Денис Токарев
+    video: https://vk.com/video-147415323_456239618
+    presentation: https://vk.com/doc59164960_624016897
+  - name: VK Почта. Объединение фронтенда Mail.ru и ВКонтакте
+    speaker: Сергей Володин
+    video: https://vk.com/video-147415323_456239619
+    presentation: https://vk.com/doc59164960_624016834
+  - name: Каждому по стенду! Стенды для супераппа ВКонтакте
+    speaker: Сергей Пивоваров
+    video: https://vk.com/video-147415323_456239620
+    presentation: https://vk.com/doc59164960_624016719

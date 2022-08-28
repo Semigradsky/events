@@ -1,0 +1,16 @@
+name: VK Tech Talks - Front End
+date: 2019-12-31
+videos: https://vk.com/wall-147415323_3559
+talks:
+  - name: История одного рефакторинга, или Как до vk.com добрались фронтенд-разработчики
+    speaker: Илья Таратухин
+    video: https://vk.com/video-147415323_456239043
+    presentation: 
+  - name: Миллиарды показов в сутки. Как устроена реклама ВКонтакте
+    speaker: Илья Пеняев
+    video: https://vk.com/video-147415323_456239044
+    presentation: 
+  - name: Баги, которые вы никогда не встретите
+    speaker: Тимофей Чаптыков
+    video: https://vk.com/video-147415323_456239042
+    presentation: 

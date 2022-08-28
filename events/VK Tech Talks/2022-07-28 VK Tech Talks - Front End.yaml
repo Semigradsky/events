@@ -1,0 +1,16 @@
+name: VK Tech Talks - Front End
+date: 2022-07-28
+videos: https://vk.com/wall-147415323_13191
+talks:
+  - name: Интегрируем почту в мессенджер VK Teams
+    speaker: Денис Романюк
+    video: https://vk.com/video-147415323_456239795
+    presentation: https://vk.com/doc41795800_642760808
+  - name: Безопасный деплой на тысячи серверов
+    speaker: Юрий Голубев
+    video: https://vk.com/video-147415323_456239797
+    presentation: https://vk.com/doc41795800_642760820
+  - name: "Web Vitals: увидеть и оптимизировать"
+    speaker: Артём Белов
+    video: https://vk.com/video-147415323_456239796
+    presentation: https://vk.com/doc41795800_642760980
