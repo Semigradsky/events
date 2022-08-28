@@ -1,0 +1,12 @@
+name: Я.Субботник по дизайну и разработке интерфейсов
+date: 2021-12-11
+videos: https://www.youtube.com/watch?v=zN2SENJu6Ns
+talks:
+  - name: Как бы, html для, как бы, браузера
+    speaker: Семён Левенсон
+    video: https://youtu.be/zN2SENJu6Ns?t=5661
+    presentation: 
+  - name: Интерфейс для телевизора
+    speaker: Вадим Матвеев
+    video: https://youtu.be/zN2SENJu6Ns?t=8592
+    presentation: 

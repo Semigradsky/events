@@ -1,0 +1,24 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2022-08-20
+videos: https://www.youtube.com/watch?v=A_7-hGxLseY
+talks:
+  - name: Расширяем возможности визуализации геоданных
+    speaker: Артём Боюр
+    video: https://www.youtube.com/watch?v=A_7-hGxLseY&t=507s
+    presentation: 
+  - name: Как мы вывели Code Style в Практикуме на следующий уровень
+    speaker: Софья Гусева
+    video: https://www.youtube.com/watch?v=A_7-hGxLseY&t=2777s
+    presentation: 
+  - name: Ограничения на размер типов данных в Node.js и браузерах
+    speaker: Виктор Хомяков
+    video: https://www.youtube.com/watch?v=A_7-hGxLseY&t=7275s
+    presentation: 
+  - name: Засланец из Морды
+    speaker: Александр Нефедов
+    video: https://www.youtube.com/watch?v=A_7-hGxLseY&t=10398s
+    presentation: 
+  - name: Monaco-editor. От формальных грамматик до синхронизации с формами
+    speaker: Александр Николаичев
+    video: https://www.youtube.com/watch?v=A_7-hGxLseY&t=12734s
+    presentation: 
