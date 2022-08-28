@@ -1,0 +1,16 @@
+name: UfaDevConf 2022
+date: 2022-10-29
+videos: 
+talks:
+  - name: Дорогой Lodash, почему ты в моей сборке?
+    speaker: Никита Сидоров
+    video: 
+    presentation: 
+  - name: Микрофронтенд в Макроприложениях
+    speaker: Зар Захаров
+    video: 
+    presentation: 
+  - name: О систематизировании дизайна в большом продукте
+    speaker: Семён Левенсон
+    video: 
+    presentation: 
