@@ -1,0 +1,16 @@
+name: Samokat.tech Meetup – Frontend
+date: 2022-08-19
+videos: https://youtu.be/yIE2fFFrAlM
+talks:
+  - name: Тестирование современного фронтенда
+    speaker: Александр Моргунов
+    video: https://youtu.be/yIE2fFFrAlM?t=2485
+    presentation: 
+  - name: Как жить фронтенду в микросервисном мире
+    speaker: Ульян Мудраков
+    video: https://youtu.be/yIE2fFFrAlM?t=6453
+    presentation: 
+  - name: Автоматическая документация через тесты
+    speaker: Виктор Пасынок
+    video: https://youtu.be/yIE2fFFrAlM?t=485
+    presentation: 
