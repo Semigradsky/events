@@ -1,0 +1,21 @@
+name: Ural Digital Weekend 2022
+date: 2022-07-08
+videos: https://www.youtube.com/playlist?list=PLFs2H3FRqePoapmGjIDspzdhLSztEixQO
+talks:
+  - name: Разработка SPA-фронтенда для визуализации данных об аэропортах на React, TypeScript
+    speaker: Владилен Минин
+    video: https://youtu.be/CGecAcZIGys
+    presentation: 
+    code: https://github.com/Ural-Digital-Weekend/Frontend
+  - name: Ускоряем разработку при помощи Contract First Principle
+    speaker: Глеб Михеев
+    video: https://youtu.be/f6vrRCB_wwg
+    presentation: https://drive.google.com/file/d/1ss6OvqQ_Jic4_3bRKDFdDFTDDPLcFrx6/view
+  - name: Веб-страница работает медленно, пользователи жалуются, команда не знает, что делать
+    speaker: Сергей Иванов
+    video: https://youtu.be/ow3eE1LokQ0
+    presentation: https://drive.google.com/file/d/1_Xxn-4HuMRrCRrhUBvecxw4nei0Wxqk8/view
+  - name: Как поиск Яндекса переезжал на Реакт
+    speaker: Константин Носов
+    video: https://youtu.be/4EKf5LS489g
+    presentation: 
