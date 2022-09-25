@@ -12,8 +12,9 @@ talks:
     presentation: 
   - name: "WebHID API: управление почти чем угодно из браузера"
     speaker: Никита Дубко
-    video: 
-    presentation: 
+    video: https://youtu.be/p9Nc3TaCdKw
+    presentation: https://squidex.jugru.team/api/assets/srm/503aa129-fa5e-44ce-9c3a-03548d227cab/webhid-api-upravlenie-pochti-chem-ugodno-iz-brauzera.pdf
+    text: https://habr.com/ru/company/jugru/blog/685534/
   - name: Что такое Shared UI и как он нам помог
     speaker: Дмитрий Боровский
     video: 

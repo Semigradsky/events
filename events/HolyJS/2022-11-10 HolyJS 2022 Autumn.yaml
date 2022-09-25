@@ -1,4 +1,20 @@
 name: HolyJS 2022 Autumn
 date: 2022-11-10
 videos: 
-talks: []
+talks: 
+  - name: Гигантизм Reatom
+    speaker: Артём Арутюнян
+    video: 
+    presentation: 
+  - name: "Workshop: how to develop, build, and deploy Node.js microservices with NestJS & Pulumi"
+    speaker: Александр Коржиков
+    video: 
+    presentation: 
+  - name: High refresh web
+    speaker: Александр Мышов
+    video: 
+    presentation: 
+  - name: "Планировщик задач: не замораживаем вкладку при открытии страницы"
+    speaker: Виктор Хомяков
+    video: 
+    presentation: 

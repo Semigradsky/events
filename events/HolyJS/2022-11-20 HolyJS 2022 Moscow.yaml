@@ -1,4 +1,20 @@
 name: HolyJS 2022 Moscow
 date: 2022-11-20
 videos: 
-talks: []
+talks:
+  - name: "There and back again, или Нужно ли становиться руководителем"
+    speaker: Владимир Гриненко, Виталий Харисов
+    video: 
+    presentation: 
+  - name: WebTransport
+    speaker: Андрей Власов, Василий Маркитан
+    video: 
+    presentation: 
+  - name: Performant-стратегия загрузки веб-шрифтов
+    speaker: Артём Белов
+    video: 
+    presentation: 
+  - name: "Event Sourcing: глубокое погружение"
+    speaker: Антон Жуков
+    video: 
+    presentation: 
