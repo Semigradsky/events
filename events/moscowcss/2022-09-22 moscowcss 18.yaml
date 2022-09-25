@@ -1,0 +1,16 @@
+name: moscowcss 18
+date: 2022-09-22
+videos: https://youtu.be/VKzK1VkD-LU
+talks:
+  - name: Там, где заканчивается макет и начинается верстка
+    speaker: Шкульник Дмитрий
+    video: 
+    presentation: 
+  - name: "CSS, который вы ~забыли~ заслужили"
+    speaker: Оловянников Илья
+    video: 
+    presentation: 
+  - name: "Значения в CSS: от декларации до отображения"
+    speaker: Валитова София
+    video: 
+    presentation: 
