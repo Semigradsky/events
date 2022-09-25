@@ -8,7 +8,7 @@
 | --- | :---: | --- |
 | R&amp;D: разработчики и дураки  |  [Евгений Кот](../../speakers/Евгений%20Кот.md)  |    |
 | Когда лагает интерфейс  |  [Артём Белов](../../speakers/Артём%20Белов.md)  |    |
-| WebHID API: управление почти чем угодно из браузера  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [WebHID API: управление почти чем угодно из браузера](https://youtu.be/p9Nc3TaCdKw)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/503aa129-fa5e-44ce-9c3a-03548d227cab/webhid-api-upravlenie-pochti-chem-ugodno-iz-brauzera.pdf)  [:spiral_notepad:](https://habr.com/ru/company/jugru/blog/685534/) |
 | Что такое Shared UI и как он нам помог  |  [Дмитрий Боровский](../../speakers/Дмитрий%20Боровский.md)  |    |
 | Открываем все секреты React Context API  |  [Александр Бальцевич](../../speakers/Александр%20Бальцевич.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/d0efb413-84b5-435a-958e-e238118d8e58/context-api-presentation.pdf)   |
 | Жесть для Jest: Round 2. Fight!  |  [Сергей Мелюков](../../speakers/Сергей%20Мелюков.md)  |    |

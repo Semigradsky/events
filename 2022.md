@@ -3,6 +3,16 @@
 
 # Events / 2022 / [2021](/2021.md) / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## Асинхронный рендеринг в React 18 и принципы практичного рефакторинга - Sep 15 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;vRq9UtVhP_8)
+| | | |
+| --- | :---: | --- |
+| [Рефакторинг. Как поджечь свой велосипед и не пожалеть об этом?](https://www.youtube.com/watch?v=vRq9UtVhP_8&t=375s)  |  [Глеб Лобастов](speakers/Глеб%20Лобастов.md)  |    |
+| [Чудеса асинхронного рендеринга](https://www.youtube.com/watch?v=vRq9UtVhP_8&t=3496s)  |  [Арсений Рубцов](speakers/Арсений%20Рубцов.md)  |    |
+## GDG Minsk Web August Meetup - Aug 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLIe-9RbQwa5oLNfl3sp7RT7uZFQCxanr8)
+| | | |
+| --- | :---: | --- |
+| [High refresh web](https://youtu.be/bnHTkRoHdhQ?t=744)  |  [Мышов Александр](speakers/Мышов%20Александр.md)  |    |
+| [RTL - это правда очень просто](https://youtu.be/ubDcMQMSoxI)  |  [София Валитова](speakers/София%20Валитова.md)  | [:notebook:](https://ariarzer.github.io/presentation_writing_modes/)   |
 ## Я.Субботник по разработке интерфейсов - Aug 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;A_7-hGxLseY)
 | | | |
 | --- | :---: | --- |
@@ -52,6 +62,13 @@
 | --- | :---: | --- |
 | [NestJS для решения проблем разрастающейся разработки: зачем так сложно и почему всё-таки да](https://youtu.be/az6CMoO_mFM?t=283)  |  [Денис Былинин](speakers/Денис%20Былинин.md)  |    |
 | [Эволюция подходов по работе с таблицами в вебе: что меняется на пути от нескольких сотен до десятков тысяч строк во фронтенде твоей таблицы и где подстелить соломку](https://youtu.be/az6CMoO_mFM?t=2552)  |  [Анна Ланда](speakers/Анна%20Ланда.md)  |    |
+## Ural Digital Weekend 2022 - Jul 08 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLFs2H3FRqePoapmGjIDspzdhLSztEixQO)
+| | | |
+| --- | :---: | --- |
+| [Разработка SPA-фронтенда для визуализации данных об аэропортах на React, TypeScript](https://youtu.be/CGecAcZIGys)  |  [Владилен Минин](speakers/Владилен%20Минин.md)  |  [:octocat:](https://github.com/Ural-Digital-Weekend/Frontend)  |
+| [Ускоряем разработку при помощи Contract First Principle](https://youtu.be/f6vrRCB_wwg)  |  [Глеб Михеев](speakers/Глеб%20Михеев.md)  | [:notebook:](https://drive.google.com/file/d/1ss6OvqQ_Jic4_3bRKDFdDFTDDPLcFrx6/view)   |
+| [Веб-страница работает медленно, пользователи жалуются, команда не знает, что делать](https://youtu.be/ow3eE1LokQ0)  |  [Сергей Иванов](speakers/Сергей%20Иванов.md)  | [:notebook:](https://drive.google.com/file/d/1_Xxn-4HuMRrCRrhUBvecxw4nei0Wxqk8/view)   |
+| [Как поиск Яндекса переезжал на Реакт](https://youtu.be/4EKf5LS489g)  |  [Константин Носов](speakers/Константин%20Носов.md)  |    |
 ## Design is Frontend 6 - Jun 27-30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLMaGvc6xzk3A9MkuCu3KeLf4Wh_7-MjlG)
 | | | |
 | --- | :---: | --- |
@@ -64,7 +81,7 @@
 | --- | :---: | --- |
 | R&amp;D: разработчики и дураки  |  [Евгений Кот](speakers/Евгений%20Кот.md)  |    |
 | Когда лагает интерфейс  |  [Артём Белов](speakers/Артём%20Белов.md)  |    |
-| WebHID API: управление почти чем угодно из браузера  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [WebHID API: управление почти чем угодно из браузера](https://youtu.be/p9Nc3TaCdKw)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/503aa129-fa5e-44ce-9c3a-03548d227cab/webhid-api-upravlenie-pochti-chem-ugodno-iz-brauzera.pdf)  [:spiral_notepad:](https://habr.com/ru/company/jugru/blog/685534/) |
 | Что такое Shared UI и как он нам помог  |  [Дмитрий Боровский](speakers/Дмитрий%20Боровский.md)  |    |
 | Открываем все секреты React Context API  |  [Александр Бальцевич](speakers/Александр%20Бальцевич.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/d0efb413-84b5-435a-958e-e238118d8e58/context-api-presentation.pdf)   |
 | Жесть для Jest: Round 2. Fight!  |  [Сергей Мелюков](speakers/Сергей%20Мелюков.md)  |    |

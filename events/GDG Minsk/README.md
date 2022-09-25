@@ -3,6 +3,11 @@
 
 # GDG Minsk
 
+## GDG Minsk Web August Meetup - 2022 Aug 30 [:movie_camera:](https://www.youtube.com/playlist?list=PLIe-9RbQwa5oLNfl3sp7RT7uZFQCxanr8)
+| | | |
+| --- | :---: | --- |
+| [High refresh web](https://youtu.be/bnHTkRoHdhQ?t=744)  |  [Мышов Александр](../../speakers/Мышов%20Александр.md)  |    |
+| [RTL - это правда очень просто](https://youtu.be/ubDcMQMSoxI)  |  [София Валитова](../../speakers/София%20Валитова.md)  | [:notebook:](https://ariarzer.github.io/presentation_writing_modes/)   |
 ## GDG Minsk Web November Meetup - 2021 Nov 30 [:movie_camera:](https://www.youtube.com/watch?v=7DGu75USDz4)
 | | | |
 | --- | :---: | --- |
