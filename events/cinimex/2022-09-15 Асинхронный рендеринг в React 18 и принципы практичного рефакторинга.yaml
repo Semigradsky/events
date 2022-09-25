@@ -1,0 +1,12 @@
+name: Асинхронный рендеринг в React 18 и принципы практичного рефакторинга
+date: 2022-09-15
+videos: https://www.youtube.com/watch?v=vRq9UtVhP_8
+talks:
+  - name: "Рефакторинг. Как поджечь свой велосипед и не пожалеть об этом?"
+    speaker: Глеб Лобастов
+    video: https://www.youtube.com/watch?v=vRq9UtVhP_8&t=375s
+    presentation: 
+  - name: Чудеса асинхронного рендеринга
+    speaker: Арсений Рубцов
+    video: https://www.youtube.com/watch?v=vRq9UtVhP_8&t=3496s
+    presentation: 
