@@ -1,12 +1,12 @@
 name: GDG Minsk Web August Meetup
 date: 2022-08-30
-videos: https://youtu.be/bnHTkRoHdhQ
+videos: https://www.youtube.com/playlist?list=PLIe-9RbQwa5oLNfl3sp7RT7uZFQCxanr8
 talks:
   - name: High refresh web
     speaker: Мышов Александр
-    video: 
+    video: https://youtu.be/bnHTkRoHdhQ?t=744
     presentation: 
   - name: RTL - это правда очень просто
     speaker: София Валитова
-    video: 
-    presentation: 
+    video: https://youtu.be/ubDcMQMSoxI
+    presentation: https://ariarzer.github.io/presentation_writing_modes/
