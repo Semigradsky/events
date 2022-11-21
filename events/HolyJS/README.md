@@ -3,38 +3,38 @@
 
 # HolyJS
 
-## HolyJS 2022 Piter - 2022 Jun 23 
+## HolyJS 2022 Piter - 2022 Jun 23 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8Jw85SPsPfxTCZ8QD16smhk)
 | | | |
 | --- | :---: | --- |
-| R&amp;D: разработчики и дураки  |  [Евгений Кот](../../speakers/Евгений%20Кот.md)  |    |
-| Когда лагает интерфейс  |  [Артём Белов](../../speakers/Артём%20Белов.md)  |    |
+| [R&amp;D: разработчики и дураки](https://youtu.be/tuyeFqsbfUw)  |  [Евгений Кот](../../speakers/Евгений%20Кот.md)  |    |
+| [Когда лагает интерфейс](https://youtu.be/xKvAYkiu87Q)  |  [Артём Белов](../../speakers/Артём%20Белов.md)  |    |
 | [WebHID API: управление почти чем угодно из браузера](https://youtu.be/p9Nc3TaCdKw)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/503aa129-fa5e-44ce-9c3a-03548d227cab/webhid-api-upravlenie-pochti-chem-ugodno-iz-brauzera.pdf)  [:spiral_notepad:](https://habr.com/ru/company/jugru/blog/685534/) |
-| Что такое Shared UI и как он нам помог  |  [Дмитрий Боровский](../../speakers/Дмитрий%20Боровский.md)  |    |
-| Открываем все секреты React Context API  |  [Александр Бальцевич](../../speakers/Александр%20Бальцевич.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/d0efb413-84b5-435a-958e-e238118d8e58/context-api-presentation.pdf)   |
-| Жесть для Jest: Round 2. Fight!  |  [Сергей Мелюков](../../speakers/Сергей%20Мелюков.md)  |    |
-| ML на клиенте: тренируемся на белочках  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/11ba6623-f207-46ee-9a13-9c8ead67226a/ml-holyjs.pdf)   |
-| Кубический мир на JavaScript, продолжение  |  [Иван Попелышев](../../speakers/Иван%20Попелышев.md)  |    |
+| [Что такое Shared UI и как он нам помог](https://youtu.be/0cb-0KZJbV0)  |  [Дмитрий Боровский](../../speakers/Дмитрий%20Боровский.md)  |    |
+| [Открываем все секреты React Context API](https://youtu.be/BKCOeBBS5OE)  |  [Александр Бальцевич](../../speakers/Александр%20Бальцевич.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/d0efb413-84b5-435a-958e-e238118d8e58/context-api-presentation.pdf)   |
+| [Жесть для Jest: Round 2. Fight!](https://youtu.be/d8AooonlSaY)  |  [Сергей Мелюков](../../speakers/Сергей%20Мелюков.md)  |    |
+| [ML на клиенте: тренируемся на белочках](https://youtu.be/IPriWalvyWE)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/11ba6623-f207-46ee-9a13-9c8ead67226a/ml-holyjs.pdf)   |
+| [Кубический мир на JavaScript, продолжение](https://youtu.be/w8wQcsZEvpw)  |  [Иван Попелышев](../../speakers/Иван%20Попелышев.md)  |    |
 ## HolyJS 2022 Spring - 2022 Jun 08-10 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8K6ytqC6yjEFVaatyYT7zzR)
 | | | |
 | --- | :---: | --- |
-| Нейрофизиология сложности кода  |  [Григорий Петров](../../speakers/Григорий%20Петров.md)  |    |
-| Redux + Canvas &#x3D; Love  |  [Руслан Тютин](../../speakers/Руслан%20Тютин.md)  |    |
-| Неизбежность тонкого клиента  |  [Алексей Фомкин](../../speakers/Алексей%20Фомкин.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/be06c67c-f337-4a1a-b6bd-e840622e0f24/holyjs-2022.6.-neizbezhnosts-tonkogo-klienta.pdf)   |
-| Фронтенд: Графы. Сборка. Мертвый код  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/2713296a-c538-48c2-9b4c-364461644c34/holyjs2022-final.pdf)   |
+| [Нейрофизиология сложности кода](https://youtu.be/ush4p9FdJk4)  |  [Григорий Петров](../../speakers/Григорий%20Петров.md)  |    |
+| [Redux + Canvas &#x3D; Love](https://youtu.be/oGLflzuG5I0)  |  [Руслан Тютин](../../speakers/Руслан%20Тютин.md)  |    |
+| [Неизбежность тонкого клиента](https://youtu.be/hQ48yowgHSY)  |  [Алексей Фомкин](../../speakers/Алексей%20Фомкин.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/be06c67c-f337-4a1a-b6bd-e840622e0f24/holyjs-2022.6.-neizbezhnosts-tonkogo-klienta.pdf)   |
+| [Фронтенд: Графы. Сборка. Мертвый код](https://youtu.be/7_hXJ-0rpng)  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/2713296a-c538-48c2-9b4c-364461644c34/holyjs2022-final.pdf)   |
 | Безопасность данных: построение архитектуры при интеграции алгоритмов шифрования в приложении для финансового учета  |  [Алексей Прусс](../../speakers/Алексей%20Прусс.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/639d6bab-5fed-4013-8516-4c62ab730a9c/holyjs-pruss-arhitektura-shifrovaniya.pptx)   |
-| Пишем фронтенд в банке без гипертонии  |  [Ришат Габайдуллов](../../speakers/Ришат%20Габайдуллов.md)  |    |
-| Wasm GC  |  [Дмитрий Бежецков](../../speakers/Дмитрий%20Бежецков.md)  |    |
-| Кубический мир на JavaScript  |  [Иван Попелышев](../../speakers/Иван%20Попелышев.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/7a48832d-ddc3-47cf-bf2e-93b1884d53a2/holyjs-2022-spring-online-kubicheskii-mir-na-javascript.pdf)   |
-| Передача видео без потери качества в WebRTC: опыт VK Звонков  |  [Николай Васильчук](../../speakers/Николай%20Васильчук.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/bbac7c9a-26a1-4edd-9384-e6911c0a508e/holyjs-2022-vasilchuk.pdf)   |
-| Не баг, а фича: разбираем компромиссы в дизайне языка TypeScript  |  [Андрей Старовойт](../../speakers/Андрей%20Старовойт.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/3fef4db1-4bcf-476d-b7c9-74afc7233a0d/trade-offs-holyjs-june.key)   |
-| «А поговорить?», или Что мы знаем о голосовых возможностях в браузерах  |  [Ольга Болотова](../../speakers/Ольга%20Болотова.md)  |    |
-| Микросервис головного мозга. Ускоряем разработку до предела  |  [Михаил Трифонов](../../speakers/Михаил%20Трифонов.md)  |    |
-| [Воркшоп] Тысяча маленьких контроллеров: пишем весь бэкенд на лямбдах  |  [Дарья Дудник](../../speakers/Дарья%20Дудник.md)  |    |
-| npm-уязвимости: вызов принят  |  [Анто Голуб](../../speakers/Анто%20Голуб.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/5f08d7c7-00d4-4387-bd22-370b7660d9d7/holyjs-2020-spring-slides-reforged.pptx)   |
-| Как подружить Angular и React в одном приложении  |  [Максим Максимов](../../speakers/Максим%20Максимов.md)  |    |
-| Как проектировать Хорошие Большие приложения  |  [Олег Иванов](../../speakers/Олег%20Иванов.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/362fcc3b-b915-476f-b250-78a2477fa472/oleg-ivanov-k-holyjs.pdf)   |
-| Крестовый поход против легаси в фронтенд-проектах  |  [Василиса Версус](../../speakers/Василиса%20Версус.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/e4f2d099-e284-484d-9cdd-737e13f33b48/holyjs-2022-spring.pdf)   |
-| Создание интерактивных визуализаций на D3.js и React  |  [Наталия Степанова](../../speakers/Наталия%20Степанова.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/5801583c-bbf1-4474-80a6-8836e8c5606b/holyjs.pdf)   |
+| [Пишем фронтенд в банке без гипертонии](https://youtu.be/Pen8ckiOahI)  |  [Ришат Габайдуллов](../../speakers/Ришат%20Габайдуллов.md)  |    |
+| [Wasm GC](https://youtu.be/OIa64GRzbsg)  |  [Дмитрий Бежецков](../../speakers/Дмитрий%20Бежецков.md)  |    |
+| [Кубический мир на JavaScript](https://youtu.be/4WMk5krAVL0)  |  [Иван Попелышев](../../speakers/Иван%20Попелышев.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/7a48832d-ddc3-47cf-bf2e-93b1884d53a2/holyjs-2022-spring-online-kubicheskii-mir-na-javascript.pdf)   |
+| [Передача видео без потери качества в WebRTC: опыт VK Звонков](https://youtu.be/ZGUYxjgh5yc)  |  [Николай Васильчук](../../speakers/Николай%20Васильчук.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/bbac7c9a-26a1-4edd-9384-e6911c0a508e/holyjs-2022-vasilchuk.pdf)   |
+| [Не баг, а фича: разбираем компромиссы в дизайне языка TypeScript](https://youtu.be/xJOfPTJb_DU)  |  [Андрей Старовойт](../../speakers/Андрей%20Старовойт.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/3fef4db1-4bcf-476d-b7c9-74afc7233a0d/trade-offs-holyjs-june.key)   |
+| [«А поговорить?», или Что мы знаем о голосовых возможностях в браузерах](https://youtu.be/Sn2qdl-ieZM)  |  [Ольга Болотова](../../speakers/Ольга%20Болотова.md)  |    |
+| [Микросервис головного мозга. Ускоряем разработку до предела](https://youtu.be/fUx1drfn-QI)  |  [Михаил Трифонов](../../speakers/Михаил%20Трифонов.md)  |    |
+| [[Воркшоп] Тысяча маленьких контроллеров: пишем весь бэкенд на лямбдах](https://youtu.be/us41un1RibM,https://youtu.be/4ViUkYTaTDo)[[Воркшоп] Тысяча маленьких контроллеров: пишем весь бэкенд на лямбдах](https://youtu.be/us41un1RibM,https://youtu.be/4ViUkYTaTDo)  |  [Дарья Дудник](../../speakers/Дарья%20Дудник.md)  |    |
+| [npm-уязвимости: вызов принят](https://youtu.be/9k5719tHrTg)  |  [Анто Голуб](../../speakers/Анто%20Голуб.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/5f08d7c7-00d4-4387-bd22-370b7660d9d7/holyjs-2020-spring-slides-reforged.pptx)   |
+| [Как подружить Angular и React в одном приложении](https://youtu.be/wckxGiGNBg8)  |  [Максим Максимов](../../speakers/Максим%20Максимов.md)  |    |
+| [Как проектировать Хорошие Большие приложения](https://youtu.be/9940Bk0naV8)  |  [Олег Иванов](../../speakers/Олег%20Иванов.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/362fcc3b-b915-476f-b250-78a2477fa472/oleg-ivanov-k-holyjs.pdf)   |
+| [Крестовый поход против легаси в фронтенд-проектах](https://youtu.be/HG-lYZFV_B4)  |  [Василиса Версус](../../speakers/Василиса%20Версус.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/e4f2d099-e284-484d-9cdd-737e13f33b48/holyjs-2022-spring.pdf)   |
+| [Создание интерактивных визуализаций на D3.js и React](https://youtu.be/6arVw6BJfMU)  |  [Наталия Степанова](../../speakers/Наталия%20Степанова.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/5801583c-bbf1-4474-80a6-8836e8c5606b/holyjs.pdf)   |
 | [[Воркшоп] Готовим gRPC микросервисы в Node.js](https://youtu.be/kxQP0KRgD00,https://youtu.be/hjdVVCMlQF4)[[Воркшоп] Готовим gRPC микросервисы в Node.js](https://youtu.be/kxQP0KRgD00,https://youtu.be/hjdVVCMlQF4)  |  [Andrew Reddikh](../../speakers/Andrew%20Reddikh.md)  [Alexander Korzhikov](../../speakers/Alexander%20Korzhikov.md)  |  [:octocat:](https://github.com/x-technology/mono-repo-nodejs-svc-sample)  |
 | [Поймать дзен, работая над дизайн-системой Яндекс.Дзена](https://youtu.be/1ZxDw-wovws)  |  [Семён Левенсон](../../speakers/Семён%20Левенсон.md)  |    |
 | [Server-driven UI в вебе. Не пиши, а описывай свой фронтeнд](https://youtu.be/s4KnMVP9KL4)  |  [Виталий Полещук](../../speakers/Виталий%20Полещук.md)  [Степан Михайлюк](../../speakers/Степан%20Михайлюк.md)  |    |
