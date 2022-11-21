@@ -6,19 +6,19 @@ videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8K6ytqC6yjEFVaatyYT7zzR
 talks:
   - name: Нейрофизиология сложности кода
     speaker: Григорий Петров
-    video: 
+    video: https://youtu.be/ush4p9FdJk4
     presentation: 
   - name: Redux + Canvas = Love
     speaker: Руслан Тютин
-    video: 
+    video: https://youtu.be/oGLflzuG5I0
     presentation: 
   - name: Неизбежность тонкого клиента
     speaker: Алексей Фомкин
-    video: 
+    video: https://youtu.be/hQ48yowgHSY
     presentation: https://squidex.jugru.team/api/assets/srm/be06c67c-f337-4a1a-b6bd-e840622e0f24/holyjs-2022.6.-neizbezhnosts-tonkogo-klienta.pdf
   - name: "Фронтенд: Графы. Сборка. Мертвый код"
     speaker: Никита Сидоров
-    video: 
+    video: https://youtu.be/7_hXJ-0rpng
     presentation: https://squidex.jugru.team/api/assets/srm/2713296a-c538-48c2-9b4c-364461644c34/holyjs2022-final.pdf
   - name: "Безопасность данных: построение архитектуры при интеграции алгоритмов шифрования в приложении для финансового учета"
     speaker: Алексей Прусс
@@ -26,55 +26,57 @@ talks:
     presentation: https://squidex.jugru.team/api/assets/srm/639d6bab-5fed-4013-8516-4c62ab730a9c/holyjs-pruss-arhitektura-shifrovaniya.pptx
   - name: Пишем фронтенд в банке без гипертонии
     speaker: Ришат Габайдуллов
-    video: 
+    video: https://youtu.be/Pen8ckiOahI
     presentation: 
   - name: Wasm GC
     speaker: Дмитрий Бежецков
-    video: 
+    video: https://youtu.be/OIa64GRzbsg
     presentation: 
   - name: Кубический мир на JavaScript
     speaker: Иван Попелышев
-    video: 
+    video: https://youtu.be/4WMk5krAVL0
     presentation: https://squidex.jugru.team/api/assets/srm/7a48832d-ddc3-47cf-bf2e-93b1884d53a2/holyjs-2022-spring-online-kubicheskii-mir-na-javascript.pdf
   - name: "Передача видео без потери качества в WebRTC: опыт VK Звонков"
     speaker: Николай Васильчук
-    video: 
+    video: https://youtu.be/ZGUYxjgh5yc
     presentation: https://squidex.jugru.team/api/assets/srm/bbac7c9a-26a1-4edd-9384-e6911c0a508e/holyjs-2022-vasilchuk.pdf
   - name: "Не баг, а фича: разбираем компромиссы в дизайне языка TypeScript"
     speaker: Андрей Старовойт
-    video: 
+    video: https://youtu.be/xJOfPTJb_DU
     presentation: https://squidex.jugru.team/api/assets/srm/3fef4db1-4bcf-476d-b7c9-74afc7233a0d/trade-offs-holyjs-june.key
   - name: "«А поговорить?», или Что мы знаем о голосовых возможностях в браузерах"
     speaker: Ольга Болотова
-    video: 
+    video: https://youtu.be/Sn2qdl-ieZM
     presentation: 
   - name: Микросервис головного мозга. Ускоряем разработку до предела
     speaker: Михаил Трифонов
-    video: 
+    video: https://youtu.be/fUx1drfn-QI
     presentation: 
   - name: "[Воркшоп] Тысяча маленьких контроллеров: пишем весь бэкенд на лямбдах"
     speaker: Дарья Дудник
-    video: 
+    video:
+      - https://youtu.be/us41un1RibM
+      - https://youtu.be/4ViUkYTaTDo
     presentation: 
   - name: "npm-уязвимости: вызов принят"
     speaker: Анто Голуб
-    video: 
+    video: https://youtu.be/9k5719tHrTg
     presentation: https://squidex.jugru.team/api/assets/srm/5f08d7c7-00d4-4387-bd22-370b7660d9d7/holyjs-2020-spring-slides-reforged.pptx
   - name: Как подружить Angular и React в одном приложении
     speaker: Максим Максимов
-    video: 
+    video: https://youtu.be/wckxGiGNBg8
     presentation: 
   - name: Как проектировать Хорошие Большие приложения
     speaker: Олег Иванов
-    video: 
+    video: https://youtu.be/9940Bk0naV8
     presentation: https://squidex.jugru.team/api/assets/srm/362fcc3b-b915-476f-b250-78a2477fa472/oleg-ivanov-k-holyjs.pdf
   - name: Крестовый поход против легаси в фронтенд-проектах
     speaker: Василиса Версус
-    video: 
+    video: https://youtu.be/HG-lYZFV_B4
     presentation: https://squidex.jugru.team/api/assets/srm/e4f2d099-e284-484d-9cdd-737e13f33b48/holyjs-2022-spring.pdf
   - name: Создание интерактивных визуализаций на D3.js и React
     speaker: Наталия Степанова
-    video: 
+    video: https://youtu.be/6arVw6BJfMU
     presentation: https://squidex.jugru.team/api/assets/srm/5801583c-bbf1-4474-80a6-8836e8c5606b/holyjs.pdf
   - name: "[Воркшоп] Готовим gRPC микросервисы в Node.js"
     speaker: Andrew Reddikh, Alexander Korzhikov
