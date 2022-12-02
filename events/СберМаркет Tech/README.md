@@ -3,6 +3,12 @@
 
 # СберМаркет Tech
 
+## Frontend Meetup - 2022 Sep 06 [:movie_camera:](https://www.youtube.com/watch?v=-glbRXbIAGM)
+| | | |
+| --- | :---: | --- |
+| [Утечки памяти в JS](https://youtu.be/-glbRXbIAGM?t=159)  |  [Даниил Трофимов](../../speakers/Даниил%20Трофимов.md)  |    |
+| [WTF is FP?](https://youtu.be/-glbRXbIAGM?t=2311)  |  [Виталий Сергеев](../../speakers/Виталий%20Сергеев.md)  |    |
+| [Пишем браузерное расширение с нуля](https://youtu.be/-glbRXbIAGM?t=4697)  |  [Костуров Георгий](../../speakers/Костуров%20Георгий.md)  |    |
 ## React Native Meetup - 2021 Jul 22 [:movie_camera:](https://www.youtube.com/watch?app=desktop&v=GIMs2bZ0yww)
 | | | |
 | --- | :---: | --- |

@@ -8,6 +8,18 @@
 | --- | :---: | --- |
 | [Рефакторинг. Как поджечь свой велосипед и не пожалеть об этом?](https://www.youtube.com/watch?v=vRq9UtVhP_8&t=375s)  |  [Глеб Лобастов](speakers/Глеб%20Лобастов.md)  |    |
 | [Чудеса асинхронного рендеринга](https://www.youtube.com/watch?v=vRq9UtVhP_8&t=3496s)  |  [Арсений Рубцов](speakers/Арсений%20Рубцов.md)  |    |
+## Evrone Frontend meetup - Sep 14 
+| | | |
+| --- | :---: | --- |
+| [Формы: костыли для библиотек или долгострой велосипедов](https://youtu.be/KmBpvnh8kU8)  |  [Фёдор Кирпичёв](speakers/Фёдор%20Кирпичёв.md)  |    |
+| [Как мы вывели Code Style в Практикуме на следующий уровень](https://youtu.be/oGy9b1vK9lA)  |  [Софья Гусева](speakers/Софья%20Гусева.md)  |    |
+| Отдел разработки без бэкенда: растим фронтенд и сохраняем бюджет клиента  |  [Владислав Худяков](speakers/Владислав%20Худяков.md)  |    |
+## Frontend Meetup - Sep 06 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;-glbRXbIAGM)
+| | | |
+| --- | :---: | --- |
+| [Утечки памяти в JS](https://youtu.be/-glbRXbIAGM?t=159)  |  [Даниил Трофимов](speakers/Даниил%20Трофимов.md)  |    |
+| [WTF is FP?](https://youtu.be/-glbRXbIAGM?t=2311)  |  [Виталий Сергеев](speakers/Виталий%20Сергеев.md)  |    |
+| [Пишем браузерное расширение с нуля](https://youtu.be/-glbRXbIAGM?t=4697)  |  [Костуров Георгий](speakers/Костуров%20Георгий.md)  |    |
 ## GDG Minsk Web August Meetup - Aug 30 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLIe-9RbQwa5oLNfl3sp7RT7uZFQCxanr8)
 | | | |
 | --- | :---: | --- |
@@ -57,6 +69,13 @@
 | [Интегрируем почту в мессенджер VK Teams](https://vk.com/video-147415323_456239795)  |  [Денис Романюк](speakers/Денис%20Романюк.md)  | [:notebook:](https://vk.com/doc41795800_642760808)   |
 | [Безопасный деплой на тысячи серверов](https://vk.com/video-147415323_456239797)  |  [Юрий Голубев](speakers/Юрий%20Голубев.md)  | [:notebook:](https://vk.com/doc41795800_642760820)   |
 | [Web Vitals: увидеть и оптимизировать](https://vk.com/video-147415323_456239796)  |  [Артём Белов](speakers/Артём%20Белов.md)  | [:notebook:](https://vk.com/doc41795800_642760980)   |
+## X5 Frontend Meetup - Jul 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ZR-VAQSbUro)
+| | | |
+| --- | :---: | --- |
+| [Чего не стоит делать при разработке ui-kit?](https://youtu.be/ZR-VAQSbUro?t=2008)  |  [Михаил Хромов](speakers/Михаил%20Хромов.md)  |    |
+| [Чат — и точка. Хочу как в Telegram](https://youtu.be/ZR-VAQSbUro?t=4301)  |  [Константин Бердышев](speakers/Константин%20Бердышев.md)  |    |
+| [Архитектура универсальных веб-приложений](https://youtu.be/ZR-VAQSbUro?t=8116)  |  [Глеб Михеев](speakers/Глеб%20Михеев.md)  |    |
+| [Да кто такой этот ваш нетворкинг?](https://youtu.be/ZR-VAQSbUro?t=10068)  |  [Лена Райан](speakers/Лена%20Райан.md)  |    |
 ## Sravni Tech Meetup - Jul 21 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;az6CMoO_mFM)
 | | | |
 | --- | :---: | --- |
