@@ -1,16 +1,16 @@
 name: Frontend Meetup
-date: 2020-09-06
-videos: 
+date: 2022-09-06
+videos: https://www.youtube.com/watch?v=-glbRXbIAGM
 talks:
   - name: Утечки памяти в JS
     speaker: Даниил Трофимов
-    video: 
+    video: https://youtu.be/-glbRXbIAGM?t=159
     presentation: 
   - name: WTF is FP?
     speaker: Виталий Сергеев
-    video: 
+    video: https://youtu.be/-glbRXbIAGM?t=2311
     presentation: 
   - name: Пишем браузерное расширение с нуля 
     speaker: Костуров Георгий
-    video: 
+    video: https://youtu.be/-glbRXbIAGM?t=4697
     presentation: 

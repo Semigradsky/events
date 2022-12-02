@@ -1,0 +1,16 @@
+name: Frontend Meetup
+date: 2022-12-01
+videos: 
+talks:
+  - name: Запускаем микрофонты
+    speaker: Данил Чушко
+    video: 
+    presentation:
+  - name: Архитектура универсальных веб-приложений
+    speaker: Глеб Михеев
+    video: 
+    presentation: 
+  - name: Тестирование современного фронтенда
+    speaker: Александр Моргунов
+    video: 
+    presentation: 
