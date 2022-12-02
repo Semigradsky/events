@@ -1,0 +1,16 @@
+name: Evrone Frontend meetup
+date: 2022-09-14
+videos: 
+talks:
+  - name: "Формы: костыли для библиотек или долгострой велосипедов"
+    speaker: Фёдор Кирпичёв
+    video: https://youtu.be/KmBpvnh8kU8
+    presentation: 
+  - name: Как мы вывели Code Style в Практикуме на следующий уровень
+    speaker: Софья Гусева
+    video: https://youtu.be/oGy9b1vK9lA
+    presentation: 
+  - name: "Отдел разработки без бэкенда: растим фронтенд и сохраняем бюджет клиента"
+    speaker: Владислав Худяков
+    video: 
+    presentation: 

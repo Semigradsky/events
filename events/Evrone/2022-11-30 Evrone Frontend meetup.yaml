@@ -1,0 +1,16 @@
+name: Evrone Frontend meetup
+date: 2022-11-30
+videos: 
+talks:
+  - name: Dprint - Форматирование на максимальной скорости
+    speaker: Андрей Поляков
+    video: 
+    presentation: 
+  - name: "Новые рецепты. React(Vue) Query вместо вашего любимого state manager"
+    speaker: Евгений Паромов
+    video: 
+    presentation: 
+  - name: Организация сложных многоступенчатых форм на VueJS
+    speaker: Роман Троицкий
+    video: 
+    presentation: 
