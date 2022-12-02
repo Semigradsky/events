@@ -4,17 +4,17 @@ videos: https://www.youtube.com/watch?v=ZR-VAQSbUro
 talks:
   - name: Чего не стоит делать при разработке ui-kit?
     speaker: Михаил Хромов
-    video: 
+    video: https://youtu.be/ZR-VAQSbUro?t=2008
     presentation: 
   - name: "Чат — и точка. Хочу как в Telegram"
     speaker: Константин Бердышев
-    video: 
+    video: https://youtu.be/ZR-VAQSbUro?t=4301
     presentation: 
   - name: Архитектура универсальных веб-приложений
     speaker: Глеб Михеев
-    video: 
+    video: https://youtu.be/ZR-VAQSbUro?t=8116
     presentation: 
   - name: Да кто такой этот ваш нетворкинг?
     speaker: Лена Райан
-    video: 
+    video: https://youtu.be/ZR-VAQSbUro?t=10068
     presentation: 
