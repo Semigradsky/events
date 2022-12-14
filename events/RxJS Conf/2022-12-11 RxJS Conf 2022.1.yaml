@@ -10,7 +10,7 @@ talks:
     speaker: Александр Инкин
     video: https://www.youtube.com/watch?v=012hWR7Xuas&t=4560s
     presentation: 
-  - name: Шедулеры в RxJS
+  - name: Таинственные шедулеры RxJS в море асинхронных чудовищ
     speaker: Сэм Булатов
     video: https://www.youtube.com/watch?v=012hWR7Xuas&t=6840s
     presentation: 

@@ -6,7 +6,7 @@ videos:
 talks:
   - name: Flutter и веб-разработка. Тварь ли дрожащая или право имеет?
     speaker: Александр Денисов
-    video: 
+    video: https://youtu.be/p6qUCcOsX5A
     presentation: 
   - name: Развитие b2b проекта от шаблона к SPA. Как понять бизнес, не тратясь на рефакторинг
     speaker: Виталий Копачев
@@ -18,22 +18,22 @@ talks:
     presentation: https://mefody.github.io/talks/web-future/404.html
   - name: Условно адаптивно
     speaker: Вадим Макеев
-    video: 
+    video: https://youtu.be/KQnO_r6X4LY
     presentation: 
   - name: Используем USB-токены для аутентификации в браузере
     speaker: Алексей Авдеев
     video: 
     presentation: 
   - name: "Web Performance: 101"
-    speaker: Артём Белов, Александра Полищук
-    video: 
+    speaker: Артём Белов
+    video: https://youtu.be/Tqlgd5GqgIw
     presentation: 
   - name: Докручиваем ApolloClient до интерпрайзной разработки
     speaker: Павел Черторогов
     video: 
     presentation: 
   - name: Сам себе дизайнер
-    speaker: Юлия Миоцен, Александра Годун
+    speaker: Юлия Миоцен
     video: 
     presentation: 
   - name: PWA - время пришло
