@@ -1,0 +1,16 @@
+name: RxJS Conf 2022.1
+date: 2022-12-11
+videos: https://www.youtube.com/watch?v=012hWR7Xuas
+talks:
+  - name: Готовим безопасный и читаемый RxJS
+    speaker: Денис Макаров
+    video: https://www.youtube.com/watch?v=012hWR7Xuas&t=930s
+    presentation: 
+  - name: Область взаимодействия пользователя
+    speaker: Александр Инкин
+    video: https://www.youtube.com/watch?v=012hWR7Xuas&t=4560s
+    presentation: 
+  - name: Шедулеры в RxJS
+    speaker: Сэм Булатов
+    video: https://www.youtube.com/watch?v=012hWR7Xuas&t=6840s
+    presentation: 
