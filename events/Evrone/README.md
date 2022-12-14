@@ -3,6 +3,12 @@
 
 # Evrone
 
+## Evrone Frontend meetup - 2022 Nov 30 
+| | | |
+| --- | :---: | --- |
+| [Dprint - Форматирование на максимальной скорости](https://www.youtube.com/watch?v=6GYei6pL-DE)  |  [Андрей Поляков](../../speakers/Андрей%20Поляков.md)  |    |
+| [Новые рецепты. React(Vue) Query вместо вашего любимого state manager](https://www.youtube.com/watch?v=vHWJaVRV-6w)  |  [Евгений Паромов](../../speakers/Евгений%20Паромов.md)  |    |
+| [Организация сложных многоступенчатых форм на VueJS](https://www.youtube.com/watch?v=KtQ4LTTN_s0)  |  [Роман Троицкий](../../speakers/Роман%20Троицкий.md)  |    |
 ## Evrone Frontend meetup - 2022 Sep 14 
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,17 @@
 
 # DUMP
 
+## DUMP2022 - 2022 May 27 [:movie_camera:](https://www.youtube.com/playlist?list=PLRdS-n5seLRruLriKlU_Fi7V_sjG1869k)
+| | | |
+| --- | :---: | --- |
+| [Фронтенд: Графы. Сборка. Мертвый код](https://youtu.be/_uHLLPrmQwU)  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  |    |
+| [Desktop Application для Touch Display](https://youtu.be/gewIgqG0kmU)  |  [Артём Кузвесов](../../speakers/Артём%20Кузвесов.md)  |    |
+| [Защита разработки в эпоху кризиса](https://youtu.be/pMWSKli79FU)  |  [Олег Коровин](../../speakers/Олег%20Коровин.md)  |    |
+| [(Микро)фронтенды только с помощью Webpack](https://youtu.be/84S0jxM-_YM)  |  [Максим Смирнов](../../speakers/Максим%20Смирнов.md)  |    |
+| [Contract-first principle в работе c API](https://youtu.be/UyCC8y2TgH4)  |  [Глеб Михеев](../../speakers/Глеб%20Михеев.md)  |    |
+| [Карьерная лестница как дорога в ад](https://youtu.be/8Blj48XnNEI)  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  |    |
+| [Поймать дзен, работая над дизайн-системой Яндекс.Дзена](https://youtu.be/KoSSgmMo2ms)  |  [Семён Левенсон](../../speakers/Семён%20Левенсон.md)  |    |
+| [A State Of CSS 2022](https://youtu.be/TQDOgCkV384)  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  |    |
 ## DUMP2021 - 2021 May 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLRdS-n5seLRq_gQ8ItCc_rIZDegBfnC7b)
 | | | |
 | --- | :---: | --- |

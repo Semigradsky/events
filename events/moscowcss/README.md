@@ -71,7 +71,7 @@
 | --- | :---: | --- |
 | [Топ-15 ваших ошибок в CSS](https://www.youtube.com/watch?v=Y63XbOM6Kzw)  |  [Елена Семёнова](../../speakers/Елена%20Семёнова.md)  | [:notebook:](http://css.moscow/3/top-15-css-bugs.pdf)   |
 | [Atomic CSS в дикой природе](https://www.youtube.com/watch?v=MyPU8bqvDzY)  |  [Савва Михалевский](../../speakers/Савва%20Михалевский.md)  | [:notebook:](http://css.moscow/3/wild-atomic.pdf)   |
-| [FONTend Optimization](https://www.youtube.com/watch?v=o39tg3BgABw)  |  [Смирнов Андрей](../../speakers/Смирнов%20Андрей.md)  | [:notebook:](http://css.moscow/3/fontend-optimization.pdf)   |
+| [FONTend Optimization](https://www.youtube.com/watch?v=o39tg3BgABw)  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  | [:notebook:](http://css.moscow/3/fontend-optimization.pdf)   |
 ## moscowcss 2 - 2017 Apr 06 [:movie_camera:](https://www.youtube.com/playlist?list=PLAf_MJ7SOshHyefkXgmb8YBb6PoVbxyb6)
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,12 @@
 
 # YaTalks
 
+## YaTalks 2022 - 2022 Dec 03 [:movie_camera:](https://www.youtube.com/watch?v=G72O84_mIqI)
+| | | |
+| --- | :---: | --- |
+| [Chrome DevTools — спрятанные полезности](https://www.youtube.com/watch?v=G72O84_mIqI&t=3901s)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [Приключения Node.js в продакшене](https://www.youtube.com/watch?v=G72O84_mIqI&t=8550s)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |    |
+| [[Круглый стол] Веб в 2022. Что изменилось?](https://www.youtube.com/watch?v=G72O84_mIqI&t=11026s)  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  [Алёна Батицкая](../../speakers/Алёна%20Батицкая.md)  [Алексей Попков](../../speakers/Алексей%20Попков.md)  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |    |
 ## YaTalks 2021 - 2021 Dec 03-04 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SSj9alzlF_saWXX-4GpjXRD)
 | | | |
 | --- | :---: | --- |

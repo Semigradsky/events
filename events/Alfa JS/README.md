@@ -3,6 +3,11 @@
 
 # Alfa JS
 
+## A?.Frontend Meetup 2 - 2022 Dec 07 [:movie_camera:](https://www.youtube.com/watch?v=dL657_09BTE)
+| | | |
+| --- | :---: | --- |
+| [Добро пожаловать в Storybook Community](https://youtu.be/dL657_09BTE?t=641)  |  [Никита Дукин](../../speakers/Никита%20Дукин.md)  |    |
+| [Оптимизируем графику для веба like a boss](https://youtu.be/dL657_09BTE?t=4543)  |  [Евгений Полосухин](../../speakers/Евгений%20Полосухин.md)  |    |
 ## Alfa JS MeetUP 3 - 2019 Nov 26 [:movie_camera:](https://www.youtube.com/watch?v=7DtZtHSJ_S4)
 | | | |
 | --- | :---: | --- |

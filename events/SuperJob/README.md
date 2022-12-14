@@ -3,6 +3,11 @@
 
 # SuperJob
 
+## SuperJob Дизайн-система - 2022 Dec 08 [:movie_camera:](https://www.youtube.com/watch?v=uOvWZPmDPWc)
+| | | |
+| --- | :---: | --- |
+| [Эволюция дизайн-системы в SuperJob](https://youtu.be/uOvWZPmDPWc?t=213)  |  [Максим Лисин](../../speakers/Максим%20Лисин.md)  |    |
+| [Цикл жизни дизайн-систем](https://youtu.be/uOvWZPmDPWc?t=1981)  |  [Денис Пушкарь](../../speakers/Денис%20Пушкарь.md)  |    |
 ## SuperJob + Сбер - 2021 Sep 23 [:movie_camera:](https://www.youtube.com/watch?v=LlcEyX6BWD4)
 | | | |
 | --- | :---: | --- |

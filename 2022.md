@@ -3,6 +3,49 @@
 
 # Events / 2022 / [2021](/2021.md) / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## RxJS Conf 2022.1 - Dec 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;012hWR7Xuas)
+| | | |
+| --- | :---: | --- |
+| [Готовим безопасный и читаемый RxJS](https://www.youtube.com/watch?v=012hWR7Xuas&t=930s)  |  [Денис Макаров](speakers/Денис%20Макаров.md)  |    |
+| [Область взаимодействия пользователя](https://www.youtube.com/watch?v=012hWR7Xuas&t=4560s)  |  [Александр Инкин](speakers/Александр%20Инкин.md)  |    |
+| [Таинственные шедулеры RxJS в море асинхронных чудовищ](https://www.youtube.com/watch?v=012hWR7Xuas&t=6840s)  |  [Сэм Булатов](speakers/Сэм%20Булатов.md)  |    |
+## SuperJob Дизайн-система - Dec 08 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;uOvWZPmDPWc)
+| | | |
+| --- | :---: | --- |
+| [Эволюция дизайн-системы в SuperJob](https://youtu.be/uOvWZPmDPWc?t=213)  |  [Максим Лисин](speakers/Максим%20Лисин.md)  |    |
+| [Цикл жизни дизайн-систем](https://youtu.be/uOvWZPmDPWc?t=1981)  |  [Денис Пушкарь](speakers/Денис%20Пушкарь.md)  |    |
+## A?.Frontend Meetup 2 - Dec 07 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dL657_09BTE)
+| | | |
+| --- | :---: | --- |
+| [Добро пожаловать в Storybook Community](https://youtu.be/dL657_09BTE?t=641)  |  [Никита Дукин](speakers/Никита%20Дукин.md)  |    |
+| [Оптимизируем графику для веба like a boss](https://youtu.be/dL657_09BTE?t=4543)  |  [Евгений Полосухин](speakers/Евгений%20Полосухин.md)  |    |
+## YaTalks 2022 - Dec 03 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;G72O84_mIqI)
+| | | |
+| --- | :---: | --- |
+| [Chrome DevTools — спрятанные полезности](https://www.youtube.com/watch?v=G72O84_mIqI&t=3901s)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [Приключения Node.js в продакшене](https://www.youtube.com/watch?v=G72O84_mIqI&t=8550s)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
+| [[Круглый стол] Веб в 2022. Что изменилось?](https://www.youtube.com/watch?v=G72O84_mIqI&t=11026s)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  [Алексей Попков](speakers/Алексей%20Попков.md)  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
+## Frontend Meetup - Dec 03 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;M7M5eaWB7kM)
+| | | |
+| --- | :---: | --- |
+| [Легаси и как с ним бороться](https://youtu.be/M7M5eaWB7kM?t=1562)  |  [Галина Игнатьева](speakers/Галина%20Игнатьева.md)  |    |
+| [Типизированный CSS](https://youtu.be/M7M5eaWB7kM?t=4524)  |  [Давид Болтуев](speakers/Давид%20Болтуев.md)  |    |
+| [Feature-Sliced Design — методология построения фронтенд архитектуры](https://youtu.be/M7M5eaWB7kM?t=7319)  |  [Елизавета Кряжкова](speakers/Елизавета%20Кряжкова.md)  |    |
+## Evrone Frontend meetup - Nov 30 
+| | | |
+| --- | :---: | --- |
+| [Dprint - Форматирование на максимальной скорости](https://www.youtube.com/watch?v=6GYei6pL-DE)  |  [Андрей Поляков](speakers/Андрей%20Поляков.md)  |    |
+| [Новые рецепты. React(Vue) Query вместо вашего любимого state manager](https://www.youtube.com/watch?v=vHWJaVRV-6w)  |  [Евгений Паромов](speakers/Евгений%20Паромов.md)  |    |
+| [Организация сложных многоступенчатых форм на VueJS](https://www.youtube.com/watch?v=KtQ4LTTN_s0)  |  [Роман Троицкий](speakers/Роман%20Троицкий.md)  |    |
+## UfaDevConf 2022 - Oct 29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLAc7qZJeaYw-WxCwym51zraBGQ8KeEhCz)
+| | | |
+| --- | :---: | --- |
+| [Дорогой Lodash, почему ты в моей сборке?](https://youtu.be/IgOxsnSmBl4)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |
+| [Как я полюбил тесты](https://youtu.be/-7jtMznHx64)  |  [Сергей Вахрамов](speakers/Сергей%20Вахрамов.md)  |    |
+| [О систематизировании дизайна в большом продукте](https://youtu.be/4eR9oADqyTs)  |  [Семён Левенсон](speakers/Семён%20Левенсон.md)  |    |
+| [Декларативная и реактивная парадигма программирования на примерах](https://youtu.be/BGDNI6IeFL4)  |  [Илья Терновский](speakers/Илья%20Терновский.md)  |    |
+| [Микрофронтенд в Макроприложениях](https://youtu.be/LzY7l_l_OU0)  |  [Зар Захаров](speakers/Зар%20Захаров.md)  |    |
+| [Как Яндекс Маркет стал доступнее для незрячих](https://youtu.be/Q3cXlxTtcuA)  |  [Илья Сидорчик](speakers/Илья%20Сидорчик.md)  |    |
 ## Асинхронный рендеринг в React 18 и принципы практичного рефакторинга - Sep 15 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;vRq9UtVhP_8)
 | | | |
 | --- | :---: | --- |
@@ -133,6 +176,17 @@
 | [Улучшаем качество кода React-приложения с помощью Compound Components](https://youtu.be/4BByJUk5x7M)  |  [Александр Дунай](speakers/Александр%20Дунай.md)  |    |
 | [Serverless — это не страшно!](https://youtu.be/7gl7ECjXdIs)  |  [Иван Зуев](speakers/Иван%20Зуев.md)  |    |
 | [Как мы TypeScript в Java перегоняли](https://youtu.be/zvtMq-p3HGg)  |  [Евгений Никифоров](speakers/Евгений%20Никифоров.md)  |    |
+## DUMP2022 - May 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRruLriKlU_Fi7V_sjG1869k)
+| | | |
+| --- | :---: | --- |
+| [Фронтенд: Графы. Сборка. Мертвый код](https://youtu.be/_uHLLPrmQwU)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |
+| [Desktop Application для Touch Display](https://youtu.be/gewIgqG0kmU)  |  [Артём Кузвесов](speakers/Артём%20Кузвесов.md)  |    |
+| [Защита разработки в эпоху кризиса](https://youtu.be/pMWSKli79FU)  |  [Олег Коровин](speakers/Олег%20Коровин.md)  |    |
+| [(Микро)фронтенды только с помощью Webpack](https://youtu.be/84S0jxM-_YM)  |  [Максим Смирнов](speakers/Максим%20Смирнов.md)  |    |
+| [Contract-first principle в работе c API](https://youtu.be/UyCC8y2TgH4)  |  [Глеб Михеев](speakers/Глеб%20Михеев.md)  |    |
+| [Карьерная лестница как дорога в ад](https://youtu.be/8Blj48XnNEI)  |  [Андрей Смирнов](speakers/Андрей%20Смирнов.md)  |    |
+| [Поймать дзен, работая над дизайн-системой Яндекс.Дзена](https://youtu.be/KoSSgmMo2ms)  |  [Семён Левенсон](speakers/Семён%20Левенсон.md)  |    |
+| [A State Of CSS 2022](https://youtu.be/TQDOgCkV384)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  |    |
 ## TechTrain 2022 Spring - May 14 
 | | | |
 | --- | :---: | --- |
