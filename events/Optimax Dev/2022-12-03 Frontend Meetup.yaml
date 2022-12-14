@@ -1,0 +1,16 @@
+name: Frontend Meetup
+date: 2022-12-03
+videos: https://www.youtube.com/watch?v=M7M5eaWB7kM
+talks:
+  - name: Легаси и как с ним бороться
+    speaker: Галина Игнатьева
+    video: https://youtu.be/M7M5eaWB7kM?t=1562
+    presentation: 
+  - name: Типизированный CSS
+    speaker: Давид Болтуев
+    video: https://youtu.be/M7M5eaWB7kM?t=4524
+    presentation: 
+  - name: Feature-Sliced Design — методология построения фронтенд архитектуры
+    speaker: Елизавета Кряжкова
+    video: https://youtu.be/M7M5eaWB7kM?t=7319
+    presentation: 
