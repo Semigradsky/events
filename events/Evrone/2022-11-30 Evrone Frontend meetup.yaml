@@ -4,13 +4,13 @@ videos:
 talks:
   - name: Dprint - Форматирование на максимальной скорости
     speaker: Андрей Поляков
-    video: 
+    video: https://www.youtube.com/watch?v=6GYei6pL-DE
     presentation: 
   - name: "Новые рецепты. React(Vue) Query вместо вашего любимого state manager"
     speaker: Евгений Паромов
-    video: 
+    video: https://www.youtube.com/watch?v=vHWJaVRV-6w
     presentation: 
   - name: Организация сложных многоступенчатых форм на VueJS
     speaker: Роман Троицкий
-    video: 
+    video: https://www.youtube.com/watch?v=KtQ4LTTN_s0
     presentation: 
