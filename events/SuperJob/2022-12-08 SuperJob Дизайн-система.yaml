@@ -1,0 +1,12 @@
+name: SuperJob Дизайн-система
+date: 2022-12-08
+videos: https://www.youtube.com/watch?v=uOvWZPmDPWc
+talks:
+  - name: Эволюция дизайн-системы в SuperJob
+    speaker: Максим Лисин
+    video: https://youtu.be/uOvWZPmDPWc?t=213
+    presentation: 
+  - name: Цикл жизни дизайн-систем
+    speaker: Денис Пушкарь
+    video: https://youtu.be/uOvWZPmDPWc?t=1981
+    presentation: 
