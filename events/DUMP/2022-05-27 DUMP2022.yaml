@@ -1,4 +1,36 @@
 name: DUMP2022
 date: 2022-05-27
-videos: 
-talks: []
+videos: https://www.youtube.com/playlist?list=PLRdS-n5seLRruLriKlU_Fi7V_sjG1869k
+talks:
+  - name: "Фронтенд: Графы. Сборка. Мертвый код"
+    speaker: Никита Сидоров
+    video: https://youtu.be/_uHLLPrmQwU
+    presentation: 
+  - name: Desktop Application для Touch Display
+    speaker: Артём Кузвесов
+    video: https://youtu.be/gewIgqG0kmU
+    presentation: 
+  - name: Защита разработки в эпоху кризиса
+    speaker: Олег Коровин
+    video: https://youtu.be/pMWSKli79FU
+    presentation: 
+  - name: (Микро)фронтенды только с помощью Webpack
+    speaker: Максим Смирнов
+    video: https://youtu.be/84S0jxM-_YM
+    presentation: 
+  - name: Contract-first principle в работе c API
+    speaker: Глеб Михеев
+    video: https://youtu.be/UyCC8y2TgH4
+    presentation: 
+  - name: Карьерная лестница как дорога в ад
+    speaker: Андрей Смирнов
+    video: https://youtu.be/8Blj48XnNEI
+    presentation: 
+  - name: Поймать дзен, работая над дизайн-системой Яндекс.Дзена
+    speaker: Семён Левенсон
+    video: https://youtu.be/KoSSgmMo2ms
+    presentation: 
+  - name: A State Of CSS 2022
+    speaker: Сергей Попов
+    video: https://youtu.be/TQDOgCkV384
+    presentation: 
