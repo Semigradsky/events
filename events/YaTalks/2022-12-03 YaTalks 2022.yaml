@@ -1,0 +1,16 @@
+name: YaTalks 2022
+date: 2022-12-03
+videos: https://www.youtube.com/watch?v=G72O84_mIqI
+talks:
+  - name: Chrome DevTools — спрятанные полезности
+    speaker: Никита Дубко
+    video: https://www.youtube.com/watch?v=G72O84_mIqI&t=3901s
+    presentation: 
+  - name: Приключения Node.js в продакшене
+    speaker: Андрей Мелихов
+    video: https://www.youtube.com/watch?v=G72O84_mIqI&t=8550s
+    presentation: 
+  - name: "[Круглый стол] Веб в 2022. Что изменилось?"
+    speaker: Никита Сидоров, Владимир Гриненко, Алёна Батицкая, Алексей Попков, Андрей Мелихов
+    video: https://www.youtube.com/watch?v=G72O84_mIqI&t=11026s
+    presentation: 
