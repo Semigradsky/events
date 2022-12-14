@@ -1,28 +1,28 @@
 name: UfaDevConf 2022
 date: 2022-10-29
-videos: 
+videos: https://www.youtube.com/playlist?list=PLAc7qZJeaYw-WxCwym51zraBGQ8KeEhCz
 talks:
   - name: Дорогой Lodash, почему ты в моей сборке?
     speaker: Никита Сидоров
-    video: 
-    presentation: 
-  - name: Микрофронтенд в Макроприложениях
-    speaker: Зар Захаров
-    video: 
-    presentation: 
-  - name: О систематизировании дизайна в большом продукте
-    speaker: Семён Левенсон
-    video: 
+    video: https://youtu.be/IgOxsnSmBl4
     presentation: 
   - name: Как я полюбил тесты
     speaker: Сергей Вахрамов
-    video: 
+    video: https://youtu.be/-7jtMznHx64
     presentation: 
-  - name: Сказка о потерянном времени
-    speaker: Андрей Корнев
-    video: 
+  - name: О систематизировании дизайна в большом продукте
+    speaker: Семён Левенсон
+    video: https://youtu.be/4eR9oADqyTs
     presentation: 
-  - name: Как фронтендеры WebGL прикручивали
-    speaker: Ильгиз Шарафутдинов
-    video: 
+  - name: Декларативная и реактивная парадигма программирования на примерах
+    speaker: Илья Терновский
+    video: https://youtu.be/BGDNI6IeFL4
+    presentation: 
+  - name: Микрофронтенд в Макроприложениях
+    speaker: Зар Захаров
+    video: https://youtu.be/LzY7l_l_OU0
+    presentation: 
+  - name: Как Яндекс Маркет стал доступнее для незрячих
+    speaker: Илья Сидорчик
+    video: https://youtu.be/Q3cXlxTtcuA
     presentation: 
