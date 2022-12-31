@@ -1,16 +1,16 @@
 name: Frontend Meetup
 date: 2022-05-28
-videos: https://www.youtube.com/watch?v=v0qVqUHjLyY
+videos: https://www.youtube.com/playlist?list=PL29DYZAQWb0LLIDcDqED941bmmEWHtZgZ
 talks:
   - name: Реализация совместной работы в конструкторах онлайн-материалов
     speaker: Юрий Минаков
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=mxcIdKHCNSo
+    presentation: https://russian-team.ispring.ru/app/preview/9af567b8-e0e4-11ec-a0cc-c68bf1338185
   - name: "ФП: практическое внедрение на производстве"
     speaker: Иван Калагин
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=3Ev2kMLg2YI
+    presentation: https://russian-team.ispring.ru/app/preview/9dc35f5e-e0e4-11ec-b767-c68bf1338185
   - name: Feature Sliced Design
     speaker: Артур Мирзин
-    video: 
-    presentation: 
+    video: https://www.youtube.com/watch?v=mq7HILcgUd4
+    presentation: https://russian-team.ispring.ru/app/preview/97eb2d5a-e0e4-11ec-8609-2ea85d0bd309
