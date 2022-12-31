@@ -1,0 +1,20 @@
+name: Alfa Frontend MeetUp
+date: 2022-06-01
+videos: https://vk.com/video/playlist/-215425037_3
+talks:
+  - name: Как управлять командой разработки так, чтобы проект процветал
+    speaker: Илья Агапов
+    video: https://vk.com/video-215425037_456239029
+    presentation: 
+  - name: "Переход на React-router v6: подводные камни и альтернативы"
+    speaker: Андрей Новиков
+    video: https://vk.com/video-215425037_456239030
+    presentation: 
+  - name: RTK query
+    speaker: Антон Степанов
+    video: https://vk.com/video-215425037_456239031
+    presentation: 
+  - name: Карьерная лестница как дорога в ад
+    speaker: Андрей Смирнов
+    video: https://vk.com/video-215425037_456239032
+    presentation: https://sandark7.github.io/AlfaJS2022/
