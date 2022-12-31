@@ -4,13 +4,13 @@ videos: https://www.youtube.com/watch?v=G72O84_mIqI
 talks:
   - name: Chrome DevTools — спрятанные полезности
     speaker: Никита Дубко
-    video: https://www.youtube.com/watch?v=G72O84_mIqI&t=3901s
+    video: https://youtu.be/70XMVfGv2Q0
     presentation: 
   - name: Приключения Node.js в продакшене
     speaker: Андрей Мелихов
-    video: https://www.youtube.com/watch?v=G72O84_mIqI&t=8550s
+    video: https://youtu.be/77h-_SytDhM
     presentation: 
   - name: "[Круглый стол] Веб в 2022. Что изменилось?"
     speaker: Никита Сидоров, Владимир Гриненко, Алёна Батицкая, Алексей Попков, Андрей Мелихов
-    video: https://www.youtube.com/watch?v=G72O84_mIqI&t=11026s
+    video: https://youtu.be/j2Uq-CxEfWI
     presentation: 
