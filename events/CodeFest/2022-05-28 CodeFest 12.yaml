@@ -2,5 +2,53 @@ name: CodeFest 12
 date:
   - 2022-05-28
   - 2022-05-29
-videos: 
-talks: []
+videos: https://www.youtube.com/playlist?list=PL8761XQAJnra2OI2zSXwiymJrCDqehhxG
+talks: 
+  - name: Создание платежной формы на все случаи жизни
+    speaker: Владимир Гриненко
+    video: https://youtu.be/Qu6SHBgW9tE
+    presentation: https://disk.yandex.ru/d/-qk1BPGpxItKhw
+  - name: Микрофронтенд для Макроприложений
+    speaker: Зар Захаров
+    video: https://youtu.be/Vr2EI6mJM-8?list=PL8761XQAJnra2OI2zSXwiymJrCDqehhxG
+    presentation: https://disk.yandex.ru/d/Zt-GjT5avEfmsg
+  - name: State Of A11y
+    speaker: Лена Райан
+    video: https://youtu.be/Pnsg1uobLYc
+    presentation: https://disk.yandex.ru/d/meon1ysSm1zLAQ
+  - name: "Слоёный монорепозиторий для фронтенда: как Docker-like подход делает всё лучше"
+    speaker: Андрей Кобец
+    video: https://youtu.be/tpoZP---L7k
+    presentation: https://disk.yandex.ru/i/_E19EMpeF7-K_A
+  - name: Экстремальное ускорение пайплайнов
+    speaker: Игорь Кацуба
+    video: https://youtu.be/j0OhmZeAoKQ
+    presentation: https://disk.yandex.ru/d/Xwc1BMeSLGHNHA
+  - name: Разработчики против no-code, действительно ли всё так плохо?
+    speaker: Сергей Попов
+    video: https://youtu.be/j8vlEfacv8U
+    presentation: https://disk.yandex.ru/i/e671g88VSz9aIg
+  - name: Проектирование во фронтенде
+    speaker: Максим Соснов
+    video: https://youtu.be/MGL-v1EVcZI
+    presentation: https://disk.yandex.ru/d/cWaufpLKr7fSLg
+  - name: WebAssembly GC
+    speaker: Дмитрий Бежецков
+    video: https://youtu.be/EYe_fESV3KY
+    presentation: https://disk.yandex.ru/i/MOxbflpttQdVow
+  - name: Идеальный способ заблюрить белочку
+    speaker: Полина Гуртовая
+    video: https://youtu.be/Y9aux_0AZZA
+    presentation: https://disk.yandex.ru/d/oZ42dWdM3mRh4A
+  - name: "Фронтенд: Графы. Сборка. Мертвый код"
+    speaker: Никита Сидоров
+    video: https://youtu.be/YxTo8-kiX8c
+    presentation: https://disk.yandex.ru/d/G92WiQs51_a6JQ
+  - name: Защита разработки в эпоху кризиса
+    speaker: Олег Коровин
+    video: https://youtu.be/_8dbwhhxhiE
+    presentation: https://disk.yandex.ru/d/whiH1qUoVQ2jnA
+  - name: Когда лагает интерфейс
+    speaker: Артём Белов
+    video: https://youtu.be/6H7R7g8aLBo
+    presentation: https://disk.yandex.ru/i/oNw-NCL0cgFbzg

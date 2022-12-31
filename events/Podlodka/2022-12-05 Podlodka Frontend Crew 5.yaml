@@ -1,7 +1,7 @@
 name: Podlodka Frontend Crew 5
 date:
-  - 2022-10-15
-  - 2022-10-19
+  - 2022-12-05
+  - 2022-12-09
 videos: 
 talks:
   - name: "Chrome: обзор полезных инструментов"
@@ -16,10 +16,6 @@ talks:
     speaker: Полина Гуртовая
     video: 
     presentation: https://speakerdeck.com/hellsquirrel/wasmyslie
-  - name: Декларативность и магия схем
-    speaker: Полина Гуртовая
-    video: 
-    presentation: https://speakerdeck.com/hellsquirrel/maghiia-dieklarativnyi-skhiem
   - name: API безопасности и криптографии
     speaker: Владимир Санников
     video: 
