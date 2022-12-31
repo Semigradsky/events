@@ -1,0 +1,42 @@
+name: Podlodka Frontend Crew 5
+date:
+  - 2022-10-15
+  - 2022-10-19
+videos: 
+talks:
+  - name: "Chrome: обзор полезных инструментов"
+    speaker: Павел Теренин
+    video: 
+    presentation: 
+  - name: "Круглый стол: А точно ли вам нужно PWA?"
+    speaker: Алексей Родионов, Михаил Рерберг, Глеб Хмызников
+    video: https://youtu.be/-q9acZbNK0c
+    presentation: 
+  - name: Wasmысле?
+    speaker: Полина Гуртовая
+    video: 
+    presentation: https://speakerdeck.com/hellsquirrel/wasmyslie
+  - name: Декларативность и магия схем
+    speaker: Полина Гуртовая
+    video: 
+    presentation: https://speakerdeck.com/hellsquirrel/maghiia-dieklarativnyi-skhiem
+  - name: API безопасности и криптографии
+    speaker: Владимир Санников
+    video: 
+    presentation: 
+  - name: Проект Fugu — это съедобно?
+    speaker: Никита Дубко
+    video: 
+    presentation: 
+  - name: Браузерные API, о которых стоит знать
+    speaker: Александра Шинкевич
+    video: 
+    presentation: 
+  - name: Service Worker API
+    speaker: Кирилл Чугаинов
+    video: https://youtu.be/NQm9RVVFA9Y
+    presentation: 
+  - name: Улучшаем диалоги с помощью нативных элементов
+    speaker: Артур Литовко
+    video: 
+    presentation: 
