@@ -1,0 +1,8 @@
+name: TechTrain 2022 Autumn
+date: 2022-10-08
+videos: 
+talks:
+  - name: "Современный UGC: cбор видеоотзывов в браузере без WebRTC"
+    speaker: Игорь Шеко
+    video: 
+    presentation: https://squidex.jugru.team/api/assets/srm/5f238adb-eab6-40ee-9f6d-851f431d5393/code.pdf
