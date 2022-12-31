@@ -12,7 +12,7 @@
 | [State Machine: что это и зачем](https://www.youtube.com/watch?v=z3O8qYmPd58&t=14363s)  |  [Сергей Пономарёв](../../speakers/Сергей%20Пономарёв.md)  |    |
 | [Node.js фреймворки, или Туда и обратно](https://www.youtube.com/watch?v=z3O8qYmPd58&t=18291s)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |    |
 | [Особенности реализации брутальной дизайн-системы](https://www.youtube.com/watch?v=z3O8qYmPd58&t=21924s)  |  [Артём Арутюнян](../../speakers/Артём%20Арутюнян.md)  |    |
-| [“Web Vitals”: увидеть и оптимизировать](https://www.youtube.com/watch?v=z3O8qYmPd58&t=25503s)  |  [Артём Белов](../../speakers/Артём%20Белов.md)  |    |
+| [Web Vitals: увидеть и оптимизировать](https://www.youtube.com/watch?v=z3O8qYmPd58&t=25503s)  |  [Артём Белов](../../speakers/Артём%20Белов.md)  |    |
 | [Пишем свой текстовый редактор](https://youtu.be/TDZcDXdBjn8)  |  [Сергей Чикуёнок](../../speakers/Сергей%20Чикуёнок.md)  |  [:octocat:](https://github.com/tamtam-chat/message-editor)  |
 ## Я ❤ Frontend 2021 - 2021 Feb 27 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SQvmgHWgtUeX_Y59NiZhmEF)
 | | | |

@@ -3,6 +3,21 @@
 
 # CodeFest
 
+## CodeFest 12 - 2022 May 28-29 [:movie_camera:](https://www.youtube.com/playlist?list=PL8761XQAJnra2OI2zSXwiymJrCDqehhxG)
+| | | |
+| --- | :---: | --- |
+| [Создание платежной формы на все случаи жизни](https://youtu.be/Qu6SHBgW9tE)  |  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  | [:notebook:](https://disk.yandex.ru/d/-qk1BPGpxItKhw)   |
+| [Микрофронтенд для Макроприложений](https://youtu.be/Vr2EI6mJM-8?list=PL8761XQAJnra2OI2zSXwiymJrCDqehhxG)  |  [Зар Захаров](../../speakers/Зар%20Захаров.md)  | [:notebook:](https://disk.yandex.ru/d/Zt-GjT5avEfmsg)   |
+| [State Of A11y](https://youtu.be/Pnsg1uobLYc)  |  [Лена Райан](../../speakers/Лена%20Райан.md)  | [:notebook:](https://disk.yandex.ru/d/meon1ysSm1zLAQ)   |
+| [Слоёный монорепозиторий для фронтенда: как Docker-like подход делает всё лучше](https://youtu.be/tpoZP---L7k)  |  [Андрей Кобец](../../speakers/Андрей%20Кобец.md)  | [:notebook:](https://disk.yandex.ru/i/_E19EMpeF7-K_A)   |
+| [Экстремальное ускорение пайплайнов](https://youtu.be/j0OhmZeAoKQ)  |  [Игорь Кацуба](../../speakers/Игорь%20Кацуба.md)  | [:notebook:](https://disk.yandex.ru/d/Xwc1BMeSLGHNHA)   |
+| [Разработчики против no-code, действительно ли всё так плохо?](https://youtu.be/j8vlEfacv8U)  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  | [:notebook:](https://disk.yandex.ru/i/e671g88VSz9aIg)   |
+| [Проектирование во фронтенде](https://youtu.be/MGL-v1EVcZI)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  | [:notebook:](https://disk.yandex.ru/d/cWaufpLKr7fSLg)   |
+| [WebAssembly GC](https://youtu.be/EYe_fESV3KY)  |  [Дмитрий Бежецков](../../speakers/Дмитрий%20Бежецков.md)  | [:notebook:](https://disk.yandex.ru/i/MOxbflpttQdVow)   |
+| [Идеальный способ заблюрить белочку](https://youtu.be/Y9aux_0AZZA)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://disk.yandex.ru/d/oZ42dWdM3mRh4A)   |
+| [Фронтенд: Графы. Сборка. Мертвый код](https://youtu.be/YxTo8-kiX8c)  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  | [:notebook:](https://disk.yandex.ru/d/G92WiQs51_a6JQ)   |
+| [Защита разработки в эпоху кризиса](https://youtu.be/_8dbwhhxhiE)  |  [Олег Коровин](../../speakers/Олег%20Коровин.md)  | [:notebook:](https://disk.yandex.ru/d/whiH1qUoVQ2jnA)   |
+| [Когда лагает интерфейс](https://youtu.be/6H7R7g8aLBo)  |  [Артём Белов](../../speakers/Артём%20Белов.md)  | [:notebook:](https://disk.yandex.ru/i/oNw-NCL0cgFbzg)   |
 ## CodeFest 11 - 2021 May 29-30 
 | | | |
 | --- | :---: | --- |

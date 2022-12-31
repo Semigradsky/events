@@ -3,6 +3,10 @@
 
 # TechTrain
 
+## TechTrain 2022 Autumn - 2022 Oct 08 
+| | | |
+| --- | :---: | --- |
+| Современный UGC: cбор видеоотзывов в браузере без WebRTC  |  [Игорь Шеко](../../speakers/Игорь%20Шеко.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/5f238adb-eab6-40ee-9f6d-851f431d5393/code.pdf)   |
 ## TechTrain 2022 Spring - 2022 May 14 
 | | | |
 | --- | :---: | --- |

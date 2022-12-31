@@ -19,12 +19,23 @@
 | --- | :---: | --- |
 | [Добро пожаловать в Storybook Community](https://youtu.be/dL657_09BTE?t=641)  |  [Никита Дукин](speakers/Никита%20Дукин.md)  |    |
 | [Оптимизируем графику для веба like a boss](https://youtu.be/dL657_09BTE?t=4543)  |  [Евгений Полосухин](speakers/Евгений%20Полосухин.md)  |    |
+## Podlodka Frontend Crew 5 - Dec 05-09 
+| | | |
+| --- | :---: | --- |
+| Chrome: обзор полезных инструментов  |  [Павел Теренин](speakers/Павел%20Теренин.md)  |    |
+| [Круглый стол: А точно ли вам нужно PWA?](https://youtu.be/-q9acZbNK0c)  |  [Алексей Родионов](speakers/Алексей%20Родионов.md)  [Михаил Рерберг](speakers/Михаил%20Рерберг.md)  [Глеб Хмызников](speakers/Глеб%20Хмызников.md)  |    |
+| Wasmысле?  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  | [:notebook:](https://speakerdeck.com/hellsquirrel/wasmyslie)   |
+| API безопасности и криптографии  |  [Владимир Санников](speakers/Владимир%20Санников.md)  |    |
+| Проект Fugu — это съедобно?  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| Браузерные API, о которых стоит знать  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
+| [Service Worker API](https://youtu.be/NQm9RVVFA9Y)  |  [Кирилл Чугаинов](speakers/Кирилл%20Чугаинов.md)  |    |
+| Улучшаем диалоги с помощью нативных элементов  |  [Артур Литовко](speakers/Артур%20Литовко.md)  |    |
 ## YaTalks 2022 - Dec 03 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;G72O84_mIqI)
 | | | |
 | --- | :---: | --- |
-| [Chrome DevTools — спрятанные полезности](https://www.youtube.com/watch?v=G72O84_mIqI&t=3901s)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
-| [Приключения Node.js в продакшене](https://www.youtube.com/watch?v=G72O84_mIqI&t=8550s)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
-| [[Круглый стол] Веб в 2022. Что изменилось?](https://www.youtube.com/watch?v=G72O84_mIqI&t=11026s)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  [Алексей Попков](speakers/Алексей%20Попков.md)  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
+| [Chrome DevTools — спрятанные полезности](https://youtu.be/70XMVfGv2Q0)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [Приключения Node.js в продакшене](https://youtu.be/77h-_SytDhM)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
+| [[Круглый стол] Веб в 2022. Что изменилось?](https://youtu.be/j2Uq-CxEfWI)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  [Алексей Попков](speakers/Алексей%20Попков.md)  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
 ## Frontend Meetup - Dec 03 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;M7M5eaWB7kM)
 | | | |
 | --- | :---: | --- |
@@ -46,6 +57,10 @@
 | [Декларативная и реактивная парадигма программирования на примерах](https://youtu.be/BGDNI6IeFL4)  |  [Илья Терновский](speakers/Илья%20Терновский.md)  |    |
 | [Микрофронтенд в Макроприложениях](https://youtu.be/LzY7l_l_OU0)  |  [Зар Захаров](speakers/Зар%20Захаров.md)  |    |
 | [Как Яндекс Маркет стал доступнее для незрячих](https://youtu.be/Q3cXlxTtcuA)  |  [Илья Сидорчик](speakers/Илья%20Сидорчик.md)  |    |
+## TechTrain 2022 Autumn - Oct 08 
+| | | |
+| --- | :---: | --- |
+| Современный UGC: cбор видеоотзывов в браузере без WebRTC  |  [Игорь Шеко](speakers/Игорь%20Шеко.md)  | [:notebook:](https://squidex.jugru.team/api/assets/srm/5f238adb-eab6-40ee-9f6d-851f431d5393/code.pdf)   |
 ## Асинхронный рендеринг в React 18 и принципы практичного рефакторинга - Sep 15 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;vRq9UtVhP_8)
 | | | |
 | --- | :---: | --- |
@@ -104,7 +119,7 @@
 | [State Machine: что это и зачем](https://www.youtube.com/watch?v=z3O8qYmPd58&t=14363s)  |  [Сергей Пономарёв](speakers/Сергей%20Пономарёв.md)  |    |
 | [Node.js фреймворки, или Туда и обратно](https://www.youtube.com/watch?v=z3O8qYmPd58&t=18291s)  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
 | [Особенности реализации брутальной дизайн-системы](https://www.youtube.com/watch?v=z3O8qYmPd58&t=21924s)  |  [Артём Арутюнян](speakers/Артём%20Арутюнян.md)  |    |
-| [“Web Vitals”: увидеть и оптимизировать](https://www.youtube.com/watch?v=z3O8qYmPd58&t=25503s)  |  [Артём Белов](speakers/Артём%20Белов.md)  |    |
+| [Web Vitals: увидеть и оптимизировать](https://www.youtube.com/watch?v=z3O8qYmPd58&t=25503s)  |  [Артём Белов](speakers/Артём%20Белов.md)  |    |
 | [Пишем свой текстовый редактор](https://youtu.be/TDZcDXdBjn8)  |  [Сергей Чикуёнок](speakers/Сергей%20Чикуёнок.md)  |  [:octocat:](https://github.com/tamtam-chat/message-editor)  |
 ## VK Tech Talks - Front End - Jul 28 [:movie_camera:](https:&#x2F;&#x2F;vk.com&#x2F;wall-147415323_13191)
 | | | |
@@ -176,6 +191,34 @@
 | [Улучшаем качество кода React-приложения с помощью Compound Components](https://youtu.be/4BByJUk5x7M)  |  [Александр Дунай](speakers/Александр%20Дунай.md)  |    |
 | [Serverless — это не страшно!](https://youtu.be/7gl7ECjXdIs)  |  [Иван Зуев](speakers/Иван%20Зуев.md)  |    |
 | [Как мы TypeScript в Java перегоняли](https://youtu.be/zvtMq-p3HGg)  |  [Евгений Никифоров](speakers/Евгений%20Никифоров.md)  |    |
+## Alfa Frontend MeetUp - Jun 01 [:movie_camera:](https:&#x2F;&#x2F;vk.com&#x2F;video&#x2F;playlist&#x2F;-215425037_3)
+| | | |
+| --- | :---: | --- |
+| [Как управлять командой разработки так, чтобы проект процветал](https://vk.com/video-215425037_456239029)  |  [Илья Агапов](speakers/Илья%20Агапов.md)  |    |
+| [Переход на React-router v6: подводные камни и альтернативы](https://vk.com/video-215425037_456239030)  |  [Андрей Новиков](speakers/Андрей%20Новиков.md)  |    |
+| [RTK query](https://vk.com/video-215425037_456239031)  |  [Антон Степанов](speakers/Антон%20Степанов.md)  |    |
+| [Карьерная лестница как дорога в ад](https://vk.com/video-215425037_456239032)  |  [Андрей Смирнов](speakers/Андрей%20Смирнов.md)  | [:notebook:](https://sandark7.github.io/AlfaJS2022/)   |
+## Frontend Meetup - May 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL29DYZAQWb0LLIDcDqED941bmmEWHtZgZ)
+| | | |
+| --- | :---: | --- |
+| [Реализация совместной работы в конструкторах онлайн-материалов](https://www.youtube.com/watch?v=mxcIdKHCNSo)  |  [Юрий Минаков](speakers/Юрий%20Минаков.md)  | [:notebook:](https://russian-team.ispring.ru/app/preview/9af567b8-e0e4-11ec-a0cc-c68bf1338185)   |
+| [ФП: практическое внедрение на производстве](https://www.youtube.com/watch?v=3Ev2kMLg2YI)  |  [Иван Калагин](speakers/Иван%20Калагин.md)  | [:notebook:](https://russian-team.ispring.ru/app/preview/9dc35f5e-e0e4-11ec-b767-c68bf1338185)   |
+| [Feature Sliced Design](https://www.youtube.com/watch?v=mq7HILcgUd4)  |  [Артур Мирзин](speakers/Артур%20Мирзин.md)  | [:notebook:](https://russian-team.ispring.ru/app/preview/97eb2d5a-e0e4-11ec-8609-2ea85d0bd309)   |
+## CodeFest 12 - May 28-29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL8761XQAJnra2OI2zSXwiymJrCDqehhxG)
+| | | |
+| --- | :---: | --- |
+| [Создание платежной формы на все случаи жизни](https://youtu.be/Qu6SHBgW9tE)  |  [Владимир Гриненко](speakers/Владимир%20Гриненко.md)  | [:notebook:](https://disk.yandex.ru/d/-qk1BPGpxItKhw)   |
+| [Микрофронтенд для Макроприложений](https://youtu.be/Vr2EI6mJM-8?list=PL8761XQAJnra2OI2zSXwiymJrCDqehhxG)  |  [Зар Захаров](speakers/Зар%20Захаров.md)  | [:notebook:](https://disk.yandex.ru/d/Zt-GjT5avEfmsg)   |
+| [State Of A11y](https://youtu.be/Pnsg1uobLYc)  |  [Лена Райан](speakers/Лена%20Райан.md)  | [:notebook:](https://disk.yandex.ru/d/meon1ysSm1zLAQ)   |
+| [Слоёный монорепозиторий для фронтенда: как Docker-like подход делает всё лучше](https://youtu.be/tpoZP---L7k)  |  [Андрей Кобец](speakers/Андрей%20Кобец.md)  | [:notebook:](https://disk.yandex.ru/i/_E19EMpeF7-K_A)   |
+| [Экстремальное ускорение пайплайнов](https://youtu.be/j0OhmZeAoKQ)  |  [Игорь Кацуба](speakers/Игорь%20Кацуба.md)  | [:notebook:](https://disk.yandex.ru/d/Xwc1BMeSLGHNHA)   |
+| [Разработчики против no-code, действительно ли всё так плохо?](https://youtu.be/j8vlEfacv8U)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  | [:notebook:](https://disk.yandex.ru/i/e671g88VSz9aIg)   |
+| [Проектирование во фронтенде](https://youtu.be/MGL-v1EVcZI)  |  [Максим Соснов](speakers/Максим%20Соснов.md)  | [:notebook:](https://disk.yandex.ru/d/cWaufpLKr7fSLg)   |
+| [WebAssembly GC](https://youtu.be/EYe_fESV3KY)  |  [Дмитрий Бежецков](speakers/Дмитрий%20Бежецков.md)  | [:notebook:](https://disk.yandex.ru/i/MOxbflpttQdVow)   |
+| [Идеальный способ заблюрить белочку](https://youtu.be/Y9aux_0AZZA)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  | [:notebook:](https://disk.yandex.ru/d/oZ42dWdM3mRh4A)   |
+| [Фронтенд: Графы. Сборка. Мертвый код](https://youtu.be/YxTo8-kiX8c)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  | [:notebook:](https://disk.yandex.ru/d/G92WiQs51_a6JQ)   |
+| [Защита разработки в эпоху кризиса](https://youtu.be/_8dbwhhxhiE)  |  [Олег Коровин](speakers/Олег%20Коровин.md)  | [:notebook:](https://disk.yandex.ru/d/whiH1qUoVQ2jnA)   |
+| [Когда лагает интерфейс](https://youtu.be/6H7R7g8aLBo)  |  [Артём Белов](speakers/Артём%20Белов.md)  | [:notebook:](https://disk.yandex.ru/i/oNw-NCL0cgFbzg)   |
 ## DUMP2022 - May 27 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLRdS-n5seLRruLriKlU_Fi7V_sjG1869k)
 | | | |
 | --- | :---: | --- |

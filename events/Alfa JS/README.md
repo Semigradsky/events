@@ -8,6 +8,13 @@
 | --- | :---: | --- |
 | [Добро пожаловать в Storybook Community](https://youtu.be/dL657_09BTE?t=641)  |  [Никита Дукин](../../speakers/Никита%20Дукин.md)  |    |
 | [Оптимизируем графику для веба like a boss](https://youtu.be/dL657_09BTE?t=4543)  |  [Евгений Полосухин](../../speakers/Евгений%20Полосухин.md)  |    |
+## Alfa Frontend MeetUp - 2022 Jun 01 [:movie_camera:](https://vk.com/video/playlist/-215425037_3)
+| | | |
+| --- | :---: | --- |
+| [Как управлять командой разработки так, чтобы проект процветал](https://vk.com/video-215425037_456239029)  |  [Илья Агапов](../../speakers/Илья%20Агапов.md)  |    |
+| [Переход на React-router v6: подводные камни и альтернативы](https://vk.com/video-215425037_456239030)  |  [Андрей Новиков](../../speakers/Андрей%20Новиков.md)  |    |
+| [RTK query](https://vk.com/video-215425037_456239031)  |  [Антон Степанов](../../speakers/Антон%20Степанов.md)  |    |
+| [Карьерная лестница как дорога в ад](https://vk.com/video-215425037_456239032)  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  | [:notebook:](https://sandark7.github.io/AlfaJS2022/)   |
 ## Alfa JS MeetUP 3 - 2019 Nov 26 [:movie_camera:](https://www.youtube.com/watch?v=7DtZtHSJ_S4)
 | | | |
 | --- | :---: | --- |
