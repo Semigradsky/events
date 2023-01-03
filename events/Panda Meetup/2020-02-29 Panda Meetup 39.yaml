@@ -1,20 +1,20 @@
 name: Panda Meetup 39
 date: 2020-02-29
-videos: 
+videos: https://youtu.be/NnOwgRgdBII
 talks:
   - name: Strict mode в TypeScript или как помочь компилятору помочь нам
     speaker: Андрей Гончаров
-    video: 
+    video: https://youtu.be/9Hg87HVhXvg
     presentation: 
   - name: Почему мы выбрали MobX, а не Redux?
     speaker: Назим Гафаров
-    video: 
+    video: https://youtu.be/629ZhWebKzs
     presentation: 
   - name: Немного шалим со свежими WeakRef и FinalizationGroup API
     speaker: Андрей Печкуров
-    video: 
+    video: https://youtu.be/B5NKrSqI4q4
     presentation: 
-  - name: "?"
+  - name: Как добавить 3D в web
     speaker: Ольга Маланова
-    video: 
+    video: https://youtu.be/r00wlzjCkSY
     presentation: 
