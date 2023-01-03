@@ -48,6 +48,15 @@
 | [Dprint - Форматирование на максимальной скорости](https://www.youtube.com/watch?v=6GYei6pL-DE)  |  [Андрей Поляков](speakers/Андрей%20Поляков.md)  |    |
 | [Новые рецепты. React(Vue) Query вместо вашего любимого state manager](https://www.youtube.com/watch?v=vHWJaVRV-6w)  |  [Евгений Паромов](speakers/Евгений%20Паромов.md)  |    |
 | [Организация сложных многоступенчатых форм на VueJS](https://www.youtube.com/watch?v=KtQ4LTTN_s0)  |  [Роман Троицкий](speakers/Роман%20Троицкий.md)  |    |
+## Frontend Day - Nov 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;WIs74Quvqjg)
+| | | |
+| --- | :---: | --- |
+| [Архитектура универсальных веб-приложений](https://www.youtube.com/watch?v=f2HdxD_pds4)  |  [Глеб Михеев](speakers/Глеб%20Михеев.md)  |    |
+| [Необычные браузерные API](https://www.youtube.com/watch?v=WIs74Quvqjg&t=3522s)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
+| [Отдел разработки без бэкенд-специалистов](https://www.youtube.com/watch?v=WIs74Quvqjg&t=7530s)  |  [Влад Худяков](speakers/Влад%20Худяков.md)  |    |
+| [Как работать с календарями](https://www.youtube.com/watch?v=WIs74Quvqjg&t=9794s)  |  [Алексей Авдеев](speakers/Алексей%20Авдеев.md)  |    |
+| [Разработчики против No-code, неужели всё так плохо?](https://www.youtube.com/watch?v=WIs74Quvqjg&t=14476s)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  |    |
+| [Ораторское мастерство как инструмент развития карьеры](https://www.youtube.com/watch?v=WIs74Quvqjg&t=17805s)  |  [Александра Прокшина](speakers/Александра%20Прокшина.md)  |    |
 ## UfaDevConf 2022 - Oct 29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLAc7qZJeaYw-WxCwym51zraBGQ8KeEhCz)
 | | | |
 | --- | :---: | --- |
