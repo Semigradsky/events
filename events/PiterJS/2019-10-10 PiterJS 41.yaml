@@ -6,7 +6,7 @@ talks:
     speaker: Александр Зонов
     video: https://youtu.be/J0RLSBGorMY?t=650
     presentation: https://github.com/piterjs/slides/blob/master/meetup=41/speech=react-ssr-wat.pdf
-  - name: BDD e2e тестирование
+  - name: BDD-тестирование веб-приложений
     speaker: Александр Иосса
     video: https://youtu.be/J0RLSBGorMY?t=3647
     presentation: https://github.com/piterjs/slides/blob/master/meetup=41/speech=bdd-e2e.pdf

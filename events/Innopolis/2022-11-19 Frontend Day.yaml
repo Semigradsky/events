@@ -1,0 +1,28 @@
+name: Frontend Day
+date: 2022-11-19
+videos: https://www.youtube.com/watch?v=WIs74Quvqjg
+talks:
+  - name: Архитектура универсальных веб-приложений
+    speaker: Глеб Михеев
+    video: https://www.youtube.com/watch?v=f2HdxD_pds4
+    presentation: 
+  - name: Необычные браузерные API
+    speaker: Александра Шинкевич
+    video: https://www.youtube.com/watch?v=WIs74Quvqjg&t=3522s
+    presentation: 
+  - name: Отдел разработки без бэкенд-специалистов
+    speaker: Влад Худяков
+    video: https://www.youtube.com/watch?v=WIs74Quvqjg&t=7530s
+    presentation: 
+  - name: Как работать с календарями
+    speaker: Алексей Авдеев
+    video: https://www.youtube.com/watch?v=WIs74Quvqjg&t=9794s
+    presentation: 
+  - name: Разработчики против No-code, неужели всё так плохо?
+    speaker: Сергей Попов
+    video: https://www.youtube.com/watch?v=WIs74Quvqjg&t=14476s
+    presentation: 
+  - name: Ораторское мастерство как инструмент развития карьеры
+    speaker: Александра Прокшина
+    video: https://www.youtube.com/watch?v=WIs74Quvqjg&t=17805s
+    presentation: 

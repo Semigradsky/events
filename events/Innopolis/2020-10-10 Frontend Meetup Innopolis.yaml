@@ -1,0 +1,24 @@
+name: Frontend Meetup Innopolis
+date: 2020-10-10
+videos: 
+talks:
+  - name: Условно адаптивно
+    speaker: Вадим Макеев
+    video: 
+    presentation: 
+  - name: BDD-тестирование веб-приложений
+    speaker: Александр Иосса
+    video: 
+    presentation: 
+  - name: Производительность веба. От нуля к единице
+    speaker: Александр Мышов
+    video: 
+    presentation: 
+  - name: Пройти собеседование на Frontend разработчика
+    speaker: Зар Захаров
+    video: 
+    presentation: 
+  - name: "yandex/ui — общая библиотека компонентов Яндекса"
+    speaker: Сергей Савельев
+    video: 
+    presentation: 
