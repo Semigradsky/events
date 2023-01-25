@@ -1,0 +1,20 @@
+name: MSK VUE.JS.yaml
+date: 2022-08-25
+videos:
+talks:
+  - name: Организация сложных многоступенчатых форм на VueJS
+    speaker: Роман Троицкий
+    video: 
+    presentation: 
+  - name: Архитектура приложения на MVP (Model-View-Presenter)
+    speaker: Александр Дроздов
+    video: 
+    presentation: 
+  - name: Состояние менеджеров состояний в 2022
+    speaker: Александр Сафт
+    video: 
+    presentation: 
+  - name: Malware в npm пакетах
+    speaker: Михаил Росин
+    video: 
+    presentation: 
