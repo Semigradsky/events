@@ -3,6 +3,16 @@
 
 # moscowcss
 
+## moscowcss 19 - 2023 Jan 26 [:movie_camera:](https://youtu.be/Ptlv_HZ8UFc)
+| | | |
+| --- | :---: | --- |
+| [Неизведанный LengthLand](https://youtu.be/Ptlv_HZ8UFc)  |  [Павел Коршиков](../../speakers/Павел%20Коршиков.md)  |    |
+## moscowcss 18 - 2022 Sep 22 [:movie_camera:](https://youtu.be/VKzK1VkD-LU)
+| | | |
+| --- | :---: | --- |
+| [Там, где заканчивается макет и начинается верстка](https://youtu.be/VKzK1VkD-LU?t=1003)  |  [Шкульник Дмитрий](../../speakers/Шкульник%20Дмитрий.md)  |    |
+| [CSS, который вы ~забыли~ заслужили](https://youtu.be/VKzK1VkD-LU?t=2214)  |  [Оловянников Илья](../../speakers/Оловянников%20Илья.md)  |    |
+| [Значения в CSS: от декларации до отображения](https://youtu.be/VKzK1VkD-LU?t=4712)  |  [Валитова София](../../speakers/Валитова%20София.md)  |    |
 ## moscowcss 17 - 2020 Feb 06 [:movie_camera:](https://www.youtube.com/playlist?list=PLAf_MJ7SOshEHtFSM5rIFQ6AvXHus4dAc)
 | | | |
 | --- | :---: | --- |

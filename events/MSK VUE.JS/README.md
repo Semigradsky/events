@@ -14,7 +14,7 @@
 | --- | :---: | --- |
 | [Микросервисный фронтенд. Как подружить vue.js и react](https://www.youtube.com/watch?v=XD02n4GXjU8)  |  [Александр Шамшурин](../../speakers/Александр%20Шамшурин.md)  |    |
 | [VueJS + NUDE Elements: от прототипа до продакшена](https://www.youtube.com/watch?v=CNql0mU9DRM)  |  [Андрей Яманов](../../speakers/Андрей%20Яманов.md)  | [:notebook:](https://nude-vuejs-talk.tenphi.now.sh/) [:octocat:](https://nude-playground.tenphi.now.sh/)  |
-| [Место css во vue.js](https://www.youtube.com/watch?v=KqGsPPtMCPU)  |  [Нагорных Мария](../../speakers/Нагорных%20Мария.md)  |    |
+| [Место css во vue.js](https://www.youtube.com/watch?v=KqGsPPtMCPU)  |  [Мария Нагорных](../../speakers/Мария%20Нагорных.md)  |    |
 ## MSK VUE.JS 4 - 2019 Oct 17 [:movie_camera:](https://www.youtube.com/playlist?list=PLOviqqLrTTvPupmq8diRKhqRDIQR1jGBp)
 | | | |
 | --- | :---: | --- |
