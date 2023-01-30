@@ -6,7 +6,7 @@
 ## moscowcss 19 - 2023 Jan 26 [:movie_camera:](https://youtu.be/Ptlv_HZ8UFc)
 | | | |
 | --- | :---: | --- |
-| [Неизведанный LengthLand](https://youtu.be/Ptlv_HZ8UFc)  |  [Павел Коршиков](../../speakers/Павел%20Коршиков.md)  |    |
+| [Неизведанный LengthLand](https://youtu.be/Ptlv_HZ8UFc)  |  [Павел Коршиков](../../speakers/Павел%20Коршиков.md)  | [:notebook:](https://drive.google.com/drive/folders/1dUyW9cUAozhbLx6hRFietNiKH3drcdnw)   |
 ## moscowcss 18 - 2022 Sep 22 [:movie_camera:](https://youtu.be/VKzK1VkD-LU)
 | | | |
 | --- | :---: | --- |

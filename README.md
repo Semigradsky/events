@@ -6,4 +6,4 @@
 ## moscowcss 19 - Jan 26 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;Ptlv_HZ8UFc)
 | | | |
 | --- | :---: | --- |
-| [Неизведанный LengthLand](https://youtu.be/Ptlv_HZ8UFc)  |  [Павел Коршиков](speakers/Павел%20Коршиков.md)  |    |
+| [Неизведанный LengthLand](https://youtu.be/Ptlv_HZ8UFc)  |  [Павел Коршиков](speakers/Павел%20Коршиков.md)  | [:notebook:](https://drive.google.com/drive/folders/1dUyW9cUAozhbLx6hRFietNiKH3drcdnw)   |
