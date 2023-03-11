@@ -3,6 +3,12 @@
 
 # Alfa JS
 
+## A.Frontend Meetup 3 - 2023 Mar 02 [:movie_camera:](https://www.youtube.com/watch?v=DE-pCki2ebM)
+| | | |
+| --- | :---: | --- |
+| [File API — работа с файлами глазами браузера](https://youtu.be/55ogtGJgwjg)  |  [Азат Загитов](../../speakers/Азат%20Загитов.md)  |    |
+| [Как расширять свой круг знакомств, если ты интроверт](https://youtu.be/L-DLWltHirc)  |  [Тимур Гафиулин](../../speakers/Тимур%20Гафиулин.md)  |    |
+| [View на Vue: личный опыт вхождения в IT](https://youtu.be/lZhWb1zrYAA)  |  [Вероника Филиппова](../../speakers/Вероника%20Филиппова.md)  |    |
 ## A?.Frontend Meetup 2 - 2022 Dec 07 [:movie_camera:](https://www.youtube.com/watch?v=dL657_09BTE)
 | | | |
 | --- | :---: | --- |
