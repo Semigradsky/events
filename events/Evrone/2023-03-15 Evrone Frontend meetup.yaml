@@ -1,0 +1,16 @@
+name: Evrone Frontend meetup
+date: 2023-03-15
+videos: 
+talks:
+  - name: Обзор полезных инструментов разработчика
+    speaker: Павел Теренин
+    video: 
+    presentation: 
+  - name: CLI для фронтендеров. Делаем лучше, а не хуже
+    speaker: Алексей Попков
+    video: 
+    presentation: 
+  - name: "Быть Senior Frontend Developer в 2023: Экспертиза, карьера и общество"
+    speaker: Гузенко Александр
+    video: 
+    presentation: 
