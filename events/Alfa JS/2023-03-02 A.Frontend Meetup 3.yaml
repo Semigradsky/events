@@ -1,0 +1,16 @@
+name: A.Frontend Meetup 3
+date: 2023-03-02
+videos: https://www.youtube.com/watch?v=DE-pCki2ebM
+talks:
+  - name: File API — работа с файлами глазами браузера
+    speaker: Азат Загитов
+    video: https://youtu.be/55ogtGJgwjg
+    presentation: 
+  - name: Как расширять свой круг знакомств, если ты интроверт
+    speaker: Тимур Гафиулин
+    video: https://youtu.be/L-DLWltHirc
+    presentation: 
+  - name: "View на Vue: личный опыт вхождения в IT"
+    speaker: Вероника Филиппова
+    video: https://youtu.be/lZhWb1zrYAA
+    presentation: 
