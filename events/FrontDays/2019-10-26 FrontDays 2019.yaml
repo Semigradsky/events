@@ -34,7 +34,7 @@ talks:
     speaker: Дмитрий Ивко
     video: 
     presentation: 
-  - name: "React: lifting state up is killing your app"
+  - name: "React: Lifting state up is killing your app"
     speaker: Андрей Гончаров
     video: 
     presentation: 

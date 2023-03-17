@@ -1,0 +1,16 @@
+name: metaconf frontend meetup
+date: 2020-09-19
+videos: 
+talks:
+  - name: Прогрессивно ли PWA?
+    speaker: Алексей Дорофеев
+    video: https://youtu.be/Ujt8Ueh8Gvk
+    presentation: https://drive.google.com/file/d/1IEq0CR2lfQ1dPxmFE6CkMOHr9mDtGgkp/view
+  - name: React Hooks и производительность
+    speaker: Дмитрий Карпунин
+    video: https://youtu.be/SXPKAgiICXE
+    presentation: 
+  - name: Реклама IoT решения в условиях пандемии
+    speaker: Андрей Исаев
+    video: https://youtu.be/sMqYc0McwAk
+    presentation: 

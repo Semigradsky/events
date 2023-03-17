@@ -4,17 +4,17 @@ videos: ''
 talks:
   - name: "Nuxt.js: миллион полезных мелочей для Vue.js фронтенда"
     speaker: Григорий Петров
-    video:
-    presentation:
+    video: https://youtu.be/L6x0XQKBns4
+    presentation: https://drive.google.com/file/d/1SKjoI8_-vWEwPYSDrGu4MZhrNa1Sc3C1/view
   - name: "React: lifting state up is killing your performance"
     speaker: Андрей Гончаров
-    video:
-    presentation:
+    video: https://youtu.be/iQlHS0Ne30k
+    presentation: https://drive.google.com/file/d/1x8FoQrHykz1bqq13mIPNKqo8Rn3VpaEc/view
   - name: Микросервисы на фронтенде
     speaker: Антон Зеленский
-    video:
-    presentation:
+    video: https://youtu.be/g_c7Vpfdtq4
+    presentation: https://drive.google.com/file/d/1-ErYFFkooalAjCxIO19JVX0MvrSW4DsZ/view
   - name: "Атипичный Angular: performance, flexibility, customization"
     speaker: Роман Еникеев
-    video:
-    presentation:
+    video: https://youtu.be/G4OaStabjH4
+    presentation: https://drive.google.com/file/d/1NsOcfT8ElqmARpY4LTQVngUTN9vmDnip/view
