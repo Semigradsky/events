@@ -1,24 +1,24 @@
 name: ITeaConf
 date: 2021-11-14
-videos: 
+videos: https://www.youtube.com/playlist?list=PL6qgEoh5jq7IMSHUC_THb_DaOX6wPKopq
 talks:
   - name: Веб-компоненты и дизайн-системы
     speaker: Дмитрий Разинков
-    video: https://youtu.be/FAAUTESE28w
+    video: https://youtu.be/dvgaO3YLaf8
     presentation: 
   - name: Что не так с React.js? Best practices vs code smells
     speaker: Александр Погорелов
-    video: https://youtu.be/pCzbSJl2_RY
+    video: https://youtu.be/OijyFbI2CM8
     presentation: 
   - name: "Howto: интерактивная визуализация на сотни тысяч элементов внутри браузера"
     speaker: Иван Затравкин
-    video: https://youtu.be/BxVerkAYBkA
+    video: https://youtu.be/PkVIDwN2zU0
     presentation: 
   - name: Рендеринг, Почему никто не следит за потерянными кадрами
     speaker: Сергей Иванов
-    video: https://youtu.be/znH3Jud-3hU
+    video: https://youtu.be/IZiNVG_wYuk
     presentation: 
   - name: Контекстно зависимые топологии (на JavaScript)
     speaker: Виктор Вершанский
-    video: https://youtu.be/4Ah3m-26-QE
+    video: https://youtu.be/yHkIODj1voE
     presentation: 
