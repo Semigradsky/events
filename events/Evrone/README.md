@@ -3,6 +3,12 @@
 
 # Evrone
 
+## Evrone Frontend meetup - 2023 Mar 15 
+| | | |
+| --- | :---: | --- |
+| [Обзор полезных инструментов разработчика](https://youtu.be/4-4V51u0F7M)  |  [Павел Теренин](../../speakers/Павел%20Теренин.md)  |    |
+| [CLI для фронтендеров. Делаем лучше, а не хуже](https://youtu.be/fGvA-e0OW9E)  |  [Алексей Попков](../../speakers/Алексей%20Попков.md)  |    |
+| [Быть Senior Frontend Developer в 2023: Экспертиза, карьера и общество](https://youtu.be/BnKJcGVqn60)  |  [Гузенко Александр](../../speakers/Гузенко%20Александр.md)  |    |
 ## Evrone Frontend meetup - 2022 Nov 30 
 | | | |
 | --- | :---: | --- |
