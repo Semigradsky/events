@@ -4,13 +4,13 @@ videos:
 talks:
   - name: Обзор полезных инструментов разработчика
     speaker: Павел Теренин
-    video: 
+    video: https://youtu.be/4-4V51u0F7M
     presentation: 
   - name: CLI для фронтендеров. Делаем лучше, а не хуже
     speaker: Алексей Попков
-    video: 
+    video: https://youtu.be/fGvA-e0OW9E
     presentation: 
   - name: "Быть Senior Frontend Developer в 2023: Экспертиза, карьера и общество"
     speaker: Гузенко Александр
-    video: 
+    video: https://youtu.be/BnKJcGVqn60
     presentation: 
