@@ -1,0 +1,16 @@
+name: X5 Frontend Meetup 2
+date: 2023-04-12
+videos: 
+talks:
+  - name: Что нам стоит блог построить?
+    speaker: Никита Дубко
+    video: https://youtu.be/ciXojSeuanc
+    presentation: 
+  - name: Мобильное приложение за три дня! Самый быстрый старт!
+    speaker: Андрей Поляков
+    video: https://youtu.be/9UGUKEqaOas
+    presentation: 
+  - name: State Of A11y 2023
+    speaker: Лена Райан
+    video: https://youtu.be/J_37hZhqyxk
+    presentation: 
