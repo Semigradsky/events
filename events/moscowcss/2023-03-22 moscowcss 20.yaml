@@ -1,16 +1,16 @@
 name: moscowcss 20
 date: 2023-03-22
-videos: 
+videos: https://youtu.be/dhjDOhQHnuA
 talks:
   - name: "Tailwind-css: Поздравляю, у вас стартап! Или нет?"
     speaker: Александр Водолазских
-    video: https://youtu.be/0yJfv737HhI
+    video: https://youtu.be/WliFSy9kXr8
     presentation: 
   - name: Эксперименты — просто о сложном
     speaker: Алина Ваниева
-    video: https://youtu.be/0yJfv737HhI
+    video: https://www.youtube.com/watch?v=dhjDOhQHnuA&t=3344s
     presentation: 
   - name: Как подружиться с дизайнером
     speaker: Алексей Авдеев
-    video: https://youtu.be/0yJfv737HhI
+    video: https://www.youtube.com/watch?v=dhjDOhQHnuA&t=5205s
     presentation: 
