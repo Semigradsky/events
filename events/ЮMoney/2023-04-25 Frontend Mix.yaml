@@ -1,0 +1,20 @@
+name: Frontend Mix
+date: 2023-04-25
+videos: https://vk.com/wall-216177318_83
+talks:
+  - name: Ререндер в React
+    speaker: Алексей Хлебаев
+    video: https://youtu.be/NdObrs0amnk
+    presentation: 
+  - name: Веб моей мечты. Как мы строили платформу для работы десятков команд
+    speaker: Олег Коровин
+    video: https://youtu.be/-2nvEk3rXs0
+    presentation: 
+  - name: "Fake API: неожиданный бустер для e2e-тестирования"
+    speaker: Антон Голубь
+    video: https://youtu.be/2JAKy-6TQ4o
+    presentation: 
+  - name: Формула онбординга фронтенда
+    speaker: Вадим Вильданов
+    video: https://youtu.be/h-7zS2qdWxQ
+    presentation: 

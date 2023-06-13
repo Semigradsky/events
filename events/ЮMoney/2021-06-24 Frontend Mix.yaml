@@ -4,13 +4,13 @@ videos:
 talks:
   - name: "World of React Native: уже можно играть! Геймплей, обзор"
     speaker: Илья Ломтев
-    video: https://youtu.be/sGe6j9Ff5sQ
+    video: https://youtu.be/CYfPcK_-jNQ
     presentation: 
   - name: "Навигация «Такси ВКонтакте»"
     speaker: Андрей Сорокин
-    video: https://youtu.be/AeislouxRdY
+    video: https://youtu.be/Vw_MWngjOC0
     presentation: 
   - name: Material UI, или как перестать волноваться и перейти на новую библиотеку компонентов
     speaker: Сергей Осипов
-    video: https://youtu.be/lHb-nlHaKE0
+    video: https://youtu.be/bVfIEJVNqNU
     presentation: 
