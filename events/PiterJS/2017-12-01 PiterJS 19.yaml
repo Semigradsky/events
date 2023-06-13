@@ -7,7 +7,7 @@ talks:
     video: https://www.youtube.com/watch?v=tiApc0DZdPw
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/19/1_Sergey_Novikov_polymer.pdf
   - name: А так ли нужен Virtual DOM?
-    speaker: Сергей Чикуенок
+    speaker: Сергей Чикуёнок
     video: https://www.youtube.com/watch?v=063LPB8eK4Y
     presentation: https://github.com/piterjs/piterjs.org/blob/master/events/19/2_Sergey_Chikuyonok.pdf
   - name: N подводных камней и горсть советов при разработке на React Native

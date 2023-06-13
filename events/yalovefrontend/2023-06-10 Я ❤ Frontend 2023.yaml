@@ -1,0 +1,42 @@
+name: Я ❤ Frontend 2023
+date:
+  - 2023-06-10
+  - 2023-06-17
+videos: 
+talks:
+  - name: Заботливый иннерсорс
+    speaker: Никита Балихин
+    video: 
+    presentation: 
+  - name: "Копаемся под капотом браузера: как работает event loop и compositing"
+    speaker: Сергей Чикуёнок
+    video: 
+    presentation: 
+  - name: Распутываем браузерные потоки
+    speaker: Полина Гуртовая
+    video: 
+    presentation: 
+  - name: Telegram как новая платформа для ваших сервисов
+    speaker: Даниил Лаптев
+    video: 
+    presentation: 
+  - name: "Воркшоп: Трогаем новый Telegram Bot API"
+    speaker: Даниил Лаптев
+    video: 
+    presentation: 
+  - name: WebAssembly и веб на TypeScript
+    speaker: Александр Коротаев
+    video: 
+    presentation: 
+  - name: Руслан Байгунусов
+    speaker: Как мы внедряли E2E-тесты и почему у нас ничего не вышло
+    video: 
+    presentation: 
+  - name: "Мифы о «толстых» клиентах"
+    speaker: Вадим Царегородцев
+    video: 
+    presentation: 
+  - name: Кому нужны фронтендеры
+    speaker: Андрей Смирнов
+    video: 
+    presentation: 
