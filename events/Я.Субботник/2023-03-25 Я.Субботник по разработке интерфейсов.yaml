@@ -1,0 +1,24 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2023-03-25
+videos: 
+talks:
+  - name: Путешествие до React и обратно
+    speaker: Александр Нефедов
+    video: https://www.youtube.com/watch?v=bB-R_lOlTLE&t=374s
+    presentation: 
+  - name: Скорость веб-страниц
+    speaker: Данила Авдошин
+    video: https://www.youtube.com/watch?v=bB-R_lOlTLE&t=3044s
+    presentation: 
+  - name: Как пасти котов node.js-приложения до продакшена
+    speaker: Андрей Мелихов
+    video: https://www.youtube.com/watch?v=bB-R_lOlTLE&t=6945s
+    presentation: 
+  - name: "Насколько деоптимизации влияют на производительность в Node.js?"
+    speaker: Надежда Шевелева
+    video: https://www.youtube.com/watch?v=bB-R_lOlTLE&t=9034s
+    presentation: 
+  - name: От npm-скриптов до полноценной CLI. DIY гайд
+    speaker: Алексей Попков
+    video: https://www.youtube.com/watch?v=bB-R_lOlTLE&t=12834s
+    presentation: 

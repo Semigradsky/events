@@ -1,0 +1,24 @@
+name: Я.Субботник по дизайну и разработке интерфейсов
+date: 2022-12-10
+videos: https://www.youtube.com/playlist?list=PLKaafC45L_SSd8jh1PoC3oOhPpqLjW3HL
+talks:
+  - name: Как работает автозаполнение в браузерах
+    speaker: Максим Бакиров
+    video: https://youtu.be/Es18Oyo9hg4
+    presentation: 
+  - name: "Фронтенд: Графы. Сборка. Мертвый код"
+    speaker: Никита Сидоров
+    video: https://youtu.be/LeR_h116Ano
+    presentation: 
+  - name: CSS для отладки
+    speaker: Александр Николаичев
+    video: https://youtu.be/25F5h9K3Vp8
+    presentation: 
+  - name: CSS-Modules — убрать нельзя оставить
+    speaker: Алина Ваниева
+    video: https://youtu.be/A-C9MFK56fc
+    presentation: 
+  - name: Генеративные палитры в дизайн-системе
+    speaker: Кирилл Балобанов, Юлиана Михайлова
+    video: https://youtu.be/DfzPuhalWoA
+    presentation: 
