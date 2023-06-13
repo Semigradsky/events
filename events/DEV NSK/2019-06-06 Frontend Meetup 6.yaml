@@ -1,0 +1,12 @@
+name: DEV NSK - Frontend Meetup 6
+date: 2019-06-06
+videos: 
+talks:
+  - name: Eslint против вашего техдолга
+    speaker: Глеб Фокин
+    video: https://youtu.be/gW6XMcW0kfI
+    presentation: 
+  - name: Синдром качества
+    speaker: Максим Соснов
+    video: https://youtu.be/iTxzWclG61E
+    presentation: 

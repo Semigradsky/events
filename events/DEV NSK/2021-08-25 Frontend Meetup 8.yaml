@@ -1,0 +1,12 @@
+name: DEV NSK - Frontend Meetup 8
+date: 2021-08-25
+videos: 
+talks:
+  - name: Оптимальная структура масштабируемого и тестируемого react/redux приложения
+    speaker: Василий Лабецкий
+    video: 
+    presentation: 
+  - name: Создание собственной библиотеки компонентов
+    speaker: Евгений Закурдаев
+    video: 
+    presentation: 

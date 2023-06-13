@@ -1,0 +1,16 @@
+name: DEV NSK - Frontend Meetup 7
+date: 2021-06-23
+videos: 
+talks:
+  - name: Использование messageformat для форматирования данных
+    speaker: Евгений Бондаренко
+    video: https://youtu.be/cfS9U3wLXyQ
+    presentation: 
+  - name: "Семантика: прихоть или необходимость?"
+    speaker: Дарья Сабурова
+    video: https://youtu.be/6b4yJQmIN3Y
+    presentation: 
+  - name: Review Code Review
+    speaker: Максим Соснов
+    video: https://youtu.be/dSIfeKxZw04
+    presentation: 
