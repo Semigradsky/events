@@ -45,6 +45,7 @@ function formatTalk(talk, level) {
 
     return {
         ...talk,
+        name: talk.name.replace(/\|/g, '\\|'),
         url: talk.video || talk.url,
         lang: talk.lang === 'ru' ? undefined : talk.lang,
         speakers,
