@@ -1,0 +1,16 @@
+name: MinskJS 10
+date: 2023-31-05
+videos: https://www.youtube.com/playlist?list=PL-whh3wS8xsKmtx780yYpGdA7kiOIxjyu
+talks:
+  - name: Что происходит в браузере после того, как пользователь ввёл адрес в адресную строку
+    speaker: Екатерина Танькова
+    video: https://youtu.be/OjBcOQ_ynJo
+    presentation: https://tankovae.github.io/slides/
+  - name: "Переосмысление «толстых» клиентов: от мифов к реальности"
+    speaker: Вадим Царегородцев
+    video: https://youtu.be/SOgqE9WzMv0
+    presentation: https://drive.google.com/file/d/1PnVi-LmIo2RVRxHMsRPZnXKgBsPy6A3Y/view
+  - name: Как расширять свой круг знакомств, если ты интроверт
+    speaker: Тимур Гафиулин
+    video: https://youtu.be/NoI4IIc3U1w
+    presentation: https://docs.google.com/presentation/d/1DYdwdKVGJeDf1pI0Fte-RR8pfiMeOJ6iaur06WtRy8Y/edit
