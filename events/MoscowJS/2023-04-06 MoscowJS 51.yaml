@@ -1,0 +1,20 @@
+name: MoscowJS 51
+date: 2023-04-06
+videos: https://youtu.be/xEwlvYJT9lg
+talks:
+  - name: "Единый стиль кода: как и зачем"
+    speaker: Софья Гусева
+    video: https://www.youtube.com/watch?v=xEwlvYJT9lg&t=726s
+    presentation: 
+  - name: Зачем и когда стоит использовать Deno
+    speaker: Данильян Ахмедьзянов
+    video: https://www.youtube.com/watch?v=xEwlvYJT9lg&t=1622s
+    presentation: 
+  - name: "Сравнение подходов разработки: implementation-first vs contract-first"
+    speaker: Павел Коршиков
+    video: https://www.youtube.com/watch?v=xEwlvYJT9lg&t=4206s
+    presentation: 
+  - name: "TypeScript: тип never и исчерпывающая проверка типа"
+    speaker: Денис Чиж
+    video: https://www.youtube.com/watch?v=xEwlvYJT9lg&t=6257s
+    presentation: 
