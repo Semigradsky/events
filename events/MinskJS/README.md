@@ -3,7 +3,7 @@
 
 # MinskJS
 
-## MinskJS 10 - 2025 Jul 05 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsKmtx780yYpGdA7kiOIxjyu)
+## MinskJS 10 - 2023 May 31 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsKmtx780yYpGdA7kiOIxjyu)
 | | | |
 | --- | :---: | --- |
 | [Что происходит в браузере после того, как пользователь ввёл адрес в адресную строку](https://youtu.be/OjBcOQ_ynJo)  |  [Екатерина Танькова](../../speakers/Екатерина%20Танькова.md)  | [:notebook:](https://tankovae.github.io/slides/)   |
