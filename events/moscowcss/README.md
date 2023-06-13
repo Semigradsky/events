@@ -3,12 +3,12 @@
 
 # moscowcss
 
-## moscowcss 20 - 2023 Mar 22 
+## moscowcss 20 - 2023 Mar 22 [:movie_camera:](https://youtu.be/dhjDOhQHnuA)
 | | | |
 | --- | :---: | --- |
-| [Tailwind-css: Поздравляю, у вас стартап! Или нет?](https://youtu.be/0yJfv737HhI)  |  [Александр Водолазских](../../speakers/Александр%20Водолазских.md)  |    |
-| [Эксперименты — просто о сложном](https://youtu.be/0yJfv737HhI)  |  [Алина Ваниева](../../speakers/Алина%20Ваниева.md)  |    |
-| [Как подружиться с дизайнером](https://youtu.be/0yJfv737HhI)  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  |    |
+| [Tailwind-css: Поздравляю, у вас стартап! Или нет?](https://youtu.be/WliFSy9kXr8)  |  [Александр Водолазских](../../speakers/Александр%20Водолазских.md)  |    |
+| [Эксперименты — просто о сложном](https://www.youtube.com/watch?v=dhjDOhQHnuA&t=3344s)  |  [Алина Ваниева](../../speakers/Алина%20Ваниева.md)  |    |
+| [Как подружиться с дизайнером](https://www.youtube.com/watch?v=dhjDOhQHnuA&t=5205s)  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  |    |
 ## moscowcss 19 - 2023 Jan 26 [:movie_camera:](https://youtu.be/Ptlv_HZ8UFc)
 | | | |
 | --- | :---: | --- |

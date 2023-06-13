@@ -215,7 +215,7 @@
 | | | |
 | --- | :---: | --- |
 | [Что умеет Polymer](https://www.youtube.com/watch?v=tiApc0DZdPw)  |  [Сергей Новиков](../../speakers/Сергей%20Новиков.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/19/1_Sergey_Novikov_polymer.pdf)   |
-| [А так ли нужен Virtual DOM?](https://www.youtube.com/watch?v=063LPB8eK4Y)  |  [Сергей Чикуенок](../../speakers/Сергей%20Чикуенок.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/19/2_Sergey_Chikuyonok.pdf)   |
+| [А так ли нужен Virtual DOM?](https://www.youtube.com/watch?v=063LPB8eK4Y)  |  [Сергей Чикуёнок](../../speakers/Сергей%20Чикуёнок.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/19/2_Sergey_Chikuyonok.pdf)   |
 | [N подводных камней и горсть советов при разработке на React Native](https://www.youtube.com/watch?v=qehnKIu30mY)  |  [Дмитрий Пацура](../../speakers/Дмитрий%20Пацура.md)  | [:notebook:](https://github.com/piterjs/piterjs.org/blob/master/events/19/3_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9F%D0%B0%D1%86%D1%83%D1%80%D0%B0.pdf)   |
 ## PiterJS 18 - 2017 Oct 28 
 | | | |

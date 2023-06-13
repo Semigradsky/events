@@ -3,6 +3,22 @@
 
 # Я.Субботник
 
+## Я.Субботник по разработке интерфейсов - 2023 Mar 25 
+| | | |
+| --- | :---: | --- |
+| [Путешествие до React и обратно](https://www.youtube.com/watch?v=bB-R_lOlTLE&t=374s)  |  [Александр Нефедов](../../speakers/Александр%20Нефедов.md)  |    |
+| [Скорость веб-страниц](https://www.youtube.com/watch?v=bB-R_lOlTLE&t=3044s)  |  [Данила Авдошин](../../speakers/Данила%20Авдошин.md)  |    |
+| [Как пасти котов node.js-приложения до продакшена](https://www.youtube.com/watch?v=bB-R_lOlTLE&t=6945s)  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |    |
+| [Насколько деоптимизации влияют на производительность в Node.js?](https://www.youtube.com/watch?v=bB-R_lOlTLE&t=9034s)  |  [Надежда Шевелева](../../speakers/Надежда%20Шевелева.md)  |    |
+| [От npm-скриптов до полноценной CLI. DIY гайд](https://www.youtube.com/watch?v=bB-R_lOlTLE&t=12834s)  |  [Алексей Попков](../../speakers/Алексей%20Попков.md)  |    |
+## Я.Субботник по дизайну и разработке интерфейсов - 2022 Dec 10 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SSd8jh1PoC3oOhPpqLjW3HL)
+| | | |
+| --- | :---: | --- |
+| [Как работает автозаполнение в браузерах](https://youtu.be/Es18Oyo9hg4)  |  [Максим Бакиров](../../speakers/Максим%20Бакиров.md)  |    |
+| [Фронтенд: Графы. Сборка. Мертвый код](https://youtu.be/LeR_h116Ano)  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  |    |
+| [CSS для отладки](https://youtu.be/25F5h9K3Vp8)  |  [Александр Николаичев](../../speakers/Александр%20Николаичев.md)  |    |
+| [CSS-Modules — убрать нельзя оставить](https://youtu.be/A-C9MFK56fc)  |  [Алина Ваниева](../../speakers/Алина%20Ваниева.md)  |    |
+| [Генеративные палитры в дизайн-системе](https://youtu.be/DfzPuhalWoA)  |  [Кирилл Балобанов](../../speakers/Кирилл%20Балобанов.md)  [Юлиана Михайлова](../../speakers/Юлиана%20Михайлова.md)  |    |
 ## Я.Субботник по разработке интерфейсов - 2022 Aug 20 [:movie_camera:](https://www.youtube.com/watch?v=A_7-hGxLseY)
 | | | |
 | --- | :---: | --- |

@@ -64,7 +64,7 @@
 | [​&quot;Zombiecode&quot;](https://www.youtube.com/watch?v=rX5_UPVouhU) [en] |  [Marco Cedaro](../../speakers/Marco%20Cedaro.md)  |    |
 | [​​&quot;Full stack JavaScript -- the folly of choice&quot;](https://www.youtube.com/watch?v=-oQHOo0VSkw) [en] |  [Олег Подсечин](../../speakers/Олег%20Подсечин.md)  |    |
 | [​​&quot;Эффективное управление асинхронным кодом в javascript&quot;](https://www.youtube.com/watch?v=FyCkQuF3-qM)  |  [Дмитрий Петров](../../speakers/Дмитрий%20Петров.md)  |    |
-| [​&quot;Emmet — инструмент для веб-разработчика&quot;​](https://www.youtube.com/watch?v=reQ-GIUk2y8)  |  [Сергей Чикуенок](../../speakers/Сергей%20Чикуенок.md)  |    |
+| [​&quot;Emmet — инструмент для веб-разработчика&quot;​](https://www.youtube.com/watch?v=reQ-GIUk2y8)  |  [Сергей Чикуёнок](../../speakers/Сергей%20Чикуёнок.md)  |    |
 | [Научный дизайн](https://www.youtube.com/watch?v=S6PQaiRl98c)  |  [Денис Мишунов](../../speakers/Денис%20Мишунов.md)  |    |
 | [Web-app in 10 minuts with Metheor.js](https://www.youtube.com/watch?v=qFTqQ-Luwdw)  |  [Александр Худенко](../../speakers/Александр%20Худенко.md)  |    |
 | [Building rich one-page applications with Ember.js](https://www.youtube.com/watch?v=AFncEM4rBw8)  |  [Сергей Борисюк](../../speakers/Сергей%20Борисюк.md)  |    |

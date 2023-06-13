@@ -3,6 +3,12 @@
 
 # X5 Group
 
+## X5 Frontend Meetup 2 - 2023 Apr 12 
+| | | |
+| --- | :---: | --- |
+| [Что нам стоит блог построить?](https://youtu.be/ciXojSeuanc)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [Мобильное приложение за три дня! Самый быстрый старт!](https://youtu.be/9UGUKEqaOas)  |  [Андрей Поляков](../../speakers/Андрей%20Поляков.md)  |    |
+| [State Of A11y 2023](https://youtu.be/J_37hZhqyxk)  |  [Лена Райан](../../speakers/Лена%20Райан.md)  |    |
 ## X5 Frontend Meetup - 2022 Jul 21 [:movie_camera:](https://www.youtube.com/watch?v=ZR-VAQSbUro)
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,17 @@
 
 # DEV NSK
 
+## DEV NSK - Frontend Meetup 7 - 2021 Jun 23 
+| | | |
+| --- | :---: | --- |
+| [Использование messageformat для форматирования данных](https://youtu.be/cfS9U3wLXyQ)  |  [Евгений Бондаренко](../../speakers/Евгений%20Бондаренко.md)  |    |
+| [Семантика: прихоть или необходимость?](https://youtu.be/6b4yJQmIN3Y)  |  [Дарья Сабурова](../../speakers/Дарья%20Сабурова.md)  |    |
+| [Review Code Review](https://youtu.be/dSIfeKxZw04)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  |    |
+## DEV NSK - Frontend Meetup 6 - 2019 Jun 06 
+| | | |
+| --- | :---: | --- |
+| [Eslint против вашего техдолга](https://youtu.be/gW6XMcW0kfI)  |  [Глеб Фокин](../../speakers/Глеб%20Фокин.md)  |    |
+| [Синдром качества](https://youtu.be/iTxzWclG61E)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  |    |
 ## DEV NSK - Frontend Meetup 5 - 2018 Sep 19 
 | | | |
 | --- | :---: | --- |

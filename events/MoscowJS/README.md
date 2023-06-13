@@ -3,6 +3,13 @@
 
 # MoscowJS
 
+## MoscowJS 51 - 2023 Apr 06 [:movie_camera:](https://youtu.be/xEwlvYJT9lg)
+| | | |
+| --- | :---: | --- |
+| [Единый стиль кода: как и зачем](https://www.youtube.com/watch?v=xEwlvYJT9lg&t=726s)  |  [Софья Гусева](../../speakers/Софья%20Гусева.md)  |    |
+| [Зачем и когда стоит использовать Deno](https://www.youtube.com/watch?v=xEwlvYJT9lg&t=1622s)  |  [Данильян Ахмедьзянов](../../speakers/Данильян%20Ахмедьзянов.md)  |    |
+| [Сравнение подходов разработки: implementation-first vs contract-first](https://www.youtube.com/watch?v=xEwlvYJT9lg&t=4206s)  |  [Павел Коршиков](../../speakers/Павел%20Коршиков.md)  |    |
+| [TypeScript: тип never и исчерпывающая проверка типа](https://www.youtube.com/watch?v=xEwlvYJT9lg&t=6257s)  |  [Денис Чиж](../../speakers/Денис%20Чиж.md)  |    |
 ## MoscowJS 50 - 2021 Sep 11 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpFF8oVmWqMnHnCUCqH2iDm3)
 | | | |
 | --- | :---: | --- |
