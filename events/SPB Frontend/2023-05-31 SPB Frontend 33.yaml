@@ -1,0 +1,20 @@
+name: SPB Frontend 33
+date: 2023-05-31
+videos: https://www.youtube.com/playlist?list=PLI6q7lZ9ClB2YnbjKY-Wse1FA7esw4gCD
+talks:
+  - name: Код-ревью с уважением
+    speaker: Ангелина Купцова
+    video: https://youtu.be/7HwtjZ3t0H8
+    presentation: 
+  - name: "Нахрена, а главное зачем: введение в юнит-тестирование"
+    speaker: Светлана Беляева
+    video: https://youtu.be/I5D6lLblKrw
+    presentation: 
+  - name: Make it easy. Упрощаем написание тестов в Angular
+    speaker: Никита Куликов
+    video: https://youtu.be/Bdae5ATI8Gg
+    presentation: 
+  - name: "Стримы и потоки в Node.js"
+    speaker: Нурсултан Бергалиев
+    video: https://youtu.be/V_aJGayH5ZA
+    presentation: 
