@@ -1,0 +1,36 @@
+name: DUMP2023
+date: 2023-04-21
+videos: 
+talks:
+  - name: Рефлексия как метод проектирования архитектуры
+    speaker: Глеб Михеев
+    video: 
+    presentation: 
+  - name: "\"Толстый\" клиент — значит медленный?"
+    speaker: Вадим Царегородцев
+    video: 
+    presentation: 
+  - name: Эволюция подхода к адаптиву компонентов
+    speaker: Сергей Попов
+    video: 
+    presentation: 
+  - name: Выгребаем техдолг из-под ковра
+    speaker: Семён Левенсон, Никита Сидоров
+    video: 
+    presentation: 
+  - name: Едим слона по кусочкам
+    speaker: Данил Чушко
+    video: 
+    presentation: 
+  - name: "Нет пароля — нет проблем?"
+    speaker: Андрей Мелихов
+    video: 
+    presentation: 
+  - name: История о том, как мы с CRA на Vite съезжали
+    speaker: Зар Захаров
+    video: 
+    presentation: 
+  - name: Новые возможности CSS, которые меняют взгляд на вёрстку
+    speaker: Никита Дубко
+    video: https://youtu.be/_JB-wXwryhw
+    presentation: 
