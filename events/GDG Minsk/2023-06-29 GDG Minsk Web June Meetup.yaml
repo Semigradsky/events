@@ -1,0 +1,12 @@
+name: GDG Minsk Web June Meetup
+date: 2023-06-29
+videos: https://www.youtube.com/playlist?list=PLIe-9RbQwa5pvJmomznXaEIF3MouUqiHs
+talks:
+  - name: "А где логика? Правильный способ писать CSS"
+    speaker: Алёна Батицкая
+    video: https://youtu.be/T1eXdRHsEsU
+    presentation: https://solarrust.github.io/GDG-Minsk/
+  - name: Добавление TypeScript в легаси проекты
+    speaker: Александр Канунников
+    video: https://youtu.be/OLNA-n84MCI
+    presentation: https://docs.google.com/presentation/d/1rGiS2FVS4QetEbfeluPsp_N3QnhQjCJ9f2tGSCvYDEA/edit?pli=1
