@@ -1,0 +1,20 @@
+name: Evrone Frontend meetup
+date: 2023-07-12
+videos: 
+talks:
+  - name: Построение микрофронтендной архитектуры. Первый взгляд, боли и решения
+    speaker: Никита Морозов
+    video: 
+    presentation: 
+  - name: Бьем монолит. Основные практики
+    speaker: Гузенко Александр
+    video: 
+    presentation: 
+  - name: Безопасный TypeScript. Защищаемся от any в кодовой базе
+    speaker: Максим Земсков
+    video: 
+    presentation: 
+  - name: Beyond Frontend
+    speaker: Алексей Тюльдюков
+    video: 
+    presentation: 
