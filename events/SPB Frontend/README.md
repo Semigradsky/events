@@ -3,6 +3,13 @@
 
 # SPB Frontend
 
+## SPB Frontend 33 - 2023 May 31 [:movie_camera:](https://www.youtube.com/playlist?list=PLI6q7lZ9ClB2YnbjKY-Wse1FA7esw4gCD)
+| | | |
+| --- | :---: | --- |
+| [Код-ревью с уважением](https://youtu.be/7HwtjZ3t0H8)  |  [Ангелина Купцова](../../speakers/Ангелина%20Купцова.md)  |    |
+| [Нахрена, а главное зачем: введение в юнит-тестирование](https://youtu.be/I5D6lLblKrw)  |  [Светлана Беляева](../../speakers/Светлана%20Беляева.md)  |    |
+| [Make it easy. Упрощаем написание тестов в Angular](https://youtu.be/Bdae5ATI8Gg)  |  [Никита Куликов](../../speakers/Никита%20Куликов.md)  |    |
+| [Стримы и потоки в Node.js](https://youtu.be/V_aJGayH5ZA)  |  [Нурсултан Бергалиев](../../speakers/Нурсултан%20Бергалиев.md)  |    |
 ## SPB Frontend - 2019 Nov 19 [:movie_camera:](https://www.youtube.com/watch?v=wH9LmO8sWYc)
 | | | |
 | --- | :---: | --- |

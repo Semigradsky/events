@@ -3,6 +3,11 @@
 
 # GDG Minsk
 
+## GDG Minsk Web June Meetup - 2023 Jun 29 [:movie_camera:](https://www.youtube.com/playlist?list=PLIe-9RbQwa5pvJmomznXaEIF3MouUqiHs)
+| | | |
+| --- | :---: | --- |
+| [А где логика? Правильный способ писать CSS](https://youtu.be/T1eXdRHsEsU)  |  [Алёна Батицкая](../../speakers/Алёна%20Батицкая.md)  | [:notebook:](https://solarrust.github.io/GDG-Minsk/)   |
+| [Добавление TypeScript в легаси проекты](https://youtu.be/OLNA-n84MCI)  |  [Александр Канунников](../../speakers/Александр%20Канунников.md)  | [:notebook:](https://docs.google.com/presentation/d/1rGiS2FVS4QetEbfeluPsp_N3QnhQjCJ9f2tGSCvYDEA/edit?pli=1)   |
 ## GDG Minsk Web August Meetup - 2022 Aug 30 [:movie_camera:](https://www.youtube.com/playlist?list=PLIe-9RbQwa5oLNfl3sp7RT7uZFQCxanr8)
 | | | |
 | --- | :---: | --- |

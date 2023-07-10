@@ -3,6 +3,18 @@
 
 # Events / 2023 / [2022](/2022.md) / [2021](/2021.md) / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## GDG Minsk Web June Meetup - Jun 29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLIe-9RbQwa5pvJmomznXaEIF3MouUqiHs)
+| | | |
+| --- | :---: | --- |
+| [А где логика? Правильный способ писать CSS](https://youtu.be/T1eXdRHsEsU)  |  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  | [:notebook:](https://solarrust.github.io/GDG-Minsk/)   |
+| [Добавление TypeScript в легаси проекты](https://youtu.be/OLNA-n84MCI)  |  [Александр Канунников](speakers/Александр%20Канунников.md)  | [:notebook:](https://docs.google.com/presentation/d/1rGiS2FVS4QetEbfeluPsp_N3QnhQjCJ9f2tGSCvYDEA/edit?pli=1)   |
+## SPB Frontend 33 - May 31 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLI6q7lZ9ClB2YnbjKY-Wse1FA7esw4gCD)
+| | | |
+| --- | :---: | --- |
+| [Код-ревью с уважением](https://youtu.be/7HwtjZ3t0H8)  |  [Ангелина Купцова](speakers/Ангелина%20Купцова.md)  |    |
+| [Нахрена, а главное зачем: введение в юнит-тестирование](https://youtu.be/I5D6lLblKrw)  |  [Светлана Беляева](speakers/Светлана%20Беляева.md)  |    |
+| [Make it easy. Упрощаем написание тестов в Angular](https://youtu.be/Bdae5ATI8Gg)  |  [Никита Куликов](speakers/Никита%20Куликов.md)  |    |
+| [Стримы и потоки в Node.js](https://youtu.be/V_aJGayH5ZA)  |  [Нурсултан Бергалиев](speakers/Нурсултан%20Бергалиев.md)  |    |
 ## MinskJS 10 - May 31 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsKmtx780yYpGdA7kiOIxjyu)
 | | | |
 | --- | :---: | --- |
@@ -16,6 +28,17 @@
 | [Веб моей мечты. Как мы строили платформу для работы десятков команд](https://youtu.be/-2nvEk3rXs0)  |  [Олег Коровин](speakers/Олег%20Коровин.md)  |    |
 | [Fake API: неожиданный бустер для e2e-тестирования](https://youtu.be/2JAKy-6TQ4o)  |  [Антон Голубь](speakers/Антон%20Голубь.md)  |    |
 | [Формула онбординга фронтенда](https://youtu.be/h-7zS2qdWxQ)  |  [Вадим Вильданов](speakers/Вадим%20Вильданов.md)  |    |
+## DUMP2023 - Apr 21 
+| | | |
+| --- | :---: | --- |
+| Рефлексия как метод проектирования архитектуры  |  [Глеб Михеев](speakers/Глеб%20Михеев.md)  |    |
+| &quot;Толстый&quot; клиент — значит медленный?  |  [Вадим Царегородцев](speakers/Вадим%20Царегородцев.md)  |    |
+| Эволюция подхода к адаптиву компонентов  |  [Сергей Попов](speakers/Сергей%20Попов.md)  |    |
+| Выгребаем техдолг из-под ковра  |  [Семён Левенсон](speakers/Семён%20Левенсон.md)  [Никита Сидоров](speakers/Никита%20Сидоров.md)  |    |
+| Едим слона по кусочкам  |  [Данил Чушко](speakers/Данил%20Чушко.md)  |    |
+| Нет пароля — нет проблем?  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
+| История о том, как мы с CRA на Vite съезжали  |  [Зар Захаров](speakers/Зар%20Захаров.md)  |    |
+| [Новые возможности CSS, которые меняют взгляд на вёрстку](https://youtu.be/_JB-wXwryhw)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
 ## X5 Frontend Meetup 2 - Apr 12 
 | | | |
 | --- | :---: | --- |
