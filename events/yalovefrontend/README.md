@@ -3,6 +3,19 @@
 
 # yalovefrontend
 
+## Я ❤ Frontend 2023 - 2023 Jun 10-17 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SSPGAPKEfkXFKsSuC9xaSgW)
+| | | |
+| --- | :---: | --- |
+| [Заботливый иннерсорс](https://youtu.be/5gPZ_nfMATg)  |  [Никита Балихин](../../speakers/Никита%20Балихин.md)  |    |
+| [Копаемся под капотом браузера: как работает event loop и compositing](https://youtu.be/On2EWADF81Y)  |  [Сергей Чикуёнок](../../speakers/Сергей%20Чикуёнок.md)  |    |
+| [Распутываем браузерные потоки](https://youtu.be/InDkFI_LwGM)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  |    |
+| [Telegram как новая платформа для ваших сервисов](https://youtu.be/G4rOkIY8KiY)  |  [Даниил Лаптев](../../speakers/Даниил%20Лаптев.md)  |    |
+| Воркшоп: Трогаем новый Telegram Bot API  |  [Даниил Лаптев](../../speakers/Даниил%20Лаптев.md)  |    |
+| [WebAssembly и веб на TypeScript](https://youtu.be/jphCxcOJoAk)  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  |    |
+| [Руслан Байгунусов](https://youtu.be/qDndak1N3gQ)  |  [Как мы внедряли E2E-тесты](../../speakers/Как%20мы%20внедряли%20E2E-тесты.md)  [почему у нас ничего не вышло](../../speakers/почему%20у%20нас%20ничего%20не%20вышло.md)  |    |
+| [Мифы о «толстых» клиентах](https://youtu.be/2NWiRjfUJNs)  |  [Вадим Царегородцев](../../speakers/Вадим%20Царегородцев.md)  |    |
+| [Кому нужны фронтендеры](https://youtu.be/jCHahEaNNNw)  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  |    |
+| [Dependency confusion: что это и как защищаться](https://youtu.be/UY74Tw22gkw)  |  [Егор Зонов](../../speakers/Егор%20Зонов.md)  |    |
 ## Я ❤ Frontend 2022 - 2022 Aug 12 [:movie_camera:](https://youtu.be/z3O8qYmPd58)
 | | | |
 | --- | :---: | --- |

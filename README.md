@@ -8,6 +8,19 @@
 | --- | :---: | --- |
 | [А где логика? Правильный способ писать CSS](https://youtu.be/T1eXdRHsEsU)  |  [Алёна Батицкая](speakers/Алёна%20Батицкая.md)  | [:notebook:](https://solarrust.github.io/GDG-Minsk/)   |
 | [Добавление TypeScript в легаси проекты](https://youtu.be/OLNA-n84MCI)  |  [Александр Канунников](speakers/Александр%20Канунников.md)  | [:notebook:](https://docs.google.com/presentation/d/1rGiS2FVS4QetEbfeluPsp_N3QnhQjCJ9f2tGSCvYDEA/edit?pli=1)   |
+## Я ❤ Frontend 2023 - Jun 10-17 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLKaafC45L_SSPGAPKEfkXFKsSuC9xaSgW)
+| | | |
+| --- | :---: | --- |
+| [Заботливый иннерсорс](https://youtu.be/5gPZ_nfMATg)  |  [Никита Балихин](speakers/Никита%20Балихин.md)  |    |
+| [Копаемся под капотом браузера: как работает event loop и compositing](https://youtu.be/On2EWADF81Y)  |  [Сергей Чикуёнок](speakers/Сергей%20Чикуёнок.md)  |    |
+| [Распутываем браузерные потоки](https://youtu.be/InDkFI_LwGM)  |  [Полина Гуртовая](speakers/Полина%20Гуртовая.md)  |    |
+| [Telegram как новая платформа для ваших сервисов](https://youtu.be/G4rOkIY8KiY)  |  [Даниил Лаптев](speakers/Даниил%20Лаптев.md)  |    |
+| Воркшоп: Трогаем новый Telegram Bot API  |  [Даниил Лаптев](speakers/Даниил%20Лаптев.md)  |    |
+| [WebAssembly и веб на TypeScript](https://youtu.be/jphCxcOJoAk)  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  |    |
+| [Руслан Байгунусов](https://youtu.be/qDndak1N3gQ)  |  [Как мы внедряли E2E-тесты](speakers/Как%20мы%20внедряли%20E2E-тесты.md)  [почему у нас ничего не вышло](speakers/почему%20у%20нас%20ничего%20не%20вышло.md)  |    |
+| [Мифы о «толстых» клиентах](https://youtu.be/2NWiRjfUJNs)  |  [Вадим Царегородцев](speakers/Вадим%20Царегородцев.md)  |    |
+| [Кому нужны фронтендеры](https://youtu.be/jCHahEaNNNw)  |  [Андрей Смирнов](speakers/Андрей%20Смирнов.md)  |    |
+| [Dependency confusion: что это и как защищаться](https://youtu.be/UY74Tw22gkw)  |  [Егор Зонов](speakers/Егор%20Зонов.md)  |    |
 ## SPB Frontend 33 - May 31 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLI6q7lZ9ClB2YnbjKY-Wse1FA7esw4gCD)
 | | | |
 | --- | :---: | --- |
