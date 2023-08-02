@@ -28,8 +28,8 @@ talks:
     speaker: Александр Коротаев
     video: https://youtu.be/jphCxcOJoAk
     presentation: 
-  - name: Руслан Байгунусов
-    speaker: Как мы внедряли E2E-тесты и почему у нас ничего не вышло
+  - name: Как мы внедряли E2E-тесты и почему у нас ничего не вышло
+    speaker: Руслан Байгунусов
     video: https://youtu.be/qDndak1N3gQ
     presentation: 
   - name: "Мифы о «толстых» клиентах"
