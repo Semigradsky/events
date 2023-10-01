@@ -1,0 +1,24 @@
+name: Я.Субботник по разработке интерфейсов
+date: 2023-08-12
+videos: https://www.youtube.com/playlist?list=PLKaafC45L_SRfdHyINeM5CYqP0ASiDV4e
+talks:
+  - name: "Что делать, когда бандл нужно «посадить на диету»"
+    speaker: Софья Гусева
+    video: https://youtu.be/biE-v-yCTpU
+    presentation: https://disk.yandex.ru/i/pbM6hsgH81i5RQ
+  - name: Сотни компонентов, сотни экспериментов и всего одна страница
+    speaker: Константин Носов
+    video: https://youtu.be/oF_geWJPoXs
+    presentation: https://disk.yandex.ru/i/VFWJhEiTdBC-jQ
+  - name: "Ajax: от A до X"
+    speaker: Александр Сулима
+    video: https://youtu.be/ML1H_MHChlQ
+    presentation: https://disk.yandex.ru/i/nI64NinhFPjMHA
+  - name: Ускоряем Time To Market
+    speaker: Иван Артамонов
+    video: https://youtu.be/d67cJGl4WHU
+    presentation: https://disk.yandex.ru/i/ja4CuehZ3vqdiA
+  - name: "ДАА!! ML на JavaScript! Но зачем?"
+    speaker: Алексей Охрименко
+    video: https://youtu.be/us9rf2eZ6Wo
+    presentation: https://disk.yandex.ru/i/cN2vgJ4tVqNQpA
