@@ -1,0 +1,20 @@
+name: MoscowJS 52
+date: 2023-05-18
+videos: https://www.youtube.com/watch?v=Yc_SXdQX3pc
+talks:
+  - name: Доступность для всех
+    speaker: Артём Чугаинов, Татьяна Чуйкова
+    video: https://www.youtube.com/watch?v=Yc_SXdQX3pc&t=629s
+    presentation: 
+  - name: Профилирование фронтенда в проде
+    speaker: Илья Алонов
+    video: https://www.youtube.com/watch?v=Yc_SXdQX3pc&t=2839s
+    presentation: 
+  - name: Pet-project — песочница для разработчика
+    speaker: Паша Кондаков
+    video: https://www.youtube.com/watch?v=Yc_SXdQX3pc&t=5695s
+    presentation: 
+  - name: It is fine или как эффективно выгореть
+    speaker: Ольга Кобец
+    video: https://www.youtube.com/watch?v=Yc_SXdQX3pc&t=7415s
+    presentation: 

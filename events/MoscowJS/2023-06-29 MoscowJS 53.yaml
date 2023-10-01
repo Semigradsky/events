@@ -1,0 +1,20 @@
+name: MoscowJS 53
+date: 2023-06-29
+videos: https://www.youtube.com/watch?v=XavYsh0FaLk
+talks:
+  - name: Создание масштабируемой архитектуры с помощью Module Federation
+    speaker: Роман Желтов
+    video: https://www.youtube.com/watch?v=XavYsh0FaLk&t=673s
+    presentation: 
+  - name: Навигация по миру юнит-тестов
+    speaker: Дмитрий Груздев
+    video: https://www.youtube.com/watch?v=XavYsh0FaLk&t=2104s
+    presentation: 
+  - name: Применение Service Worker для мокирования API
+    speaker: Сергей Зенин
+    video: https://www.youtube.com/watch?v=XavYsh0FaLk&t=5155s
+    presentation: 
+  - name: Технические метрики фронтенда
+    speaker: Максим Смирнов
+    video: https://www.youtube.com/watch?v=XavYsh0FaLk&t=6430s
+    presentation: 
