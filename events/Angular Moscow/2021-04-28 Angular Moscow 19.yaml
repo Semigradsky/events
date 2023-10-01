@@ -1,0 +1,12 @@
+name: Angular Moscow 19
+date: 2021-04-28
+videos: 
+talks:
+  - name: Инвертируем зависимости правильно
+    speaker: Владимир Агеев
+    video: https://youtu.be/cL7jlkl4jtA
+    presentation: https://acdn.tinkoff.ru/static/meetups-talk-1de0ecbd-5dab-4c4f-bd77-5e8835481e0b/DependencyInversion.pdf
+  - name: Облачный Nx
+    speaker: Иван Ишмаметьев
+    video: https://youtu.be/y4YSNayAddU
+    presentation: https://acdn.tinkoff.ru/static/meetups-talk-b4308433-72be-4dcc-8417-02d328208f61/Nx%20Cloud%20(1).pdf

@@ -1,0 +1,16 @@
+name: Angular Moscow 17
+date: 2020-04-16
+videos: 
+talks:
+  - name: Прокачиваем обработку событий в Angular
+    speaker: Александр Инкин
+    video: https://youtu.be/e3DzljXxOoM
+    presentation: 
+  - name: Granula - альтернативная версия Angular!
+    speaker: Алексей Охрименко
+    video: https://youtu.be/c6jAruZMSsw
+    presentation: 
+  - name: Динамические компоненты с Ivy
+    speaker: Олег Кургускин
+    video: https://youtu.be/ws0bcx8uSKk
+    presentation: 

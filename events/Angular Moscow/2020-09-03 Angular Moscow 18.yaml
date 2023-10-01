@@ -1,0 +1,8 @@
+name: Angular Moscow 18
+date: 2020-09-03
+videos: 
+talks:
+  - name: How we share Angular between applications
+    speaker: Игорь Кацуба
+    video: https://youtu.be/m8TzSQb-pn8
+    presentation: https://acdn.tinkoff.ru/static/meetups-talk-63d8d064-a5b4-4a7c-96fb-1a8760a88f84/How%20we%20share%20Angular%20between%20applications.pdf
