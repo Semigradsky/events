@@ -1,0 +1,16 @@
+name: Tinkoff Frontend Meetup
+date: 2023-10-12
+videos: 
+talks:
+  - name: Проектируем микрофронтенды
+    speaker: Владимир Евсеев
+    video: 
+    presentation: 
+  - name: Современные подходы к авторизации и трекингу пользователей
+    speaker: Семён Глоба
+    video: 
+    presentation: 
+  - name: Дизайнеры и разработчики
+    speaker: Вадим Осовский
+    video: 
+    presentation: 
