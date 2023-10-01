@@ -2,19 +2,91 @@ name: HolyJS 2022 Moscow
 date: 2022-11-20
 videos: 
 talks:
-  - name: "There and back again, или Нужно ли становиться руководителем"
-    speaker: Владимир Гриненко, Виталий Харисов
-    video: 
+  - name: High refresh web
+    speaker: Александр Мышов
+    video: https://www.youtube.com/watch?v=ziuQkVsniBQ
     presentation: 
-  - name: WebTransport
+  - name: Введение в реактивное программирование
+    speaker: Сэм Булатов
+    video: https://www.youtube.com/watch?v=M_8uZMnqs4w
+    presentation: 
+  - name: WebTransport и его место среди других протоколов
     speaker: Андрей Власов, Василий Маркитан
+    video: https://www.youtube.com/watch?v=edntjst4JZg
+    presentation: 
+  - name: Алгоритмы троттлинга запросов
+    speaker: Евгений Пешков
     video: 
     presentation: 
-  - name: Performant-стратегия загрузки веб-шрифтов
-    speaker: Артём Белов
+  - name: "ESLint — больше чем просто \"extend\""
+    speaker: Денис Красновский
+    video: https://www.youtube.com/watch?v=wHYThaLqb20
+    presentation: 
+  - name: "Instruction pipelining от 8086 до 2022: как работает конвейер в современных процессорах"
+    speaker: Вадим Мартынов
+    video: 
+    presentation: 
+  - name: Shared Modules
+    speaker: Андрей Гладков
+    video: https://www.youtube.com/watch?v=gaTKTpo7nkw
+    presentation: 
+  - name: "Уязвимость регулярных выражений: теория и практика ReDoS-атак"
+    speaker: Алексей Авдеев
+    video: 
+    presentation: 
+  - name: Код как данные, или Будь крутым программистом
+    speaker: Александр Шушунов
+    video: https://www.youtube.com/watch?v=0l3lKo42zmA
+    presentation: 
+  - name: Хаки и ветчина из JS-геймдева, которые подходят для велосипедных оптимизаций приложений в вебе
+    speaker: Иван Попелышев
+    video: https://www.youtube.com/watch?v=NndcSkzTle4
+    presentation: 
+  - name: "lock(_sync): иллюзия идеального выбора"
+    speaker: Станислав Сидристый
     video: 
     presentation: 
   - name: "Event Sourcing: глубокое погружение"
     speaker: Антон Жуков
+    video: https://www.youtube.com/watch?v=zjiBCrmYYDw
+    presentation: 
+  - name: Open source с точки зрения юриста
+    speaker: Ольга Щербакова
+    video: 
+    presentation: 
+  - name: Анимации и их оптимизация в корпоративных проектах
+    speaker: Роман Троицкий
+    video: https://www.youtube.com/watch?v=NWUNmE39aSM
+    presentation: 
+  - name: Загадочный EF Core, или Как написать свое расширение
+    speaker: Игорь Шаталкин
+    video: 
+    presentation: 
+  - name: А почему бы не вынести все конфиги в отдельный пакет, сократив бойлерплейт до нуля?
+    speaker: Иван Малюгин
+    video: https://www.youtube.com/watch?v=OejfAvTj93I
+    presentation: 
+  - name: Архитектурные тесты
+    speaker: Андрей Ганичев
+    video: 
+    presentation: 
+  - name: Сколько это стоит
+    speaker: Андрей Мелихов
+    video: 
+    presentation: 
+  - name: Введение в Microsoft SignalR
+    speaker: Александр Кузнецов
+    video: 
+    presentation: 
+  - name: Батчинг в React
+    speaker: Дмитрий Грош
+    video: https://www.youtube.com/watch?v=VfQ-qSjIalU
+    presentation: 
+  - name: "Ситидрайв: поездка продолжается"
+    speaker: Артём Акутин
+    video: https://www.youtube.com/watch?v=6bAiqeEuxSY
+    presentation: 
+  - name: "[Test] + <T> = ❤️"
+    speaker: Александр Катин
     video: 
     presentation: 

@@ -1,0 +1,80 @@
+name: HolyJS 2023 Spring
+date:
+  - 2023-05-15
+  - 2023-05-16
+videos: 
+talks:
+  - name: Быстрые прототипы на Moleculer
+    speaker: Иван Ратников
+    video:
+      - https://www.youtube.com/watch?v=WxONDjqVRB8
+      - https://www.youtube.com/watch?v=k5KoC0j89yI
+    presentation: 
+  - name: "Битва титанов: LSP vs PSI (VS Code vs IntelliJ)"
+    speaker: Влад Минаев
+    video: 
+    presentation: 
+  - name: "Zustand: выскочка или серьезная альтернатива Redux?"
+    speaker: Елена Литвинова
+    video:
+      - https://www.youtube.com/watch?v=GNnEtOC4alQ
+      - https://www.youtube.com/watch?v=o4UTnrXmgac
+    presentation: 
+  - name: Влетаем с двух ног в JS на Wasm
+    speaker: Дмитрий Бежецков
+    video: 
+    presentation: 
+  - name: "Аудит на доступность: зачем, как, что делать после?"
+    speaker: Алексей Золотых, Анатолий Попко
+    video: https://www.youtube.com/watch?v=9OnyHiRjayM
+    presentation: 
+  - name: Как превратить соревнование для программистов в The International?
+    speaker: Максим Альжанов
+    video: 
+    presentation: 
+  - name: "BFCache: как моментально загрузить предыдущую страницу"
+    speaker: Илья Сидорчик
+    video: 
+    presentation: 
+  - name: Как организовать ETL с Node.js в serverless-архитектуре
+    speaker: Дмитрий Крыстек
+    video: https://www.youtube.com/watch?v=2HPkHZvHrRo
+    presentation: 
+  - name: Толстый клиент — значит медленный?
+    speaker: Вадим Царегородцев
+    video: 
+    presentation: 
+  - name: "Cocos Creator: путешествие в TS-геймдев для начинающих"
+    speaker: Роман Белов
+    video: https://www.youtube.com/watch?v=7KG9xOkyr80
+    presentation: 
+  - name: "Цифровая доступность: как начать внедрять и не обжечься"
+    speaker: Артем Плаксин, Василина Дрогичинская, Павел Франков, Евгения Полозова
+    video: 
+    presentation: 
+  - name: "VPN и Proxy: разновидности, их отличия и преимущества"
+    speaker: Кирилл Толкачёв
+    video: 
+    presentation: 
+  - name: "Почему Playwright лучше Jest, а Vitest тормозит: измеряем coverage как профи"
+    speaker: Александр Канунников
+    video: 
+    presentation: 
+  - name: Тайпли скрипт
+    speaker: Николай Рыжиков
+    video: 
+    presentation: 
+  - name: Разбираемся в устройстве плееров анимаций на примере lottie-web
+    speaker: Степан Михайлюк
+    video:
+      - https://www.youtube.com/watch?v=ugFxU3TJhNg
+      - https://www.youtube.com/watch?v=KnQ-kUZWP00
+    presentation: 
+  - name: Чему нас могут научить APL-подобные языки
+    speaker: Вячеслав Шебанов
+    video: https://www.youtube.com/watch?v=GFgWiosbewE
+    presentation: 
+  - name: Об accessibility в Яндексе
+    speaker: Валерия Курмак, Юлия Долгун
+    video: https://www.youtube.com/watch?v=UiE1VVMDX6E
+    presentation: 

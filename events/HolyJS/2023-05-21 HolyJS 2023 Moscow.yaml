@@ -1,0 +1,118 @@
+name: HolyJS 2023 Moscow
+date:
+  - 2023-05-21
+  - 2023-05-22
+videos: 
+talks:
+  - name: Некогда объяснять, ты тимлид!
+    speaker: Алексей Пименов
+    video: https://www.youtube.com/watch?v=NQnpKx6iOqI
+    presentation: 
+  - name: Как мы в 4 раза ускорили мобильную версию ВКонтакте
+    speaker: Тарас Иванов
+    video: https://www.youtube.com/watch?v=O09Scq9DFss
+    presentation: 
+  - name: "Аквариум и Кроно: как сделать так, чтобы дизайнер отстал от программиста"
+    speaker: Сеня Пугач
+    video: https://www.youtube.com/watch?v=clv2doNpGGc
+    presentation: 
+  - name: B-tree индексы в базах данных на примере IndexedDB и PostgreSQL
+    speaker: Владимир Ситников
+    video: https://www.youtube.com/watch?v=FdMkixY5nso
+    presentation: 
+  - name: Нет пароля — нет проблем?
+    speaker: Андрей Мелихов
+    video: 
+    presentation: 
+  - name: Построение микрофронтендной архитектуры. Первый взгляд, боли и решения
+    speaker: Никита Морозов
+    video: 
+    presentation: 
+  - name: Одно PWA, чтоб править всеми
+    speaker: Никита Дубко
+    video: https://youtu.be/VoLhQS-hKOU
+    presentation: 
+  - name: "Автоматизация процессов разработки и поддержки: от ботов до Code Review"
+    speaker: Константин Лебедев
+    video: https://www.youtube.com/watch?v=8fKR8Kda1dQ
+    presentation: 
+  - name: "Щепотка SVG, нотка 3D* и карты"
+    speaker: Владимир Грищенко
+    video: 
+    presentation: 
+  - name: Друг или враг? Искусственный интеллект во фронтенд-разработке
+    speaker: Михаил Трифонов
+    video: https://www.youtube.com/watch?v=vcAgVvLh1XU
+    presentation: 
+  - name: Доменное моделирование и архитектура приложений на ReScript
+    speaker: Сергей Самохов
+    video: 
+    presentation: 
+  - name: Работа анимаций в React Native под капотом
+    speaker: Евгений Прокопьев
+    video: https://www.youtube.com/watch?v=-1GnQCHuiZc
+    presentation: 
+  - name: Зачем фронтенду чистая архитектура, и как она помогает строить микросервисы и микрофронтенды
+    speaker: Евгений Лабутин
+    video: 
+    presentation: 
+  - name: "React concurrency: а так ли это хорошо?"
+    speaker: Дмитрий Грош
+    video: https://www.youtube.com/watch?v=M1OBMTYsKpo
+    presentation: 
+  - name: Как мы веб-редактор документов строили
+    speaker: Сергей Симонов
+    video: 
+    presentation: 
+  - name: Фронтендеры — они повсюду
+    speaker: Андрей Смирнов
+    video: https://www.youtube.com/watch?v=zecEum4iN6c
+    presentation: 
+  - name: "Что на самом деле делает движок блога «Эгея»"
+    speaker: Илья Бирман
+    video: 
+    presentation: 
+  - name: Что нового в JS и вебе
+    speaker: Мария Кондаурова
+    video: 
+    presentation: 
+  - name: "«Коробочный» discovery для микрофронтендов на базе ModuleFederation"
+    speaker: Иван Малюгин
+    video: 
+    presentation: 
+  - name: "Как сделать из Cocos Creator крепкий орешек: строим TS-архитектуру вокруг игры"
+    speaker: Дмитрий Третьяков
+    video: https://www.youtube.com/watch?v=FNRqdxdFtlo
+    presentation: 
+  - name: Борьба с ветряными мельницами, или Как жить с техническим долгом
+    speaker: Алексей Золотых
+    video: https://www.youtube.com/watch?v=O0IrtmRj0PY
+    presentation: 
+  - name: Что такое и зачем нужны Container Queries?
+    speaker: Сергей Попов
+    video: 
+    presentation: 
+  - name: Типы в прототипах
+    speaker: Виктор Вершанский
+    video: https://www.youtube.com/watch?v=jvrXE3ruJcE
+    presentation: 
+  - name: "Нечеткий поиск в браузере на полмиллиона строк: построение индекса на CDN"
+    speaker: Никита Воробьёв
+    video: 
+    presentation: 
+  - name: Как RxJS разделил мой мир на до и после
+    speaker: Глеб Михеев
+    video: https://www.youtube.com/watch?v=Ibq3EPi2cH4
+    presentation: 
+  - name: "Telegram Web Apps: веб-приложения внутри Telegram"
+    speaker: Владислав Кибенко
+    video: 
+    presentation: 
+  - name: Неочевидные возможности SVG в современном фронтенде
+    speaker: Константин Остров
+    video: 
+    presentation: 
+  - name: "Sizecoding: взгляд изнутри"
+    speaker: Олег Сенин
+    video: 
+    presentation: 

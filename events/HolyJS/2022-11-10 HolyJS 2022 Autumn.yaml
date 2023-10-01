@@ -1,20 +1,104 @@
 name: HolyJS 2022 Autumn
 date: 2022-11-10
-videos: 
+videos: https://www.youtube.com/playlist?list=PL8sJahqnzh8I1uVkTypmYzQnLyFFSzIRU
 talks: 
-  - name: Гигантизм Reatom
-    speaker: Артём Арутюнян
-    video: 
-    presentation: 
-  - name: "Workshop: how to develop, build, and deploy Node.js microservices with NestJS & Pulumi"
-    speaker: Александр Коржиков
-    video: 
-    presentation: 
-  - name: High refresh web
-    speaker: Александр Мышов
-    video: 
+  - name: Вытягиваем монорепку
+    speaker: Михаил Потапов, Никита Балихин
+    video: https://www.youtube.com/watch?v=5S39GBeT4Z8
     presentation: 
   - name: "Планировщик задач: не замораживаем вкладку при открытии страницы"
     speaker: Виктор Хомяков
+    video: https://www.youtube.com/watch?v=Tx8B74_iINU
+    presentation: 
+  - name: "Workshop: how to develop, build, and deploy Node.js microservices with NestJS & Pulumi"
+    speaker: Александр Коржиков
+    video:
+      - https://www.youtube.com/watch?v=aQ5ycXwDepU
+      - https://www.youtube.com/watch?v=3oSt-evzV1c
+    presentation: 
+  - name: "Web almanac: фронтендеры пытаются в аналитику"
+    speaker: Алексей Золотых, Никита Сидоров, Сергей Константинов, Семён Левенсон
+    video: https://www.youtube.com/watch?v=Fi4TCXdyMoE
+    presentation: 
+  - name: Гигантизм Reatom
+    speaker: Артём Арутюнян
+    video: https://www.youtube.com/watch?v=39m1jHRgxNw
+    presentation: 
+  - name: Воркшоп. Дивный Elm-овый мир без мутаций и side-эффектов. Искусство чистых касаний
+    speaker: Ян Новак
+    video:
+      - https://www.youtube.com/watch?v=3Zb57AKGbgE
+      - https://www.youtube.com/watch?v=mQsZkeLZsJ4
+    presentation: 
+  - name: Storybook — проблема или решение проблемы?
+    speaker: Иван Нагайко
+    video: https://www.youtube.com/watch?v=UWJ8KqEPU9I
+    presentation: 
+  - name: Генерируем видео на JavaScript
+    speaker: Степан Михайлюк
+    video: https://www.youtube.com/watch?v=QAOaBpYLA58
+    presentation: 
+  - name: Разбираем слона (и это не имеет никакого отношения к JS)
+    speaker: Сергей Абдульманов
+    video: https://www.youtube.com/watch?v=TAY_eSJDzTg
+    presentation: 
+  - name: There and back again, или Нужно ли становиться руководителем
+    speaker: Виталий Харисов, Владимир Гриненко
+    video: https://www.youtube.com/watch?v=MJIpZ1ebnyA
+    presentation: 
+  - name: Эффектор. Бизнес-логика с легкостью
+    speaker: Ян Лаврюшев
+    video: https://www.youtube.com/watch?v=R5vR60YeUc8
+    presentation: 
+  - name: Воркшоп. Пишем игру на React и разбираемся с react-reconciler
+    speaker: Сергей Константинов
+    video:
+      - https://www.youtube.com/watch?v=7NfOlLge2LA
+      - https://www.youtube.com/watch?v=jmWlb4Ykcuc
+    presentation: 
+  - name: E-learning как альтернатива карьере
+    speaker: Антон Ларичев, Александр Бальцевич, Никита Овчинников, Никита Сидоров
+    video: https://www.youtube.com/watch?v=a4WThcCsfnY
+    presentation: 
+  - name: "PWA спасет «Мир»"
+    speaker: Насим Коробкин
+    video: https://www.youtube.com/watch?v=KD7JtPdUuA0
+    presentation: 
+  - name: Воркшоп. Улучшаем доступность маркетплейса для незрячих, учитывая опыт большого e-commerce проекта
+    speaker: Илья Сидорчик
+    video:
+      - https://www.youtube.com/watch?v=demASG4z4eE
+      - https://www.youtube.com/watch?v=ZOhP_7Vlivw
+    presentation: 
+  - name: "Навстречу новому developer experience с Leporello.js: придумываем livecoding-среду разработки для функционального программирования"
+    speaker: Дмитрий Васильев
+    video: https://www.youtube.com/watch?v=2v40dUEIvzE
+    presentation: 
+  - name: "Микрофронтенды: внедрение в проект с нуля или в уже текущий проект"
+    speaker: Максим Григорьев, Никита Лигер, Ирина Фролова
+    video: 
+    presentation: 
+  - name: "Экстремальные практики: безопасно ли?"
+    speaker: Станислав Шабалин, Алексей Охрименко, Семён Левенсон, Сергей Бережной
+    video: https://www.youtube.com/watch?v=ggx-Gs7cVH0
+    presentation: 
+  - name: "Миграция на Vue 3: провал и еще один провал"
+    speaker: Алексей Мацеха
+    video: https://www.youtube.com/watch?v=ZvGo9Ly5iIY
+    presentation: 
+  - name: Архитектурный рефакторинг
+    speaker: Дмитрий Шумский
+    video: https://www.youtube.com/watch?v=IAOr4MpBHA4
+    presentation: 
+  - name: Микросервис головного мозга. Рецепты качества
+    speaker: Михаил Трифонов
+    video: https://www.youtube.com/watch?v=OChg1H9NhmY
+    presentation: 
+  - name: Как на самом деле работать над перформансом веб-приложения
+    speaker: Наталья Стусь
+    video: https://www.youtube.com/watch?v=Bdo23yU16ZU
+    presentation: 
+  - name: Как перейти на другой фреймворк, поменять команду и не сойти с ума
+    speaker: Михаил Крайнов, Евгения Полозова, Ирина Фролова
     video: 
     presentation: 
