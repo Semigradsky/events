@@ -3,6 +3,14 @@
 
 # Я.Субботник
 
+## Я.Субботник по разработке интерфейсов - 2023 Aug 12 [:movie_camera:](https://www.youtube.com/playlist?list=PLKaafC45L_SRfdHyINeM5CYqP0ASiDV4e)
+| | | |
+| --- | :---: | --- |
+| [Что делать, когда бандл нужно «посадить на диету»](https://youtu.be/biE-v-yCTpU)  |  [Софья Гусева](../../speakers/Софья%20Гусева.md)  | [:notebook:](https://disk.yandex.ru/i/pbM6hsgH81i5RQ)   |
+| [Сотни компонентов, сотни экспериментов и всего одна страница](https://youtu.be/oF_geWJPoXs)  |  [Константин Носов](../../speakers/Константин%20Носов.md)  | [:notebook:](https://disk.yandex.ru/i/VFWJhEiTdBC-jQ)   |
+| [Ajax: от A до X](https://youtu.be/ML1H_MHChlQ)  |  [Александр Сулима](../../speakers/Александр%20Сулима.md)  | [:notebook:](https://disk.yandex.ru/i/nI64NinhFPjMHA)   |
+| [Ускоряем Time To Market](https://youtu.be/d67cJGl4WHU)  |  [Иван Артамонов](../../speakers/Иван%20Артамонов.md)  | [:notebook:](https://disk.yandex.ru/i/ja4CuehZ3vqdiA)   |
+| [ДАА!! ML на JavaScript! Но зачем?](https://youtu.be/us9rf2eZ6Wo)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  | [:notebook:](https://disk.yandex.ru/i/cN2vgJ4tVqNQpA)   |
 ## Я.Субботник по разработке интерфейсов - 2023 Mar 25 
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,108 @@
 
 # HolyJS
 
+## HolyJS 2023 Moscow - 2023 May 21-22 
+| | | |
+| --- | :---: | --- |
+| [Некогда объяснять, ты тимлид!](https://www.youtube.com/watch?v=NQnpKx6iOqI)  |  [Алексей Пименов](../../speakers/Алексей%20Пименов.md)  |    |
+| [Как мы в 4 раза ускорили мобильную версию ВКонтакте](https://www.youtube.com/watch?v=O09Scq9DFss)  |  [Тарас Иванов](../../speakers/Тарас%20Иванов.md)  |    |
+| [Аквариум и Кроно: как сделать так, чтобы дизайнер отстал от программиста](https://www.youtube.com/watch?v=clv2doNpGGc)  |  [Сеня Пугач](../../speakers/Сеня%20Пугач.md)  |    |
+| [B-tree индексы в базах данных на примере IndexedDB и PostgreSQL](https://www.youtube.com/watch?v=FdMkixY5nso)  |  [Владимир Ситников](../../speakers/Владимир%20Ситников.md)  |    |
+| Нет пароля — нет проблем?  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |    |
+| Построение микрофронтендной архитектуры. Первый взгляд, боли и решения  |  [Никита Морозов](../../speakers/Никита%20Морозов.md)  |    |
+| [Одно PWA, чтоб править всеми](https://youtu.be/VoLhQS-hKOU)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [Автоматизация процессов разработки и поддержки: от ботов до Code Review](https://www.youtube.com/watch?v=8fKR8Kda1dQ)  |  [Константин Лебедев](../../speakers/Константин%20Лебедев.md)  |    |
+| Щепотка SVG, нотка 3D* и карты  |  [Владимир Грищенко](../../speakers/Владимир%20Грищенко.md)  |    |
+| [Друг или враг? Искусственный интеллект во фронтенд-разработке](https://www.youtube.com/watch?v=vcAgVvLh1XU)  |  [Михаил Трифонов](../../speakers/Михаил%20Трифонов.md)  |    |
+| Доменное моделирование и архитектура приложений на ReScript  |  [Сергей Самохов](../../speakers/Сергей%20Самохов.md)  |    |
+| [Работа анимаций в React Native под капотом](https://www.youtube.com/watch?v=-1GnQCHuiZc)  |  [Евгений Прокопьев](../../speakers/Евгений%20Прокопьев.md)  |    |
+| Зачем фронтенду чистая архитектура, и как она помогает строить микросервисы и микрофронтенды  |  [Евгений Лабутин](../../speakers/Евгений%20Лабутин.md)  |    |
+| [React concurrency: а так ли это хорошо?](https://www.youtube.com/watch?v=M1OBMTYsKpo)  |  [Дмитрий Грош](../../speakers/Дмитрий%20Грош.md)  |    |
+| Как мы веб-редактор документов строили  |  [Сергей Симонов](../../speakers/Сергей%20Симонов.md)  |    |
+| [Фронтендеры — они повсюду](https://www.youtube.com/watch?v=zecEum4iN6c)  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  |    |
+| Что на самом деле делает движок блога «Эгея»  |  [Илья Бирман](../../speakers/Илья%20Бирман.md)  |    |
+| Что нового в JS и вебе  |  [Мария Кондаурова](../../speakers/Мария%20Кондаурова.md)  |    |
+| «Коробочный» discovery для микрофронтендов на базе ModuleFederation  |  [Иван Малюгин](../../speakers/Иван%20Малюгин.md)  |    |
+| [Как сделать из Cocos Creator крепкий орешек: строим TS-архитектуру вокруг игры](https://www.youtube.com/watch?v=FNRqdxdFtlo)  |  [Дмитрий Третьяков](../../speakers/Дмитрий%20Третьяков.md)  |    |
+| [Борьба с ветряными мельницами, или Как жить с техническим долгом](https://www.youtube.com/watch?v=O0IrtmRj0PY)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  |    |
+| Что такое и зачем нужны Container Queries?  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  |    |
+| [Типы в прототипах](https://www.youtube.com/watch?v=jvrXE3ruJcE)  |  [Виктор Вершанский](../../speakers/Виктор%20Вершанский.md)  |    |
+| Нечеткий поиск в браузере на полмиллиона строк: построение индекса на CDN  |  [Никита Воробьёв](../../speakers/Никита%20Воробьёв.md)  |    |
+| [Как RxJS разделил мой мир на до и после](https://www.youtube.com/watch?v=Ibq3EPi2cH4)  |  [Глеб Михеев](../../speakers/Глеб%20Михеев.md)  |    |
+| Telegram Web Apps: веб-приложения внутри Telegram  |  [Владислав Кибенко](../../speakers/Владислав%20Кибенко.md)  |    |
+| Неочевидные возможности SVG в современном фронтенде  |  [Константин Остров](../../speakers/Константин%20Остров.md)  |    |
+| Sizecoding: взгляд изнутри  |  [Олег Сенин](../../speakers/Олег%20Сенин.md)  |    |
+## HolyJS 2023 Spring - 2023 May 15-16 
+| | | |
+| --- | :---: | --- |
+| [Быстрые прототипы на Moleculer](https://www.youtube.com/watch?v=WxONDjqVRB8,https://www.youtube.com/watch?v=k5KoC0j89yI)[Быстрые прототипы на Moleculer](https://www.youtube.com/watch?v=WxONDjqVRB8,https://www.youtube.com/watch?v=k5KoC0j89yI)  |  [Иван Ратников](../../speakers/Иван%20Ратников.md)  |    |
+| Битва титанов: LSP vs PSI (VS Code vs IntelliJ)  |  [Влад Минаев](../../speakers/Влад%20Минаев.md)  |    |
+| [Zustand: выскочка или серьезная альтернатива Redux?](https://www.youtube.com/watch?v=GNnEtOC4alQ,https://www.youtube.com/watch?v=o4UTnrXmgac)[Zustand: выскочка или серьезная альтернатива Redux?](https://www.youtube.com/watch?v=GNnEtOC4alQ,https://www.youtube.com/watch?v=o4UTnrXmgac)  |  [Елена Литвинова](../../speakers/Елена%20Литвинова.md)  |    |
+| Влетаем с двух ног в JS на Wasm  |  [Дмитрий Бежецков](../../speakers/Дмитрий%20Бежецков.md)  |    |
+| [Аудит на доступность: зачем, как, что делать после?](https://www.youtube.com/watch?v=9OnyHiRjayM)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  [Анатолий Попко](../../speakers/Анатолий%20Попко.md)  |    |
+| Как превратить соревнование для программистов в The International?  |  [Максим Альжанов](../../speakers/Максим%20Альжанов.md)  |    |
+| BFCache: как моментально загрузить предыдущую страницу  |  [Илья Сидорчик](../../speakers/Илья%20Сидорчик.md)  |    |
+| [Как организовать ETL с Node.js в serverless-архитектуре](https://www.youtube.com/watch?v=2HPkHZvHrRo)  |  [Дмитрий Крыстек](../../speakers/Дмитрий%20Крыстек.md)  |    |
+| Толстый клиент — значит медленный?  |  [Вадим Царегородцев](../../speakers/Вадим%20Царегородцев.md)  |    |
+| [Cocos Creator: путешествие в TS-геймдев для начинающих](https://www.youtube.com/watch?v=7KG9xOkyr80)  |  [Роман Белов](../../speakers/Роман%20Белов.md)  |    |
+| Цифровая доступность: как начать внедрять и не обжечься  |  [Артем Плаксин](../../speakers/Артем%20Плаксин.md)  [Василина Дрогичинская](../../speakers/Василина%20Дрогичинская.md)  [Павел Франков](../../speakers/Павел%20Франков.md)  [Евгения Полозова](../../speakers/Евгения%20Полозова.md)  |    |
+| VPN и Proxy: разновидности, их отличия и преимущества  |  [Кирилл Толкачёв](../../speakers/Кирилл%20Толкачёв.md)  |    |
+| Почему Playwright лучше Jest, а Vitest тормозит: измеряем coverage как профи  |  [Александр Канунников](../../speakers/Александр%20Канунников.md)  |    |
+| Тайпли скрипт  |  [Николай Рыжиков](../../speakers/Николай%20Рыжиков.md)  |    |
+| [Разбираемся в устройстве плееров анимаций на примере lottie-web](https://www.youtube.com/watch?v=ugFxU3TJhNg,https://www.youtube.com/watch?v=KnQ-kUZWP00)[Разбираемся в устройстве плееров анимаций на примере lottie-web](https://www.youtube.com/watch?v=ugFxU3TJhNg,https://www.youtube.com/watch?v=KnQ-kUZWP00)  |  [Степан Михайлюк](../../speakers/Степан%20Михайлюк.md)  |    |
+| [Чему нас могут научить APL-подобные языки](https://www.youtube.com/watch?v=GFgWiosbewE)  |  [Вячеслав Шебанов](../../speakers/Вячеслав%20Шебанов.md)  |    |
+| [Об accessibility в Яндексе](https://www.youtube.com/watch?v=UiE1VVMDX6E)  |  [Валерия Курмак](../../speakers/Валерия%20Курмак.md)  [Юлия Долгун](../../speakers/Юлия%20Долгун.md)  |    |
+## HolyJS 2022 Moscow - 2022 Nov 20 
+| | | |
+| --- | :---: | --- |
+| [High refresh web](https://www.youtube.com/watch?v=ziuQkVsniBQ)  |  [Александр Мышов](../../speakers/Александр%20Мышов.md)  |    |
+| [Введение в реактивное программирование](https://www.youtube.com/watch?v=M_8uZMnqs4w)  |  [Сэм Булатов](../../speakers/Сэм%20Булатов.md)  |    |
+| [WebTransport и его место среди других протоколов](https://www.youtube.com/watch?v=edntjst4JZg)  |  [Андрей Власов](../../speakers/Андрей%20Власов.md)  [Василий Маркитан](../../speakers/Василий%20Маркитан.md)  |    |
+| Алгоритмы троттлинга запросов  |  [Евгений Пешков](../../speakers/Евгений%20Пешков.md)  |    |
+| [ESLint — больше чем просто &quot;extend&quot;](https://www.youtube.com/watch?v=wHYThaLqb20)  |  [Денис Красновский](../../speakers/Денис%20Красновский.md)  |    |
+| Instruction pipelining от 8086 до 2022: как работает конвейер в современных процессорах  |  [Вадим Мартынов](../../speakers/Вадим%20Мартынов.md)  |    |
+| [Shared Modules](https://www.youtube.com/watch?v=gaTKTpo7nkw)  |  [Андрей Гладков](../../speakers/Андрей%20Гладков.md)  |    |
+| Уязвимость регулярных выражений: теория и практика ReDoS-атак  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  |    |
+| [Код как данные, или Будь крутым программистом](https://www.youtube.com/watch?v=0l3lKo42zmA)  |  [Александр Шушунов](../../speakers/Александр%20Шушунов.md)  |    |
+| [Хаки и ветчина из JS-геймдева, которые подходят для велосипедных оптимизаций приложений в вебе](https://www.youtube.com/watch?v=NndcSkzTle4)  |  [Иван Попелышев](../../speakers/Иван%20Попелышев.md)  |    |
+| lock(_sync): иллюзия идеального выбора  |  [Станислав Сидристый](../../speakers/Станислав%20Сидристый.md)  |    |
+| [Event Sourcing: глубокое погружение](https://www.youtube.com/watch?v=zjiBCrmYYDw)  |  [Антон Жуков](../../speakers/Антон%20Жуков.md)  |    |
+| Open source с точки зрения юриста  |  [Ольга Щербакова](../../speakers/Ольга%20Щербакова.md)  |    |
+| [Анимации и их оптимизация в корпоративных проектах](https://www.youtube.com/watch?v=NWUNmE39aSM)  |  [Роман Троицкий](../../speakers/Роман%20Троицкий.md)  |    |
+| Загадочный EF Core, или Как написать свое расширение  |  [Игорь Шаталкин](../../speakers/Игорь%20Шаталкин.md)  |    |
+| [А почему бы не вынести все конфиги в отдельный пакет, сократив бойлерплейт до нуля?](https://www.youtube.com/watch?v=OejfAvTj93I)  |  [Иван Малюгин](../../speakers/Иван%20Малюгин.md)  |    |
+| Архитектурные тесты  |  [Андрей Ганичев](../../speakers/Андрей%20Ганичев.md)  |    |
+| Сколько это стоит  |  [Андрей Мелихов](../../speakers/Андрей%20Мелихов.md)  |    |
+| Введение в Microsoft SignalR  |  [Александр Кузнецов](../../speakers/Александр%20Кузнецов.md)  |    |
+| [Батчинг в React](https://www.youtube.com/watch?v=VfQ-qSjIalU)  |  [Дмитрий Грош](../../speakers/Дмитрий%20Грош.md)  |    |
+| [Ситидрайв: поездка продолжается](https://www.youtube.com/watch?v=6bAiqeEuxSY)  |  [Артём Акутин](../../speakers/Артём%20Акутин.md)  |    |
+| [Test] + &lt;T&gt; &#x3D; ❤️  |  [Александр Катин](../../speakers/Александр%20Катин.md)  |    |
+## HolyJS 2022 Autumn - 2022 Nov 10 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8I1uVkTypmYzQnLyFFSzIRU)
+| | | |
+| --- | :---: | --- |
+| [Вытягиваем монорепку](https://www.youtube.com/watch?v=5S39GBeT4Z8)  |  [Михаил Потапов](../../speakers/Михаил%20Потапов.md)  [Никита Балихин](../../speakers/Никита%20Балихин.md)  |    |
+| [Планировщик задач: не замораживаем вкладку при открытии страницы](https://www.youtube.com/watch?v=Tx8B74_iINU)  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |    |
+| [Workshop: how to develop, build, and deploy Node.js microservices with NestJS &amp; Pulumi](https://www.youtube.com/watch?v=aQ5ycXwDepU,https://www.youtube.com/watch?v=3oSt-evzV1c)[Workshop: how to develop, build, and deploy Node.js microservices with NestJS &amp; Pulumi](https://www.youtube.com/watch?v=aQ5ycXwDepU,https://www.youtube.com/watch?v=3oSt-evzV1c)  |  [Александр Коржиков](../../speakers/Александр%20Коржиков.md)  |    |
+| [Web almanac: фронтендеры пытаются в аналитику](https://www.youtube.com/watch?v=Fi4TCXdyMoE)  |  [Алексей Золотых](../../speakers/Алексей%20Золотых.md)  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  [Сергей Константинов](../../speakers/Сергей%20Константинов.md)  [Семён Левенсон](../../speakers/Семён%20Левенсон.md)  |    |
+| [Гигантизм Reatom](https://www.youtube.com/watch?v=39m1jHRgxNw)  |  [Артём Арутюнян](../../speakers/Артём%20Арутюнян.md)  |    |
+| [Воркшоп. Дивный Elm-овый мир без мутаций и side-эффектов. Искусство чистых касаний](https://www.youtube.com/watch?v=3Zb57AKGbgE,https://www.youtube.com/watch?v=mQsZkeLZsJ4)[Воркшоп. Дивный Elm-овый мир без мутаций и side-эффектов. Искусство чистых касаний](https://www.youtube.com/watch?v=3Zb57AKGbgE,https://www.youtube.com/watch?v=mQsZkeLZsJ4)  |  [Ян Новак](../../speakers/Ян%20Новак.md)  |    |
+| [Storybook — проблема или решение проблемы?](https://www.youtube.com/watch?v=UWJ8KqEPU9I)  |  [Иван Нагайко](../../speakers/Иван%20Нагайко.md)  |    |
+| [Генерируем видео на JavaScript](https://www.youtube.com/watch?v=QAOaBpYLA58)  |  [Степан Михайлюк](../../speakers/Степан%20Михайлюк.md)  |    |
+| [Разбираем слона (и это не имеет никакого отношения к JS)](https://www.youtube.com/watch?v=TAY_eSJDzTg)  |  [Сергей Абдульманов](../../speakers/Сергей%20Абдульманов.md)  |    |
+| [There and back again, или Нужно ли становиться руководителем](https://www.youtube.com/watch?v=MJIpZ1ebnyA)  |  [Виталий Харисов](../../speakers/Виталий%20Харисов.md)  [Владимир Гриненко](../../speakers/Владимир%20Гриненко.md)  |    |
+| [Эффектор. Бизнес-логика с легкостью](https://www.youtube.com/watch?v=R5vR60YeUc8)  |  [Ян Лаврюшев](../../speakers/Ян%20Лаврюшев.md)  |    |
+| [Воркшоп. Пишем игру на React и разбираемся с react-reconciler](https://www.youtube.com/watch?v=7NfOlLge2LA,https://www.youtube.com/watch?v=jmWlb4Ykcuc)[Воркшоп. Пишем игру на React и разбираемся с react-reconciler](https://www.youtube.com/watch?v=7NfOlLge2LA,https://www.youtube.com/watch?v=jmWlb4Ykcuc)  |  [Сергей Константинов](../../speakers/Сергей%20Константинов.md)  |    |
+| [E-learning как альтернатива карьере](https://www.youtube.com/watch?v=a4WThcCsfnY)  |  [Антон Ларичев](../../speakers/Антон%20Ларичев.md)  [Александр Бальцевич](../../speakers/Александр%20Бальцевич.md)  [Никита Овчинников](../../speakers/Никита%20Овчинников.md)  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  |    |
+| [PWA спасет «Мир»](https://www.youtube.com/watch?v=KD7JtPdUuA0)  |  [Насим Коробкин](../../speakers/Насим%20Коробкин.md)  |    |
+| [Воркшоп. Улучшаем доступность маркетплейса для незрячих, учитывая опыт большого e-commerce проекта](https://www.youtube.com/watch?v=demASG4z4eE,https://www.youtube.com/watch?v=ZOhP_7Vlivw)[Воркшоп. Улучшаем доступность маркетплейса для незрячих, учитывая опыт большого e-commerce проекта](https://www.youtube.com/watch?v=demASG4z4eE,https://www.youtube.com/watch?v=ZOhP_7Vlivw)  |  [Илья Сидорчик](../../speakers/Илья%20Сидорчик.md)  |    |
+| [Навстречу новому developer experience с Leporello.js: придумываем livecoding-среду разработки для функционального программирования](https://www.youtube.com/watch?v=2v40dUEIvzE)  |  [Дмитрий Васильев](../../speakers/Дмитрий%20Васильев.md)  |    |
+| Микрофронтенды: внедрение в проект с нуля или в уже текущий проект  |  [Максим Григорьев](../../speakers/Максим%20Григорьев.md)  [Никита Лигер](../../speakers/Никита%20Лигер.md)  [Ирина Фролова](../../speakers/Ирина%20Фролова.md)  |    |
+| [Экстремальные практики: безопасно ли?](https://www.youtube.com/watch?v=ggx-Gs7cVH0)  |  [Станислав Шабалин](../../speakers/Станислав%20Шабалин.md)  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  [Семён Левенсон](../../speakers/Семён%20Левенсон.md)  [Сергей Бережной](../../speakers/Сергей%20Бережной.md)  |    |
+| [Миграция на Vue 3: провал и еще один провал](https://www.youtube.com/watch?v=ZvGo9Ly5iIY)  |  [Алексей Мацеха](../../speakers/Алексей%20Мацеха.md)  |    |
+| [Архитектурный рефакторинг](https://www.youtube.com/watch?v=IAOr4MpBHA4)  |  [Дмитрий Шумский](../../speakers/Дмитрий%20Шумский.md)  |    |
+| [Микросервис головного мозга. Рецепты качества](https://www.youtube.com/watch?v=OChg1H9NhmY)  |  [Михаил Трифонов](../../speakers/Михаил%20Трифонов.md)  |    |
+| [Как на самом деле работать над перформансом веб-приложения](https://www.youtube.com/watch?v=Bdo23yU16ZU)  |  [Наталья Стусь](../../speakers/Наталья%20Стусь.md)  |    |
+| Как перейти на другой фреймворк, поменять команду и не сойти с ума  |  [Михаил Крайнов](../../speakers/Михаил%20Крайнов.md)  [Евгения Полозова](../../speakers/Евгения%20Полозова.md)  [Ирина Фролова](../../speakers/Ирина%20Фролова.md)  |    |
 ## HolyJS 2022 Piter - 2022 Jun 23 [:movie_camera:](https://www.youtube.com/playlist?list=PL8sJahqnzh8Jw85SPsPfxTCZ8QD16smhk)
 | | | |
 | --- | :---: | --- |

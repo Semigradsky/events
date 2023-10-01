@@ -3,6 +3,32 @@
 
 # Angular Moscow
 
+## Angular Moscow 21 - 2023 Apr 12 
+| | | |
+| --- | :---: | --- |
+| Angular CLI не нужен, используйте Nx  |  [Илья Зяблицев](../../speakers/Илья%20Зяблицев.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-a35be817-4edd-4fb8-9ecd-3ec9a84a5db4/Angular_CLI_%D0%BD%D0%B5_%D0%BD%D1%83%D0%B6%D0%B5%D0%BD,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5_Nx_CLI_%D0%98%D0%BB%D1%8C%D1%8F_%D0%97%D1%8F%D0%B1%D0%BB%D0%B8%D1%86%D0%B5%D0%B2_Angular_Meetup%20(2).pdf)   |
+| Angular - выводим продукт на новые рынки i18n  |  [Александр Шатилов](../../speakers/Александр%20Шатилов.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-e85924fc-8700-46c1-b3dc-92bf22bfae00/Angular%20%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%20%D0%A8%D0%B0%D1%82%D0%B8%D0%BB%D0%BE%D0%B2.pdf)   |
+| Создаем собственный просмотрщик документов  |  [Михаил Кириченко](../../speakers/Михаил%20Кириченко.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-3fb4447a-5df7-473f-abe3-4d4621bfec1c/document-viewer_v2.pdf)   |
+## Angular Moscow 20 - 2021 Sep 03 
+| | | |
+| --- | :---: | --- |
+| [Календарь на Angular](https://youtu.be/wy6HsC-iDhI)  |  [Александр Инкин](../../speakers/Александр%20Инкин.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-d8254147-25f0-40db-aae3-e3509ff7cea0/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C%20%D0%BD%D0%B0%20Angular.pdf)   |
+| [Angular и все-все-все: У Module federation в гостях](https://youtu.be/TNmc8sOldVU)  |  [Антон Крылов](../../speakers/Антон%20Крылов.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-201809c6-83e1-4928-b3be-9c72306ab0a4/Angular%20%D0%B8%20%D0%B2%D1%81%D0%B5-%D0%B2%D1%81%D0%B5-%D0%B2%D1%81%D0%B5%20backup.pdf)   |
+## Angular Moscow 19 - 2021 Apr 28 
+| | | |
+| --- | :---: | --- |
+| [Инвертируем зависимости правильно](https://youtu.be/cL7jlkl4jtA)  |  [Владимир Агеев](../../speakers/Владимир%20Агеев.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-1de0ecbd-5dab-4c4f-bd77-5e8835481e0b/DependencyInversion.pdf)   |
+| [Облачный Nx](https://youtu.be/y4YSNayAddU)  |  [Иван Ишмаметьев](../../speakers/Иван%20Ишмаметьев.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-b4308433-72be-4dcc-8417-02d328208f61/Nx%20Cloud%20(1).pdf)   |
+## Angular Moscow 18 - 2020 Sep 03 
+| | | |
+| --- | :---: | --- |
+| [How we share Angular between applications](https://youtu.be/m8TzSQb-pn8)  |  [Игорь Кацуба](../../speakers/Игорь%20Кацуба.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-63d8d064-a5b4-4a7c-96fb-1a8760a88f84/How%20we%20share%20Angular%20between%20applications.pdf)   |
+## Angular Moscow 17 - 2020 Apr 16 
+| | | |
+| --- | :---: | --- |
+| [Прокачиваем обработку событий в Angular](https://youtu.be/e3DzljXxOoM)  |  [Александр Инкин](../../speakers/Александр%20Инкин.md)  |    |
+| [Granula - альтернативная версия Angular!](https://youtu.be/c6jAruZMSsw)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+| [Динамические компоненты с Ivy](https://youtu.be/ws0bcx8uSKk)  |  [Олег Кургускин](../../speakers/Олег%20Кургускин.md)  |    |
 ## Angular Moscow 15 - 2019 Sep 11 
 | | | |
 | --- | :---: | --- |

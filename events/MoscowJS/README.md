@@ -3,6 +3,27 @@
 
 # MoscowJS
 
+## MoscowJS 54 - 2023 Aug 24 [:movie_camera:](https://www.youtube.com/watch?v=U50MDAkj3uE)
+| | | |
+| --- | :---: | --- |
+| [Бекстейдж блога с WebRTC](https://www.youtube.com/watch?v=U50MDAkj3uE&t=1100s)  |  [Юлия Корецкая](../../speakers/Юлия%20Корецкая.md)  |    |
+| [Применение алгоритма Дейкстры для построения траектории движения в 2D-пространстве](https://www.youtube.com/watch?v=U50MDAkj3uE&t=2362s)  |  [Александр Пономаренко](../../speakers/Александр%20Пономаренко.md)  |    |
+| [Причины неудач распространения библиотеки компонентов. Опыт Учи.ру](https://www.youtube.com/watch?v=U50MDAkj3uE&t=4932s)  |  [Артём Арефьев](../../speakers/Артём%20Арефьев.md)  |    |
+| [Сам себе лид](https://www.youtube.com/watch?v=U50MDAkj3uE&t=6590s)  |  [Кирилл Павлик](../../speakers/Кирилл%20Павлик.md)  |    |
+## MoscowJS 53 - 2023 Jun 29 [:movie_camera:](https://www.youtube.com/watch?v=XavYsh0FaLk)
+| | | |
+| --- | :---: | --- |
+| [Создание масштабируемой архитектуры с помощью Module Federation](https://www.youtube.com/watch?v=XavYsh0FaLk&t=673s)  |  [Роман Желтов](../../speakers/Роман%20Желтов.md)  |    |
+| [Навигация по миру юнит-тестов](https://www.youtube.com/watch?v=XavYsh0FaLk&t=2104s)  |  [Дмитрий Груздев](../../speakers/Дмитрий%20Груздев.md)  |    |
+| [Применение Service Worker для мокирования API](https://www.youtube.com/watch?v=XavYsh0FaLk&t=5155s)  |  [Сергей Зенин](../../speakers/Сергей%20Зенин.md)  |    |
+| [Технические метрики фронтенда](https://www.youtube.com/watch?v=XavYsh0FaLk&t=6430s)  |  [Максим Смирнов](../../speakers/Максим%20Смирнов.md)  |    |
+## MoscowJS 52 - 2023 May 18 [:movie_camera:](https://www.youtube.com/watch?v=Yc_SXdQX3pc)
+| | | |
+| --- | :---: | --- |
+| [Доступность для всех](https://www.youtube.com/watch?v=Yc_SXdQX3pc&t=629s)  |  [Артём Чугаинов](../../speakers/Артём%20Чугаинов.md)  [Татьяна Чуйкова](../../speakers/Татьяна%20Чуйкова.md)  |    |
+| [Профилирование фронтенда в проде](https://www.youtube.com/watch?v=Yc_SXdQX3pc&t=2839s)  |  [Илья Алонов](../../speakers/Илья%20Алонов.md)  |    |
+| [Pet-project — песочница для разработчика](https://www.youtube.com/watch?v=Yc_SXdQX3pc&t=5695s)  |  [Паша Кондаков](../../speakers/Паша%20Кондаков.md)  |    |
+| [It is fine или как эффективно выгореть](https://www.youtube.com/watch?v=Yc_SXdQX3pc&t=7415s)  |  [Ольга Кобец](../../speakers/Ольга%20Кобец.md)  |    |
 ## MoscowJS 51 - 2023 Apr 06 [:movie_camera:](https://youtu.be/xEwlvYJT9lg)
 | | | |
 | --- | :---: | --- |
