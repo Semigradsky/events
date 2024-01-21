@@ -3,6 +3,12 @@
 
 # СберМаркет Tech
 
+## Frontend Meetup - 2023 Sep 21 
+| | | |
+| --- | :---: | --- |
+| [Вредные советы про pet-проекты](https://youtu.be/bKDcRt88ogs)  |  [Александр Водолазских](../../speakers/Александр%20Водолазских.md)  |   [:spiral_notepad:](https://habr.com/ru/companies/sbermarket/articles/777642/) |
+| [Что такое Web3? Как под него разрабатывать](https://youtu.be/n3kEmdMGFOI)  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  |    |
+| [Как мы добавляли видео на Авито](https://youtu.be/1H0J_7oXJys)  |  [Роман Миронов](../../speakers/Роман%20Миронов.md)  |    |
 ## Frontend Meetup - 2022 Sep 06 [:movie_camera:](https://www.youtube.com/watch?v=-glbRXbIAGM)
 | | | |
 | --- | :---: | --- |

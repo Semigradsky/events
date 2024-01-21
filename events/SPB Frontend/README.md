@@ -3,6 +3,19 @@
 
 # SPB Frontend
 
+## SPB Frontend 35 - 2023 Dec 05 [:movie_camera:](https://www.youtube.com/playlist?list=PLI6q7lZ9ClB14j1W1zEtZzwQxy-2M3KF1)
+| | | |
+| --- | :---: | --- |
+| [Упрощаем CI&#x2F;CD на примере github-actions](https://youtu.be/r60AeGHPjs0)  |  [Алексей Николаев](../../speakers/Алексей%20Николаев.md)  |    |
+| [FSD при переходе на новый стек](https://youtu.be/VrpZXTKTe68)  |  [Михаил Дмитриевский](../../speakers/Михаил%20Дмитриевский.md)  |    |
+| [В погоне за HTTP](https://youtu.be/ZRhmu-pwrBg)  |  [Сергей Иванов](../../speakers/Сергей%20Иванов.md)  |    |
+## SPB Frontend 34 - 2023 Jul 19 [:movie_camera:](https://www.youtube.com/playlist?list=PLI6q7lZ9ClB2qmtCtfFezPr9zEKVzwwCr)
+| | | |
+| --- | :---: | --- |
+| [Что происходит в браузере после того, как пользователь ввёл адрес в адресную строку](https://youtu.be/c8VW5_PtxU0)  |  [Екатерина Танькова](../../speakers/Екатерина%20Танькова.md)  |    |
+| [Как мы ускорили фронтенд Практикума в несколько раз](https://youtu.be/ELxZevcFsMM)  |  [Алексей Яковлев](../../speakers/Алексей%20Яковлев.md)  |    |
+| [Гибридное мобильное приложение с нуля за 3 недели](https://youtu.be/jCMp9tzwyDE)  |  [Зулейха Ибрагимова](../../speakers/Зулейха%20Ибрагимова.md)  |    |
+| [Последние тенденции на рынке IT глазами HR](https://youtu.be/pxJIiMAC5mE)  |  [Илья Морозов](../../speakers/Илья%20Морозов.md)  |    |
 ## SPB Frontend 33 - 2023 May 31 [:movie_camera:](https://www.youtube.com/playlist?list=PLI6q7lZ9ClB2YnbjKY-Wse1FA7esw4gCD)
 | | | |
 | --- | :---: | --- |

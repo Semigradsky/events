@@ -3,6 +3,31 @@
 
 # Events / 2023 / [2022](/2022.md) / [2021](/2021.md) / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
+## A?.Frontend Meetup 5 - Dec 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ2zbYAfc8yJY5YwLEN2Vk9o4GrsvaTTi)
+| | | |
+| --- | :---: | --- |
+| [Зачем ты сюда пришёл?](https://youtu.be/CdQ5AE0qur0)  |  [Максим Булавчиков](speakers/Максим%20Булавчиков.md)  |    |
+| [Программирование без стресса: ключевые принципы](https://youtu.be/KdfiuYjzI60)  |  [Алексей Табула](speakers/Алексей%20Табула.md)  |    |
+| [Зачем становиться T-shape?](https://youtu.be/cllG77BZqH4)  |  [Александра Моисеева](speakers/Александра%20Моисеева.md)  |    |
+| [Страшный сон — микросервисы, CI&#x2F;CD, pipeline, kubernetes](https://youtu.be/87voNyup-08)  |  [Александр Курилкин](speakers/Александр%20Курилкин.md)  |    |
+## MinskCSS 11 - Dec 13 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL3uk4LxG9ZznGCBLJZhifqjQoPQ-7-6zn)
+| | | |
+| --- | :---: | --- |
+| [Как играть, побеждать и учиться в CSS Battle](https://youtu.be/y8zJyRMwYtU)  |  [Тимофей Чаптыков](speakers/Тимофей%20Чаптыков.md)  | [:notebook:](https://www.dropbox.com/scl/fi/y3wotozz17vt1y10scb86/chaptykov_cssbattle_minskcss_13122023.pdf?rlkey=v5j1lwsyjqqe1vceo7zz1higk&dl=0)   |
+| [5 лучших практик, чтобы предотвратить хаос в Tailwind CSS](https://youtu.be/rQyye1FUg0U)  |  [Нина Торгунакова](speakers/Нина%20Торгунакова.md)  | [:notebook:](https://docs.google.com/presentation/d/1DckwErPUvqjxFN6bWpxAFrwIMshpmLup5iVPgKcGf20/edit)   |
+| [OpenSource. Зачем тебе это надо и как начать?](https://youtu.be/-LV4Hm1cqXM)  |  [Егор Левченко](speakers/Егор%20Левченко.md)  | [:notebook:](https://shower-opensource-why.netlify.app/)   |
+## SPB Frontend 35 - Dec 05 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLI6q7lZ9ClB14j1W1zEtZzwQxy-2M3KF1)
+| | | |
+| --- | :---: | --- |
+| [Упрощаем CI&#x2F;CD на примере github-actions](https://youtu.be/r60AeGHPjs0)  |  [Алексей Николаев](speakers/Алексей%20Николаев.md)  |    |
+| [FSD при переходе на новый стек](https://youtu.be/VrpZXTKTe68)  |  [Михаил Дмитриевский](speakers/Михаил%20Дмитриевский.md)  |    |
+| [В погоне за HTTP](https://youtu.be/ZRhmu-pwrBg)  |  [Сергей Иванов](speakers/Сергей%20Иванов.md)  |    |
+## Frontend Meetup - Sep 21 
+| | | |
+| --- | :---: | --- |
+| [Вредные советы про pet-проекты](https://youtu.be/bKDcRt88ogs)  |  [Александр Водолазских](speakers/Александр%20Водолазских.md)  |   [:spiral_notepad:](https://habr.com/ru/companies/sbermarket/articles/777642/) |
+| [Что такое Web3? Как под него разрабатывать](https://youtu.be/n3kEmdMGFOI)  |  [Алексей Авдеев](speakers/Алексей%20Авдеев.md)  |    |
+| [Как мы добавляли видео на Авито](https://youtu.be/1H0J_7oXJys)  |  [Роман Миронов](speakers/Роман%20Миронов.md)  |    |
 ## Tinkoff Frontend Meetup - Sep 14 
 | | | |
 | --- | :---: | --- |
@@ -36,6 +61,19 @@
 | Ещё один фреймворк  |  [Сергей Андреев](speakers/Сергей%20Андреев.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-2cc45479-2f05-4f97-b10f-335bb61177f6/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2.pdf)   |
 | Извлекаем максимум пользы из Unit тестирования  |  [Никита Трофимов](speakers/Никита%20Трофимов.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-a76d9e19-3939-4d8f-98ef-ef27b029fdea/tinkoff_front_meetup_trofimov.pdf)   |
 | Как сделать фичу  |  [Георгий Тесленко](speakers/Георгий%20Тесленко.md)  | [:notebook:](https://acdn.tinkoff.ru/static/meetups-talk-d228f97a-8765-4308-98f9-8ea17def7228/%D0%9A%D0%B0%D0%BA_%D0%A1%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C_%D0%A4%D0%B8%D1%87%D1%83_22_07_%D0%A2%D0%B5%D1%81%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE.pdf)   |
+## A?.Frontend Meetup 4 - Jul 20 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLJ2zbYAfc8yKjxXS0AimE3L_VgcsRbA1h)
+| | | |
+| --- | :---: | --- |
+| [useSelector в Redux. Вытаскиваем стрелу из колена](https://youtu.be/_Lru0mfu8Z8)  |  [Вячеслав Завьялов](speakers/Вячеслав%20Завьялов.md)  |    |
+| [Путь во фронтенд: автодидакт или дилетант](https://youtu.be/cmV-yTouM3Q)  |  [Александр Мокшин](speakers/Александр%20Мокшин.md)  |    |
+| [Как на самом деле проектируются образовательные программы?](https://youtu.be/tz5FcT7a6l4)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  |    |
+## SPB Frontend 34 - Jul 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLI6q7lZ9ClB2qmtCtfFezPr9zEKVzwwCr)
+| | | |
+| --- | :---: | --- |
+| [Что происходит в браузере после того, как пользователь ввёл адрес в адресную строку](https://youtu.be/c8VW5_PtxU0)  |  [Екатерина Танькова](speakers/Екатерина%20Танькова.md)  |    |
+| [Как мы ускорили фронтенд Практикума в несколько раз](https://youtu.be/ELxZevcFsMM)  |  [Алексей Яковлев](speakers/Алексей%20Яковлев.md)  |    |
+| [Гибридное мобильное приложение с нуля за 3 недели](https://youtu.be/jCMp9tzwyDE)  |  [Зулейха Ибрагимова](speakers/Зулейха%20Ибрагимова.md)  |    |
+| [Последние тенденции на рынке IT глазами HR](https://youtu.be/pxJIiMAC5mE)  |  [Илья Морозов](speakers/Илья%20Морозов.md)  |    |
 ## MoscowJS 53 - Jun 29 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;XavYsh0FaLk)
 | | | |
 | --- | :---: | --- |
@@ -74,6 +112,17 @@
 | [Что происходит в браузере после того, как пользователь ввёл адрес в адресную строку](https://youtu.be/OjBcOQ_ynJo)  |  [Екатерина Танькова](speakers/Екатерина%20Танькова.md)  | [:notebook:](https://tankovae.github.io/slides/)   |
 | [Переосмысление «толстых» клиентов: от мифов к реальности](https://youtu.be/SOgqE9WzMv0)  |  [Вадим Царегородцев](speakers/Вадим%20Царегородцев.md)  | [:notebook:](https://drive.google.com/file/d/1PnVi-LmIo2RVRxHMsRPZnXKgBsPy6A3Y/view)   |
 | [Как расширять свой круг знакомств, если ты интроверт](https://youtu.be/NoI4IIc3U1w)  |  [Тимур Гафиулин](speakers/Тимур%20Гафиулин.md)  | [:notebook:](https://docs.google.com/presentation/d/1DYdwdKVGJeDf1pI0Fte-RR8pfiMeOJ6iaur06WtRy8Y/edit)   |
+## CodeFest 13 - May 27-28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL8761XQAJnrZtx3JvX50duslRe_mU7_Zl)
+| | | |
+| --- | :---: | --- |
+| [Выбор фреймворка с точки зрения СTO](https://youtu.be/ObUSC11w3mM)  |  [Глеб Михеев](speakers/Глеб%20Михеев.md)  |    |
+| [А что там с Container Queries?](https://youtu.be/7LnqjGlquUE)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  | [:notebook:](https://disk.yandex.ru/i/AYYMygmhk9muQg)   |
+| [Прогрессивный Яндекс Маркет: отдаём и оживляем контент по кусочкам](https://youtu.be/nN_Aal9BfFg)  |  [Никита Сидоров](speakers/Никита%20Сидоров.md)  | [:notebook:](https://disk.yandex.ru/d/vV-11j_6lml1hQ)   |
+| [А нужен ли нам еще Webpack?](https://youtu.be/8OQ_WXd_oQo)  |  [Зар Захаров](speakers/Зар%20Захаров.md)  | [:notebook:](https://disk.yandex.ru/d/kyt3ESrgAHGp6Q)   |
+| [Frontend++: как ChatGPT может помочь разработчику](https://youtu.be/S5R31bg6c7I)  |  [Максим Соснов](speakers/Максим%20Соснов.md)  | [:notebook:](https://disk.yandex.ru/i/V62wpuQLOn6fZQ)   |
+| [Что нам стоит блог построить?](https://youtu.be/LWRA6kDVLxY)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+| [DDD во фронтенде: от монолита к доменным моделям](https://youtu.be/DWfoDUv1AOc)  |  [Евгений Бондаренко](speakers/Евгений%20Бондаренко.md)  |    |
+| [PWA vs. нативные приложения: когда и как выбрать?](https://youtu.be/GB5NP19lK-8)  |  [Александра Шинкевич](speakers/Александра%20Шинкевич.md)  |    |
 ## HolyJS 2023 Moscow - May 21-22 
 | | | |
 | --- | :---: | --- |
@@ -150,6 +199,12 @@
 | Нет пароля — нет проблем?  |  [Андрей Мелихов](speakers/Андрей%20Мелихов.md)  |    |
 | История о том, как мы с CRA на Vite съезжали  |  [Зар Захаров](speakers/Зар%20Захаров.md)  |    |
 | [Новые возможности CSS, которые меняют взгляд на вёрстку](https://youtu.be/_JB-wXwryhw)  |  [Никита Дубко](speakers/Никита%20Дубко.md)  |    |
+## MinskCSS 10 - Apr 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL3uk4LxG9ZzmnzCww1bsVe3lMluWAuBo3)
+| | | |
+| --- | :---: | --- |
+| [HTML: 25 фич, которые сделают ваш сайт удобнее](https://youtu.be/-aeKCwJY6c8)  |  [Алексей Назаренко](speakers/Алексей%20Назаренко.md)  | [:notebook:](https://html-ux-minskcss.netlify.app/)   |
+| [Анимации в браузере для самых маленьких](https://youtu.be/b9SJguCsxzY)  |  [Диана Михеева](speakers/Диана%20Михеева.md)  | [:notebook:](https://drive.google.com/file/d/1Q0u1gHondDzAexEa1CevK0daQR2kdT5-/view)   |
+| [Основы психологического здоровья в IТ](https://youtu.be/EHT-waazJUU)  |  [Сергей Попов](speakers/Сергей%20Попов.md)  | [:notebook:](https://drive.google.com/file/d/1QFbFOfLGizryOJ-9WUZ8gqURlHdrhXEB/view)   |
 ## X5 Frontend Meetup 2 - Apr 12 
 | | | |
 | --- | :---: | --- |
@@ -189,7 +244,7 @@
 | [Обзор полезных инструментов разработчика](https://youtu.be/4-4V51u0F7M)  |  [Павел Теренин](speakers/Павел%20Теренин.md)  |    |
 | [CLI для фронтендеров. Делаем лучше, а не хуже](https://youtu.be/fGvA-e0OW9E)  |  [Алексей Попков](speakers/Алексей%20Попков.md)  |    |
 | [Быть Senior Frontend Developer в 2023: Экспертиза, карьера и общество](https://youtu.be/BnKJcGVqn60)  |  [Гузенко Александр](speakers/Гузенко%20Александр.md)  |    |
-## A.Frontend Meetup 3 - Mar 02 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;DE-pCki2ebM)
+## A?.Frontend Meetup 3 - Mar 02 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;DE-pCki2ebM)
 | | | |
 | --- | :---: | --- |
 | [File API — работа с файлами глазами браузера](https://youtu.be/55ogtGJgwjg)  |  [Азат Загитов](speakers/Азат%20Загитов.md)  |    |

@@ -3,7 +3,20 @@
 
 # Alfa JS
 
-## A.Frontend Meetup 3 - 2023 Mar 02 [:movie_camera:](https://www.youtube.com/watch?v=DE-pCki2ebM)
+## A?.Frontend Meetup 5 - 2023 Dec 22 [:movie_camera:](https://www.youtube.com/playlist?list=PLJ2zbYAfc8yJY5YwLEN2Vk9o4GrsvaTTi)
+| | | |
+| --- | :---: | --- |
+| [Зачем ты сюда пришёл?](https://youtu.be/CdQ5AE0qur0)  |  [Максим Булавчиков](../../speakers/Максим%20Булавчиков.md)  |    |
+| [Программирование без стресса: ключевые принципы](https://youtu.be/KdfiuYjzI60)  |  [Алексей Табула](../../speakers/Алексей%20Табула.md)  |    |
+| [Зачем становиться T-shape?](https://youtu.be/cllG77BZqH4)  |  [Александра Моисеева](../../speakers/Александра%20Моисеева.md)  |    |
+| [Страшный сон — микросервисы, CI&#x2F;CD, pipeline, kubernetes](https://youtu.be/87voNyup-08)  |  [Александр Курилкин](../../speakers/Александр%20Курилкин.md)  |    |
+## A?.Frontend Meetup 4 - 2023 Jul 20 [:movie_camera:](https://www.youtube.com/playlist?list=PLJ2zbYAfc8yKjxXS0AimE3L_VgcsRbA1h)
+| | | |
+| --- | :---: | --- |
+| [useSelector в Redux. Вытаскиваем стрелу из колена](https://youtu.be/_Lru0mfu8Z8)  |  [Вячеслав Завьялов](../../speakers/Вячеслав%20Завьялов.md)  |    |
+| [Путь во фронтенд: автодидакт или дилетант](https://youtu.be/cmV-yTouM3Q)  |  [Александр Мокшин](../../speakers/Александр%20Мокшин.md)  |    |
+| [Как на самом деле проектируются образовательные программы?](https://youtu.be/tz5FcT7a6l4)  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  |    |
+## A?.Frontend Meetup 3 - 2023 Mar 02 [:movie_camera:](https://www.youtube.com/watch?v=DE-pCki2ebM)
 | | | |
 | --- | :---: | --- |
 | [File API — работа с файлами глазами браузера](https://youtu.be/55ogtGJgwjg)  |  [Азат Загитов](../../speakers/Азат%20Загитов.md)  |    |

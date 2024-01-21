@@ -3,6 +3,18 @@
 
 # MinskCSS
 
+## MinskCSS 11 - 2023 Dec 13 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9ZznGCBLJZhifqjQoPQ-7-6zn)
+| | | |
+| --- | :---: | --- |
+| [Как играть, побеждать и учиться в CSS Battle](https://youtu.be/y8zJyRMwYtU)  |  [Тимофей Чаптыков](../../speakers/Тимофей%20Чаптыков.md)  | [:notebook:](https://www.dropbox.com/scl/fi/y3wotozz17vt1y10scb86/chaptykov_cssbattle_minskcss_13122023.pdf?rlkey=v5j1lwsyjqqe1vceo7zz1higk&dl=0)   |
+| [5 лучших практик, чтобы предотвратить хаос в Tailwind CSS](https://youtu.be/rQyye1FUg0U)  |  [Нина Торгунакова](../../speakers/Нина%20Торгунакова.md)  | [:notebook:](https://docs.google.com/presentation/d/1DckwErPUvqjxFN6bWpxAFrwIMshpmLup5iVPgKcGf20/edit)   |
+| [OpenSource. Зачем тебе это надо и как начать?](https://youtu.be/-LV4Hm1cqXM)  |  [Егор Левченко](../../speakers/Егор%20Левченко.md)  | [:notebook:](https://shower-opensource-why.netlify.app/)   |
+## MinskCSS 10 - 2023 Apr 19 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9ZzmnzCww1bsVe3lMluWAuBo3)
+| | | |
+| --- | :---: | --- |
+| [HTML: 25 фич, которые сделают ваш сайт удобнее](https://youtu.be/-aeKCwJY6c8)  |  [Алексей Назаренко](../../speakers/Алексей%20Назаренко.md)  | [:notebook:](https://html-ux-minskcss.netlify.app/)   |
+| [Анимации в браузере для самых маленьких](https://youtu.be/b9SJguCsxzY)  |  [Диана Михеева](../../speakers/Диана%20Михеева.md)  | [:notebook:](https://drive.google.com/file/d/1Q0u1gHondDzAexEa1CevK0daQR2kdT5-/view)   |
+| [Основы психологического здоровья в IТ](https://youtu.be/EHT-waazJUU)  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  | [:notebook:](https://drive.google.com/file/d/1QFbFOfLGizryOJ-9WUZ8gqURlHdrhXEB/view)   |
 ## MinskCSS 9 - 2022 Jan 26 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9ZzmOQJcs6ZI93a6E5ZfaVLCa)
 | | | |
 | --- | :---: | --- |

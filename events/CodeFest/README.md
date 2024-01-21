@@ -3,6 +3,17 @@
 
 # CodeFest
 
+## CodeFest 13 - 2023 May 27-28 [:movie_camera:](https://www.youtube.com/playlist?list=PL8761XQAJnrZtx3JvX50duslRe_mU7_Zl)
+| | | |
+| --- | :---: | --- |
+| [Выбор фреймворка с точки зрения СTO](https://youtu.be/ObUSC11w3mM)  |  [Глеб Михеев](../../speakers/Глеб%20Михеев.md)  |    |
+| [А что там с Container Queries?](https://youtu.be/7LnqjGlquUE)  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  | [:notebook:](https://disk.yandex.ru/i/AYYMygmhk9muQg)   |
+| [Прогрессивный Яндекс Маркет: отдаём и оживляем контент по кусочкам](https://youtu.be/nN_Aal9BfFg)  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  | [:notebook:](https://disk.yandex.ru/d/vV-11j_6lml1hQ)   |
+| [А нужен ли нам еще Webpack?](https://youtu.be/8OQ_WXd_oQo)  |  [Зар Захаров](../../speakers/Зар%20Захаров.md)  | [:notebook:](https://disk.yandex.ru/d/kyt3ESrgAHGp6Q)   |
+| [Frontend++: как ChatGPT может помочь разработчику](https://youtu.be/S5R31bg6c7I)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  | [:notebook:](https://disk.yandex.ru/i/V62wpuQLOn6fZQ)   |
+| [Что нам стоит блог построить?](https://youtu.be/LWRA6kDVLxY)  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  |    |
+| [DDD во фронтенде: от монолита к доменным моделям](https://youtu.be/DWfoDUv1AOc)  |  [Евгений Бондаренко](../../speakers/Евгений%20Бондаренко.md)  |    |
+| [PWA vs. нативные приложения: когда и как выбрать?](https://youtu.be/GB5NP19lK-8)  |  [Александра Шинкевич](../../speakers/Александра%20Шинкевич.md)  |    |
 ## CodeFest 12 - 2022 May 28-29 [:movie_camera:](https://www.youtube.com/playlist?list=PL8761XQAJnra2OI2zSXwiymJrCDqehhxG)
 | | | |
 | --- | :---: | --- |
