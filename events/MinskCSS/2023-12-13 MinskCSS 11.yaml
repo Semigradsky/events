@@ -1,0 +1,16 @@
+name: MinskCSS 11
+date: 2023-12-13
+videos: https://www.youtube.com/playlist?list=PL3uk4LxG9ZznGCBLJZhifqjQoPQ-7-6zn
+talks:
+  - name: Как играть, побеждать и учиться в CSS Battle
+    speaker: Тимофей Чаптыков
+    video: https://youtu.be/y8zJyRMwYtU
+    presentation: https://www.dropbox.com/scl/fi/y3wotozz17vt1y10scb86/chaptykov_cssbattle_minskcss_13122023.pdf?rlkey=v5j1lwsyjqqe1vceo7zz1higk&dl=0
+  - name: 5 лучших практик, чтобы предотвратить хаос в Tailwind CSS
+    speaker: Нина Торгунакова
+    video: https://youtu.be/rQyye1FUg0U
+    presentation: https://docs.google.com/presentation/d/1DckwErPUvqjxFN6bWpxAFrwIMshpmLup5iVPgKcGf20/edit
+  - name: OpenSource. Зачем тебе это надо и как начать?
+    speaker: Егор Левченко
+    video: https://youtu.be/-LV4Hm1cqXM
+    presentation: https://shower-opensource-why.netlify.app/

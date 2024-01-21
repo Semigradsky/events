@@ -1,0 +1,16 @@
+name: MinskCSS 10
+date: 2023-04-19
+videos: https://www.youtube.com/playlist?list=PL3uk4LxG9ZzmnzCww1bsVe3lMluWAuBo3
+talks:
+  - name: "HTML: 25 фич, которые сделают ваш сайт удобнее"
+    speaker: Алексей Назаренко
+    video: https://youtu.be/-aeKCwJY6c8
+    presentation: https://html-ux-minskcss.netlify.app/
+  - name: Анимации в браузере для самых маленьких
+    speaker: Диана Михеева
+    video: https://youtu.be/b9SJguCsxzY
+    presentation: https://drive.google.com/file/d/1Q0u1gHondDzAexEa1CevK0daQR2kdT5-/view
+  - name: Основы психологического здоровья в IТ
+    speaker: Сергей Попов
+    video: https://youtu.be/EHT-waazJUU
+    presentation: https://drive.google.com/file/d/1QFbFOfLGizryOJ-9WUZ8gqURlHdrhXEB/view
