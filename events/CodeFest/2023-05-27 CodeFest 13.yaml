@@ -1,0 +1,38 @@
+name: CodeFest 13
+date:
+  - 2023-05-27
+  - 2023-05-28
+videos: https://www.youtube.com/playlist?list=PL8761XQAJnrZtx3JvX50duslRe_mU7_Zl
+talks:
+  - name: Выбор фреймворка с точки зрения СTO
+    speaker: Глеб Михеев
+    video: https://youtu.be/ObUSC11w3mM
+    presentation:
+  - name: А что там с Container Queries?
+    speaker: Сергей Попов
+    video: https://youtu.be/7LnqjGlquUE
+    presentation: https://disk.yandex.ru/i/AYYMygmhk9muQg
+  - name: "Прогрессивный Яндекс Маркет: отдаём и оживляем контент по кусочкам"
+    speaker: Никита Сидоров
+    video: https://youtu.be/nN_Aal9BfFg
+    presentation: https://disk.yandex.ru/d/vV-11j_6lml1hQ
+  - name: А нужен ли нам еще Webpack?
+    speaker: Зар Захаров
+    video: https://youtu.be/8OQ_WXd_oQo
+    presentation: https://disk.yandex.ru/d/kyt3ESrgAHGp6Q
+  - name: "Frontend++: как ChatGPT может помочь разработчику"
+    speaker: Максим Соснов
+    video: https://youtu.be/S5R31bg6c7I
+    presentation: https://disk.yandex.ru/i/V62wpuQLOn6fZQ
+  - name: Что нам стоит блог построить?
+    speaker: Никита Дубко
+    video: https://youtu.be/LWRA6kDVLxY
+    presentation:
+  - name: "DDD во фронтенде: от монолита к доменным моделям"
+    speaker: Евгений Бондаренко
+    video: https://youtu.be/DWfoDUv1AOc
+    presentation:
+  - name: "PWA vs. нативные приложения: когда и как выбрать?"
+    speaker: Александра Шинкевич
+    video: https://youtu.be/GB5NP19lK-8
+    presentation:
