@@ -1,0 +1,17 @@
+name: Frontend Meetup
+date: 2023-09-21
+videos:
+talks:
+  - name: Вредные советы про pet-проекты
+    speaker: Александр Водолазских
+    video: https://youtu.be/bKDcRt88ogs
+    text: https://habr.com/ru/companies/sbermarket/articles/777642/
+    presentation:
+  - name: Что такое Web3? Как под него разрабатывать
+    speaker: Алексей Авдеев
+    video: https://youtu.be/n3kEmdMGFOI
+    presentation:
+  - name: Как мы добавляли видео на Авито
+    speaker: Роман Миронов
+    video: https://youtu.be/1H0J_7oXJys
+    presentation:
