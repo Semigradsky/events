@@ -1,0 +1,16 @@
+name: SPB Frontend 35
+date: 2023-12-05
+videos: https://www.youtube.com/playlist?list=PLI6q7lZ9ClB14j1W1zEtZzwQxy-2M3KF1
+talks:
+  - name: Упрощаем CI/CD на примере github-actions
+    speaker: Алексей Николаев
+    video: https://youtu.be/r60AeGHPjs0
+    presentation:
+  - name: FSD при переходе на новый стек
+    speaker: Михаил Дмитриевский
+    video: https://youtu.be/VrpZXTKTe68
+    presentation:
+  - name: В погоне за HTTP
+    speaker: Сергей Иванов
+    video: https://youtu.be/ZRhmu-pwrBg
+    presentation:

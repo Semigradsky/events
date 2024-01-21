@@ -1,20 +1,20 @@
 name: SPB Frontend 34
 date: 2023-07-19
-videos: 
+videos: https://www.youtube.com/playlist?list=PLI6q7lZ9ClB2qmtCtfFezPr9zEKVzwwCr
 talks:
   - name: Что происходит в браузере после того, как пользователь ввёл адрес в адресную строку
     speaker: Екатерина Танькова
-    video: 
-    presentation: 
-  - name: Как в Практикуме удаление одной строчки кода ускорило время ответа сервера в несколько раз
+    video: https://youtu.be/c8VW5_PtxU0
+    presentation:
+  - name: Как мы ускорили фронтенд Практикума в несколько раз
     speaker: Алексей Яковлев
-    video: 
-    presentation: 
+    video: https://youtu.be/ELxZevcFsMM
+    presentation:
   - name: Гибридное мобильное приложение с нуля за 3 недели
     speaker: Зулейха Ибрагимова
-    video: 
-    presentation: 
+    video: https://youtu.be/jCMp9tzwyDE
+    presentation:
   - name: Последние тенденции на рынке IT глазами HR
     speaker: Илья Морозов
-    video: 
-    presentation: 
+    video: https://youtu.be/pxJIiMAC5mE
+    presentation:
