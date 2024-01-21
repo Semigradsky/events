@@ -1,0 +1,20 @@
+name: A?.Frontend Meetup 5
+date: 2023-12-22
+videos: https://www.youtube.com/playlist?list=PLJ2zbYAfc8yJY5YwLEN2Vk9o4GrsvaTTi
+talks:
+  - name: Зачем ты сюда пришёл?
+    speaker: Максим Булавчиков
+    video: https://youtu.be/CdQ5AE0qur0
+    presentation:
+  - name: "Программирование без стресса: ключевые принципы"
+    speaker: Алексей Табула
+    video: https://youtu.be/KdfiuYjzI60
+    presentation:
+  - name: Зачем становиться T-shape?
+    speaker: Александра Моисеева
+    video: https://youtu.be/cllG77BZqH4
+    presentation:
+  - name: "Страшный сон — микросервисы, CI/CD, pipeline, kubernetes"
+    speaker: Александр Курилкин
+    video: https://youtu.be/87voNyup-08
+    presentation:

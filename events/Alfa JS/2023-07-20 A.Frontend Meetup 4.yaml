@@ -1,0 +1,16 @@
+name: A?.Frontend Meetup 4
+date: 2023-07-20
+videos: https://www.youtube.com/playlist?list=PLJ2zbYAfc8yKjxXS0AimE3L_VgcsRbA1h
+talks:
+  - name: useSelector в Redux. Вытаскиваем стрелу из колена
+    speaker: Вячеслав Завьялов
+    video: https://youtu.be/_Lru0mfu8Z8
+    presentation:
+  - name: "Путь во фронтенд: автодидакт или дилетант"
+    speaker: Александр Мокшин
+    video: https://youtu.be/cmV-yTouM3Q
+    presentation:
+  - name: Как на самом деле проектируются образовательные программы?
+    speaker: Сергей Попов
+    video: https://youtu.be/tz5FcT7a6l4
+    presentation:
