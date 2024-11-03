@@ -1,0 +1,20 @@
+name: A?.Frontend Community 6
+date: 2024-03-21
+videos: https://youtu.be/0Sp-lSYF4nI
+talks:
+  - name: "TypeScript: Введение в мир надежного программирования"
+    speaker: Александр Чернов
+    video: https://www.youtube.com/watch?v=DI8DvUxAl8U
+    presentation: 
+  - name: "Переход на TypeScript: плавные перемены и непредвиденные сложности"
+    speaker: Рустам Султанбеков
+    video: https://www.youtube.com/watch?v=6y0cvX-r-iU
+    presentation: 
+  - name: Генерируй – типизируй
+    speaker: Александр Серов
+    video: https://www.youtube.com/watch?v=v46kHYqg5cM
+    presentation: 
+  - name: Generics – Что? Где? Когда?
+    speaker: Тёма Сенюков
+    video: https://www.youtube.com/watch?v=UG3lRk4REWA
+    presentation: 

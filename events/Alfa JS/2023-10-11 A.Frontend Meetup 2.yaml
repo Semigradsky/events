@@ -1,0 +1,16 @@
+name: A?.Frontend Meetup 2
+date: 2023-10-11
+videos: https://www.youtube.com/watch?v=-Qk8QstswG8
+talks:
+  - name: О роли архитектора и системном подходе
+    speaker: Олег Сидоркин
+    video: https://www.youtube.com/watch?v=eQNXeA5SWoY
+    presentation: 
+  - name: Как мы ускоряли time-to-market
+    speaker: Иван Артамонов
+    video: https://www.youtube.com/watch?v=cJBd0mjMdVw
+    presentation: 
+  - name: DevX микрофронтендов
+    speaker: Евгений Мальченко
+    video: https://www.youtube.com/watch?v=ZENmDcIjTCQ
+    presentation: 

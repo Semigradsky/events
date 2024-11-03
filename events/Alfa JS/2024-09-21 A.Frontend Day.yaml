@@ -1,0 +1,28 @@
+name: A?.Frontend Day
+date: 2024-09-21
+videos: 
+talks:
+  - name: "Valibot: Runtime валидаторы данны, и места их обитания"
+    speaker: Вадим Царегородцев
+    video: https://www.youtube.com/watch?v=0AWASOj2S2M
+    presentation: 
+  - name: BDUI как спасение от релизов
+    speaker: Никита Мамизеров
+    video: https://www.youtube.com/watch?v=yFAPqi1HEH4
+    presentation: 
+  - name: "Как работать с отказами систем в BFF: основные паттерны отказоустойчивости"
+    speaker: Никита Ульшин
+    video: https://www.youtube.com/watch?v=Nh6PIhZBLzI
+    presentation: 
+  - name: Проблемы внедрения изменений
+    speaker: Сергей Попов
+    video: 
+    presentation: 
+  - name: "Лидерство без иллюзий: обратная сторона карьерного роста"
+    speaker: Андрей Смирнов
+    video: 
+    presentation: 
+  - name: "[Дискуссия] Как ИИ и инструмент Copilot поменяют разработку"
+    speaker: Евгений Смирнов
+    video: 
+    presentation: 

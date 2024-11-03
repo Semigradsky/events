@@ -1,0 +1,16 @@
+name: A?.Frontend Meetup 3
+date: 2024-04-25
+videos: 
+talks:
+  - name: Статический анализ зависимостей
+    speaker: Алексей Охрименко
+    video: https://youtu.be/-A1sxEdFUIw
+    presentation: 
+  - name: Как жить с монорепой
+    speaker: Алексей Николаев
+    video: https://youtu.be/whpEE9uotb8
+    presentation: 
+  - name: Как перевести 45 приложений на webpack module federation
+    speaker: Степан Иваньков
+    video: https://youtu.be/3PjNrkfSbtQ
+    presentation: 
