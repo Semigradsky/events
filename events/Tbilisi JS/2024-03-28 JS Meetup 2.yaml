@@ -1,6 +1,6 @@
 name: JS Meetup 2
 date: 2024-03-28
-videos: https://www.youtube.com/live/3eGolrlZB6c
+videos: 
 talks:
   - name: Динамические окружения во фронтенде
     speaker: Иракли Бахтадзе

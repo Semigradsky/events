@@ -96,16 +96,12 @@ async function generateByOrganizers(events) {
 
     const groupedByOrganizers = new Map()
     for (const event of events) {
-        if (!event.talks || (!event.talks.some(t => t.video || t.link || t.presentation || t.code || t.url) && !event.videos)) {
-            continue
-        }
-
         const organizer = event.organizer
         const groupedEvents = groupedByOrganizers.get(organizer) || []
 
         groupedByOrganizers.set(organizer, [...groupedEvents, {
             ...event,
-            talks: event.talks.map(talk => formatTalk(talk, 2)),
+            talks: (event.talks ?? []).map(talk => formatTalk(talk, 2)),
             firstDay: getFirstDay(event.date).toISOString(),
             dateString: toFullDateString(event.date),
         }])
