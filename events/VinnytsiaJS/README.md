@@ -3,6 +3,9 @@
 
 # VinnytsiaJS
 
+## VinnytsiaJS 2019 - 2019 Aug 03 
+| | | |
+| --- | :---: | --- |
 ## VinnytsiaJS 2018 - 2018 Jul 21 [:movie_camera:](https://www.youtube.com/playlist?list=PL7GMpyIlGWSXPe93ZHYMnn9FHwNlwC1yO)
 | | | |
 | --- | :---: | --- |

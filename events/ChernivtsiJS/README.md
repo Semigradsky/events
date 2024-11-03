@@ -3,6 +3,9 @@
 
 # ChernivtsiJS
 
+## chernivtsi.min.js 5 - 2019 Dec 07 
+| | | |
+| --- | :---: | --- |
 ## ChernivtsiJS - 2018 Jun 23 [:movie_camera:](https://www.youtube.com/playlist?list=PLt-pAIa9BS41XDcHK49CwzkOjEDB6eJ7q)
 | | | |
 | --- | :---: | --- |

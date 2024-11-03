@@ -3,6 +3,14 @@
 
 # Ember.js NN
 
+## Ember.js NN Meetup 3 - 2021 May 14 
+| | | |
+| --- | :---: | --- |
+| Доступная магия AST трансформов в Ember  |  [Андрей Фель](../../speakers/Андрей%20Фель.md)  |    |
+| Behavior-Driven Development с помощью Cucumber или как не подавиться огурцом. ЧАСТЬ 2  |  [Андрей Михайлов](../../speakers/Андрей%20Михайлов.md)  |    |
+| i18n в ember приложениях. Практика.  |  [Андрей Каравашкин](../../speakers/Андрей%20Каравашкин.md)  |    |
+| Mirage JS — Mock сервер рожденный в Ember  |  [Максим Масленников](../../speakers/Максим%20Масленников.md)  |    |
+| Runtime Type Safety in Ember using io-ts  |  [Роман Трущев](../../speakers/Роман%20Трущев.md)  |    |
 ## Ember.js NN Meetup 2 - 2019 Nov 29 [:movie_camera:](https://www.youtube.com/playlist?list=PLHmOYA1JrOhPbcW0o-fn20u8thI4uYZrI)
 | | | |
 | --- | :---: | --- |

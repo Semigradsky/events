@@ -3,6 +3,12 @@
 
 # Kolesa Group
 
+## Kolesa Frontend Meetup - 2019 Nov 22 
+| | | |
+| --- | :---: | --- |
+| Погружение в z-index  |  [Виталий Цой](../../speakers/Виталий%20Цой.md)  |    |
+| Мониторинг производительности фронтенда  |  [Аскар Алимов](../../speakers/Аскар%20Алимов.md)  |    |
+| «Типичный» JavaScript. Плюсы и минусы статической типизации  |  [Алексей Павлов](../../speakers/Алексей%20Павлов.md)  |    |
 ## KOLESA Conf - 2019 Apr 12 [:movie_camera:](https://www.youtube.com/playlist?list=PL3q8gXVayhpce3HUbWd_k_XaIjj8Gepre)
 | | | |
 | --- | :---: | --- |

@@ -31,6 +31,13 @@
 | [Готов ли Ваш проект к лету?](https://www.youtube.com/watch?v=JcY5xZcvgZQ)  |  [Ирина Левина](../../speakers/Ирина%20Левина.md)  [Елизавета Селиванова](../../speakers/Елизавета%20Селиванова.md)  |    |
 | [Functional programming tools with little to no religion](https://www.youtube.com/watch?v=PWlKPuZI994)  |  [Павел Клименков](../../speakers/Павел%20Клименков.md)  |    |
 | [AMP или как разогнать ваше приложение до сверхзвуковой скорости](https://www.youtube.com/watch?v=yamUsRCBqyk)  |  [Владимир Дашукевич](../../speakers/Владимир%20Дашукевич.md)  |    |
+## 4front 11 - 2016 Feb 04 
+| | | |
+| --- | :---: | --- |
+| Perfomance: в борьбе за миллисекунды  |  [Андрей Козяков](../../speakers/Андрей%20Козяков.md)  |    |
+| Как и зачем понять Redux?  |  [Дмитрий Радыно](../../speakers/Дмитрий%20Радыно.md)  |    |
+| Компонент-ориентированный Web  |  [Максим Кожух](../../speakers/Максим%20Кожух.md)  |    |
+| Для чего вообще нужен ваш ES2015  |  [Владимир Дашукевич](../../speakers/Владимир%20Дашукевич.md)  |    |
 ## 4front 10 - 2015 Oct 07 [:movie_camera:](https://www.youtube.com/playlist?list=PLnZ0ef3Uu2puKkN-WRFutb-1pkRd2MWOT)
 | | | |
 | --- | :---: | --- |

@@ -3,7 +3,7 @@
 
 # Alfa JS
 
-## A?.Frontend Day - 2024 Sep 21 
+## A?.Frontend Day - 2024 Sep 21 [:movie_camera:](https://youtu.be/ll4r4ofzN_A)
 | | | |
 | --- | :---: | --- |
 | [Valibot: Runtime валидаторы данны, и места их обитания](https://www.youtube.com/watch?v=0AWASOj2S2M)  |  [Вадим Царегородцев](../../speakers/Вадим%20Царегородцев.md)  |    |
@@ -55,6 +55,10 @@
 | --- | :---: | --- |
 | [Добро пожаловать в Storybook Community](https://youtu.be/dL657_09BTE?t=641)  |  [Никита Дукин](../../speakers/Никита%20Дукин.md)  |    |
 | [Оптимизируем графику для веба like a boss](https://youtu.be/dL657_09BTE?t=4543)  |  [Евгений Полосухин](../../speakers/Евгений%20Полосухин.md)  |    |
+## A?.Frontend Meetup 1 - 2022 Oct 27 
+| | | |
+| --- | :---: | --- |
+| Как улучшить DX и перестать тратить силы на бессмысленную рутину  |  [Ольга Болотова](../../speakers/Ольга%20Болотова.md)  |    |
 ## Alfa Frontend MeetUp - 2022 Jun 01 [:movie_camera:](https://vk.com/video/playlist/-215425037_3)
 | | | |
 | --- | :---: | --- |

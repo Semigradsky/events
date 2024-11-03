@@ -16,6 +16,9 @@
 | | | |
 | --- | :---: | --- |
 | [Тренды Node.js для тех, кто спешит](https://youtu.be/owGhS2MQ4Q0)  |  [Егор Малькевич](../../speakers/Егор%20Малькевич.md)  | [:notebook:](https://downloads.ctfassets.net/oxjq45e8ilak/2W2VbNqYJ9woAAya4fwocQ/2f3917e30106f3ec49a323b6dfd9ba60/Node.js.pdf)   |
+## TechTrain 2021 Spring - 2021 Mar 27 
+| | | |
+| --- | :---: | --- |
 ## TechTrain 2020 Autumn - 2020 Oct 24 
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,13 @@
 
 # JSNN
 
+## JSNN 13 - 2019 Jun 29 
+| | | |
+| --- | :---: | --- |
+| Пишем ESLint-правила  |  [Леонид Лебедев](../../speakers/Леонид%20Лебедев.md)  |    |
+| Роутер как у сына маминой подруги  |  [Павел Малышев](../../speakers/Павел%20Малышев.md)  |    |
+| Жизнь до Runtime  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  |    |
+| Секретный доклад (про Effector)  |  [Максим Алёшин](../../speakers/Максим%20Алёшин.md)  |    |
 ## JSNN 12 - 2019 Mar 02 [:movie_camera:](https://www.youtube.com/playlist?list=PLY-gw0IiDtxpNTfxGt2Wn-8vQDzHTf4l1)
 | | | |
 | --- | :---: | --- |
@@ -18,6 +25,15 @@
 | [Let&#39;s kill lifecycle](https://www.youtube.com/watch?v=DCn9mU0w38A)  |  [Александр Шушунов](../../speakers/Александр%20Шушунов.md)  | [:notebook:](https://drive.google.com/file/d/1C2Urx3eg39Igd_j4ybt4EFtzfrg73AqB/view?usp=sharing) [:octocat:](https://github.com/AlexanderShushunov/lets-kill-lifecycle)  |
 | [Цена типизации](https://www.youtube.com/watch?v=6WfUDHlhO8s)  |  [Назим Гафаров](../../speakers/Назим%20Гафаров.md)  |    |
 | [Жизнь после Svelte](https://www.youtube.com/watch?v=VNDULWsmjQM)  |  [Павел Малышев](../../speakers/Павел%20Малышев.md)  |    |
+## JSNN 10 - 2018 Sep 08 
+| | | |
+| --- | :---: | --- |
+| Строим Back-end на node.js, идём в highload  |  [Илья Утов](../../speakers/Илья%20Утов.md)  |    |
+| Управление состоянием в Svelte  |  [Павел Малышев](../../speakers/Павел%20Малышев.md)  |    |
+| От чего не спасает Flow  |  [Олег Хлевнов](../../speakers/Олег%20Хлевнов.md)  |    |
+| Тестирование Angular фронта: из огня да в полымя  |  [Андрей Ермаков](../../speakers/Андрей%20Ермаков.md)  |    |
+| Обзор фич ESNext (ES7, ES8, ES9)  |  [Кирилл Новиков](../../speakers/Кирилл%20Новиков.md)  |    |
+| Как не писать код самому, делегируем наши проблемы AST  |  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  |    |
 ## JSNN 9 - 2018 Mar 03 [:movie_camera:](https://www.youtube.com/playlist?list=PLY-gw0IiDtxq7irk9vCStLkY1YhqxpFRS)
 | | | |
 | --- | :---: | --- |
@@ -63,6 +79,13 @@
 | [Вивисекция Ангуляра](https://www.youtube.com/watch?v=6JbKHQw9iDQ)  |  [Николай Кугаевский](../../speakers/Николай%20Кугаевский.md)  | [:notebook:](http://slides.kugaevsky.ru/vivisection.html#/)   |
 | [Новые фичи в CSS](https://www.youtube.com/watch?v=cE72lYNGPyQ)  |  [Андрей Макаров](../../speakers/Андрей%20Макаров.md)  | [:notebook:](https://r3nya.github.io/new-css-features/)   |
 | [Transpiler-free Python for your browser](https://www.youtube.com/watch?v=UBpxnh6pht0)  |  [Артём Малышев](../../speakers/Артём%20Малышев.md)  | [:notebook:](http://proofit404.github.io/talks/transpiler-free-python-for-your-browser/#/)   |
+## JSNN 5 - 2016 Dec 17 
+| | | |
+| --- | :---: | --- |
+| EJsE Sails.JS as MockServer  |  [Олег Пименов](../../speakers/Олег%20Пименов.md)  |    |
+| Пробуем оптимизировать сборку webpack  |  [Елена Сизова](../../speakers/Елена%20Сизова.md)  |    |
+| Redux + Angular 1.5.x  |  [Динара Крылова](../../speakers/Динара%20Крылова.md)  |    |
+| Автоматическое e2e тестирование в Облаке  |  [Иван Николаев](../../speakers/Иван%20Николаев.md)  |    |
 ## JSNN 4 - 2016 Aug 27 
 | | | |
 | --- | :---: | --- |

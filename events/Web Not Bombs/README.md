@@ -32,6 +32,13 @@
 | [Yeoman: пишем свой собственный генератор](https://www.youtube.com/watch?v=FfF5e7ytmDw)  |  [Анастасия Рыбик](../../speakers/Анастасия%20Рыбик.md)  |    |
 | [Learn with friends: how to organize meetups around projects &amp; code](https://www.youtube.com/watch?v=gG-_blRwApQ) [en] |  [Machiko Yasuda](../../speakers/Machiko%20Yasuda.md)  |    |
 | [SVG: Such vector goodness](https://www.youtube.com/watch?v=gG-_blRwApQ) [en] |  [Jacob Lowe](../../speakers/Jacob%20Lowe.md)  |    |
+## Web Not Bombs 5 - 2015 Dec 04 
+| | | |
+| --- | :---: | --- |
+| Meteor.js  |  [Pavel Titenkov](../../speakers/Pavel%20Titenkov.md)  |    |
+| Introducing to Polymer  |  [Егор Мясников](../../speakers/Егор%20Мясников.md)  |    |
+| Promises, from jQuery to Node.js  |  [Valentine Nesterov](../../speakers/Valentine%20Nesterov.md)  |    |
+| Атомарный дизайн и Pattern Lab  |  [Максим Ковалёв](../../speakers/Максим%20Ковалёв.md)  |    |
 ## Girls Not Bombs 3 - 2015 Jun 11 [:movie_camera:](https://www.youtube.com/playlist?list=PLrOBnk7g6QXr0RoeLZS_t8RygZ8k3EDUh)
 | | | |
 | --- | :---: | --- |

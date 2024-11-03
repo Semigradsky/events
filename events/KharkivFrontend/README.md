@@ -3,6 +3,20 @@
 
 # KharkivFrontend
 
+## KharkivFrontend Meetup \#PubEdition - 2019 May 30 
+| | | |
+| --- | :---: | --- |
+| Как сделать популярный опенсорс  |  [Андрей Ситник](../../speakers/Андрей%20Ситник.md)  |    |
+| ?  |  [Ihor Zenich](../../speakers/Ihor%20Zenich.md)  |    |
+## KharkivFrontend Birthday Meetup 0_0 - 2018 Dec 08 
+| | | |
+| --- | :---: | --- |
+| Вариативные шрифты  |  [Алексей Стрельников](../../speakers/Алексей%20Стрельников.md)  |    |
+| Web Components  |  [Максим Корабельский](../../speakers/Максим%20Корабельский.md)  |    |
+## KharkivFrontend Meetup - 2018 Sep 06 
+| | | |
+| --- | :---: | --- |
+| Drawing Sound [uk] |  [Юрій Чайковський](../../speakers/Юрій%20Чайковський.md)  |    |
 ## KharkivFrontend Summer Conference - 2018 Jul 22 [:movie_camera:](https://www.youtube.com/playlist?list=PLDddScyTGZAuXMbFfcq6KqRVSQ-TrW5pL)
 | | | |
 | --- | :---: | --- |

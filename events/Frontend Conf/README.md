@@ -3,6 +3,9 @@
 
 # Frontend Conf
 
+## Frontend Conf 2022 - 2022 Oct 24-25 
+| | | |
+| --- | :---: | --- |
 ## Frontend Conf 2021 - 2021 Oct 11-12 
 | | | |
 | --- | :---: | --- |

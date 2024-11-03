@@ -3,6 +3,12 @@
 
 # WebAssembly Moscow
 
+## WebAssembly Moscow 3 - 2020 Jul 16 
+| | | |
+| --- | :---: | --- |
+| WebAssembly Flexible Vectors Operations - развитие концепции кросс-платформ SIMD  |  [Пётр Пензин](../../speakers/Пётр%20Пензин.md)  |    |
+| [WASM] Мифы и реальность портирования C&#x2F;C++ приложений  |  [Николай Ходов](../../speakers/Николай%20Ходов.md)  |    |
+| Варианты использование С&#x2F;С++ кода в JS-приложении  |  [Евгений Карпов](../../speakers/Евгений%20Карпов.md)  [Игорь Карпинский](../../speakers/Игорь%20Карпинский.md)  |    |
 ## WebAssembly Moscow 2 - 2019 Aug 01 [:movie_camera:](https://www.youtube.com/watch?v=EaJHp-c_HVk)
 | | | |
 | --- | :---: | --- |

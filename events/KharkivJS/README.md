@@ -38,6 +38,9 @@
 | [Мы затащили Flow в большой проект и …](https://www.youtube.com/watch?v=D7AfHAeFpLA)  |  [Александр Шушунов](../../speakers/Александр%20Шушунов.md)  |    |
 | [Team Lead! Care about your devs!](https://www.youtube.com/watch?v=A5sEEncsduo)  |  [Sergey Bolschikov](../../speakers/Sergey%20Bolschikov.md)  |    |
 | [Not tech presentation-dialog about developer lifecycle](https://www.youtube.com/watch?v=cKD4-17IDQg)  |  [Алексей Стрельников](../../speakers/Алексей%20Стрельников.md)  |    |
+## KharkivJS 10 - 2019 - 2018 Oct 05-06 
+| | | |
+| --- | :---: | --- |
 ## KharkivJS 8 - 2017 - 2017 Oct 28-29 [:movie_camera:](https://www.youtube.com/playlist?list=PLnkLrCUX4Qh4O4Zng1XsnO7WkPqK-jKeH)
 | | | |
 | --- | :---: | --- |

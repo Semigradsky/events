@@ -3,6 +3,20 @@
 
 # LvivJS
 
+## LvivJS 2020 - 2020 Jun 06 
+| | | |
+| --- | :---: | --- |
+## LvivJS 2018 - 2018 Sep 01 
+| | | |
+| --- | :---: | --- |
+| Channel your inner rockstar with the web audio API [en] |  [Sam Bellen](../../speakers/Sam%20Bellen.md)  |    |
+| Everyday AI [en] |  [Asim Hussain](../../speakers/Asim%20Hussain.md)  |    |
+| I got 99 problems but GraphQL ain&#39;t one [en] |  [Sara Vieira](../../speakers/Sara%20Vieira.md)  |    |
+| What I learned making an integration between global ecosystems [uk] |  [Игорь Фесенко](../../speakers/Игорь%20Фесенко.md)  |    |
+| How to create registration form [uk] |  [Михаил Иванкив](../../speakers/Михаил%20Иванкив.md)  |    |
+| Fast by default: everyday algorithmic thinking for developers  |  [Владимир Агафонкин](../../speakers/Владимир%20Агафонкин.md)  |    |
+| Bring &#39;life&#39; to WebAssembly with Genetic Algorithms and C++  |  [Сергей Дубовик](../../speakers/Сергей%20Дубовик.md)  |    |
+| The Good Project [uk] |  [Алексей Плетнёв](../../speakers/Алексей%20Плетнёв.md)  |    |
 ## LvivJS 2017 - 2017 Aug 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLhWWkV_LkwjAmaxtXXwWmiSdHO9MVGLuG)
 | | | |
 | --- | :---: | --- |

@@ -32,7 +32,7 @@
 | Почему вы должны писать  |  [Михаил Покрыщенко](../../speakers/Михаил%20Покрыщенко.md)  |    |
 | Tests you don&#39;t need  |  [Александр Комлев](../../speakers/Александр%20Комлев.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
 | Зачем мы делаем сообщества?  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  | [:notebook:](https://lekzd.ru/presentations/communities_tbilisijs/)   |
-## JS Meetup 2 - 2024 Mar 28 [:movie_camera:](https://www.youtube.com/live/3eGolrlZB6c)
+## JS Meetup 2 - 2024 Mar 28 
 | | | |
 | --- | :---: | --- |
 | Динамические окружения во фронтенде  |  [Иракли Бахтадзе](../../speakers/Иракли%20Бахтадзе.md)  |    |

@@ -13,6 +13,12 @@
 | --- | :---: | --- |
 | [RxJS Higher-Order Observables](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Олексій Павленко](../../speakers/Олексій%20Павленко.md)  |    |
 | [RxJS retry vs repeat](https://www.youtube.com/watch?v=vRl_Nar9iNs)  |  [Олексій Поштарук](../../speakers/Олексій%20Поштарук.md)  |    |
+## Angular Minsk @ Angular New York - 2020 Jun 30 
+| | | |
+| --- | :---: | --- |
+| Progressive State Management with NGXS [en] |  [Алексей Кунцевич](../../speakers/Алексей%20Кунцевич.md)  |    |
+| Scully - A New Way To Angular [en] |  [Константин Маликов](../../speakers/Константин%20Маликов.md)  |    |
+| Prerender it easily [en] |  [Илья Рабчинский](../../speakers/Илья%20Рабчинский.md)  |    |
 ## Angular Minsk 14 - 2020 Jun 13 
 | | | |
 | --- | :---: | --- |

@@ -16,6 +16,11 @@
 | [Интерфейс для глаз](https://www.youtube.com/watch?v=SLSjVOCwLm0)  |  [Иван Бакаидов](../../speakers/Иван%20Бакаидов.md)  | [:notebook:](https://pitercss.ru/a11y/2/pres/eye-ui.pdf)   |
 | [Ты ничего не знаешь про alt, %username%](https://www.youtube.com/watch?v=bEj3qur8vjU)  |  [Татьяна Фокина](../../speakers/Татьяна%20Фокина.md)  | [:notebook:](https://pitercss.ru/a11y/2/pres/you-dont-know-alt.pdf)   |
 | [Production &amp; a11y](https://www.youtube.com/watch?v=gXnEnQ5344M)  |  [Анна Сафонова](../../speakers/Анна%20Сафонова.md)  | [:notebook:](https://pitercss.ru/a11y/2/pres/production-a11y.pdf)   |
+## pitercss_meetup 34 - 2019 Oct 16 
+| | | |
+| --- | :---: | --- |
+| _ ___ ______?  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
+| Что такое WebGL?  |  [Григорий Скобелев](../../speakers/Григорий%20Скобелев.md)  |    |
 ## pitera11y_meetup 1 - 2019 Sep 24 [:movie_camera:](https://www.youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB)
 | | | |
 | --- | :---: | --- |
@@ -180,6 +185,30 @@
 | Кастомные свойства в CSS  |  [Алексей Хлебаев](../../speakers/Алексей%20Хлебаев.md)  | [:notebook:](https://pitercss.ru/8/pres/custom-props/)   |
 | Мой ванильный CSS  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://pitercss.ru/8/pres/vanilla-css/)   |
 | Индивеб, микроформаты и веб-археология  |  [Тим Маринин](../../speakers/Тим%20Маринин.md)  | [:notebook:](https://pitercss.ru/8/pres/indie-web/)   |
+## pitercss_meetup 7 - 2016 Nov 16 
+| | | |
+| --- | :---: | --- |
+| Трудоустройство фронтендера  |  [Андрей Гурылёв](../../speakers/Андрей%20Гурылёв.md)  |    |
+| Stylelint — как и зачем линтить CSS  |  [Андрей Ситник](../../speakers/Андрей%20Ситник.md)  |    |
+| Техническая сторона типографики  |  [Иван Гладких](../../speakers/Иван%20Гладких.md)  |    |
+## pitercss_meetup 6 - 2016 Oct 11 
+| | | |
+| --- | :---: | --- |
+| Деревянный CSS  |  [Андрей Волынкин](../../speakers/Андрей%20Волынкин.md)  |    |
+| Webflow. Ноухау или конструктор?  |  [Александр Меньчик](../../speakers/Александр%20Меньчик.md)  |    |
+| Жми сюда!  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
+## pitercss_meetup 5 - 2016 Jun 17 
+| | | |
+| --- | :---: | --- |
+| Профи &lt; Новичок  |  [Алёна Батицкая](../../speakers/Алёна%20Батицкая.md)  |    |
+| Отзывчивые картинки правильно  |  [Зарема Халилова](../../speakers/Зарема%20Халилова.md)  |    |
+| Зачем изобрели CSS  |  [Хокон Виум Ли](../../speakers/Хокон%20Виум%20Ли.md)  |    |
+## pitercss_meetup 4 - 2016 May 24 
+| | | |
+| --- | :---: | --- |
+| Переходим на SVG  |  [Дмитрий Рычков](../../speakers/Дмитрий%20Рычков.md)  |    |
+| Google AMP. Придаем ускорение мобильному вебу мощным пинком  |  [Александр Приходько](../../speakers/Александр%20Приходько.md)  |    |
+| Письмо другу. Небольшие хитрости  |  [Антон Калашников](../../speakers/Антон%20Калашников.md)  |    |
 ## pitercss_meetup 3 - 2016 Apr 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLMBnwIwFEFHeDVHZJw7Y5WWVkAb1O_OwC)
 | | | |
 | --- | :---: | --- |
@@ -192,3 +221,9 @@
 | [Баги в браузерах: кто виноват и что делать?](https://www.youtube.com/watch?v=K-t9FIs2WTo)  |  [Виталий Зюзин](../../speakers/Виталий%20Зюзин.md)  | [:notebook:](http://pitercss.ru/2/pres/browser-bugs/)   |
 | [Архитектура дизайн-систем](https://www.youtube.com/watch?v=j6v-B45fsDI)  |  [Антон Виноградов](../../speakers/Антон%20Виноградов.md)  | [:notebook:](https://pitercss.ru/2/pres/design-systems.pdf)   |
 | [Синтаксис в редакторах кода](https://www.youtube.com/watch?v=mo6JjMqhKlI)  |  [Александр Золотов](../../speakers/Александр%20Золотов.md)  [Денис Ушаков](../../speakers/Денис%20Ушаков.md)  | [:notebook:](https://pitercss.ru/2/pres/editors.pdf)   |
+## pitercss_meetup 1 - 2016 Feb 09 
+| | | |
+| --- | :---: | --- |
+| Можно вообще всё. Раскладка по гриду  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
+| Новые лампочки в Люстре  |  [Михаил Баранов](../../speakers/Михаил%20Баранов.md)  |    |
+| Ложь Фотошопа и как с этим жить  |  [Филипп Нуруллин](../../speakers/Филипп%20Нуруллин.md)  |    |

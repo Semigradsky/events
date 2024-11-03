@@ -23,6 +23,12 @@
 | [Нахрена, а главное зачем: введение в юнит-тестирование](https://youtu.be/I5D6lLblKrw)  |  [Светлана Беляева](../../speakers/Светлана%20Беляева.md)  |    |
 | [Make it easy. Упрощаем написание тестов в Angular](https://youtu.be/Bdae5ATI8Gg)  |  [Никита Куликов](../../speakers/Никита%20Куликов.md)  |    |
 | [Стримы и потоки в Node.js](https://youtu.be/V_aJGayH5ZA)  |  [Нурсултан Бергалиев](../../speakers/Нурсултан%20Бергалиев.md)  |    |
+## SPB Frontend - 2020 Feb 06 
+| | | |
+| --- | :---: | --- |
+| Как я мигрировал реакт приложение на свелт  |  [Вадим Царегородцев](../../speakers/Вадим%20Царегородцев.md)  |    |
+| GIF умер, кто следующий?  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  |    |
+| Погружение в эффектор  |  [Ян Лаврюшев](../../speakers/Ян%20Лаврюшев.md)  |    |
 ## SPB Frontend - 2019 Nov 19 [:movie_camera:](https://www.youtube.com/watch?v=wH9LmO8sWYc)
 | | | |
 | --- | :---: | --- |
@@ -41,12 +47,24 @@
 | [Can Design Principles Make me a Better Software Engineer?](https://www.youtube.com/watch?v=2rh13TqNDF4) [en] |  [Алексей Тактаров](../../speakers/Алексей%20Тактаров.md)  | [:notebook:](https://www.dropbox.com/s/2t1aasguhmqcyas/can-design-principles-make-me-a-better-software-engineer.pdf?dl=0)   |
 | [Video content protection overview for Frontend developers](https://www.youtube.com/watch?v=PXC4xuM1EH8) [en] |  [Алексей Голубев](../../speakers/Алексей%20Голубев.md)  | [:notebook:](https://goalstudio.github.io/drm-frontend-developers.pdf)   |
 | [WebGL and 2D: simple as Web](https://www.youtube.com/watch?v=56rX1gTmt_c) [en] |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  | [:notebook:](http://lekzd.ru/presentations/webgl_simple_sbp_eng/)   |
+## SPB Frontend - 2018 Dec 12 
+| | | |
+| --- | :---: | --- |
+| Фронтенд: обработка ошибок  |  [Елена Правдина](../../speakers/Елена%20Правдина.md)  |    |
+| Психология для айтишников: про рабочую атмосферу  |  [Дмитрий Семьюшкин](../../speakers/Дмитрий%20Семьюшкин.md)  |    |
+| JS Битва: история побед и поражений  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  |    |
 ## SPB Frontend meetup - 2018 Nov 21 [:movie_camera:](https://www.youtube.com/playlist?list=PLI6q7lZ9ClB0Y8627Q6O5B1bQ8EDXvJDP)
 | | | |
 | --- | :---: | --- |
 | [GraphQL: basics and emotions](https://www.youtube.com/watch?v=_V45S5WrAKU) [en] |  [Евгений Шкодин](../../speakers/Евгений%20Шкодин.md)  | [:notebook:](https://slides.com/iffjey/graphql-basics-and-emotions-en/live#/)   |
 | [The voice path](https://www.youtube.com/watch?v=CYBtAAN3--Q) [en] |  [Nelly Kam](../../speakers/Nelly%20Kam.md)  | [:notebook:](https://docs.google.com/presentation/d/1CC5EVVTKRaYBmAKLkWk_4K33M9FuzpyZ4Xmc_HrYyzo/edit#slide=id.g47fc33c2f6_1_15)   |
 | [Семантика для циников](https://www.youtube.com/watch?v=SvkTTvd6TGA) [en] |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://pepelsbey.net/pres/semantics/en/)   |
+## SPB Frontend - 2018 Oct 16 
+| | | |
+| --- | :---: | --- |
+| История PWA  |  [Артур Столяр](../../speakers/Артур%20Столяр.md)  |    |
+| Дизайн больших экранов  |  [Сергей Мекрюков](../../speakers/Сергей%20Мекрюков.md)  |    |
+| Защита интеллектуальной собственности в сфере IT  |  [Руслан Гацалов](../../speakers/Руслан%20Гацалов.md)  |    |
 ## SPB Frontend - 2018 Sep 18 
 | | | |
 | --- | :---: | --- |
@@ -108,6 +126,15 @@
 | Как правильно вести себя на новой работе. 10 вредных советов  |  [Алёна Батицкая](../../speakers/Алёна%20Батицкая.md)  | [:notebook:](https://solarrust.github.io/spbfrontend0916/)   |
 | Дизайн для разработчиков  |  [Екатерина Булатова](../../speakers/Екатерина%20Булатова.md)  | [:notebook:](https://speakerdeck.com/kathiekiwi/design-for-developers)   |
 | Публикуем npm пакеты  |  [Зарема Халилова](../../speakers/Зарема%20Халилова.md)  | [:notebook:](http://bit.ly/zarema-npm)   |
+## SPB Frontend - 2016 May 28 
+| | | |
+| --- | :---: | --- |
+| Сложно ли написать приложение на React Native?  |  [Дмитрий Локтев](../../speakers/Дмитрий%20Локтев.md)  |    |
+| Где лучше работать в стартапе или в большой компании?  |  [Евгений Кот](../../speakers/Евгений%20Кот.md)  |    |
+| Как писать unit-тесты для Rx.js?  |  [Кирилл Сухомлин](../../speakers/Кирилл%20Сухомлин.md)  |    |
+| Про REPL Driven Development и Clojure (Script).  |  [Николай Рыжиков](../../speakers/Николай%20Рыжиков.md)  |    |
+| Как упаковать node.js приложение в Docker?  |  [Станислав Гуменюк](../../speakers/Станислав%20Гуменюк.md)  |    |
+| Короткое введение в WebAssembly.  |  [Вячеслав Лапин](../../speakers/Вячеслав%20Лапин.md)  |    |
 ## SPB Frontend - 2016 Apr 12 
 | | | |
 | --- | :---: | --- |
@@ -126,6 +153,10 @@
 | [Что такое React и как его готовить?](https://www.youtube.com/watch?v=vsnvmJ8fnCk&t=228s)  |  [Сергей Лапин](../../speakers/Сергей%20Лапин.md)  | [:notebook:](http://slides.com/sergeylapin/deck/fullscreen?token=YhozYvuX#/)   |
 | [CSS in JS](https://www.youtube.com/watch?v=vsnvmJ8fnCk&t=2350s)  |  [Андрей Попп](../../speakers/Андрей%20Попп.md)  | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Fsf-251015-ap)   |
 | [Redux](https://www.youtube.com/watch?v=vsnvmJ8fnCk&t=5113s)  |  [Даня Абрамов](../../speakers/Даня%20Абрамов.md)  | [:notebook:](https://gist.githubusercontent.com/gaearon/f8bd724cacbce05f5c19/raw/46d2a32dd411ff3804c6bc7589f6ff2d0e641a0f/redux.md)   |
+## SPB Frontend - 2015 Sep 20 
+| | | |
+| --- | :---: | --- |
+| JSFuck  |  [Martin Kleppe](../../speakers/Martin%20Kleppe.md)  |    |
 ## SPB Frontend - 2015 Aug 24 
 | | | |
 | --- | :---: | --- |
@@ -142,6 +173,17 @@
 | Прощай, jQuery!  |  [Зарема Халилова](../../speakers/Зарема%20Халилова.md)  | [:notebook:](http://slides.com/zmoki/jquery/)   |
 | Архитектура систем локализации на клиенте  |  [Алексей Бахирев](../../speakers/Алексей%20Бахирев.md)  | [:notebook:](https://drive.google.com/file/d/0B50pcIvk3cAHcFU1Wl81TEFpbjA/view)   |
 | Как выбраться со дна бассейна в наручниках?  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](http://sokr.me/hud)   |
+## SPB Frontend - 2015 Feb 26 
+| | | |
+| --- | :---: | --- |
+| Быстрый старт: Yeoman, Bower, gulp  |  [Андрей Вдовиченко](../../speakers/Андрей%20Вдовиченко.md)  |    |
+| Переиспользуемые компоненты: технологии и приёмы разработки  |  [Андрей Складчиков](../../speakers/Андрей%20Складчиков.md)  |    |
+## SPB Frontend - 2014 Nov 27 
+| | | |
+| --- | :---: | --- |
+| Экскурс в React.js  |  [Алексей Плуталов](../../speakers/Алексей%20Плуталов.md)  |    |
+| Демо современного workflow фронтенд-разработчика в IDE WebStorm  |  [Екатерина Пригара](../../speakers/Екатерина%20Пригара.md)  |    |
+| Лайв-кодинг приложения на Meteor.js  |  [Вячеслав Шебанов](../../speakers/Вячеслав%20Шебанов.md)  |    |
 ## SPB Frontend - 2014 Oct 22 
 | | | |
 | --- | :---: | --- |

@@ -32,3 +32,9 @@
 | [Developer Experience (DX): Разработчики — тоже люди. GraphQL](https://youtu.be/m9DHmTowLvI)  |  [Алексей Родионов](../../speakers/Алексей%20Родионов.md)  | [:notebook:](https://docs.google.com/presentation/d/1tmnVo0EUqcLv_RbDFCrpRJpTtpHQDhicOCyT2JL-eu8/edit)   |
 | [WebRTC конференции. Интересные и сложные места](https://youtu.be/EouVG6fW4xM)  |  [Игорь Шеко](../../speakers/Игорь%20Шеко.md)  | [:notebook:](https://drive.google.com/file/d/1Q0l86TssSgI1gQXNFp0Xq6Htfj5SEjKN/view)   |
 | [Почему хорошие разработчики не делают хороший UX](https://youtu.be/KEeahVSoL5c)  |  [Юлия Тертерян](../../speakers/Юлия%20Тертерян.md)  | [:notebook:](https://drive.google.com/file/d/1jJ6o1VX4P_KwTFBJ7z6WLpUwp3cIPE7F/view)   |
+## RndTechTalks.Frontend - 2019 Sep 27 
+| | | |
+| --- | :---: | --- |
+| Клиентское шифрование в браузере: как защитить данные, если не доверяешь никому  |  [Василий Соколов](../../speakers/Василий%20Соколов.md)  |    |
+| Куда катится мир?  |  [Вероника Самохина](../../speakers/Вероника%20Самохина.md)  |    |
+| Svelte — магически исчезающий UI фреймворк. Секреты VirtualDOM, &quot;честная&quot; реактивность и кто виноват.  |  [Дмитрий Вишневский](../../speakers/Дмитрий%20Вишневский.md)  |    |

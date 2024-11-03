@@ -3,11 +3,23 @@
 
 # Tver.io
 
+## Tver.io Performance Meetup - 2021 Jan 21 
+| | | |
+| --- | :---: | --- |
+| Немного про рендеринг и производительность  |  [Сергей Ufocoder](../../speakers/Сергей%20Ufocoder.md)  |    |
+| Practical Serverless &amp; Edge Computing  |  [Алексей Тактаров](../../speakers/Алексей%20Тактаров.md)  |    |
 ## Tver.io Open Source Talks - 2020 Oct 30 [:movie_camera:](https://www.youtube.com/watch?v=ZnsRH9NVqDw)
 | | | |
 | --- | :---: | --- |
 | [Почему не надо создавать свой собственный Open Source UI Framework](https://www.youtube.com/watch?v=ZnsRH9NVqDw)  |  [Андрей Яманов](../../speakers/Андрей%20Яманов.md)  |    |
 | [Почему фронтендеры не инженеры](https://www.youtube.com/watch?v=ZnsRH9NVqDw)  |  [Сергей Сова](../../speakers/Сергей%20Сова.md)  |    |
+## Tver.io JavaScript Meetup - 2020 Mar 19 
+| | | |
+| --- | :---: | --- |
+| Переизобретая асинхроность  |  [Дмитрий Пацура](../../speakers/Дмитрий%20Пацура.md)  |    |
+| React Reconciler: как написать собственный рендерер  |  [Ярослав Лосев](../../speakers/Ярослав%20Лосев.md)  |    |
+| Wasm 101  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  |    |
+| ML для фронтендеров  |  [Максим Северухин](../../speakers/Максим%20Северухин.md)  |    |
 ## Tver.io Frontend Meetup - 2019 Sep 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLiOxDlmyqigyWmvMY8e7GbCIB1nwptzHe)
 | | | |
 | --- | :---: | --- |

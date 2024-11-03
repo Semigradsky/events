@@ -3,6 +3,9 @@
 
 # Storm The Front
 
+## Storm The Front Meetup 7 - 2020 Jan 25 
+| | | |
+| --- | :---: | --- |
 ## Storm The Front Meetup 6 - 2019 Jul 27 [:movie_camera:](https://www.youtube.com/playlist?list=PLX3qbfL4pq9AlGYjMu2yh4Zlcol89v8sC)
 | | | |
 | --- | :---: | --- |

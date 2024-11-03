@@ -3,6 +3,11 @@
 
 # GDG Siberia
 
+## GDG DevFest Siberia 2020 - 2020 Dec 05-06 
+| | | |
+| --- | :---: | --- |
+| How to display a gazillion of metrics and keep your sanity  |  [Андрей Гончаров](../../speakers/Андрей%20Гончаров.md)  |    |
+| Frontend in functional language? Hold my beer!  |  [Vagif Abilov](../../speakers/Vagif%20Abilov.md)  |    |
 ## GDG DevFest Siberia 2019 - 2019 Nov 29-01 [:movie_camera:](https://www.youtube.com/playlist?list=PLINg778NUJCqQurPdtd51OyhQBodLD7Tg)
 | | | |
 | --- | :---: | --- |
@@ -12,6 +17,11 @@
 | [Serverless для frontend-разработчиков, или Можно ли обойтись без классического бэкенда](https://youtu.be/7e-bnJev9Ww)  |  [Сергей Пугачёв](../../speakers/Сергей%20Пугачёв.md)  |    |
 | [Видео в вебе от Flash до MSE или как написать свой видеоплеер](https://youtu.be/ZxmELCVweOQ)  |  [Алексей Гусев](../../speakers/Алексей%20Гусев.md)  |    |
 | [Священный грааль: запуск React в Java](https://youtu.be/7cbBhcQd5yQ)  |  [Олег Коровин](../../speakers/Олег%20Коровин.md)  |    |
+## GDG DevFest Siberia 2018 - 2018 Nov 23-25 
+| | | |
+| --- | :---: | --- |
+| Язык жестов  |  [Анна Селезнёва](../../speakers/Анна%20Селезнёва.md)  |    |
+| GraphQL: basics and emotions  |  [Евгений Шкодин](../../speakers/Евгений%20Шкодин.md)  |    |
 ## GDG DevFest Siberia 2017 - 2017 Sep 23-24 [:movie_camera:](https://www.youtube.com/playlist?list=PLINg778NUJCqlOREzMxiNC4-d_HmN6q8-)
 | | | |
 | --- | :---: | --- |

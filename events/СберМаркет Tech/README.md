@@ -9,6 +9,12 @@
 | [Вредные советы про pet-проекты](https://youtu.be/bKDcRt88ogs)  |  [Александр Водолазских](../../speakers/Александр%20Водолазских.md)  |   [:spiral_notepad:](https://habr.com/ru/companies/sbermarket/articles/777642/) |
 | [Что такое Web3? Как под него разрабатывать](https://youtu.be/n3kEmdMGFOI)  |  [Алексей Авдеев](../../speakers/Алексей%20Авдеев.md)  |    |
 | [Как мы добавляли видео на Авито](https://youtu.be/1H0J_7oXJys)  |  [Роман Миронов](../../speakers/Роман%20Миронов.md)  |    |
+## Frontend Meetup - 2022 Dec 01 
+| | | |
+| --- | :---: | --- |
+| Запускаем микрофонты  |  [Данил Чушко](../../speakers/Данил%20Чушко.md)  |    |
+| Архитектура универсальных веб-приложений  |  [Глеб Михеев](../../speakers/Глеб%20Михеев.md)  |    |
+| Тестирование современного фронтенда  |  [Александр Моргунов](../../speakers/Александр%20Моргунов.md)  |    |
 ## Frontend Meetup - 2022 Sep 06 [:movie_camera:](https://www.youtube.com/watch?v=-glbRXbIAGM)
 | | | |
 | --- | :---: | --- |

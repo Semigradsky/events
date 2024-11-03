@@ -3,6 +3,11 @@
 
 # SEMrush
 
+## SEMrush IT meetup 4 - 2021 May 12 
+| | | |
+| --- | :---: | --- |
+| Решили заняться перфомансом, а с чего начать…?  |  [Антон Тужик](../../speakers/Антон%20Тужик.md)  |    |
+| Как все было плохо, но мы ускорили Workload  |  [Алексей Шаров](../../speakers/Алексей%20Шаров.md)  [Игорь Зубов](../../speakers/Игорь%20Зубов.md)  |    |
 ## SEMrush IT meetup 3 - 2020 Dec 03 [:movie_camera:](https://www.youtube.com/watch?v=of-0MmwHzIo)
 | | | |
 | --- | :---: | --- |

@@ -106,6 +106,9 @@
 | [Презентация приложения для проведения презентаций](https://youtu.be/4giWGkd7WSQ?t=2282)  |  [Дмитрий Карловский](../../speakers/Дмитрий%20Карловский.md)  |    |
 | [Планета на WebGL](https://youtu.be/4giWGkd7WSQ?t=4609)  |  [Анна Волкова](../../speakers/Анна%20Волкова.md)  |    |
 | [Типы данных в CSS](https://youtu.be/4giWGkd7WSQ?t=7292)  |  [София Валитова](../../speakers/София%20Валитова.md)  |    |
+## PiterJS 39 (IT Global Meetup 15) - 2019 Jul 27 
+| | | |
+| --- | :---: | --- |
 ## PiterJS 38 - 2019 Jun 20 [:movie_camera:](https://www.youtube.com/watch?v=dvQUCwj_20U)
 | | | |
 | --- | :---: | --- |
@@ -149,6 +152,11 @@
 | --- | :---: | --- |
 | [Анализ уязвимостей форм для аутентификации](https://www.youtube.com/watch?v=Zfdy5VHfGZk)  |  [Вадим Горбачев](../../speakers/Вадим%20Горбачев.md)  | [:notebook:](https://fs.piterjs.org/events/33/gorbachev.pdf)   |
 | Разработка компилятора на LLVM#2 — StaticScript  |  [Дмитрий Пацура](../../speakers/Дмитрий%20Пацура.md)  | [:notebook:](https://fs.piterjs.org/events/33/patsura.pdf)   |
+## PiterJS 32 - 2018 Dec 19 
+| | | |
+| --- | :---: | --- |
+| React Hooks: Bump or Sage  |  [Алексей Балканский](../../speakers/Алексей%20Балканский.md)  |    |
+| Cache it right  |  [Семён Целищев](../../speakers/Семён%20Целищев.md)  |    |
 ## PiterJS 31 - 2018 Nov 15 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxhXGHrE5H62pQnWRNT7eUjO)
 | | | |
 | --- | :---: | --- |
@@ -173,6 +181,9 @@
 | [Puppeteer SSR как способ отказаться от React и двигаться дальше](https://www.youtube.com/watch?v=bcNDItJjnmk)  |  [Антон Плешивцев](../../speakers/Антон%20Плешивцев.md)  | [:notebook:](https://fs.piterjs.org/events/28/pleshivtsev.pdf)   |
 | [Введение в доступность](https://www.youtube.com/watch?v=jzHW4zdirsY)  |  [Михаил Андриевский](../../speakers/Михаил%20Андриевский.md)  | [:notebook:](https://fs.piterjs.org/events/28/andrievskiy.pdf)   |
 | [Применение Logux](https://www.youtube.com/watch?v=xbuxaQGRnpg)  |  [Николай Говоров](../../speakers/Николай%20Говоров.md)  | [:notebook:](https://fs.piterjs.org/events/28/govorov.pdf)   |
+## PiterJS 27 (IT Global Meetup 13) - 2018 Jul 28 
+| | | |
+| --- | :---: | --- |
 ## PiterJS 26 - 2018 Jun 14 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxiJbPtQd-3HMMV2MN0j1qkO)
 | | | |
 | --- | :---: | --- |
@@ -278,6 +289,9 @@
 | [Безопасность FrontEnd](https://www.youtube.com/watch?v=kKoZIjdjd7o)  |  [Вадим Горбачев](../../speakers/Вадим%20Горбачев.md)  |    |
 | [Принципы работы с билдами](https://www.youtube.com/watch?v=B3f_nwf7okE)  |  [Максим Гребенщиков](../../speakers/Максим%20Гребенщиков.md)  |    |
 | [Книжка про ES6](https://www.youtube.com/watch?v=WiEKgvbkm1Q)  |  [Михаил Баранов](../../speakers/Михаил%20Баранов.md)  |    |
+## PiterJS 8 - 2016 Jul 23 
+| | | |
+| --- | :---: | --- |
 ## PiterJS 7 (IT Global Meetup 7) - 2016 Apr 02 [:movie_camera:](https://www.youtube.com/playlist?list=PLcXJ90eZ2bxjzjHpANVCkZCKTJlMP54zN)
 | | | |
 | --- | :---: | --- |
@@ -290,3 +304,22 @@
 | [React Native Desktop](https://www.youtube.com/watch?v=3lSUKW6KK0I)  |  [Дмитрий Локтев](../../speakers/Дмитрий%20Локтев.md)  |    |
 | [Полный стек технологий БЭМ](https://www.youtube.com/watch?v=VsGl-xZtxFg)  |  [Александр Баумгертнер](../../speakers/Александр%20Баумгертнер.md)  | [:notebook:](http://alexbaumgertner.github.io/presentation-bem-stack/)   |
 | [JavaScript в большом проекте](https://www.youtube.com/watch?v=Ak6dI1_ZaEI)  |  [Евгений Гусев](../../speakers/Евгений%20Гусев.md)  |    |
+## PiterJS 5 - 2015 Nov 28 
+| | | |
+| --- | :---: | --- |
+## PiterJS 4 - 2015 Oct 12 
+| | | |
+| --- | :---: | --- |
+## PiterJS 3 - 2015 Aug 06 
+| | | |
+| --- | :---: | --- |
+## PiterJS 2 - 2015 Jun 06 
+| | | |
+| --- | :---: | --- |
+## PiterJS 1 - 2015 May 14 
+| | | |
+| --- | :---: | --- |
+| Creating a crawler and scraper using Node.js and Solr [Unknown] |  [Mikko Lehmuskoski](../../speakers/Mikko%20Lehmuskoski.md)  |    |
+| New features of Ecmascript 6 and 7: generators and async&#x2F;await [Unknown] |  [Oleg Podsechin](../../speakers/Oleg%20Podsechin.md)  |    |
+| AlaSQL.js — JavaScript SQL database library for relational and graph data [Unknown] |  [Андрей Гершун](../../speakers/Андрей%20Гершун.md)  |    |
+| JavaScript specific features in NetBeans [Unknown] |  [Geertjan Wielenga](../../speakers/Geertjan%20Wielenga.md)  |    |

@@ -3,6 +3,11 @@
 
 # DINS
 
+## DINS - JavaScript EVENING - 2021 Oct 21 
+| | | |
+| --- | :---: | --- |
+| Уязвимости в Web-приложениях. Как их избежать?  |  [Даниил Шилов](../../speakers/Даниил%20Шилов.md)  |    |
+| Firebase crash course  |  [Никита Нягу](../../speakers/Никита%20Нягу.md)  |    |
 ## DINS - JavaScript EVENING - 2021 May 26 [:movie_camera:](https://www.youtube.com/playlist?list=PLhhTXwj6_Fl3yCIJjnwejB1xTKomm1rGJ)
 | | | |
 | --- | :---: | --- |

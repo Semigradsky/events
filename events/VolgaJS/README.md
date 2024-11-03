@@ -25,3 +25,8 @@
 | --- | :---: | --- |
 | Houdini API: будущее рядом  |  [Даниил Ваденеев](../../speakers/Даниил%20Ваденеев.md)  | [:notebook:](https://vk.com/doc57668752_526052656?hash=ff8cca0ba94b4a66cd&dl=e132527e82c7d785b2)   |
 | JavaScript, которого мир заслуживает (но не тот, который нужен ему сейчас)  |  [Софья Михайлова](../../speakers/Софья%20Михайлова.md)  | [:notebook:](https://vk.com/doc9337498_527537046?hash=6c722c87a40a2c8545&dl=f8f23906ebc5c4c835)   |
+## VolgaJS UI meetup - 2019 Sep 11 
+| | | |
+| --- | :---: | --- |
+| Асинхронный JavaScript: от Callback-хелла до RxJS-парадайза  |  [Александр Макаренко](../../speakers/Александр%20Макаренко.md)  |    |
+| Tips and tricks: NgRx in action  |  [Михаил Кузнецов](../../speakers/Михаил%20Кузнецов.md)  |    |

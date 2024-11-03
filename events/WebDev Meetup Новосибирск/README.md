@@ -38,9 +38,21 @@
 | Flow type system: From Facebook to your PWA  |  [Wilson Mendes](../../speakers/Wilson%20Mendes.md)  |    |
 | [Как собрать с помощью webpack бандл мечты](https://www.youtube.com/watch?v=tT3FDMUpf10)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  |    |
 | [Swagger. Document it!](https://www.youtube.com/watch?v=llDskdYY-ag)  |  [Даниил Кузнецов](../../speakers/Даниил%20Кузнецов.md)  |    |
+## WebDev Meetup 3 - 2017 Aug 19 
+| | | |
+| --- | :---: | --- |
+| How to use redux in Polymer apps?  |  [Victor Lukashov](../../speakers/Victor%20Lukashov.md)  |    |
+| Web Performance 101  |  [Evgeny Chekan](../../speakers/Evgeny%20Chekan.md)  |    |
 ## WebDev Meetup 2 - 2017 Jul 01 [:movie_camera:](https://www.youtube.com/watch?v=Ln8woWsIBoI)
 | | | |
 | --- | :---: | --- |
 | [Функциональный JS. Как, почему и зачем](https://www.youtube.com/watch?v=Ln8woWsIBoI)  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  |    |
 | [Будь в теме! Вышел Vue 2.3](https://www.youtube.com/watch?v=Ln8woWsIBoI)  |  [Андрей Солодовников](../../speakers/Андрей%20Солодовников.md)  |    |
 | [Scala.js Когда Typescript&#39;a уже мало](https://www.youtube.com/watch?v=Ln8woWsIBoI)  |  [Бадальянц Юрий](../../speakers/Бадальянц%20Юрий.md)  |    |
+## WebDev Meetup 1 - 2017 Apr 29 
+| | | |
+| --- | :---: | --- |
+| Javascript. Почему он такой, какой есть  |  [Максим Соснов](../../speakers/Максим%20Соснов.md)  |    |
+| TypeScript: Development Experience First  |  [Андрей Воронович](../../speakers/Андрей%20Воронович.md)  |    |
+| Стартовые проекты для фронтенда  |  [Даниил Оношко](../../speakers/Даниил%20Оношко.md)  |    |
+| My super sweet React Native  |  [Глеб Фокин](../../speakers/Глеб%20Фокин.md)  |    |

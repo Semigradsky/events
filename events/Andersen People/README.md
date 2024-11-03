@@ -25,6 +25,18 @@
 | [Безопасность в web](https://www.youtube.com/watch?v=H3IIpRTUdFU&t=31s)  |  [Мария Сампир](../../speakers/Мария%20Сампир.md)  |    |
 | [PWA](https://www.youtube.com/watch?v=H3IIpRTUdFU&t=2278s)  |  [Владислав Фай](../../speakers/Владислав%20Фай.md)  |    |
 | [Фоновые сервисы в браузерах — есть ли жизнь после закрытия вкладки?](https://www.youtube.com/watch?v=H3IIpRTUdFU&t=3164s)  |  [Максим Сальников](../../speakers/Максим%20Сальников.md)  |    |
+## Front-end Meetup - 2020 Mar 19 
+| | | |
+| --- | :---: | --- |
+| Безопасность в веб  |  [Мария Сампир](../../speakers/Мария%20Сампир.md)  |    |
+| Что такое PWA и как внедрить прямо сейчас  |  [Владислав Фай](../../speakers/Владислав%20Фай.md)  |    |
+| Волшебная таблетка Formik  |  [Христина Ландвитович](../../speakers/Христина%20Ландвитович.md)  |    |
+## JS Meetup - 2020 Feb 27 
+| | | |
+| --- | :---: | --- |
+| State of JS and why it is so important to be a Web Engineer  |  [Евгений Губа](../../speakers/Евгений%20Губа.md)  |    |
+| Что такое PWA и как из вашего SPA сделать PWA с возможность Offline доступа  |  [Олег Куценко](../../speakers/Олег%20Куценко.md)  |    |
+| Преимущества Angular на больших проектах  |  [Кирилл Соколов](../../speakers/Кирилл%20Соколов.md)  |    |
 ## SPA Meetup - 2019 Jul 12 [:movie_camera:](https://www.youtube.com/watch?v=hdc67fVJoAM)
 | | | |
 | --- | :---: | --- |

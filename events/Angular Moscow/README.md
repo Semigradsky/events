@@ -29,6 +29,13 @@
 | [Прокачиваем обработку событий в Angular](https://youtu.be/e3DzljXxOoM)  |  [Александр Инкин](../../speakers/Александр%20Инкин.md)  |    |
 | [Granula - альтернативная версия Angular!](https://youtu.be/c6jAruZMSsw)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
 | [Динамические компоненты с Ivy](https://youtu.be/ws0bcx8uSKk)  |  [Олег Кургускин](../../speakers/Олег%20Кургускин.md)  |    |
+## Angular Moscow 16 - 2019 Nov 28 
+| | | |
+| --- | :---: | --- |
+| Angular CDK-based CDK  |  [Юрий Масьян](../../speakers/Юрий%20Масьян.md)  |    |
+| Modern сборка. 80% пользователей вдохнут полной грудью  |  [Иван Ишмаметьев](../../speakers/Иван%20Ишмаметьев.md)  |    |
+| Модульность в проекте  |  [Леонид Кулинчик](../../speakers/Леонид%20Кулинчик.md)  |    |
+| Angular Universal Advanced  |  [Unknown](../../speakers/Unknown.md)  |    |
 ## Angular Moscow 15 - 2019 Sep 11 
 | | | |
 | --- | :---: | --- |
@@ -47,6 +54,13 @@
 | [Препарируем RxJS операторы](https://youtu.be/V80FAvPKMjo)  |  [Кирилл Галушко](../../speakers/Кирилл%20Галушко.md)  |    |
 | [Безопасность и уязвимости в SPA на примере Angular](https://youtu.be/zSKTDIf_yeo)  |  [Сергей Хролёнок](../../speakers/Сергей%20Хролёнок.md)  |    |
 | Такие разные и в то же время одинаковые: Платформы в Angular  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+## Angular Moscow 13 - 2019 Mar 28 
+| | | |
+| --- | :---: | --- |
+| Lighting доклад: Angular Elements  |  [Максим Иванов](../../speakers/Максим%20Иванов.md)  |    |
+| Lighting доклад: Мультиязычное приложение   |  [Рустам Имайкин](../../speakers/Рустам%20Имайкин.md)  |    |
+| Lighting доклад: NGXF и структурные директивы в Angular   |  [Андрей Греков](../../speakers/Андрей%20Греков.md)  |    |
+| Ангуляры в Ангуляре, или как мы сделали мультиапп в Тинькофф.Бизнес  |  [Станислав Петров](../../speakers/Станислав%20Петров.md)  [Алексей Горошевский](../../speakers/Алексей%20Горошевский.md)  |    |
 ## Angular Moscow 12 - 2018 Nov 21 
 | | | |
 | --- | :---: | --- |
@@ -54,6 +68,12 @@
 | [Angular + gRPC](https://youtu.be/SuRGvp2V-EE)  |  [Дмитрий Захаров](../../speakers/Дмитрий%20Захаров.md)  |    |
 | [Итория одного конструктора или построение библиотек с помощью Angular6](https://youtu.be/5E3BrPA3nM4)  |  [Антон Карпов](../../speakers/Антон%20Карпов.md)  |    |
 | [PWA - modern web application](https://youtu.be/lFMGowpdbmA) [en] |  [Maciej Treder](../../speakers/Maciej%20Treder.md)  |    |
+## Angular Moscow 11 - 2018 Sep 27 
+| | | |
+| --- | :---: | --- |
+| Использование динамических форм с ngx-formly  |  [Олег Кургускин](../../speakers/Олег%20Кургускин.md)  |    |
+| Плагинная архитектура  |  [Рустам Имайкин](../../speakers/Рустам%20Имайкин.md)  |    |
+| Angular-ngrx-data – CRUD с полноценным state management за пять минут  |  [Климент Рудниченко](../../speakers/Климент%20Рудниченко.md)  |    |
 ## Angular Moscow 10 - 2018 Jul 19 [:movie_camera:](https://www.youtube.com/watch?v=Fk3w2q6IEpI)
 | | | |
 | --- | :---: | --- |
@@ -68,6 +88,18 @@
 | [Блиц-доклад: Автобиндинг динамических компонентов ](https://youtu.be/9-4zb3Gh5K4)  |  [Андрей Греков](../../speakers/Андрей%20Греков.md)  |    |
 | [Блиц-доклад: Angular ❤️SVG ](https://youtu.be/xJP52ub2p8c)  |  [Кирилл Черкашин](../../speakers/Кирилл%20Черкашин.md)  |    |
 | [Блиц-доклад: Angular Storybook](https://youtu.be/j7EsNGKXVVY)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+## Angular Moscow 8 - 2018 Feb 15 
+| | | |
+| --- | :---: | --- |
+| Наследование в angular  |  [Климент Рудниченко](../../speakers/Климент%20Рудниченко.md)  |    |
+| RxJS Subjects  |  [Андрей Алексеев](../../speakers/Андрей%20Алексеев.md)  |    |
+| e2e и BDD в Angular 4+  |  [Иван Ботанов](../../speakers/Иван%20Ботанов.md)  |    |
+## Angular Moscow 7 - 2017 Dec 13 
+| | | |
+| --- | :---: | --- |
+| Практическое применение NgRx 4.x  |  [Сергей Хролёнок](../../speakers/Сергей%20Хролёнок.md)  |    |
+| Implementing Motion using Angular (v5+) [en] |  [Gerard Sans](../../speakers/Gerard%20Sans.md)  |    |
+| Mad Science with the Angular Compiler [en] |  [Minko Gechev](../../speakers/Minko%20Gechev.md)  |    |
 ## Angular Moscow 6 - 2017 Nov 16 
 | | | |
 | --- | :---: | --- |
@@ -80,9 +112,27 @@
 | [PrimeNG, опыт использования](https://youtu.be/jNsr_CaTavY)  |  [Вадим Жамков](../../speakers/Вадим%20Жамков.md)  |    |
 | [Cостояние состояния (Services, Redux, Mobx, DCI)](https://youtu.be/8VesYob7OJg)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
 | [Unit-тестирование форм в Angular](https://youtu.be/Tpb3DRsjQFI)  |  [Павел Пилипчак](../../speakers/Павел%20Пилипчак.md)  |    |
+## Angular Moscow 4 - 2017 Sep 05 
+| | | |
+| --- | :---: | --- |
+| Angular (4.x) Dependency Injection в руки и вперед!  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+| Дружим ng1 с ng2  |  [Михаил Желудев](../../speakers/Михаил%20Желудев.md)  |    |
+| SPA на сервере своими руками  |  [Иван Матвейчук](../../speakers/Иван%20Матвейчук.md)  |    |
+## Angular Moscow 3 - 2017 Apr 13 
+| | | |
+| --- | :---: | --- |
+| Angular Router вдоль и поперек  |  [Юлия Царева](../../speakers/Юлия%20Царева.md)  |    |
+| Почему Angular такой быстрый  |  [Юрий Федоренко](../../speakers/Юрий%20Федоренко.md)  |    |
+| Практическое использование RxJS в Angular  |  [Сергей Хролёнок](../../speakers/Сергей%20Хролёнок.md)  |    |
 ## Angular Moscow 2 - 2017 Mar 16 
 | | | |
 | --- | :---: | --- |
 | [SPA на сервере своими руками](https://youtu.be/YGDJOfwgu-A)  |  [Иван Матвейчук](../../speakers/Иван%20Матвейчук.md)  |    |
 | [Динамическое создание компонентов в Angular на примере модальных окон](https://youtu.be/blSENg8Gssw)  |  [Андрей Яманов](../../speakers/Андрей%20Яманов.md)  |    |
 | [Дружим ng1 с ng2](https://youtu.be/fUxAR2LNo-w)  |  [Михаил Желудев](../../speakers/Михаил%20Желудев.md)  |    |
+## Angular Moscow 1 - 2016 Nov 17 
+| | | |
+| --- | :---: | --- |
+| Сборка Angular 2.0 приложений  |  [Александр Казаченко](../../speakers/Александр%20Казаченко.md)  |    |
+| Фишки и прелести TypeScript  |  [Александр Майоров](../../speakers/Александр%20Майоров.md)  |    |
+| Почему стоит переходить на Angular 2.0. Отличия и особенности  |  [Юлия Царева](../../speakers/Юлия%20Царева.md)  |    |

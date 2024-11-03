@@ -3,6 +3,22 @@
 
 # Frontend Dev Conf - Минск
 
+## Frontend Dev Conf 2017 - 2017 Sep 30 
+| | | |
+| --- | :---: | --- |
+| Handling GraphQL with React and Apollo  |  [Radoslav Stankov](../../speakers/Radoslav%20Stankov.md)  |    |
+| A deep dive into the web-audio API [en] |  [Sam Bellen](../../speakers/Sam%20Bellen.md)  |    |
+| The rise of Javascript Robotics [en] |  [Markus Leutwyler](../../speakers/Markus%20Leutwyler.md)  |    |
+| Bring WEB to the game client  |  [Maxim Schepelin](../../speakers/Maxim%20Schepelin.md)  |    |
+| Accessibility as Performance [en] |  [Estelle Weyl](../../speakers/Estelle%20Weyl.md)  |    |
+| Квант изменения. Реактивные реакции на React.  |  [Антон Киршанов](../../speakers/Антон%20Киршанов.md)  |    |
+| 8 1&#x2F;2 things about serverless [en] |  [Slobodan Stojanović](../../speakers/Slobodan%20Stojanović.md)  |    |
+| Почему мне зашел PWA?  |  [Тимофей Лавренюк](../../speakers/Тимофей%20Лавренюк.md)  |    |
+| Feedback first [en] |  [Ilya Birman](../../speakers/Ilya%20Birman.md)  |    |
+| Создаём виртуальный тур  |  [Игорь Еростенко](../../speakers/Игорь%20Еростенко.md)  |    |
+| Юнит тестирование для ленивых  |  [Владимир Дашукевич](../../speakers/Владимир%20Дашукевич.md)  |    |
+| The Compiler &amp; You - Pleasant PureScript [en] |  [Christoph Hegemann](../../speakers/Christoph%20Hegemann.md)  |    |
+| Build your own JavaScript powered Robot [Workshop] [en] |  [Markus Leutwyler](../../speakers/Markus%20Leutwyler.md)  |    |
 ## Frontend Dev Conf 2016 - 2016 Apr 16 
 | | | |
 | --- | :---: | --- |

@@ -3,6 +3,13 @@
 
 # Krasnodar Frontend
 
+## Krasnodar Frontend miniConf 2022 - 2022 Apr 23 
+| | | |
+| --- | :---: | --- |
+| Как бороться с энтропией в CSS  |  [Сергей Андреев](../../speakers/Сергей%20Андреев.md)  |    |
+| Архитектурная методология Feature Sliced  |  [Даниил Крохмаль](../../speakers/Даниил%20Крохмаль.md)  |    |
+| Альтернативный способ работы с асинхронностью в JS  |  [Владислав Горохов](../../speakers/Владислав%20Горохов.md)  |    |
+| Универсальные UI элементы для multi-stack команд  |  [Александр Урденко](../../speakers/Александр%20Урденко.md)  |    |
 ## Krasnodar Frontend miniConf 2019 - 2019 Nov 23 [:movie_camera:](https://www.youtube.com/playlist?list=PL1irPRp3Ng9a9boOsefhH0u8e-4L5jonA)
 | | | |
 | --- | :---: | --- |

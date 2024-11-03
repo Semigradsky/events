@@ -9,6 +9,23 @@
 | [Производительность JS: чтобы улучшить, надо измерить](https://www.youtube.com/watch?v=NxIiW_LFEfg)  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |    |
 | [JS Framework. Who’s That Pokemon?](https://youtu.be/NxIiW_LFEfg?t=3708)  |  [Денис Пучко​](../../speakers/Денис%20Пучко​.md)  |    |
 | Есть ли жизнь после фултайма?  |  [Андрей Лесницкий](../../speakers/Андрей%20Лесницкий.md)  |    |
+## The Rolling Scopes 60 Tashkent - 2019 Dec 05 
+| | | |
+| --- | :---: | --- |
+| Agile?! Wat?!  |  [Renat Akhtyamov](../../speakers/Renat%20Akhtyamov.md)  |    |
+| Rx для начинающих  |  [Alex Kulagin](../../speakers/Alex%20Kulagin.md)  |    |
+## The Rolling Scopes 57 Krakow - 2019 Oct 10 
+| | | |
+| --- | :---: | --- |
+| Easy e2e testing for front end developers  |  [Pawel Lesniowski](../../speakers/Pawel%20Lesniowski.md)  |    |
+| How to Webpack like a pro?  |  [Ihor Syerkov](../../speakers/Ihor%20Syerkov.md)  |    |
+## The Rolling Scopes + JS Machine Meet Up. Mogilev - 2019 Mar 30 
+| | | |
+| --- | :---: | --- |
+| PWA using Angular Service Worker  |  [Viktoryia Verasava](../../speakers/Viktoryia%20Verasava.md)  |    |
+| Стейт менеджмент для ленивых  |  [Aliaksandr Famchankou](../../speakers/Aliaksandr%20Famchankou.md)  |    |
+| Оптимизации в web  |  [Mikhail Dziarkach](../../speakers/Mikhail%20Dziarkach.md)  |    |
+| JS Machine Talk  |  [Yury Tatarynovich](../../speakers/Yury%20Tatarynovich.md)  [Katsiaryna Sivakova](../../speakers/Katsiaryna%20Sivakova.md)  |    |
 ## The Rolling Scopes &amp; MobilePeople - 2019 Feb 19 [:movie_camera:](https://www.youtube.com/watch?v=uwROYy4LPf4)
 | | | |
 | --- | :---: | --- |
@@ -20,6 +37,52 @@
 | [Building large-scale React frontend](https://www.youtube.com/watch?v=gdpMFxWDwJg) [en] |  [Martynas Sipavičius](../../speakers/Martynas%20Sipavičius.md)  |    |
 | [Системное мышление и как его можно применять для software engineering](https://www.youtube.com/watch?v=gdpMFxWDwJg)  |  [Денис Шеко](../../speakers/Денис%20Шеко.md)  |    |
 | [Не HTTP едины, или Как передавать данные в быту](https://www.youtube.com/watch?v=gdpMFxWDwJg)  |  [Егор Малкевич](../../speakers/Егор%20Малкевич.md)  |    |
+## The Rolling Scopes 52 - 2018 Nov 21 
+| | | |
+| --- | :---: | --- |
+| Flutter vs React Native  |  [Андрей Лесницкий](../../speakers/Андрей%20Лесницкий.md)  |    |
+| Modern prototyping workflow with GraphQL and React  |  [Alex Alexeev](../../speakers/Alex%20Alexeev.md)  |    |
+## The Rolling Scopes 51. Krakow - 2018 Oct 17 
+| | | |
+| --- | :---: | --- |
+| How to build your own database  |  [Кирилл Кныш](../../speakers/Кирилл%20Кныш.md)  |    |
+| Migrating AngularJS to Angular. Pitfalls you didn&#39;t expect!  |  [Тимофей Яценко](../../speakers/Тимофей%20Яценко.md)  |    |
+| Snapshot testing. Just do it  |  [Денис Кузин](../../speakers/Денис%20Кузин.md)  |    |
+## The Rolling Scopes 50. Mogilev - 2018 Sep 30 
+| | | |
+| --- | :---: | --- |
+| Registration  |  [RS Crew](../../speakers/RS%20Crew.md)  |    |
+| Reflect and decorators in action  |  [Vitali Haradkou](../../speakers/Vitali%20Haradkou.md)  |    |
+| JS Machine and Community app  |  [Dzianis Pasiukou](../../speakers/Dzianis%20Pasiukou.md)  [Artsiom Marozau](../../speakers/Artsiom%20Marozau.md)  |    |
+| Electron - desktop development  |  [Aliaksandr Famchankou](../../speakers/Aliaksandr%20Famchankou.md)  |    |
+| kostil.js  |  [Maxim Shastel](../../speakers/Maxim%20Shastel.md)  |    |
+## The Rolling Scopes Summer Summit - 2018 Aug 16 
+| | | |
+| --- | :---: | --- |
+| WebGL Воркшоп  |  [Андрей Лесницкий](../../speakers/Андрей%20Лесницкий.md)  |    |
+| Настало время офигительных историй  |  [Дмитрий Ваницкий](../../speakers/Дмитрий%20Ваницкий.md)  |    |
+| Истории из жизни дизайнера  |  [Светлана Желток](../../speakers/Светлана%20Желток.md)  |    |
+| По следам волшебного Друзя  |  [Дмитрий Ваницкий](../../speakers/Дмитрий%20Ваницкий.md)  [Светлана Желток](../../speakers/Светлана%20Желток.md)  [Никита Зенченко](../../speakers/Никита%20Зенченко.md)  |    |
+| Real-world applications for Blockchain technology (EN)  |  [Fernando Martinho](../../speakers/Fernando%20Martinho.md)  |    |
+| UI optimizations borrowed from 3d graphics engines  |  [Денис Шеко](../../speakers/Денис%20Шеко.md)  |    |
+| WebGL + WebAssembly: только лоу-левел, только хардкор!  |  [Anton Hlynovskiy](../../speakers/Anton%20Hlynovskiy.md)  |    |
+| Что если разработчик решил (заставили) сделать дизайн  |  [Vitali Novikau](../../speakers/Vitali%20Novikau.md)  |    |
+| CLI для кодогенерации своими руками  |  [Василий Ванчук](../../speakers/Василий%20Ванчук.md)  |    |
+| Как правильно расти разработчику  |  [Павел Юхнович](../../speakers/Павел%20Юхнович.md)  |    |
+| Be GODLIKE. Reflection and Metadata  |  [Vitali Haradkou](../../speakers/Vitali%20Haradkou.md)  |    |
+| Истории неуспеха  |  [Pavel Liber](../../speakers/Pavel%20Liber.md)  |    |
+| Developer or Rolling Roll  |  [Anna Yakovleva](../../speakers/Anna%20Yakovleva.md)  |    |
+| kostil.js  |  [Владимир Галушко](../../speakers/Владимир%20Галушко.md)  [Maxim Shastel](../../speakers/Maxim%20Shastel.md)  |    |
+| Исследование в реальном времени &quot;Взгляд на будущее в IT образовании&quot;   |  [Никита Зенченко](../../speakers/Никита%20Зенченко.md)  |    |
+## The Rolling Scopes 49. Krakow - 2018 Jun 06 
+| | | |
+| --- | :---: | --- |
+| VUI with Alexa &amp; Node.js  |  [Ricardo Casares](../../speakers/Ricardo%20Casares.md)  |    |
+| Generics and Mapped Types in TypeScript  |  [Denis Reshetniak](../../speakers/Denis%20Reshetniak.md)  |    |
+## The Rolling Scopes 48. Gdansk - 2018 May 25 
+| | | |
+| --- | :---: | --- |
+| &quot;Backend For Frontend&quot; with NestJS: usage patterns  |  [Viachaslau Kudzinau](../../speakers/Viachaslau%20Kudzinau.md)  |    |
 ## The Rolling Scopes 47 - 2018 Apr 24 [:movie_camera:](https://www.youtube.com/watch?v=Y6gEOO2rUfA)
 | | | |
 | --- | :---: | --- |
@@ -46,6 +109,12 @@
 | Tricky JS and WebGL practices to achieve the best performance on mobile  |  [Андрей Лесницкий](../../speakers/Андрей%20Лесницкий.md)  |    |
 | Who is the client  |  [Marcelo Gomes](../../speakers/Marcelo%20Gomes.md)  |    |
 | Mogensen-Scott encoding  |  [Александр Герасимов](../../speakers/Александр%20Герасимов.md)  |    |
+## The Rolling Scopes 43 - 2017 Oct 18 
+| | | |
+| --- | :---: | --- |
+| Око Саурона в браузере  |  [Roman Savarin](../../speakers/Roman%20Savarin.md)  |    |
+| Рекуперативный подход  |  [Василий Ванчук](../../speakers/Василий%20Ванчук.md)  |    |
+| WASM: будущее веба, чем является и чем не является  |  [Aleh Kashnikau](../../speakers/Aleh%20Kashnikau.md)  |    |
 ## The Rolling Scopes 42 - 2017 Oct 06 [:movie_camera:](https://www.youtube.com/watch?v=UPuWeBeMnTU&t=7635s)
 | | | |
 | --- | :---: | --- |
@@ -56,32 +125,164 @@
 | [Hack the Dom or Modern Chrome Extension in the Wild](https://www.youtube.com/watch?v=wdys2FjFFXs&t=6145s)  |  [Денис Шеко](../../speakers/Денис%20Шеко.md)  |    |
 | [Про статические типы в JS](https://www.youtube.com/watch?v=wdys2FjFFXs&t=6145s)  |  [Aleh Kashnikau](../../speakers/Aleh%20Kashnikau.md)  |    |
 | [Persistent Memory and Linux](https://www.youtube.com/watch?v=wdys2FjFFXs&t=6145s)  |  [Кирилл Шутемов](../../speakers/Кирилл%20Шутемов.md)  |    |
+## RS Summer Summit 2017. Minsk - 2017 Jun 20-21 
+| | | |
+| --- | :---: | --- |
+| Про TDD, BDD и зачем все это  |  [Aleh Kashnikau](../../speakers/Aleh%20Kashnikau.md)  |    |
+| React Native shared components. Write once, use everywhere (well, almost everywhere)  |  [Андрей Лесницкий](../../speakers/Андрей%20Лесницкий.md)  |    |
+| React Native &amp; ClosureScript  |  [Сергей Мельник](../../speakers/Сергей%20Мельник.md)  |    |
+| Service design for «Krumkachy» football team  |  [Maksim Barysau](../../speakers/Maksim%20Barysau.md)  |    |
+| Оценка интерфейсов  |  [Ксения Колтун](../../speakers/Ксения%20Колтун.md)  |    |
+| Education in Design или Как выучить дизайнеров?  |  [Станислав Борисевич](../../speakers/Станислав%20Борисевич.md)  |    |
+| Accelerated Mobile Pages: Делаем WEB сверхбыстрым  |  [Денис Влассенко](../../speakers/Денис%20Влассенко.md)  |    |
+| Product design audit &amp; research  |  [Виталий Воронович](../../speakers/Виталий%20Воронович.md)  |    |
+| Никто ничего не читает (на самом деле это не так)  |  [Анна Ширяева](../../speakers/Анна%20Ширяева.md)  |    |
+| 101 EPAM projects in one ecosystem  |  [Vitali Novikau](../../speakers/Vitali%20Novikau.md)  |    |
+| 101 EPAM projects in one ecosystem  |  [Дмитрий Ваницкий](../../speakers/Дмитрий%20Ваницкий.md)  |    |
+## The Rolling Scopes 37. Gomel - 2017 Jun 17 
+| | | |
+| --- | :---: | --- |
+| Registration  |  [RS Crew](../../speakers/RS%20Crew.md)  |    |
+| Introduction to Elm (EN)  |  [Gabriel Leske](../../speakers/Gabriel%20Leske.md)  |    |
+| Why client-side web technologies are wrong and what technologies are right (RU)  |  [Alexey Shrub](../../speakers/Alexey%20Shrub.md)  |    |
+| Application state management: flux, redux, mobx (RU)  |  [Михаил Гатилов](../../speakers/Михаил%20Гатилов.md)  |    |
+| Introduction to WebGL (RU)  |  [Sergey Ezhov](../../speakers/Sergey%20Ezhov.md)  |    |
+| Reliable web apps with Elixir and Phoenix (RU)  |  [Алесь Цвиль](../../speakers/Алесь%20Цвиль.md)  |    |
+| How to get into IT &#x2F; Как войти в АйТи (RU)  |  [Алексей Рябченко](../../speakers/Алексей%20Рябченко.md)  |    |
+| JS Marathon (RU)  |  [RS Crew](../../speakers/RS%20Crew.md)  |    |
+| Awards ceremony (RU)  |  [RS Crew](../../speakers/RS%20Crew.md)  |    |
+## The Rolling Scopes 39. Grodno - 2017 Jun 10 
+| | | |
+| --- | :---: | --- |
+| OpenGL rendering with Node and Rust  |  [Андрей Лесницкий](../../speakers/Андрей%20Лесницкий.md)  |    |
+| Serverless architecture: Functions as a Service  |  [Дмитрий Воробей](../../speakers/Дмитрий%20Воробей.md)  |    |
+| Accelerated Mobile Pages: Делаем WEB сверхбыстрым  |  [Денис Влассенко](../../speakers/Денис%20Влассенко.md)  |    |
+| React Native &amp; ClosureScript  |  [Сергей Мельник](../../speakers/Сергей%20Мельник.md)  |    |
 ## The Rolling Scopes 38. Minsk - 2017 May 16 [:movie_camera:](https://www.youtube.com/watch?v=pgyoeqaNIzQ)
 | | | |
 | --- | :---: | --- |
 | [Панельная дискуссия: Образование в ИТ](https://www.youtube.com/watch?v=pgyoeqaNIzQ)  |  [Денис Шеко](../../speakers/Денис%20Шеко.md)  [Дмитрий Воробей](../../speakers/Дмитрий%20Воробей.md)  [Константин Яцкевич](../../speakers/Константин%20Яцкевич.md)  [Станислав Зубович](../../speakers/Станислав%20Зубович.md)  [Андрей Лесницкий](../../speakers/Андрей%20Лесницкий.md)  [Елена Круковская](../../speakers/Елена%20Круковская.md)  [Андрей Силков](../../speakers/Андрей%20Силков.md)  [Алексей Потемкин](../../speakers/Алексей%20Потемкин.md)  [Павел Бакунович](../../speakers/Павел%20Бакунович.md)  [Вадим Зеленков](../../speakers/Вадим%20Зеленков.md)  [Владимир Галушко](../../speakers/Владимир%20Галушко.md)  |    |
+## The Rolling Scopes 35. Krakow - 2017 Apr 27 
+| | | |
+| --- | :---: | --- |
+| Accessibility Driven Development: why would you even care?  |  [Вадим Якушев](../../speakers/Вадим%20Якушев.md)  |    |
+| Start Using Custom Elements  |  [Ricardo Casares](../../speakers/Ricardo%20Casares.md)  |    |
+| Easy Mobile Apps with Ionic 2 Framework  |  [Vladimir Serykh](../../speakers/Vladimir%20Serykh.md)  |    |
+## The Rolling Scopes 34. Gdansk - 2017 Apr 26 
+| | | |
+| --- | :---: | --- |
+| Accessibility Driven Development: why would you even care?  |  [Вадим Якушев](../../speakers/Вадим%20Якушев.md)  |    |
+| Start Using Custom Elements  |  [Ricardo Casares](../../speakers/Ricardo%20Casares.md)  |    |
+| Easy Mobile Apps with Ionic 2 Framework  |  [Vladimir Serykh](../../speakers/Vladimir%20Serykh.md)  |    |
 ## The Rolling Scopes 36. Minsk - 2017 Apr 18 
 | | | |
 | --- | :---: | --- |
 | [Как сделать чат бота за выходные](https://www.youtube.com/watch?v=8L-C8HOlpic)  |  [Игорь Колупаев](../../speakers/Игорь%20Колупаев.md)  |    |
 | [OpenGL rendering with Node and Rust](https://www.youtube.com/watch?v=s3BrF79pvL4)  |  [Андрей Лесницкий](../../speakers/Андрей%20Лесницкий.md)  |    |
 | [Модель разработки ядра Linux](https://www.youtube.com/watch?v=OxxRw02C_Ys)  |  [Кирилл Шутемов](../../speakers/Кирилл%20Шутемов.md)  |    |
+## The Rolling Scopes 33. Brest - 2017 Mar 18 
+| | | |
+| --- | :---: | --- |
+| Декорируем Javascript  |  [Денис Влассенко](../../speakers/Денис%20Влассенко.md)  |    |
+| Compile it!  |  [Владимир Дёмин](../../speakers/Владимир%20Дёмин.md)  |    |
+| Введение в разработку Virtual Reality (VR) &#x2F; ThreeJS  |  [Дмитрий Самсонов](../../speakers/Дмитрий%20Самсонов.md)  |    |
+| RxJS и магия реактивного программирования  |  [Виталий Козлов](../../speakers/Виталий%20Козлов.md)  |    |
 ## The Rolling Scopes 32. Minsk - 2016 Dec 23 [:movie_camera:](https://www.youtube.com/watch?v=qLxO9Pgx05M)
 | | | |
 | --- | :---: | --- |
 | [панельная дискуссия](https://www.youtube.com/watch?v=qLxO9Pgx05M)  |  [Андрей Пальчис](../../speakers/Андрей%20Пальчис.md)  [Константин Кривленя](../../speakers/Константин%20Кривленя.md)  [Кирилл Верховин](../../speakers/Кирилл%20Верховин.md)  [Денис Шеко](../../speakers/Денис%20Шеко.md)  [Павел Юхнович](../../speakers/Павел%20Юхнович.md)  [Евгений Заря](../../speakers/Евгений%20Заря.md)  [Дмитрий Воробей](../../speakers/Дмитрий%20Воробей.md)  [Кирилл Куховец](../../speakers/Кирилл%20Куховец.md)  [Андрей Емельянчик](../../speakers/Андрей%20Емельянчик.md)  |    |
+## The Rolling Scopes 31. Krakow - 2016 Sep 29 
+| | | |
+| --- | :---: | --- |
+| Ethereum virtual machines in JS: cryptocurrency revolution  |  [Александр Пастухов](../../speakers/Александр%20Пастухов.md)  |    |
+| Modular JavaScript: put things on the right place  |  [Андрей Емельянчик](../../speakers/Андрей%20Емельянчик.md)  |    |
+| Serverless architecture: Functions as a Service  |  [Дмитрий Воробей](../../speakers/Дмитрий%20Воробей.md)  [Сергей Мельник](../../speakers/Сергей%20Мельник.md)  |    |
+| Designers at the lab  |  [Dafna Sharabi](../../speakers/Dafna%20Sharabi.md)  |    |
+## The Rolling Scopes 30. Gdansk - 2016 Sep 28 
+| | | |
+| --- | :---: | --- |
+| TypeScript and what&#39;s the hack Javascript  |  [Вадим Якушев](../../speakers/Вадим%20Якушев.md)  |    |
+| Yes, you can use Web components in production  |  [David Ferreira](../../speakers/David%20Ferreira.md)  |    |
+| Serverless architecture: Functions as a Service  |  [Дмитрий Воробей](../../speakers/Дмитрий%20Воробей.md)  [Сергей Мельник](../../speakers/Сергей%20Мельник.md)  |    |
+| Designers at the lab  |  [Dafna Sharabi](../../speakers/Dafna%20Sharabi.md)  |    |
 ## The Rolling Scopes 29. Minsk - 2016 Sep 20 
 | | | |
 | --- | :---: | --- |
 | [New Opportunities for Augmented Reality](https://www.youtube.com/watch?v=kMIhPlg4hw4)  |  [Iryna Dastanka](../../speakers/Iryna%20Dastanka.md)  [Dzmitry Basenka](../../speakers/Dzmitry%20Basenka.md)  |    |
 | [Serverless architecture: Functions as a Service](https://www.youtube.com/watch?v=w8tRcAJdqGk)  |  [Сергей Мельник](../../speakers/Сергей%20Мельник.md)  [Дмитрий Воробей](../../speakers/Дмитрий%20Воробей.md)  |    |
 | [QCon New York technology trends highlights](https://www.youtube.com/watch?v=yLh-JajDfmI)  |  [Vitali Shcharbin](../../speakers/Vitali%20Shcharbin.md)  |    |
+## The Rolling Scopes 28. Brest - 2016 Aug 06 
+| | | |
+| --- | :---: | --- |
+| Immutable.js  |  [Виталий Фокин](../../speakers/Виталий%20Фокин.md)  |    |
+| Популярные CSS фреймворки 2016. Нужно ли гнаться за модой?  |  [Андрей Кучук](../../speakers/Андрей%20Кучук.md)  |    |
+| React.js hangover  |  [Владимир Дёмин](../../speakers/Владимир%20Дёмин.md)  |    |
+| Погружаемся в React native  |  [Александр Коваленко](../../speakers/Александр%20Коваленко.md)  |    |
+| Введение в теорию типов  |  [Александр Рулев](../../speakers/Александр%20Рулев.md)  |    |
+## The Rolling Scopes 27. Gomel - 2016 Jul 23 
+| | | |
+| --- | :---: | --- |
+| Angular-Material in Practice  |  [Алесь Цвиль](../../speakers/Алесь%20Цвиль.md)  |    |
+| TypeScript: application-scale JavaScript.  |  [Алексей Харчиков](../../speakers/Алексей%20Харчиков.md)  |    |
+| Как подружить JAVA сервер-сайд разработчика с JASMINE  |  [Алексей Рябченко](../../speakers/Алексей%20Рябченко.md)  |    |
+| Как стать фронт-енд разработчиком с нуля  |  [Вадим Кулага](../../speakers/Вадим%20Кулага.md)  |    |
+| Некоторые алгоритмы и структуры для обработки строковых данных  |  [Руслан Панасюк](../../speakers/Руслан%20Панасюк.md)  |    |
+| Electron и JavaScript приложения для desktop.  |  [Иван Селицкий](../../speakers/Иван%20Селицкий.md)  |    |
+| Статическая типизация с Flow and Typescript  |  [Владислав Горбачёв](../../speakers/Владислав%20Горбачёв.md)  |    |
+| Creating VR web  |  [Павел Юхнович](../../speakers/Павел%20Юхнович.md)  |    |
+| Азбука HTML и CSS, или как научить толпу людей верстать  |  [Мария Путырская](../../speakers/Мария%20Путырская.md)  |    |
+| Самые распространеные лайфхаки фронтенд разработчика или как делать свою работу быстрее и проще  |  [Жанна Луд](../../speakers/Жанна%20Луд.md)  |    |
+## The Rolling Scopes 26. Krakow - 2016 Jun 16 
+| | | |
+| --- | :---: | --- |
+| TypeScript and what&#39;s the hack Javascript  |  [Вадим Якушев](../../speakers/Вадим%20Якушев.md)  |    |
+| Virtual Augmented Mixed Reality: Day 0  |  [Павел Юхнович](../../speakers/Павел%20Юхнович.md)  |    |
+| 3D visualization of datasets in browsers  |  [Александр Пастухов](../../speakers/Александр%20Пастухов.md)  |    |
+## The Rolling Scopes Summer Summit - 2016 Jun 03-04 
+| | | |
+| --- | :---: | --- |
+| Кто-то читает тексты в мобильной игре? Опыт World of Tanks Blitz и при чём здесь UX.  |  [Анна Ширяева](../../speakers/Анна%20Ширяева.md)  |    |
+| Best UI Design Practices. UI Patterns  |  [Анастасия Шпакова](../../speakers/Анастасия%20Шпакова.md)  |    |
+| Контекст! Контекст! Контекст!  |  [Ксения Колтун](../../speakers/Ксения%20Колтун.md)  |    |
+| &quot;Не иди за мной, я сам потерялся&quot; или что такое UX исследования, и зачем они нужны  |  [Виктория Рылькова](../../speakers/Виктория%20Рылькова.md)  |    |
+| Постигаем CSS Grid Layout  |  [Наталия Короткова](../../speakers/Наталия%20Короткова.md)  |    |
+| Выжимаем максимум из React.js  |  [Виталий Фокин](../../speakers/Виталий%20Фокин.md)  |    |
+| How to FAIL Web Accessibility  |  [Станислав Зубович](../../speakers/Станислав%20Зубович.md)  |    |
+| Living the GNU&#x2F;Linux Dream  |  [Петар Додев](../../speakers/Петар%20Додев.md)  |    |
+| Безусловное программирование  |  [Александр Оргиш](../../speakers/Александр%20Оргиш.md)  |    |
+| Гонки дронов: спорт для гиков.  |  [Андрей Ворошков](../../speakers/Андрей%20Ворошков.md)  |    |
+| Внедрение новых технологий в 10 летнем проекте  |  [Константин Кривленя](../../speakers/Константин%20Кривленя.md)  |    |
+| Будь первым  |  [Константин Кривленя](../../speakers/Константин%20Кривленя.md)  |    |
+| TV in browsers: live cases  |  [Александр Карлович](../../speakers/Александр%20Карлович.md)  |    |
+| API Панорам  |  [Всеволод Шмыров](../../speakers/Всеволод%20Шмыров.md)  |    |
+| Welcome to V&#x2F;A&#x2F;M R.  |  [Павел Юхнович](../../speakers/Павел%20Юхнович.md)  |    |
+| Code review  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |    |
+| Blend4Web: нативные врата в мир WebGL  |  [Денис Шеко](../../speakers/Денис%20Шеко.md)  |    |
 ## The Rolling Scopes 24 - 2016 Apr 21 
 | | | |
 | --- | :---: | --- |
 | [Ленивая история про ленивый JavaScript](https://www.youtube.com/watch?v=svwtrFf-aEo)  |  [Денис Влассенко](../../speakers/Денис%20Влассенко.md)  |    |
 | Как мы разрабатываем Orange Buildboard 2.0  |  [Константин Кривленя](../../speakers/Константин%20Кривленя.md)  |    |
 | Redux в реальной жизни  |  [Иван Акулов](../../speakers/Иван%20Акулов.md)  |    |
+## RS on Tour. Gomel - 2016 Apr 09 
+| | | |
+| --- | :---: | --- |
+| NightwatchJS. Легенды ночных стражей  |  [Василий Ванчук](../../speakers/Василий%20Ванчук.md)  |    |
+| Asyncable ES для тех, кто еще не в теме  |  [Денис Влассенко](../../speakers/Денис%20Влассенко.md)  |    |
+| Welcome to V&#x2F;A&#x2F;M R.  |  [Павел Юхнович](../../speakers/Павел%20Юхнович.md)  |    |
+| Google Closure Library + Compiler - Что в этом особенного и как это работает  |  [Иван Селицкий](../../speakers/Иван%20Селицкий.md)  |    |
+| TV in browsers: live cases  |  [Александр Карлович](../../speakers/Александр%20Карлович.md)  |    |
+| Web Accessibility  |  [Станислав Зубович](../../speakers/Станислав%20Зубович.md)  |    |
+## The Rolling Scopes 22. Brest - 2016 Mar 12 
+| | | |
+| --- | :---: | --- |
+| Под капотом у Reactjs  |  [Виталий Фокин](../../speakers/Виталий%20Фокин.md)  |    |
+| Synthetic events в Reactjs  |  [Владимир Дёмин](../../speakers/Владимир%20Дёмин.md)  |    |
+| Социальный проект Brest Fortress Hidden History  |  [Дмитрий Рыбалко](../../speakers/Дмитрий%20Рыбалко.md)  |    |
+| Progressive Web Apps  |  [Александр Оргиш](../../speakers/Александр%20Оргиш.md)  |    |
+| Asyncable ES для тех, кто еще не в теме  |  [Денис Влассенко](../../speakers/Денис%20Влассенко.md)  |    |
+| TV in browsers: live cases  |  [Александр Карлович](../../speakers/Александр%20Карлович.md)  |    |
+| Intro to usability heuristics  |  [Ксения Колтун](../../speakers/Ксения%20Колтун.md)  |    |
 ## The Rolling Scopes 21 - 2015 Dec 15 
 | | | |
 | --- | :---: | --- |
@@ -143,10 +344,27 @@
 | [How to not program on AngularJS](https://www.youtube.com/watch?v=IDvb3QI98Uc)  |  [Андрей Емельянчик](../../speakers/Андрей%20Емельянчик.md)  | [:notebook:](http://goo.gl/yCbfQz)   |
 | [AngularJS and how you shouldn’t use it](https://www.youtube.com/watch?v=efM-0sxCUxs)  |  [Константин Яцкевич](../../speakers/Константин%20Яцкевич.md)  | [:notebook:](http://goo.gl/hYL3yP)   |
 | [WebKit JavaScript Core optimizations layers](https://www.youtube.com/watch?v=xALTXSE8GQA)  |  [Кирилл Кныш](../../speakers/Кирилл%20Кныш.md)  | [:notebook:](http://goo.gl/guASWu)   |
+## The Rolling Scopes 11 - 2014 Aug 07 
+| | | |
+| --- | :---: | --- |
+| Memory Profiling  |  [Артём Алексеенко](../../speakers/Артём%20Алексеенко.md)  |    |
+| Интеграция ReactJS в проект на RequireJS  |  [Виктор Хомяков](../../speakers/Виктор%20Хомяков.md)  |    |
+| CSS Warm-Up  |  [Александр Герасимов](../../speakers/Александр%20Герасимов.md)  |    |
 ## RS Workshop 3 - 2014 Jul 29 
 | | | |
 | --- | :---: | --- |
 | Обработка и визуализация данных с помощью библиотеки D3.js на примере создания интерактивной карты Беларуси.  |  [Кирилл Верховин](../../speakers/Кирилл%20Верховин.md)  | [:notebook:](http://rolling-scopes.github.io/slides/rsw-3-d3/d3-demo.zip)   |
+## The Rolling Scopes 10 - 2014 May 28 
+| | | |
+| --- | :---: | --- |
+| News Digest  |  [Сергей Мельник](../../speakers/Сергей%20Мельник.md)  |    |
+| DOM Sweet DOOM  |  [Константин Кривленя](../../speakers/Константин%20Кривленя.md)  |    |
+| Назад в будущее или мобильная разработка сегодня  |  [Денис Шеко](../../speakers/Денис%20Шеко.md)  |    |
+| Paper.js  |  [Николай Лавринович](../../speakers/Николай%20Лавринович.md)  |    |
+## RS Q&amp;A 2 с Олегом Засыпкиным - 2014 Apr 29 
+| | | |
+| --- | :---: | --- |
+| How Mozilla Works  |  [Олег Засыпкин](../../speakers/Олег%20Засыпкин.md)  |    |
 ## The Rolling Scopes 9 - 2014 Mar 27 
 | | | |
 | --- | :---: | --- |
@@ -167,6 +385,10 @@
 | [JavaScript Virtual Machines](https://www.youtube.com/watch?v=VPvKxta_qzA)  |  [Константин Кривленя](../../speakers/Константин%20Кривленя.md)  |    |
 | [WebKit Project Overview](https://www.youtube.com/watch?v=xjL-2f-YWxk)  |  [Андрей Пальчис](../../speakers/Андрей%20Пальчис.md)  |    |
 | RetroSpective  |  [Андрей Глухманчук](../../speakers/Андрей%20Глухманчук.md)  [Александр Герасимов](../../speakers/Александр%20Герасимов.md)  [Дмитрий Воробей](../../speakers/Дмитрий%20Воробей.md)  [Александр Карлович](../../speakers/Александр%20Карлович.md)  | [:notebook:](http://rolling-scopes.github.io/slides/rs7/RetroSpective)   |
+## RS Q&amp;A 1 c Виталием Фридманом - 2013 Nov 29 
+| | | |
+| --- | :---: | --- |
+| Responsive Web Design  |  [Виталий Фридман](../../speakers/Виталий%20Фридман.md)  |    |
 ## The Rolling Scopes 6 - 2013 Oct 30 
 | | | |
 | --- | :---: | --- |
@@ -181,6 +403,10 @@
 | [Going To Interview: Best Practices](https://www.youtube.com/watch?v=vtzpCbYM4qM)  |  [Андрей Глухманчук](../../speakers/Андрей%20Глухманчук.md)  | [:notebook:](http://rolling-scopes.github.io/slides/rs5/interview-talk)   |
 | [Taming AngularJS: A Directive&#39;&#39;s Lifecycle](https://www.youtube.com/watch?v=DZ0RBOkkor8)  |  [Кирилл Бараношник](../../speakers/Кирилл%20Бараношник.md)  |    |
 | [Welcome to Node.js](https://www.youtube.com/watch?v=M6Nm5K0wT68)  |  [Кирилл Куховец](../../speakers/Кирилл%20Куховец.md)  | [:notebook:](http://rolling-scopes.github.io/slides/rs5/Welcome-to-node.js)   |
+## RS Workshop 2 - 2013 Sep 17 
+| | | |
+| --- | :---: | --- |
+| WebSocket Challenge  |  [Павел Насович](../../speakers/Павел%20Насович.md)  |    |
 ## The Rolling Scopes 4 - 2013 Aug 29 
 | | | |
 | --- | :---: | --- |
@@ -189,6 +415,10 @@
 | [JavaScript Must Die!](https://www.youtube.com/watch?v=t0pJiaXUlD0)  |  [Константин Кривленя](../../speakers/Константин%20Кривленя.md)  | [:notebook:](http://rolling-scopes.github.io/slides/rs4/javascript_must_die)   |
 | JavaScript: Non-classical inheritance  |  [Евгений Заря](../../speakers/Евгений%20Заря.md)  |    |
 | Popups - breaking the habits  |  [Сергей Михайлов](../../speakers/Сергей%20Михайлов.md)  | [:notebook:](http://rolling-scopes.github.io/slides/rs4/Popups-breaking-the-habits)   |
+## RS Workshop 1 - 2013 Aug 20 
+| | | |
+| --- | :---: | --- |
+| Тестирование JavaScript приложений  |  [Александр Герасимов](../../speakers/Александр%20Герасимов.md)  [Дмитрий Герасимов](../../speakers/Дмитрий%20Герасимов.md)  |    |
 ## The Rolling Scopes 3 - 2013 Jul 25 
 | | | |
 | --- | :---: | --- |

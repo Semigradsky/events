@@ -116,19 +116,36 @@
 | | | |
 | --- | :---: | --- |
 | [Хороним REST с GraphQL](https://www.youtube.com/watch?v=GfjWdNaD-2M)  |  [Яков Жмуров](../../speakers/Яков%20Жмуров.md)  |    |
+## WebPurple meetup 21 - 2017 Aug 17 
+| | | |
+| --- | :---: | --- |
+| Source of JS magic. Let&#39;s read the spec.  |  [Андрей Смолко](../../speakers/Андрей%20Смолко.md)  |    |
 ## WebPurple meetup 20 - 2017 Jun 29 
 | | | |
 | --- | :---: | --- |
 | Functional programming in JavaScript. Beyond Array#extras  |  [Руслан Абрамов](../../speakers/Руслан%20Абрамов.md)  | [:notebook:](https://docs.google.com/presentation/d/1h9unQoUaVkJbkIlJwXz0zrIMily9ohmQ4zgdr3thLm4/edit?usp=sharing)   |
+## WebPurple meetup 19 - 2017 May 25 
+| | | |
+| --- | :---: | --- |
+| Мой опыт разработки масштабируемых приложений на React и Typescript  |  [Дмитрий Пикулин](../../speakers/Дмитрий%20Пикулин.md)  |    |
 ## WebPurple meetup 18 - 2017 Apr 20 
 | | | |
 | --- | :---: | --- |
 | [WebAssembly - надо ли всё переписывать?](https://www.youtube.com/watch?v=maXt60O2C4o)  |  [Вячеслав Лапин](../../speakers/Вячеслав%20Лапин.md)  |    |
+## WebPurple meetup 17 - 2017 Mar 09 
+| | | |
+| --- | :---: | --- |
+| Введение в разработку на Node.js  |  [Александр Зайцев](../../speakers/Александр%20Зайцев.md)  |    |
 ## WebPurple meetup 16 - 2017 Feb 02 
 | | | |
 | --- | :---: | --- |
 | [Compiled to JS languages](https://www.youtube.com/watch?v=z6yVv7EDFLo)  |  [Дмитрий Пикулин](../../speakers/Дмитрий%20Пикулин.md)  |    |
 | Personal efficiency as a mean of survival  |  [Ника Прошкина](../../speakers/Ника%20Прошкина.md)  |    |
+## WebPurple meetup 15 - 2016 Dec 22 
+| | | |
+| --- | :---: | --- |
+| What is react native  |  [Андрей Сёмин](../../speakers/Андрей%20Сёмин.md)  |    |
+| Level up by community growth - hacking  |  [Виктор Глушенков](../../speakers/Виктор%20Глушенков.md)  |    |
 ## WebPurple meetup 14 - 2016 Nov 17 
 | | | |
 | --- | :---: | --- |
@@ -165,6 +182,26 @@
 | | | |
 | --- | :---: | --- |
 | Web Performance - part 2  |  [Игорь Синельщиков](../../speakers/Игорь%20Синельщиков.md)  | [:notebook:](http://slides.com/sinelshchikovigor/web-performance)   |
+## WebPurple meetup 6 - 2016 Feb 18 
+| | | |
+| --- | :---: | --- |
+| Web Performance  |  [Дмитрий Полисадов](../../speakers/Дмитрий%20Полисадов.md)  |    |
+## WebPurple meetup 5 - 2015 Dec 03 
+| | | |
+| --- | :---: | --- |
+| Accessibility Features  |  [Татьяна Бессонова](../../speakers/Татьяна%20Бессонова.md)  |    |
+## WebPurple meetup 4 - 2015 Sep 24 
+| | | |
+| --- | :---: | --- |
+| Script Loaders  |  [Никита Кирсанов](../../speakers/Никита%20Кирсанов.md)  |    |
+## WebPurple meetup 3 - 2015 Aug 13 
+| | | |
+| --- | :---: | --- |
+| 1С-Битрикс  |  [Дмитрий Полисадов](../../speakers/Дмитрий%20Полисадов.md)  |    |
+## WebPurple meetup 2 - 2015 Jun 07 
+| | | |
+| --- | :---: | --- |
+| Polymer  |  [Павел Смирнов](../../speakers/Павел%20Смирнов.md)  |    |
 ## WebPurple meetup 1 - 2015 May 03 
 | | | |
 | --- | :---: | --- |

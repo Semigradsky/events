@@ -3,6 +3,13 @@
 
 # Vue.js Moscow
 
+## Vue.js Moscow Meetup 3 - 2019 Aug 22 
+| | | |
+| --- | :---: | --- |
+| Vue, Typescript и JSX  |  [Евгений Петухов](../../speakers/Евгений%20Петухов.md)  |    |
+| Интеграция и использование Redux во Vue.js  |  [Анатолий Колесов](../../speakers/Анатолий%20Колесов.md)  |    |
+| Quasar Framework и SunEngine  |  [Дмитрий Полянин](../../speakers/Дмитрий%20Полянин.md)  |    |
+| Паттерны и бизнес-логика для вашего Vue приложения  |  [Никита Соболев](../../speakers/Никита%20Соболев.md)  |    |
 ## Vue.js Moscow Meetup 2 - 2018 Jul 05 [:movie_camera:](https://www.youtube.com/watch?v=SiPKxngecQ0)
 | | | |
 | --- | :---: | --- |

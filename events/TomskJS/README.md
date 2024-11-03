@@ -3,6 +3,13 @@
 
 # TomskJS
 
+## TomskJS 2 - 2017 Mar 18 
+| | | |
+| --- | :---: | --- |
+| Введение в Cycle.js  |  [Максим Самойлов](../../speakers/Максим%20Самойлов.md)  |    |
+| Обучение фронтенду, взгляд со стороны работодателя  |  [Сергей Черепанов](../../speakers/Сергей%20Черепанов.md)  |    |
+| Как мы пришли к TypeScript  |  [Никита Размахнин](../../speakers/Никита%20Размахнин.md)  |    |
+| Как я писал свой &quot;React&quot; и почему это не надо делать  |  [Сергей Андреев](../../speakers/Сергей%20Андреев.md)  |    |
 ## TomskJS 1 - 2016 Sep 03 [:movie_camera:](https://www.youtube.com/playlist?list=PLg6-SX1kjGJIfir5ZrghMBG-hicHIJKJR)
 | | | |
 | --- | :---: | --- |
@@ -11,6 +18,12 @@
 | [Не JS во фронтенде](https://www.youtube.com/watch?v=055iMp4zhmM)  |  [Максим Самойлов](../../speakers/Максим%20Самойлов.md)  | [:notebook:](https://www.slideshare.net/Nitive/js-65667405)   |
 | [Веб-компоненты в веб-разработке на примере Polymer](https://www.youtube.com/watch?v=NwR4zgnAk-8)  |  [Артур Дробинский](../../speakers/Артур%20Дробинский.md)  | [:notebook:](https://www.slideshare.net/DragorWW/polymer-66124932)   |
 | [How to stop chasing technology or 7 deadly sins of Front-end](https://www.youtube.com/watch?v=wxoBi5hGQUM)  |  [Сергей Андреев](../../speakers/Сергей%20Андреев.md)  | [:notebook:](http://slides.com/sergeyandreev/7-deadly-sins-of-front-end#/)   |
+## Tomsk Frontend 5 - 2016 Feb 13 
+| | | |
+| --- | :---: | --- |
+| webpack: вам не нужен таск-ранер  |  [Сергей Андреев](../../speakers/Сергей%20Андреев.md)  |    |
+| На чем стоит Вавилон  |  [Максим Самойлов](../../speakers/Максим%20Самойлов.md)  |    |
+| Разработка приложений для Smart TV  |  [Андрей Мотошин](../../speakers/Андрей%20Мотошин.md)  |    |
 ## Tomsk Frontend 4 - 2015 Dec 20 
 | | | |
 | --- | :---: | --- |

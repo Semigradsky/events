@@ -19,7 +19,7 @@
 | Дизайн-система — это не про дизайн, а про взаимодействие  |  [Егор Нечаев](speakers/Егор%20Нечаев.md)  | [:notebook:](https://t.me/tbilisi_js_chat/11886)   |
 | Управляем флотом промышленных батарей с помощью SPA на React  |  [Виктор Истомин](speakers/Виктор%20Истомин.md)  | [:notebook:](https://t.me/tbilisi_js_chat/11896)   |
 | Как разработчик может помочь расти своему тимлиду  |  [Тимур Гафиулин](speakers/Тимур%20Гафиулин.md)  | [:notebook:](https://tgafiulin.github.io/openconf_2024/)   |
-## A?.Frontend Day - Sep 21 
+## A?.Frontend Day - Sep 21 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;ll4r4ofzN_A)
 | | | |
 | --- | :---: | --- |
 | [Valibot: Runtime валидаторы данны, и места их обитания](https://www.youtube.com/watch?v=0AWASOj2S2M)  |  [Вадим Царегородцев](speakers/Вадим%20Царегородцев.md)  |    |
@@ -47,12 +47,6 @@
 | [Статический анализ зависимостей](https://youtu.be/-A1sxEdFUIw)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
 | [Как жить с монорепой](https://youtu.be/whpEE9uotb8)  |  [Алексей Николаев](speakers/Алексей%20Николаев.md)  |    |
 | [Как перевести 45 приложений на webpack module federation](https://youtu.be/3PjNrkfSbtQ)  |  [Степан Иваньков](speakers/Степан%20Иваньков.md)  |    |
-## JS Meetup 2 - Mar 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;3eGolrlZB6c)
-| | | |
-| --- | :---: | --- |
-| Динамические окружения во фронтенде  |  [Иракли Бахтадзе](speakers/Иракли%20Бахтадзе.md)  |    |
-| Современные UI kit  |  [Александр Попов](speakers/Александр%20Попов.md)  |    |
-| Еще один способ локализовывать вебсайты  |  [Дмитрий Шмаков](speakers/Дмитрий%20Шмаков.md)  |    |
 ## A?.Frontend Community 6 - Mar 21 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;0Sp-lSYF4nI)
 | | | |
 | --- | :---: | --- |
