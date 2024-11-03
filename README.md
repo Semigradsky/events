@@ -19,6 +19,15 @@
 | Дизайн-система — это не про дизайн, а про взаимодействие  |  [Егор Нечаев](speakers/Егор%20Нечаев.md)  | [:notebook:](https://t.me/tbilisi_js_chat/11886)   |
 | Управляем флотом промышленных батарей с помощью SPA на React  |  [Виктор Истомин](speakers/Виктор%20Истомин.md)  | [:notebook:](https://t.me/tbilisi_js_chat/11896)   |
 | Как разработчик может помочь расти своему тимлиду  |  [Тимур Гафиулин](speakers/Тимур%20Гафиулин.md)  | [:notebook:](https://tgafiulin.github.io/openconf_2024/)   |
+## A?.Frontend Day - Sep 21 
+| | | |
+| --- | :---: | --- |
+| [Valibot: Runtime валидаторы данны, и места их обитания](https://www.youtube.com/watch?v=0AWASOj2S2M)  |  [Вадим Царегородцев](speakers/Вадим%20Царегородцев.md)  |    |
+| [BDUI как спасение от релизов](https://www.youtube.com/watch?v=yFAPqi1HEH4)  |  [Никита Мамизеров](speakers/Никита%20Мамизеров.md)  |    |
+| [Как работать с отказами систем в BFF: основные паттерны отказоустойчивости](https://www.youtube.com/watch?v=Nh6PIhZBLzI)  |  [Никита Ульшин](speakers/Никита%20Ульшин.md)  |    |
+| Проблемы внедрения изменений  |  [Сергей Попов](speakers/Сергей%20Попов.md)  |    |
+| Лидерство без иллюзий: обратная сторона карьерного роста  |  [Андрей Смирнов](speakers/Андрей%20Смирнов.md)  |    |
+| [Дискуссия] Как ИИ и инструмент Copilot поменяют разработку  |  [Евгений Смирнов](speakers/Евгений%20Смирнов.md)  |    |
 ## Tbilisi JS Conf 2024 - Jun 01 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;gDP3WcDVImo)
 | | | |
 | --- | :---: | --- |
@@ -32,12 +41,25 @@
 | Почему вы должны писать  |  [Михаил Покрыщенко](speakers/Михаил%20Покрыщенко.md)  |    |
 | Tests you don&#39;t need  |  [Александр Комлев](speakers/Александр%20Комлев.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
 | Зачем мы делаем сообщества?  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  | [:notebook:](https://lekzd.ru/presentations/communities_tbilisijs/)   |
+## A?.Frontend Meetup 3 - Apr 25 
+| | | |
+| --- | :---: | --- |
+| [Статический анализ зависимостей](https://youtu.be/-A1sxEdFUIw)  |  [Алексей Охрименко](speakers/Алексей%20Охрименко.md)  |    |
+| [Как жить с монорепой](https://youtu.be/whpEE9uotb8)  |  [Алексей Николаев](speakers/Алексей%20Николаев.md)  |    |
+| [Как перевести 45 приложений на webpack module federation](https://youtu.be/3PjNrkfSbtQ)  |  [Степан Иваньков](speakers/Степан%20Иваньков.md)  |    |
 ## JS Meetup 2 - Mar 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;3eGolrlZB6c)
 | | | |
 | --- | :---: | --- |
 | Динамические окружения во фронтенде  |  [Иракли Бахтадзе](speakers/Иракли%20Бахтадзе.md)  |    |
 | Современные UI kit  |  [Александр Попов](speakers/Александр%20Попов.md)  |    |
 | Еще один способ локализовывать вебсайты  |  [Дмитрий Шмаков](speakers/Дмитрий%20Шмаков.md)  |    |
+## A?.Frontend Community 6 - Mar 21 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;0Sp-lSYF4nI)
+| | | |
+| --- | :---: | --- |
+| [TypeScript: Введение в мир надежного программирования](https://www.youtube.com/watch?v=DI8DvUxAl8U)  |  [Александр Чернов](speakers/Александр%20Чернов.md)  |    |
+| [Переход на TypeScript: плавные перемены и непредвиденные сложности](https://www.youtube.com/watch?v=6y0cvX-r-iU)  |  [Рустам Султанбеков](speakers/Рустам%20Султанбеков.md)  |    |
+| [Генерируй – типизируй](https://www.youtube.com/watch?v=v46kHYqg5cM)  |  [Александр Серов](speakers/Александр%20Серов.md)  |    |
+| [Generics – Что? Где? Когда?](https://www.youtube.com/watch?v=UG3lRk4REWA)  |  [Тёма Сенюков](speakers/Тёма%20Сенюков.md)  |    |
 ## JS Meetup 1 - Jan 25 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;ZO3aPtUoB6Y)
 | | | |
 | --- | :---: | --- |

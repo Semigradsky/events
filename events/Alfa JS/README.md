@@ -3,26 +3,54 @@
 
 # Alfa JS
 
-## A?.Frontend Meetup 5 - 2023 Dec 22 [:movie_camera:](https://www.youtube.com/playlist?list=PLJ2zbYAfc8yJY5YwLEN2Vk9o4GrsvaTTi)
+## A?.Frontend Day - 2024 Sep 21 
+| | | |
+| --- | :---: | --- |
+| [Valibot: Runtime валидаторы данны, и места их обитания](https://www.youtube.com/watch?v=0AWASOj2S2M)  |  [Вадим Царегородцев](../../speakers/Вадим%20Царегородцев.md)  |    |
+| [BDUI как спасение от релизов](https://www.youtube.com/watch?v=yFAPqi1HEH4)  |  [Никита Мамизеров](../../speakers/Никита%20Мамизеров.md)  |    |
+| [Как работать с отказами систем в BFF: основные паттерны отказоустойчивости](https://www.youtube.com/watch?v=Nh6PIhZBLzI)  |  [Никита Ульшин](../../speakers/Никита%20Ульшин.md)  |    |
+| Проблемы внедрения изменений  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  |    |
+| Лидерство без иллюзий: обратная сторона карьерного роста  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  |    |
+| [Дискуссия] Как ИИ и инструмент Copilot поменяют разработку  |  [Евгений Смирнов](../../speakers/Евгений%20Смирнов.md)  |    |
+## A?.Frontend Meetup 3 - 2024 Apr 25 
+| | | |
+| --- | :---: | --- |
+| [Статический анализ зависимостей](https://youtu.be/-A1sxEdFUIw)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
+| [Как жить с монорепой](https://youtu.be/whpEE9uotb8)  |  [Алексей Николаев](../../speakers/Алексей%20Николаев.md)  |    |
+| [Как перевести 45 приложений на webpack module federation](https://youtu.be/3PjNrkfSbtQ)  |  [Степан Иваньков](../../speakers/Степан%20Иваньков.md)  |    |
+## A?.Frontend Community 6 - 2024 Mar 21 [:movie_camera:](https://youtu.be/0Sp-lSYF4nI)
+| | | |
+| --- | :---: | --- |
+| [TypeScript: Введение в мир надежного программирования](https://www.youtube.com/watch?v=DI8DvUxAl8U)  |  [Александр Чернов](../../speakers/Александр%20Чернов.md)  |    |
+| [Переход на TypeScript: плавные перемены и непредвиденные сложности](https://www.youtube.com/watch?v=6y0cvX-r-iU)  |  [Рустам Султанбеков](../../speakers/Рустам%20Султанбеков.md)  |    |
+| [Генерируй – типизируй](https://www.youtube.com/watch?v=v46kHYqg5cM)  |  [Александр Серов](../../speakers/Александр%20Серов.md)  |    |
+| [Generics – Что? Где? Когда?](https://www.youtube.com/watch?v=UG3lRk4REWA)  |  [Тёма Сенюков](../../speakers/Тёма%20Сенюков.md)  |    |
+## A?.Frontend Community 5 - 2023 Dec 22 [:movie_camera:](https://www.youtube.com/playlist?list=PLJ2zbYAfc8yJY5YwLEN2Vk9o4GrsvaTTi)
 | | | |
 | --- | :---: | --- |
 | [Зачем ты сюда пришёл?](https://youtu.be/CdQ5AE0qur0)  |  [Максим Булавчиков](../../speakers/Максим%20Булавчиков.md)  |    |
 | [Программирование без стресса: ключевые принципы](https://youtu.be/KdfiuYjzI60)  |  [Алексей Табула](../../speakers/Алексей%20Табула.md)  |    |
 | [Зачем становиться T-shape?](https://youtu.be/cllG77BZqH4)  |  [Александра Моисеева](../../speakers/Александра%20Моисеева.md)  |    |
 | [Страшный сон — микросервисы, CI&#x2F;CD, pipeline, kubernetes](https://youtu.be/87voNyup-08)  |  [Александр Курилкин](../../speakers/Александр%20Курилкин.md)  |    |
-## A?.Frontend Meetup 4 - 2023 Jul 20 [:movie_camera:](https://www.youtube.com/playlist?list=PLJ2zbYAfc8yKjxXS0AimE3L_VgcsRbA1h)
+## A?.Frontend Meetup 2 - 2023 Oct 11 [:movie_camera:](https://www.youtube.com/watch?v=-Qk8QstswG8)
+| | | |
+| --- | :---: | --- |
+| [О роли архитектора и системном подходе](https://www.youtube.com/watch?v=eQNXeA5SWoY)  |  [Олег Сидоркин](../../speakers/Олег%20Сидоркин.md)  |    |
+| [Как мы ускоряли time-to-market](https://www.youtube.com/watch?v=cJBd0mjMdVw)  |  [Иван Артамонов](../../speakers/Иван%20Артамонов.md)  |    |
+| [DevX микрофронтендов](https://www.youtube.com/watch?v=ZENmDcIjTCQ)  |  [Евгений Мальченко](../../speakers/Евгений%20Мальченко.md)  |    |
+## A?.Frontend Community 4 - 2023 Jul 20 [:movie_camera:](https://www.youtube.com/playlist?list=PLJ2zbYAfc8yKjxXS0AimE3L_VgcsRbA1h)
 | | | |
 | --- | :---: | --- |
 | [useSelector в Redux. Вытаскиваем стрелу из колена](https://youtu.be/_Lru0mfu8Z8)  |  [Вячеслав Завьялов](../../speakers/Вячеслав%20Завьялов.md)  |    |
 | [Путь во фронтенд: автодидакт или дилетант](https://youtu.be/cmV-yTouM3Q)  |  [Александр Мокшин](../../speakers/Александр%20Мокшин.md)  |    |
 | [Как на самом деле проектируются образовательные программы?](https://youtu.be/tz5FcT7a6l4)  |  [Сергей Попов](../../speakers/Сергей%20Попов.md)  |    |
-## A?.Frontend Meetup 3 - 2023 Mar 02 [:movie_camera:](https://www.youtube.com/watch?v=DE-pCki2ebM)
+## A?.Frontend Community 3 - 2023 Mar 02 [:movie_camera:](https://www.youtube.com/watch?v=DE-pCki2ebM)
 | | | |
 | --- | :---: | --- |
 | [File API — работа с файлами глазами браузера](https://youtu.be/55ogtGJgwjg)  |  [Азат Загитов](../../speakers/Азат%20Загитов.md)  |    |
 | [Как расширять свой круг знакомств, если ты интроверт](https://youtu.be/L-DLWltHirc)  |  [Тимур Гафиулин](../../speakers/Тимур%20Гафиулин.md)  |    |
 | [View на Vue: личный опыт вхождения в IT](https://youtu.be/lZhWb1zrYAA)  |  [Вероника Филиппова](../../speakers/Вероника%20Филиппова.md)  |    |
-## A?.Frontend Meetup 2 - 2022 Dec 07 [:movie_camera:](https://www.youtube.com/watch?v=dL657_09BTE)
+## A?.Frontend Community 2 - 2022 Dec 07 [:movie_camera:](https://www.youtube.com/watch?v=dL657_09BTE)
 | | | |
 | --- | :---: | --- |
 | [Добро пожаловать в Storybook Community](https://youtu.be/dL657_09BTE?t=641)  |  [Никита Дукин](../../speakers/Никита%20Дукин.md)  |    |
