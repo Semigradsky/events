@@ -1,0 +1,28 @@
+name: A11Y & UX Day
+date: 2024-11-02
+videos: https://youtu.be/TRn2gNBKZgg
+talks:
+  - name: State of a11y
+    speaker: Вадим Макеев
+    video: 
+    presentation: 
+  - name: Спидран по доступности
+    speaker: Максим Хализов
+    video: 
+    presentation: https://docs.google.com/presentation/d/1cOaSTntFbgmohVTO6drP0FU4HzrQ2PT_rkqkQtYyCUE/edit?usp=drivesdk
+  - name: Доступность и типографика
+    speaker: Татьяна Фокина
+    video: 
+    presentation: https://tatianafokina.github.io/talks/a11y-and-typography/
+  - name: Очень интересно, ничего не понятно, или про доступность как декомпозицию сложности
+    speaker: Андрей Евдоков
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/12128
+  - name: Что вообще такое этот ваш UX
+    speaker: Илона Саркисова
+    video: 
+    presentation: https://www.figma.com/proto/oKCSJK2wLRj0sPmGqzRjRA/Decks?page-id=1289%3A121&node-id=1289-122&scaling=scale-down-width&content-scaling=fixed&t=ayjbhNiupwdVPazx-1
+  - name: Доступность на примере индустрии глиняных горшков
+    speaker: Филипп Барановский
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/12147

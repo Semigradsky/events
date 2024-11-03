@@ -22,5 +22,6 @@
     "husky": "6.x",
     "js-yaml": "4.x",
     "mustache": "4.x"
-  }
+  },
+  "packageManager": "yarn@4.5.1"
 }

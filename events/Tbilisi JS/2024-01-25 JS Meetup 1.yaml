@@ -1,0 +1,20 @@
+name: JS Meetup 1
+date: 2024-01-25
+videos: https://youtu.be/ZO3aPtUoB6Y
+talks:
+  - name: Зачем фронтенд в биотехе?
+    speaker: Мария Кондаурова
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/2373
+  - name: Dial M for Maintainability (Part 1)
+    speaker: Азат Давлятшин
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/2370
+  - name: Для чего нам может быть нужен cloud serverless во фронтенде?
+    speaker: Антон Павлов
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/2374
+  - name: Дока друг для друга
+    speaker: Татьяна Фокина
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/2370

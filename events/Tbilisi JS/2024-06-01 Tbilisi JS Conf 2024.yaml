@@ -1,0 +1,44 @@
+name: Tbilisi JS Conf 2024
+date: 2024-06-01
+videos: https://youtu.be/gDP3WcDVImo
+talks:
+  - name: Dial "M" for Maintainability. Part 2
+    speaker: Азат Давлятшин
+    video: 
+    presentation: https://azatdavliatshin.github.io/dial-m-for-maintainability-part-2/
+  - name: "Storybook: The Cookbook"
+    speaker: Марсель Ахметшин
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/6952
+  - name: Frontend across borders
+    speaker: Виктор Щеглов
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/6952
+  - name: Как развиваться через наставничество?
+    speaker: Тимур Гафиулин
+    video: 
+    presentation: https://tgafiulin.github.io/tbilisijs_2024/
+  - name: По ту сторону фронтенда
+    speaker: Михаил Гарбузов
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/6952
+  - name: Serverless. Твоя первая лямбда
+    speaker: Филипп Барановский
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/6952
+  - name: "Как вкатиться в WebGL графику: от простого к сложному"
+    speaker: Павел Мельников
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/6952
+  - name: Почему вы должны писать
+    speaker: Михаил Покрыщенко
+    video: 
+    presentation: 
+  - name: Tests you don't need
+    speaker: Александр Комлев
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/6952
+  - name: Зачем мы делаем сообщества?
+    speaker: Александр Коротаев
+    video: 
+    presentation: https://lekzd.ru/presentations/communities_tbilisijs/

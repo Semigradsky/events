@@ -1,0 +1,16 @@
+name: JS Meetup 2
+date: 2024-03-28
+videos: https://www.youtube.com/live/3eGolrlZB6c
+talks:
+  - name: Иракли Бахтадзе 
+    speaker: Динамические окружения во фронтенде
+    video: 
+    presentation: 
+  - name: Александр Попов
+    speaker: Современные UI kit
+    video: 
+    presentation: 
+  - name: Дмитрий Шмаков
+    speaker: Еще один способ локализовывать вебсайты
+    video: 
+    presentation: 

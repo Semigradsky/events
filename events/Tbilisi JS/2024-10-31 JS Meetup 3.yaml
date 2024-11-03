@@ -1,0 +1,20 @@
+name: JS Meetup 3
+date: 2024-10-31
+videos: https://youtu.be/utg5WbzlN80
+talks:
+  - name: Дебаг производительности страницы средствами браузера
+    speaker: Никита Дубко
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/11885
+  - name: Дизайн-система — это не про дизайн, а про взаимодействие
+    speaker: Егор Нечаев
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/11886
+  - name: Управляем флотом промышленных батарей с помощью SPA на React
+    speaker: Виктор Истомин
+    video: 
+    presentation: https://t.me/tbilisi_js_chat/11896
+  - name: Как разработчик может помочь расти своему тимлиду
+    speaker: Тимур Гафиулин
+    video: 
+    presentation: https://tgafiulin.github.io/openconf_2024/
