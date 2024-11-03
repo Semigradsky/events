@@ -29,6 +29,12 @@
 | [Еще одна история про codeStyle в еще одной большой команде](https://youtu.be/wH9LmO8sWYc?t=516)  |  [Умяр Юсупов](../../speakers/Умяр%20Юсупов.md)  | [:notebook:](https://drive.google.com/file/d/1HAEy8LDr-neWZ--FMo4-tgrs4NM6qy16/view)   |
 | [Проклятие обратной совместимости](https://youtu.be/wH9LmO8sWYc?t=2047)  |  [Валентин Семирульник](../../speakers/Валентин%20Семирульник.md)  | [:notebook:](https://drive.google.com/file/d/1IZDVY6p3bDxSeCTEfoVO9AZ5A1YmxPcO/view)   |
 | [Система типов TypeScript как машина Тьюринга](https://youtu.be/wH9LmO8sWYc?t=5205)  |  [Вячеслав Шебанов](../../speakers/Вячеслав%20Шебанов.md)  | [:notebook:](https://drive.google.com/file/d/1mzL8tSfSJfPBed9i2JyZv19AJT_ivAoS/view)   |
+## SPB Frontend - 2019 Oct 08 [:movie_camera:](https://vk.com/spb_frontend?z=video-76088560_456239041)
+| | | |
+| --- | :---: | --- |
+| UserScripts — зачем нужны, чем могут помочь и где они обитают  |  [Евгений Котляров](../../speakers/Евгений%20Котляров.md)  |    |
+| Как побеждать на техническом интервью  |  [Павел Франков](../../speakers/Павел%20Франков.md)  |    |
+| GraphQL — всадник сингулярности  |  [Вадим Царегородцев](../../speakers/Вадим%20Царегородцев.md)  |    |
 ## SPB Frontend meetup - 2019 Mar 05 [:movie_camera:](https://www.youtube.com/playlist?list=PLI6q7lZ9ClB19P854XjCb6m7aj2F5SCAg)
 | | | |
 | --- | :---: | --- |

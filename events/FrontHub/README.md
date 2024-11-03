@@ -3,6 +3,17 @@
 
 # FrontHub
 
+## FrontHub 2019 - 2019 Nov 23 [:movie_camera:](https://www.youtube.com/watch?v=VVR33MZHKjQ)
+| | | |
+| --- | :---: | --- |
+| Svelte - уже можно или еще рано?  |  [Денис Ежков](../../speakers/Денис%20Ежков.md)  |    |
+| Тестирование скриншотами  |  [Андрей Фатюк](../../speakers/Андрей%20Фатюк.md)  |    |
+| Оптимизация или как не выстрелить себе в ногу  |  [Дмитрий Ивко](../../speakers/Дмитрий%20Ивко.md)  |    |
+| Put your cards on a table  |  [Алёна Батицкая](../../speakers/Алёна%20Батицкая.md)  |    |
+| Your first VS Code extension  |  [Андрей Воронин](../../speakers/Андрей%20Воронин.md)  |    |
+| Exotic SPA: фронтенд на ЯП, о котором вы не слышали  |  [Костя Молчанов](../../speakers/Костя%20Молчанов.md)  |    |
+| GraphQL больше не нужен: так ли это?  |  [Евгений Дементьев](../../speakers/Евгений%20Дементьев.md)  |    |
+| Срам, скрамно, и ещё 8 способов убить команду  |  [Денис Ермаков](../../speakers/Денис%20Ермаков.md)  |    |
 ## FrontHub 2017 - 2017 Nov 11 [:movie_camera:](https://www.youtube.com/playlist?list=PLOaBrDEMBndwFivNP1_KM3N1pEsd_mZXb)
 | | | |
 | --- | :---: | --- |

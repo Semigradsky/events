@@ -28,7 +28,7 @@ function toFullDateString(date) {
 }
 
 function getFirstDay(date) {
-    return Array.isArray(date) ? date[0]: date
+    return Array.isArray(date) ? date[0] : date
 }
 
 function formatTalk(talk, level) {
@@ -61,7 +61,7 @@ async function generateByYears(events) {
 
     const groupedByYears = new Map()
     for (const event of events) {
-        if (!event.talks || !event.talks.some(t => t.video || t.link || t.presentation || t.code || t.url)) {
+        if (!event.talks || (!event.talks.some(t => t.video || t.link || t.presentation || t.code || t.url) && !event.videos)) {
             continue
         }
 
@@ -96,7 +96,7 @@ async function generateByOrganizers(events) {
 
     const groupedByOrganizers = new Map()
     for (const event of events) {
-        if (!event.talks || !event.talks.some(t => t.video || t.link || t.presentation || t.code || t.url)) {
+        if (!event.talks || (!event.talks.some(t => t.video || t.link || t.presentation || t.code || t.url) && !event.videos)) {
             continue
         }
 

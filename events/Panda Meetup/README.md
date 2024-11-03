@@ -10,6 +10,9 @@
 | [Почему мы выбрали MobX, а не Redux?](https://youtu.be/629ZhWebKzs)  |  [Назим Гафаров](../../speakers/Назим%20Гафаров.md)  |    |
 | [Немного шалим со свежими WeakRef и FinalizationGroup API](https://youtu.be/B5NKrSqI4q4)  |  [Андрей Печкуров](../../speakers/Андрей%20Печкуров.md)  |    |
 | [Как добавить 3D в web](https://youtu.be/r00wlzjCkSY)  |  [Ольга Маланова](../../speakers/Ольга%20Маланова.md)  |    |
+## Panda Meetup 37 (Кадры цифровой экономики) - 2020 Jan 25 [:movie_camera:](https://www.youtube.com/watch?v=M82drqlsXaQ)
+| | | |
+| --- | :---: | --- |
 ## Panda Meetup 36 Battle - 2020 Jan 18 [:movie_camera:](https://www.youtube.com/watch?v=1pwx8LDjve0)
 | | | |
 | --- | :---: | --- |

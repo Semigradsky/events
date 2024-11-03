@@ -34,6 +34,12 @@
 | [Переход на React-router v6: подводные камни и альтернативы](https://vk.com/video-215425037_456239030)  |  [Андрей Новиков](../../speakers/Андрей%20Новиков.md)  |    |
 | [RTK query](https://vk.com/video-215425037_456239031)  |  [Антон Степанов](../../speakers/Антон%20Степанов.md)  |    |
 | [Карьерная лестница как дорога в ад](https://vk.com/video-215425037_456239032)  |  [Андрей Смирнов](../../speakers/Андрей%20Смирнов.md)  | [:notebook:](https://sandark7.github.io/AlfaJS2022/)   |
+## Alfa JS MeetUP - 2021 Dec 09 [:movie_camera:](https://www.youtube.com/watch?v=5kvtDYbevUE)
+| | | |
+| --- | :---: | --- |
+| Как мы улучшаем DevSecOps-процессы, разрабатывая собственную платформу CI&#x2F;СD  |  [Артём Склянчук](../../speakers/Артём%20Склянчук.md)  |    |
+| «Официальное» решение в микрофронтендах (Webpack Module Federation)  |  [Алексей Вечканов](../../speakers/Алексей%20Вечканов.md)  |    |
+| JSON Driven forms bicycle  |  [Степан Михайлюк](../../speakers/Степан%20Михайлюк.md)  |    |
 ## Alfa JS MeetUP 3 - 2019 Nov 26 [:movie_camera:](https://www.youtube.com/watch?v=7DtZtHSJ_S4)
 | | | |
 | --- | :---: | --- |

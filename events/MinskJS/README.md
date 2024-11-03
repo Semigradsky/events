@@ -9,6 +9,9 @@
 | [Что происходит в браузере после того, как пользователь ввёл адрес в адресную строку](https://youtu.be/OjBcOQ_ynJo)  |  [Екатерина Танькова](../../speakers/Екатерина%20Танькова.md)  | [:notebook:](https://tankovae.github.io/slides/)   |
 | [Переосмысление «толстых» клиентов: от мифов к реальности](https://youtu.be/SOgqE9WzMv0)  |  [Вадим Царегородцев](../../speakers/Вадим%20Царегородцев.md)  | [:notebook:](https://drive.google.com/file/d/1PnVi-LmIo2RVRxHMsRPZnXKgBsPy6A3Y/view)   |
 | [Как расширять свой круг знакомств, если ты интроверт](https://youtu.be/NoI4IIc3U1w)  |  [Тимур Гафиулин](../../speakers/Тимур%20Гафиулин.md)  | [:notebook:](https://docs.google.com/presentation/d/1DYdwdKVGJeDf1pI0Fte-RR8pfiMeOJ6iaur06WtRy8Y/edit)   |
+## MinskJS 9 (canceled) - 2022 Mar 02 [:movie_camera:](https://www.youtube.com/watch?v=gPImwd45GKg)
+| | | |
+| --- | :---: | --- |
 ## MinskJS 8 - 2020 May 28 [:movie_camera:](https://www.youtube.com/watch?v=JHiQVS5ZXJI)
 | | | |
 | --- | :---: | --- |

@@ -19,3 +19,9 @@
 | [Machines Must Suffer!](https://www.youtube.com/watch?v=sP1A4F9UvAk)  |  [Александр Павлыщ](../../speakers/Александр%20Павлыщ.md)  |    |
 | [Code Transformation for Fun and Profit](https://www.youtube.com/watch?v=2d3Dkjt0uBg)  |  [Роман Лютиков](../../speakers/Роман%20Лютиков.md)  |    |
 | [Людоедский интерфейс](https://www.youtube.com/watch?v=9vQOy6q9XCY) [en] |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
+## LvivJS 2016 - 2016 Aug 27 [:movie_camera:](https://www.youtube.com/playlist?list=PLhWWkV_LkwjA5SzkUsbDQAZ5n06BKZ02j)
+| | | |
+| --- | :---: | --- |
+## LvivJS 2015 - 2015 Aug 29 [:movie_camera:](https://www.youtube.com/playlist?list=PLhWWkV_LkwjBNxy4tEviupt-SZnyBsMhE)
+| | | |
+| --- | :---: | --- |

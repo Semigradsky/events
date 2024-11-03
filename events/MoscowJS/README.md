@@ -3,6 +3,13 @@
 
 # MoscowJS
 
+## MoscowJS 55 - 2023 Oct 05 [:movie_camera:](https://youtube.com/live/hpkKWUKF2bM)
+| | | |
+| --- | :---: | --- |
+| UseSelector в Redux, как не выстрелить себе в ногу  |  [Вячеслав Завьялов](../../speakers/Вячеслав%20Завьялов.md)  |    |
+| Автоматизируем GitHub Actions  |  [Алексей Николаев](../../speakers/Алексей%20Николаев.md)  |    |
+| Если ваш фронтендер перестал бояться IE6, покажите ему Smart TV  |  [Елена Жукова](../../speakers/Елена%20Жукова.md)  |    |
+| Зачем становиться T-shape?  |  [Александра Моисеева](../../speakers/Александра%20Моисеева.md)  |    |
 ## MoscowJS 54 - 2023 Aug 24 [:movie_camera:](https://www.youtube.com/watch?v=U50MDAkj3uE)
 | | | |
 | --- | :---: | --- |

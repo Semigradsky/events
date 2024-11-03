@@ -32,6 +32,12 @@
 | Почему вы должны писать  |  [Михаил Покрыщенко](speakers/Михаил%20Покрыщенко.md)  |    |
 | Tests you don&#39;t need  |  [Александр Комлев](speakers/Александр%20Комлев.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
 | Зачем мы делаем сообщества?  |  [Александр Коротаев](speakers/Александр%20Коротаев.md)  | [:notebook:](https://lekzd.ru/presentations/communities_tbilisijs/)   |
+## JS Meetup 2 - Mar 28 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;3eGolrlZB6c)
+| | | |
+| --- | :---: | --- |
+| Динамические окружения во фронтенде  |  [Иракли Бахтадзе](speakers/Иракли%20Бахтадзе.md)  |    |
+| Современные UI kit  |  [Александр Попов](speakers/Александр%20Попов.md)  |    |
+| Еще один способ локализовывать вебсайты  |  [Дмитрий Шмаков](speakers/Дмитрий%20Шмаков.md)  |    |
 ## JS Meetup 1 - Jan 25 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;ZO3aPtUoB6Y)
 | | | |
 | --- | :---: | --- |
