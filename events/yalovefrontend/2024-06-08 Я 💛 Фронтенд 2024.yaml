@@ -1,0 +1,28 @@
+name: Я 💛 Фронтенд 2024
+date: 2024-06-08
+videos: https://www.youtube.com/playlist?list=PLKaafC45L_SQmK-QvwfWWm6wnC2NWtFDM
+talks:
+  - name: Не мучьте пользователя плохими контролами
+    speaker: Илья Бирман
+    video: https://youtu.be/KWSaJJsDvtw
+    presentation: 
+  - name: История о том, как мы с CRA съезжали (и речь не про Vite)
+    speaker: Никита Балихин
+    video: https://youtu.be/pj5-lhoEI-4
+    presentation: 
+  - name: Копаем глубже в Feature-Sliced Design
+    speaker: Александр Моргунов
+    video: https://youtu.be/M84x3pzDYr0
+    presentation: 
+  - name: Геймдев на ChatGPT
+    speaker: Александр Коротаев
+    video: https://youtu.be/XXdbSoTxrAs
+    presentation: 
+  - name: Познаём Elysia и Bun — фреймворк, сделанный для людей
+    speaker: Всеволод Деткин
+    video: https://youtu.be/XD2jA53CXQw
+    presentation: 
+  - name: Любовь и ненависть фронтенда
+    speaker: Алексей Симоненко
+    video: https://youtu.be/toeIRghXOV4
+    presentation: 
