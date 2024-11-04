@@ -3,7 +3,7 @@
 
 # Events / 2024 / [2023](/2023.md) / [2022](/2022.md) / [2021](/2021.md) / [2020](/2020.md) / [2019](/2019.md) / [2018](/2018.md) / [2017](/2017.md) / [2016](/2016.md) / [2015](/2015.md) / [2014](/2014.md) / [2013](/2013.md) / [2012](/2012.md) / [2011](/2011.md) / [2010](/2010.md) / [2009](/2009.md) / [2008](/2008.md) 
 
-## A11Y &amp; UX Day - Nov 02 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;TRn2gNBKZgg)
+## Tbilisi A11Y &amp; UX Day - Nov 02 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;TRn2gNBKZgg)
 | | | |
 | --- | :---: | --- |
 | State of a11y  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  |    |
@@ -12,7 +12,7 @@
 | Очень интересно, ничего не понятно, или про доступность как декомпозицию сложности  |  [Андрей Евдоков](speakers/Андрей%20Евдоков.md)  | [:notebook:](https://t.me/tbilisi_js_chat/12128)   |
 | Что вообще такое этот ваш UX  |  [Илона Саркисова](speakers/Илона%20Саркисова.md)  | [:notebook:](https://www.figma.com/proto/oKCSJK2wLRj0sPmGqzRjRA/Decks?page-id=1289%3A121&node-id=1289-122&scaling=scale-down-width&content-scaling=fixed&t=ayjbhNiupwdVPazx-1)   |
 | Доступность на примере индустрии глиняных горшков  |  [Филипп Барановский](speakers/Филипп%20Барановский.md)  | [:notebook:](https://t.me/tbilisi_js_chat/12147)   |
-## JS Meetup 3 - Oct 31 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;utg5WbzlN80)
+## Tbilisi JS Meetup 3 - Oct 31 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;utg5WbzlN80)
 | | | |
 | --- | :---: | --- |
 | Дебаг производительности страницы средствами браузера  |  [Никита Дубко](speakers/Никита%20Дубко.md)  | [:notebook:](https://t.me/tbilisi_js_chat/11885)   |
@@ -54,7 +54,7 @@
 | [Переход на TypeScript: плавные перемены и непредвиденные сложности](https://www.youtube.com/watch?v=6y0cvX-r-iU)  |  [Рустам Султанбеков](speakers/Рустам%20Султанбеков.md)  |    |
 | [Генерируй – типизируй](https://www.youtube.com/watch?v=v46kHYqg5cM)  |  [Александр Серов](speakers/Александр%20Серов.md)  |    |
 | [Generics – Что? Где? Когда?](https://www.youtube.com/watch?v=UG3lRk4REWA)  |  [Тёма Сенюков](speakers/Тёма%20Сенюков.md)  |    |
-## JS Meetup 1 - Jan 25 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;ZO3aPtUoB6Y)
+## Tbilisi JS Meetup 1 - Jan 25 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;ZO3aPtUoB6Y)
 | | | |
 | --- | :---: | --- |
 | Зачем фронтенд в биотехе?  |  [Мария Кондаурова](speakers/Мария%20Кондаурова.md)  | [:notebook:](https://t.me/tbilisi_js_chat/2373)   |

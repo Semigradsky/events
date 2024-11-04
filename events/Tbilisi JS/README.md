@@ -3,7 +3,7 @@
 
 # Tbilisi JS
 
-## A11Y &amp; UX Day - 2024 Nov 02 [:movie_camera:](https://youtu.be/TRn2gNBKZgg)
+## Tbilisi A11Y &amp; UX Day - 2024 Nov 02 [:movie_camera:](https://youtu.be/TRn2gNBKZgg)
 | | | |
 | --- | :---: | --- |
 | State of a11y  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  |    |
@@ -12,7 +12,7 @@
 | Очень интересно, ничего не понятно, или про доступность как декомпозицию сложности  |  [Андрей Евдоков](../../speakers/Андрей%20Евдоков.md)  | [:notebook:](https://t.me/tbilisi_js_chat/12128)   |
 | Что вообще такое этот ваш UX  |  [Илона Саркисова](../../speakers/Илона%20Саркисова.md)  | [:notebook:](https://www.figma.com/proto/oKCSJK2wLRj0sPmGqzRjRA/Decks?page-id=1289%3A121&node-id=1289-122&scaling=scale-down-width&content-scaling=fixed&t=ayjbhNiupwdVPazx-1)   |
 | Доступность на примере индустрии глиняных горшков  |  [Филипп Барановский](../../speakers/Филипп%20Барановский.md)  | [:notebook:](https://t.me/tbilisi_js_chat/12147)   |
-## JS Meetup 3 - 2024 Oct 31 [:movie_camera:](https://youtu.be/utg5WbzlN80)
+## Tbilisi JS Meetup 3 - 2024 Oct 31 [:movie_camera:](https://youtu.be/utg5WbzlN80)
 | | | |
 | --- | :---: | --- |
 | Дебаг производительности страницы средствами браузера  |  [Никита Дубко](../../speakers/Никита%20Дубко.md)  | [:notebook:](https://t.me/tbilisi_js_chat/11885)   |
@@ -32,13 +32,13 @@
 | Почему вы должны писать  |  [Михаил Покрыщенко](../../speakers/Михаил%20Покрыщенко.md)  |    |
 | Tests you don&#39;t need  |  [Александр Комлев](../../speakers/Александр%20Комлев.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
 | Зачем мы делаем сообщества?  |  [Александр Коротаев](../../speakers/Александр%20Коротаев.md)  | [:notebook:](https://lekzd.ru/presentations/communities_tbilisijs/)   |
-## JS Meetup 2 - 2024 Mar 28 
+## Tbilisi JS Meetup 2 - 2024 Mar 28 
 | | | |
 | --- | :---: | --- |
 | Динамические окружения во фронтенде  |  [Иракли Бахтадзе](../../speakers/Иракли%20Бахтадзе.md)  |    |
 | Современные UI kit  |  [Александр Попов](../../speakers/Александр%20Попов.md)  |    |
 | Еще один способ локализовывать вебсайты  |  [Дмитрий Шмаков](../../speakers/Дмитрий%20Шмаков.md)  |    |
-## JS Meetup 1 - 2024 Jan 25 [:movie_camera:](https://youtu.be/ZO3aPtUoB6Y)
+## Tbilisi JS Meetup 1 - 2024 Jan 25 [:movie_camera:](https://youtu.be/ZO3aPtUoB6Y)
 | | | |
 | --- | :---: | --- |
 | Зачем фронтенд в биотехе?  |  [Мария Кондаурова](../../speakers/Мария%20Кондаурова.md)  | [:notebook:](https://t.me/tbilisi_js_chat/2373)   |
