@@ -74,10 +74,18 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
     const groupedBySpeakers = new Map()
 
     for (const speaker of speakers) {
-        const talksData = speakersData.filter(speakerData => speakerData.speaker === speaker).reduce((acc, speakerData) => {
+        const speakerData = speakersData
+            .filter(speakerData => speakerData.speaker === speaker)
+            .sort((a, b) => a.talk.date - b.talk.date)
+
+        const talksData = speakerData.reduce((acc, speakerData) => {
             const talkName = formatTalkName(speakerData.talk.name)
 
-            const foundTalkIndex = acc.findIndex(x => x.talk === talkName)
+            let foundTalkIndex = acc.findIndex(x => x.talk === talkName)
+            if (foundTalkIndex === -1 && speakerData.talk.altName) {
+                const oldTalkName = formatTalkName(speakerData.talk.altName)
+                foundTalkIndex = acc.findIndex(x => x.talk === oldTalkName)
+            }
 
             if (foundTalkIndex === -1) {
                 acc.push({
@@ -124,7 +132,7 @@ function getGroupedDataBySpeakers(speakers, speakersData) {
             return b.events[0].isoFirstDate.localeCompare(a.events[0].isoFirstDate)
         })
 
-        groupedBySpeakers.set(speaker,{
+        groupedBySpeakers.set(speaker, {
             speaker,
             talks: talksData,
         })
@@ -199,7 +207,7 @@ async function writeBySpeakers(groupedDataBySpeakers) {
     return groupedBySpeakers
 }
 
-async function generateMd (events) {
+async function generateMd(events) {
     const speakers = new Set()
     const speakersData = []
 

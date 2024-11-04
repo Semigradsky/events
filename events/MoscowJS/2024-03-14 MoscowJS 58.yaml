@@ -1,0 +1,20 @@
+name: MoscowJS 58
+date: 2024-03-14
+videos: https://www.youtube.com/playlist?list=PL95OM-7UObpEKl70B9siDk3Hqih-IABlT
+talks:
+  - name: Наши круги ада со State Managers
+    speaker: Анастасия Постойко
+    video: https://youtu.be/485hiH2CcLg
+    presentation: 
+  - name: Как написать свой linter
+    speaker: Евгений Войтенко
+    video: https://youtu.be/XHjd0qcuN2U
+    presentation: 
+  - name: Темная сторона NextJS
+    speaker: Александр Моргунов
+    video: https://youtu.be/1RHxFJhLrQk
+    presentation: 
+  - name: UI-кит на веб-компонентах
+    speaker: Роман Троицкий
+    video: https://youtu.be/yWvjj4EuV98
+    presentation: 

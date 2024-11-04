@@ -1,0 +1,20 @@
+name: MoscowJS 57
+date: 2024-02-08
+videos: https://youtu.be/tXK1YstcJ-M
+talks:
+  - name: "Встречи 1-1: как разблокировать весь потенциал встреч с лидом"
+    speaker: Соня Волынская
+    video: 
+    presentation: 
+  - name: "Сквозь время: ускоряем автотесты"
+    speaker: Всеволод Золотов
+    video: 
+    presentation: 
+  - name: Генерация http-клиента с помощью swagger-codegen
+    speaker: Павел Гонзалес
+    video: 
+    presentation: 
+  - name: Мы не зависим от бэкенда
+    speaker: Дмитрий Смирнов
+    video: 
+    presentation: 

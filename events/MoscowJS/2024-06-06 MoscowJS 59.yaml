@@ -1,0 +1,20 @@
+name: MoscowJS 59
+date: 2024-06-06
+videos: https://youtu.be/XIHCtCwF0hk
+talks:
+  - name: Как внедрить тарифные ограничения с нуля и не утонуть в рефакторинге
+    speaker: Артём Герус
+    video: 
+    presentation: 
+  - name: Рефакторинг как процесс, который работает сам по себе
+    speaker: Константин Логиновских
+    video: 
+    presentation: 
+  - name: effector - проектирование бизнес-логики
+    speaker: Андрей Поповский
+    video: 
+    presentation: 
+  - name: И снова микрофронтенды
+    speaker: Герман Панов
+    video: 
+    presentation: 

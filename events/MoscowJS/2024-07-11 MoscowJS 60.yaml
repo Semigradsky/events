@@ -1,0 +1,20 @@
+name: MoscowJS 60
+date: 2024-07-11
+videos: 
+talks:
+  - name: Базовые принципы самопомощи, или почему опытному разработчику нужно стать наставником
+    speaker: Тимур Гафиулин
+    video: https://youtu.be/VSVHXEuoYbI
+    presentation: 
+  - name: Профилирование памяти и снапшоты
+    speaker: Владислав Молоцило
+    video: https://youtu.be/3QZ7z3Ylq0w
+    presentation: 
+  - name: Фронтенд без границ
+    speaker: Виктор Щеглов
+    video: https://youtu.be/GwDLZ8cmKz8
+    presentation: 
+  - name: От Mobile First к PWA, или почему стоит вернуться к основам веб-разработки
+    speaker: Зар Захаров
+    video: https://youtu.be/K40lEzsFh0A
+    presentation: 

@@ -1,0 +1,20 @@
+name: MoscowJS 56
+date: 2023-11-23
+videos: https://www.youtube.com/playlist?list=PL95OM-7UObpHU6tIs-Vz-YIHteoOtguo2
+talks:
+  - name: Монады или зачем программисту математика
+    speaker: Александр Князев
+    video: https://youtu.be/SXu4b3C8wtI
+    presentation: 
+  - name: Реализация DDD в рамках NestJS
+    speaker: Сердар Садыков
+    video: https://youtu.be/HQw0hmtPYBM
+    presentation: 
+  - name: Nextjs 13 Server Actions - Святой Грааль Fullstack-разработки
+    speaker: Арсалан Рабданов
+    video: https://youtu.be/4kMJ9vXd55U
+    presentation: 
+  - name: "Стартап, который смог: как изменить подход к разработке, не сбавляя темп"
+    speaker: Евгений Кучерявый
+    video: https://youtu.be/m4ZkM_P44HI
+    presentation: 

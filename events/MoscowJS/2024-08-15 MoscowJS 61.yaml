@@ -1,0 +1,20 @@
+name: MoscowJS 61
+date: 2024-08-15
+videos: https://youtu.be/CxzRuIayiVk
+talks:
+  - name: Next.js навсегда? Год использования в проекте
+    speaker: Владимир Морозов
+    video: https://www.youtube.com/watch?v=CxzRuIayiVk&t=415s
+    presentation: https://drive.google.com/file/d/1m_NzZwF68MyFnalhfCI3whbiQoOUhgdD/view?usp=drive_link
+  - name: Готовим бизнес-логику с умом
+    speaker: Никита Карпенко
+    video: https://www.youtube.com/watch?v=CxzRuIayiVk&t=1885s
+    presentation: https://drive.google.com/file/d/1QjJg8IqY_UfXpQozGdUgbpMCX709HzML/view?usp=drive_link
+  - name: "Безопасность веб-приложений: поиск и решение проблем"
+    speaker: Алексей Мацеха
+    video: https://www.youtube.com/watch?v=CxzRuIayiVk&t=4665s
+    presentation: https://drive.google.com/file/d/1Ra5t_Uh4ZlmQtayqOWeStLrAZmACCzbA/view?usp=drive_link
+  - name: Гайд по краже всех секретов
+    speaker: Александр Князев
+    video: https://www.youtube.com/watch?v=CxzRuIayiVk&t=6304s
+    presentation: https://drive.google.com/file/d/1onttOKZtRa4uTR09N3qFR_nWDMv9M13b/view?usp=drive_link
