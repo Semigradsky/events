@@ -28,12 +28,33 @@
 | Проблемы внедрения изменений  |  [Сергей Попов](speakers/Сергей%20Попов.md)  |    |
 | Лидерство без иллюзий: обратная сторона карьерного роста  |  [Андрей Смирнов](speakers/Андрей%20Смирнов.md)  |    |
 | [Дискуссия] Как ИИ и инструмент Copilot поменяют разработку  |  [Евгений Смирнов](speakers/Евгений%20Смирнов.md)  |    |
+## MoscowJS 61 - Aug 15 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;CxzRuIayiVk)
+| | | |
+| --- | :---: | --- |
+| [Next.js навсегда? Год использования в проекте](https://www.youtube.com/watch?v=CxzRuIayiVk&t=415s)  |  [Владимир Морозов](speakers/Владимир%20Морозов.md)  | [:notebook:](https://drive.google.com/file/d/1m_NzZwF68MyFnalhfCI3whbiQoOUhgdD/view?usp=drive_link)   |
+| [Готовим бизнес-логику с умом](https://www.youtube.com/watch?v=CxzRuIayiVk&t=1885s)  |  [Никита Карпенко](speakers/Никита%20Карпенко.md)  | [:notebook:](https://drive.google.com/file/d/1QjJg8IqY_UfXpQozGdUgbpMCX709HzML/view?usp=drive_link)   |
+| [Безопасность веб-приложений: поиск и решение проблем](https://www.youtube.com/watch?v=CxzRuIayiVk&t=4665s)  |  [Алексей Мацеха](speakers/Алексей%20Мацеха.md)  | [:notebook:](https://drive.google.com/file/d/1Ra5t_Uh4ZlmQtayqOWeStLrAZmACCzbA/view?usp=drive_link)   |
+| [Гайд по краже всех секретов](https://www.youtube.com/watch?v=CxzRuIayiVk&t=6304s)  |  [Александр Князев](speakers/Александр%20Князев.md)  | [:notebook:](https://drive.google.com/file/d/1onttOKZtRa4uTR09N3qFR_nWDMv9M13b/view?usp=drive_link)   |
+## MoscowJS 60 - Jul 11 
+| | | |
+| --- | :---: | --- |
+| [Базовые принципы самопомощи, или почему опытному разработчику нужно стать наставником](https://youtu.be/VSVHXEuoYbI)  |  [Тимур Гафиулин](speakers/Тимур%20Гафиулин.md)  |    |
+| [Профилирование памяти и снапшоты](https://youtu.be/3QZ7z3Ylq0w)  |  [Владислав Молоцило](speakers/Владислав%20Молоцило.md)  |    |
+| [Фронтенд без границ](https://youtu.be/GwDLZ8cmKz8)  |  [Виктор Щеглов](speakers/Виктор%20Щеглов.md)  |    |
+| [От Mobile First к PWA, или почему стоит вернуться к основам веб-разработки](https://youtu.be/K40lEzsFh0A)  |  [Зар Захаров](speakers/Зар%20Захаров.md)  |    |
+## MoscowJS 59 - Jun 06 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;XIHCtCwF0hk)
+| | | |
+| --- | :---: | --- |
+| Как внедрить тарифные ограничения с нуля и не утонуть в рефакторинге  |  [Артём Герус](speakers/Артём%20Герус.md)  |    |
+| Рефакторинг как процесс, который работает сам по себе  |  [Константин Логиновских](speakers/Константин%20Логиновских.md)  |    |
+| effector - проектирование бизнес-логики  |  [Андрей Поповский](speakers/Андрей%20Поповский.md)  |    |
+| И снова микрофронтенды  |  [Герман Панов](speakers/Герман%20Панов.md)  |    |
 ## Tbilisi JS Conf 2024 - Jun 01 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;gDP3WcDVImo)
 | | | |
 | --- | :---: | --- |
 | Dial &quot;M&quot; for Maintainability. Part 2  |  [Азат Давлятшин](speakers/Азат%20Давлятшин.md)  | [:notebook:](https://azatdavliatshin.github.io/dial-m-for-maintainability-part-2/)   |
 | Storybook: The Cookbook  |  [Марсель Ахметшин](speakers/Марсель%20Ахметшин.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
-| Frontend across borders  |  [Виктор Щеглов](speakers/Виктор%20Щеглов.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
+| Фронтенд без границ  |  [Виктор Щеглов](speakers/Виктор%20Щеглов.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
 | Как развиваться через наставничество?  |  [Тимур Гафиулин](speakers/Тимур%20Гафиулин.md)  | [:notebook:](https://tgafiulin.github.io/tbilisijs_2024/)   |
 | По ту сторону фронтенда  |  [Михаил Гарбузов](speakers/Михаил%20Гарбузов.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
 | Serverless. Твоя первая лямбда  |  [Филипп Барановский](speakers/Филипп%20Барановский.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
@@ -54,6 +75,20 @@
 | [Переход на TypeScript: плавные перемены и непредвиденные сложности](https://www.youtube.com/watch?v=6y0cvX-r-iU)  |  [Рустам Султанбеков](speakers/Рустам%20Султанбеков.md)  |    |
 | [Генерируй – типизируй](https://www.youtube.com/watch?v=v46kHYqg5cM)  |  [Александр Серов](speakers/Александр%20Серов.md)  |    |
 | [Generics – Что? Где? Когда?](https://www.youtube.com/watch?v=UG3lRk4REWA)  |  [Тёма Сенюков](speakers/Тёма%20Сенюков.md)  |    |
+## MoscowJS 58 - Mar 14 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL95OM-7UObpEKl70B9siDk3Hqih-IABlT)
+| | | |
+| --- | :---: | --- |
+| [Наши круги ада со State Managers](https://youtu.be/485hiH2CcLg)  |  [Анастасия Постойко](speakers/Анастасия%20Постойко.md)  |    |
+| [Как написать свой linter](https://youtu.be/XHjd0qcuN2U)  |  [Евгений Войтенко](speakers/Евгений%20Войтенко.md)  |    |
+| [Темная сторона NextJS](https://youtu.be/1RHxFJhLrQk)  |  [Александр Моргунов](speakers/Александр%20Моргунов.md)  |    |
+| [UI-кит на веб-компонентах](https://youtu.be/yWvjj4EuV98)  |  [Роман Троицкий](speakers/Роман%20Троицкий.md)  |    |
+## MoscowJS 57 - Feb 08 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;tXK1YstcJ-M)
+| | | |
+| --- | :---: | --- |
+| Встречи 1-1: как разблокировать весь потенциал встреч с лидом  |  [Соня Волынская](speakers/Соня%20Волынская.md)  |    |
+| Сквозь время: ускоряем автотесты  |  [Всеволод Золотов](speakers/Всеволод%20Золотов.md)  |    |
+| Генерация http-клиента с помощью swagger-codegen  |  [Павел Гонзалес](speakers/Павел%20Гонзалес.md)  |    |
+| Мы не зависим от бэкенда  |  [Дмитрий Смирнов](speakers/Дмитрий%20Смирнов.md)  |    |
 ## Tbilisi JS Meetup 1 - Jan 25 [:movie_camera:](https:&#x2F;&#x2F;youtu.be&#x2F;ZO3aPtUoB6Y)
 | | | |
 | --- | :---: | --- |

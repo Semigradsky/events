@@ -3,6 +3,51 @@
 
 # MoscowJS
 
+## MoscowJS 62 - 2024 Nov 21 
+| | | |
+| --- | :---: | --- |
+## MoscowJS 61 - 2024 Aug 15 [:movie_camera:](https://youtu.be/CxzRuIayiVk)
+| | | |
+| --- | :---: | --- |
+| [Next.js навсегда? Год использования в проекте](https://www.youtube.com/watch?v=CxzRuIayiVk&t=415s)  |  [Владимир Морозов](../../speakers/Владимир%20Морозов.md)  | [:notebook:](https://drive.google.com/file/d/1m_NzZwF68MyFnalhfCI3whbiQoOUhgdD/view?usp=drive_link)   |
+| [Готовим бизнес-логику с умом](https://www.youtube.com/watch?v=CxzRuIayiVk&t=1885s)  |  [Никита Карпенко](../../speakers/Никита%20Карпенко.md)  | [:notebook:](https://drive.google.com/file/d/1QjJg8IqY_UfXpQozGdUgbpMCX709HzML/view?usp=drive_link)   |
+| [Безопасность веб-приложений: поиск и решение проблем](https://www.youtube.com/watch?v=CxzRuIayiVk&t=4665s)  |  [Алексей Мацеха](../../speakers/Алексей%20Мацеха.md)  | [:notebook:](https://drive.google.com/file/d/1Ra5t_Uh4ZlmQtayqOWeStLrAZmACCzbA/view?usp=drive_link)   |
+| [Гайд по краже всех секретов](https://www.youtube.com/watch?v=CxzRuIayiVk&t=6304s)  |  [Александр Князев](../../speakers/Александр%20Князев.md)  | [:notebook:](https://drive.google.com/file/d/1onttOKZtRa4uTR09N3qFR_nWDMv9M13b/view?usp=drive_link)   |
+## MoscowJS 60 - 2024 Jul 11 
+| | | |
+| --- | :---: | --- |
+| [Базовые принципы самопомощи, или почему опытному разработчику нужно стать наставником](https://youtu.be/VSVHXEuoYbI)  |  [Тимур Гафиулин](../../speakers/Тимур%20Гафиулин.md)  |    |
+| [Профилирование памяти и снапшоты](https://youtu.be/3QZ7z3Ylq0w)  |  [Владислав Молоцило](../../speakers/Владислав%20Молоцило.md)  |    |
+| [Фронтенд без границ](https://youtu.be/GwDLZ8cmKz8)  |  [Виктор Щеглов](../../speakers/Виктор%20Щеглов.md)  |    |
+| [От Mobile First к PWA, или почему стоит вернуться к основам веб-разработки](https://youtu.be/K40lEzsFh0A)  |  [Зар Захаров](../../speakers/Зар%20Захаров.md)  |    |
+## MoscowJS 59 - 2024 Jun 06 [:movie_camera:](https://youtu.be/XIHCtCwF0hk)
+| | | |
+| --- | :---: | --- |
+| Как внедрить тарифные ограничения с нуля и не утонуть в рефакторинге  |  [Артём Герус](../../speakers/Артём%20Герус.md)  |    |
+| Рефакторинг как процесс, который работает сам по себе  |  [Константин Логиновских](../../speakers/Константин%20Логиновских.md)  |    |
+| effector - проектирование бизнес-логики  |  [Андрей Поповский](../../speakers/Андрей%20Поповский.md)  |    |
+| И снова микрофронтенды  |  [Герман Панов](../../speakers/Герман%20Панов.md)  |    |
+## MoscowJS 58 - 2024 Mar 14 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpEKl70B9siDk3Hqih-IABlT)
+| | | |
+| --- | :---: | --- |
+| [Наши круги ада со State Managers](https://youtu.be/485hiH2CcLg)  |  [Анастасия Постойко](../../speakers/Анастасия%20Постойко.md)  |    |
+| [Как написать свой linter](https://youtu.be/XHjd0qcuN2U)  |  [Евгений Войтенко](../../speakers/Евгений%20Войтенко.md)  |    |
+| [Темная сторона NextJS](https://youtu.be/1RHxFJhLrQk)  |  [Александр Моргунов](../../speakers/Александр%20Моргунов.md)  |    |
+| [UI-кит на веб-компонентах](https://youtu.be/yWvjj4EuV98)  |  [Роман Троицкий](../../speakers/Роман%20Троицкий.md)  |    |
+## MoscowJS 57 - 2024 Feb 08 [:movie_camera:](https://youtu.be/tXK1YstcJ-M)
+| | | |
+| --- | :---: | --- |
+| Встречи 1-1: как разблокировать весь потенциал встреч с лидом  |  [Соня Волынская](../../speakers/Соня%20Волынская.md)  |    |
+| Сквозь время: ускоряем автотесты  |  [Всеволод Золотов](../../speakers/Всеволод%20Золотов.md)  |    |
+| Генерация http-клиента с помощью swagger-codegen  |  [Павел Гонзалес](../../speakers/Павел%20Гонзалес.md)  |    |
+| Мы не зависим от бэкенда  |  [Дмитрий Смирнов](../../speakers/Дмитрий%20Смирнов.md)  |    |
+## MoscowJS 56 - 2023 Nov 23 [:movie_camera:](https://www.youtube.com/playlist?list=PL95OM-7UObpHU6tIs-Vz-YIHteoOtguo2)
+| | | |
+| --- | :---: | --- |
+| [Монады или зачем программисту математика](https://youtu.be/SXu4b3C8wtI)  |  [Александр Князев](../../speakers/Александр%20Князев.md)  |    |
+| [Реализация DDD в рамках NestJS](https://youtu.be/HQw0hmtPYBM)  |  [Сердар Садыков](../../speakers/Сердар%20Садыков.md)  |    |
+| [Nextjs 13 Server Actions - Святой Грааль Fullstack-разработки](https://youtu.be/4kMJ9vXd55U)  |  [Арсалан Рабданов](../../speakers/Арсалан%20Рабданов.md)  |    |
+| [Стартап, который смог: как изменить подход к разработке, не сбавляя темп](https://youtu.be/m4ZkM_P44HI)  |  [Евгений Кучерявый](../../speakers/Евгений%20Кучерявый.md)  |    |
 ## MoscowJS 55 - 2023 Oct 05 [:movie_camera:](https://youtube.com/live/hpkKWUKF2bM)
 | | | |
 | --- | :---: | --- |

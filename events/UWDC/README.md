@@ -12,7 +12,7 @@
 | [Будет ли существовать профессия веб-разработчика в будущем?](https://youtu.be/0Ol1XHk3vsA)  |  [Дарья Пушкарская](../../speakers/Дарья%20Пушкарская.md)  |    |
 | [Сложная работа со сложными данными — SQL(подробные) запросы для JSON](https://youtu.be/o99D6zgi31g)  |  [Алексей Охрименко](../../speakers/Алексей%20Охрименко.md)  |    |
 | [От компонентов к архитектуре](https://youtu.be/o99D6zgi31g)  |  [Иван Никишкин](../../speakers/Иван%20Никишкин.md)  |    |
-| [From bloody to sweety enterprise](https://youtu.be/o99D6zgi31g)  |  [Зар Захаров](../../speakers/Зар%20Захаров.md)  |    |
+| [From bloody to sweety Enterprise](https://youtu.be/o99D6zgi31g)  |  [Зар Захаров](../../speakers/Зар%20Захаров.md)  |    |
 ## UWDC 2018 - 2018 May 19 [:movie_camera:](https://www.youtube.com/watch?v=B5RQTND0RtA)
 | | | |
 | --- | :---: | --- |

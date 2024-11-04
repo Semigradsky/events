@@ -24,7 +24,7 @@
 | --- | :---: | --- |
 | Dial &quot;M&quot; for Maintainability. Part 2  |  [Азат Давлятшин](../../speakers/Азат%20Давлятшин.md)  | [:notebook:](https://azatdavliatshin.github.io/dial-m-for-maintainability-part-2/)   |
 | Storybook: The Cookbook  |  [Марсель Ахметшин](../../speakers/Марсель%20Ахметшин.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
-| Frontend across borders  |  [Виктор Щеглов](../../speakers/Виктор%20Щеглов.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
+| Фронтенд без границ  |  [Виктор Щеглов](../../speakers/Виктор%20Щеглов.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
 | Как развиваться через наставничество?  |  [Тимур Гафиулин](../../speakers/Тимур%20Гафиулин.md)  | [:notebook:](https://tgafiulin.github.io/tbilisijs_2024/)   |
 | По ту сторону фронтенда  |  [Михаил Гарбузов](../../speakers/Михаил%20Гарбузов.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
 | Serverless. Твоя первая лямбда  |  [Филипп Барановский](../../speakers/Филипп%20Барановский.md)  | [:notebook:](https://t.me/tbilisi_js_chat/6952)   |
